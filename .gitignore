@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.ipynb_checkpoints/
+
+# Raw images and metadata (regenerate with src/download_data.py)
+data/raw/*
+!data/raw/.gitkeep
+
+# Model weights (regenerate with src/baseline_*.py and src/train_bert.py)
+models/**/*
+!models/**/.gitkeep
+!models/**/*.json
+!models/**/*.md
+
+# Caches
+.cache/
+hf_cache/
+*.log
+.streamlit/secrets.toml
+.DS_Store
+Thumbs.db

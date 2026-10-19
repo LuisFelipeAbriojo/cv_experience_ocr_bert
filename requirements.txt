@@ -1,0 +1,27 @@
+# Python 3.11. Install PaddlePaddle first from the PaddlePaddle index (CPU build):
+#   pip install paddlepaddle==3.2.0 -i https://www.paddlepaddle.org.cn/packages/stable/cpu/
+# and PyTorch CPU from the PyTorch index:
+#   pip install torch==2.14.1 --index-url https://download.pytorch.org/whl/cpu
+# then: pip install -r requirements.txt
+paddlepaddle==3.2.0
+paddleocr==3.3.1
+paddlex==3.3.13
+torch==2.14.1
+transformers==5.20.1
+accelerate==1.15.0
+datasets==5.1.0
+huggingface_hub==1.33.0
+sentence-transformers==6.1.0
+scikit-learn==1.9.1
+scipy==1.17.1
+numpy==2.4.1
+pandas==3.0.6
+pyarrow==26.0.0
+joblib==1.6.0
+matplotlib==3.11.2
+seaborn==0.13.2
+streamlit==1.66.0
+jiwer==4.0.0
+pymupdf==2.0
+pillow==12.1.0
+opencv-contrib-python==4.10.0.84
