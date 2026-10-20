@@ -1,0 +1,112 @@
+{
+  "lines": [
+    {
+      "text": "LAUREN PALMER",
+      "score": 0.9865731596946716,
+      "box": [
+        117,
+        91,
+        407,
+        122
+      ]
+    },
+    {
+      "text": "AL, USA | +1-702-251-8959 | lauren.palmer@example.com",
+      "score": 0.9799485802650452,
+      "box": [
+        118,
+        152,
+        664,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9997258186340332,
+      "box": [
+        117,
+        243,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Bright Oaks School, 2019.102022.07",
+      "score": 0.9939620494842529,
+      "box": [
+        117,
+        289,
+        816,
+        316
+      ]
+    },
+    {
+      "text": "- Implemented classroom seating plans",
+      "score": 0.9997129440307617,
+      "box": [
+        125,
+        313,
+        493,
+        342
+      ]
+    },
+    {
+      "text": "- Delivered structured lectures",
+      "score": 0.9710479974746704,
+      "box": [
+        127,
+        339,
+        409,
+        365
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999387264251709,
+      "box": [
+        117,
+        404,
+        268,
+        431
+      ]
+    },
+    {
+      "text": "Bachelor's, Learning Foundations, Brookhaven University, 2007",
+      "score": 0.9914131760597229,
+      "box": [
+        116,
+        448,
+        706,
+        475
+      ]
+    },
+    {
+      "text": "• Completed coursework in classroom structure planning",
+      "score": 0.9880418181419373,
+      "box": [
+        132,
+        474,
+        655,
+        500
+      ]
+    },
+    {
+      "text": "Completed coursework in basic curriculum planning",
+      "score": 0.9929183721542358,
+      "box": [
+        132,
+        497,
+        626,
+        527
+      ]
+    }
+  ],
+  "seconds": 2.108206400182098,
+  "id": "00392",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

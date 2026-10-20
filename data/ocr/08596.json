@@ -1,0 +1,202 @@
+{
+  "lines": [
+    {
+      "text": "SHAWANA FLETCHER",
+      "score": 0.9921101927757263,
+      "box": [
+        117,
+        92,
+        479,
+        122
+      ]
+    },
+    {
+      "text": "CA, USA | +1-351-972-6862 | shawana.fletcher@example.com",
+      "score": 0.9854342341423035,
+      "box": [
+        117,
+        150,
+        698,
+        177
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.998914897441864,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Integrity Ledger Services Group, 2020.02—2023.01",
+      "score": 0.9855626821517944,
+      "box": [
+        115,
+        288,
+        793,
+        318
+      ]
+    },
+    {
+      "text": "- Managed financial compliance programs",
+      "score": 0.9949307441711426,
+      "box": [
+        127,
+        314,
+        518,
+        344
+      ]
+    },
+    {
+      "text": "- Designed financial modeling standards",
+      "score": 0.997960090637207,
+      "box": [
+        127,
+        340,
+        501,
+        369
+      ]
+    },
+    {
+      "text": "Accountants Auditors, CoreLedger Financial Group, 2017.032020.02",
+      "score": 0.9943537712097168,
+      "box": [
+        117,
+        382,
+        764,
+        409
+      ]
+    },
+    {
+      "text": "- Led audit programs",
+      "score": 0.9888302683830261,
+      "box": [
+        127,
+        409,
+        322,
+        433
+      ]
+    },
+    {
+      "text": "- Established accounting policies",
+      "score": 0.9685048460960388,
+      "box": [
+        126,
+        430,
+        434,
+        458
+      ]
+    },
+    {
+      "text": "Accountants Auditors, FairBalance Financial Group, 2014.04—2017.03",
+      "score": 0.9869219660758972,
+      "box": [
+        116,
+        471,
+        765,
+        499
+      ]
+    },
+    {
+      "text": "- Implemented accounting procedures",
+      "score": 0.999592125415802,
+      "box": [
+        125,
+        497,
+        481,
+        526
+      ]
+    },
+    {
+      "text": "- Prepared financial statements",
+      "score": 0.9993836879730225,
+      "box": [
+        128,
+        521,
+        420,
+        551
+      ]
+    },
+    {
+      "text": "Accountants Auditors, ClearLedger Advisors, 2009.04—2012.03",
+      "score": 0.9910021424293518,
+      "box": [
+        118,
+        566,
+        700,
+        590
+      ]
+    },
+    {
+      "text": "- Recorded cash receipts",
+      "score": 0.9734606146812439,
+      "box": [
+        127,
+        592,
+        362,
+        616
+      ]
+    },
+    {
+      "text": "- Entered financial data into accounting systems",
+      "score": 0.9717152714729309,
+      "box": [
+        125,
+        613,
+        573,
+        642
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999275207519531,
+      "box": [
+        117,
+        681,
+        266,
+        705
+      ]
+    },
+    {
+      "text": "Bachelor's, Managerial Accounting, Fairfield University, 2004",
+      "score": 0.9860919117927551,
+      "box": [
+        117,
+        726,
+        679,
+        749
+      ]
+    },
+    {
+      "text": "• Completed coursework in audit risk modeling",
+      "score": 0.9821431636810303,
+      "box": [
+        134,
+        751,
+        564,
+        775
+      ]
+    },
+    {
+      "text": "•Completed coursework in intermediate accounting",
+      "score": 0.9815719723701477,
+      "box": [
+        132,
+        772,
+        611,
+        802
+      ]
+    }
+  ],
+  "seconds": 2.850629599764943,
+  "id": "08596",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

@@ -1,0 +1,172 @@
+{
+  "lines": [
+    {
+      "text": "MARGARET REILLY",
+      "score": 0.9998156428337097,
+      "box": [
+        117,
+        89,
+        438,
+        122
+      ]
+    },
+    {
+      "text": "GA, USA | +1-395-472-8435 | margaret.reilly@example.com",
+      "score": 0.9962464570999146,
+      "box": [
+        116,
+        150,
+        674,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9985249042510986,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, ClearView Health Center, 2021.01—2023.01",
+      "score": 0.9887051582336426,
+      "box": [
+        116,
+        288,
+        704,
+        316
+      ]
+    },
+    {
+      "text": "- Developed medication management policies",
+      "score": 0.993960976600647,
+      "box": [
+        127,
+        315,
+        551,
+        341
+      ]
+    },
+    {
+      "text": "- Managed nursing unit operations",
+      "score": 0.9809536933898926,
+      "box": [
+        127,
+        339,
+        447,
+        368
+      ]
+    },
+    {
+      "text": "Registered Nurses, WellWay Health Group, 2018.122021.01",
+      "score": 0.9973822236061096,
+      "box": [
+        118,
+        383,
+        686,
+        407
+      ]
+    },
+    {
+      "text": "- Managed pain control plans",
+      "score": 0.9992207288742065,
+      "box": [
+        124,
+        406,
+        400,
+        434
+      ]
+    },
+    {
+      "text": "- Managed patient referrals",
+      "score": 0.9756392240524292,
+      "box": [
+        126,
+        430,
+        381,
+        460
+      ]
+    },
+    {
+      "text": "Registered Nurses, Sunrise Health Services, 2016.112018.12",
+      "score": 0.9998307824134827,
+      "box": [
+        117,
+        472,
+        701,
+        499
+      ]
+    },
+    {
+      "text": "- Prepared intravenous solutions",
+      "score": 0.9816708564758301,
+      "box": [
+        126,
+        496,
+        432,
+        525
+      ]
+    },
+    {
+      "text": "- Prepared medication trays",
+      "score": 0.9814456105232239,
+      "box": [
+        128,
+        520,
+        387,
+        552
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999334812164307,
+      "box": [
+        118,
+        588,
+        266,
+        612
+      ]
+    },
+    {
+      "text": "Bachelor's, Geriatric Care, Amber Hills University, 2016",
+      "score": 0.9716433882713318,
+      "box": [
+        116,
+        630,
+        630,
+        659
+      ]
+    },
+    {
+      "text": "•Studied principles of nursing assessment",
+      "score": 0.9909601211547852,
+      "box": [
+        128,
+        657,
+        530,
+        685
+      ]
+    },
+    {
+      "text": "•Studied fundamentals of nursing communication",
+      "score": 0.9845127463340759,
+      "box": [
+        129,
+        681,
+        594,
+        709
+      ]
+    }
+  ],
+  "seconds": 2.4533274001441896,
+  "id": "14772",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

@@ -1,0 +1,202 @@
+{
+  "lines": [
+    {
+      "text": "ERIN PORTILLO",
+      "score": 0.9967367649078369,
+      "box": [
+        118,
+        91,
+        375,
+        122
+      ]
+    },
+    {
+      "text": "MA, USA | +1-339-200-4655 | erin.portillo@example.com",
+      "score": 0.989719808101654,
+      "box": [
+        115,
+        150,
+        645,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9956267476081848,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, SafePath Nursing, 2019.09—2023.01",
+      "score": 0.9822081327438354,
+      "box": [
+        116,
+        288,
+        638,
+        318
+      ]
+    },
+    {
+      "text": "- Developed nursing policy frameworks",
+      "score": 0.9964062571525574,
+      "box": [
+        125,
+        314,
+        489,
+        343
+      ]
+    },
+    {
+      "text": "- Led nursing process audits",
+      "score": 0.9797219634056091,
+      "box": [
+        127,
+        340,
+        392,
+        369
+      ]
+    },
+    {
+      "text": "Registered Nurses, Harmony Way Health, 2016.052019.09",
+      "score": 0.9912588596343994,
+      "box": [
+        117,
+        382,
+        674,
+        409
+      ]
+    },
+    {
+      "text": "- Managed care delivery innovation",
+      "score": 0.9918715357780457,
+      "box": [
+        125,
+        406,
+        455,
+        435
+      ]
+    },
+    {
+      "text": "- Implemented clinical decision support systems",
+      "score": 0.9822158813476562,
+      "box": [
+        128,
+        432,
+        572,
+        459
+      ]
+    },
+    {
+      "text": "Registered Nurses, Caring Spring Nursing, 2012.12—2016.05",
+      "score": 0.9850419759750366,
+      "box": [
+        116,
+        471,
+        681,
+        499
+      ]
+    },
+    {
+      "text": "- Provided end-of-life care",
+      "score": 0.9906368255615234,
+      "box": [
+        126,
+        497,
+        371,
+        523
+      ]
+    },
+    {
+      "text": "- Coordinated interdisciplinary care",
+      "score": 0.9939930438995361,
+      "box": [
+        127,
+        522,
+        453,
+        549
+      ]
+    },
+    {
+      "text": "Registered Nurses, NewPath Nursing Group, 2007.04—2010.09",
+      "score": 0.9743326902389526,
+      "box": [
+        116,
+        564,
+        702,
+        592
+      ]
+    },
+    {
+      "text": "- Performed blood glucose testing",
+      "score": 0.9946838021278381,
+      "box": [
+        125,
+        589,
+        443,
+        618
+      ]
+    },
+    {
+      "text": "- Prepared medication trays",
+      "score": 0.9924214482307434,
+      "box": [
+        126,
+        613,
+        387,
+        645
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999188184738159,
+      "box": [
+        117,
+        681,
+        266,
+        705
+      ]
+    },
+    {
+      "text": "Some college (no degree), Health Care, Brookside University, 2006",
+      "score": 0.9842174053192139,
+      "box": [
+        116,
+        723,
+        740,
+        750
+      ]
+    },
+    {
+      "text": "• Studied principles of infection control",
+      "score": 0.9849251508712769,
+      "box": [
+        132,
+        750,
+        489,
+        774
+      ]
+    },
+    {
+      "text": "Completed coursework in patient counseling",
+      "score": 0.9997487664222717,
+      "box": [
+        132,
+        772,
+        558,
+        801
+      ]
+    }
+  ],
+  "seconds": 14.264563899952918,
+  "id": "25835",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

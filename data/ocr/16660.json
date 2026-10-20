@@ -1,0 +1,112 @@
+{
+  "lines": [
+    {
+      "text": "ALEXANDRA GLENN",
+      "score": 0.9998629689216614,
+      "box": [
+        118,
+        91,
+        453,
+        122
+      ]
+    },
+    {
+      "text": "GA, USA | +1-978-464-7145 | alexandra.glenn@example.com",
+      "score": 0.9926093816757202,
+      "box": [
+        117,
+        150,
+        690,
+        177
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9997701048851013,
+      "box": [
+        117,
+        243,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Registered Nurses, LifeSpring Medical Services, 2022.02—2023.01",
+      "score": 0.9881847500801086,
+      "box": [
+        114,
+        286,
+        733,
+        317
+      ]
+    },
+    {
+      "text": "- Monitored patient intake and output",
+      "score": 0.9776636362075806,
+      "box": [
+        126,
+        314,
+        470,
+        341
+      ]
+    },
+    {
+      "text": "- Collected laboratory specimens",
+      "score": 0.9816354513168335,
+      "box": [
+        127,
+        338,
+        435,
+        368
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9942192435264587,
+      "box": [
+        116,
+        404,
+        268,
+        431
+      ]
+    },
+    {
+      "text": "Associate's degree, Health Care, Cloverfield University, 2023",
+      "score": 0.9937827587127686,
+      "box": [
+        116,
+        447,
+        682,
+        474
+      ]
+    },
+    {
+      "text": "Studied fundamentals of data privacy",
+      "score": 0.9992348551750183,
+      "box": [
+        128,
+        470,
+        492,
+        502
+      ]
+    },
+    {
+      "text": "Studied principles of hospice care",
+      "score": 0.9954640865325928,
+      "box": [
+        131,
+        497,
+        462,
+        526
+      ]
+    }
+  ],
+  "seconds": 1.9681746000424027,
+  "id": "16660",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

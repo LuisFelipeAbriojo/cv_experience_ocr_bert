@@ -1,0 +1,152 @@
+{
+  "lines": [
+    {
+      "text": "WILFREDO KAUR",
+      "score": 0.9805955290794373,
+      "box": [
+        118,
+        91,
+        402,
+        122
+      ]
+    },
+    {
+      "text": "DE, USA | +1-265-241-9946 | wilfredo.kaur@example.com",
+      "score": 0.9719905257225037,
+      "box": [
+        116,
+        150,
+        659,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9987983107566833,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Cloudridge Tech, 2021.03—2023.01",
+      "score": 0.9816951155662537,
+      "box": [
+        116,
+        290,
+        648,
+        317
+      ]
+    },
+    {
+      "text": "- Designed data storage strategies",
+      "score": 0.9687461853027344,
+      "box": [
+        126,
+        314,
+        449,
+        343
+      ]
+    },
+    {
+      "text": "- Designed logging infrastructures",
+      "score": 0.9909161925315857,
+      "box": [
+        128,
+        340,
+        443,
+        368
+      ]
+    },
+    {
+      "text": "Software Developers, Corefield Software, 2019.052021.03",
+      "score": 0.9894282221794128,
+      "box": [
+        117,
+        382,
+        668,
+        409
+      ]
+    },
+    {
+      "text": "- Assisted with container setup",
+      "score": 0.9891083240509033,
+      "box": [
+        125,
+        405,
+        413,
+        435
+      ]
+    },
+    {
+      "text": "- Wrote configuration parsers",
+      "score": 0.9662927985191345,
+      "box": [
+        126,
+        430,
+        399,
+        461
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.99993896484375,
+      "box": [
+        116,
+        494,
+        267,
+        521
+      ]
+    },
+    {
+      "text": "Master's, Sunnyside University, 2021",
+      "score": 0.9883525371551514,
+      "box": [
+        116,
+        542,
+        457,
+        566
+      ]
+    },
+    {
+      "text": "Bachelor's, Elm Ridge University, 2019",
+      "score": 0.9850559234619141,
+      "box": [
+        117,
+        567,
+        478,
+        591
+      ]
+    },
+    {
+      "text": "•Studied fundamentals of programming paradigms",
+      "score": 0.9861459136009216,
+      "box": [
+        128,
+        591,
+        607,
+        619
+      ]
+    },
+    {
+      "text": "Completed coursework in performance benchmarking",
+      "score": 0.9913161396980286,
+      "box": [
+        129,
+        613,
+        643,
+        645
+      ]
+    }
+  ],
+  "seconds": 2.203639800194651,
+  "id": "11501",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

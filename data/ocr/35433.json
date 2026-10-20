@@ -1,0 +1,202 @@
+{
+  "lines": [
+    {
+      "text": "ANIL FLOWERS",
+      "score": 0.9997878670692444,
+      "box": [
+        117,
+        91,
+        372,
+        122
+      ]
+    },
+    {
+      "text": "NY, USA | +1-481-530-5692 | anil.flowers@example.com",
+      "score": 0.9836995005607605,
+      "box": [
+        114,
+        150,
+        645,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9989565014839172,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, ClearCount Services, 2019.12—2023.01",
+      "score": 0.9911760687828064,
+      "box": [
+        115,
+        288,
+        690,
+        316
+      ]
+    },
+    {
+      "text": "- Established compliance monitoring systems",
+      "score": 0.9853348731994629,
+      "box": [
+        127,
+        316,
+        546,
+        342
+      ]
+    },
+    {
+      "text": "- Developed accounting innovation plans",
+      "score": 0.993536114692688,
+      "box": [
+        128,
+        341,
+        505,
+        367
+      ]
+    },
+    {
+      "text": "Accountants Auditors, SteadyBooks Group, 2016.112019.12",
+      "score": 0.9909870624542236,
+      "box": [
+        116,
+        381,
+        689,
+        409
+      ]
+    },
+    {
+      "text": "- Developed long-term financial strategies",
+      "score": 0.9870220422744751,
+      "box": [
+        125,
+        407,
+        515,
+        435
+      ]
+    },
+    {
+      "text": "- Established tax compliance frameworks",
+      "score": 0.9892796277999878,
+      "box": [
+        127,
+        432,
+        508,
+        458
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Reliable Accounts Advisors, 2013.09—2016.11",
+      "score": 0.9837474226951599,
+      "box": [
+        115,
+        471,
+        753,
+        499
+      ]
+    },
+    {
+      "text": "- Reviewed financial systems data",
+      "score": 0.999754011631012,
+      "box": [
+        125,
+        497,
+        447,
+        525
+      ]
+    },
+    {
+      "text": "- Analyzed financial trends",
+      "score": 0.9795258045196533,
+      "box": [
+        127,
+        521,
+        375,
+        550
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Reliable Ledger Advisors, 2010.072013.09",
+      "score": 0.9985135793685913,
+      "box": [
+        117,
+        566,
+        732,
+        590
+      ]
+    },
+    {
+      "text": "- Prepared audit confirmations",
+      "score": 0.9658743739128113,
+      "box": [
+        127,
+        592,
+        410,
+        616
+      ]
+    },
+    {
+      "text": "- Prepared aging reports",
+      "score": 0.9855989813804626,
+      "box": [
+        127,
+        614,
+        357,
+        644
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9998937249183655,
+      "box": [
+        117,
+        681,
+        266,
+        705
+      ]
+    },
+    {
+      "text": "Bachelor's, Taxation, Crestview University, 2014",
+      "score": 0.9905166625976562,
+      "box": [
+        115,
+        723,
+        566,
+        750
+      ]
+    },
+    {
+      "text": "•Studied fundamentals of break-even analysis",
+      "score": 0.9939048290252686,
+      "box": [
+        131,
+        749,
+        564,
+        774
+      ]
+    },
+    {
+      "text": "Completed coursework in intermediate accounting",
+      "score": 0.9840459823608398,
+      "box": [
+        132,
+        772,
+        611,
+        801
+      ]
+    }
+  ],
+  "seconds": 3.07133030006662,
+  "id": "35433",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

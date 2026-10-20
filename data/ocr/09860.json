@@ -1,0 +1,132 @@
+{
+  "lines": [
+    {
+      "text": "MARK FARMER",
+      "score": 0.9998210668563843,
+      "box": [
+        117,
+        91,
+        371,
+        122
+      ]
+    },
+    {
+      "text": "CO, USA | +1-909-285-9390 | mark.farmer@example.com",
+      "score": 0.9865344166755676,
+      "box": [
+        118,
+        152,
+        655,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9997566342353821,
+      "box": [
+        117,
+        243,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Software Developers, Clearpath Systems, 2021.06-2023.01",
+      "score": 0.9859502911567688,
+      "box": [
+        114,
+        287,
+        673,
+        318
+      ]
+    },
+    {
+      "text": "- Led backend platform development",
+      "score": 0.9904366731643677,
+      "box": [
+        127,
+        314,
+        470,
+        342
+      ]
+    },
+    {
+      "text": "- Designed configuration management systems",
+      "score": 0.9856105446815491,
+      "box": [
+        128,
+        339,
+        566,
+        369
+      ]
+    },
+    {
+      "text": "Software Developers, Openfield Tech, 2017.062019.01",
+      "score": 0.9818702936172485,
+      "box": [
+        115,
+        379,
+        638,
+        410
+      ]
+    },
+    {
+      "text": "- Wrote command-line tools",
+      "score": 0.983862578868866,
+      "box": [
+        127,
+        408,
+        386,
+        432
+      ]
+    },
+    {
+      "text": "- Implemented error handling logic",
+      "score": 0.9946894645690918,
+      "box": [
+        127,
+        430,
+        447,
+        458
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999004006385803,
+      "box": [
+        116,
+        494,
+        266,
+        521
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Morningstar High School, 2002",
+      "score": 0.9976209402084351,
+      "box": [
+        115,
+        539,
+        664,
+        567
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of profiling tools",
+      "score": 0.9855190515518188,
+      "box": [
+        132,
+        566,
+        502,
+        592
+      ]
+    }
+  ],
+  "seconds": 2.336485699750483,
+  "id": "09860",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

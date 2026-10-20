@@ -1,0 +1,162 @@
+{
+  "lines": [
+    {
+      "text": "CARLOS MCDONALD",
+      "score": 0.9903329610824585,
+      "box": [
+        117,
+        90,
+        461,
+        122
+      ]
+    },
+    {
+      "text": "PA, USA | +1-364-268-1254 | carlos.mcdonald@example.com",
+      "score": 0.9762013554573059,
+      "box": [
+        115,
+        149,
+        692,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9988835453987122,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, TrueWay Builders, 2020.04—2023.01",
+      "score": 0.9833322763442993,
+      "box": [
+        116,
+        288,
+        673,
+        316
+      ]
+    },
+    {
+      "text": "- Established material procurement strategies",
+      "score": 0.9809604287147522,
+      "box": [
+        126,
+        314,
+        549,
+        341
+      ]
+    },
+    {
+      "text": "- Managed workforce allocation",
+      "score": 0.9710847735404968,
+      "box": [
+        127,
+        340,
+        420,
+        366
+      ]
+    },
+    {
+      "text": "Construction Laborers, PrimeFrame Co., 2016.012018.11",
+      "score": 0.9887282252311707,
+      "box": [
+        118,
+        383,
+        660,
+        407
+      ]
+    },
+    {
+      "text": "- Managed waste disposal operations",
+      "score": 0.9884886741638184,
+      "box": [
+        127,
+        409,
+        474,
+        433
+      ]
+    },
+    {
+      "text": "- Installed drywall systems",
+      "score": 0.9936577081680298,
+      "box": [
+        127,
+        431,
+        374,
+        461
+      ]
+    },
+    {
+      "text": "Construction Laborers, FirmTrack Construction, 2012.042015.02",
+      "score": 0.9971562623977661,
+      "box": [
+        118,
+        473,
+        725,
+        497
+      ]
+    },
+    {
+      "text": "- Installed temporary supports",
+      "score": 0.9863560199737549,
+      "box": [
+        125,
+        497,
+        407,
+        525
+      ]
+    },
+    {
+      "text": "- Installed basic formwork",
+      "score": 0.9975513815879822,
+      "box": [
+        129,
+        523,
+        367,
+        547
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999366402626038,
+      "box": [
+        118,
+        588,
+        266,
+        612
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Construction Supervision, Heritage High School, 2001",
+      "score": 0.9995766878128052,
+      "box": [
+        117,
+        632,
+        873,
+        659
+      ]
+    },
+    {
+      "text": "• Completed coursework in construction waste management",
+      "score": 0.9875940680503845,
+      "box": [
+        133,
+        659,
+        691,
+        682
+      ]
+    }
+  ],
+  "seconds": 2.4832941996864974,
+  "id": "45756",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

@@ -1,0 +1,122 @@
+{
+  "lines": [
+    {
+      "text": "AUSTIN YU",
+      "score": 0.9997615814208984,
+      "box": [
+        117,
+        91,
+        298,
+        122
+      ]
+    },
+    {
+      "text": "WA, USA | +1-238-473-6754 | austin.yu@example.com",
+      "score": 0.9887285232543945,
+      "box": [
+        116,
+        149,
+        629,
+        177
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9997713565826416,
+      "box": [
+        117,
+        243,
+        315,
+        270
+      ]
+    },
+    {
+      "text": "Software Developers, Softfield Tech, 2020.12—2023.01",
+      "score": 0.9948602914810181,
+      "box": [
+        117,
+        289,
+        621,
+        313
+      ]
+    },
+    {
+      "text": "- Reviewed code changes for syntax and logic issues",
+      "score": 0.9938855767250061,
+      "box": [
+        125,
+        314,
+        621,
+        342
+      ]
+    },
+    {
+      "text": "- Assisted with system documentation",
+      "score": 0.9963750839233398,
+      "box": [
+        128,
+        340,
+        478,
+        365
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999421238899231,
+      "box": [
+        116,
+        404,
+        268,
+        431
+      ]
+    },
+    {
+      "text": "Master's, Foxwood University, 2020",
+      "score": 0.9844136238098145,
+      "box": [
+        115,
+        447,
+        448,
+        474
+      ]
+    },
+    {
+      "text": "Bachelor's, Havenwood University, 2018",
+      "score": 0.985844075679779,
+      "box": [
+        116,
+        473,
+        492,
+        498
+      ]
+    },
+    {
+      "text": "•Completed coursework in parallel computing",
+      "score": 0.9712526798248291,
+      "box": [
+        130,
+        497,
+        560,
+        527
+      ]
+    },
+    {
+      "text": "Completed coursework in microprocessor programming",
+      "score": 0.9998152852058411,
+      "box": [
+        132,
+        521,
+        660,
+        552
+      ]
+    }
+  ],
+  "seconds": 1.9886916000396013,
+  "id": "59611",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

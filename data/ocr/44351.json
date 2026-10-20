@@ -1,0 +1,172 @@
+{
+  "lines": [
+    {
+      "text": "JACOB POPE",
+      "score": 0.9996857643127441,
+      "box": [
+        116,
+        90,
+        337,
+        121
+      ]
+    },
+    {
+      "text": "OR, USA | +1-610-977-4561 | jacob.pope@example.com",
+      "score": 0.9843286275863647,
+      "box": [
+        118,
+        152,
+        644,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9990050792694092,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, HardRock Construction, 2020.08—2023.01",
+      "score": 0.9920005202293396,
+      "box": [
+        117,
+        289,
+        722,
+        314
+      ]
+    },
+    {
+      "text": "- Directed construction audits",
+      "score": 0.9988888502120972,
+      "box": [
+        126,
+        314,
+        399,
+        340
+      ]
+    },
+    {
+      "text": "- Implemented quality control systems",
+      "score": 0.9877463579177856,
+      "box": [
+        127,
+        339,
+        479,
+        368
+      ]
+    },
+    {
+      "text": "Construction Laborers, SolidWorks Builders, 2018.02—2020.08",
+      "score": 0.9943751692771912,
+      "box": [
+        117,
+        381,
+        695,
+        406
+      ]
+    },
+    {
+      "text": "- Conducted material inspections",
+      "score": 0.9991873502731323,
+      "box": [
+        125,
+        407,
+        434,
+        432
+      ]
+    },
+    {
+      "text": "- Laid flooring materials",
+      "score": 0.9837802052497864,
+      "box": [
+        127,
+        430,
+        347,
+        460
+      ]
+    },
+    {
+      "text": "Construction Laborers, SolidWay Construction, 2015.082018.02",
+      "score": 0.998142421245575,
+      "box": [
+        118,
+        473,
+        720,
+        497
+      ]
+    },
+    {
+      "text": "- Assisted with framing support",
+      "score": 0.9880021810531616,
+      "box": [
+        126,
+        498,
+        417,
+        524
+      ]
+    },
+    {
+      "text": "- Maintained tool storage areas",
+      "score": 0.9991825222969055,
+      "box": [
+        127,
+        520,
+        419,
+        551
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999377727508545,
+      "box": [
+        118,
+        588,
+        266,
+        612
+      ]
+    },
+    {
+      "text": "Bachelor's, Mechanical Technology, Clearbrook University, 2020",
+      "score": 0.9902835488319397,
+      "box": [
+        115,
+        630,
+        714,
+        658
+      ]
+    },
+    {
+      "text": "•Studied fundamentals of trench safety",
+      "score": 0.9868517518043518,
+      "box": [
+        129,
+        656,
+        498,
+        683
+      ]
+    },
+    {
+      "text": "•Completed coursework in basic concrete reinforcement",
+      "score": 0.9923449158668518,
+      "box": [
+        133,
+        681,
+        658,
+        706
+      ]
+    }
+  ],
+  "seconds": 2.5875634998083115,
+  "id": "44351",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

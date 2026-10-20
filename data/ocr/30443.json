@@ -1,0 +1,112 @@
+{
+  "lines": [
+    {
+      "text": "LUCIA OCONNELL",
+      "score": 0.9603360891342163,
+      "box": [
+        117,
+        89,
+        417,
+        123
+      ]
+    },
+    {
+      "text": "MO, USA | +1-484-887-1661 | lucia.oconnell@example.com",
+      "score": 0.9928306341171265,
+      "box": [
+        115,
+        149,
+        672,
+        177
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9993492960929871,
+      "box": [
+        116,
+        243,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Software Developers, Netline Labs, 2019.03—2020.06",
+      "score": 0.9854093790054321,
+      "box": [
+        115,
+        287,
+        614,
+        315
+      ]
+    },
+    {
+      "text": "- Wrote utility scripts",
+      "score": 0.9983969330787659,
+      "box": [
+        124,
+        312,
+        319,
+        342
+      ]
+    },
+    {
+      "text": "- Implemented validation logic",
+      "score": 0.9914883971214294,
+      "box": [
+        126,
+        338,
+        406,
+        367
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9998572468757629,
+      "box": [
+        116,
+        404,
+        269,
+        431
+      ]
+    },
+    {
+      "text": "Bachelor's, Redfield University, 2011",
+      "score": 0.98633873462677,
+      "box": [
+        116,
+        447,
+        459,
+        474
+      ]
+    },
+    {
+      "text": "•Completed coursework in SQL and data querying",
+      "score": 0.9687565565109253,
+      "box": [
+        130,
+        471,
+        605,
+        501
+      ]
+    },
+    {
+      "text": "•Completed coursework in tree data structures",
+      "score": 0.9939829707145691,
+      "box": [
+        134,
+        499,
+        571,
+        523
+      ]
+    }
+  ],
+  "seconds": 1.8189290002919734,
+  "id": "30443",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

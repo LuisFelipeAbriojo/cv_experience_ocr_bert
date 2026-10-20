@@ -1,0 +1,132 @@
+{
+  "lines": [
+    {
+      "text": "EVAN GRAHAM",
+      "score": 0.9918689727783203,
+      "box": [
+        118,
+        91,
+        370,
+        122
+      ]
+    },
+    {
+      "text": "GA, USA | +1-520-411-9061 | evan.graham@example.com",
+      "score": 0.9602406024932861,
+      "box": [
+        118,
+        152,
+        663,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9991734027862549,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, FirmPoint Construction, 2019.12—2022.06",
+      "score": 0.9894951581954956,
+      "box": [
+        118,
+        290,
+        720,
+        314
+      ]
+    },
+    {
+      "text": "- Reviewed and approved project plans",
+      "score": 0.9935911893844604,
+      "box": [
+        125,
+        314,
+        492,
+        343
+      ]
+    },
+    {
+      "text": "- Coordinated large-scale material logistics",
+      "score": 0.9857959747314453,
+      "box": [
+        127,
+        339,
+        524,
+        368
+      ]
+    },
+    {
+      "text": "Construction Laborers, HardTrack Builders, 2016.072019.01",
+      "score": 0.9913414120674133,
+      "box": [
+        119,
+        383,
+        685,
+        407
+      ]
+    },
+    {
+      "text": "- Assembled prefabricated components",
+      "score": 0.9983066916465759,
+      "box": [
+        125,
+        406,
+        493,
+        434
+      ]
+    },
+    {
+      "text": "- Stacked and organized construction supplies",
+      "score": 0.9855040907859802,
+      "box": [
+        128,
+        434,
+        556,
+        457
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999361038208008,
+      "box": [
+        117,
+        494,
+        267,
+        521
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Construction Planning, Brightfield Ridge High School, 2008",
+      "score": 0.9980579614639282,
+      "box": [
+        118,
+        541,
+        921,
+        565
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of job site inspections",
+      "score": 0.9803314805030823,
+      "box": [
+        132,
+        566,
+        555,
+        592
+      ]
+    }
+  ],
+  "seconds": 2.4141460000537336,
+  "id": "14835",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

@@ -1,0 +1,182 @@
+{
+  "lines": [
+    {
+      "text": "KIEFER PITTMAN",
+      "score": 0.9920293092727661,
+      "box": [
+        117,
+        91,
+        398,
+        121
+      ]
+    },
+    {
+      "text": "PA, USA | +1-429-873-6367 | kiefer.pittman@example.com",
+      "score": 0.9920047521591187,
+      "box": [
+        116,
+        149,
+        664,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.997002899646759,
+      "box": [
+        117,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, CornerBuild Group, 2020.12—2023.01",
+      "score": 0.9948205351829529,
+      "box": [
+        117,
+        290,
+        680,
+        315
+      ]
+    },
+    {
+      "text": "- Implemented safety compliance strategies",
+      "score": 0.9767520427703857,
+      "box": [
+        125,
+        314,
+        533,
+        343
+      ]
+    },
+    {
+      "text": "- Designed construction staging plans",
+      "score": 0.9978411793708801,
+      "box": [
+        127,
+        339,
+        478,
+        369
+      ]
+    },
+    {
+      "text": "Construction Laborers, SafeRise Construction, 2018.102020.12",
+      "score": 0.9902395606040955,
+      "box": [
+        118,
+        383,
+        716,
+        407
+      ]
+    },
+    {
+      "text": "- Installed roofing materials",
+      "score": 0.9925828576087952,
+      "box": [
+        125,
+        408,
+        379,
+        432
+      ]
+    },
+    {
+      "text": "- Installed electrical wiring supports",
+      "score": 0.9882234334945679,
+      "box": [
+        127,
+        432,
+        453,
+        457
+      ]
+    },
+    {
+      "text": "Construction Laborers, SteadyRise Contractors, 2016.082018.10",
+      "score": 0.9984983205795288,
+      "box": [
+        118,
+        473,
+        729,
+        497
+      ]
+    },
+    {
+      "text": "- Maintained cleanliness of work areas",
+      "score": 0.9873636960983276,
+      "box": [
+        126,
+        497,
+        485,
+        523
+      ]
+    },
+    {
+      "text": "- Marked measurements on materials",
+      "score": 0.9751949310302734,
+      "box": [
+        128,
+        521,
+        475,
+        547
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999955415725708,
+      "box": [
+        118,
+        588,
+        266,
+        612
+      ]
+    },
+    {
+      "text": "Master's, Construction Materials, Greenfield University, 2019",
+      "score": 0.9967573881149292,
+      "box": [
+        117,
+        633,
+        679,
+        657
+      ]
+    },
+    {
+      "text": "Bachelor's, Structural Technology, Clearview University, 2017",
+      "score": 0.9849275946617126,
+      "box": [
+        115,
+        656,
+        688,
+        684
+      ]
+    },
+    {
+      "text": "• Studied principles of load-bearing structures",
+      "score": 0.9898684620857239,
+      "box": [
+        131,
+        684,
+        556,
+        708
+      ]
+    },
+    {
+      "text": "•Studied fundamentals of job site documentation",
+      "score": 0.997218906879425,
+      "box": [
+        131,
+        707,
+        588,
+        732
+      ]
+    }
+  ],
+  "seconds": 2.8342809001915157,
+  "id": "45056",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

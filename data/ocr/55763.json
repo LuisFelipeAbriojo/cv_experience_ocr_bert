@@ -1,0 +1,142 @@
+{
+  "lines": [
+    {
+      "text": "KAYLA MCINTYRE",
+      "score": 0.9693521857261658,
+      "box": [
+        117,
+        91,
+        416,
+        121
+      ]
+    },
+    {
+      "text": "UT, USA | +1-291-349-4690 | kayla.mcintyre@example.com",
+      "score": 0.9959852695465088,
+      "box": [
+        116,
+        150,
+        673,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9991037249565125,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Growing Minds Academy, 2020.06—2023.01",
+      "score": 0.9932875037193298,
+      "box": [
+        116,
+        288,
+        869,
+        318
+      ]
+    },
+    {
+      "text": "- Designed assessment systems",
+      "score": 0.9919940829277039,
+      "box": [
+        125,
+        314,
+        431,
+        343
+      ]
+    },
+    {
+      "text": "- Implemented performance evaluation systems",
+      "score": 0.9989999532699585,
+      "box": [
+        127,
+        339,
+        569,
+        368
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Open Valley School, 2017.102020.06",
+      "score": 0.9816630482673645,
+      "box": [
+        117,
+        382,
+        821,
+        409
+      ]
+    },
+    {
+      "text": "- Delivered structured lessons in reading and mathematics",
+      "score": 0.9907882213592529,
+      "box": [
+        124,
+        406,
+        668,
+        434
+      ]
+    },
+    {
+      "text": "- Administered learning games",
+      "score": 0.9843835234642029,
+      "box": [
+        128,
+        431,
+        414,
+        457
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999317526817322,
+      "box": [
+        117,
+        494,
+        268,
+        521
+      ]
+    },
+    {
+      "text": "Some college (no degree), Academic Support Studies, Greenfield Ridge University, 2018",
+      "score": 0.9938234090805054,
+      "box": [
+        117,
+        540,
+        939,
+        567
+      ]
+    },
+    {
+      "text": "• Completed coursework in educational measurement",
+      "score": 0.9790059328079224,
+      "box": [
+        131,
+        566,
+        631,
+        591
+      ]
+    },
+    {
+      "text": "• Completed coursework in lesson delivery techniques",
+      "score": 0.9928541779518127,
+      "box": [
+        132,
+        591,
+        633,
+        617
+      ]
+    }
+  ],
+  "seconds": 2.6047072000801563,
+  "id": "55763",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

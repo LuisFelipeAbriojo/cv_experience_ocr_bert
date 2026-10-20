@@ -1,0 +1,142 @@
+{
+  "lines": [
+    {
+      "text": "LARA STEPHENS",
+      "score": 0.9617569446563721,
+      "box": [
+        116,
+        89,
+        400,
+        122
+      ]
+    },
+    {
+      "text": "PA, USA | +1-707-273-5199 | lara.stephens@example.com",
+      "score": 0.9686512351036072,
+      "box": [
+        117,
+        152,
+        664,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9990682601928711,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Little Oak Learning, 2021.07-2023.01",
+      "score": 0.978787362575531,
+      "box": [
+        115,
+        287,
+        812,
+        318
+      ]
+    },
+    {
+      "text": "- Established instructional review cycles",
+      "score": 0.995315432548523,
+      "box": [
+        125,
+        314,
+        498,
+        342
+      ]
+    },
+    {
+      "text": "- Implemented instructional improvement programs",
+      "score": 0.9805309176445007,
+      "box": [
+        126,
+        339,
+        601,
+        369
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Open Door School, 2019.12—2021.07",
+      "score": 0.9885954856872559,
+      "box": [
+        117,
+        382,
+        810,
+        409
+      ]
+    },
+    {
+      "text": "- Monitored independent work sessions",
+      "score": 0.9950103759765625,
+      "box": [
+        126,
+        407,
+        493,
+        433
+      ]
+    },
+    {
+      "text": "- Assisted with small group instruction activities",
+      "score": 0.9861102104187012,
+      "box": [
+        127,
+        431,
+        565,
+        458
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999457597732544,
+      "box": [
+        117,
+        494,
+        267,
+        521
+      ]
+    },
+    {
+      "text": "Bachelor's, Educational Readiness, Stonefield University, 2017",
+      "score": 0.9891160130500793,
+      "box": [
+        115,
+        539,
+        700,
+        567
+      ]
+    },
+    {
+      "text": "•Completed coursework in classroom structure planning",
+      "score": 0.979824423789978,
+      "box": [
+        130,
+        565,
+        656,
+        594
+      ]
+    },
+    {
+      "text": "•Studied fundamentals of instructional goal setting",
+      "score": 0.9879345893859863,
+      "box": [
+        131,
+        588,
+        605,
+        619
+      ]
+    }
+  ],
+  "seconds": 2.733947199769318,
+  "id": "47013",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

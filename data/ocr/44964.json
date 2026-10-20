@@ -1,0 +1,172 @@
+{
+  "lines": [
+    {
+      "text": "ANA WILCOX",
+      "score": 0.9966812133789062,
+      "box": [
+        117,
+        90,
+        334,
+        121
+      ]
+    },
+    {
+      "text": "PA, USA | +1-998-881-1674 | ana.wilcox@example.com",
+      "score": 0.9866639971733093,
+      "box": [
+        115,
+        149,
+        637,
+        177
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9991753101348877,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, FairBalance Accounting, 2020.08—2023.01",
+      "score": 0.9906708598136902,
+      "box": [
+        115,
+        288,
+        719,
+        316
+      ]
+    },
+    {
+      "text": "- Established financial quality controls",
+      "score": 0.9641586542129517,
+      "box": [
+        126,
+        314,
+        478,
+        342
+      ]
+    },
+    {
+      "text": "- Designed financial accountability systems",
+      "score": 0.9964094758033752,
+      "box": [
+        127,
+        339,
+        528,
+        368
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Accurate Balance Group, 2018.03—2020.08",
+      "score": 0.9852806925773621,
+      "box": [
+        117,
+        382,
+        728,
+        409
+      ]
+    },
+    {
+      "text": "- Prepared management reports",
+      "score": 0.9997382164001465,
+      "box": [
+        126,
+        408,
+        427,
+        433
+      ]
+    },
+    {
+      "text": "- Managed accounts payable cycles",
+      "score": 0.9974938631057739,
+      "box": [
+        127,
+        430,
+        461,
+        459
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Balanced Ledger Co., 2015.09—2018.03",
+      "score": 0.9911857843399048,
+      "box": [
+        116,
+        470,
+        697,
+        498
+      ]
+    },
+    {
+      "text": "- Performed data validation checks",
+      "score": 0.9980555176734924,
+      "box": [
+        126,
+        497,
+        450,
+        522
+      ]
+    },
+    {
+      "text": "- Prepared basic financial reports",
+      "score": 0.9964376091957092,
+      "box": [
+        128,
+        520,
+        436,
+        551
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999517798423767,
+      "box": [
+        118,
+        588,
+        266,
+        612
+      ]
+    },
+    {
+      "text": "Bachelor's, Government Accounting, Clearwood University, 2019",
+      "score": 0.9937441349029541,
+      "box": [
+        115,
+        629,
+        718,
+        660
+      ]
+    },
+    {
+      "text": "•Completed coursework in nonprofit financial management",
+      "score": 0.9774102568626404,
+      "box": [
+        130,
+        656,
+        682,
+        684
+      ]
+    },
+    {
+      "text": "•Completed coursework in spreadsheet applications",
+      "score": 0.9820460677146912,
+      "box": [
+        132,
+        680,
+        622,
+        710
+      ]
+    }
+  ],
+  "seconds": 2.482612299732864,
+  "id": "44964",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

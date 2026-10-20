@@ -1,0 +1,182 @@
+{
+  "lines": [
+    {
+      "text": "GRANT DUKE",
+      "score": 0.9996811151504517,
+      "box": [
+        118,
+        91,
+        341,
+        122
+      ]
+    },
+    {
+      "text": "MA, USA | +1-879-675-7616 | grant.duke@example.com",
+      "score": 0.9859874248504639,
+      "box": [
+        117,
+        152,
+        640,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9991355538368225,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Learning Minds School, 2020.09—2023.01",
+      "score": 0.9937150478363037,
+      "box": [
+        115,
+        287,
+        850,
+        318
+      ]
+    },
+    {
+      "text": "- Led instructional design reviews",
+      "score": 0.9859052300453186,
+      "box": [
+        127,
+        315,
+        438,
+        341
+      ]
+    },
+    {
+      "text": "- Designed systemic intervention models",
+      "score": 0.9980428814888,
+      "box": [
+        127,
+        339,
+        505,
+        367
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Learning Stone Academy, 2018.05—2020.09",
+      "score": 0.9894276261329651,
+      "box": [
+        117,
+        382,
+        872,
+        409
+      ]
+    },
+    {
+      "text": "- Organized instructional schedules",
+      "score": 0.988342821598053,
+      "box": [
+        127,
+        409,
+        455,
+        432
+      ]
+    },
+    {
+      "text": "- Coordinated group learning activities",
+      "score": 0.9877398610115051,
+      "box": [
+        128,
+        434,
+        480,
+        457
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Learning Stone Academy, 2016.012018.05",
+      "score": 0.9899086356163025,
+      "box": [
+        118,
+        473,
+        872,
+        497
+      ]
+    },
+    {
+      "text": "- Supervised classroom activities",
+      "score": 0.9991483092308044,
+      "box": [
+        126,
+        498,
+        434,
+        523
+      ]
+    },
+    {
+      "text": "- Provided math drill exercises",
+      "score": 0.9756943583488464,
+      "box": [
+        127,
+        521,
+        410,
+        548
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999425411224365,
+      "box": [
+        118,
+        588,
+        266,
+        612
+      ]
+    },
+    {
+      "text": "Master's, Family and Child Studies, Elmwood University, 2014",
+      "score": 0.9751043915748596,
+      "box": [
+        117,
+        633,
+        692,
+        657
+      ]
+    },
+    {
+      "text": "Bachelor's, Educational Readiness, Westview University, 2012",
+      "score": 0.9967676997184753,
+      "box": [
+        116,
+        657,
+        697,
+        684
+      ]
+    },
+    {
+      "text": "• Completed coursework in foundational pedagogy practices",
+      "score": 0.9876407384872437,
+      "box": [
+        133,
+        684,
+        690,
+        708
+      ]
+    },
+    {
+      "text": "Completed coursework in student evaluation basics",
+      "score": 0.9899755716323853,
+      "box": [
+        132,
+        705,
+        626,
+        735
+      ]
+    }
+  ],
+  "seconds": 3.0756681002676487,
+  "id": "26296",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

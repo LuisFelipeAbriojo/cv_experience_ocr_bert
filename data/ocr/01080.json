@@ -1,0 +1,142 @@
+{
+  "lines": [
+    {
+      "text": "KAYLA WANG",
+      "score": 0.9998024106025696,
+      "box": [
+        117,
+        91,
+        348,
+        122
+      ]
+    },
+    {
+      "text": "AZ, USA | +1-726-356-8169 | kayla.wang@example.com",
+      "score": 0.9946951866149902,
+      "box": [
+        118,
+        152,
+        642,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9994655251502991,
+      "box": [
+        116,
+        243,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Registered Nurses, WellHands Health Group, 2020.102022.05",
+      "score": 0.9989869594573975,
+      "box": [
+        116,
+        288,
+        707,
+        316
+      ]
+    },
+    {
+      "text": "- Established quality assurance systems",
+      "score": 0.9956576228141785,
+      "box": [
+        126,
+        314,
+        501,
+        342
+      ]
+    },
+    {
+      "text": "- Established clinical best practices",
+      "score": 0.9996336102485657,
+      "box": [
+        126,
+        339,
+        453,
+        367
+      ]
+    },
+    {
+      "text": "Registered Nurses, Helping Life Nursing, 2018.04—2019.12",
+      "score": 0.9869963526725769,
+      "box": [
+        116,
+        380,
+        665,
+        408
+      ]
+    },
+    {
+      "text": "- Recorded shift handoff notes",
+      "score": 0.9807215929031372,
+      "box": [
+        125,
+        406,
+        410,
+        432
+      ]
+    },
+    {
+      "text": "- Assisted with physical therapy exercises",
+      "score": 0.9909862279891968,
+      "box": [
+        127,
+        431,
+        514,
+        458
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999385476112366,
+      "box": [
+        117,
+        494,
+        267,
+        521
+      ]
+    },
+    {
+      "text": "Bachelor's, Medical Assisting, Elmwood University, 2016",
+      "score": 0.9796672463417053,
+      "box": [
+        116,
+        539,
+        640,
+        567
+      ]
+    },
+    {
+      "text": "• Completed coursework in maternal health nursing",
+      "score": 0.9848322868347168,
+      "box": [
+        132,
+        566,
+        608,
+        592
+      ]
+    },
+    {
+      "text": "• Completed coursework in electronic health records",
+      "score": 0.9870612025260925,
+      "box": [
+        133,
+        592,
+        617,
+        615
+      ]
+    }
+  ],
+  "seconds": 2.460788100026548,
+  "id": "01080",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

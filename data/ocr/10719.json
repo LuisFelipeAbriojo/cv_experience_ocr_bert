@@ -1,0 +1,172 @@
+{
+  "lines": [
+    {
+      "text": "KERRY WOLF",
+      "score": 0.9996590614318848,
+      "box": [
+        117,
+        91,
+        343,
+        121
+      ]
+    },
+    {
+      "text": "CO, USA | +1-958-253-1104 | kerry.wolf@example.com",
+      "score": 0.9924096465110779,
+      "box": [
+        116,
+        150,
+        632,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9981793761253357,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, WorkRight Contractors, 2020.05—2023.01",
+      "score": 0.9855314493179321,
+      "box": [
+        116,
+        288,
+        718,
+        316
+      ]
+    },
+    {
+      "text": "- Directed construction audits",
+      "score": 0.9870861768722534,
+      "box": [
+        125,
+        315,
+        399,
+        340
+      ]
+    },
+    {
+      "text": "- Directed site construction operations",
+      "score": 0.9930945038795471,
+      "box": [
+        125,
+        338,
+        480,
+        368
+      ]
+    },
+    {
+      "text": "Construction Laborers, Allied Build Services, 2017.082020.05",
+      "score": 0.9973379969596863,
+      "box": [
+        118,
+        383,
+        697,
+        407
+      ]
+    },
+    {
+      "text": "- Installed drywall systems",
+      "score": 0.9985387325286865,
+      "box": [
+        126,
+        409,
+        374,
+        433
+      ]
+    },
+    {
+      "text": "- Coordinated material deliveries",
+      "score": 0.9860504865646362,
+      "box": [
+        127,
+        431,
+        430,
+        456
+      ]
+    },
+    {
+      "text": "Construction Laborers, FirmLine Construction, 2012.102015.07",
+      "score": 0.9967402219772339,
+      "box": [
+        118,
+        473,
+        711,
+        497
+      ]
+    },
+    {
+      "text": "- Prepared scaffolding platforms",
+      "score": 0.9996674656867981,
+      "box": [
+        125,
+        496,
+        427,
+        526
+      ]
+    },
+    {
+      "text": "- Transported waste materials",
+      "score": 0.9888991713523865,
+      "box": [
+        127,
+        520,
+        406,
+        551
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999033808708191,
+      "box": [
+        117,
+        587,
+        267,
+        614
+      ]
+    },
+    {
+      "text": "Bachelor's, Construction Safety, Meadowridge University, 2005",
+      "score": 0.987676739692688,
+      "box": [
+        117,
+        632,
+        699,
+        657
+      ]
+    },
+    {
+      "text": "• Studied principles of material delivery coordination",
+      "score": 0.9816359877586365,
+      "box": [
+        131,
+        659,
+        614,
+        683
+      ]
+    },
+    {
+      "text": "• Studied principles of tool maintenance",
+      "score": 0.9790339469909668,
+      "box": [
+        130,
+        682,
+        502,
+        708
+      ]
+    }
+  ],
+  "seconds": 2.695856999605894,
+  "id": "10719",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

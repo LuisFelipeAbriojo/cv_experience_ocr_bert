@@ -1,0 +1,152 @@
+{
+  "lines": [
+    {
+      "text": "SAMANTHA ALLISON",
+      "score": 0.9941147565841675,
+      "box": [
+        118,
+        92,
+        464,
+        122
+      ]
+    },
+    {
+      "text": "MN, USA | +1-862-475-5062 | samantha.allison@example.com",
+      "score": 0.9825780987739563,
+      "box": [
+        115,
+        149,
+        701,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9989233016967773,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Softpeak Technologies, 2020.112023.01",
+      "score": 0.9858447313308716,
+      "box": [
+        116,
+        290,
+        708,
+        317
+      ]
+    },
+    {
+      "text": "- Defined scalability roadmaps",
+      "score": 0.9907023310661316,
+      "box": [
+        127,
+        314,
+        410,
+        344
+      ]
+    },
+    {
+      "text": "- Led system reliability programs",
+      "score": 0.9942719340324402,
+      "box": [
+        128,
+        340,
+        430,
+        368
+      ]
+    },
+    {
+      "text": "Software Developers, Clearline Systems, 2018.082020.11",
+      "score": 0.9832105040550232,
+      "box": [
+        117,
+        382,
+        664,
+        409
+      ]
+    },
+    {
+      "text": "- Wrote scripts for data processing tasks",
+      "score": 0.9953606724739075,
+      "box": [
+        124,
+        406,
+        501,
+        435
+      ]
+    },
+    {
+      "text": "- Optimized simple queries",
+      "score": 0.9993151426315308,
+      "box": [
+        128,
+        433,
+        378,
+        459
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.99991375207901,
+      "box": [
+        116,
+        494,
+        266,
+        521
+      ]
+    },
+    {
+      "text": "Master's, Meadowcrest University, 2018",
+      "score": 0.9920312762260437,
+      "box": [
+        114,
+        539,
+        489,
+        567
+      ]
+    },
+    {
+      "text": "Bachelor's, Stone Valley University, 2016",
+      "score": 0.9758980870246887,
+      "box": [
+        116,
+        566,
+        500,
+        593
+      ]
+    },
+    {
+      "text": "•Studied principles of embedded systems",
+      "score": 0.9930222630500793,
+      "box": [
+        129,
+        592,
+        521,
+        616
+      ]
+    },
+    {
+      "text": "•Studied fundamentals of collaborative development",
+      "score": 0.9826942682266235,
+      "box": [
+        129,
+        615,
+        624,
+        643
+      ]
+    }
+  ],
+  "seconds": 2.4104271000251174,
+  "id": "29509",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

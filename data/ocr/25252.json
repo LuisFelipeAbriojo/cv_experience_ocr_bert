@@ -1,0 +1,202 @@
+{
+  "lines": [
+    {
+      "text": "ISABEL BALL",
+      "score": 0.998565673828125,
+      "box": [
+        116,
+        89,
+        338,
+        122
+      ]
+    },
+    {
+      "text": "MA, USA | +1-855-807-4115 | isabel.ball@example.com",
+      "score": 0.976946234703064,
+      "box": [
+        116,
+        150,
+        635,
+        177
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9941039085388184,
+      "box": [
+        117,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, TrueCare Nursing, 2019.122023.01",
+      "score": 0.9864709973335266,
+      "box": [
+        116,
+        288,
+        641,
+        318
+      ]
+    },
+    {
+      "text": "- Directed emergency response planning",
+      "score": 0.9997633695602417,
+      "box": [
+        125,
+        314,
+        506,
+        344
+      ]
+    },
+    {
+      "text": "- Established nursing performance metrics",
+      "score": 0.9749851822853088,
+      "box": [
+        126,
+        339,
+        521,
+        368
+      ]
+    },
+    {
+      "text": "Registered Nurses, SafeHands Care Center, 2016.112019.12",
+      "score": 0.9941458106040955,
+      "box": [
+        118,
+        383,
+        700,
+        407
+      ]
+    },
+    {
+      "text": "- Directed nursing process improvements",
+      "score": 0.9997314810752869,
+      "box": [
+        125,
+        406,
+        510,
+        435
+      ]
+    },
+    {
+      "text": "- Led nursing workflow optimization",
+      "score": 0.9764646291732788,
+      "box": [
+        127,
+        431,
+        456,
+        459
+      ]
+    },
+    {
+      "text": "Registered Nurses, WellSpring Nursing Services, 2013.102016.11",
+      "score": 0.9958193898200989,
+      "box": [
+        116,
+        471,
+        740,
+        499
+      ]
+    },
+    {
+      "text": "- Managed patient referrals",
+      "score": 0.9939636588096619,
+      "box": [
+        125,
+        497,
+        382,
+        526
+      ]
+    },
+    {
+      "text": "- Managed patient advocacy tasks",
+      "score": 0.9872081279754639,
+      "box": [
+        126,
+        521,
+        446,
+        552
+      ]
+    },
+    {
+      "text": "Registered Nurses, Caring Hands Care, 2010.082013.10",
+      "score": 0.9959033727645874,
+      "box": [
+        118,
+        566,
+        655,
+        590
+      ]
+    },
+    {
+      "text": "- Prepared treatment rooms",
+      "score": 0.9765879511833191,
+      "box": [
+        126,
+        589,
+        389,
+        618
+      ]
+    },
+    {
+      "text": "- Monitored patient dietary needs",
+      "score": 0.974677562713623,
+      "box": [
+        126,
+        613,
+        435,
+        644
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9998786449432373,
+      "box": [
+        117,
+        681,
+        266,
+        705
+      ]
+    },
+    {
+      "text": "Bachelor's, Health Care Technology, Elm Valley University, 2008",
+      "score": 0.9840528964996338,
+      "box": [
+        115,
+        723,
+        716,
+        750
+      ]
+    },
+    {
+      "text": "• Studied principles of infection surveillance",
+      "score": 0.9826701879501343,
+      "box": [
+        131,
+        750,
+        537,
+        774
+      ]
+    },
+    {
+      "text": "Studied principles of wound care",
+      "score": 0.960607647895813,
+      "box": [
+        131,
+        774,
+        450,
+        800
+      ]
+    }
+  ],
+  "seconds": 2.9576197997666895,
+  "id": "25252",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

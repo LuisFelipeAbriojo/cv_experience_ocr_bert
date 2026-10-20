@@ -1,0 +1,172 @@
+{
+  "lines": [
+    {
+      "text": "DIANA HERRING",
+      "score": 0.9997933506965637,
+      "box": [
+        118,
+        91,
+        386,
+        122
+      ]
+    },
+    {
+      "text": "AZ, USA | +1-553-801-2642 | diana.herring@example.com",
+      "score": 0.9964558482170105,
+      "box": [
+        116,
+        150,
+        660,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9988901019096375,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, EverSpring Health Services, 2020.12—2023.01",
+      "score": 0.9896302223205566,
+      "box": [
+        115,
+        287,
+        731,
+        318
+      ]
+    },
+    {
+      "text": "- Directed clinical quality improvement initiatives",
+      "score": 0.9928849935531616,
+      "box": [
+        125,
+        313,
+        573,
+        343
+      ]
+    },
+    {
+      "text": "- Managed patient outcome evaluation systems",
+      "score": 0.9811920523643494,
+      "box": [
+        126,
+        339,
+        567,
+        368
+      ]
+    },
+    {
+      "text": "Registered Nurses, Compassion Way Care, 2018.102020.12",
+      "score": 0.9907270073890686,
+      "box": [
+        117,
+        382,
+        692,
+        409
+      ]
+    },
+    {
+      "text": "- Provided end-of-life care",
+      "score": 0.9872876405715942,
+      "box": [
+        125,
+        407,
+        371,
+        433
+      ]
+    },
+    {
+      "text": "- Assisted with emergency interventions",
+      "score": 0.999011218547821,
+      "box": [
+        127,
+        432,
+        496,
+        458
+      ]
+    },
+    {
+      "text": "Registered Nurses, Compassion Hands Care, 2014.092016.11",
+      "score": 0.9991279244422913,
+      "box": [
+        116,
+        471,
+        709,
+        499
+      ]
+    },
+    {
+      "text": "- Monitored patient pain levels",
+      "score": 0.9905092716217041,
+      "box": [
+        126,
+        497,
+        410,
+        525
+      ]
+    },
+    {
+      "text": "- Assisted with patient mobility",
+      "score": 0.9818645715713501,
+      "box": [
+        127,
+        521,
+        408,
+        551
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9998990297317505,
+      "box": [
+        117,
+        587,
+        267,
+        614
+      ]
+    },
+    {
+      "text": "Bachelor's, Health Care Management, Havenwood University, 2012",
+      "score": 0.9889206290245056,
+      "box": [
+        117,
+        632,
+        744,
+        659
+      ]
+    },
+    {
+      "text": "•Studied principles of health screening",
+      "score": 0.9576610922813416,
+      "box": [
+        129,
+        657,
+        497,
+        685
+      ]
+    },
+    {
+      "text": "•Studied principles of hydration management",
+      "score": 0.9842756390571594,
+      "box": [
+        129,
+        681,
+        557,
+        709
+      ]
+    }
+  ],
+  "seconds": 2.520939900074154,
+  "id": "01877",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

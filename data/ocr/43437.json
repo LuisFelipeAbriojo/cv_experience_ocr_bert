@@ -1,0 +1,102 @@
+{
+  "lines": [
+    {
+      "text": "LAWRENCE MCLAUGHLIN",
+      "score": 0.9899628162384033,
+      "box": [
+        118,
+        91,
+        545,
+        122
+      ]
+    },
+    {
+      "text": "OK, USA | +1-707-919-2053 | lawrence.mclaughlin@example.com",
+      "score": 0.9854685664176941,
+      "box": [
+        118,
+        151,
+        731,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9997507929801941,
+      "box": [
+        117,
+        243,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Construction Laborers, BuildPoint Co., 2019.092022.01",
+      "score": 0.9916025996208191,
+      "box": [
+        118,
+        290,
+        638,
+        314
+      ]
+    },
+    {
+      "text": "- Prepared scaffolding platforms",
+      "score": 0.9996305108070374,
+      "box": [
+        125,
+        313,
+        427,
+        343
+      ]
+    },
+    {
+      "text": "- Assisted with basic electrical conduit placement",
+      "score": 0.9903697967529297,
+      "box": [
+        127,
+        338,
+        584,
+        366
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999486207962036,
+      "box": [
+        116,
+        404,
+        268,
+        431
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Construction Skills, Pineview High School, 2011",
+      "score": 0.9885518550872803,
+      "box": [
+        116,
+        446,
+        819,
+        475
+      ]
+    },
+    {
+      "text": "Studied principles of hazard identification",
+      "score": 0.9869513511657715,
+      "box": [
+        129,
+        472,
+        528,
+        500
+      ]
+    }
+  ],
+  "seconds": 2.550257300026715,
+  "id": "43437",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

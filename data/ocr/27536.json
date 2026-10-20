@@ -1,0 +1,112 @@
+{
+  "lines": [
+    {
+      "text": "ISAIAH SOLOMON",
+      "score": 0.9998626112937927,
+      "box": [
+        115,
+        87,
+        415,
+        123
+      ]
+    },
+    {
+      "text": "MI, USA | +1-865-702-3520 | isaiah.solomon@example.com",
+      "score": 0.9924761652946472,
+      "box": [
+        115,
+        149,
+        675,
+        177
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9994044899940491,
+      "box": [
+        116,
+        243,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Construction Laborers, SteadyStone Builders, 2020.09—2023.01",
+      "score": 0.980340301990509,
+      "box": [
+        116,
+        287,
+        708,
+        315
+      ]
+    },
+    {
+      "text": "- Installed simple fixtures",
+      "score": 0.9805465936660767,
+      "box": [
+        124,
+        312,
+        361,
+        342
+      ]
+    },
+    {
+      "text": "- Maintained tool storage areas",
+      "score": 0.9990871548652649,
+      "box": [
+        126,
+        339,
+        418,
+        366
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999387264251709,
+      "box": [
+        116,
+        404,
+        268,
+        431
+      ]
+    },
+    {
+      "text": "Some college (no degree), Construction Estimating, Goldenview University, 2023",
+      "score": 0.9857878088951111,
+      "box": [
+        117,
+        447,
+        865,
+        474
+      ]
+    },
+    {
+      "text": "•Studied principles of building envelope basics",
+      "score": 0.982177734375,
+      "box": [
+        131,
+        475,
+        569,
+        499
+      ]
+    },
+    {
+      "text": "• Completed coursework in construction acoustics basics",
+      "score": 0.9878036975860596,
+      "box": [
+        134,
+        499,
+        659,
+        523
+      ]
+    }
+  ],
+  "seconds": 2.0252754003740847,
+  "id": "27536",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

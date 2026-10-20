@@ -1,0 +1,112 @@
+{
+  "lines": [
+    {
+      "text": "NESTOR PERKINS",
+      "score": 0.9803048968315125,
+      "box": [
+        117,
+        91,
+        414,
+        122
+      ]
+    },
+    {
+      "text": "PA, USA | +1-612-737-4471 | nestor.perkins@example.com",
+      "score": 0.9832068681716919,
+      "box": [
+        115,
+        149,
+        671,
+        177
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9997692704200745,
+      "box": [
+        117,
+        243,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Software Developers, Datacore Labs, 2020.05—2023.01",
+      "score": 0.9964324831962585,
+      "box": [
+        116,
+        288,
+        630,
+        315
+      ]
+    },
+    {
+      "text": "- Updated frontend stylesheets",
+      "score": 0.9973263144493103,
+      "box": [
+        128,
+        316,
+        414,
+        340
+      ]
+    },
+    {
+      "text": "- Updated monitoring dashboards",
+      "score": 0.9808542728424072,
+      "box": [
+        129,
+        340,
+        439,
+        367
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999251961708069,
+      "box": [
+        116,
+        404,
+        268,
+        431
+      ]
+    },
+    {
+      "text": "Bachelor's, Larkspur University, 2023",
+      "score": 0.9988886713981628,
+      "box": [
+        116,
+        448,
+        462,
+        475
+      ]
+    },
+    {
+      "text": "•Studied principles of mutexes and semaphores",
+      "score": 0.9744641780853271,
+      "box": [
+        131,
+        475,
+        582,
+        499
+      ]
+    },
+    {
+      "text": "• Completed coursework in memory management",
+      "score": 0.9754847288131714,
+      "box": [
+        132,
+        497,
+        593,
+        526
+      ]
+    }
+  ],
+  "seconds": 1.8364860997535288,
+  "id": "45680",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

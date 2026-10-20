@@ -1,0 +1,112 @@
+{
+  "lines": [
+    {
+      "text": "SHANNON CROSBY",
+      "score": 0.9695528149604797,
+      "box": [
+        116,
+        87,
+        439,
+        123
+      ]
+    },
+    {
+      "text": "TN, USA | +1-248-743-7541 | shannon.crosby@example.com",
+      "score": 0.9947975873947144,
+      "box": [
+        118,
+        150,
+        688,
+        177
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9994059205055237,
+      "box": [
+        116,
+        243,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Registered Nurses, EverCare Health Services, 2021.052021.12",
+      "score": 0.9962493181228638,
+      "box": [
+        115,
+        287,
+        717,
+        315
+      ]
+    },
+    {
+      "text": "- Recorded patient vital signs",
+      "score": 0.9987982511520386,
+      "box": [
+        126,
+        313,
+        399,
+        342
+      ]
+    },
+    {
+      "text": "- Monitored patient dietary needs",
+      "score": 0.9779518842697144,
+      "box": [
+        126,
+        338,
+        435,
+        368
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999246597290039,
+      "box": [
+        116,
+        404,
+        268,
+        431
+      ]
+    },
+    {
+      "text": "Associate's degree, Health Services Administration, Forest Hill University, 2016",
+      "score": 0.9891234636306763,
+      "box": [
+        117,
+        447,
+        849,
+        474
+      ]
+    },
+    {
+      "text": "•Completed coursework in cardiovascular nursing basics",
+      "score": 0.987883448600769,
+      "box": [
+        130,
+        473,
+        663,
+        499
+      ]
+    },
+    {
+      "text": "•Studied fundamentals of intravenous therapy",
+      "score": 0.9838995337486267,
+      "box": [
+        131,
+        495,
+        563,
+        527
+      ]
+    }
+  ],
+  "seconds": 2.2917455001734197,
+  "id": "48531",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

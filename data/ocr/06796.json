@@ -1,0 +1,142 @@
+{
+  "lines": [
+    {
+      "text": "LINDSEY AHMED",
+      "score": 0.9927670955657959,
+      "box": [
+        118,
+        91,
+        394,
+        121
+      ]
+    },
+    {
+      "text": "CA, USA | +1-506-631-7430 | lindsey.ahmed@example.com",
+      "score": 0.9828355312347412,
+      "box": [
+        118,
+        152,
+        674,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9992208480834961,
+      "box": [
+        118,
+        245,
+        314,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, SolidCount Advisors, 2018.082021.05",
+      "score": 0.9946982264518738,
+      "box": [
+        117,
+        290,
+        688,
+        314
+      ]
+    },
+    {
+      "text": "- Led audit programs",
+      "score": 0.9994909167289734,
+      "box": [
+        126,
+        315,
+        323,
+        342
+      ]
+    },
+    {
+      "text": "- Led accounting transformation projects",
+      "score": 0.9970806837081909,
+      "box": [
+        127,
+        339,
+        501,
+        367
+      ]
+    },
+    {
+      "text": "Accountants Auditors, AccuCount Group, 2015.052018.02",
+      "score": 0.9881851673126221,
+      "box": [
+        116,
+        380,
+        667,
+        408
+      ]
+    },
+    {
+      "text": "- Performed data validation checks",
+      "score": 0.995364785194397,
+      "box": [
+        125,
+        406,
+        451,
+        432
+      ]
+    },
+    {
+      "text": "- Reviewed vendor payments",
+      "score": 0.9800649881362915,
+      "box": [
+        127,
+        431,
+        400,
+        457
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999298453330994,
+      "box": [
+        117,
+        494,
+        268,
+        521
+      ]
+    },
+    {
+      "text": "Bachelor's, Economic Studies, Willow Creek University, 2009",
+      "score": 0.9919942021369934,
+      "box": [
+        116,
+        540,
+        681,
+        565
+      ]
+    },
+    {
+      "text": "• Completed coursework in data analysis for accounting",
+      "score": 0.9988685846328735,
+      "box": [
+        132,
+        566,
+        647,
+        592
+      ]
+    },
+    {
+      "text": "Completed coursework in intermediate accounting",
+      "score": 0.9965860247612,
+      "box": [
+        131,
+        589,
+        612,
+        618
+      ]
+    }
+  ],
+  "seconds": 2.2326340000145137,
+  "id": "06796",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

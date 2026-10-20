@@ -1,0 +1,172 @@
+{
+  "lines": [
+    {
+      "text": "GERARDO GARDNER",
+      "score": 0.9994735717773438,
+      "box": [
+        118,
+        91,
+        465,
+        122
+      ]
+    },
+    {
+      "text": "CA, USA | +1-448-210-8583 | gerardo.gardner@example.com",
+      "score": 0.9753761887550354,
+      "box": [
+        116,
+        150,
+        691,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9990734457969666,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Accurate Balance Services, 2019.12—2023.01",
+      "score": 0.9877592325210571,
+      "box": [
+        116,
+        288,
+        748,
+        315
+      ]
+    },
+    {
+      "text": "- Designed budgeting methodologies",
+      "score": 0.999306857585907,
+      "box": [
+        125,
+        314,
+        470,
+        343
+      ]
+    },
+    {
+      "text": "- Directed enterprise accounting platforms",
+      "score": 0.9829813838005066,
+      "box": [
+        127,
+        340,
+        517,
+        368
+      ]
+    },
+    {
+      "text": "Accountants Auditors, AccuLedger Services, 2016.012019.02",
+      "score": 0.9936130046844482,
+      "box": [
+        117,
+        382,
+        698,
+        409
+      ]
+    },
+    {
+      "text": "- Reviewed expense allocations",
+      "score": 0.9996110200881958,
+      "box": [
+        126,
+        409,
+        423,
+        433
+      ]
+    },
+    {
+      "text": "- Developed budget forecasts",
+      "score": 0.9977728128433228,
+      "box": [
+        128,
+        432,
+        402,
+        458
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Integrity Ledger Advisors, 2011.122015.01",
+      "score": 0.9991105794906616,
+      "box": [
+        117,
+        472,
+        730,
+        499
+      ]
+    },
+    {
+      "text": "- Assisted with tax form preparation",
+      "score": 0.9991307854652405,
+      "box": [
+        125,
+        497,
+        458,
+        525
+      ]
+    },
+    {
+      "text": "- Prepared expense reports",
+      "score": 0.9921271204948425,
+      "box": [
+        128,
+        521,
+        385,
+        552
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999396204948425,
+      "box": [
+        118,
+        588,
+        266,
+        612
+      ]
+    },
+    {
+      "text": "Bachelor's, Administrative Studies, Amber Hills University, 2007",
+      "score": 0.9941244125366211,
+      "box": [
+        118,
+        633,
+        705,
+        657
+      ]
+    },
+    {
+      "text": "Completed coursework in intermediate accounting",
+      "score": 0.9875369071960449,
+      "box": [
+        129,
+        655,
+        612,
+        686
+      ]
+    },
+    {
+      "text": "•Studied principles of payroll systems",
+      "score": 0.9888697266578674,
+      "box": [
+        131,
+        681,
+        486,
+        710
+      ]
+    }
+  ],
+  "seconds": 2.814530299976468,
+  "id": "04547",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

@@ -1,0 +1,202 @@
+{
+  "lines": [
+    {
+      "text": "LYMAN COMBS",
+      "score": 0.99981290102005,
+      "box": [
+        117,
+        91,
+        370,
+        122
+      ]
+    },
+    {
+      "text": "PA, USA | +1-763-256-1981 | lyman.combs@example.com",
+      "score": 0.9689283967018127,
+      "box": [
+        115,
+        150,
+        663,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9991834759712219,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Caring Hills School, 2018.02—2023.01",
+      "score": 0.9981081485748291,
+      "box": [
+        117,
+        290,
+        813,
+        317
+      ]
+    },
+    {
+      "text": "- Implemented learning system upgrades",
+      "score": 0.9995975494384766,
+      "box": [
+        125,
+        315,
+        509,
+        343
+      ]
+    },
+    {
+      "text": "- Developed learning progression models",
+      "score": 0.9906386137008667,
+      "box": [
+        127,
+        339,
+        510,
+        369
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Little Minds School, 2013.032018.02",
+      "score": 0.9995806217193604,
+      "box": [
+        117,
+        382,
+        814,
+        409
+      ]
+    },
+    {
+      "text": "- Designed instructional governance models",
+      "score": 0.9948794841766357,
+      "box": [
+        126,
+        408,
+        534,
+        433
+      ]
+    },
+    {
+      "text": "- Directed assessment development efforts",
+      "score": 0.99772047996521,
+      "box": [
+        126,
+        432,
+        526,
+        458
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Harmony Hills Academy, 2008.042013.03",
+      "score": 0.9993515014648438,
+      "box": [
+        119,
+        474,
+        859,
+        498
+      ]
+    },
+    {
+      "text": "- Analyzed student performance data",
+      "score": 0.9838109612464905,
+      "box": [
+        127,
+        500,
+        472,
+        524
+      ]
+    },
+    {
+      "text": "- Administered standardized assessments",
+      "score": 0.9993513822555542,
+      "box": [
+        127,
+        522,
+        516,
+        548
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Bright Meadows Academy, 2003.04—2008.04",
+      "score": 0.9791744351387024,
+      "box": [
+        116,
+        564,
+        880,
+        592
+      ]
+    },
+    {
+      "text": "- Scheduled instructional activities",
+      "score": 0.9902340769767761,
+      "box": [
+        127,
+        592,
+        444,
+        615
+      ]
+    },
+    {
+      "text": "- Tracked student participation",
+      "score": 0.9793848395347595,
+      "box": [
+        125,
+        614,
+        411,
+        644
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999419450759888,
+      "box": [
+        117,
+        681,
+        266,
+        705
+      ]
+    },
+    {
+      "text": "Bachelor's, Learning and Development, Fairview University, 2005",
+      "score": 0.9812594652175903,
+      "box": [
+        117,
+        726,
+        720,
+        749
+      ]
+    },
+    {
+      "text": "•Studied fundamentals of reading comprehension strategies",
+      "score": 0.9816606044769287,
+      "box": [
+        130,
+        748,
+        694,
+        777
+      ]
+    },
+    {
+      "text": "•Completed coursework in lesson reflection practices",
+      "score": 0.9686704277992249,
+      "box": [
+        132,
+        772,
+        630,
+        802
+      ]
+    }
+  ],
+  "seconds": 3.0809339000843465,
+  "id": "46226",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

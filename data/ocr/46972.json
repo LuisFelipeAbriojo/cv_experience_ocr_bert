@@ -1,0 +1,112 @@
+{
+  "lines": [
+    {
+      "text": "EMERY RICHARD",
+      "score": 0.9997047781944275,
+      "box": [
+        118,
+        91,
+        400,
+        121
+      ]
+    },
+    {
+      "text": "PA, USA | +1-408-753-2693 | emery.richard@example.com",
+      "score": 0.9705418348312378,
+      "box": [
+        117,
+        152,
+        666,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9997484087944031,
+      "box": [
+        117,
+        243,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Sunny Minds School, 2020.12—2023.01",
+      "score": 0.9905907511711121,
+      "box": [
+        117,
+        289,
+        827,
+        316
+      ]
+    },
+    {
+      "text": "- Collected permission forms",
+      "score": 0.9886513352394104,
+      "box": [
+        127,
+        316,
+        395,
+        340
+      ]
+    },
+    {
+      "text": "- Implemented basic literacy lessons",
+      "score": 0.9752242565155029,
+      "box": [
+        127,
+        339,
+        465,
+        367
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999949038028717,
+      "box": [
+        116,
+        404,
+        268,
+        431
+      ]
+    },
+    {
+      "text": "Bachelor's, Child and Family Studies, Riverstone University, 2023",
+      "score": 0.982412576675415,
+      "box": [
+        115,
+        446,
+        724,
+        474
+      ]
+    },
+    {
+      "text": "• Completed coursework in instructional review methods",
+      "score": 0.9953026175498962,
+      "box": [
+        131,
+        475,
+        652,
+        498
+      ]
+    },
+    {
+      "text": "Studied fundamentals of instructional goal setting",
+      "score": 0.9866526126861572,
+      "box": [
+        131,
+        495,
+        604,
+        527
+      ]
+    }
+  ],
+  "seconds": 2.2106212000362575,
+  "id": "46972",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

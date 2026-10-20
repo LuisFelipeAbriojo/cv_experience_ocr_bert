@@ -1,0 +1,142 @@
+{
+  "lines": [
+    {
+      "text": "MARYSA SLOAN",
+      "score": 0.9806206226348877,
+      "box": [
+        117,
+        91,
+        390,
+        121
+      ]
+    },
+    {
+      "text": "NC, USA | +1-603-871-1584 | marysa.sloan@example.com",
+      "score": 0.9913216233253479,
+      "box": [
+        117,
+        152,
+        665,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9991946220397949,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Trusted Ledger Group, 2020.03—2022.02",
+      "score": 0.9948287606239319,
+      "box": [
+        115,
+        288,
+        706,
+        316
+      ]
+    },
+    {
+      "text": "- Established reporting automation systems",
+      "score": 0.9836075901985168,
+      "box": [
+        126,
+        315,
+        529,
+        341
+      ]
+    },
+    {
+      "text": "- Established financial reporting standards",
+      "score": 0.9914314150810242,
+      "box": [
+        127,
+        339,
+        517,
+        367
+      ]
+    },
+    {
+      "text": "Accountants Auditors, OpenBooks Financial, 2017.092019.08",
+      "score": 0.9921237826347351,
+      "box": [
+        116,
+        380,
+        699,
+        408
+      ]
+    },
+    {
+      "text": "- Reviewed timesheets for payroll",
+      "score": 0.9892719388008118,
+      "box": [
+        125,
+        407,
+        439,
+        433
+      ]
+    },
+    {
+      "text": "- Assisted with forecasting data",
+      "score": 0.990355908870697,
+      "box": [
+        127,
+        430,
+        420,
+        458
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999291896820068,
+      "box": [
+        117,
+        494,
+        267,
+        521
+      ]
+    },
+    {
+      "text": "Bachelor's, Economics, Clearfield University, 2015",
+      "score": 0.9948139190673828,
+      "box": [
+        116,
+        540,
+        584,
+        565
+      ]
+    },
+    {
+      "text": "Studied fundamentals of tax planning",
+      "score": 0.9860846400260925,
+      "box": [
+        129,
+        563,
+        491,
+        594
+      ]
+    },
+    {
+      "text": "• Completed coursework in financial data interpretation",
+      "score": 0.99247145652771,
+      "box": [
+        132,
+        592,
+        639,
+        616
+      ]
+    }
+  ],
+  "seconds": 3.5567377996630967,
+  "id": "40076",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

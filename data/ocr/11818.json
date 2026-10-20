@@ -1,0 +1,192 @@
+{
+  "lines": [
+    {
+      "text": "KEVIN LAWSON",
+      "score": 0.9996475577354431,
+      "box": [
+        117,
+        91,
+        377,
+        121
+      ]
+    },
+    {
+      "text": "FL, USA | +1-203-354-9757 | kevin.lawson@example.com",
+      "score": 0.9875438213348389,
+      "box": [
+        117,
+        149,
+        655,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.993847668170929,
+      "box": [
+        117,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, AnchorBuild Co., 2019.01—2023.01",
+      "score": 0.9856261610984802,
+      "box": [
+        116,
+        288,
+        658,
+        316
+      ]
+    },
+    {
+      "text": "- Led operational planning",
+      "score": 0.9664624929428101,
+      "box": [
+        126,
+        315,
+        371,
+        342
+      ]
+    },
+    {
+      "text": "- Reviewed compliance documentation",
+      "score": 0.9963582754135132,
+      "box": [
+        128,
+        342,
+        487,
+        366
+      ]
+    },
+    {
+      "text": "Construction Laborers, SteadyHand Builders, 2014.122019.01",
+      "score": 0.9877644181251526,
+      "box": [
+        118,
+        383,
+        703,
+        407
+      ]
+    },
+    {
+      "text": "- Managed construction schedules",
+      "score": 0.989797830581665,
+      "box": [
+        126,
+        409,
+        447,
+        433
+      ]
+    },
+    {
+      "text": "- Developed construction workflows",
+      "score": 0.9944960474967957,
+      "box": [
+        129,
+        434,
+        457,
+        457
+      ]
+    },
+    {
+      "text": "Construction Laborers, IronTrack Contractors, 2010.112014.12",
+      "score": 0.985554575920105,
+      "box": [
+        118,
+        473,
+        711,
+        497
+      ]
+    },
+    {
+      "text": "- Performed site leveling tasks",
+      "score": 0.9627665877342224,
+      "box": [
+        126,
+        496,
+        411,
+        525
+      ]
+    },
+    {
+      "text": "- Installed roofing materials",
+      "score": 0.9869700074195862,
+      "box": [
+        127,
+        521,
+        381,
+        550
+      ]
+    },
+    {
+      "text": "Construction Laborers, BuildRight Contractors, 2006.102010.11",
+      "score": 0.9850600957870483,
+      "box": [
+        118,
+        566,
+        716,
+        590
+      ]
+    },
+    {
+      "text": "- Prepared scaffolding platforms",
+      "score": 0.9875856637954712,
+      "box": [
+        127,
+        592,
+        427,
+        616
+      ]
+    },
+    {
+      "text": "- Followed safety procedures on site",
+      "score": 0.9811460971832275,
+      "box": [
+        127,
+        613,
+        465,
+        644
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9998815059661865,
+      "box": [
+        117,
+        681,
+        266,
+        705
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Construction Technology, Fairfield High School, 2005",
+      "score": 0.9943450689315796,
+      "box": [
+        116,
+        723,
+        870,
+        750
+      ]
+    },
+    {
+      "text": "• Completed coursework in basic HVAC concepts",
+      "score": 0.9855012893676758,
+      "box": [
+        133,
+        750,
+        592,
+        774
+      ]
+    }
+  ],
+  "seconds": 2.7597012002952397,
+  "id": "11818",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

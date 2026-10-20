@@ -1,0 +1,142 @@
+{
+  "lines": [
+    {
+      "text": "DAVID HUNT",
+      "score": 0.999862015247345,
+      "box": [
+        116,
+        87,
+        325,
+        123
+      ]
+    },
+    {
+      "text": "CO, USA | +1-350-321-7335 | david.hunt@example.com",
+      "score": 0.9779711365699768,
+      "box": [
+        118,
+        152,
+        639,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9995310306549072,
+      "box": [
+        116,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Software Developers, Datastream Solutions, 2019.09—2021.09",
+      "score": 0.9887235760688782,
+      "box": [
+        116,
+        289,
+        697,
+        316
+      ]
+    },
+    {
+      "text": "- Designed scalable services",
+      "score": 0.9735386967658997,
+      "box": [
+        126,
+        313,
+        395,
+        342
+      ]
+    },
+    {
+      "text": "- Designed system architectures",
+      "score": 0.9992773532867432,
+      "box": [
+        128,
+        339,
+        429,
+        367
+      ]
+    },
+    {
+      "text": "Software Developers, Nextline Software, 2016.12—2019.01",
+      "score": 0.9848493933677673,
+      "box": [
+        115,
+        380,
+        660,
+        408
+      ]
+    },
+    {
+      "text": "- Implemented basic features in existing codebases",
+      "score": 0.9997299313545227,
+      "box": [
+        126,
+        407,
+        604,
+        433
+      ]
+    },
+    {
+      "text": "- Participated in code reviews",
+      "score": 0.9766409397125244,
+      "box": [
+        128,
+        431,
+        402,
+        457
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999182224273682,
+      "box": [
+        117,
+        494,
+        268,
+        521
+      ]
+    },
+    {
+      "text": "Bachelor's, Fairfield University, 2015",
+      "score": 0.9699772000312805,
+      "box": [
+        116,
+        540,
+        456,
+        566
+      ]
+    },
+    {
+      "text": "• Completed coursework in logging and monitoring",
+      "score": 0.9895917773246765,
+      "box": [
+        132,
+        566,
+        601,
+        593
+      ]
+    },
+    {
+      "text": "•Completed coursework in programming in Python",
+      "score": 0.9784140586853027,
+      "box": [
+        131,
+        590,
+        606,
+        618
+      ]
+    }
+  ],
+  "seconds": 2.254162499681115,
+  "id": "09965",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

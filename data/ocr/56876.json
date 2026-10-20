@@ -1,0 +1,152 @@
+{
+  "lines": [
+    {
+      "text": "BREANNA CLAY",
+      "score": 0.999682605266571,
+      "box": [
+        118,
+        91,
+        385,
+        121
+      ]
+    },
+    {
+      "text": "VA, USA | +1-294-351-8980 | breanna.clay@example.com",
+      "score": 0.9770418405532837,
+      "box": [
+        117,
+        150,
+        658,
+        177
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9906715750694275,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Bright Horizons School, 2020.01—2023.01",
+      "score": 0.9849836826324463,
+      "box": [
+        116,
+        288,
+        850,
+        318
+      ]
+    },
+    {
+      "text": "- Developed learning progression models",
+      "score": 0.9867408871650696,
+      "box": [
+        125,
+        314,
+        510,
+        342
+      ]
+    },
+    {
+      "text": "- Implemented performance evaluation systems",
+      "score": 0.9982664585113525,
+      "box": [
+        127,
+        339,
+        569,
+        368
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Open Minds School, 2017.012020.01",
+      "score": 0.9969345331192017,
+      "box": [
+        117,
+        382,
+        819,
+        409
+      ]
+    },
+    {
+      "text": "- Assisted with small group instruction activities",
+      "score": 0.9945066571235657,
+      "box": [
+        125,
+        407,
+        564,
+        433
+      ]
+    },
+    {
+      "text": "- Assisted with science experiments",
+      "score": 0.9823979139328003,
+      "box": [
+        127,
+        431,
+        460,
+        458
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999397993087769,
+      "box": [
+        116,
+        494,
+        267,
+        521
+      ]
+    },
+    {
+      "text": "Master's, Education Preparation, Oakfield University, 2020",
+      "score": 0.9847705960273743,
+      "box": [
+        114,
+        539,
+        657,
+        567
+      ]
+    },
+    {
+      "text": "Bachelor's, Family and Child Studies, Windcrest University, 2018",
+      "score": 0.9864261150360107,
+      "box": [
+        117,
+        567,
+        717,
+        591
+      ]
+    },
+    {
+      "text": "• Completed coursework in classroom facilitation",
+      "score": 0.9934494495391846,
+      "box": [
+        131,
+        593,
+        584,
+        617
+      ]
+    },
+    {
+      "text": "Completed coursework in learning theory",
+      "score": 0.9843684434890747,
+      "box": [
+        131,
+        614,
+        527,
+        645
+      ]
+    }
+  ],
+  "seconds": 2.492373200133443,
+  "id": "56876",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

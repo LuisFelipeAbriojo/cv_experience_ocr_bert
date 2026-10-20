@@ -1,0 +1,172 @@
+{
+  "lines": [
+    {
+      "text": "TIA NOVAK",
+      "score": 0.9996209740638733,
+      "box": [
+        116,
+        90,
+        301,
+        121
+      ]
+    },
+    {
+      "text": "TN, USA | +1-224-855-7443 | tia.novak@example.com",
+      "score": 0.9824125170707703,
+      "box": [
+        117,
+        150,
+        623,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9991140365600586,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, SunBridge Nursing, 2020.08—2023.01",
+      "score": 0.9795032143592834,
+      "box": [
+        116,
+        287,
+        649,
+        319
+      ]
+    },
+    {
+      "text": "- Developed nursing training programs",
+      "score": 0.9768078923225403,
+      "box": [
+        125,
+        313,
+        486,
+        345
+      ]
+    },
+    {
+      "text": "- Implemented clinical decision support systems",
+      "score": 0.9724895358085632,
+      "box": [
+        126,
+        339,
+        572,
+        369
+      ]
+    },
+    {
+      "text": "Registered Nurses, Compassion Hands Care, 2018.022020.08",
+      "score": 0.9978023171424866,
+      "box": [
+        118,
+        383,
+        708,
+        407
+      ]
+    },
+    {
+      "text": "- Managed patient referrals",
+      "score": 0.9837254881858826,
+      "box": [
+        126,
+        408,
+        380,
+        432
+      ]
+    },
+    {
+      "text": "- Administered blood transfusions",
+      "score": 0.9979385733604431,
+      "box": [
+        127,
+        431,
+        440,
+        456
+      ]
+    },
+    {
+      "text": "Registered Nurses, OpenHands Nursing Services, 2013.042015.10",
+      "score": 0.9917521476745605,
+      "box": [
+        116,
+        471,
+        752,
+        499
+      ]
+    },
+    {
+      "text": "- Assisted with physical therapy exercises",
+      "score": 0.9826446771621704,
+      "box": [
+        127,
+        498,
+        515,
+        524
+      ]
+    },
+    {
+      "text": "- Assisted with patient mobility",
+      "score": 0.9901654720306396,
+      "box": [
+        127,
+        521,
+        410,
+        550
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999411702156067,
+      "box": [
+        118,
+        588,
+        266,
+        612
+      ]
+    },
+    {
+      "text": "Associate's degree, Health Care, Northcrest University, 2007",
+      "score": 0.9859755635261536,
+      "box": [
+        118,
+        633,
+        679,
+        657
+      ]
+    },
+    {
+      "text": "• Studied principles of safety protocols",
+      "score": 0.9821981191635132,
+      "box": [
+        130,
+        660,
+        489,
+        684
+      ]
+    },
+    {
+      "text": "Studied principles of continuity of care",
+      "score": 0.9788945913314819,
+      "box": [
+        130,
+        681,
+        499,
+        709
+      ]
+    }
+  ],
+  "seconds": 4.110611500218511,
+  "id": "48910",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

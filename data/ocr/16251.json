@@ -1,0 +1,112 @@
+{
+  "lines": [
+    {
+      "text": "GENESIS BENNETT",
+      "score": 0.9996984004974365,
+      "box": [
+        118,
+        91,
+        434,
+        122
+      ]
+    },
+    {
+      "text": "GA, USA | +1-598-369-9614 | genesis.bennett@example.com",
+      "score": 0.9723821878433228,
+      "box": [
+        118,
+        152,
+        688,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9997367262840271,
+      "box": [
+        117,
+        243,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Golden Horizons Academy, 2021.12—2023.01",
+      "score": 0.9972428679466248,
+      "box": [
+        116,
+        287,
+        884,
+        315
+      ]
+    },
+    {
+      "text": "- Maintained instructional logs",
+      "score": 0.9604344964027405,
+      "box": [
+        124,
+        311,
+        407,
+        343
+      ]
+    },
+    {
+      "text": "- Supported art instruction",
+      "score": 0.9779689908027649,
+      "box": [
+        127,
+        340,
+        371,
+        367
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999246597290039,
+      "box": [
+        116,
+        404,
+        268,
+        431
+      ]
+    },
+    {
+      "text": "Bachelor's, Community Education, Foxwood University, 2020",
+      "score": 0.9906137585639954,
+      "box": [
+        116,
+        445,
+        681,
+        476
+      ]
+    },
+    {
+      "text": "•Studied principles of cooperative learning",
+      "score": 0.9795293807983398,
+      "box": [
+        130,
+        474,
+        529,
+        500
+      ]
+    },
+    {
+      "text": "•Studied fundamentals of instructional consistency",
+      "score": 0.9912500977516174,
+      "box": [
+        130,
+        495,
+        606,
+        527
+      ]
+    }
+  ],
+  "seconds": 2.4521143999882042,
+  "id": "16251",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

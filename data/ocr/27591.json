@@ -1,0 +1,212 @@
+{
+  "lines": [
+    {
+      "text": "ANDREA WILEY",
+      "score": 0.9995527267456055,
+      "box": [
+        117,
+        91,
+        376,
+        122
+      ]
+    },
+    {
+      "text": "MI, USA | +1-995-294-3020 | andrea.wiley@example.com",
+      "score": 0.991661012172699,
+      "box": [
+        115,
+        150,
+        652,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9991938471794128,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Open Valley School, 2020.06—2023.01",
+      "score": 0.992626965045929,
+      "box": [
+        117,
+        289,
+        819,
+        316
+      ]
+    },
+    {
+      "text": "- Developed learning progression models",
+      "score": 0.9922122359275818,
+      "box": [
+        125,
+        315,
+        510,
+        342
+      ]
+    },
+    {
+      "text": "- Developed long-term instructional strategies",
+      "score": 0.9929081201553345,
+      "box": [
+        127,
+        340,
+        550,
+        368
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Bright Grove Academy, 2017.112020.06",
+      "score": 0.9978383183479309,
+      "box": [
+        115,
+        380,
+        849,
+        411
+      ]
+    },
+    {
+      "text": "- Developed long-term instructional strategies",
+      "score": 0.9950563311576843,
+      "box": [
+        126,
+        408,
+        549,
+        434
+      ]
+    },
+    {
+      "text": "- Established instructional review cycles",
+      "score": 0.9824653267860413,
+      "box": [
+        126,
+        431,
+        496,
+        458
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Golden Oak Academy, 2015.032017.11",
+      "score": 0.9995586276054382,
+      "box": [
+        117,
+        472,
+        841,
+        499
+      ]
+    },
+    {
+      "text": "- Analyzed student performance data",
+      "score": 0.9854879379272461,
+      "box": [
+        127,
+        500,
+        473,
+        524
+      ]
+    },
+    {
+      "text": "- Implemented literacy development plans",
+      "score": 0.9993789792060852,
+      "box": [
+        128,
+        522,
+        515,
+        550
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Harmony Start Academy, 2009.11—2012.07",
+      "score": 0.9869278073310852,
+      "box": [
+        116,
+        564,
+        865,
+        592
+      ]
+    },
+    {
+      "text": "- Distributed assessment rubrics",
+      "score": 0.9837673306465149,
+      "box": [
+        126,
+        590,
+        428,
+        616
+      ]
+    },
+    {
+      "text": "- Assisted with science experiments",
+      "score": 0.9924395084381104,
+      "box": [
+        126,
+        613,
+        459,
+        644
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999408721923828,
+      "box": [
+        117,
+        681,
+        266,
+        705
+      ]
+    },
+    {
+      "text": "Master's, Social Science Studies, Timberline University, 2004",
+      "score": 0.9924147725105286,
+      "box": [
+        116,
+        724,
+        683,
+        749
+      ]
+    },
+    {
+      "text": "Bachelor's, Learning Foundations, Pinecrest University, 2002",
+      "score": 0.9809613823890686,
+      "box": [
+        117,
+        750,
+        681,
+        774
+      ]
+    },
+    {
+      "text": "•Completed coursework in educational skill building",
+      "score": 0.9816847443580627,
+      "box": [
+        129,
+        773,
+        616,
+        802
+      ]
+    },
+    {
+      "text": "Completed coursework in instructional modeling",
+      "score": 0.9934833645820618,
+      "box": [
+        131,
+        798,
+        592,
+        826
+      ]
+    }
+  ],
+  "seconds": 3.333671700209379,
+  "id": "27591",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

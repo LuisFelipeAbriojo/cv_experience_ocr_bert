@@ -1,0 +1,172 @@
+{
+  "lines": [
+    {
+      "text": "EMERALD BARTLETT",
+      "score": 0.9996989965438843,
+      "box": [
+        119,
+        93,
+        467,
+        120
+      ]
+    },
+    {
+      "text": "VA, USA| +1-593-702-6983 | emerald.bartlett@example.com",
+      "score": 0.9764708280563354,
+      "box": [
+        118,
+        152,
+        684,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9991481304168701,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Bright Meadow School, 2019.10—2023.01",
+      "score": 0.993311882019043,
+      "box": [
+        115,
+        287,
+        847,
+        319
+      ]
+    },
+    {
+      "text": "- Implemented long-term academic plans",
+      "score": 0.9989320635795593,
+      "box": [
+        126,
+        316,
+        508,
+        341
+      ]
+    },
+    {
+      "text": "- Designed instructional accountability systems",
+      "score": 0.9915892481803894,
+      "box": [
+        127,
+        339,
+        562,
+        369
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Inspire Learning School, 2016.062019.10",
+      "score": 0.9940806031227112,
+      "box": [
+        116,
+        381,
+        858,
+        411
+      ]
+    },
+    {
+      "text": "- Implemented differentiated instruction strategies",
+      "score": 0.9952154159545898,
+      "box": [
+        126,
+        408,
+        586,
+        434
+      ]
+    },
+    {
+      "text": "- Organized instructional schedules",
+      "score": 0.9988019466400146,
+      "box": [
+        128,
+        432,
+        455,
+        458
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Sunny Field School, 2013.022016.06",
+      "score": 0.9912669062614441,
+      "box": [
+        118,
+        472,
+        818,
+        499
+      ]
+    },
+    {
+      "text": "- Distributed instructional handouts",
+      "score": 0.9687696099281311,
+      "box": [
+        126,
+        496,
+        452,
+        525
+      ]
+    },
+    {
+      "text": "- Implemented classroom seating plans",
+      "score": 0.9975570440292358,
+      "box": [
+        128,
+        521,
+        493,
+        551
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9998947978019714,
+      "box": [
+        117,
+        587,
+        267,
+        614
+      ]
+    },
+    {
+      "text": "Bachelor's, Education Studies, Clearhaven University, 2017",
+      "score": 0.9832407236099243,
+      "box": [
+        118,
+        633,
+        667,
+        657
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of instructional support",
+      "score": 0.9734477400779724,
+      "box": [
+        129,
+        657,
+        568,
+        683
+      ]
+    },
+    {
+      "text": "•Studied foundational learning strategies",
+      "score": 0.9963831305503845,
+      "box": [
+        131,
+        681,
+        514,
+        709
+      ]
+    }
+  ],
+  "seconds": 2.622283000033349,
+  "id": "57173",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

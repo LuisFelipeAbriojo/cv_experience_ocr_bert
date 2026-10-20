@@ -1,0 +1,212 @@
+{
+  "lines": [
+    {
+      "text": "DERRICK ANDREWS",
+      "score": 0.999710202217102,
+      "box": [
+        117,
+        89,
+        451,
+        122
+      ]
+    },
+    {
+      "text": "WV, USA | +1-477-241-1803 | derrick.andrews@example.com",
+      "score": 0.9854129552841187,
+      "box": [
+        115,
+        150,
+        693,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9986692070960999,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, FairLedger Group, 2020.04—2023.01",
+      "score": 0.9863768815994263,
+      "box": [
+        115,
+        288,
+        664,
+        318
+      ]
+    },
+    {
+      "text": "- Established accounting policies",
+      "score": 0.9718635082244873,
+      "box": [
+        126,
+        314,
+        434,
+        343
+      ]
+    },
+    {
+      "text": "- Designed financial control environments",
+      "score": 0.9856378436088562,
+      "box": [
+        127,
+        339,
+        513,
+        368
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Reliable Balance Co., 2017.072020.04",
+      "score": 0.98545902967453,
+      "box": [
+        117,
+        382,
+        696,
+        409
+      ]
+    },
+    {
+      "text": "- Designed tax strategies",
+      "score": 0.9975412487983704,
+      "box": [
+        125,
+        409,
+        360,
+        433
+      ]
+    },
+    {
+      "text": "- Directed strategic accounting initiatives",
+      "score": 0.983272135257721,
+      "box": [
+        126,
+        431,
+        503,
+        459
+      ]
+    },
+    {
+      "text": "Accountants Auditors, CoreBalance Group, 2014.092017.07",
+      "score": 0.9986060261726379,
+      "box": [
+        118,
+        474,
+        684,
+        498
+      ]
+    },
+    {
+      "text": "- Reviewed expense allocations",
+      "score": 0.9936081171035767,
+      "box": [
+        125,
+        497,
+        425,
+        525
+      ]
+    },
+    {
+      "text": "- Prepared audit reports",
+      "score": 0.9888531565666199,
+      "box": [
+        127,
+        521,
+        351,
+        551
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Accurate Balance Group, 2011.112014.09",
+      "score": 0.9992803931236267,
+      "box": [
+        118,
+        566,
+        727,
+        590
+      ]
+    },
+    {
+      "text": "- Prepared supporting schedules",
+      "score": 0.9929302334785461,
+      "box": [
+        127,
+        592,
+        431,
+        616
+      ]
+    },
+    {
+      "text": "- Prepared variance reports",
+      "score": 0.9856444001197815,
+      "box": [
+        127,
+        614,
+        384,
+        644
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999879002571106,
+      "box": [
+        117,
+        681,
+        266,
+        705
+      ]
+    },
+    {
+      "text": "Professional degree, Auditing, Fairview University, 2012",
+      "score": 0.9993568658828735,
+      "box": [
+        116,
+        724,
+        637,
+        750
+      ]
+    },
+    {
+      "text": "Bachelor's, Business Operations, Brightwater University, 2008",
+      "score": 0.9927355647087097,
+      "box": [
+        116,
+        749,
+        691,
+        776
+      ]
+    },
+    {
+      "text": "•Studied principles of business process analysis",
+      "score": 0.9791434407234192,
+      "box": [
+        129,
+        773,
+        586,
+        801
+      ]
+    },
+    {
+      "text": "•Studied principles of operational auditing",
+      "score": 0.9840958118438721,
+      "box": [
+        131,
+        798,
+        525,
+        827
+      ]
+    }
+  ],
+  "seconds": 2.873375500086695,
+  "id": "60200",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

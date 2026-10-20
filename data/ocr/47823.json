@@ -1,0 +1,112 @@
+{
+  "lines": [
+    {
+      "text": "ALYSSA MCDOWELL",
+      "score": 0.9974103569984436,
+      "box": [
+        118,
+        91,
+        457,
+        122
+      ]
+    },
+    {
+      "text": "SC, USA | +1-610-550-7753 | alyssa.mcdowell@example.com",
+      "score": 0.9761578440666199,
+      "box": [
+        118,
+        152,
+        692,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.99977046251297,
+      "box": [
+        117,
+        243,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Registered Nurses, EverHands Health Services, 2021.112023.01",
+      "score": 0.9919012188911438,
+      "box": [
+        117,
+        290,
+        729,
+        314
+      ]
+    },
+    {
+      "text": "- Monitored patient recovery",
+      "score": 0.9761897325515747,
+      "box": [
+        125,
+        313,
+        390,
+        342
+      ]
+    },
+    {
+      "text": "- Checked laboratory results",
+      "score": 0.9677802324295044,
+      "box": [
+        128,
+        340,
+        391,
+        367
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999258518218994,
+      "box": [
+        116,
+        404,
+        268,
+        431
+      ]
+    },
+    {
+      "text": "Bachelor's, Health Technology, Rolling Hills University, 2020",
+      "score": 0.9854162931442261,
+      "box": [
+        115,
+        445,
+        676,
+        476
+      ]
+    },
+    {
+      "text": "•Studied principles of infection prevention",
+      "score": 0.9780588150024414,
+      "box": [
+        130,
+        474,
+        524,
+        501
+      ]
+    },
+    {
+      "text": "• Completed coursework in neurologic nursing basics",
+      "score": 0.9747649431228638,
+      "box": [
+        132,
+        497,
+        625,
+        526
+      ]
+    }
+  ],
+  "seconds": 3.2077211998403072,
+  "id": "47823",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

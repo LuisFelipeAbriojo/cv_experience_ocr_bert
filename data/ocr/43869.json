@@ -1,0 +1,112 @@
+{
+  "lines": [
+    {
+      "text": "NATHAN SCHMIDT",
+      "score": 0.9999086260795593,
+      "box": [
+        117,
+        91,
+        421,
+        122
+      ]
+    },
+    {
+      "text": "OK, USA | +1-213-863-5109 | nathan.schmidt@example.com",
+      "score": 0.9892642498016357,
+      "box": [
+        118,
+        150,
+        684,
+        177
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9997417330741882,
+      "box": [
+        117,
+        243,
+        317,
+        270
+      ]
+    },
+    {
+      "text": "Construction Laborers, BuildCraft Co., 2021.02—2023.01",
+      "score": 0.9906138777732849,
+      "box": [
+        116,
+        287,
+        637,
+        315
+      ]
+    },
+    {
+      "text": "- Prepared surfaces for construction work",
+      "score": 0.9874451756477356,
+      "box": [
+        126,
+        314,
+        511,
+        338
+      ]
+    },
+    {
+      "text": "- Maintained cleanliness of work areas",
+      "score": 0.9789808988571167,
+      "box": [
+        127,
+        339,
+        485,
+        365
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999353885650635,
+      "box": [
+        116,
+        404,
+        268,
+        431
+      ]
+    },
+    {
+      "text": "Some college (no degree), Construction Safety, Riverway University, 2021",
+      "score": 0.9827162623405457,
+      "box": [
+        116,
+        446,
+        803,
+        476
+      ]
+    },
+    {
+      "text": "Studied principles of dust control",
+      "score": 0.9983875155448914,
+      "box": [
+        129,
+        473,
+        451,
+        498
+      ]
+    },
+    {
+      "text": "•Studied principles of framing methods",
+      "score": 0.9813039898872375,
+      "box": [
+        132,
+        498,
+        497,
+        525
+      ]
+    }
+  ],
+  "seconds": 1.8435627999715507,
+  "id": "43869",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

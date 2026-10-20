@@ -1,0 +1,182 @@
+{
+  "lines": [
+    {
+      "text": "CRYSTAL MELTON",
+      "score": 0.9997047185897827,
+      "box": [
+        117,
+        89,
+        426,
+        122
+      ]
+    },
+    {
+      "text": "WA, USA | +1-535-860-4985 | crystal.melton@example.com",
+      "score": 0.9868104457855225,
+      "box": [
+        116,
+        151,
+        674,
+        177
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9991493225097656,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Golden Bridge School, 2020.11-2023.01",
+      "score": 0.9936710000038147,
+      "box": [
+        115,
+        287,
+        840,
+        318
+      ]
+    },
+    {
+      "text": "- Established instructional review cycles",
+      "score": 0.996735155582428,
+      "box": [
+        126,
+        315,
+        497,
+        341
+      ]
+    },
+    {
+      "text": "- Led instructional technology integration",
+      "score": 0.983405590057373,
+      "box": [
+        126,
+        339,
+        505,
+        368
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Golden Grove Academy, 2018.09—2020.11",
+      "score": 0.9849931001663208,
+      "box": [
+        117,
+        382,
+        860,
+        409
+      ]
+    },
+    {
+      "text": "- Reviewed instructional content",
+      "score": 0.9984948635101318,
+      "box": [
+        125,
+        407,
+        427,
+        433
+      ]
+    },
+    {
+      "text": "- Evaluated student portfolios",
+      "score": 0.981843113899231,
+      "box": [
+        125,
+        430,
+        401,
+        458
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Kind Minds School, 2014.07—2016.10",
+      "score": 0.9778569340705872,
+      "box": [
+        118,
+        472,
+        811,
+        497
+      ]
+    },
+    {
+      "text": "- Recorded behavioral observations",
+      "score": 0.9992718696594238,
+      "box": [
+        126,
+        498,
+        458,
+        523
+      ]
+    },
+    {
+      "text": "- Assisted with science experiments",
+      "score": 0.9854621887207031,
+      "box": [
+        127,
+        522,
+        458,
+        549
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9998974204063416,
+      "box": [
+        117,
+        587,
+        267,
+        614
+      ]
+    },
+    {
+      "text": "Master's, Family and Child Studies, Goldenwood University, 2012",
+      "score": 0.9929682016372681,
+      "box": [
+        116,
+        632,
+        724,
+        659
+      ]
+    },
+    {
+      "text": "Bachelor's, Liberal Arts, Rosewood University, 2010",
+      "score": 0.9903019070625305,
+      "box": [
+        115,
+        656,
+        599,
+        684
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of instructional support",
+      "score": 0.991945207118988,
+      "box": [
+        131,
+        683,
+        568,
+        708
+      ]
+    },
+    {
+      "text": "Completed coursework in classroom workflow organization",
+      "score": 0.9879806637763977,
+      "box": [
+        131,
+        704,
+        692,
+        736
+      ]
+    }
+  ],
+  "seconds": 2.814904499799013,
+  "id": "59727",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

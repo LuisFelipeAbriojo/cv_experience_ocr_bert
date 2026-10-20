@@ -1,0 +1,142 @@
+{
+  "lines": [
+    {
+      "text": "JAILEE OSBORNE",
+      "score": 0.9992690682411194,
+      "box": [
+        116,
+        91,
+        413,
+        121
+      ]
+    },
+    {
+      "text": "MD, USA | +1-426-515-6704 | jailee.osborne@example.com",
+      "score": 0.9773366451263428,
+      "box": [
+        117,
+        152,
+        673,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9991037249565125,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Kind Path School, 2021.062023.01",
+      "score": 0.9934623837471008,
+      "box": [
+        117,
+        289,
+        798,
+        316
+      ]
+    },
+    {
+      "text": "- Designed instructional quality standards",
+      "score": 0.9783979058265686,
+      "box": [
+        125,
+        314,
+        511,
+        342
+      ]
+    },
+    {
+      "text": "- Developed instructional evaluation metrics",
+      "score": 0.9911021590232849,
+      "box": [
+        127,
+        339,
+        533,
+        367
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Golden Steps Academy, 2019.112021.06",
+      "score": 0.9931572079658508,
+      "box": [
+        115,
+        379,
+        858,
+        411
+      ]
+    },
+    {
+      "text": "- Maintained instructional logs",
+      "score": 0.9962868094444275,
+      "box": [
+        125,
+        403,
+        407,
+        435
+      ]
+    },
+    {
+      "text": "- Assisted with small group instruction activities",
+      "score": 0.9882446527481079,
+      "box": [
+        128,
+        431,
+        564,
+        457
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999234080314636,
+      "box": [
+        117,
+        494,
+        267,
+        521
+      ]
+    },
+    {
+      "text": "Some college (no degree), Early Childhood Education, Stoneview University, 2023",
+      "score": 0.9906103610992432,
+      "box": [
+        117,
+        540,
+        878,
+        567
+      ]
+    },
+    {
+      "text": "•Studied fundamentals of academic support strategies",
+      "score": 0.9740164279937744,
+      "box": [
+        128,
+        564,
+        641,
+        594
+      ]
+    },
+    {
+      "text": "•Studied principles of educational planning",
+      "score": 0.9810947179794312,
+      "box": [
+        130,
+        590,
+        534,
+        618
+      ]
+    }
+  ],
+  "seconds": 2.4503926001489162,
+  "id": "24393",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

@@ -1,0 +1,132 @@
+{
+  "lines": [
+    {
+      "text": "AUSTIN FARRELL",
+      "score": 0.9941429495811462,
+      "box": [
+        118,
+        91,
+        406,
+        122
+      ]
+    },
+    {
+      "text": "IL, USA | +1-299-812-6085 | austin.farrell@example.com",
+      "score": 0.9717791080474854,
+      "box": [
+        118,
+        152,
+        642,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9991946816444397,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, MasterFrame Builders, 2021.012023.01",
+      "score": 0.9906587600708008,
+      "box": [
+        118,
+        290,
+        711,
+        314
+      ]
+    },
+    {
+      "text": "- Established site layout plans",
+      "score": 0.9945753216743469,
+      "box": [
+        125,
+        313,
+        407,
+        343
+      ]
+    },
+    {
+      "text": "- Supervised foundation installations",
+      "score": 0.999047040939331,
+      "box": [
+        127,
+        340,
+        464,
+        366
+      ]
+    },
+    {
+      "text": "Construction Laborers, Reliable Works, 2019.012021.01",
+      "score": 0.9908259510993958,
+      "box": [
+        116,
+        380,
+        647,
+        408
+      ]
+    },
+    {
+      "text": "- Set up workstations for crews",
+      "score": 0.9958946704864502,
+      "box": [
+        125,
+        407,
+        416,
+        432
+      ]
+    },
+    {
+      "text": "- Performed basic sanding and painting",
+      "score": 0.9992930889129639,
+      "box": [
+        126,
+        429,
+        492,
+        460
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999301433563232,
+      "box": [
+        117,
+        494,
+        267,
+        521
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Construction Supervision, Fairhill High School, 2017",
+      "score": 0.9985751509666443,
+      "box": [
+        115,
+        539,
+        859,
+        567
+      ]
+    },
+    {
+      "text": "•Studied fundamentals of structural stability",
+      "score": 0.9934603571891785,
+      "box": [
+        132,
+        565,
+        540,
+        592
+      ]
+    }
+  ],
+  "seconds": 2.353740599937737,
+  "id": "19035",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

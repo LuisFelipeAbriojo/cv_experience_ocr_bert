@@ -1,0 +1,172 @@
+{
+  "lines": [
+    {
+      "text": "SERGIO PHILLIPS",
+      "score": 0.9826193451881409,
+      "box": [
+        117,
+        91,
+        407,
+        122
+      ]
+    },
+    {
+      "text": "VA, USA | +1-459-794-4881 | sergio.phillips@example.com",
+      "score": 0.9824078679084778,
+      "box": [
+        118,
+        152,
+        665,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9991222023963928,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Learning Corner Academy, 2020.02—2023.01",
+      "score": 0.9862064719200134,
+      "box": [
+        116,
+        289,
+        880,
+        319
+      ]
+    },
+    {
+      "text": "- Directed cross-grade curriculum alignment",
+      "score": 0.9797922968864441,
+      "box": [
+        125,
+        314,
+        537,
+        342
+      ]
+    },
+    {
+      "text": "- Directed curriculum revision cycles",
+      "score": 0.9990638494491577,
+      "box": [
+        125,
+        339,
+        464,
+        368
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Learning Springs School, 2017.032020.02",
+      "score": 0.9916803240776062,
+      "box": [
+        116,
+        381,
+        867,
+        411
+      ]
+    },
+    {
+      "text": "- Coordinated subject integration",
+      "score": 0.9870710372924805,
+      "box": [
+        127,
+        409,
+        433,
+        433
+      ]
+    },
+    {
+      "text": "- Implemented differentiated instruction strategies",
+      "score": 0.9942389130592346,
+      "box": [
+        129,
+        434,
+        586,
+        457
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Bright Grove Academy, 2011.102014.09",
+      "score": 0.9940992593765259,
+      "box": [
+        116,
+        470,
+        849,
+        501
+      ]
+    },
+    {
+      "text": "- Reviewed learning standards",
+      "score": 0.9954133033752441,
+      "box": [
+        125,
+        497,
+        412,
+        525
+      ]
+    },
+    {
+      "text": "- Monitored independent work sessions",
+      "score": 0.9984683394432068,
+      "box": [
+        127,
+        521,
+        493,
+        550
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9998791217803955,
+      "box": [
+        117,
+        587,
+        267,
+        614
+      ]
+    },
+    {
+      "text": "Bachelor's, Child and Family Studies, Stonebridge University, 2004",
+      "score": 0.9900256991386414,
+      "box": [
+        116,
+        631,
+        736,
+        659
+      ]
+    },
+    {
+      "text": "•Studied fundamentals of instructional goal setting",
+      "score": 0.9910709857940674,
+      "box": [
+        128,
+        656,
+        604,
+        686
+      ]
+    },
+    {
+      "text": "• Studied principles of curriculum standards",
+      "score": 0.9893287420272827,
+      "box": [
+        132,
+        683,
+        535,
+        707
+      ]
+    }
+  ],
+  "seconds": 2.8007831000722945,
+  "id": "56439",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

@@ -1,0 +1,142 @@
+{
+  "lines": [
+    {
+      "text": "HEATHER MYERS",
+      "score": 0.999701738357544,
+      "box": [
+        117,
+        91,
+        407,
+        122
+      ]
+    },
+    {
+      "text": "WV, USA | +1-795-997-2927 | heather.myers@example.com",
+      "score": 0.9946354627609253,
+      "box": [
+        115,
+        150,
+        678,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9991628527641296,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Golden Bridge School, 2020.06—2023.01",
+      "score": 0.9860263466835022,
+      "box": [
+        116,
+        288,
+        840,
+        318
+      ]
+    },
+    {
+      "text": "- Designed instructional governance models",
+      "score": 0.9785735607147217,
+      "box": [
+        125,
+        314,
+        536,
+        342
+      ]
+    },
+    {
+      "text": "- Led curriculum transformation initiatives",
+      "score": 0.9915809631347656,
+      "box": [
+        126,
+        338,
+        510,
+        367
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Growing Futures Academy, 2017.11-2020.06",
+      "score": 0.9855650663375854,
+      "box": [
+        115,
+        379,
+        886,
+        411
+      ]
+    },
+    {
+      "text": "- Supervised classroom activities",
+      "score": 0.9829859733581543,
+      "box": [
+        127,
+        409,
+        434,
+        433
+      ]
+    },
+    {
+      "text": "- Organized classroom learning resources",
+      "score": 0.9970329999923706,
+      "box": [
+        127,
+        432,
+        517,
+        459
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999377727508545,
+      "box": [
+        117,
+        494,
+        267,
+        521
+      ]
+    },
+    {
+      "text": "Bachelor's, Teaching Support, Meadowway University, 2018",
+      "score": 0.9959378838539124,
+      "box": [
+        117,
+        542,
+        675,
+        566
+      ]
+    },
+    {
+      "text": "• Completed coursework in academic monitoring strategies",
+      "score": 0.9912925958633423,
+      "box": [
+        133,
+        568,
+        678,
+        592
+      ]
+    },
+    {
+      "text": "• Completed coursework in classroom workflow organization",
+      "score": 0.9964615702629089,
+      "box": [
+        132,
+        591,
+        689,
+        616
+      ]
+    }
+  ],
+  "seconds": 2.399628999643028,
+  "id": "60021",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

@@ -1,0 +1,142 @@
+{
+  "lines": [
+    {
+      "text": "JAKE MACDONALD",
+      "score": 0.9990330934524536,
+      "box": [
+        115,
+        90,
+        434,
+        122
+      ]
+    },
+    {
+      "text": "PA, USA | +1-575-669-1723 | jake.macdonald@example.com",
+      "score": 0.9793097972869873,
+      "box": [
+        117,
+        152,
+        685,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9997566342353821,
+      "box": [
+        117,
+        243,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Software Developers, Openpoint Tech, 2021.06—2023.01",
+      "score": 0.989165723323822,
+      "box": [
+        115,
+        288,
+        644,
+        316
+      ]
+    },
+    {
+      "text": "- Led backend platform development",
+      "score": 0.990405261516571,
+      "box": [
+        127,
+        314,
+        470,
+        342
+      ]
+    },
+    {
+      "text": "- Designed data storage strategies",
+      "score": 0.9995808601379395,
+      "box": [
+        128,
+        339,
+        450,
+        369
+      ]
+    },
+    {
+      "text": "Software Developers, Datapoint Solutions, 2019.10—2021.06",
+      "score": 0.9847120046615601,
+      "box": [
+        115,
+        380,
+        678,
+        408
+      ]
+    },
+    {
+      "text": "- Updated documentation for implemented features",
+      "score": 0.997088611125946,
+      "box": [
+        126,
+        408,
+        601,
+        433
+      ]
+    },
+    {
+      "text": "- Updated localization files",
+      "score": 0.9992777109146118,
+      "box": [
+        130,
+        433,
+        374,
+        456
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999237060546875,
+      "box": [
+        116,
+        494,
+        268,
+        521
+      ]
+    },
+    {
+      "text": "Bachelor's, Shady Grove University, 2020",
+      "score": 0.9829448461532593,
+      "box": [
+        117,
+        542,
+        503,
+        566
+      ]
+    },
+    {
+      "text": "•Studied fundamentals of error handling",
+      "score": 0.9827938675880432,
+      "box": [
+        130,
+        566,
+        508,
+        592
+      ]
+    },
+    {
+      "text": "•Completed coursework in message queues",
+      "score": 0.9857766628265381,
+      "box": [
+        131,
+        591,
+        548,
+        617
+      ]
+    }
+  ],
+  "seconds": 2.4277515998110175,
+  "id": "45231",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

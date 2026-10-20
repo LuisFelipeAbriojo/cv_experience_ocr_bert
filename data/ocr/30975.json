@@ -1,0 +1,172 @@
+{
+  "lines": [
+    {
+      "text": "LUIS BROCK",
+      "score": 0.9992416501045227,
+      "box": [
+        117,
+        90,
+        327,
+        121
+      ]
+    },
+    {
+      "text": "MO, USA | +1-366-737-3890 | luis.brock@example.com",
+      "score": 0.9889123439788818,
+      "box": [
+        116,
+        150,
+        633,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9989233016967773,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Stonepath Tech, 2020.06—2023.01",
+      "score": 0.9864950776100159,
+      "box": [
+        115,
+        288,
+        643,
+        316
+      ]
+    },
+    {
+      "text": "- Led refactoring initiatives",
+      "score": 0.9997439384460449,
+      "box": [
+        129,
+        317,
+        374,
+        341
+      ]
+    },
+    {
+      "text": "- Designed logging infrastructures",
+      "score": 0.9751515984535217,
+      "box": [
+        128,
+        339,
+        442,
+        368
+      ]
+    },
+    {
+      "text": "Software Developers, Corepath Solutions, 2017.102020.06",
+      "score": 0.9998623132705688,
+      "box": [
+        116,
+        381,
+        675,
+        408
+      ]
+    },
+    {
+      "text": "- Handled load testing",
+      "score": 0.997711181640625,
+      "box": [
+        124,
+        403,
+        334,
+        435
+      ]
+    },
+    {
+      "text": "- Built data visualization tools",
+      "score": 0.9948666095733643,
+      "box": [
+        126,
+        430,
+        398,
+        455
+      ]
+    },
+    {
+      "text": "Software Developers, Codehaven Labs, 2015.022017.10",
+      "score": 0.9977932572364807,
+      "box": [
+        118,
+        473,
+        655,
+        497
+      ]
+    },
+    {
+      "text": "- Assisted with database queries",
+      "score": 0.9935523271560669,
+      "box": [
+        126,
+        497,
+        430,
+        523
+      ]
+    },
+    {
+      "text": "- Wrote unit tests for application modules",
+      "score": 0.9815555810928345,
+      "box": [
+        126,
+        520,
+        508,
+        550
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9998800754547119,
+      "box": [
+        117,
+        586,
+        267,
+        613
+      ]
+    },
+    {
+      "text": "Associate's degree, Meadowcrest University, 2013",
+      "score": 0.9987226128578186,
+      "box": [
+        118,
+        633,
+        585,
+        657
+      ]
+    },
+    {
+      "text": "•Studied fundamentals of agile methodologies",
+      "score": 0.9941202402114868,
+      "box": [
+        130,
+        659,
+        565,
+        683
+      ]
+    },
+    {
+      "text": "•Studied principles of performance optimization",
+      "score": 0.9657043218612671,
+      "box": [
+        131,
+        682,
+        576,
+        707
+      ]
+    }
+  ],
+  "seconds": 2.553489699959755,
+  "id": "30975",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

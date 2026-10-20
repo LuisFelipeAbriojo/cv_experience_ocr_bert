@@ -1,0 +1,122 @@
+{
+  "lines": [
+    {
+      "text": "ELIZABETH LE",
+      "score": 0.962714433670044,
+      "box": [
+        118,
+        91,
+        358,
+        122
+      ]
+    },
+    {
+      "text": "IL, USA | +1-604-266-3540 | elizabeth.le@example.com",
+      "score": 0.9764953255653381,
+      "box": [
+        118,
+        152,
+        634,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9997331500053406,
+      "box": [
+        117,
+        243,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Accountants Auditors, ClearCount Financial, 2022.10—2023.01",
+      "score": 0.9706748127937317,
+      "box": [
+        117,
+        290,
+        693,
+        313
+      ]
+    },
+    {
+      "text": "- Processed accounts receivable transactions",
+      "score": 0.9979928731918335,
+      "box": [
+        126,
+        314,
+        549,
+        339
+      ]
+    },
+    {
+      "text": "- Assisted with audit fieldwork",
+      "score": 0.9865201115608215,
+      "box": [
+        128,
+        340,
+        405,
+        363
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999402165412903,
+      "box": [
+        116,
+        404,
+        268,
+        431
+      ]
+    },
+    {
+      "text": "Master's, Business Technology, Greenfield University, 2023",
+      "score": 0.9919000864028931,
+      "box": [
+        115,
+        448,
+        669,
+        475
+      ]
+    },
+    {
+      "text": "Bachelor's, International Business, Ironwood University, 2021",
+      "score": 0.9847919940948486,
+      "box": [
+        117,
+        474,
+        682,
+        498
+      ]
+    },
+    {
+      "text": "• Completed coursework in financial compliance basics",
+      "score": 0.9876412153244019,
+      "box": [
+        131,
+        499,
+        642,
+        524
+      ]
+    },
+    {
+      "text": "Completed coursework in professional standards",
+      "score": 0.9919906258583069,
+      "box": [
+        132,
+        521,
+        601,
+        550
+      ]
+    }
+  ],
+  "seconds": 2.235599999781698,
+  "id": "18264",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

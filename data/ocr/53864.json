@@ -1,0 +1,112 @@
+{
+  "lines": [
+    {
+      "text": "ALEXANDER FOWLER",
+      "score": 0.9995068907737732,
+      "box": [
+        117,
+        90,
+        479,
+        122
+      ]
+    },
+    {
+      "text": "TX, USA | +1-268-254-9848 | alexander.fowler@example.com",
+      "score": 0.9973763227462769,
+      "box": [
+        117,
+        149,
+        692,
+        177
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9996986389160156,
+      "box": [
+        117,
+        243,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Construction Laborers, SolidBuild Group, 2020.02—2023.01",
+      "score": 0.9883900880813599,
+      "box": [
+        116,
+        287,
+        663,
+        315
+      ]
+    },
+    {
+      "text": "- Secured site fencing",
+      "score": 0.9954912066459656,
+      "box": [
+        124,
+        311,
+        332,
+        343
+      ]
+    },
+    {
+      "text": "- Supported crew leaders during tasks",
+      "score": 0.9895956516265869,
+      "box": [
+        128,
+        341,
+        480,
+        365
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999542236328125,
+      "box": [
+        116,
+        404,
+        268,
+        431
+      ]
+    },
+    {
+      "text": "Some college (no degree), Construction Infrastructure, Parkview University, 2021",
+      "score": 0.9929561614990234,
+      "box": [
+        117,
+        447,
+        865,
+        474
+      ]
+    },
+    {
+      "text": "•Studied fundamentals of construction site coordination",
+      "score": 0.9758626818656921,
+      "box": [
+        130,
+        473,
+        649,
+        498
+      ]
+    },
+    {
+      "text": "•Completed coursework in construction materials handling",
+      "score": 0.9842360615730286,
+      "box": [
+        132,
+        497,
+        677,
+        526
+      ]
+    }
+  ],
+  "seconds": 2.194866199977696,
+  "id": "53864",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

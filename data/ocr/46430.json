@@ -1,0 +1,202 @@
+{
+  "lines": [
+    {
+      "text": "PEGGY PRUITT",
+      "score": 0.9993006587028503,
+      "box": [
+        117,
+        91,
+        367,
+        121
+      ]
+    },
+    {
+      "text": "PA, USA | +1-660-980-7392 | peggy.pruitt@example.com",
+      "score": 0.9854536056518555,
+      "box": [
+        115,
+        150,
+        648,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9967549443244934,
+      "box": [
+        117,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, KindBridge Care Center, 2020.06—2023.01",
+      "score": 0.9934285283088684,
+      "box": [
+        117,
+        289,
+        695,
+        316
+      ]
+    },
+    {
+      "text": "- Implemented patient monitoring systems",
+      "score": 0.9911065101623535,
+      "box": [
+        126,
+        314,
+        518,
+        343
+      ]
+    },
+    {
+      "text": "- Developed medication management policies",
+      "score": 0.9826800227165222,
+      "box": [
+        127,
+        339,
+        552,
+        369
+      ]
+    },
+    {
+      "text": "Registered Nurses, LifePath Health Services, 2017.102020.06",
+      "score": 0.9978164434432983,
+      "box": [
+        117,
+        382,
+        704,
+        409
+      ]
+    },
+    {
+      "text": "- Led clinical governance efforts",
+      "score": 0.9769341349601746,
+      "box": [
+        127,
+        409,
+        425,
+        433
+      ]
+    },
+    {
+      "text": "- Directed emergency response planning",
+      "score": 0.9896871447563171,
+      "box": [
+        126,
+        431,
+        505,
+        460
+      ]
+    },
+    {
+      "text": "Registered Nurses, BrightPath Nursing Services, 2015.022017.10",
+      "score": 0.9969018697738647,
+      "box": [
+        116,
+        471,
+        738,
+        499
+      ]
+    },
+    {
+      "text": "- Administered chemotherapy protocols",
+      "score": 0.9992141723632812,
+      "box": [
+        125,
+        497,
+        494,
+        525
+      ]
+    },
+    {
+      "text": "- Monitored infusion pump settings",
+      "score": 0.9914488792419434,
+      "box": [
+        127,
+        522,
+        449,
+        550
+      ]
+    },
+    {
+      "text": "Registered Nurses, GentleSpring Health, 2009.112012.07",
+      "score": 0.9962181448936462,
+      "box": [
+        117,
+        565,
+        664,
+        592
+      ]
+    },
+    {
+      "text": "- Recorded shift handoff notes",
+      "score": 0.9987266063690186,
+      "box": [
+        126,
+        590,
+        411,
+        615
+      ]
+    },
+    {
+      "text": "- Provided patient education materials",
+      "score": 0.9952766299247742,
+      "box": [
+        125,
+        613,
+        480,
+        642
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999361038208008,
+      "box": [
+        117,
+        681,
+        266,
+        705
+      ]
+    },
+    {
+      "text": "Associate's degree, Health Support Services, Westview University, 2007",
+      "score": 0.977626383304596,
+      "box": [
+        116,
+        723,
+        786,
+        750
+      ]
+    },
+    {
+      "text": "•Completed coursework in nonpharmacologic pain relief",
+      "score": 0.9754377603530884,
+      "box": [
+        129,
+        748,
+        658,
+        776
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of medication reconciliation",
+      "score": 0.9903520345687866,
+      "box": [
+        132,
+        773,
+        608,
+        799
+      ]
+    }
+  ],
+  "seconds": 3.083332599606365,
+  "id": "46430",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

@@ -1,0 +1,202 @@
+{
+  "lines": [
+    {
+      "text": "SARAH BENTON",
+      "score": 0.9880600571632385,
+      "box": [
+        117,
+        91,
+        387,
+        122
+      ]
+    },
+    {
+      "text": "NJ, USA | +1-707-570-2170 | sarah.benton@example.com",
+      "score": 0.9973617792129517,
+      "box": [
+        115,
+        150,
+        660,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9985945820808411,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, FairLedger Financial Group, 2018.10-2023.01",
+      "score": 0.9872458577156067,
+      "box": [
+        114,
+        287,
+        754,
+        318
+      ]
+    },
+    {
+      "text": "- Directed financial reporting processes",
+      "score": 0.9937567710876465,
+      "box": [
+        125,
+        314,
+        492,
+        344
+      ]
+    },
+    {
+      "text": "- Established financial data governance",
+      "score": 0.9971847534179688,
+      "box": [
+        127,
+        340,
+        493,
+        367
+      ]
+    },
+    {
+      "text": "Accountants Auditors, SolidBooks Advisors, 2014.072018.10",
+      "score": 0.9908986687660217,
+      "box": [
+        118,
+        383,
+        691,
+        407
+      ]
+    },
+    {
+      "text": "- Established tax compliance frameworks",
+      "score": 0.9878007769584656,
+      "box": [
+        125,
+        408,
+        508,
+        433
+      ]
+    },
+    {
+      "text": "- Led audit programs",
+      "score": 0.9751197099685669,
+      "box": [
+        126,
+        432,
+        322,
+        461
+      ]
+    },
+    {
+      "text": "Accountants Auditors, TrustLedger Financial, 2010.04—2014.07",
+      "score": 0.9945041537284851,
+      "box": [
+        116,
+        472,
+        702,
+        498
+      ]
+    },
+    {
+      "text": "- Managed monthly close processes",
+      "score": 0.9926578402519226,
+      "box": [
+        127,
+        500,
+        463,
+        524
+      ]
+    },
+    {
+      "text": "- Reviewed accounting estimates",
+      "score": 0.9885008931159973,
+      "box": [
+        126,
+        521,
+        437,
+        550
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Balanced Path Accounting, 2005.122010.04",
+      "score": 0.9983357787132263,
+      "box": [
+        116,
+        564,
+        744,
+        591
+      ]
+    },
+    {
+      "text": "- Maintained vendor records",
+      "score": 0.9995070695877075,
+      "box": [
+        126,
+        591,
+        390,
+        614
+      ]
+    },
+    {
+      "text": "- Maintained accounting software records",
+      "score": 0.993137538433075,
+      "box": [
+        126,
+        613,
+        511,
+        643
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999251961708069,
+      "box": [
+        117,
+        681,
+        266,
+        705
+      ]
+    },
+    {
+      "text": "Some college (no degree), Strategic Management, Willowgate University, 2010",
+      "score": 0.9881357550621033,
+      "box": [
+        117,
+        724,
+        847,
+        750
+      ]
+    },
+    {
+      "text": "Studied principles of nonprofit accounting",
+      "score": 0.9957733154296875,
+      "box": [
+        129,
+        748,
+        531,
+        777
+      ]
+    },
+    {
+      "text": "•Studied fundamentals of audit software tools",
+      "score": 0.9697744846343994,
+      "box": [
+        131,
+        773,
+        558,
+        798
+      ]
+    }
+  ],
+  "seconds": 2.8513390999287367,
+  "id": "32771",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

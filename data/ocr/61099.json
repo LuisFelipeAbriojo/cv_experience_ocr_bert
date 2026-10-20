@@ -1,0 +1,172 @@
+{
+  "lines": [
+    {
+      "text": "THERESA MAYNARD",
+      "score": 0.9997684955596924,
+      "box": [
+        118,
+        93,
+        456,
+        120
+      ]
+    },
+    {
+      "text": "WI, USA | +1-737-371-9086 | theresa.maynard@example.com",
+      "score": 0.9877718687057495,
+      "box": [
+        116,
+        150,
+        694,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9990894794464111,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, Helping Path Nursing, 2021.012023.01",
+      "score": 0.9948517680168152,
+      "box": [
+        115,
+        287,
+        673,
+        320
+      ]
+    },
+    {
+      "text": "- Developed clinical performance dashboards",
+      "score": 0.9935228228569031,
+      "box": [
+        126,
+        314,
+        549,
+        342
+      ]
+    },
+    {
+      "text": "- Led nursing audit programs",
+      "score": 0.9622601866722107,
+      "box": [
+        127,
+        340,
+        397,
+        369
+      ]
+    },
+    {
+      "text": "Registered Nurses, OpenWay Nursing Services, 2019.012021.01",
+      "score": 0.9995813965797424,
+      "box": [
+        117,
+        382,
+        731,
+        409
+      ]
+    },
+    {
+      "text": "- Provided end-of-life care",
+      "score": 0.9806855320930481,
+      "box": [
+        125,
+        407,
+        370,
+        433
+      ]
+    },
+    {
+      "text": "- Provided pediatric nursing care",
+      "score": 0.9846295714378357,
+      "box": [
+        126,
+        430,
+        431,
+        459
+      ]
+    },
+    {
+      "text": "Registered Nurses, Harmony Health Group, 2016.122019.01",
+      "score": 0.9921988844871521,
+      "box": [
+        118,
+        474,
+        687,
+        498
+      ]
+    },
+    {
+      "text": "- Performed basic life support procedures",
+      "score": 0.9861934781074524,
+      "box": [
+        126,
+        496,
+        514,
+        526
+      ]
+    },
+    {
+      "text": "- Conducted basic patient assessments",
+      "score": 0.9921743273735046,
+      "box": [
+        127,
+        520,
+        493,
+        550
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999127984046936,
+      "box": [
+        117,
+        587,
+        267,
+        614
+      ]
+    },
+    {
+      "text": "Bachelor's, Health Informatics, Lakewood University, 2015",
+      "score": 0.991859495639801,
+      "box": [
+        118,
+        633,
+        656,
+        657
+      ]
+    },
+    {
+      "text": "Completed coursework in medical terminology",
+      "score": 0.9930121898651123,
+      "box": [
+        129,
+        656,
+        575,
+        685
+      ]
+    },
+    {
+      "text": "•Studied fundamentals of trauma care",
+      "score": 0.9899126887321472,
+      "box": [
+        131,
+        681,
+        491,
+        708
+      ]
+    }
+  ],
+  "seconds": 11.181071399711072,
+  "id": "61099",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

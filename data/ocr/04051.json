@@ -1,0 +1,142 @@
+{
+  "lines": [
+    {
+      "text": "AMANDA SHIELDS",
+      "score": 0.9998449683189392,
+      "box": [
+        118,
+        91,
+        420,
+        122
+      ]
+    },
+    {
+      "text": "CA, USA | +1-242-970-6707 |amanda.shields@example.com",
+      "score": 0.9898164868354797,
+      "box": [
+        118,
+        152,
+        687,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9991941452026367,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, Caring Hands Care, 2020.04—2023.01",
+      "score": 0.9865403175354004,
+      "box": [
+        116,
+        288,
+        654,
+        318
+      ]
+    },
+    {
+      "text": "- Directed nursing education initiatives",
+      "score": 0.998963475227356,
+      "box": [
+        125,
+        313,
+        482,
+        343
+      ]
+    },
+    {
+      "text": "- Implemented patient monitoring systems",
+      "score": 0.9942180514335632,
+      "box": [
+        127,
+        339,
+        517,
+        368
+      ]
+    },
+    {
+      "text": "Registered Nurses, Compassion Bridge Care, 2017.072020.04",
+      "score": 0.9996260404586792,
+      "box": [
+        116,
+        380,
+        709,
+        408
+      ]
+    },
+    {
+      "text": "- Checked laboratory results",
+      "score": 0.9817976355552673,
+      "box": [
+        125,
+        406,
+        391,
+        434
+      ]
+    },
+    {
+      "text": "- Provided catheter care",
+      "score": 0.9993885159492493,
+      "box": [
+        126,
+        430,
+        353,
+        458
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999457597732544,
+      "box": [
+        116,
+        494,
+        268,
+        521
+      ]
+    },
+    {
+      "text": "Bachelor's, Human Biology, Oakfield University, 2015",
+      "score": 0.9772709608078003,
+      "box": [
+        115,
+        539,
+        613,
+        567
+      ]
+    },
+    {
+      "text": "•Studied principles of ostomy care",
+      "score": 0.9808115363121033,
+      "box": [
+        130,
+        566,
+        456,
+        592
+      ]
+    },
+    {
+      "text": "• Completed coursework in fluid and electrolyte balance",
+      "score": 0.9923616647720337,
+      "box": [
+        133,
+        592,
+        647,
+        616
+      ]
+    }
+  ],
+  "seconds": 2.267418600153178,
+  "id": "04051",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

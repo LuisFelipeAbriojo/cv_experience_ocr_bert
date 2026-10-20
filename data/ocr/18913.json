@@ -1,0 +1,112 @@
+{
+  "lines": [
+    {
+      "text": "BRANDON HURLEY",
+      "score": 0.9976778030395508,
+      "box": [
+        118,
+        91,
+        435,
+        122
+      ]
+    },
+    {
+      "text": "IL, USA | +1-933-879-2727 | brandon.hurley@example.com",
+      "score": 0.9860262870788574,
+      "box": [
+        118,
+        152,
+        668,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9997355341911316,
+      "box": [
+        117,
+        243,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Construction Laborers, MasterWorks Construction, 2021.09—2023.01",
+      "score": 0.996543288230896,
+      "box": [
+        118,
+        289,
+        752,
+        313
+      ]
+    },
+    {
+      "text": "- Applied basic sealants and adhesives",
+      "score": 0.9828432202339172,
+      "box": [
+        127,
+        316,
+        490,
+        340
+      ]
+    },
+    {
+      "text": "- Followed safety procedures on site",
+      "score": 0.9811639785766602,
+      "box": [
+        129,
+        340,
+        464,
+        366
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999375939369202,
+      "box": [
+        116,
+        404,
+        268,
+        431
+      ]
+    },
+    {
+      "text": "Some college (no degree), Surveying Technology, Silver Creek University, 2023",
+      "score": 0.984979510307312,
+      "box": [
+        116,
+        446,
+        857,
+        476
+      ]
+    },
+    {
+      "text": "Completed coursework in construction site security",
+      "score": 0.9952645897865295,
+      "box": [
+        131,
+        472,
+        618,
+        500
+      ]
+    },
+    {
+      "text": "• Completed coursework in basic plumbing concepts",
+      "score": 0.9872795939445496,
+      "box": [
+        133,
+        498,
+        618,
+        525
+      ]
+    }
+  ],
+  "seconds": 2.025007499847561,
+  "id": "18913",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

@@ -1,0 +1,132 @@
+{
+  "lines": [
+    {
+      "text": "PHILIP LAMB",
+      "score": 0.9997377395629883,
+      "box": [
+        117,
+        91,
+        331,
+        122
+      ]
+    },
+    {
+      "text": "CA, USA | +1-653-994-3059 | philip.lamb@example.com",
+      "score": 0.9718897342681885,
+      "box": [
+        118,
+        152,
+        639,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9997697472572327,
+      "box": [
+        117,
+        243,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Construction Laborers, Unified Builders, 2020.102022.07",
+      "score": 0.9950555562973022,
+      "box": [
+        118,
+        290,
+        654,
+        314
+      ]
+    },
+    {
+      "text": "- Supervised high-risk operations",
+      "score": 0.9876368045806885,
+      "box": [
+        126,
+        316,
+        434,
+        340
+      ]
+    },
+    {
+      "text": "- Directed quality assurance programs",
+      "score": 0.9887462258338928,
+      "box": [
+        127,
+        339,
+        482,
+        369
+      ]
+    },
+    {
+      "text": "Construction Laborers, PrimeBuild Co., 2018.042020.01",
+      "score": 0.9952608942985535,
+      "box": [
+        118,
+        382,
+        645,
+        406
+      ]
+    },
+    {
+      "text": "- Installed temporary site barriers",
+      "score": 0.9825381636619568,
+      "box": [
+        125,
+        406,
+        436,
+        434
+      ]
+    },
+    {
+      "text": "- Applied basic sealants and adhesives",
+      "score": 0.9844969511032104,
+      "box": [
+        130,
+        433,
+        489,
+        456
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999467134475708,
+      "box": [
+        116,
+        494,
+        268,
+        521
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Facilities Maintenance, Northview High School, 2012",
+      "score": 0.9970442652702332,
+      "box": [
+        117,
+        541,
+        864,
+        565
+      ]
+    },
+    {
+      "text": "• Studied principles of hazard identification",
+      "score": 0.9822984337806702,
+      "box": [
+        134,
+        567,
+        528,
+        591
+      ]
+    }
+  ],
+  "seconds": 2.3810056000947952,
+  "id": "02817",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

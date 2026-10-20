@@ -1,0 +1,212 @@
+{
+  "lines": [
+    {
+      "text": "JENNIFER BURKE",
+      "score": 0.9998628497123718,
+      "box": [
+        116,
+        91,
+        411,
+        121
+      ]
+    },
+    {
+      "text": "PA, USA | +1-611-526-4109 | jennifer.burke@example.com",
+      "score": 0.9863540530204773,
+      "box": [
+        115,
+        150,
+        666,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9989033341407776,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Learning Minds Academy, 2020.06—2023.01",
+      "score": 0.9892671704292297,
+      "box": [
+        117,
+        290,
+        871,
+        317
+      ]
+    },
+    {
+      "text": "- Designed learning analytics frameworks",
+      "score": 0.9906352758407593,
+      "box": [
+        126,
+        316,
+        510,
+        341
+      ]
+    },
+    {
+      "text": "- Designed assessment systems",
+      "score": 0.9953258633613586,
+      "box": [
+        126,
+        339,
+        431,
+        371
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Golden Futures Academy, 2017.112020.06",
+      "score": 0.9935774207115173,
+      "box": [
+        116,
+        381,
+        875,
+        411
+      ]
+    },
+    {
+      "text": "- Established data reporting standards",
+      "score": 0.9773247241973877,
+      "box": [
+        127,
+        409,
+        482,
+        433
+      ]
+    },
+    {
+      "text": "- Implemented long-term academic plans",
+      "score": 0.9982271790504456,
+      "box": [
+        127,
+        431,
+        508,
+        459
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Learning Start School, 2015.03—2017.11",
+      "score": 0.9943044185638428,
+      "box": [
+        116,
+        471,
+        837,
+        499
+      ]
+    },
+    {
+      "text": "- Evaluated student portfolios",
+      "score": 0.9921147227287292,
+      "box": [
+        126,
+        498,
+        401,
+        524
+      ]
+    },
+    {
+      "text": "- Prepared remediation materials",
+      "score": 0.978848397731781,
+      "box": [
+        127,
+        521,
+        434,
+        550
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Golden Steps School, 2012.072015.03",
+      "score": 0.9938134551048279,
+      "box": [
+        117,
+        565,
+        834,
+        592
+      ]
+    },
+    {
+      "text": "- Delivered structured lectures",
+      "score": 0.9940271973609924,
+      "box": [
+        126,
+        590,
+        409,
+        616
+      ]
+    },
+    {
+      "text": "- Administered learning games",
+      "score": 0.9773816466331482,
+      "box": [
+        125,
+        613,
+        414,
+        644
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9998840689659119,
+      "box": [
+        117,
+        681,
+        266,
+        705
+      ]
+    },
+    {
+      "text": "Master's, Student Learning Studies, Riverfield University, 2013",
+      "score": 0.9967292547225952,
+      "box": [
+        116,
+        723,
+        697,
+        749
+      ]
+    },
+    {
+      "text": "Bachelor's, Human Development, Meadowridge University, 2011",
+      "score": 0.9822161197662354,
+      "box": [
+        116,
+        749,
+        714,
+        776
+      ]
+    },
+    {
+      "text": "• Studied principles of instructional communication",
+      "score": 0.9930392503738403,
+      "box": [
+        131,
+        776,
+        600,
+        800
+      ]
+    },
+    {
+      "text": "• Completed coursework in student progress monitoring",
+      "score": 0.9809779524803162,
+      "box": [
+        132,
+        798,
+        647,
+        828
+      ]
+    }
+  ],
+  "seconds": 3.915855700150132,
+  "id": "46707",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

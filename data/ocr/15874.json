@@ -1,0 +1,172 @@
+{
+  "lines": [
+    {
+      "text": "HEATHER WALL",
+      "score": 0.9998062252998352,
+      "box": [
+        117,
+        91,
+        386,
+        122
+      ]
+    },
+    {
+      "text": "GA, USA | +1-456-887-4231 | heather.wall@example.com",
+      "score": 0.9926818013191223,
+      "box": [
+        116,
+        150,
+        655,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.999103844165802,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, TrueLife Care Group, 2020.09—2023.01",
+      "score": 0.9809414744377136,
+      "box": [
+        115,
+        287,
+        667,
+        318
+      ]
+    },
+    {
+      "text": "- Led nursing workflow optimization",
+      "score": 0.9856513142585754,
+      "box": [
+        126,
+        314,
+        456,
+        342
+      ]
+    },
+    {
+      "text": "- Supervised multidisciplinary care teams",
+      "score": 0.9908155798912048,
+      "box": [
+        127,
+        339,
+        509,
+        368
+      ]
+    },
+    {
+      "text": "Registered Nurses, SunWay Care Group, 2018.042020.09",
+      "score": 0.9994561076164246,
+      "box": [
+        116,
+        381,
+        669,
+        409
+      ]
+    },
+    {
+      "text": "- Documented clinical care activities",
+      "score": 0.9975112676620483,
+      "box": [
+        126,
+        407,
+        461,
+        433
+      ]
+    },
+    {
+      "text": "- Implemented patient education programs",
+      "score": 0.998399555683136,
+      "box": [
+        127,
+        432,
+        522,
+        459
+      ]
+    },
+    {
+      "text": "Registered Nurses, WellPath Medical Group, 2015.112018.04",
+      "score": 0.9924885034561157,
+      "box": [
+        118,
+        474,
+        700,
+        498
+      ]
+    },
+    {
+      "text": "- Documented patient observations",
+      "score": 0.9897198677062988,
+      "box": [
+        125,
+        496,
+        454,
+        525
+      ]
+    },
+    {
+      "text": "- Recorded patient vital signs",
+      "score": 0.9915722012519836,
+      "box": [
+        127,
+        521,
+        400,
+        551
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9998750686645508,
+      "box": [
+        117,
+        587,
+        267,
+        614
+      ]
+    },
+    {
+      "text": "Bachelor's, Health and Wellness, Clear Spring University, 2013",
+      "score": 0.9890811443328857,
+      "box": [
+        118,
+        633,
+        700,
+        657
+      ]
+    },
+    {
+      "text": "•Completed coursework in patient triage",
+      "score": 0.9775282144546509,
+      "box": [
+        130,
+        658,
+        509,
+        684
+      ]
+    },
+    {
+      "text": "•Studied principles of telemetry basics",
+      "score": 0.9799758791923523,
+      "box": [
+        130,
+        681,
+        493,
+        709
+      ]
+    }
+  ],
+  "seconds": 2.5504995002411306,
+  "id": "15874",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

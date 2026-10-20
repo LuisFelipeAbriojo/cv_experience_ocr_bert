@@ -1,0 +1,112 @@
+{
+  "lines": [
+    {
+      "text": "AMANDA MORTON",
+      "score": 0.9998571872711182,
+      "box": [
+        118,
+        91,
+        425,
+        122
+      ]
+    },
+    {
+      "text": "AL, USA | +1-297-761-3265 | amanda.morton@example.com",
+      "score": 0.9950537085533142,
+      "box": [
+        116,
+        149,
+        684,
+        177
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.999401867389679,
+      "box": [
+        116,
+        243,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Registered Nurses, EverCare Health Services, 2022.09—2023.01",
+      "score": 0.9891620874404907,
+      "box": [
+        116,
+        288,
+        715,
+        315
+      ]
+    },
+    {
+      "text": "- Checked medication dosages",
+      "score": 0.983608067035675,
+      "box": [
+        125,
+        313,
+        416,
+        341
+      ]
+    },
+    {
+      "text": "- Provided catheter care",
+      "score": 0.9994843006134033,
+      "box": [
+        126,
+        338,
+        354,
+        365
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999934732913971,
+      "box": [
+        116,
+        404,
+        268,
+        431
+      ]
+    },
+    {
+      "text": "Bachelor's, Clinical Studies, Oakridge Valley University, 2021",
+      "score": 0.9921092391014099,
+      "box": [
+        115,
+        446,
+        681,
+        475
+      ]
+    },
+    {
+      "text": "•Completed coursework in medication administration",
+      "score": 0.9895886182785034,
+      "box": [
+        130,
+        474,
+        625,
+        499
+      ]
+    },
+    {
+      "text": "Studied fundamentals of quality assurance in care",
+      "score": 0.9828241467475891,
+      "box": [
+        131,
+        496,
+        611,
+        527
+      ]
+    }
+  ],
+  "seconds": 2.1071962998248637,
+  "id": "00123",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

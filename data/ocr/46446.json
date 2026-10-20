@@ -1,0 +1,122 @@
+{
+  "lines": [
+    {
+      "text": "KRYSTLE SHAW",
+      "score": 0.9754999279975891,
+      "box": [
+        117,
+        91,
+        386,
+        121
+      ]
+    },
+    {
+      "text": "PA, USA | +1-593-445-3743 | krystle.shaw@example.com",
+      "score": 0.9871165752410889,
+      "box": [
+        117,
+        152,
+        654,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9997257590293884,
+      "box": [
+        117,
+        243,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, BrightStart Academy, 2019.112021.02",
+      "score": 0.9996365308761597,
+      "box": [
+        117,
+        289,
+        829,
+        316
+      ]
+    },
+    {
+      "text": "- Conducted group reading activities",
+      "score": 0.9795652031898499,
+      "box": [
+        127,
+        316,
+        462,
+        340
+      ]
+    },
+    {
+      "text": "- Distributed assessment rubrics",
+      "score": 0.9835312962532043,
+      "box": [
+        127,
+        339,
+        428,
+        365
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999607801437378,
+      "box": [
+        116,
+        404,
+        268,
+        431
+      ]
+    },
+    {
+      "text": "Master's, Education and Development, Sunnyside University, 2013",
+      "score": 0.9858496189117432,
+      "box": [
+        114,
+        446,
+        737,
+        474
+      ]
+    },
+    {
+      "text": "Bachelor's, Education Preparation, Brightfield Ridge University, 2011",
+      "score": 0.9847545623779297,
+      "box": [
+        116,
+        473,
+        753,
+        500
+      ]
+    },
+    {
+      "text": "•Completed introductory coursework in educational psychology",
+      "score": 0.9899402856826782,
+      "box": [
+        130,
+        496,
+        721,
+        527
+      ]
+    },
+    {
+      "text": "Completed coursework in classroom learning strategies",
+      "score": 0.9921210408210754,
+      "box": [
+        132,
+        521,
+        661,
+        551
+      ]
+    }
+  ],
+  "seconds": 2.321834699716419,
+  "id": "46446",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

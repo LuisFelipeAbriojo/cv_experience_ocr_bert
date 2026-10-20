@@ -1,0 +1,112 @@
+{
+  "lines": [
+    {
+      "text": "SHAMEL SINGH",
+      "score": 0.9997403621673584,
+      "box": [
+        117,
+        91,
+        374,
+        122
+      ]
+    },
+    {
+      "text": "NV, USA | +1-275-543-9134 | shamel.singh@example.com",
+      "score": 0.9881882071495056,
+      "box": [
+        115,
+        149,
+        664,
+        177
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9997732043266296,
+      "box": [
+        117,
+        243,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Software Developers, Opencrest Solutions, 2022.122023.01",
+      "score": 0.9945422410964966,
+      "box": [
+        116,
+        289,
+        683,
+        316
+      ]
+    },
+    {
+      "text": "- Reviewed error reports",
+      "score": 0.998685359954834,
+      "box": [
+        125,
+        314,
+        355,
+        342
+      ]
+    },
+    {
+      "text": "- Resolved merge conflicts",
+      "score": 0.9979546070098877,
+      "box": [
+        127,
+        340,
+        376,
+        367
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999167323112488,
+      "box": [
+        116,
+        404,
+        268,
+        431
+      ]
+    },
+    {
+      "text": "Bachelor's, Crossfield University, 2021",
+      "score": 0.9733054041862488,
+      "box": [
+        115,
+        446,
+        473,
+        474
+      ]
+    },
+    {
+      "text": "•Studied principles of augmented reality",
+      "score": 0.9787872433662415,
+      "box": [
+        130,
+        475,
+        506,
+        499
+      ]
+    },
+    {
+      "text": "•Studied fundamentals of programming paradigms",
+      "score": 0.9900065660476685,
+      "box": [
+        130,
+        497,
+        605,
+        526
+      ]
+    }
+  ],
+  "seconds": 2.0557768996804953,
+  "id": "32039",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

@@ -1,0 +1,112 @@
+{
+  "lines": [
+    {
+      "text": "BRETT WELLS",
+      "score": 0.9994582533836365,
+      "box": [
+        117,
+        91,
+        356,
+        122
+      ]
+    },
+    {
+      "text": "MA, USA | +1-754-739-2916 | brett.wells@example.com",
+      "score": 0.9888544082641602,
+      "box": [
+        115,
+        149,
+        637,
+        177
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9997507929801941,
+      "box": [
+        117,
+        243,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Software Developers, Riverstone Digital, 2019.05—2021.12",
+      "score": 0.9868864417076111,
+      "box": [
+        115,
+        287,
+        661,
+        315
+      ]
+    },
+    {
+      "text": "- Reviewed API documentation",
+      "score": 0.9868250489234924,
+      "box": [
+        126,
+        314,
+        418,
+        339
+      ]
+    },
+    {
+      "text": "- Assisted with database queries",
+      "score": 0.9979380369186401,
+      "box": [
+        127,
+        338,
+        430,
+        366
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999057054519653,
+      "box": [
+        116,
+        404,
+        268,
+        431
+      ]
+    },
+    {
+      "text": "Bachelor's, Morningstar University, 2002",
+      "score": 0.9979813694953918,
+      "box": [
+        116,
+        447,
+        493,
+        474
+      ]
+    },
+    {
+      "text": "Studied principles of software development",
+      "score": 0.9947627186775208,
+      "box": [
+        129,
+        472,
+        549,
+        500
+      ]
+    },
+    {
+      "text": "• Completed coursework in parallel computing",
+      "score": 0.9684382081031799,
+      "box": [
+        132,
+        497,
+        559,
+        527
+      ]
+    }
+  ],
+  "seconds": 1.9334931001067162,
+  "id": "25760",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

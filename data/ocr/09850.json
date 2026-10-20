@@ -1,0 +1,142 @@
+{
+  "lines": [
+    {
+      "text": "BRENDA MACK",
+      "score": 0.9996791481971741,
+      "box": [
+        118,
+        91,
+        371,
+        121
+      ]
+    },
+    {
+      "text": "CO, USA | +1-204-324-6421 | brenda.mack@example.com",
+      "score": 0.9898654818534851,
+      "box": [
+        118,
+        152,
+        663,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.999749481678009,
+      "box": [
+        117,
+        243,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Software Developers, Codefield Software, 2021.062023.01",
+      "score": 0.9999083280563354,
+      "box": [
+        116,
+        289,
+        672,
+        316
+      ]
+    },
+    {
+      "text": "- Developed system monitoring strategies",
+      "score": 0.9937583208084106,
+      "box": [
+        125,
+        314,
+        513,
+        343
+      ]
+    },
+    {
+      "text": "- Defined coding standards",
+      "score": 0.9947167038917542,
+      "box": [
+        127,
+        339,
+        380,
+        369
+      ]
+    },
+    {
+      "text": "Software Developers, Flowline Systems, 2017.02—2018.09",
+      "score": 0.9832540154457092,
+      "box": [
+        115,
+        380,
+        659,
+        408
+      ]
+    },
+    {
+      "text": "- Resolved merge conflicts",
+      "score": 0.983038067817688,
+      "box": [
+        125,
+        406,
+        377,
+        435
+      ]
+    },
+    {
+      "text": "- Configured development environments",
+      "score": 0.9849730730056763,
+      "box": [
+        127,
+        430,
+        501,
+        459
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999280571937561,
+      "box": [
+        116,
+        494,
+        268,
+        521
+      ]
+    },
+    {
+      "text": "Bachelor's, Fieldview University, 2005",
+      "score": 0.989528238773346,
+      "box": [
+        115,
+        539,
+        469,
+        567
+      ]
+    },
+    {
+      "text": "Studied principles of graph algorithms",
+      "score": 0.9992894530296326,
+      "box": [
+        129,
+        566,
+        498,
+        593
+      ]
+    },
+    {
+      "text": "•Studied principles of algorithm complexity",
+      "score": 0.9861961007118225,
+      "box": [
+        130,
+        590,
+        531,
+        619
+      ]
+    }
+  ],
+  "seconds": 2.61081870039925,
+  "id": "09850",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

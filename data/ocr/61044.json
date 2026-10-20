@@ -1,0 +1,142 @@
+{
+  "lines": [
+    {
+      "text": "CONNER BROWN",
+      "score": 0.9983188509941101,
+      "box": [
+        118,
+        91,
+        403,
+        122
+      ]
+    },
+    {
+      "text": "WI, USA | +1-411-658-8224 | conner.brown@example.com",
+      "score": 0.9876974821090698,
+      "box": [
+        118,
+        152,
+        663,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9991834759712219,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, TrueWay Contractors, 2021.042023.01",
+      "score": 0.9976380467414856,
+      "box": [
+        117,
+        289,
+        705,
+        316
+      ]
+    },
+    {
+      "text": "- Reviewed material quality standards",
+      "score": 0.9955278635025024,
+      "box": [
+        126,
+        314,
+        476,
+        341
+      ]
+    },
+    {
+      "text": "- Implemented safety compliance strategies",
+      "score": 0.9880231022834778,
+      "box": [
+        127,
+        338,
+        532,
+        369
+      ]
+    },
+    {
+      "text": "Construction Laborers, SolidRise Construction, 2019.06—2021.04",
+      "score": 0.9816716909408569,
+      "box": [
+        116,
+        380,
+        720,
+        408
+      ]
+    },
+    {
+      "text": "- Assisted with excavation tasks",
+      "score": 0.9694533944129944,
+      "box": [
+        125,
+        407,
+        425,
+        432
+      ]
+    },
+    {
+      "text": "- Supported crew leaders during tasks",
+      "score": 0.9761987924575806,
+      "box": [
+        127,
+        431,
+        481,
+        458
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999339580535889,
+      "box": [
+        117,
+        494,
+        268,
+        521
+      ]
+    },
+    {
+      "text": "Some college (no degree), Construction Operations, Meadowfield University, 2023",
+      "score": 0.9938136339187622,
+      "box": [
+        117,
+        540,
+        878,
+        567
+      ]
+    },
+    {
+      "text": "•Completed coursework in construction site organization",
+      "score": 0.9765526056289673,
+      "box": [
+        130,
+        565,
+        659,
+        593
+      ]
+    },
+    {
+      "text": "Studied fundamentals of masonry",
+      "score": 0.9860770106315613,
+      "box": [
+        131,
+        587,
+        460,
+        619
+      ]
+    }
+  ],
+  "seconds": 2.338510699570179,
+  "id": "61044",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

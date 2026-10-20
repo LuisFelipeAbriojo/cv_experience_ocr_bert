@@ -1,0 +1,202 @@
+{
+  "lines": [
+    {
+      "text": "RANDI GORDON",
+      "score": 0.9975016117095947,
+      "box": [
+        117,
+        90,
+        384,
+        122
+      ]
+    },
+    {
+      "text": "GA, USA | +1-770-247-8528 | randi.gordon@example.com",
+      "score": 0.9966339468955994,
+      "box": [
+        116,
+        150,
+        659,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9991202354431152,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, ClearSpring Health Group, 2019.08—2023.01",
+      "score": 0.9803615212440491,
+      "box": [
+        115,
+        287,
+        715,
+        318
+      ]
+    },
+    {
+      "text": "- Developed nursing training programs",
+      "score": 0.9823135137557983,
+      "box": [
+        126,
+        314,
+        485,
+        345
+      ]
+    },
+    {
+      "text": "- Implemented clinical decision support systems",
+      "score": 0.9722127914428711,
+      "box": [
+        126,
+        339,
+        572,
+        369
+      ]
+    },
+    {
+      "text": "Registered Nurses, Harmony Hands Health, 2016.032019.08",
+      "score": 0.9943853616714478,
+      "box": [
+        117,
+        382,
+        693,
+        409
+      ]
+    },
+    {
+      "text": "- Directed nursing education initiatives",
+      "score": 0.9923489689826965,
+      "box": [
+        125,
+        406,
+        482,
+        435
+      ]
+    },
+    {
+      "text": "- Implemented care standardization",
+      "score": 0.9874482154846191,
+      "box": [
+        128,
+        432,
+        456,
+        457
+      ]
+    },
+    {
+      "text": "Registered Nurses, Caring Life Care, 2012.10—2016.03",
+      "score": 0.9845109581947327,
+      "box": [
+        116,
+        472,
+        628,
+        500
+      ]
+    },
+    {
+      "text": "- Implemented patient education programs",
+      "score": 0.9747834205627441,
+      "box": [
+        125,
+        497,
+        523,
+        527
+      ]
+    },
+    {
+      "text": "- Conducted comprehensive patient assessments",
+      "score": 0.9940741062164307,
+      "box": [
+        127,
+        521,
+        586,
+        551
+      ]
+    },
+    {
+      "text": "Registered Nurses, LifeWay Nursing Services, 2006.06—2009.12",
+      "score": 0.9917526245117188,
+      "box": [
+        116,
+        564,
+        717,
+        592
+      ]
+    },
+    {
+      "text": "- Provided patient education materials",
+      "score": 0.9995554685592651,
+      "box": [
+        125,
+        589,
+        482,
+        617
+      ]
+    },
+    {
+      "text": "- Maintained infection control protocols",
+      "score": 0.9858514070510864,
+      "box": [
+        125,
+        613,
+        487,
+        642
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999169111251831,
+      "box": [
+        117,
+        681,
+        266,
+        705
+      ]
+    },
+    {
+      "text": "Bachelor's, Clinical Nursing, Autumn Ridge University, 2004",
+      "score": 0.9933070540428162,
+      "box": [
+        116,
+        725,
+        670,
+        751
+      ]
+    },
+    {
+      "text": "• Completed coursework in enteral feeding basics",
+      "score": 0.9895021319389343,
+      "box": [
+        132,
+        751,
+        593,
+        775
+      ]
+    },
+    {
+      "text": "Studied fundamentals of clinical documentation",
+      "score": 0.9917483329772949,
+      "box": [
+        131,
+        772,
+        586,
+        800
+      ]
+    }
+  ],
+  "seconds": 2.870757000055164,
+  "id": "15974",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

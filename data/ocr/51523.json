@@ -1,0 +1,172 @@
+{
+  "lines": [
+    {
+      "text": "DANIEL WONG",
+      "score": 0.9792303442955017,
+      "box": [
+        118,
+        91,
+        359,
+        122
+      ]
+    },
+    {
+      "text": "TX, USA | +1-544-274-6227 | daniel.wong@example.com",
+      "score": 0.9814241528511047,
+      "box": [
+        118,
+        151,
+        648,
+        177
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9989557266235352,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Brightfield Digital, 2020.03—2023.01",
+      "score": 0.9862582087516785,
+      "box": [
+        117,
+        291,
+        651,
+        315
+      ]
+    },
+    {
+      "text": "- Designed event-driven architectures",
+      "score": 0.9979346990585327,
+      "box": [
+        128,
+        315,
+        476,
+        341
+      ]
+    },
+    {
+      "text": "- Built fault-tolerant systems",
+      "score": 0.9915257096290588,
+      "box": [
+        128,
+        340,
+        387,
+        367
+      ]
+    },
+    {
+      "text": "Software Developers, Codepath Tech, 2016.012018.12",
+      "score": 0.9997556805610657,
+      "box": [
+        116,
+        382,
+        641,
+        409
+      ]
+    },
+    {
+      "text": "- Improved memory usage",
+      "score": 0.9993792772293091,
+      "box": [
+        126,
+        407,
+        374,
+        435
+      ]
+    },
+    {
+      "text": "- Integrated payment gateways",
+      "score": 0.9989948272705078,
+      "box": [
+        127,
+        432,
+        418,
+        460
+      ]
+    },
+    {
+      "text": "Software Developers, Netline Technologies, 2011.112014.10",
+      "score": 0.99617999792099,
+      "box": [
+        118,
+        473,
+        691,
+        497
+      ]
+    },
+    {
+      "text": "- Assisted with database queries",
+      "score": 0.9931063055992126,
+      "box": [
+        126,
+        497,
+        431,
+        523
+      ]
+    },
+    {
+      "text": "- Updated documentation for implemented features",
+      "score": 0.9923868179321289,
+      "box": [
+        128,
+        521,
+        601,
+        549
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999482035636902,
+      "box": [
+        118,
+        588,
+        266,
+        612
+      ]
+    },
+    {
+      "text": "Bachelor's, Stonegate University, 2008",
+      "score": 0.9967309832572937,
+      "box": [
+        118,
+        633,
+        476,
+        657
+      ]
+    },
+    {
+      "text": "•Studied fundamentals of programming paradigms",
+      "score": 0.9929330945014954,
+      "box": [
+        128,
+        657,
+        606,
+        685
+      ]
+    },
+    {
+      "text": "Completed coursework in dynamic analysis",
+      "score": 0.9974678754806519,
+      "box": [
+        132,
+        681,
+        549,
+        709
+      ]
+    }
+  ],
+  "seconds": 2.507355300243944,
+  "id": "51523",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

@@ -1,0 +1,162 @@
+{
+  "lines": [
+    {
+      "text": "KENNETH BURCH",
+      "score": 0.9998593926429749,
+      "box": [
+        117,
+        92,
+        410,
+        122
+      ]
+    },
+    {
+      "text": "IN, USA | +1-837-410-7640 | kenneth.burch@example.com",
+      "score": 0.9909939765930176,
+      "box": [
+        118,
+        152,
+        664,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9986692070960999,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, SureBuild Group, 2020.112023.01",
+      "score": 0.9734152555465698,
+      "box": [
+        116,
+        288,
+        661,
+        316
+      ]
+    },
+    {
+      "text": "- Managed large-scale installations",
+      "score": 0.9977297186851501,
+      "box": [
+        125,
+        314,
+        452,
+        343
+      ]
+    },
+    {
+      "text": "- Managed construction schedules",
+      "score": 0.9860615730285645,
+      "box": [
+        128,
+        340,
+        447,
+        366
+      ]
+    },
+    {
+      "text": "Construction Laborers, Allied Frame Co., 2018.092020.11",
+      "score": 0.9901247024536133,
+      "box": [
+        118,
+        383,
+        662,
+        407
+      ]
+    },
+    {
+      "text": "- Operated heavy equipment",
+      "score": 0.9996427297592163,
+      "box": [
+        125,
+        407,
+        395,
+        435
+      ]
+    },
+    {
+      "text": "- Supervised junior laborers",
+      "score": 0.9901948571205139,
+      "box": [
+        127,
+        431,
+        387,
+        460
+      ]
+    },
+    {
+      "text": "Construction Laborers, AnchorBuild Services, 2014.022016.05",
+      "score": 0.9867002964019775,
+      "box": [
+        118,
+        473,
+        705,
+        497
+      ]
+    },
+    {
+      "text": "- Assembled prefabricated components",
+      "score": 0.9934474229812622,
+      "box": [
+        127,
+        499,
+        492,
+        523
+      ]
+    },
+    {
+      "text": "- Dug trenches for utility lines",
+      "score": 0.9979346394538879,
+      "box": [
+        127,
+        521,
+        400,
+        551
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999340772628784,
+      "box": [
+        118,
+        588,
+        266,
+        612
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Construction Technology, Riverfield High School, 2011",
+      "score": 0.9976201057434082,
+      "box": [
+        117,
+        632,
+        881,
+        659
+      ]
+    },
+    {
+      "text": "• Completed coursework in construction equipment safety",
+      "score": 0.9839985966682434,
+      "box": [
+        132,
+        658,
+        665,
+        683
+      ]
+    }
+  ],
+  "seconds": 2.823225099593401,
+  "id": "20806",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

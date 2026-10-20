@@ -1,0 +1,112 @@
+{
+  "lines": [
+    {
+      "text": "MARCELLO POOLE",
+      "score": 0.9998488426208496,
+      "box": [
+        116,
+        87,
+        433,
+        123
+      ]
+    },
+    {
+      "text": "CA, USA | +1-295-489-1723 | marcello.poole@example.com",
+      "score": 0.9842448830604553,
+      "box": [
+        117,
+        150,
+        676,
+        177
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9997484087944031,
+      "box": [
+        117,
+        243,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Software Developers, Dataframe Solutions, 2022.09—2023.01",
+      "score": 0.989220380783081,
+      "box": [
+        116,
+        289,
+        685,
+        316
+      ]
+    },
+    {
+      "text": "- Configured development environments",
+      "score": 0.9783147573471069,
+      "box": [
+        126,
+        313,
+        502,
+        342
+      ]
+    },
+    {
+      "text": "- Implemented basic authentication logic",
+      "score": 0.9762139320373535,
+      "box": [
+        127,
+        338,
+        502,
+        367
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999949038028717,
+      "box": [
+        116,
+        404,
+        268,
+        431
+      ]
+    },
+    {
+      "text": "Some college (no degree), Westbrook University, 2023",
+      "score": 0.987201988697052,
+      "box": [
+        116,
+        445,
+        624,
+        476
+      ]
+    },
+    {
+      "text": "• Completed coursework in machine learning basics",
+      "score": 0.9691119194030762,
+      "box": [
+        132,
+        473,
+        613,
+        499
+      ]
+    },
+    {
+      "text": "Completed coursework in configuration management",
+      "score": 0.9996432662010193,
+      "box": [
+        132,
+        497,
+        637,
+        525
+      ]
+    }
+  ],
+  "seconds": 1.9110317998565733,
+  "id": "02652",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

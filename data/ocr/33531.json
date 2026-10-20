@@ -1,0 +1,212 @@
+{
+  "lines": [
+    {
+      "text": "MICHAEL HENSON",
+      "score": 0.999768078327179,
+      "box": [
+        118,
+        92,
+        422,
+        122
+      ]
+    },
+    {
+      "text": "NJ, USA | +1-691-306-1986 | michael.henson@example.com",
+      "score": 0.9952174425125122,
+      "box": [
+        115,
+        150,
+        683,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.998323380947113,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, SolidBooks Accounting, 2019.05—2023.01",
+      "score": 0.9928770661354065,
+      "box": [
+        116,
+        290,
+        711,
+        316
+      ]
+    },
+    {
+      "text": "- Developed accounting innovation plans",
+      "score": 0.994274914264679,
+      "box": [
+        128,
+        316,
+        505,
+        342
+      ]
+    },
+    {
+      "text": "- Established reporting automation systems",
+      "score": 0.9921496510505676,
+      "box": [
+        127,
+        339,
+        529,
+        369
+      ]
+    },
+    {
+      "text": "Accountants Auditors, ClearLedger Financial, 2015.092019.05",
+      "score": 0.9977574944496155,
+      "box": [
+        118,
+        383,
+        704,
+        407
+      ]
+    },
+    {
+      "text": "- Led financial data standardization",
+      "score": 0.9787091016769409,
+      "box": [
+        129,
+        409,
+        453,
+        432
+      ]
+    },
+    {
+      "text": "- Led accounting transformation projects",
+      "score": 0.9747406244277954,
+      "box": [
+        128,
+        432,
+        501,
+        458
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Integrity Count Co., 2012.01—2015.09",
+      "score": 0.9930360317230225,
+      "box": [
+        115,
+        471,
+        675,
+        499
+      ]
+    },
+    {
+      "text": "- Reviewed audit workpapers",
+      "score": 0.9951258301734924,
+      "box": [
+        126,
+        498,
+        400,
+        523
+      ]
+    },
+    {
+      "text": "- Prepared statutory filings",
+      "score": 0.9864767789840698,
+      "box": [
+        127,
+        521,
+        373,
+        552
+      ]
+    },
+    {
+      "text": "Accountants Auditors, SolidBalance Advisors Group, 2008.05—2012.01",
+      "score": 0.985235869884491,
+      "box": [
+        117,
+        566,
+        770,
+        590
+      ]
+    },
+    {
+      "text": "- Verified transaction accuracy",
+      "score": 0.977793276309967,
+      "box": [
+        126,
+        589,
+        410,
+        618
+      ]
+    },
+    {
+      "text": "- Recorded cash receipts",
+      "score": 0.9605318903923035,
+      "box": [
+        125,
+        613,
+        363,
+        644
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999239444732666,
+      "box": [
+        117,
+        681,
+        266,
+        705
+      ]
+    },
+    {
+      "text": "Professional degree, Statistics, Brookstone University, 2012",
+      "score": 0.9960983991622925,
+      "box": [
+        115,
+        723,
+        673,
+        750
+      ]
+    },
+    {
+      "text": "Bachelor's, Financial Management, Highland University, 2008",
+      "score": 0.9878488779067993,
+      "box": [
+        116,
+        749,
+        687,
+        776
+      ]
+    },
+    {
+      "text": "•Completed coursework in investment analysis basics",
+      "score": 0.980826735496521,
+      "box": [
+        130,
+        774,
+        636,
+        800
+      ]
+    },
+    {
+      "text": "Completed coursework in cost allocation methods",
+      "score": 0.9919253587722778,
+      "box": [
+        131,
+        798,
+        609,
+        826
+      ]
+    }
+  ],
+  "seconds": 3.1018892000429332,
+  "id": "33531",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

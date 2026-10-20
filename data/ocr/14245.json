@@ -1,0 +1,142 @@
+{
+  "lines": [
+    {
+      "text": "ANTHONY BERNARD",
+      "score": 0.991912841796875,
+      "box": [
+        117,
+        89,
+        457,
+        122
+      ]
+    },
+    {
+      "text": "FL, USA | +1-447-887-7336 | anthony.bernard@example.com",
+      "score": 0.9835095405578613,
+      "box": [
+        116,
+        149,
+        688,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9991037249565125,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Harmony Minds Academy, 2020.06—2022.04",
+      "score": 0.9982799291610718,
+      "box": [
+        115,
+        287,
+        878,
+        319
+      ]
+    },
+    {
+      "text": "- Directed cross-grade curriculum alignment",
+      "score": 0.9828914999961853,
+      "box": [
+        125,
+        314,
+        537,
+        342
+      ]
+    },
+    {
+      "text": "- Designed systemic intervention models",
+      "score": 0.9899086356163025,
+      "box": [
+        129,
+        342,
+        504,
+        366
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Discovery Grove School, 2017.092019.08",
+      "score": 0.9959511160850525,
+      "box": [
+        116,
+        381,
+        864,
+        411
+      ]
+    },
+    {
+      "text": "- Implemented basic classroom management procedures",
+      "score": 0.9925785660743713,
+      "box": [
+        125,
+        406,
+        657,
+        435
+      ]
+    },
+    {
+      "text": "- Implemented basic literacy lessons",
+      "score": 0.996740460395813,
+      "box": [
+        128,
+        432,
+        465,
+        458
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999234080314636,
+      "box": [
+        117,
+        494,
+        267,
+        521
+      ]
+    },
+    {
+      "text": "Associate's degree, Academic Foundations, Heritage University, 2015",
+      "score": 0.9852079749107361,
+      "box": [
+        117,
+        541,
+        764,
+        568
+      ]
+    },
+    {
+      "text": "• Completed coursework in classroom assessment techniques",
+      "score": 0.9896476864814758,
+      "box": [
+        130,
+        567,
+        707,
+        592
+      ]
+    },
+    {
+      "text": "Studied foundational pedagogy concepts",
+      "score": 0.9959323406219482,
+      "box": [
+        130,
+        589,
+        526,
+        619
+      ]
+    }
+  ],
+  "seconds": 2.5312105999328196,
+  "id": "14245",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

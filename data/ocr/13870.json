@@ -1,0 +1,142 @@
+{
+  "lines": [
+    {
+      "text": "BRIAN DRAKE",
+      "score": 0.9999252557754517,
+      "box": [
+        118,
+        90,
+        351,
+        121
+      ]
+    },
+    {
+      "text": "FL, USA | +1-956-717-1139 | brian.drake@example.com",
+      "score": 0.990229606628418,
+      "box": [
+        116,
+        149,
+        640,
+        177
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9991771578788757,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Reliable Accounts Advisors, 2021.04—2023.01",
+      "score": 0.9948134422302246,
+      "box": [
+        117,
+        289,
+        751,
+        313
+      ]
+    },
+    {
+      "text": "- Directed accounting system implementations",
+      "score": 0.9947898983955383,
+      "box": [
+        126,
+        315,
+        557,
+        341
+      ]
+    },
+    {
+      "text": "- Established reporting automation systems",
+      "score": 0.9927321672439575,
+      "box": [
+        127,
+        339,
+        530,
+        368
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Reliable Balance Services, 2017.02—2018.12",
+      "score": 0.9775489568710327,
+      "box": [
+        117,
+        381,
+        744,
+        406
+      ]
+    },
+    {
+      "text": "- Assisted with internal control testing",
+      "score": 0.99437415599823,
+      "box": [
+        123,
+        405,
+        474,
+        435
+      ]
+    },
+    {
+      "text": "- Reviewed ledger postings",
+      "score": 0.9995300769805908,
+      "box": [
+        126,
+        431,
+        381,
+        459
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999290108680725,
+      "box": [
+        117,
+        494,
+        267,
+        521
+      ]
+    },
+    {
+      "text": "Bachelor's, Accounting, Aspen Grove University, 2011",
+      "score": 0.999206006526947,
+      "box": [
+        116,
+        540,
+        618,
+        567
+      ]
+    },
+    {
+      "text": "Studied principles of audit sampling",
+      "score": 0.9968070983886719,
+      "box": [
+        129,
+        564,
+        477,
+        594
+      ]
+    },
+    {
+      "text": "• Completed coursework in spreadsheet applications",
+      "score": 0.9844956398010254,
+      "box": [
+        132,
+        592,
+        620,
+        616
+      ]
+    }
+  ],
+  "seconds": 2.4325125999748707,
+  "id": "13870",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

@@ -1,0 +1,122 @@
+{
+  "lines": [
+    {
+      "text": "RAQUEL NASH",
+      "score": 0.999777615070343,
+      "box": [
+        117,
+        91,
+        363,
+        122
+      ]
+    },
+    {
+      "text": "CA, USA | +1-796-323-9074 | raquel.nash@example.com",
+      "score": 0.9820166230201721,
+      "box": [
+        118,
+        152,
+        649,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.999736487865448,
+      "box": [
+        117,
+        243,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Learning Start School, 2019.12—2022.05",
+      "score": 0.9904696345329285,
+      "box": [
+        117,
+        289,
+        839,
+        316
+      ]
+    },
+    {
+      "text": "- Distributed instructional handouts",
+      "score": 0.9816688895225525,
+      "box": [
+        126,
+        314,
+        451,
+        340
+      ]
+    },
+    {
+      "text": "- Monitored independent work sessions",
+      "score": 0.9951423406600952,
+      "box": [
+        128,
+        340,
+        492,
+        366
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999569654464722,
+      "box": [
+        116,
+        404,
+        268,
+        431
+      ]
+    },
+    {
+      "text": "Master's, Educational Support, Granite Hill University, 2015",
+      "score": 0.9859314560890198,
+      "box": [
+        116,
+        448,
+        667,
+        475
+      ]
+    },
+    {
+      "text": "Bachelor's, Academic Support Studies, Oakridge Valley University, 2013",
+      "score": 0.9773543477058411,
+      "box": [
+        115,
+        472,
+        787,
+        500
+      ]
+    },
+    {
+      "text": "• Studied basic classroom management concepts",
+      "score": 0.9837270975112915,
+      "box": [
+        130,
+        499,
+        592,
+        524
+      ]
+    },
+    {
+      "text": "Completed coursework in introductory child psychology",
+      "score": 0.9923917651176453,
+      "box": [
+        132,
+        521,
+        656,
+        552
+      ]
+    }
+  ],
+  "seconds": 4.1898055002093315,
+  "id": "02696",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

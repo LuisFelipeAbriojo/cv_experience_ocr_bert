@@ -1,0 +1,192 @@
+{
+  "lines": [
+    {
+      "text": "ALYSSA DEJESUS",
+      "score": 0.999908983707428,
+      "box": [
+        117,
+        89,
+        418,
+        122
+      ]
+    },
+    {
+      "text": "WV, USA | +1-920-993-1168 | alyssa.dejesus@example.com",
+      "score": 0.9877512454986572,
+      "box": [
+        116,
+        151,
+        681,
+        177
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9658131003379822,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, TrueBuild Group, 2020.06—2023.01",
+      "score": 0.9889329671859741,
+      "box": [
+        116,
+        288,
+        660,
+        316
+      ]
+    },
+    {
+      "text": "- Directed project scheduling",
+      "score": 0.9927453398704529,
+      "box": [
+        125,
+        314,
+        394,
+        343
+      ]
+    },
+    {
+      "text": "- Directed training programs for crews",
+      "score": 0.9834532737731934,
+      "box": [
+        127,
+        340,
+        478,
+        369
+      ]
+    },
+    {
+      "text": "Construction Laborers, SureStep Builders, 2017.102020.06",
+      "score": 0.9937589764595032,
+      "box": [
+        118,
+        383,
+        676,
+        407
+      ]
+    },
+    {
+      "text": "- Developed construction standards",
+      "score": 0.9996111392974854,
+      "box": [
+        127,
+        409,
+        457,
+        432
+      ]
+    },
+    {
+      "text": "- Led cross-functional coordination",
+      "score": 0.9971758127212524,
+      "box": [
+        129,
+        434,
+        448,
+        456
+      ]
+    },
+    {
+      "text": "Construction Laborers, StrongLine Builders, 2014.03—2016.11",
+      "score": 0.9827014207839966,
+      "box": [
+        116,
+        471,
+        690,
+        499
+      ]
+    },
+    {
+      "text": "- Installed mechanical supports",
+      "score": 0.9773266315460205,
+      "box": [
+        127,
+        500,
+        418,
+        523
+      ]
+    },
+    {
+      "text": "- Installed plumbing fixtures",
+      "score": 0.9939289689064026,
+      "box": [
+        128,
+        522,
+        383,
+        550
+      ]
+    },
+    {
+      "text": "Construction Laborers, ClearPoint Builders, 2010.102013.06",
+      "score": 0.9935531616210938,
+      "box": [
+        118,
+        566,
+        687,
+        590
+      ]
+    },
+    {
+      "text": "- Installed safety signage",
+      "score": 0.9887634515762329,
+      "box": [
+        126,
+        588,
+        362,
+        619
+      ]
+    },
+    {
+      "text": "- Handled power tools under supervision",
+      "score": 0.9762206673622131,
+      "box": [
+        126,
+        614,
+        503,
+        642
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999163746833801,
+      "box": [
+        117,
+        681,
+        266,
+        705
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Building Trades, Goldenwood High School, 2005",
+      "score": 0.9825882315635681,
+      "box": [
+        116,
+        723,
+        827,
+        750
+      ]
+    },
+    {
+      "text": "• Completed coursework in construction site security",
+      "score": 0.9922125339508057,
+      "box": [
+        133,
+        750,
+        618,
+        774
+      ]
+    }
+  ],
+  "seconds": 2.734752899967134,
+  "id": "60194",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

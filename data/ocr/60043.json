@@ -1,0 +1,142 @@
+{
+  "lines": [
+    {
+      "text": "RACHEL MCLEAN",
+      "score": 0.9995936751365662,
+      "box": [
+        118,
+        91,
+        410,
+        121
+      ]
+    },
+    {
+      "text": "WV, USA | +1-772-858-8015 | rachel.mclean@example.com",
+      "score": 0.9779087901115417,
+      "box": [
+        118,
+        152,
+        674,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.998986005783081,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, Harmony Nursing Services, 2020.12—2023.01",
+      "score": 0.9861659407615662,
+      "box": [
+        117,
+        289,
+        723,
+        316
+      ]
+    },
+    {
+      "text": "- Led nursing process audits",
+      "score": 0.9539070129394531,
+      "box": [
+        125,
+        314,
+        391,
+        341
+      ]
+    },
+    {
+      "text": "- Directed care coordination strategies",
+      "score": 0.980920672416687,
+      "box": [
+        127,
+        339,
+        481,
+        367
+      ]
+    },
+    {
+      "text": "Registered Nurses, EverSpring Health Services, 2018.112020.12",
+      "score": 0.9996111392974854,
+      "box": [
+        117,
+        382,
+        733,
+        409
+      ]
+    },
+    {
+      "text": "- Recorded patient vital signs",
+      "score": 0.9995450973510742,
+      "box": [
+        126,
+        407,
+        399,
+        433
+      ]
+    },
+    {
+      "text": "- Assisted with patient positioning",
+      "score": 0.9838786721229553,
+      "box": [
+        127,
+        431,
+        438,
+        460
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9998810887336731,
+      "box": [
+        117,
+        494,
+        267,
+        521
+      ]
+    },
+    {
+      "text": "Some college (no degree), Life Sciences, Brookside University, 2017",
+      "score": 0.9881321787834167,
+      "box": [
+        117,
+        540,
+        754,
+        567
+      ]
+    },
+    {
+      "text": "• Completed coursework in disaster nursing basics",
+      "score": 0.9955306053161621,
+      "box": [
+        132,
+        566,
+        602,
+        592
+      ]
+    },
+    {
+      "text": "•Completed coursework in oncology nursing basics",
+      "score": 0.9841256141662598,
+      "box": [
+        131,
+        590,
+        613,
+        618
+      ]
+    }
+  ],
+  "seconds": 2.6505996002815664,
+  "id": "60043",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

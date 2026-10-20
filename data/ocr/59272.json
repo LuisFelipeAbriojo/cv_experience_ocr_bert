@@ -1,0 +1,142 @@
+{
+  "lines": [
+    {
+      "text": "STACI PHILLIPS",
+      "score": 0.9998601078987122,
+      "box": [
+        117,
+        91,
+        377,
+        122
+      ]
+    },
+    {
+      "text": "WA, USA | +1-345-807-7414 | staci.phillips@example.com",
+      "score": 0.9937068819999695,
+      "box": [
+        116,
+        149,
+        658,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9997566342353821,
+      "box": [
+        117,
+        243,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Registered Nurses, NewHands Health Group, 2018.102021.09",
+      "score": 0.979525089263916,
+      "box": [
+        117,
+        289,
+        708,
+        316
+      ]
+    },
+    {
+      "text": "- Developed staffing allocation models",
+      "score": 0.9972036480903625,
+      "box": [
+        125,
+        313,
+        482,
+        342
+      ]
+    },
+    {
+      "text": "- Led nursing audit programs",
+      "score": 0.9546600580215454,
+      "box": [
+        127,
+        339,
+        398,
+        369
+      ]
+    },
+    {
+      "text": "Registered Nurses, Harmony Nursing Group, 2014.052017.05",
+      "score": 0.9914041757583618,
+      "box": [
+        115,
+        379,
+        703,
+        410
+      ]
+    },
+    {
+      "text": "- Administered prescribed medications",
+      "score": 0.9926344156265259,
+      "box": [
+        125,
+        407,
+        484,
+        432
+      ]
+    },
+    {
+      "text": "- Performed blood glucose testing",
+      "score": 0.9890929460525513,
+      "box": [
+        127,
+        431,
+        441,
+        459
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999098181724548,
+      "box": [
+        117,
+        494,
+        268,
+        521
+      ]
+    },
+    {
+      "text": "Bachelor's, Biological Sciences, Brookhaven University, 2012",
+      "score": 0.993783175945282,
+      "box": [
+        116,
+        540,
+        684,
+        567
+      ]
+    },
+    {
+      "text": "Completed coursework in rehabilitation nursing",
+      "score": 0.9866251945495605,
+      "box": [
+        130,
+        564,
+        583,
+        594
+      ]
+    },
+    {
+      "text": "Studied principles of pharmacology",
+      "score": 0.9994999170303345,
+      "box": [
+        130,
+        589,
+        473,
+        619
+      ]
+    }
+  ],
+  "seconds": 2.5642769001424313,
+  "id": "59272",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

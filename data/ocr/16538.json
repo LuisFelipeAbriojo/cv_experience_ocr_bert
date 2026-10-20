@@ -1,0 +1,142 @@
+{
+  "lines": [
+    {
+      "text": "JESSIKA PARRISH",
+      "score": 0.9846399426460266,
+      "box": [
+        115,
+        89,
+        421,
+        122
+      ]
+    },
+    {
+      "text": "GA, USA | +1-346-308-5362 | jessika.parrish@example.com",
+      "score": 0.9924241900444031,
+      "box": [
+        116,
+        150,
+        675,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9680922627449036,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Caring Start School, 2020.05—2022.04",
+      "score": 0.9913957715034485,
+      "box": [
+        116,
+        288,
+        820,
+        318
+      ]
+    },
+    {
+      "text": "- Directed curriculum revision cycles",
+      "score": 0.9983488321304321,
+      "box": [
+        126,
+        315,
+        463,
+        341
+      ]
+    },
+    {
+      "text": "- Led curriculum transformation initiatives",
+      "score": 0.9907940030097961,
+      "box": [
+        126,
+        339,
+        509,
+        366
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Sunny Futures School, 2017.112019.11",
+      "score": 0.9994469285011292,
+      "box": [
+        115,
+        379,
+        844,
+        411
+      ]
+    },
+    {
+      "text": "- Administered learning games",
+      "score": 0.987941324710846,
+      "box": [
+        125,
+        406,
+        414,
+        435
+      ]
+    },
+    {
+      "text": "- Conducted group reading activities",
+      "score": 0.9915866851806641,
+      "box": [
+        128,
+        433,
+        463,
+        459
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999277591705322,
+      "box": [
+        117,
+        494,
+        266,
+        521
+      ]
+    },
+    {
+      "text": "Some college (no degree), Learning and Teaching Studies, Windridge University, 2013",
+      "score": 0.9855265617370605,
+      "box": [
+        118,
+        541,
+        917,
+        565
+      ]
+    },
+    {
+      "text": "• Completed coursework in foundational education methods",
+      "score": 0.9967488646507263,
+      "box": [
+        132,
+        568,
+        685,
+        591
+      ]
+    },
+    {
+      "text": "Completed coursework in instructional sequencing",
+      "score": 0.9896404147148132,
+      "box": [
+        131,
+        589,
+        614,
+        619
+      ]
+    }
+  ],
+  "seconds": 2.6791285001672804,
+  "id": "16538",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

@@ -1,0 +1,142 @@
+{
+  "lines": [
+    {
+      "text": "ERICA TRAN",
+      "score": 0.9896847009658813,
+      "box": [
+        117,
+        90,
+        325,
+        121
+      ]
+    },
+    {
+      "text": "MA, USA | +1-558-418-2479 | erica.tran@example.com",
+      "score": 0.990262508392334,
+      "box": [
+        116,
+        149,
+        629,
+        177
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.999746561050415,
+      "box": [
+        117,
+        243,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Registered Nurses, LifePath Nursing Services, 2020.05—2023.01",
+      "score": 0.9910087585449219,
+      "box": [
+        117,
+        289,
+        715,
+        316
+      ]
+    },
+    {
+      "text": "- Managed clinical data analysis",
+      "score": 0.9718594551086426,
+      "box": [
+        125,
+        313,
+        427,
+        342
+      ]
+    },
+    {
+      "text": "- Directed nursing process improvements",
+      "score": 0.9796251058578491,
+      "box": [
+        126,
+        339,
+        510,
+        368
+      ]
+    },
+    {
+      "text": "Registered Nurses, KindWay Care Center, 2017.08—2020.05",
+      "score": 0.9927991628646851,
+      "box": [
+        116,
+        380,
+        680,
+        408
+      ]
+    },
+    {
+      "text": "- Recorded patient vital signs",
+      "score": 0.9904394149780273,
+      "box": [
+        124,
+        404,
+        400,
+        434
+      ]
+    },
+    {
+      "text": "- Assisted with surgical prep",
+      "score": 0.9806889295578003,
+      "box": [
+        126,
+        428,
+        391,
+        460
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999182820320129,
+      "box": [
+        117,
+        494,
+        268,
+        521
+      ]
+    },
+    {
+      "text": "Bachelor's, Nursing, Crestline University, 2019",
+      "score": 0.9833695292472839,
+      "box": [
+        117,
+        541,
+        548,
+        565
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of patient education",
+      "score": 0.9777064919471741,
+      "box": [
+        131,
+        567,
+        538,
+        590
+      ]
+    },
+    {
+      "text": "•Completed coursework in fluid and electrolyte balance",
+      "score": 0.9721029996871948,
+      "box": [
+        131,
+        591,
+        646,
+        615
+      ]
+    }
+  ],
+  "seconds": 2.3768016998656094,
+  "id": "25634",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

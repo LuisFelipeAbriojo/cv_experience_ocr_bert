@@ -1,0 +1,142 @@
+{
+  "lines": [
+    {
+      "text": "MATTHEW DUKE",
+      "score": 0.9716917872428894,
+      "box": [
+        117,
+        91,
+        394,
+        122
+      ]
+    },
+    {
+      "text": "PA, USA | +1-516-898-1141 | matthew.duke@example.com",
+      "score": 0.9809332489967346,
+      "box": [
+        117,
+        152,
+        668,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9997498393058777,
+      "box": [
+        117,
+        243,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Software Developers, Softframe Labs, 2020.10—2023.01",
+      "score": 0.9925132989883423,
+      "box": [
+        116,
+        289,
+        637,
+        316
+      ]
+    },
+    {
+      "text": "- Built distributed systems",
+      "score": 0.9780536890029907,
+      "box": [
+        126,
+        314,
+        367,
+        342
+      ]
+    },
+    {
+      "text": "- Designed high-availability systems",
+      "score": 0.9972842335700989,
+      "box": [
+        127,
+        339,
+        461,
+        368
+      ]
+    },
+    {
+      "text": "Software Developers, Datagrid Labs, 2015.062017.10",
+      "score": 0.997678279876709,
+      "box": [
+        114,
+        379,
+        629,
+        410
+      ]
+    },
+    {
+      "text": "- Wrote command-line tools",
+      "score": 0.9740698337554932,
+      "box": [
+        125,
+        407,
+        386,
+        432
+      ]
+    },
+    {
+      "text": "- Updated routing logic",
+      "score": 0.9990954399108887,
+      "box": [
+        127,
+        429,
+        340,
+        461
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999373555183411,
+      "box": [
+        116,
+        494,
+        268,
+        521
+      ]
+    },
+    {
+      "text": "Bachelor's, Goldenfield University, 2007",
+      "score": 0.9965341687202454,
+      "box": [
+        115,
+        539,
+        487,
+        567
+      ]
+    },
+    {
+      "text": "• Completed coursework in real-time systems",
+      "score": 0.9907050132751465,
+      "box": [
+        132,
+        566,
+        553,
+        591
+      ]
+    },
+    {
+      "text": "•Completed coursework in exception management",
+      "score": 0.9861424565315247,
+      "box": [
+        131,
+        590,
+        607,
+        618
+      ]
+    }
+  ],
+  "seconds": 2.073659799993038,
+  "id": "44776",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

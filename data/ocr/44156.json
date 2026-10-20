@@ -1,0 +1,162 @@
+{
+  "lines": [
+    {
+      "text": "DUSTIN MCDOWELL",
+      "score": 0.9993429183959961,
+      "box": [
+        118,
+        92,
+        447,
+        122
+      ]
+    },
+    {
+      "text": "OR, USA | +1-853-492-2249 | dustin.mcdowell@example.com",
+      "score": 0.9824720621109009,
+      "box": [
+        118,
+        152,
+        691,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9990910887718201,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, CraftLine Construction, 2020.06—2023.01",
+      "score": 0.9911279082298279,
+      "box": [
+        116,
+        288,
+        714,
+        316
+      ]
+    },
+    {
+      "text": "- Managed equipment maintenance programs",
+      "score": 0.9906113743782043,
+      "box": [
+        125,
+        314,
+        553,
+        343
+      ]
+    },
+    {
+      "text": "- Managed workforce allocation",
+      "score": 0.9931444525718689,
+      "box": [
+        128,
+        340,
+        421,
+        366
+      ]
+    },
+    {
+      "text": "Construction Laborers, Precision Structures, 2017.102020.06",
+      "score": 0.9864655137062073,
+      "box": [
+        118,
+        383,
+        694,
+        407
+      ]
+    },
+    {
+      "text": "- Installed framing components",
+      "score": 0.9839056134223938,
+      "box": [
+        126,
+        409,
+        414,
+        433
+      ]
+    },
+    {
+      "text": "- Assembled structural frameworks",
+      "score": 0.9936853051185608,
+      "box": [
+        128,
+        434,
+        449,
+        456
+      ]
+    },
+    {
+      "text": "Construction Laborers, NextRise Construction, 2015.022017.10",
+      "score": 0.9983760118484497,
+      "box": [
+        118,
+        473,
+        716,
+        497
+      ]
+    },
+    {
+      "text": "- Assisted with excavation tasks",
+      "score": 0.9872074127197266,
+      "box": [
+        127,
+        499,
+        425,
+        522
+      ]
+    },
+    {
+      "text": "- Assisted with site cleanup and debris removal",
+      "score": 0.9972771406173706,
+      "box": [
+        127,
+        521,
+        566,
+        549
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999415278434753,
+      "box": [
+        118,
+        588,
+        266,
+        612
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Construction Field Operations, Cedarfield High School, 2015",
+      "score": 0.9956613779067993,
+      "box": [
+        118,
+        632,
+        935,
+        656
+      ]
+    },
+    {
+      "text": "• Completed coursework in construction time management",
+      "score": 0.9805457592010498,
+      "box": [
+        133,
+        659,
+        676,
+        682
+      ]
+    }
+  ],
+  "seconds": 2.528199499938637,
+  "id": "44156",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

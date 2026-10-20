@@ -1,0 +1,172 @@
+{
+  "lines": [
+    {
+      "text": "TAMEKA NASH",
+      "score": 0.998444139957428,
+      "box": [
+        116,
+        89,
+        366,
+        122
+      ]
+    },
+    {
+      "text": "VA, USA | +1-708-558-3174 | tameka.nash@example.com",
+      "score": 0.9863805770874023,
+      "box": [
+        116,
+        150,
+        659,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9991585612297058,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Learning Horizons School, 2020.12—2023.01",
+      "score": 0.9883010387420654,
+      "box": [
+        116,
+        287,
+        876,
+        317
+      ]
+    },
+    {
+      "text": "- Developed teacher training modules",
+      "score": 0.9984312057495117,
+      "box": [
+        125,
+        314,
+        477,
+        343
+      ]
+    },
+    {
+      "text": "- Designed curriculum frameworks for grade-level instruction",
+      "score": 0.9902117848396301,
+      "box": [
+        128,
+        341,
+        685,
+        368
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Sunny Meadow Academy, 2018.112020.12",
+      "score": 0.9878330230712891,
+      "box": [
+        116,
+        381,
+        876,
+        411
+      ]
+    },
+    {
+      "text": "- Prepared remediation materials",
+      "score": 0.9953934550285339,
+      "box": [
+        127,
+        409,
+        434,
+        433
+      ]
+    },
+    {
+      "text": "- Implemented formative assessment strategies",
+      "score": 0.9963234663009644,
+      "box": [
+        127,
+        432,
+        569,
+        460
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Caring Steps School, 2014.012016.02",
+      "score": 0.9850495457649231,
+      "box": [
+        118,
+        472,
+        828,
+        499
+      ]
+    },
+    {
+      "text": "- Prepared visual teaching aids",
+      "score": 0.9796093106269836,
+      "box": [
+        125,
+        497,
+        418,
+        525
+      ]
+    },
+    {
+      "text": "- Supported art instruction",
+      "score": 0.9931574463844299,
+      "box": [
+        127,
+        521,
+        371,
+        551
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999123811721802,
+      "box": [
+        117,
+        587,
+        267,
+        614
+      ]
+    },
+    {
+      "text": "Bachelor's, General Education, Clearview University, 2004",
+      "score": 0.9942167401313782,
+      "box": [
+        117,
+        632,
+        657,
+        659
+      ]
+    },
+    {
+      "text": "Completed coursework in foundational teaching practices",
+      "score": 0.9991685152053833,
+      "box": [
+        131,
+        656,
+        677,
+        685
+      ]
+    },
+    {
+      "text": "Completed coursework in academic content planning",
+      "score": 0.99973064661026,
+      "box": [
+        132,
+        680,
+        637,
+        710
+      ]
+    }
+  ],
+  "seconds": 2.490592800080776,
+  "id": "56219",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

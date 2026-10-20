@@ -1,0 +1,162 @@
+{
+  "lines": [
+    {
+      "text": "STEVEN BECKER",
+      "score": 0.9949069619178772,
+      "box": [
+        117,
+        91,
+        402,
+        121
+      ]
+    },
+    {
+      "text": "FL, USA | +1-401-480-4659 | steven.becker@example.com",
+      "score": 0.985349178314209,
+      "box": [
+        118,
+        152,
+        665,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9991753101348877,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, SolidWay Contractors, 2020.05—2023.01",
+      "score": 0.9914819598197937,
+      "box": [
+        117,
+        288,
+        708,
+        315
+      ]
+    },
+    {
+      "text": "- Reviewed compliance documentation",
+      "score": 0.9958127737045288,
+      "box": [
+        126,
+        315,
+        488,
+        340
+      ]
+    },
+    {
+      "text": "- Reviewed site inspection reports",
+      "score": 0.9984889030456543,
+      "box": [
+        127,
+        339,
+        444,
+        368
+      ]
+    },
+    {
+      "text": "Construction Laborers, BuildPoint Construction, 2016.122019.09",
+      "score": 0.9875542521476746,
+      "box": [
+        118,
+        383,
+        724,
+        407
+      ]
+    },
+    {
+      "text": "- Assembled structural frameworks",
+      "score": 0.9969758987426758,
+      "box": [
+        125,
+        407,
+        450,
+        432
+      ]
+    },
+    {
+      "text": "- Reviewed installation quality",
+      "score": 0.9991894364356995,
+      "box": [
+        126,
+        430,
+        404,
+        459
+      ]
+    },
+    {
+      "text": "Construction Laborers, CraftFrame Builders, 2013.072016.04",
+      "score": 0.9977688193321228,
+      "box": [
+        118,
+        473,
+        695,
+        496
+      ]
+    },
+    {
+      "text": "- Installed basic flooring materials",
+      "score": 0.9880170822143555,
+      "box": [
+        126,
+        497,
+        440,
+        522
+      ]
+    },
+    {
+      "text": "- Secured materials with fasteners",
+      "score": 0.9923997521400452,
+      "box": [
+        128,
+        521,
+        446,
+        547
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999175667762756,
+      "box": [
+        117,
+        586,
+        267,
+        613
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Construction Field Operations, Cedar Ridge High School, 2009",
+      "score": 0.9979493618011475,
+      "box": [
+        118,
+        633,
+        958,
+        657
+      ]
+    },
+    {
+      "text": "• Studied principles of site safety protocols",
+      "score": 0.9774187803268433,
+      "box": [
+        131,
+        659,
+        527,
+        683
+      ]
+    }
+  ],
+  "seconds": 2.59144870005548,
+  "id": "12244",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

@@ -1,0 +1,122 @@
+{
+  "lines": [
+    {
+      "text": "GABRIELLE SAMPSON",
+      "score": 0.9988740086555481,
+      "box": [
+        117,
+        90,
+        489,
+        122
+      ]
+    },
+    {
+      "text": "PA, USA | +1-740-827-7285 | gabrielle.sampson@example.com",
+      "score": 0.9780832529067993,
+      "box": [
+        118,
+        152,
+        708,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.999767005443573,
+      "box": [
+        117,
+        243,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Registered Nurses, Helping Way Care, 2020.07-2023.01",
+      "score": 0.9828516840934753,
+      "box": [
+        114,
+        287,
+        645,
+        318
+      ]
+    },
+    {
+      "text": "- Updated patient medical records",
+      "score": 0.9949870109558105,
+      "box": [
+        127,
+        316,
+        443,
+        340
+      ]
+    },
+    {
+      "text": "- Assisted with physical therapy exercises",
+      "score": 0.9730000495910645,
+      "box": [
+        127,
+        339,
+        515,
+        368
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.99992835521698,
+      "box": [
+        116,
+        404,
+        268,
+        431
+      ]
+    },
+    {
+      "text": "Master's, Health Systems, Pinecrest University, 2018",
+      "score": 0.9889586567878723,
+      "box": [
+        116,
+        448,
+        610,
+        475
+      ]
+    },
+    {
+      "text": "Bachelor's, Clinical Nursing, Brookfield University, 2016",
+      "score": 0.980776309967041,
+      "box": [
+        117,
+        474,
+        630,
+        498
+      ]
+    },
+    {
+      "text": "•Studied fundamentals of surgical nursing",
+      "score": 0.972834587097168,
+      "box": [
+        129,
+        496,
+        526,
+        527
+      ]
+    },
+    {
+      "text": "Completed coursework in catheter care",
+      "score": 0.99983811378479,
+      "box": [
+        132,
+        521,
+        513,
+        551
+      ]
+    }
+  ],
+  "seconds": 2.3386006001383066,
+  "id": "46740",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

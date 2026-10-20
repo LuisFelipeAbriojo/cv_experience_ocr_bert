@@ -1,0 +1,112 @@
+{
+  "lines": [
+    {
+      "text": "MALIA TANNER",
+      "score": 0.9996752142906189,
+      "box": [
+        117,
+        91,
+        372,
+        121
+      ]
+    },
+    {
+      "text": "MA, USA | +1-222-542-8482 | malia.tanner@example.com",
+      "score": 0.9849898815155029,
+      "box": [
+        115,
+        149,
+        658,
+        177
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9997448325157166,
+      "box": [
+        117,
+        243,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Learning Corner Academy, 2022.01—2023.01",
+      "score": 0.9877699017524719,
+      "box": [
+        117,
+        289,
+        879,
+        316
+      ]
+    },
+    {
+      "text": "- Assisted with small group instruction activities",
+      "score": 0.9907526969909668,
+      "box": [
+        127,
+        316,
+        565,
+        340
+      ]
+    },
+    {
+      "text": "- Conducted spelling practice",
+      "score": 0.9924779534339905,
+      "box": [
+        127,
+        339,
+        400,
+        368
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999521970748901,
+      "box": [
+        116,
+        404,
+        268,
+        431
+      ]
+    },
+    {
+      "text": "Bachelor's, Education Studies, Cedarfield University, 2023",
+      "score": 0.984746515750885,
+      "box": [
+        115,
+        446,
+        656,
+        474
+      ]
+    },
+    {
+      "text": "Completed coursework in basic tutoring methods",
+      "score": 0.9844343066215515,
+      "box": [
+        129,
+        472,
+        601,
+        500
+      ]
+    },
+    {
+      "text": "Studied principles of student assessment",
+      "score": 0.9988552927970886,
+      "box": [
+        132,
+        497,
+        530,
+        525
+      ]
+    }
+  ],
+  "seconds": 2.2935588001273572,
+  "id": "26567",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

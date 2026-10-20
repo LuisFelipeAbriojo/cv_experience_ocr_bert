@@ -1,0 +1,102 @@
+{
+  "lines": [
+    {
+      "text": "NICHOLAS MELTON",
+      "score": 0.9997943043708801,
+      "box": [
+        117,
+        91,
+        443,
+        122
+      ]
+    },
+    {
+      "text": "MO, USA | +1-551-383-7005 | nicholas.melton@example.com",
+      "score": 0.9970852732658386,
+      "box": [
+        115,
+        149,
+        691,
+        177
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9997367262840271,
+      "box": [
+        117,
+        243,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Construction Laborers, SteadyHand Builders, 2020.05—2023.01",
+      "score": 0.9862508177757263,
+      "box": [
+        116,
+        287,
+        704,
+        315
+      ]
+    },
+    {
+      "text": "- Set up workstations for crews",
+      "score": 0.9954678416252136,
+      "box": [
+        125,
+        314,
+        417,
+        340
+      ]
+    },
+    {
+      "text": "- Performed basic carpentry tasks",
+      "score": 0.9911330342292786,
+      "box": [
+        125,
+        338,
+        442,
+        367
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999246597290039,
+      "box": [
+        116,
+        404,
+        268,
+        431
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Construction Operations, Willowcrest High School, 2018",
+      "score": 0.9934282302856445,
+      "box": [
+        116,
+        448,
+        896,
+        475
+      ]
+    },
+    {
+      "text": "•Studied fundamentals of roofing methods",
+      "score": 0.9829072952270508,
+      "box": [
+        130,
+        474,
+        529,
+        498
+      ]
+    }
+  ],
+  "seconds": 1.8695123996585608,
+  "id": "30055",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

@@ -1,0 +1,112 @@
+{
+  "lines": [
+    {
+      "text": "BRIAN WEISS",
+      "score": 0.998932421207428,
+      "box": [
+        116,
+        89,
+        341,
+        123
+      ]
+    },
+    {
+      "text": "MA, USA | +1-962-257-1661 | brian.weiss@example.com",
+      "score": 0.9822000861167908,
+      "box": [
+        115,
+        149,
+        648,
+        177
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9993391036987305,
+      "box": [
+        116,
+        243,
+        317,
+        270
+      ]
+    },
+    {
+      "text": "Construction Laborers, CornerStonecraft, 2020.03—2023.01",
+      "score": 0.9912396669387817,
+      "box": [
+        118,
+        289,
+        665,
+        313
+      ]
+    },
+    {
+      "text": "- Installed safety signage",
+      "score": 0.9533481001853943,
+      "box": [
+        125,
+        313,
+        361,
+        342
+      ]
+    },
+    {
+      "text": "- Set up workstations for crews",
+      "score": 0.9863466024398804,
+      "box": [
+        126,
+        339,
+        415,
+        365
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999344944953918,
+      "box": [
+        115,
+        401,
+        269,
+        431
+      ]
+    },
+    {
+      "text": "Some college (no degree), Structural Technology, Timberline University, 2020",
+      "score": 0.9962618947029114,
+      "box": [
+        117,
+        447,
+        836,
+        474
+      ]
+    },
+    {
+      "text": "Studied principles of building materials",
+      "score": 0.9929672479629517,
+      "box": [
+        130,
+        473,
+        505,
+        498
+      ]
+    },
+    {
+      "text": "•Completed coursework in basic sealant application",
+      "score": 0.9870204329490662,
+      "box": [
+        133,
+        498,
+        618,
+        525
+      ]
+    }
+  ],
+  "seconds": 2.045746499672532,
+  "id": "26497",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

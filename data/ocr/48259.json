@@ -1,0 +1,172 @@
+{
+  "lines": [
+    {
+      "text": "BROOKE NEWMAN",
+      "score": 0.9994201064109802,
+      "box": [
+        118,
+        91,
+        429,
+        121
+      ]
+    },
+    {
+      "text": "SD, USA | +1-495-528-7169 | brooke.newman@example.com",
+      "score": 0.981853187084198,
+      "box": [
+        116,
+        150,
+        689,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9991461634635925,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Little Start School, 2020.10—2023.01",
+      "score": 0.9842773079872131,
+      "box": [
+        116,
+        288,
+        801,
+        318
+      ]
+    },
+    {
+      "text": "- Designed assessment systems",
+      "score": 0.9914601445198059,
+      "box": [
+        125,
+        314,
+        431,
+        343
+      ]
+    },
+    {
+      "text": "- Directed assessment development efforts",
+      "score": 0.9902987480163574,
+      "box": [
+        126,
+        339,
+        526,
+        368
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Learning Star Academy, 2017.082019.11",
+      "score": 0.9818426966667175,
+      "box": [
+        116,
+        381,
+        856,
+        411
+      ]
+    },
+    {
+      "text": "- Designed learning activities",
+      "score": 0.9921861886978149,
+      "box": [
+        127,
+        409,
+        397,
+        433
+      ]
+    },
+    {
+      "text": "- Organized academic interventions",
+      "score": 0.9932124018669128,
+      "box": [
+        127,
+        432,
+        456,
+        457
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, New Leaf Learning, 2014.10—2017.01",
+      "score": 0.9786531925201416,
+      "box": [
+        117,
+        471,
+        811,
+        499
+      ]
+    },
+    {
+      "text": "- Recorded behavioral observations",
+      "score": 0.9923496246337891,
+      "box": [
+        126,
+        497,
+        459,
+        524
+      ]
+    },
+    {
+      "text": "- Administered quizzes and short assessments",
+      "score": 0.9922317862510681,
+      "box": [
+        126,
+        521,
+        562,
+        549
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9998902082443237,
+      "box": [
+        117,
+        587,
+        267,
+        614
+      ]
+    },
+    {
+      "text": "Bachelor's, Education and Development, Evergreen University, 2012",
+      "score": 0.9993230700492859,
+      "box": [
+        117,
+        632,
+        753,
+        659
+      ]
+    },
+    {
+      "text": "•Studied principles of educational research basics",
+      "score": 0.9951962232589722,
+      "box": [
+        129,
+        658,
+        602,
+        685
+      ]
+    },
+    {
+      "text": "• Studied foundational learning strategies",
+      "score": 0.9924210906028748,
+      "box": [
+        130,
+        682,
+        514,
+        709
+      ]
+    }
+  ],
+  "seconds": 2.7773773996159434,
+  "id": "48259",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

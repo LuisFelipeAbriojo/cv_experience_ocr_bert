@@ -1,0 +1,142 @@
+{
+  "lines": [
+    {
+      "text": "CHRISHONDA MOSS",
+      "score": 0.9997138977050781,
+      "box": [
+        118,
+        91,
+        451,
+        122
+      ]
+    },
+    {
+      "text": "CO, USA | +1-761-690-5785 | chrishonda.moss@example.com",
+      "score": 0.9785390496253967,
+      "box": [
+        118,
+        152,
+        700,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.999094545841217,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Precise Ledger Group, 2020.10—2023.01",
+      "score": 0.9925528764724731,
+      "box": [
+        115,
+        288,
+        703,
+        316
+      ]
+    },
+    {
+      "text": "- Established financial data governance",
+      "score": 0.9926568865776062,
+      "box": [
+        126,
+        314,
+        493,
+        341
+      ]
+    },
+    {
+      "text": "- Developed long-term financial strategies",
+      "score": 0.9934170842170715,
+      "box": [
+        129,
+        341,
+        514,
+        368
+      ]
+    },
+    {
+      "text": "Accountants Auditors, EverCount Group, 2015.12—2018.03",
+      "score": 0.981774628162384,
+      "box": [
+        116,
+        380,
+        663,
+        409
+      ]
+    },
+    {
+      "text": "- Assisted with compliance documentation",
+      "score": 0.9811193346977234,
+      "box": [
+        125,
+        407,
+        518,
+        432
+      ]
+    },
+    {
+      "text": "- Assisted with audit fieldwork",
+      "score": 0.9904817342758179,
+      "box": [
+        128,
+        433,
+        405,
+        455
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999254941940308,
+      "box": [
+        117,
+        494,
+        267,
+        521
+      ]
+    },
+    {
+      "text": "Bachelor's, Applied Accounting, Hawthorne University, 2014",
+      "score": 0.992430567741394,
+      "box": [
+        117,
+        542,
+        672,
+        566
+      ]
+    },
+    {
+      "text": "• Completed coursework in financial disclosure",
+      "score": 0.9858419299125671,
+      "box": [
+        132,
+        566,
+        566,
+        591
+      ]
+    },
+    {
+      "text": "• Completed coursework in cost accounting",
+      "score": 0.9931101202964783,
+      "box": [
+        132,
+        591,
+        534,
+        617
+      ]
+    }
+  ],
+  "seconds": 2.5822789003141224,
+  "id": "09530",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

@@ -1,0 +1,212 @@
+{
+  "lines": [
+    {
+      "text": "MISTY HAYNES",
+      "score": 0.9993935227394104,
+      "box": [
+        117,
+        91,
+        367,
+        122
+      ]
+    },
+    {
+      "text": "PA, USA | +1-726-231-4737 | misty.haynes@example.com",
+      "score": 0.9857581257820129,
+      "box": [
+        115,
+        150,
+        661,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9996379017829895,
+      "box": [
+        116,
+        242,
+        316,
+        271
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Learning Path Academy, 2018.112023.01",
+      "score": 0.9891713261604309,
+      "box": [
+        117,
+        290,
+        859,
+        317
+      ]
+    },
+    {
+      "text": "- Led curriculum transformation initiatives",
+      "score": 0.984699010848999,
+      "box": [
+        126,
+        316,
+        510,
+        341
+      ]
+    },
+    {
+      "text": "- Directed academic intervention strategies",
+      "score": 0.9859666228294373,
+      "box": [
+        127,
+        340,
+        524,
+        367
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Learning Futures Academy, 2014.082018.11",
+      "score": 0.9922801852226257,
+      "box": [
+        117,
+        382,
+        888,
+        409
+      ]
+    },
+    {
+      "text": "- Led instructional leadership initiatives",
+      "score": 0.9977666735649109,
+      "box": [
+        128,
+        407,
+        488,
+        433
+      ]
+    },
+    {
+      "text": "- Developed instructional evaluation metrics",
+      "score": 0.9980598092079163,
+      "box": [
+        127,
+        433,
+        532,
+        457
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Bright Futures Academy, 2010.05—2014.08",
+      "score": 0.9893288612365723,
+      "box": [
+        118,
+        472,
+        862,
+        499
+      ]
+    },
+    {
+      "text": "- Prepared remediation materials",
+      "score": 0.9935933351516724,
+      "box": [
+        125,
+        497,
+        435,
+        525
+      ]
+    },
+    {
+      "text": "- Developed instructional resources",
+      "score": 0.9879938364028931,
+      "box": [
+        127,
+        521,
+        458,
+        551
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Future Path Academy, 2006.02—2010.05",
+      "score": 0.9842773079872131,
+      "box": [
+        117,
+        565,
+        840,
+        592
+      ]
+    },
+    {
+      "text": "- Reviewed curriculum content",
+      "score": 0.9753504395484924,
+      "box": [
+        127,
+        592,
+        411,
+        615
+      ]
+    },
+    {
+      "text": "- Conducted spelling practice",
+      "score": 0.9837145209312439,
+      "box": [
+        126,
+        614,
+        400,
+        645
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.99992835521698,
+      "box": [
+        117,
+        681,
+        266,
+        705
+      ]
+    },
+    {
+      "text": "Master's, Education and Development, Briarwood University, 2006",
+      "score": 0.9813082218170166,
+      "box": [
+        115,
+        723,
+        731,
+        750
+      ]
+    },
+    {
+      "text": "Bachelor's, Youth Development, Elm Valley University, 2004",
+      "score": 0.9921135306358337,
+      "box": [
+        116,
+        749,
+        676,
+        776
+      ]
+    },
+    {
+      "text": "• Studied principles of instructional communication",
+      "score": 0.9753708243370056,
+      "box": [
+        130,
+        776,
+        599,
+        800
+      ]
+    },
+    {
+      "text": "Completed coursework in classroom learning strategies",
+      "score": 0.9839067459106445,
+      "box": [
+        130,
+        797,
+        661,
+        829
+      ]
+    }
+  ],
+  "seconds": 3.4461106997914612,
+  "id": "45596",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

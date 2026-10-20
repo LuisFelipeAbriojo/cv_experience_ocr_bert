@@ -1,0 +1,152 @@
+{
+  "lines": [
+    {
+      "text": "WANDA EVANS",
+      "score": 0.9992754459381104,
+      "box": [
+        117,
+        91,
+        370,
+        122
+      ]
+    },
+    {
+      "text": "AL, USA | +1-366-631-2150 | wanda.evans@example.com",
+      "score": 0.9967023730278015,
+      "box": [
+        116,
+        150,
+        660,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9991941452026367,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Integrity Books Group, 2020.12—2023.01",
+      "score": 0.9945188164710999,
+      "box": [
+        115,
+        287,
+        701,
+        318
+      ]
+    },
+    {
+      "text": "- Designed accounting frameworks",
+      "score": 0.9982990026473999,
+      "box": [
+        127,
+        314,
+        451,
+        342
+      ]
+    },
+    {
+      "text": "- Designed financial oversight systems",
+      "score": 0.984592616558075,
+      "box": [
+        127,
+        339,
+        485,
+        368
+      ]
+    },
+    {
+      "text": "Accountants Auditors, BlueLine Accounting, 2018.10—2020.12",
+      "score": 0.9894148111343384,
+      "box": [
+        116,
+        380,
+        692,
+        408
+      ]
+    },
+    {
+      "text": "- Maintained accounting software records",
+      "score": 0.9967153668403625,
+      "box": [
+        125,
+        407,
+        510,
+        432
+      ]
+    },
+    {
+      "text": "- Reconciled bank statements",
+      "score": 0.9816100001335144,
+      "box": [
+        127,
+        430,
+        405,
+        456
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9997468590736389,
+      "box": [
+        116,
+        494,
+        267,
+        521
+      ]
+    },
+    {
+      "text": "Professional degree, Professional Accounting, Pinefield University, 2022",
+      "score": 0.9759431481361389,
+      "box": [
+        115,
+        539,
+        786,
+        567
+      ]
+    },
+    {
+      "text": "Bachelor's, Managerial Accounting, North Ridge University, 2018",
+      "score": 0.9879617094993591,
+      "box": [
+        117,
+        567,
+        717,
+        591
+      ]
+    },
+    {
+      "text": "•Studied principles of compliance auditing",
+      "score": 0.9722957611083984,
+      "box": [
+        128,
+        591,
+        528,
+        619
+      ]
+    },
+    {
+      "text": "•Studied fundamentals of forensic accounting",
+      "score": 0.981326699256897,
+      "box": [
+        130,
+        615,
+        557,
+        642
+      ]
+    }
+  ],
+  "seconds": 11.80540549987927,
+  "id": "00302",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

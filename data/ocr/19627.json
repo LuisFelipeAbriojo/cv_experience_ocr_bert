@@ -1,0 +1,202 @@
+{
+  "lines": [
+    {
+      "text": "RYAN DEAN",
+      "score": 0.9997641444206238,
+      "box": [
+        118,
+        92,
+        316,
+        120
+      ]
+    },
+    {
+      "text": "IL, USA | +1-966-272-5835 | ryan.dean@example.com",
+      "score": 0.9761635661125183,
+      "box": [
+        118,
+        152,
+        621,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9989252090454102,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, AccuLedger Services, 2020.04—2023.01",
+      "score": 0.9906177520751953,
+      "box": [
+        115,
+        288,
+        696,
+        316
+      ]
+    },
+    {
+      "text": "- Directed financial reporting processes",
+      "score": 0.9811332821846008,
+      "box": [
+        125,
+        314,
+        492,
+        343
+      ]
+    },
+    {
+      "text": "- Led audit programs",
+      "score": 0.9745264053344727,
+      "box": [
+        127,
+        339,
+        323,
+        369
+      ]
+    },
+    {
+      "text": "Accountants Auditors, FairBalance Advisors, 2017.072020.04",
+      "score": 0.9922174215316772,
+      "box": [
+        117,
+        383,
+        697,
+        407
+      ]
+    },
+    {
+      "text": "- Designed audit methodologies",
+      "score": 0.9927502274513245,
+      "box": [
+        125,
+        405,
+        424,
+        435
+      ]
+    },
+    {
+      "text": "- Developed financial performance metrics",
+      "score": 0.9914409518241882,
+      "box": [
+        128,
+        434,
+        520,
+        457
+      ]
+    },
+    {
+      "text": "Accountants Auditors, ClearBooks Advisors, 2014.102017.07",
+      "score": 0.9982619285583496,
+      "box": [
+        118,
+        473,
+        693,
+        497
+      ]
+    },
+    {
+      "text": "- Prepared cost allocation models",
+      "score": 0.9850988388061523,
+      "box": [
+        126,
+        498,
+        441,
+        525
+      ]
+    },
+    {
+      "text": "- Prepared tax returns",
+      "score": 0.9970164895057678,
+      "box": [
+        127,
+        521,
+        334,
+        551
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Accurate Ledger Group, 2011.122014.10",
+      "score": 0.9994837045669556,
+      "box": [
+        118,
+        566,
+        717,
+        590
+      ]
+    },
+    {
+      "text": "- Maintained accounting software records",
+      "score": 0.9902127981185913,
+      "box": [
+        127,
+        592,
+        510,
+        616
+      ]
+    },
+    {
+      "text": "- Assisted with monthly close procedures",
+      "score": 0.9840509295463562,
+      "box": [
+        127,
+        614,
+        508,
+        643
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9998968839645386,
+      "box": [
+        116,
+        679,
+        267,
+        706
+      ]
+    },
+    {
+      "text": "Bachelor's, Data Analytics, Stonebridge University, 2011",
+      "score": 0.9977389574050903,
+      "box": [
+        116,
+        724,
+        638,
+        750
+      ]
+    },
+    {
+      "text": "•Completed coursework in audit quality management",
+      "score": 0.9832693338394165,
+      "box": [
+        133,
+        749,
+        631,
+        776
+      ]
+    },
+    {
+      "text": "•Completed coursework in performance measurement",
+      "score": 0.9853091239929199,
+      "box": [
+        132,
+        772,
+        641,
+        801
+      ]
+    }
+  ],
+  "seconds": 2.8633661000058055,
+  "id": "19627",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

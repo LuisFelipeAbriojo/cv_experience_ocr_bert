@@ -1,0 +1,202 @@
+{
+  "lines": [
+    {
+      "text": "KHALILAH DILLON",
+      "score": 0.9854395389556885,
+      "box": [
+        118,
+        92,
+        422,
+        122
+      ]
+    },
+    {
+      "text": "GA, USA | +1-410-500-8562 | khalilah.dillon@example.com",
+      "score": 0.9932315349578857,
+      "box": [
+        116,
+        150,
+        668,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.994111955165863,
+      "box": [
+        117,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, LifePath Health Services, 2019.05—2023.01",
+      "score": 0.9901326298713684,
+      "box": [
+        116,
+        288,
+        703,
+        316
+      ]
+    },
+    {
+      "text": "- Led infection control programs",
+      "score": 0.988813579082489,
+      "box": [
+        128,
+        314,
+        423,
+        344
+      ]
+    },
+    {
+      "text": "- Implemented clinical decision support systems",
+      "score": 0.9851184487342834,
+      "box": [
+        126,
+        339,
+        572,
+        369
+      ]
+    },
+    {
+      "text": "Registered Nurses, EverWell Health Services, 2015.092019.05",
+      "score": 0.9983655214309692,
+      "box": [
+        117,
+        382,
+        712,
+        409
+      ]
+    },
+    {
+      "text": "- Developed patient safety metrics",
+      "score": 0.9980357885360718,
+      "box": [
+        125,
+        406,
+        447,
+        435
+      ]
+    },
+    {
+      "text": "- Implemented clinical decision support systems",
+      "score": 0.9988659024238586,
+      "box": [
+        127,
+        432,
+        572,
+        459
+      ]
+    },
+    {
+      "text": "Registered Nurses, SafeLife Health Group, 2012.012015.09",
+      "score": 0.9950143098831177,
+      "box": [
+        118,
+        474,
+        680,
+        498
+      ]
+    },
+    {
+      "text": "- Coordinated patient follow-ups",
+      "score": 0.9904780983924866,
+      "box": [
+        126,
+        497,
+        426,
+        525
+      ]
+    },
+    {
+      "text": "- Monitored cardiac telemetry",
+      "score": 0.9837735295295715,
+      "box": [
+        126,
+        521,
+        400,
+        550
+      ]
+    },
+    {
+      "text": "Registered Nurses, TruePath Health Services, 2007.042011.01",
+      "score": 0.9997403621673584,
+      "box": [
+        117,
+        565,
+        711,
+        590
+      ]
+    },
+    {
+      "text": "- Assisted with patient positioning",
+      "score": 0.9925985336303711,
+      "box": [
+        125,
+        590,
+        439,
+        618
+      ]
+    },
+    {
+      "text": "- Checked patient identification",
+      "score": 0.9855977296829224,
+      "box": [
+        126,
+        614,
+        415,
+        642
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9998840689659119,
+      "box": [
+        117,
+        681,
+        266,
+        705
+      ]
+    },
+    {
+      "text": "Some college (no degree), Health Systems, Granite Hill University, 2003",
+      "score": 0.9885171055793762,
+      "box": [
+        116,
+        723,
+        786,
+        751
+      ]
+    },
+    {
+      "text": "• Completed coursework in nursing ethics",
+      "score": 0.9840372204780579,
+      "box": [
+        132,
+        751,
+        519,
+        775
+      ]
+    },
+    {
+      "text": "Studied fundamentals of mobility assistance",
+      "score": 0.9826179146766663,
+      "box": [
+        131,
+        772,
+        554,
+        801
+      ]
+    }
+  ],
+  "seconds": 3.252194299828261,
+  "id": "16507",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

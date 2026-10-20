@@ -1,0 +1,152 @@
+{
+  "lines": [
+    {
+      "text": "SAMUEL WU",
+      "score": 0.9996712803840637,
+      "box": [
+        117,
+        91,
+        324,
+        122
+      ]
+    },
+    {
+      "text": "MD, USA | +1-372-556-7805 | samuel.wu@example.com",
+      "score": 0.9720804691314697,
+      "box": [
+        116,
+        151,
+        643,
+        177
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9991562962532043,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, SafeSpring Health Group, 2020.10—2023.01",
+      "score": 0.9866323471069336,
+      "box": [
+        115,
+        287,
+        709,
+        318
+      ]
+    },
+    {
+      "text": "- Developed interdisciplinary care strategies",
+      "score": 0.9908427596092224,
+      "box": [
+        125,
+        313,
+        535,
+        343
+      ]
+    },
+    {
+      "text": "- Directed nursing operations planning",
+      "score": 0.9877304434776306,
+      "box": [
+        127,
+        339,
+        482,
+        369
+      ]
+    },
+    {
+      "text": "Registered Nurses, SunSpring Nursing, 2018.062020.10",
+      "score": 0.9960609078407288,
+      "box": [
+        116,
+        381,
+        652,
+        409
+      ]
+    },
+    {
+      "text": "- Performed basic life support procedures",
+      "score": 0.997978687286377,
+      "box": [
+        126,
+        407,
+        512,
+        434
+      ]
+    },
+    {
+      "text": "- Assisted with diagnostic procedures",
+      "score": 0.9950525164604187,
+      "box": [
+        127,
+        431,
+        474,
+        459
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999428987503052,
+      "box": [
+        116,
+        494,
+        267,
+        521
+      ]
+    },
+    {
+      "text": "Master's, Clinical Studies, Cedar Valley University, 2019",
+      "score": 0.9752891659736633,
+      "box": [
+        114,
+        539,
+        637,
+        567
+      ]
+    },
+    {
+      "text": "Bachelor's, Geriatric Care, Wildflower University, 2017",
+      "score": 0.9817783832550049,
+      "box": [
+        117,
+        567,
+        620,
+        591
+      ]
+    },
+    {
+      "text": "•Studied fundamentals of end-of-life care",
+      "score": 0.9872118234634399,
+      "box": [
+        129,
+        591,
+        519,
+        617
+      ]
+    },
+    {
+      "text": "Completed coursework in fluid and electrolyte balance",
+      "score": 0.9937210083007812,
+      "box": [
+        130,
+        614,
+        648,
+        644
+      ]
+    }
+  ],
+  "seconds": 2.4525628997944295,
+  "id": "24703",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

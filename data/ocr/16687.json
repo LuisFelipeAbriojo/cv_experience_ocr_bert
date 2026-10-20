@@ -1,0 +1,202 @@
+{
+  "lines": [
+    {
+      "text": "JOSHUA LEE",
+      "score": 0.9287756085395813,
+      "box": [
+        116,
+        91,
+        331,
+        122
+      ]
+    },
+    {
+      "text": "HI, USA | +1-906-272-7557 | joshua.lee@example.com",
+      "score": 0.986900269985199,
+      "box": [
+        116,
+        151,
+        627,
+        177
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9991443157196045,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, OpenHands Care Services, 2020.06—2023.01",
+      "score": 0.9951368570327759,
+      "box": [
+        117,
+        290,
+        723,
+        317
+      ]
+    },
+    {
+      "text": "- Directed care delivery improvements",
+      "score": 0.9902086853981018,
+      "box": [
+        126,
+        314,
+        481,
+        343
+      ]
+    },
+    {
+      "text": "- Led patient experience improvement programs",
+      "score": 0.9798176884651184,
+      "box": [
+        127,
+        340,
+        574,
+        369
+      ]
+    },
+    {
+      "text": "Registered Nurses, OpenSpring Care Services, 2017.112020.06",
+      "score": 0.9997580051422119,
+      "box": [
+        117,
+        382,
+        725,
+        409
+      ]
+    },
+    {
+      "text": "- Implemented care pathway frameworks",
+      "score": 0.9865749478340149,
+      "box": [
+        125,
+        406,
+        507,
+        434
+      ]
+    },
+    {
+      "text": "- Led clinical governance efforts",
+      "score": 0.9800043702125549,
+      "box": [
+        126,
+        431,
+        426,
+        459
+      ]
+    },
+    {
+      "text": "Registered Nurses, GentleHands Nursing, 2013.102016.06",
+      "score": 0.9892382025718689,
+      "box": [
+        118,
+        474,
+        675,
+        498
+      ]
+    },
+    {
+      "text": "- Supervised clinical documentation",
+      "score": 0.9994656443595886,
+      "box": [
+        126,
+        498,
+        457,
+        523
+      ]
+    },
+    {
+      "text": "- Monitored infusion pump settings",
+      "score": 0.9932290315628052,
+      "box": [
+        128,
+        522,
+        449,
+        550
+      ]
+    },
+    {
+      "text": "Registered Nurses, Helping Hands Care, 2010.03—2012.11",
+      "score": 0.9872047305107117,
+      "box": [
+        117,
+        565,
+        662,
+        591
+      ]
+    },
+    {
+      "text": "- Assisted with physical therapy exercises",
+      "score": 0.990664005279541,
+      "box": [
+        126,
+        589,
+        515,
+        618
+      ]
+    },
+    {
+      "text": "- Prepared medical equipment for use",
+      "score": 0.9976093769073486,
+      "box": [
+        126,
+        613,
+        479,
+        645
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999934196472168,
+      "box": [
+        117,
+        681,
+        266,
+        705
+      ]
+    },
+    {
+      "text": "Bachelor's, Biomedical Sciences, Sunfield University, 2004",
+      "score": 0.970718502998352,
+      "box": [
+        115,
+        723,
+        661,
+        750
+      ]
+    },
+    {
+      "text": "Completed coursework in pressure injury prevention",
+      "score": 0.9925295114517212,
+      "box": [
+        130,
+        748,
+        630,
+        776
+      ]
+    },
+    {
+      "text": "•Studied fundamentals of data privacy",
+      "score": 0.9827971458435059,
+      "box": [
+        133,
+        772,
+        491,
+        801
+      ]
+    }
+  ],
+  "seconds": 3.3473952999338508,
+  "id": "16687",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

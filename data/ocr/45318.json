@@ -1,0 +1,202 @@
+{
+  "lines": [
+    {
+      "text": "DERREK VANCE",
+      "score": 0.9643518328666687,
+      "box": [
+        117,
+        91,
+        384,
+        121
+      ]
+    },
+    {
+      "text": "PA, USA | +1-331-972-5127 | derrek.vance@example.com",
+      "score": 0.9871460795402527,
+      "box": [
+        116,
+        151,
+        659,
+        177
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9988461136817932,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Openwave Solutions, 2019.112023.01",
+      "score": 0.9994840621948242,
+      "box": [
+        116,
+        290,
+        687,
+        317
+      ]
+    },
+    {
+      "text": "- Led system reliability programs",
+      "score": 0.9870189428329468,
+      "box": [
+        128,
+        316,
+        430,
+        341
+      ]
+    },
+    {
+      "text": "- Led backend platform development",
+      "score": 0.9985965490341187,
+      "box": [
+        128,
+        339,
+        469,
+        367
+      ]
+    },
+    {
+      "text": "Software Developers, Stonebyte Labs, 2016.092019.11",
+      "score": 0.9911263585090637,
+      "box": [
+        117,
+        383,
+        640,
+        407
+      ]
+    },
+    {
+      "text": "- Led refactoring initiatives",
+      "score": 0.9940280914306641,
+      "box": [
+        128,
+        409,
+        373,
+        433
+      ]
+    },
+    {
+      "text": "- Implemented access control frameworks",
+      "score": 0.9952759146690369,
+      "box": [
+        129,
+        434,
+        515,
+        457
+      ]
+    },
+    {
+      "text": "Software Developers, Cloudcrest Systems, 2013.072016.09",
+      "score": 0.9982944130897522,
+      "box": [
+        115,
+        471,
+        683,
+        499
+      ]
+    },
+    {
+      "text": "- Designed UI workflows",
+      "score": 0.9805763363838196,
+      "box": [
+        127,
+        499,
+        355,
+        523
+      ]
+    },
+    {
+      "text": "- Developed data processing pipelines",
+      "score": 0.9983230829238892,
+      "box": [
+        127,
+        521,
+        484,
+        551
+      ]
+    },
+    {
+      "text": "Software Developers, Brightsoft Solutions, 2010.042013.07",
+      "score": 0.9963721036911011,
+      "box": [
+        117,
+        566,
+        676,
+        590
+      ]
+    },
+    {
+      "text": "- Wrote command-line tools",
+      "score": 0.9856477379798889,
+      "box": [
+        127,
+        590,
+        388,
+        615
+      ]
+    },
+    {
+      "text": "- Implemented validation logic",
+      "score": 0.9939624071121216,
+      "box": [
+        127,
+        613,
+        407,
+        643
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999163150787354,
+      "box": [
+        117,
+        681,
+        266,
+        705
+      ]
+    },
+    {
+      "text": "Bachelor's, Aspen Grove University, 2009",
+      "score": 0.9826480746269226,
+      "box": [
+        116,
+        724,
+        503,
+        750
+      ]
+    },
+    {
+      "text": "• Studied principles of big data systems",
+      "score": 0.9748790860176086,
+      "box": [
+        132,
+        750,
+        497,
+        774
+      ]
+    },
+    {
+      "text": "Completed coursework in full-stack development",
+      "score": 0.9956762194633484,
+      "box": [
+        132,
+        772,
+        598,
+        800
+      ]
+    }
+  ],
+  "seconds": 2.7027439000084996,
+  "id": "45318",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

@@ -1,0 +1,212 @@
+{
+  "lines": [
+    {
+      "text": "AMBER FERGUSON",
+      "score": 0.9993893504142761,
+      "box": [
+        117,
+        89,
+        439,
+        122
+      ]
+    },
+    {
+      "text": "NY, USA | +1-508-759-9599 | amber.ferguson@example.com",
+      "score": 0.9946327209472656,
+      "box": [
+        115,
+        150,
+        687,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9988461136817932,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, AccuCount Financial, 2019.022023.01",
+      "score": 0.9987010359764099,
+      "box": [
+        117,
+        290,
+        688,
+        314
+      ]
+    },
+    {
+      "text": "- Led audit planning governance",
+      "score": 0.9923520684242249,
+      "box": [
+        128,
+        316,
+        428,
+        342
+      ]
+    },
+    {
+      "text": "- Designed financial control environments",
+      "score": 0.9991472959518433,
+      "box": [
+        129,
+        342,
+        512,
+        366
+      ]
+    },
+    {
+      "text": "Accountants Auditors, CoreLedger Services, 2015.022019.02",
+      "score": 0.9998508095741272,
+      "box": [
+        117,
+        382,
+        697,
+        409
+      ]
+    },
+    {
+      "text": "- Directed accounting operations planning",
+      "score": 0.9975289106369019,
+      "box": [
+        125,
+        407,
+        515,
+        436
+      ]
+    },
+    {
+      "text": "- Designed tax strategies",
+      "score": 0.9962424635887146,
+      "box": [
+        127,
+        431,
+        361,
+        462
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Integrity Ledger Group, 2011.022015.02",
+      "score": 0.9978026747703552,
+      "box": [
+        118,
+        474,
+        709,
+        498
+      ]
+    },
+    {
+      "text": "- Prepared statutory filings",
+      "score": 0.9759702086448669,
+      "box": [
+        125,
+        496,
+        375,
+        527
+      ]
+    },
+    {
+      "text": "- Analyzed financial variances",
+      "score": 0.9623712301254272,
+      "box": [
+        127,
+        521,
+        407,
+        550
+      ]
+    },
+    {
+      "text": "Accountants Auditors, OpenPath Financial Group, 2005.03—2009.03",
+      "score": 0.9805793762207031,
+      "box": [
+        118,
+        566,
+        747,
+        590
+      ]
+    },
+    {
+      "text": "- Prepared basic financial reports",
+      "score": 0.9837101101875305,
+      "box": [
+        125,
+        590,
+        438,
+        618
+      ]
+    },
+    {
+      "text": "- Maintained accounting software records",
+      "score": 0.9713943600654602,
+      "box": [
+        126,
+        612,
+        512,
+        646
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999163150787354,
+      "box": [
+        117,
+        681,
+        266,
+        705
+      ]
+    },
+    {
+      "text": "Master's, International Business, Skyline University, 2004",
+      "score": 0.999233067035675,
+      "box": [
+        116,
+        724,
+        647,
+        750
+      ]
+    },
+    {
+      "text": "Bachelor's, Quantitative Finance, Goldenridge University, 2002",
+      "score": 0.9855490922927856,
+      "box": [
+        116,
+        748,
+        697,
+        775
+      ]
+    },
+    {
+      "text": "• Completed coursework in cost accounting",
+      "score": 0.9812754988670349,
+      "box": [
+        130,
+        775,
+        534,
+        801
+      ]
+    },
+    {
+      "text": "Studied principles of financial statement analysis",
+      "score": 0.9887776970863342,
+      "box": [
+        131,
+        798,
+        598,
+        829
+      ]
+    }
+  ],
+  "seconds": 2.71804489986971,
+  "id": "36386",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

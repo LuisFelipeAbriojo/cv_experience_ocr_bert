@@ -1,0 +1,162 @@
+{
+  "lines": [
+    {
+      "text": "TRAVIS SUMMERS",
+      "score": 0.9997621774673462,
+      "box": [
+        117,
+        91,
+        419,
+        121
+      ]
+    },
+    {
+      "text": "GA, USA | +1-746-393-7899 | travis.summers@example.com",
+      "score": 0.9768069982528687,
+      "box": [
+        118,
+        152,
+        683,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9991553425788879,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, Allied Frame Co., 2020.03—2023.01",
+      "score": 0.9804171323776245,
+      "box": [
+        117,
+        289,
+        661,
+        314
+      ]
+    },
+    {
+      "text": "- Reviewed structural integrity assessments",
+      "score": 0.9829509854316711,
+      "box": [
+        125,
+        313,
+        533,
+        342
+      ]
+    },
+    {
+      "text": "- Managed equipment maintenance programs",
+      "score": 0.9930102229118347,
+      "box": [
+        127,
+        339,
+        552,
+        369
+      ]
+    },
+    {
+      "text": "Construction Laborers, NextStep Construction, 2017.05—2020.03",
+      "score": 0.990125834941864,
+      "box": [
+        116,
+        380,
+        717,
+        408
+      ]
+    },
+    {
+      "text": "- Installed exterior cladding",
+      "score": 0.9710670113563538,
+      "box": [
+        125,
+        402,
+        380,
+        436
+      ]
+    },
+    {
+      "text": "- Prepared construction schedules",
+      "score": 0.9993579983711243,
+      "box": [
+        129,
+        434,
+        445,
+        457
+      ]
+    },
+    {
+      "text": "Construction Laborers, FirmBase Construction, 2013.05—2016.03",
+      "score": 0.9916635751724243,
+      "box": [
+        118,
+        472,
+        721,
+        499
+      ]
+    },
+    {
+      "text": "- Followed safety procedures on site",
+      "score": 0.9985519051551819,
+      "box": [
+        127,
+        497,
+        465,
+        525
+      ]
+    },
+    {
+      "text": "- Installed safety signage",
+      "score": 0.9860715866088867,
+      "box": [
+        129,
+        521,
+        361,
+        551
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999163746833801,
+      "box": [
+        117,
+        587,
+        267,
+        614
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Construction Logistics, Pine Valley High School, 2011",
+      "score": 0.9918301701545715,
+      "box": [
+        118,
+        633,
+        871,
+        657
+      ]
+    },
+    {
+      "text": "•Studied fundamentals of job site coordination",
+      "score": 0.9869144558906555,
+      "box": [
+        130,
+        657,
+        565,
+        682
+      ]
+    }
+  ],
+  "seconds": 2.7910390999168158,
+  "id": "15625",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

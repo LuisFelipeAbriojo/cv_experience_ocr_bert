@@ -1,0 +1,202 @@
+{
+  "lines": [
+    {
+      "text": "JANITA SHAFFER",
+      "score": 0.9998549222946167,
+      "box": [
+        116,
+        92,
+        406,
+        122
+      ]
+    },
+    {
+      "text": "AZ, USA | +1-871-677-5835 | janita.shaffer@example.com",
+      "score": 0.9882420301437378,
+      "box": [
+        116,
+        150,
+        658,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9968201518058777,
+      "box": [
+        117,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, NewHands Health Group, 2019.112023.01",
+      "score": 0.9981127977371216,
+      "box": [
+        116,
+        288,
+        707,
+        318
+      ]
+    },
+    {
+      "text": "- Established quality assurance systems",
+      "score": 0.9798685908317566,
+      "box": [
+        125,
+        314,
+        502,
+        343
+      ]
+    },
+    {
+      "text": "- Managed patient outcome evaluation systems",
+      "score": 0.9929746389389038,
+      "box": [
+        126,
+        339,
+        567,
+        369
+      ]
+    },
+    {
+      "text": "Registered Nurses, LifePath Nursing Services, 2016.09—2019.11",
+      "score": 0.9861353635787964,
+      "box": [
+        117,
+        382,
+        716,
+        409
+      ]
+    },
+    {
+      "text": "- Managed clinical compliance programs",
+      "score": 0.9861531257629395,
+      "box": [
+        124,
+        406,
+        503,
+        436
+      ]
+    },
+    {
+      "text": "- Managed clinical data analysis",
+      "score": 0.9855507612228394,
+      "box": [
+        126,
+        431,
+        426,
+        459
+      ]
+    },
+    {
+      "text": "Registered Nurses, NewBridge Care Center, 2012.02—2015.04",
+      "score": 0.9902028441429138,
+      "box": [
+        116,
+        471,
+        698,
+        499
+      ]
+    },
+    {
+      "text": "- Conducted medication reconciliation",
+      "score": 0.9843839406967163,
+      "box": [
+        126,
+        497,
+        478,
+        523
+      ]
+    },
+    {
+      "text": "- Supervised clinical documentation",
+      "score": 0.9844183921813965,
+      "box": [
+        128,
+        522,
+        457,
+        549
+      ]
+    },
+    {
+      "text": "Registered Nurses, OpenLife Care Services, 2007.09—2010.12",
+      "score": 0.9858841896057129,
+      "box": [
+        118,
+        565,
+        697,
+        589
+      ]
+    },
+    {
+      "text": "- Prepared medical equipment for use",
+      "score": 0.9948002696037292,
+      "box": [
+        127,
+        589,
+        479,
+        618
+      ]
+    },
+    {
+      "text": "- Performed wound dressing changes",
+      "score": 0.9943667054176331,
+      "box": [
+        127,
+        613,
+        477,
+        645
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999129772186279,
+      "box": [
+        117,
+        681,
+        266,
+        705
+      ]
+    },
+    {
+      "text": "Bachelor's, Community Health, Clear Spring University, 2007",
+      "score": 0.993241012096405,
+      "box": [
+        116,
+        724,
+        680,
+        750
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of clinical documentation",
+      "score": 0.9758490920066833,
+      "box": [
+        131,
+        750,
+        585,
+        774
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of patient care",
+      "score": 0.9812629818916321,
+      "box": [
+        132,
+        773,
+        489,
+        800
+      ]
+    }
+  ],
+  "seconds": 3.177523599937558,
+  "id": "01358",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

@@ -1,0 +1,112 @@
+{
+  "lines": [
+    {
+      "text": "ANTHONY TRUONG",
+      "score": 0.9998539686203003,
+      "box": [
+        118,
+        91,
+        436,
+        122
+      ]
+    },
+    {
+      "text": "TX, USA | +1-836-600-4256 | anthony.truong@example.com",
+      "score": 0.9918689131736755,
+      "box": [
+        117,
+        149,
+        677,
+        177
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9997677803039551,
+      "box": [
+        117,
+        243,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Software Developers, Openwave Labs, 2020.122023.01",
+      "score": 0.9997888803482056,
+      "box": [
+        116,
+        289,
+        646,
+        316
+      ]
+    },
+    {
+      "text": "- Wrote scripts for data processing tasks",
+      "score": 0.9934473633766174,
+      "box": [
+        125,
+        313,
+        502,
+        342
+      ]
+    },
+    {
+      "text": "- Reviewed test coverage reports",
+      "score": 0.9807971715927124,
+      "box": [
+        127,
+        340,
+        436,
+        366
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999268651008606,
+      "box": [
+        116,
+        404,
+        268,
+        431
+      ]
+    },
+    {
+      "text": "Bachelor's, Riverhaven University, 2021",
+      "score": 0.987281322479248,
+      "box": [
+        115,
+        446,
+        485,
+        474
+      ]
+    },
+    {
+      "text": "•Studied principles of big data systems",
+      "score": 0.9924435615539551,
+      "box": [
+        129,
+        474,
+        498,
+        500
+      ]
+    },
+    {
+      "text": "•Studied principles of documentation standards",
+      "score": 0.9794438481330872,
+      "box": [
+        132,
+        498,
+        577,
+        525
+      ]
+    }
+  ],
+  "seconds": 1.7754522999748588,
+  "id": "49668",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

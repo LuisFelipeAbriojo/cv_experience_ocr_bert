@@ -1,0 +1,142 @@
+{
+  "lines": [
+    {
+      "text": "ANDREW MELTON",
+      "score": 0.9790797829627991,
+      "box": [
+        117,
+        91,
+        419,
+        121
+      ]
+    },
+    {
+      "text": "MT, USA | +1-304-478-3384 | andrew.melton@example.com",
+      "score": 0.9929924607276917,
+      "box": [
+        115,
+        149,
+        679,
+        177
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9997584819793701,
+      "box": [
+        117,
+        243,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Software Developers, Stonegrid Tech, 2021.012023.01",
+      "score": 0.9998975992202759,
+      "box": [
+        116,
+        289,
+        637,
+        316
+      ]
+    },
+    {
+      "text": "- Defined data governance policies",
+      "score": 0.9992636442184448,
+      "box": [
+        126,
+        315,
+        450,
+        340
+      ]
+    },
+    {
+      "text": "- Defined API standards",
+      "score": 0.9894645810127258,
+      "box": [
+        127,
+        339,
+        351,
+        364
+      ]
+    },
+    {
+      "text": "Software Developers, Flowpath Systems, 2018.122021.01",
+      "score": 0.9995954036712646,
+      "box": [
+        114,
+        379,
+        667,
+        410
+      ]
+    },
+    {
+      "text": "- Implemented basic authentication logic",
+      "score": 0.9986890554428101,
+      "box": [
+        126,
+        407,
+        502,
+        433
+      ]
+    },
+    {
+      "text": "- Updated application dependencies",
+      "score": 0.9906371831893921,
+      "box": [
+        130,
+        434,
+        461,
+        457
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999365210533142,
+      "box": [
+        116,
+        494,
+        267,
+        521
+      ]
+    },
+    {
+      "text": "Bachelor's, Harborview University, 2019",
+      "score": 0.9876061677932739,
+      "box": [
+        116,
+        540,
+        487,
+        566
+      ]
+    },
+    {
+      "text": "•Studied fundamentals of build systems",
+      "score": 0.9589780569076538,
+      "box": [
+        130,
+        565,
+        506,
+        591
+      ]
+    },
+    {
+      "text": "• Completed coursework in project documentation",
+      "score": 0.9940818548202515,
+      "box": [
+        133,
+        592,
+        595,
+        616
+      ]
+    }
+  ],
+  "seconds": 2.1968515999615192,
+  "id": "31462",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

@@ -1,0 +1,172 @@
+{
+  "lines": [
+    {
+      "text": "KRYSTAL KHAN",
+      "score": 0.9996767044067383,
+      "box": [
+        117,
+        91,
+        381,
+        121
+      ]
+    },
+    {
+      "text": "IL, USA | +1-805-833-3568 | krystal.khan@example.com",
+      "score": 0.9962891340255737,
+      "box": [
+        116,
+        150,
+        640,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9985426068305969,
+      "box": [
+        118,
+        245,
+        314,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Integrity Count Group, 2020.09—2023.01",
+      "score": 0.982807457447052,
+      "box": [
+        115,
+        287,
+        698,
+        318
+      ]
+    },
+    {
+      "text": "- Designed audit methodologies",
+      "score": 0.9824610352516174,
+      "box": [
+        127,
+        314,
+        424,
+        343
+      ]
+    },
+    {
+      "text": "- Designed financial policy frameworks",
+      "score": 0.9900625944137573,
+      "box": [
+        127,
+        339,
+        485,
+        368
+      ]
+    },
+    {
+      "text": "Accountants Auditors, FairBalance Financial, 2017.102020.02",
+      "score": 0.9982481598854065,
+      "box": [
+        118,
+        383,
+        701,
+        407
+      ]
+    },
+    {
+      "text": "- Reviewed expense allocations",
+      "score": 0.9942322969436646,
+      "box": [
+        125,
+        407,
+        423,
+        433
+      ]
+    },
+    {
+      "text": "- Reviewed journal entries",
+      "score": 0.9994792938232422,
+      "box": [
+        125,
+        430,
+        372,
+        460
+      ]
+    },
+    {
+      "text": "Accountants Auditors, ClearCount Financial, 2014.072016.11",
+      "score": 0.9977810978889465,
+      "box": [
+        118,
+        473,
+        694,
+        497
+      ]
+    },
+    {
+      "text": "- Tracked budget expenditures",
+      "score": 0.985741376876831,
+      "box": [
+        126,
+        498,
+        414,
+        524
+      ]
+    },
+    {
+      "text": "- Processed expense reimbursements",
+      "score": 0.9886429905891418,
+      "box": [
+        127,
+        521,
+        481,
+        549
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999950647354126,
+      "box": [
+        118,
+        588,
+        266,
+        612
+      ]
+    },
+    {
+      "text": "Bachelor's, Business Law, Bayside University, 2012",
+      "score": 0.9793432354927063,
+      "box": [
+        117,
+        632,
+        596,
+        656
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of documentation standards",
+      "score": 0.9786263108253479,
+      "box": [
+        129,
+        657,
+        613,
+        682
+      ]
+    },
+    {
+      "text": "•Studied principles of compliance auditing",
+      "score": 0.9827923774719238,
+      "box": [
+        131,
+        682,
+        526,
+        709
+      ]
+    }
+  ],
+  "seconds": 2.4243391999043524,
+  "id": "17746",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

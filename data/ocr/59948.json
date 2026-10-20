@@ -1,0 +1,172 @@
+{
+  "lines": [
+    {
+      "text": "FELICIA MORRISON",
+      "score": 0.9966346025466919,
+      "box": [
+        117,
+        91,
+        442,
+        121
+      ]
+    },
+    {
+      "text": "WV, USA | +1-617-903-6831 | felicia.morrison@example.com",
+      "score": 0.9871891140937805,
+      "box": [
+        117,
+        152,
+        685,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9989409446716309,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, ClearSpring Health Group, 2020.08—2023.01",
+      "score": 0.979971170425415,
+      "box": [
+        115,
+        287,
+        715,
+        318
+      ]
+    },
+    {
+      "text": "- Developed care quality benchmarks",
+      "score": 0.9907275438308716,
+      "box": [
+        126,
+        314,
+        474,
+        342
+      ]
+    },
+    {
+      "text": "- Led nursing audit programs",
+      "score": 0.964500367641449,
+      "box": [
+        127,
+        340,
+        397,
+        369
+      ]
+    },
+    {
+      "text": "Registered Nurses, Harmony Care Group, 2017.082020.01",
+      "score": 0.9950786828994751,
+      "box": [
+        117,
+        382,
+        674,
+        409
+      ]
+    },
+    {
+      "text": "- Interpreted laboratory results",
+      "score": 0.9843557476997375,
+      "box": [
+        124,
+        406,
+        411,
+        434
+      ]
+    },
+    {
+      "text": "- Supervised medication administration",
+      "score": 0.9901012778282166,
+      "box": [
+        128,
+        434,
+        487,
+        457
+      ]
+    },
+    {
+      "text": "Registered Nurses, WellWay Health Group, 2014.022016.08",
+      "score": 0.9955911636352539,
+      "box": [
+        118,
+        474,
+        688,
+        498
+      ]
+    },
+    {
+      "text": "- Assisted with patient positioning",
+      "score": 0.9862805008888245,
+      "box": [
+        127,
+        498,
+        439,
+        526
+      ]
+    },
+    {
+      "text": "- Assisted with emergency procedures",
+      "score": 0.9719420671463013,
+      "box": [
+        128,
+        521,
+        483,
+        551
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999365210533142,
+      "box": [
+        118,
+        588,
+        266,
+        612
+      ]
+    },
+    {
+      "text": "Associate's degree, Nursing Practice, Crossfield University, 2008",
+      "score": 0.9894360899925232,
+      "box": [
+        118,
+        632,
+        715,
+        656
+      ]
+    },
+    {
+      "text": "• Completed coursework in patient safety culture",
+      "score": 0.9750390648841858,
+      "box": [
+        131,
+        659,
+        582,
+        683
+      ]
+    },
+    {
+      "text": "•Studied fundamentals of clinical documentation",
+      "score": 0.9862987399101257,
+      "box": [
+        131,
+        681,
+        584,
+        707
+      ]
+    }
+  ],
+  "seconds": 3.838909199927002,
+  "id": "59948",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

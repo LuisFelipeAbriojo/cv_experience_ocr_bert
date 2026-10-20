@@ -1,0 +1,172 @@
+{
+  "lines": [
+    {
+      "text": "MARKUS PATRICK",
+      "score": 0.9737856984138489,
+      "box": [
+        118,
+        91,
+        423,
+        122
+      ]
+    },
+    {
+      "text": "VA, USA | +1-604-734-8486 | markus.patrick@example.com",
+      "score": 0.9922046065330505,
+      "box": [
+        118,
+        152,
+        674,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9926488399505615,
+      "box": [
+        117,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, Precision Build Co., 2020.112023.01",
+      "score": 0.9917101263999939,
+      "box": [
+        118,
+        290,
+        682,
+        314
+      ]
+    },
+    {
+      "text": "- Led structural installation projects",
+      "score": 0.9971709251403809,
+      "box": [
+        126,
+        315,
+        451,
+        340
+      ]
+    },
+    {
+      "text": "- Directed site safety audits",
+      "score": 0.9958767294883728,
+      "box": [
+        126,
+        338,
+        381,
+        368
+      ]
+    },
+    {
+      "text": "Construction Laborers, SteadyRise Builders, 2018.092020.11",
+      "score": 0.9892474412918091,
+      "box": [
+        118,
+        383,
+        694,
+        407
+      ]
+    },
+    {
+      "text": "- Performed masonry work",
+      "score": 0.9866108298301697,
+      "box": [
+        127,
+        409,
+        378,
+        433
+      ]
+    },
+    {
+      "text": "- Installed plumbing fixtures",
+      "score": 0.9895057678222656,
+      "box": [
+        127,
+        430,
+        384,
+        460
+      ]
+    },
+    {
+      "text": "Construction Laborers, CornerTrack Construction, 2016.072018.09",
+      "score": 0.9896543025970459,
+      "box": [
+        118,
+        473,
+        747,
+        497
+      ]
+    },
+    {
+      "text": "- Assisted with framing support",
+      "score": 0.9986037015914917,
+      "box": [
+        126,
+        498,
+        417,
+        523
+      ]
+    },
+    {
+      "text": "- Secured site fencing",
+      "score": 0.987276017665863,
+      "box": [
+        127,
+        521,
+        331,
+        549
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9998626708984375,
+      "box": [
+        117,
+        586,
+        268,
+        613
+      ]
+    },
+    {
+      "text": "Some college (no degree), Construction Materials, Woodcrest University, 2015",
+      "score": 0.991600513458252,
+      "box": [
+        118,
+        633,
+        843,
+        657
+      ]
+    },
+    {
+      "text": "• Completed coursework in construction fundamentals",
+      "score": 0.9983426928520203,
+      "box": [
+        132,
+        659,
+        633,
+        682
+      ]
+    },
+    {
+      "text": "•Completed coursework in construction site signage",
+      "score": 0.9821158051490784,
+      "box": [
+        132,
+        680,
+        620,
+        710
+      ]
+    }
+  ],
+  "seconds": 2.7319471002556384,
+  "id": "57794",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

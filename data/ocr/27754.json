@@ -1,0 +1,172 @@
+{
+  "lines": [
+    {
+      "text": "JERRY SWANSON",
+      "score": 0.999723494052887,
+      "box": [
+        116,
+        91,
+        414,
+        121
+      ]
+    },
+    {
+      "text": "MI, USA | +1-592-840-5109 | jerry.swanson@example.com",
+      "score": 0.9897798299789429,
+      "box": [
+        116,
+        151,
+        663,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9985249042510986,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Future Futures Academy, 2020.01—2023.01",
+      "score": 0.9881716370582581,
+      "box": [
+        116,
+        288,
+        867,
+        318
+      ]
+    },
+    {
+      "text": "- Led academic improvement programs",
+      "score": 0.9886178970336914,
+      "box": [
+        126,
+        315,
+        493,
+        342
+      ]
+    },
+    {
+      "text": "- Developed instructional evaluation metrics",
+      "score": 0.9922434091567993,
+      "box": [
+        127,
+        339,
+        533,
+        367
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Bright Start Academy, 2016.12—2020.01",
+      "score": 0.9895451664924622,
+      "box": [
+        117,
+        382,
+        834,
+        409
+      ]
+    },
+    {
+      "text": "- Coordinated subject integration",
+      "score": 0.9775805473327637,
+      "box": [
+        127,
+        409,
+        431,
+        433
+      ]
+    },
+    {
+      "text": "- Designed learning activities",
+      "score": 0.969586968421936,
+      "box": [
+        126,
+        431,
+        397,
+        460
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Caring Minds School, 2010.12—2014.01",
+      "score": 0.9765151143074036,
+      "box": [
+        118,
+        472,
+        829,
+        499
+      ]
+    },
+    {
+      "text": "- Prepared lesson summaries",
+      "score": 0.9824074506759644,
+      "box": [
+        126,
+        497,
+        402,
+        526
+      ]
+    },
+    {
+      "text": "- Managed classroom supplies",
+      "score": 0.9801350235939026,
+      "box": [
+        126,
+        519,
+        414,
+        553
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9998534321784973,
+      "box": [
+        117,
+        587,
+        267,
+        614
+      ]
+    },
+    {
+      "text": "Bachelor's, Educational Readiness, Granite Hill University, 2009",
+      "score": 0.9857358932495117,
+      "box": [
+        118,
+        633,
+        708,
+        657
+      ]
+    },
+    {
+      "text": "Completed coursework in student-centered learning",
+      "score": 0.9904730916023254,
+      "box": [
+        128,
+        654,
+        628,
+        687
+      ]
+    },
+    {
+      "text": "•Studied principles of student support systems",
+      "score": 0.9755306243896484,
+      "box": [
+        131,
+        681,
+        570,
+        710
+      ]
+    }
+  ],
+  "seconds": 2.7327637001872063,
+  "id": "27754",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

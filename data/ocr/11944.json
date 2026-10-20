@@ -1,0 +1,182 @@
+{
+  "lines": [
+    {
+      "text": "LYNN NGUYEN",
+      "score": 0.9903182983398438,
+      "box": [
+        116,
+        89,
+        362,
+        122
+      ]
+    },
+    {
+      "text": "FL, USA | +1-228-938-7417 | lynn.nguyen@example.com",
+      "score": 0.9806303381919861,
+      "box": [
+        117,
+        151,
+        647,
+        177
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9989409446716309,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, AccuCount Group, 2020.08—2023.01",
+      "score": 0.9963856935501099,
+      "box": [
+        115,
+        288,
+        665,
+        316
+      ]
+    },
+    {
+      "text": "- Led accounting process optimization",
+      "score": 0.9955677390098572,
+      "box": [
+        129,
+        317,
+        480,
+        341
+      ]
+    },
+    {
+      "text": "- Directed accounting training programs",
+      "score": 0.9923587441444397,
+      "box": [
+        127,
+        340,
+        495,
+        369
+      ]
+    },
+    {
+      "text": "Accountants Auditors, SteadyLedger Financial, 2018.032020.08",
+      "score": 0.9853294491767883,
+      "box": [
+        117,
+        382,
+        720,
+        409
+      ]
+    },
+    {
+      "text": "- Developed financial policies",
+      "score": 0.978199303150177,
+      "box": [
+        127,
+        409,
+        400,
+        433
+      ]
+    },
+    {
+      "text": "- Prepared management reports",
+      "score": 0.9905065894126892,
+      "box": [
+        127,
+        431,
+        427,
+        459
+      ]
+    },
+    {
+      "text": "Accountants Auditors, ClearCount Financial, 2012.112015.05",
+      "score": 0.9964362978935242,
+      "box": [
+        118,
+        473,
+        695,
+        497
+      ]
+    },
+    {
+      "text": "- Reconciled bank statements",
+      "score": 0.9982482194900513,
+      "box": [
+        126,
+        498,
+        405,
+        523
+      ]
+    },
+    {
+      "text": "- Reconciled subsidiary ledgers",
+      "score": 0.9981697797775269,
+      "box": [
+        127,
+        520,
+        420,
+        551
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9998591542243958,
+      "box": [
+        117,
+        587,
+        267,
+        614
+      ]
+    },
+    {
+      "text": "Master's, Business Management, Meadowway University, 2007",
+      "score": 0.9959036707878113,
+      "box": [
+        116,
+        632,
+        702,
+        659
+      ]
+    },
+    {
+      "text": "Bachelor's, Auditing, Greenridge University, 2005",
+      "score": 0.9894559979438782,
+      "box": [
+        116,
+        655,
+        575,
+        686
+      ]
+    },
+    {
+      "text": "•Studied principles of social responsibility reporting",
+      "score": 0.9822825789451599,
+      "box": [
+        129,
+        682,
+        609,
+        710
+      ]
+    },
+    {
+      "text": "•Studied principles of payroll systems",
+      "score": 0.9814192056655884,
+      "box": [
+        131,
+        706,
+        486,
+        736
+      ]
+    }
+  ],
+  "seconds": 2.5338506000116467,
+  "id": "11944",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

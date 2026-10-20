@@ -1,0 +1,212 @@
+{
+  "lines": [
+    {
+      "text": "JERAMIE LIM",
+      "score": 0.9873615503311157,
+      "box": [
+        117,
+        92,
+        333,
+        120
+      ]
+    },
+    {
+      "text": "AR, USA | +1-925-459-7824 | jeramie.lim@example.com",
+      "score": 0.9747028946876526,
+      "box": [
+        117,
+        152,
+        640,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9928925037384033,
+      "box": [
+        117,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, Compassion Life Medical, 2019.072023.01",
+      "score": 0.9970744848251343,
+      "box": [
+        118,
+        291,
+        707,
+        315
+      ]
+    },
+    {
+      "text": "- Led nursing audit programs",
+      "score": 0.9749234318733215,
+      "box": [
+        126,
+        314,
+        398,
+        344
+      ]
+    },
+    {
+      "text": "- Managed clinical compliance programs",
+      "score": 0.9934272766113281,
+      "box": [
+        126,
+        339,
+        503,
+        369
+      ]
+    },
+    {
+      "text": "Registered Nurses, Compassion Path Medical, 2016.012019.07",
+      "score": 0.9863198399543762,
+      "box": [
+        117,
+        382,
+        719,
+        409
+      ]
+    },
+    {
+      "text": "- Developed nursing training programs",
+      "score": 0.9998133778572083,
+      "box": [
+        125,
+        406,
+        485,
+        436
+      ]
+    },
+    {
+      "text": "- Directed care coordination strategies",
+      "score": 0.992167055606842,
+      "box": [
+        125,
+        430,
+        482,
+        459
+      ]
+    },
+    {
+      "text": "Registered Nurses, LifeWay Health Services, 2012.072016.01",
+      "score": 0.9900534152984619,
+      "box": [
+        116,
+        471,
+        702,
+        499
+      ]
+    },
+    {
+      "text": "- Managed patient referrals",
+      "score": 0.9983440637588501,
+      "box": [
+        126,
+        498,
+        383,
+        525
+      ]
+    },
+    {
+      "text": "- Reviewed diagnostic imaging results",
+      "score": 0.9843626022338867,
+      "box": [
+        127,
+        521,
+        480,
+        550
+      ]
+    },
+    {
+      "text": "Registered Nurses, ClearBridge Nursing Services, 2007.062011.01",
+      "score": 0.9966408610343933,
+      "box": [
+        118,
+        565,
+        747,
+        589
+      ]
+    },
+    {
+      "text": "- Assisted with surgical prep",
+      "score": 0.998431921005249,
+      "box": [
+        125,
+        589,
+        392,
+        619
+      ]
+    },
+    {
+      "text": "- Assisted with respiratory treatments",
+      "score": 0.998834490776062,
+      "box": [
+        125,
+        614,
+        473,
+        643
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9998738765716553,
+      "box": [
+        117,
+        681,
+        266,
+        705
+      ]
+    },
+    {
+      "text": "Master's, Public Health, Sunrise University, 2005",
+      "score": 0.9982295036315918,
+      "box": [
+        115,
+        724,
+        570,
+        750
+      ]
+    },
+    {
+      "text": "Bachelor's, Health Care Operations, Brightwood University, 2003",
+      "score": 0.9997537732124329,
+      "box": [
+        114,
+        746,
+        718,
+        777
+      ]
+    },
+    {
+      "text": "•Completed coursework in perioperative care",
+      "score": 0.9868518114089966,
+      "box": [
+        130,
+        775,
+        558,
+        800
+      ]
+    },
+    {
+      "text": "Studied principles of health screening",
+      "score": 0.9960708618164062,
+      "box": [
+        131,
+        798,
+        495,
+        827
+      ]
+    }
+  ],
+  "seconds": 2.9719727002084255,
+  "id": "02243",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

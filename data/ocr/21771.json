@@ -1,0 +1,102 @@
+{
+  "lines": [
+    {
+      "text": "ISIAH KEITH",
+      "score": 0.9997653961181641,
+      "box": [
+        116,
+        91,
+        317,
+        122
+      ]
+    },
+    {
+      "text": "KS, USA | +1-659-635-4152 | isiah.keith@example.com",
+      "score": 0.987154483795166,
+      "box": [
+        116,
+        149,
+        632,
+        177
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9997058510780334,
+      "box": [
+        117,
+        243,
+        317,
+        270
+      ]
+    },
+    {
+      "text": "Construction Laborers, NextRise Construction, 2022.02—2023.01",
+      "score": 0.9960734844207764,
+      "box": [
+        118,
+        289,
+        714,
+        313
+      ]
+    },
+    {
+      "text": "- Assisted with drywall installation",
+      "score": 0.9968312382698059,
+      "box": [
+        125,
+        314,
+        439,
+        339
+      ]
+    },
+    {
+      "text": "- Set up ladders and basic scaffolding",
+      "score": 0.9890846610069275,
+      "box": [
+        127,
+        339,
+        476,
+        367
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999591112136841,
+      "box": [
+        116,
+        404,
+        268,
+        431
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Construction Engineering Technology, Oakridge High School, 2023",
+      "score": 0.9919884204864502,
+      "box": [
+        116,
+        446,
+        997,
+        475
+      ]
+    },
+    {
+      "text": "• Completed coursework in demolition procedures",
+      "score": 0.9873500466346741,
+      "box": [
+        132,
+        473,
+        596,
+        499
+      ]
+    }
+  ],
+  "seconds": 2.234453400131315,
+  "id": "21771",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

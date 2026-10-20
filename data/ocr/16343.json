@@ -1,0 +1,172 @@
+{
+  "lines": [
+    {
+      "text": "RIVKA DAY",
+      "score": 0.9687103629112244,
+      "box": [
+        117,
+        90,
+        301,
+        121
+      ]
+    },
+    {
+      "text": "GA, USA | +1-892-996-1802 | rivka.day@example.com",
+      "score": 0.9886645674705505,
+      "box": [
+        117,
+        150,
+        625,
+        177
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9603960514068604,
+      "box": [
+        118,
+        245,
+        314,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Integrity Books Financial, 2019.12—2023.01",
+      "score": 0.972588062286377,
+      "box": [
+        116,
+        289,
+        727,
+        316
+      ]
+    },
+    {
+      "text": "- Designed tax strategies",
+      "score": 0.972994327545166,
+      "box": [
+        127,
+        315,
+        361,
+        342
+      ]
+    },
+    {
+      "text": "- Designed financial accountability systems",
+      "score": 0.9958179593086243,
+      "box": [
+        127,
+        339,
+        528,
+        368
+      ]
+    },
+    {
+      "text": "Accountants Auditors, ClearBalance Services, 2015.042018.06",
+      "score": 0.9998947381973267,
+      "box": [
+        116,
+        380,
+        713,
+        408
+      ]
+    },
+    {
+      "text": "- Conducted inventory valuation",
+      "score": 0.9896882176399231,
+      "box": [
+        127,
+        409,
+        424,
+        433
+      ]
+    },
+    {
+      "text": "- Prepared tax returns",
+      "score": 0.9810033440589905,
+      "box": [
+        127,
+        431,
+        333,
+        460
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Integrity Ledger Services Group, 2010.12—2014.02",
+      "score": 0.9736909866333008,
+      "box": [
+        116,
+        472,
+        796,
+        499
+      ]
+    },
+    {
+      "text": "- Assisted with forecasting data",
+      "score": 0.9987777471542358,
+      "box": [
+        126,
+        499,
+        418,
+        523
+      ]
+    },
+    {
+      "text": "- Verified transaction accuracy",
+      "score": 0.9859879612922668,
+      "box": [
+        127,
+        519,
+        411,
+        551
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999063014984131,
+      "box": [
+        117,
+        586,
+        267,
+        613
+      ]
+    },
+    {
+      "text": "Bachelor's, Professional Accounting, Skyview University, 2008",
+      "score": 0.9908725619316101,
+      "box": [
+        116,
+        630,
+        693,
+        658
+      ]
+    },
+    {
+      "text": "•Completed coursework in accounts receivable",
+      "score": 0.9919965863227844,
+      "box": [
+        131,
+        657,
+        575,
+        682
+      ]
+    },
+    {
+      "text": "Completed coursework in financial data interpretation",
+      "score": 0.993461549282074,
+      "box": [
+        132,
+        680,
+        640,
+        709
+      ]
+    }
+  ],
+  "seconds": 2.3431069999933243,
+  "id": "16343",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

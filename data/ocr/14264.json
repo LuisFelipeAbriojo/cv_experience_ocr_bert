@@ -1,0 +1,142 @@
+{
+  "lines": [
+    {
+      "text": "KELSEY HOOD",
+      "score": 0.9993717670440674,
+      "box": [
+        117,
+        90,
+        360,
+        121
+      ]
+    },
+    {
+      "text": "FL, USA | +1-439-999-5486 | kelsey.hood@example.com",
+      "score": 0.9929556846618652,
+      "box": [
+        116,
+        149,
+        647,
+        177
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9997450709342957,
+      "box": [
+        117,
+        243,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Accountants Auditors, OpenBalance Services, 2020.05—2022.04",
+      "score": 0.988306999206543,
+      "box": [
+        116,
+        289,
+        713,
+        316
+      ]
+    },
+    {
+      "text": "- Designed accounting frameworks",
+      "score": 0.9983541369438171,
+      "box": [
+        127,
+        314,
+        451,
+        342
+      ]
+    },
+    {
+      "text": "- Developed long-term financial strategies",
+      "score": 0.9838938117027283,
+      "box": [
+        128,
+        339,
+        515,
+        369
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Precise Ledger Group, 2017.082019.07",
+      "score": 0.9904472231864929,
+      "box": [
+        116,
+        380,
+        705,
+        408
+      ]
+    },
+    {
+      "text": "- Reviewed ledger postings",
+      "score": 0.9923990964889526,
+      "box": [
+        124,
+        403,
+        382,
+        436
+      ]
+    },
+    {
+      "text": "- Prepared expense reports",
+      "score": 0.9888139963150024,
+      "box": [
+        127,
+        430,
+        384,
+        461
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9998976588249207,
+      "box": [
+        117,
+        494,
+        267,
+        521
+      ]
+    },
+    {
+      "text": "Bachelor's, Financial Services, Oakwood University, 2012",
+      "score": 0.9910112023353577,
+      "box": [
+        116,
+        540,
+        650,
+        566
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of audit software tools",
+      "score": 0.9912266731262207,
+      "box": [
+        131,
+        567,
+        559,
+        590
+      ]
+    },
+    {
+      "text": "• Completed coursework in cost accounting",
+      "score": 0.9944522380828857,
+      "box": [
+        132,
+        591,
+        534,
+        617
+      ]
+    }
+  ],
+  "seconds": 2.4802253996022046,
+  "id": "14264",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

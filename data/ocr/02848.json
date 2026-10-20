@@ -1,0 +1,122 @@
+{
+  "lines": [
+    {
+      "text": "ADAM MCKENZIE",
+      "score": 0.999670147895813,
+      "box": [
+        117,
+        91,
+        400,
+        122
+      ]
+    },
+    {
+      "text": "CA, USA | +1-353-885-5923 | adam.mckenzie@example.com",
+      "score": 0.9881111979484558,
+      "box": [
+        118,
+        152,
+        687,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9997745156288147,
+      "box": [
+        117,
+        243,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Software Developers, Openframe Labs, 2019.032021.07",
+      "score": 0.9997198581695557,
+      "box": [
+        116,
+        289,
+        653,
+        316
+      ]
+    },
+    {
+      "text": "- Logged and tracked software defects",
+      "score": 0.9890421032905579,
+      "box": [
+        127,
+        316,
+        484,
+        340
+      ]
+    },
+    {
+      "text": "- Created test data sets",
+      "score": 0.9951333999633789,
+      "box": [
+        128,
+        339,
+        347,
+        365
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9918267726898193,
+      "box": [
+        116,
+        404,
+        268,
+        431
+      ]
+    },
+    {
+      "text": "Master's, Briar Ridge University, 2010",
+      "score": 0.9897641539573669,
+      "box": [
+        116,
+        448,
+        468,
+        475
+      ]
+    },
+    {
+      "text": "Bachelor's, Clearway University, 2008",
+      "score": 0.9977927207946777,
+      "box": [
+        116,
+        473,
+        469,
+        500
+      ]
+    },
+    {
+      "text": "•Studied fundamentals of deployment pipelines",
+      "score": 0.9798270463943481,
+      "box": [
+        129,
+        499,
+        576,
+        526
+      ]
+    },
+    {
+      "text": "•Studied principles of augmented reality",
+      "score": 0.9818515777587891,
+      "box": [
+        132,
+        522,
+        508,
+        551
+      ]
+    }
+  ],
+  "seconds": 2.1486900001764297,
+  "id": "02848",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

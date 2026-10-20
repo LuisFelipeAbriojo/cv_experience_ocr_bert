@@ -1,0 +1,102 @@
+{
+  "lines": [
+    {
+      "text": "DAKOTA PATTERSON",
+      "score": 0.9998399615287781,
+      "box": [
+        118,
+        91,
+        476,
+        122
+      ]
+    },
+    {
+      "text": "IN, USA | +1-962-417-7180 | dakota.patterson@example.com",
+      "score": 0.9962706565856934,
+      "box": [
+        116,
+        149,
+        688,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9992493987083435,
+      "box": [
+        116,
+        243,
+        317,
+        270
+      ]
+    },
+    {
+      "text": "Construction Laborers, ClearTrack Construction, 2022.03—2022.04",
+      "score": 0.9869129657745361,
+      "box": [
+        116,
+        287,
+        734,
+        315
+      ]
+    },
+    {
+      "text": "- Installed simple fixtures",
+      "score": 0.9993648529052734,
+      "box": [
+        125,
+        314,
+        360,
+        341
+      ]
+    },
+    {
+      "text": "- Assisted with excavation tasks",
+      "score": 0.9997426867485046,
+      "box": [
+        127,
+        341,
+        424,
+        364
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999639987945557,
+      "box": [
+        116,
+        404,
+        268,
+        431
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Construction Site Management, Blue Ridge High School, 2018",
+      "score": 0.9977195262908936,
+      "box": [
+        116,
+        446,
+        955,
+        475
+      ]
+    },
+    {
+      "text": "• Completed coursework in construction waste management",
+      "score": 0.982893705368042,
+      "box": [
+        133,
+        474,
+        691,
+        498
+      ]
+    }
+  ],
+  "seconds": 2.32269119983539,
+  "id": "20705",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

@@ -1,0 +1,182 @@
+{
+  "lines": [
+    {
+      "text": "REBECCA BURNS",
+      "score": 0.9813002347946167,
+      "box": [
+        117,
+        91,
+        410,
+        122
+      ]
+    },
+    {
+      "text": "SC, USA | +1-276-623-5673 | rebecca.burns@example.com",
+      "score": 0.9776327610015869,
+      "box": [
+        116,
+        150,
+        673,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9991410374641418,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Willow Grove School, 2020.10—2023.01",
+      "score": 0.9784678220748901,
+      "box": [
+        117,
+        290,
+        829,
+        317
+      ]
+    },
+    {
+      "text": "- Implemented long-term academic plans",
+      "score": 0.9971523284912109,
+      "box": [
+        125,
+        314,
+        508,
+        343
+      ]
+    },
+    {
+      "text": "- Developed data-driven teaching models",
+      "score": 0.9888262748718262,
+      "box": [
+        127,
+        339,
+        510,
+        368
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Growing Start Academy, 2018.072020.10",
+      "score": 0.982746958732605,
+      "box": [
+        117,
+        382,
+        859,
+        409
+      ]
+    },
+    {
+      "text": "- Reviewed and updated curriculum materials",
+      "score": 0.9810089468955994,
+      "box": [
+        125,
+        406,
+        549,
+        434
+      ]
+    },
+    {
+      "text": "- Implemented instructional modifications",
+      "score": 0.990564227104187,
+      "box": [
+        129,
+        434,
+        507,
+        457
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Little Harbor School, 2016.032018.07",
+      "score": 0.9891778826713562,
+      "box": [
+        117,
+        472,
+        821,
+        499
+      ]
+    },
+    {
+      "text": "- Implemented basic classroom management procedures",
+      "score": 0.9926714897155762,
+      "box": [
+        125,
+        497,
+        657,
+        525
+      ]
+    },
+    {
+      "text": "- Supervised transitions between lessons",
+      "score": 0.9807769656181335,
+      "box": [
+        127,
+        521,
+        511,
+        550
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999287128448486,
+      "box": [
+        117,
+        587,
+        267,
+        614
+      ]
+    },
+    {
+      "text": "Master's, Social Science Studies, Fieldstone University, 2016",
+      "score": 0.9965071082115173,
+      "box": [
+        117,
+        633,
+        683,
+        657
+      ]
+    },
+    {
+      "text": "Bachelor's, Foundations of Learning, Fairmont University, 2014",
+      "score": 0.9819202423095703,
+      "box": [
+        115,
+        656,
+        701,
+        684
+      ]
+    },
+    {
+      "text": "• Completed coursework in classroom routines",
+      "score": 0.9949399828910828,
+      "box": [
+        133,
+        684,
+        566,
+        708
+      ]
+    },
+    {
+      "text": "• Studied principles of student assessment",
+      "score": 0.9796305894851685,
+      "box": [
+        132,
+        706,
+        530,
+        735
+      ]
+    }
+  ],
+  "seconds": 2.8342454000376165,
+  "id": "48061",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

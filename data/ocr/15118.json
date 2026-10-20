@@ -1,0 +1,152 @@
+{
+  "lines": [
+    {
+      "text": "CRYSTAL MURRAY",
+      "score": 0.9997087717056274,
+      "box": [
+        117,
+        90,
+        432,
+        122
+      ]
+    },
+    {
+      "text": "GA, USA | +1-545-699-4647 | crystal.murray@example.com",
+      "score": 0.9960061311721802,
+      "box": [
+        116,
+        150,
+        672,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9991776347160339,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, New Beginnings School, 2019.04—2021.11",
+      "score": 0.9829581379890442,
+      "box": [
+        116,
+        288,
+        858,
+        318
+      ]
+    },
+    {
+      "text": "- Led instructional leadership initiatives",
+      "score": 0.9968380928039551,
+      "box": [
+        126,
+        315,
+        488,
+        341
+      ]
+    },
+    {
+      "text": "- Established instructional review cycles",
+      "score": 0.9882708191871643,
+      "box": [
+        126,
+        339,
+        496,
+        367
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Little Futures School, 2015.032017.10",
+      "score": 0.9944846034049988,
+      "box": [
+        116,
+        380,
+        829,
+        409
+      ]
+    },
+    {
+      "text": "- Administered learning games",
+      "score": 0.9770039319992065,
+      "box": [
+        125,
+        405,
+        413,
+        436
+      ]
+    },
+    {
+      "text": "- Maintained classroom bulletin boards",
+      "score": 0.9990738034248352,
+      "box": [
+        126,
+        432,
+        486,
+        456
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999396204948425,
+      "box": [
+        116,
+        494,
+        267,
+        521
+      ]
+    },
+    {
+      "text": "Professional degree, Educational Practice, Golden Hills University, 2011",
+      "score": 0.9872989654541016,
+      "box": [
+        115,
+        539,
+        784,
+        567
+      ]
+    },
+    {
+      "text": "Bachelor's, Teaching Foundations, Stoneview University, 2007",
+      "score": 0.9783852100372314,
+      "box": [
+        116,
+        566,
+        696,
+        593
+      ]
+    },
+    {
+      "text": "• Completed coursework in instructional adaptation",
+      "score": 0.9847025871276855,
+      "box": [
+        131,
+        593,
+        604,
+        617
+      ]
+    },
+    {
+      "text": "Studied principles of lesson coherence",
+      "score": 0.9836669564247131,
+      "box": [
+        131,
+        614,
+        507,
+        644
+      ]
+    }
+  ],
+  "seconds": 2.686929800081998,
+  "id": "15118",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

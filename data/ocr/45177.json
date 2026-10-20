@@ -1,0 +1,172 @@
+{
+  "lines": [
+    {
+      "text": "JOANN HOLLAND",
+      "score": 0.9997235536575317,
+      "box": [
+        116,
+        91,
+        406,
+        121
+      ]
+    },
+    {
+      "text": "PA, USA| +1-558-364-6967 | joann.holland@example.com",
+      "score": 0.9812171459197998,
+      "box": [
+        117,
+        152,
+        663,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9991355538368225,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Integrity Accounts, 2020.10—2023.01",
+      "score": 0.9810142517089844,
+      "box": [
+        115,
+        288,
+        665,
+        317
+      ]
+    },
+    {
+      "text": "- Directed accounting training programs",
+      "score": 0.985304594039917,
+      "box": [
+        127,
+        315,
+        494,
+        343
+      ]
+    },
+    {
+      "text": "- Designed budgeting methodologies",
+      "score": 0.9972231388092041,
+      "box": [
+        127,
+        340,
+        469,
+        368
+      ]
+    },
+    {
+      "text": "Accountants Auditors, SteadyCount Advisors, 2018.072020.10",
+      "score": 0.9918306469917297,
+      "box": [
+        118,
+        383,
+        707,
+        407
+      ]
+    },
+    {
+      "text": "- Analyzed cost structures",
+      "score": 0.9987242817878723,
+      "box": [
+        125,
+        407,
+        370,
+        434
+      ]
+    },
+    {
+      "text": "- Performed revenue recognition analysis",
+      "score": 0.9961410760879517,
+      "box": [
+        125,
+        431,
+        510,
+        459
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Reliable Balance Financial Group, 2016.04—2018.07",
+      "score": 0.9773737788200378,
+      "box": [
+        117,
+        472,
+        809,
+        499
+      ]
+    },
+    {
+      "text": "- Prepared account reconciliations",
+      "score": 0.9935204982757568,
+      "box": [
+        126,
+        498,
+        447,
+        524
+      ]
+    },
+    {
+      "text": "- Maintained accounting software records",
+      "score": 0.9913379549980164,
+      "box": [
+        127,
+        520,
+        511,
+        550
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9998833537101746,
+      "box": [
+        117,
+        587,
+        267,
+        614
+      ]
+    },
+    {
+      "text": "Bachelor's, Finance, Cedar Ridge University, 2015",
+      "score": 0.9832291603088379,
+      "box": [
+        117,
+        632,
+        585,
+        657
+      ]
+    },
+    {
+      "text": "•Studied fundamentals of employee benefit accounting",
+      "score": 0.9858649969100952,
+      "box": [
+        129,
+        655,
+        645,
+        686
+      ]
+    },
+    {
+      "text": "• Completed coursework in bank reconciliation",
+      "score": 0.9957326054573059,
+      "box": [
+        133,
+        682,
+        563,
+        708
+      ]
+    }
+  ],
+  "seconds": 2.58853209996596,
+  "id": "45177",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

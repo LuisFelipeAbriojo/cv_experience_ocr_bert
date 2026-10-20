@@ -1,0 +1,212 @@
+{
+  "lines": [
+    {
+      "text": "DIANE WHITAKER",
+      "score": 0.9992087483406067,
+      "box": [
+        118,
+        92,
+        411,
+        122
+      ]
+    },
+    {
+      "text": "OK, USA | +1-986-629-2715 | diane.whitaker@example.com",
+      "score": 0.9930341243743896,
+      "box": [
+        116,
+        150,
+        677,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9991713166236877,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, TrustLedger Financial, 2019.052023.01",
+      "score": 0.993274986743927,
+      "box": [
+        116,
+        290,
+        701,
+        317
+      ]
+    },
+    {
+      "text": "- Directed financial reporting processes",
+      "score": 0.9996051788330078,
+      "box": [
+        125,
+        314,
+        492,
+        344
+      ]
+    },
+    {
+      "text": "- Directed enterprise accounting platforms",
+      "score": 0.9680813550949097,
+      "box": [
+        127,
+        340,
+        517,
+        369
+      ]
+    },
+    {
+      "text": "Accountants Auditors, PrimeBalance Accounting, 2015.092019.05",
+      "score": 0.9865880608558655,
+      "box": [
+        116,
+        381,
+        740,
+        409
+      ]
+    },
+    {
+      "text": "- Established accounting policies",
+      "score": 0.9887999296188354,
+      "box": [
+        126,
+        408,
+        433,
+        433
+      ]
+    },
+    {
+      "text": "- Designed financial modeling standards",
+      "score": 0.9874098300933838,
+      "box": [
+        126,
+        431,
+        501,
+        459
+      ]
+    },
+    {
+      "text": "Accountants Auditors, EverBalance Accounting, 2011.12—2015.09",
+      "score": 0.9795317649841309,
+      "box": [
+        116,
+        470,
+        728,
+        501
+      ]
+    },
+    {
+      "text": "- Prepared statutory filings",
+      "score": 0.9988889694213867,
+      "box": [
+        125,
+        497,
+        375,
+        526
+      ]
+    },
+    {
+      "text": "- Conducted internal audits",
+      "score": 0.9868191480636597,
+      "box": [
+        128,
+        523,
+        378,
+        547
+      ]
+    },
+    {
+      "text": "Accountants Auditors, EverBalance Group, 2006.09—2010.06",
+      "score": 0.9919133186340332,
+      "box": [
+        117,
+        565,
+        682,
+        591
+      ]
+    },
+    {
+      "text": "- Processed accounts receivable transactions",
+      "score": 0.9986526370048523,
+      "box": [
+        126,
+        590,
+        549,
+        615
+      ]
+    },
+    {
+      "text": "- Assisted with compliance documentation",
+      "score": 0.9995298385620117,
+      "box": [
+        127,
+        615,
+        517,
+        640
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999372959136963,
+      "box": [
+        117,
+        681,
+        266,
+        705
+      ]
+    },
+    {
+      "text": "Master's, Applied Accounting, Silverview University, 2004",
+      "score": 0.9906421899795532,
+      "box": [
+        115,
+        723,
+        648,
+        750
+      ]
+    },
+    {
+      "text": "Bachelor's, Information Systems, Stonebrook University, 2002",
+      "score": 0.9941421747207642,
+      "box": [
+        115,
+        747,
+        690,
+        775
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of portfolio management",
+      "score": 0.9876717925071716,
+      "box": [
+        131,
+        776,
+        582,
+        800
+      ]
+    },
+    {
+      "text": "• Studied principles of financial risk management",
+      "score": 0.9975122809410095,
+      "box": [
+        132,
+        800,
+        586,
+        827
+      ]
+    }
+  ],
+  "seconds": 2.8302595000714064,
+  "id": "43613",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

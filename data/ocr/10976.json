@@ -1,0 +1,212 @@
+{
+  "lines": [
+    {
+      "text": "JASON STRICKLAND",
+      "score": 0.9996689558029175,
+      "box": [
+        116,
+        91,
+        458,
+        122
+      ]
+    },
+    {
+      "text": "CT, USA | +1-285-295-1775 | jason.strickland@example.com",
+      "score": 0.9858585596084595,
+      "box": [
+        116,
+        150,
+        684,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9988259673118591,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, SolidCount Services, 2020.05—2023.01",
+      "score": 0.990630030632019,
+      "box": [
+        115,
+        288,
+        687,
+        316
+      ]
+    },
+    {
+      "text": "- Developed financial risk models",
+      "score": 0.9982138872146606,
+      "box": [
+        128,
+        317,
+        436,
+        340
+      ]
+    },
+    {
+      "text": "- Directed accounting leadership initiatives",
+      "score": 0.9885541796684265,
+      "box": [
+        127,
+        339,
+        521,
+        368
+      ]
+    },
+    {
+      "text": "Accountants Auditors, SteadyBooks Group, 2017.092020.05",
+      "score": 0.9921586513519287,
+      "box": [
+        118,
+        384,
+        687,
+        408
+      ]
+    },
+    {
+      "text": "- Designed tax strategies",
+      "score": 0.9860995411872864,
+      "box": [
+        127,
+        409,
+        361,
+        433
+      ]
+    },
+    {
+      "text": "- Established reporting automation systems",
+      "score": 0.9918506145477295,
+      "box": [
+        126,
+        432,
+        529,
+        459
+      ]
+    },
+    {
+      "text": "Accountants Auditors, SolidBalance Advisors Group, 2014.122017.09",
+      "score": 0.9847164154052734,
+      "box": [
+        117,
+        472,
+        772,
+        499
+      ]
+    },
+    {
+      "text": "- Prepared cost allocation models",
+      "score": 0.9848195910453796,
+      "box": [
+        125,
+        497,
+        441,
+        525
+      ]
+    },
+    {
+      "text": "- Reviewed tax provisions",
+      "score": 0.9938468933105469,
+      "box": [
+        126,
+        521,
+        368,
+        551
+      ]
+    },
+    {
+      "text": "Accountants Auditors, AccuCount Advisors, 2010.052013.02",
+      "score": 0.9988888502120972,
+      "box": [
+        117,
+        566,
+        688,
+        590
+      ]
+    },
+    {
+      "text": "- Reviewed credit memos",
+      "score": 0.9967936873435974,
+      "box": [
+        126,
+        590,
+        366,
+        615
+      ]
+    },
+    {
+      "text": "- Processed accounts payable invoices",
+      "score": 0.9882925748825073,
+      "box": [
+        125,
+        613,
+        490,
+        645
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9998786449432373,
+      "box": [
+        117,
+        681,
+        266,
+        705
+      ]
+    },
+    {
+      "text": "Master's, Supply Chain Management, Willowcrest University, 2006",
+      "score": 0.9987636208534241,
+      "box": [
+        116,
+        725,
+        733,
+        751
+      ]
+    },
+    {
+      "text": "Bachelor's, Accounting Information Systems, Goldenridge University, 2004",
+      "score": 0.9912396669387817,
+      "box": [
+        116,
+        749,
+        807,
+        776
+      ]
+    },
+    {
+      "text": "•Studied fundamentals of employee benefit accounting",
+      "score": 0.9830871224403381,
+      "box": [
+        129,
+        773,
+        645,
+        802
+      ]
+    },
+    {
+      "text": "•Studied principles of social responsibility reporting",
+      "score": 0.9902117848396301,
+      "box": [
+        131,
+        798,
+        610,
+        828
+      ]
+    }
+  ],
+  "seconds": 3.2585538998246193,
+  "id": "10976",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

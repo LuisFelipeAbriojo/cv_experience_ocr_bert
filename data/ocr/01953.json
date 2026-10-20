@@ -1,0 +1,112 @@
+{
+  "lines": [
+    {
+      "text": "ASHLEY BRENNAN",
+      "score": 0.9991661310195923,
+      "box": [
+        116,
+        90,
+        430,
+        122
+      ]
+    },
+    {
+      "text": "AZ, USA | +1-694-919-1685 | ashley.brennan@example.com",
+      "score": 0.9920153021812439,
+      "box": [
+        117,
+        150,
+        681,
+        177
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.999378502368927,
+      "box": [
+        116,
+        243,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Registered Nurses, EverBridge Health Group, 2020.112021.07",
+      "score": 0.9965072870254517,
+      "box": [
+        116,
+        289,
+        709,
+        316
+      ]
+    },
+    {
+      "text": "- Recorded nursing notes",
+      "score": 0.9887537360191345,
+      "box": [
+        125,
+        313,
+        366,
+        343
+      ]
+    },
+    {
+      "text": "- Monitored patient pain levels",
+      "score": 0.9907813668251038,
+      "box": [
+        126,
+        339,
+        408,
+        367
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999475479125977,
+      "box": [
+        116,
+        404,
+        268,
+        431
+      ]
+    },
+    {
+      "text": "Associate's degree, Life Sciences, Forest Ridge University, 2017",
+      "score": 0.9908881187438965,
+      "box": [
+        115,
+        445,
+        717,
+        476
+      ]
+    },
+    {
+      "text": "Completed coursework in laboratory values interpretation",
+      "score": 0.9967494606971741,
+      "box": [
+        131,
+        472,
+        676,
+        500
+      ]
+    },
+    {
+      "text": "•Completed coursework in nutritional assessment",
+      "score": 0.9961115121841431,
+      "box": [
+        134,
+        499,
+        599,
+        523
+      ]
+    }
+  ],
+  "seconds": 2.5510963001288474,
+  "id": "01953",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

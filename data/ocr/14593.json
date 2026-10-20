@@ -1,0 +1,202 @@
+{
+  "lines": [
+    {
+      "text": "ANGELA PHAN",
+      "score": 0.9996166229248047,
+      "box": [
+        116,
+        89,
+        363,
+        122
+      ]
+    },
+    {
+      "text": "GA, USA | +1-766-931-5934 | angela.phan@example.com",
+      "score": 0.9974179863929749,
+      "box": [
+        116,
+        150,
+        656,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9989565014839172,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, AccuCount Solutions, 2019.09—2023.01",
+      "score": 0.9845595359802246,
+      "box": [
+        117,
+        290,
+        692,
+        314
+      ]
+    },
+    {
+      "text": "- Led accounting process optimization",
+      "score": 0.9980685114860535,
+      "box": [
+        128,
+        316,
+        478,
+        341
+      ]
+    },
+    {
+      "text": "- Designed audit methodologies",
+      "score": 0.9975939989089966,
+      "box": [
+        127,
+        340,
+        424,
+        368
+      ]
+    },
+    {
+      "text": "Accountants Auditors, CoreCount Advisors, 2016.052019.09",
+      "score": 0.9921714663505554,
+      "box": [
+        118,
+        383,
+        687,
+        407
+      ]
+    },
+    {
+      "text": "- Designed audit methodologies",
+      "score": 0.9914289116859436,
+      "box": [
+        127,
+        409,
+        424,
+        433
+      ]
+    },
+    {
+      "text": "- Led regulatory compliance initiatives",
+      "score": 0.9769424200057983,
+      "box": [
+        127,
+        431,
+        479,
+        459
+      ]
+    },
+    {
+      "text": "Accountants Auditors, SteadyBooks Group, 2012.122016.05",
+      "score": 0.9970588684082031,
+      "box": [
+        117,
+        474,
+        687,
+        498
+      ]
+    },
+    {
+      "text": "- Supervised junior accountants",
+      "score": 0.9840229749679565,
+      "box": [
+        126,
+        500,
+        421,
+        524
+      ]
+    },
+    {
+      "text": "- Reviewed audit workpapers",
+      "score": 0.9672935605049133,
+      "box": [
+        127,
+        522,
+        398,
+        549
+      ]
+    },
+    {
+      "text": "Accountants Auditors, FairBalance Accounting, 2008.05—2011.10",
+      "score": 0.9830098152160645,
+      "box": [
+        115,
+        564,
+        721,
+        592
+      ]
+    },
+    {
+      "text": "- Entered financial data into accounting systems",
+      "score": 0.9909693598747253,
+      "box": [
+        125,
+        589,
+        574,
+        617
+      ]
+    },
+    {
+      "text": "- Reviewed vendor payments",
+      "score": 0.9834378957748413,
+      "box": [
+        125,
+        613,
+        401,
+        643
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9998937249183655,
+      "box": [
+        117,
+        681,
+        266,
+        705
+      ]
+    },
+    {
+      "text": "Bachelor's, Business Economics, Woodland University, 2004",
+      "score": 0.9936422109603882,
+      "box": [
+        116,
+        724,
+        679,
+        749
+      ]
+    },
+    {
+      "text": "• Completed coursework in corporate governance",
+      "score": 0.9832390546798706,
+      "box": [
+        131,
+        749,
+        593,
+        776
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of valuation methods",
+      "score": 0.9825811982154846,
+      "box": [
+        132,
+        773,
+        548,
+        798
+      ]
+    }
+  ],
+  "seconds": 2.870368800126016,
+  "id": "14593",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

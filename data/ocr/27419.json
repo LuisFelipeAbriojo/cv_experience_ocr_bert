@@ -1,0 +1,142 @@
+{
+  "lines": [
+    {
+      "text": "EDWARD MALONE",
+      "score": 0.9996664524078369,
+      "box": [
+        118,
+        91,
+        422,
+        121
+      ]
+    },
+    {
+      "text": "MI, USA | +1-401-294-8352 | edward.malone@example.com",
+      "score": 0.989296555519104,
+      "box": [
+        117,
+        152,
+        677,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9991295337677002,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, Helping Bridge Nursing, 2020.08—2023.01",
+      "score": 0.9713518619537354,
+      "box": [
+        115,
+        287,
+        690,
+        319
+      ]
+    },
+    {
+      "text": "- Managed clinical resource planning",
+      "score": 0.962401270866394,
+      "box": [
+        125,
+        313,
+        470,
+        344
+      ]
+    },
+    {
+      "text": "- Managed clinical compliance programs",
+      "score": 0.9906207919120789,
+      "box": [
+        126,
+        339,
+        502,
+        369
+      ]
+    },
+    {
+      "text": "Registered Nurses, Helping Hands Nursing, 2015.052017.11",
+      "score": 0.9920333027839661,
+      "box": [
+        115,
+        379,
+        690,
+        410
+      ]
+    },
+    {
+      "text": "- Collected patient health histories",
+      "score": 0.997710108757019,
+      "box": [
+        126,
+        407,
+        443,
+        433
+      ]
+    },
+    {
+      "text": "- Provided post-procedure care",
+      "score": 0.9960781931877136,
+      "box": [
+        127,
+        430,
+        419,
+        460
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999276399612427,
+      "box": [
+        116,
+        494,
+        267,
+        521
+      ]
+    },
+    {
+      "text": "Bachelor's, Pediatric Care, Brightwater University, 2011",
+      "score": 0.99273681640625,
+      "box": [
+        115,
+        539,
+        629,
+        567
+      ]
+    },
+    {
+      "text": "•Studied fundamentals of musculoskeletal nursing",
+      "score": 0.9925431609153748,
+      "box": [
+        130,
+        566,
+        602,
+        592
+      ]
+    },
+    {
+      "text": "Completed coursework in first aid principles",
+      "score": 0.9769265651702881,
+      "box": [
+        131,
+        590,
+        551,
+        618
+      ]
+    }
+  ],
+  "seconds": 2.4860976999625564,
+  "id": "27419",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

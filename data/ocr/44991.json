@@ -1,0 +1,102 @@
+{
+  "lines": [
+    {
+      "text": "GARRETT OSBORNE",
+      "score": 0.9997913241386414,
+      "box": [
+        117,
+        89,
+        457,
+        123
+      ]
+    },
+    {
+      "text": "PA, USA | +1-848-642-6832 | garrett.osborne@example.com",
+      "score": 0.990902841091156,
+      "box": [
+        116,
+        149,
+        681,
+        177
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9997338652610779,
+      "box": [
+        117,
+        243,
+        317,
+        270
+      ]
+    },
+    {
+      "text": "Construction Laborers, Allied Build Group, 2021.01-2023.01",
+      "score": 0.9669520258903503,
+      "box": [
+        116,
+        287,
+        674,
+        315
+      ]
+    },
+    {
+      "text": "- Assisted with framing support",
+      "score": 0.9859983325004578,
+      "box": [
+        125,
+        313,
+        418,
+        343
+      ]
+    },
+    {
+      "text": "- Assisted with equipment maintenance",
+      "score": 0.9620732665061951,
+      "box": [
+        128,
+        340,
+        493,
+        366
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999426603317261,
+      "box": [
+        116,
+        404,
+        268,
+        431
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Structural Technology, Greenwood Ridge High School, 2022",
+      "score": 0.9989262223243713,
+      "box": [
+        116,
+        447,
+        935,
+        474
+      ]
+    },
+    {
+      "text": "• Studied principles of structural load paths",
+      "score": 0.9721004962921143,
+      "box": [
+        131,
+        475,
+        529,
+        499
+      ]
+    }
+  ],
+  "seconds": 2.4806018001399934,
+  "id": "44991",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

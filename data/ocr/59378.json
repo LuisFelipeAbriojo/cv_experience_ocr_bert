@@ -1,0 +1,162 @@
+{
+  "lines": [
+    {
+      "text": "JACOB HUNT",
+      "score": 0.9997892379760742,
+      "box": [
+        116,
+        90,
+        337,
+        121
+      ]
+    },
+    {
+      "text": "WA, USA | +1-421-518-5261 | jacob.hunt@example.com",
+      "score": 0.9971985816955566,
+      "box": [
+        115,
+        149,
+        641,
+        177
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9991820454597473,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, NextRise Construction, 2019.102023.01",
+      "score": 0.9985414147377014,
+      "box": [
+        118,
+        290,
+        714,
+        314
+      ]
+    },
+    {
+      "text": "- Reviewed structural integrity assessments",
+      "score": 0.9937047958374023,
+      "box": [
+        126,
+        314,
+        532,
+        340
+      ]
+    },
+    {
+      "text": "- Developed project risk assessments",
+      "score": 0.9872750043869019,
+      "box": [
+        128,
+        340,
+        476,
+        366
+      ]
+    },
+    {
+      "text": "Construction Laborers, SolidRise Contractors, 2016.06—2019.10",
+      "score": 0.9770182371139526,
+      "box": [
+        116,
+        380,
+        711,
+        408
+      ]
+    },
+    {
+      "text": "- Prepared structural joints",
+      "score": 0.9894651770591736,
+      "box": [
+        126,
+        408,
+        374,
+        432
+      ]
+    },
+    {
+      "text": "- Prepared site reports",
+      "score": 0.9975622296333313,
+      "box": [
+        128,
+        433,
+        339,
+        459
+      ]
+    },
+    {
+      "text": "Construction Laborers, TrueBuild Services, 2010.03—2013.07",
+      "score": 0.9805088639259338,
+      "box": [
+        118,
+        473,
+        682,
+        497
+      ]
+    },
+    {
+      "text": "- Assisted with roofing material handling",
+      "score": 0.9901177883148193,
+      "box": [
+        125,
+        493,
+        498,
+        526
+      ]
+    },
+    {
+      "text": "- Secured materials with fasteners",
+      "score": 0.9958176612854004,
+      "box": [
+        128,
+        521,
+        446,
+        547
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999186992645264,
+      "box": [
+        117,
+        586,
+        267,
+        613
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Concrete Technology, Willow Ridge High School, 2005",
+      "score": 0.9907251596450806,
+      "box": [
+        118,
+        633,
+        883,
+        657
+      ]
+    },
+    {
+      "text": "•Studied fundamentals of structural framing techniques",
+      "score": 0.9956390261650085,
+      "box": [
+        130,
+        656,
+        647,
+        683
+      ]
+    }
+  ],
+  "seconds": 2.7444929997436702,
+  "id": "59378",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

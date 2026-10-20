@@ -1,0 +1,202 @@
+{
+  "lines": [
+    {
+      "text": "KELLY ARMSTRONG",
+      "score": 0.9756945371627808,
+      "box": [
+        117,
+        91,
+        454,
+        122
+      ]
+    },
+    {
+      "text": "MI, USA | +1-909-799-2600 | kelly.armstrong@example.com",
+      "score": 0.9927970170974731,
+      "box": [
+        115,
+        150,
+        676,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9966663718223572,
+      "box": [
+        117,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, LifeBridge Health Group, 2019.10—2023.01",
+      "score": 0.9833188056945801,
+      "box": [
+        115,
+        287,
+        699,
+        318
+      ]
+    },
+    {
+      "text": "- Directed nursing process improvements",
+      "score": 0.9845812916755676,
+      "box": [
+        126,
+        313,
+        510,
+        344
+      ]
+    },
+    {
+      "text": "- Implemented care pathway frameworks",
+      "score": 0.9897674322128296,
+      "box": [
+        126,
+        339,
+        507,
+        369
+      ]
+    },
+    {
+      "text": "Registered Nurses, NewWay Care Center, 2016.072019.10",
+      "score": 0.9998618364334106,
+      "box": [
+        117,
+        382,
+        680,
+        409
+      ]
+    },
+    {
+      "text": "- Managed clinical resource planning",
+      "score": 0.9789530634880066,
+      "box": [
+        125,
+        407,
+        469,
+        434
+      ]
+    },
+    {
+      "text": "- Directed interdisciplinary workflow alignment",
+      "score": 0.9926035404205322,
+      "box": [
+        128,
+        434,
+        553,
+        457
+      ]
+    },
+    {
+      "text": "Registered Nurses, LifePath Nursing Services, 2013.042016.07",
+      "score": 0.9895661473274231,
+      "box": [
+        116,
+        471,
+        716,
+        499
+      ]
+    },
+    {
+      "text": "- Administered blood transfusions",
+      "score": 0.9996667504310608,
+      "box": [
+        126,
+        498,
+        440,
+        523
+      ]
+    },
+    {
+      "text": "- Conducted quality assurance checks",
+      "score": 0.9940220713615417,
+      "box": [
+        127,
+        521,
+        482,
+        550
+      ]
+    },
+    {
+      "text": "Registered Nurses, OpenLife Care Services, 2007.062010.09",
+      "score": 0.999628484249115,
+      "box": [
+        117,
+        565,
+        698,
+        592
+      ]
+    },
+    {
+      "text": "- Assisted with feeding patients",
+      "score": 0.9754352569580078,
+      "box": [
+        126,
+        589,
+        420,
+        618
+      ]
+    },
+    {
+      "text": "- Recorded patient weight and height",
+      "score": 0.9995319843292236,
+      "box": [
+        125,
+        614,
+        471,
+        642
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999116063117981,
+      "box": [
+        117,
+        681,
+        266,
+        705
+      ]
+    },
+    {
+      "text": "Associate's degree, Nursing Practice, Meadowfield University, 2005",
+      "score": 0.9852651953697205,
+      "box": [
+        118,
+        725,
+        740,
+        748
+      ]
+    },
+    {
+      "text": "•Completed coursework in care plan development",
+      "score": 0.9890204071998596,
+      "box": [
+        132,
+        749,
+        603,
+        776
+      ]
+    },
+    {
+      "text": "Studied principles of healthcare ethics",
+      "score": 0.9995367527008057,
+      "box": [
+        132,
+        772,
+        501,
+        800
+      ]
+    }
+  ],
+  "seconds": 3.0853057000786066,
+  "id": "27044",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

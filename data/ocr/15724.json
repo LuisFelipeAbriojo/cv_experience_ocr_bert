@@ -1,0 +1,172 @@
+{
+  "lines": [
+    {
+      "text": "LUCINDA HODGE",
+      "score": 0.9910666942596436,
+      "box": [
+        117,
+        89,
+        400,
+        122
+      ]
+    },
+    {
+      "text": "GA, USA | +1-896-670-7421 | lucinda.hodge@example.com",
+      "score": 0.9875668883323669,
+      "box": [
+        116,
+        149,
+        672,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9991876482963562,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, New Beginnings School, 2020.09—2023.01",
+      "score": 0.9937012791633606,
+      "box": [
+        115,
+        287,
+        857,
+        319
+      ]
+    },
+    {
+      "text": "- Led strategic curriculum planning",
+      "score": 0.9954134225845337,
+      "box": [
+        127,
+        316,
+        449,
+        342
+      ]
+    },
+    {
+      "text": "- Led professional development planning",
+      "score": 0.9864692687988281,
+      "box": [
+        127,
+        339,
+        505,
+        369
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Learning View Academy, 2017.112020.03",
+      "score": 0.9895547032356262,
+      "box": [
+        116,
+        381,
+        864,
+        411
+      ]
+    },
+    {
+      "text": "- Implemented classroom improvement plans",
+      "score": 0.9996774196624756,
+      "box": [
+        126,
+        408,
+        546,
+        433
+      ]
+    },
+    {
+      "text": "- Developed progress monitoring tools",
+      "score": 0.9794691801071167,
+      "box": [
+        126,
+        431,
+        483,
+        459
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Sunny Futures School, 2014.102017.02",
+      "score": 0.9965836405754089,
+      "box": [
+        117,
+        472,
+        844,
+        499
+      ]
+    },
+    {
+      "text": "- Assisted with science experiments",
+      "score": 0.9726065397262573,
+      "box": [
+        125,
+        497,
+        460,
+        525
+      ]
+    },
+    {
+      "text": "- Supervised classroom activities",
+      "score": 0.99899822473526,
+      "box": [
+        129,
+        523,
+        433,
+        547
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999523162841797,
+      "box": [
+        118,
+        588,
+        266,
+        612
+      ]
+    },
+    {
+      "text": "Bachelor's, Introductory Education, Highland University, 2010",
+      "score": 0.9954007267951965,
+      "box": [
+        117,
+        632,
+        685,
+        659
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of instructional facilitation",
+      "score": 0.9895175695419312,
+      "box": [
+        129,
+        657,
+        590,
+        682
+      ]
+    },
+    {
+      "text": "•Studied foundational instructional design",
+      "score": 0.9846581220626831,
+      "box": [
+        131,
+        680,
+        522,
+        709
+      ]
+    }
+  ],
+  "seconds": 2.6081793000921607,
+  "id": "15724",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

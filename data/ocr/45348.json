@@ -1,0 +1,152 @@
+{
+  "lines": [
+    {
+      "text": "COURTNEY BLACKWELL",
+      "score": 0.9978675842285156,
+      "box": [
+        118,
+        92,
+        525,
+        122
+      ]
+    },
+    {
+      "text": "PA, USA | +1-478-431-3225 | courtney.blackwell@example.com",
+      "score": 0.9815291166305542,
+      "box": [
+        115,
+        150,
+        710,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9991250038146973,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Future Steps Academy, 2021.05—2023.01",
+      "score": 0.9943947196006775,
+      "box": [
+        115,
+        287,
+        849,
+        319
+      ]
+    },
+    {
+      "text": "- Designed systemic intervention models",
+      "score": 0.9940395951271057,
+      "box": [
+        125,
+        314,
+        505,
+        342
+      ]
+    },
+    {
+      "text": "- Developed system-wide assessment tools",
+      "score": 0.9905647039413452,
+      "box": [
+        128,
+        341,
+        531,
+        368
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Future Path Academy, 2019.09—2021.05",
+      "score": 0.9948568344116211,
+      "box": [
+        116,
+        381,
+        841,
+        411
+      ]
+    },
+    {
+      "text": "- Recorded test results",
+      "score": 0.9994074106216431,
+      "box": [
+        126,
+        409,
+        339,
+        433
+      ]
+    },
+    {
+      "text": "- Collected permission forms",
+      "score": 0.9853345155715942,
+      "box": [
+        126,
+        431,
+        394,
+        460
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999365210533142,
+      "box": [
+        117,
+        496,
+        266,
+        520
+      ]
+    },
+    {
+      "text": "Master's, Learning and Teaching Studies, Hillview University, 2020",
+      "score": 0.9700366854667664,
+      "box": [
+        116,
+        542,
+        732,
+        566
+      ]
+    },
+    {
+      "text": "Bachelor's, Educational Support, Vista University, 2018",
+      "score": 0.9793514013290405,
+      "box": [
+        115,
+        566,
+        627,
+        592
+      ]
+    },
+    {
+      "text": "•Studied fundamentals of student learning styles",
+      "score": 0.992000162601471,
+      "box": [
+        130,
+        593,
+        587,
+        617
+      ]
+    },
+    {
+      "text": "•Studied fundamentals of teaching strategy selection",
+      "score": 0.9740854501724243,
+      "box": [
+        129,
+        615,
+        625,
+        643
+      ]
+    }
+  ],
+  "seconds": 2.3924829000607133,
+  "id": "45348",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

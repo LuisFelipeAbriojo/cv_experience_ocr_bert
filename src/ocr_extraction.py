@@ -209,8 +209,7 @@ def summary():
     meta = pd.read_csv(RAW / "metadata.csv", dtype={"id": str})[["id", "occupation"]]
     df = df.merge(meta, on="id", how="left")
     df.to_csv(TABLES / "ocr_per_cv.csv", index=False)
-    import paddle
-    import paddleocr
+    from importlib.metadata import version  # importing paddleocr here would pull torch in after paddle (DLL clash on Windows)
 
     stats = dict(
         n_cvs=len(df), n_failed=int((~df["ok"]).sum() + (df["n_lines"] == 0).sum()),
@@ -221,7 +220,7 @@ def summary():
         share_lines_below_0_8=df["low_conf_share"].mean(),
         layout_counts=df["layout"].value_counts().to_dict(),
         det_model=DET_MODEL, rec_model=REC_MODEL,
-        paddleocr=paddleocr.__version__, paddlepaddle=paddle.__version__,
+        paddleocr=version("paddleocr"), paddlepaddle=version("paddlepaddle"),
         hardware=f"{platform.processor()} | {os.cpu_count()} logical cores | CPU only",
         by_occupation=df.groupby("occupation")[["seconds", "mean_conf", "n_lines"]].mean().to_dict(),
     )

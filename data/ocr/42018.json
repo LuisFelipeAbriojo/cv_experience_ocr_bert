@@ -1,0 +1,142 @@
+{
+  "lines": [
+    {
+      "text": "KELSEY BROWNING",
+      "score": 0.9996976852416992,
+      "box": [
+        118,
+        91,
+        448,
+        121
+      ]
+    },
+    {
+      "text": "OH, USA | +1-971-304-7375 | kelsey.browning@example.com",
+      "score": 0.9933269023895264,
+      "box": [
+        116,
+        150,
+        693,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9991476535797119,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Integrity Ledger Advisors, 2020.02—2023.01",
+      "score": 0.987291693687439,
+      "box": [
+        115,
+        288,
+        731,
+        318
+      ]
+    },
+    {
+      "text": "- Directed revenue recognition policies",
+      "score": 0.9997876286506653,
+      "box": [
+        125,
+        313,
+        485,
+        344
+      ]
+    },
+    {
+      "text": "- Designed financial accountability systems",
+      "score": 0.9856512546539307,
+      "box": [
+        127,
+        339,
+        528,
+        368
+      ]
+    },
+    {
+      "text": "Accountants Auditors, ClearBooks Advisors, 2017.032020.02",
+      "score": 0.9908581972122192,
+      "box": [
+        116,
+        380,
+        695,
+        408
+      ]
+    },
+    {
+      "text": "- Maintained supporting documentation",
+      "score": 0.9857268333435059,
+      "box": [
+        125,
+        406,
+        490,
+        434
+      ]
+    },
+    {
+      "text": "- Prepared trial balances",
+      "score": 0.9782226085662842,
+      "box": [
+        127,
+        430,
+        359,
+        460
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999110102653503,
+      "box": [
+        117,
+        494,
+        267,
+        521
+      ]
+    },
+    {
+      "text": "Bachelor's, Business Operations, Greenridge University, 2020",
+      "score": 0.9871927499771118,
+      "box": [
+        117,
+        542,
+        688,
+        566
+      ]
+    },
+    {
+      "text": "•Completed coursework in intermediate accounting",
+      "score": 0.9810864925384521,
+      "box": [
+        130,
+        565,
+        612,
+        594
+      ]
+    },
+    {
+      "text": "• Studied principles of financial regulations",
+      "score": 0.9950467348098755,
+      "box": [
+        133,
+        592,
+        526,
+        616
+      ]
+    }
+  ],
+  "seconds": 2.369650300126523,
+  "id": "42018",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

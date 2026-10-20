@@ -1,0 +1,172 @@
+{
+  "lines": [
+    {
+      "text": "THOMAS LIN",
+      "score": 0.9926988482475281,
+      "box": [
+        118,
+        92,
+        325,
+        120
+      ]
+    },
+    {
+      "text": "CA, USA | +1-241-905-5539 | thomas.lin@example.com",
+      "score": 0.9834964275360107,
+      "box": [
+        116,
+        150,
+        636,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9989557266235352,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, FairCount Financial, 2020.05—2023.01",
+      "score": 0.996812641620636,
+      "box": [
+        116,
+        289,
+        679,
+        314
+      ]
+    },
+    {
+      "text": "- Developed risk management frameworks",
+      "score": 0.9861510396003723,
+      "box": [
+        127,
+        315,
+        520,
+        340
+      ]
+    },
+    {
+      "text": "- Directed accounting system implementations",
+      "score": 0.9886475205421448,
+      "box": [
+        127,
+        339,
+        557,
+        368
+      ]
+    },
+    {
+      "text": "Accountants Auditors, AccuLedger Advisors, 2017.092020.05",
+      "score": 0.9963657855987549,
+      "box": [
+        118,
+        383,
+        697,
+        407
+      ]
+    },
+    {
+      "text": "- Coordinated audit schedules",
+      "score": 0.9939513802528381,
+      "box": [
+        126,
+        407,
+        407,
+        433
+      ]
+    },
+    {
+      "text": "- Prepared financial projections",
+      "score": 0.9828927516937256,
+      "box": [
+        126,
+        431,
+        418,
+        459
+      ]
+    },
+    {
+      "text": "Accountants Auditors, OpenBalance Accounting, 2013.032015.11",
+      "score": 0.9972744584083557,
+      "box": [
+        116,
+        472,
+        734,
+        499
+      ]
+    },
+    {
+      "text": "- Compiled audit evidence",
+      "score": 0.996253252029419,
+      "box": [
+        125,
+        496,
+        373,
+        525
+      ]
+    },
+    {
+      "text": "- Updated fixed asset registers",
+      "score": 0.9737746715545654,
+      "box": [
+        128,
+        521,
+        414,
+        552
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999009370803833,
+      "box": [
+        117,
+        587,
+        267,
+        614
+      ]
+    },
+    {
+      "text": "Bachelor's, Financial Planning, Willowcrest University, 2003",
+      "score": 0.9912235140800476,
+      "box": [
+        117,
+        632,
+        668,
+        659
+      ]
+    },
+    {
+      "text": "•Studied principles of quality control in auditing",
+      "score": 0.9796367883682251,
+      "box": [
+        128,
+        657,
+        572,
+        685
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of variance analysis",
+      "score": 0.9802597165107727,
+      "box": [
+        130,
+        682,
+        538,
+        707
+      ]
+    }
+  ],
+  "seconds": 2.6054515996947885,
+  "id": "07147",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

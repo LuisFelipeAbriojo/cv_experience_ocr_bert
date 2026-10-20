@@ -1,0 +1,212 @@
+{
+  "lines": [
+    {
+      "text": "STEPHANIE MORRIS",
+      "score": 0.9894744157791138,
+      "box": [
+        117,
+        91,
+        451,
+        122
+      ]
+    },
+    {
+      "text": "NC, USA | +1-538-698-2403 | stephanie.morris@example.com",
+      "score": 0.9909041523933411,
+      "box": [
+        115,
+        150,
+        696,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9991125464439392,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, ClearCount Group, 2019.08—2023.01",
+      "score": 0.9898748993873596,
+      "box": [
+        117,
+        291,
+        667,
+        315
+      ]
+    },
+    {
+      "text": "- Directed revenue recognition policies",
+      "score": 0.994804859161377,
+      "box": [
+        127,
+        314,
+        485,
+        343
+      ]
+    },
+    {
+      "text": "- Led regulatory compliance initiatives",
+      "score": 0.9757092595100403,
+      "box": [
+        128,
+        340,
+        479,
+        369
+      ]
+    },
+    {
+      "text": "Accountants Auditors, CoreBooks Group, 2016.022019.08",
+      "score": 0.9852040410041809,
+      "box": [
+        116,
+        381,
+        668,
+        409
+      ]
+    },
+    {
+      "text": "- Established audit governance structures",
+      "score": 0.9990700483322144,
+      "box": [
+        125,
+        408,
+        513,
+        433
+      ]
+    },
+    {
+      "text": "- Developed financial analytics frameworks",
+      "score": 0.999811053276062,
+      "box": [
+        127,
+        432,
+        524,
+        458
+      ]
+    },
+    {
+      "text": "Accountants Auditors, SteadyLedger Financial, 2012.08—2016.02",
+      "score": 0.9868935346603394,
+      "box": [
+        115,
+        471,
+        721,
+        499
+      ]
+    },
+    {
+      "text": "- Managed accounting system updates",
+      "score": 0.9763944149017334,
+      "box": [
+        125,
+        497,
+        488,
+        526
+      ]
+    },
+    {
+      "text": "- Prepared statutory filings",
+      "score": 0.9945706129074097,
+      "box": [
+        127,
+        521,
+        375,
+        552
+      ]
+    },
+    {
+      "text": "Accountants Auditors, OpenBalance Advisors, 2009.02—2012.08",
+      "score": 0.9860119819641113,
+      "box": [
+        117,
+        566,
+        712,
+        590
+      ]
+    },
+    {
+      "text": "- Assisted with internal control testing",
+      "score": 0.9979478120803833,
+      "box": [
+        128,
+        589,
+        474,
+        617
+      ]
+    },
+    {
+      "text": "- Tracked budget expenditures",
+      "score": 0.9918524622917175,
+      "box": [
+        126,
+        614,
+        414,
+        644
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999135136604309,
+      "box": [
+        117,
+        681,
+        266,
+        705
+      ]
+    },
+    {
+      "text": "Master's, Applied Accounting, High Meadow University, 2010",
+      "score": 0.9968085885047913,
+      "box": [
+        116,
+        723,
+        680,
+        749
+      ]
+    },
+    {
+      "text": "Bachelor's, Economic Studies, Silverfield University, 2008",
+      "score": 0.9877527356147766,
+      "box": [
+        115,
+        749,
+        651,
+        776
+      ]
+    },
+    {
+      "text": "•Completed coursework in segment reporting",
+      "score": 0.9713578820228577,
+      "box": [
+        129,
+        773,
+        559,
+        802
+      ]
+    },
+    {
+      "text": "Completed coursework in audit planning techniques",
+      "score": 0.9883146286010742,
+      "box": [
+        131,
+        797,
+        625,
+        828
+      ]
+    }
+  ],
+  "seconds": 3.400075700134039,
+  "id": "39556",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

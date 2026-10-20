@@ -1,0 +1,202 @@
+{
+  "lines": [
+    {
+      "text": "CHRISTINA BELL",
+      "score": 0.9996312260627747,
+      "box": [
+        118,
+        92,
+        395,
+        122
+      ]
+    },
+    {
+      "text": "MA, USA | +1-229-766-7976 | christina.bell@example.com",
+      "score": 0.9908007979393005,
+      "box": [
+        115,
+        150,
+        659,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9991140365600586,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Golden Steps Academy, 2019.09—2023.01",
+      "score": 0.993005633354187,
+      "box": [
+        115,
+        287,
+        856,
+        318
+      ]
+    },
+    {
+      "text": "- Established academic quality controls",
+      "score": 0.9931153655052185,
+      "box": [
+        125,
+        314,
+        491,
+        343
+      ]
+    },
+    {
+      "text": "- Implemented academic policy updates",
+      "score": 0.9787365794181824,
+      "box": [
+        126,
+        339,
+        497,
+        369
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Growing Path School, 2016.042019.09",
+      "score": 0.9979410171508789,
+      "box": [
+        116,
+        381,
+        835,
+        411
+      ]
+    },
+    {
+      "text": "- Established instructional best practices",
+      "score": 0.997694194316864,
+      "box": [
+        126,
+        407,
+        501,
+        433
+      ]
+    },
+    {
+      "text": "- Implemented data analysis frameworks",
+      "score": 0.9899185299873352,
+      "box": [
+        128,
+        432,
+        504,
+        458
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Riverside Learning Center, 2012.112016.04",
+      "score": 0.9958456754684448,
+      "box": [
+        118,
+        472,
+        881,
+        499
+      ]
+    },
+    {
+      "text": "- Designed lesson plans aligned with curriculum standards",
+      "score": 0.9875078201293945,
+      "box": [
+        126,
+        498,
+        669,
+        525
+      ]
+    },
+    {
+      "text": "- Prepared remediation materials",
+      "score": 0.9899259805679321,
+      "box": [
+        127,
+        521,
+        435,
+        550
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Growing Minds Academy, 2009.06—2012.11",
+      "score": 0.9846485257148743,
+      "box": [
+        117,
+        565,
+        869,
+        592
+      ]
+    },
+    {
+      "text": "- Supervised classroom activities",
+      "score": 0.9971945881843567,
+      "box": [
+        125,
+        589,
+        435,
+        618
+      ]
+    },
+    {
+      "text": "- Updated student performance logs",
+      "score": 0.9986925721168518,
+      "box": [
+        127,
+        614,
+        462,
+        643
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999048709869385,
+      "box": [
+        117,
+        681,
+        266,
+        705
+      ]
+    },
+    {
+      "text": "Bachelor's, General Academic Studies, Meadowview University, 2008",
+      "score": 0.9785801768302917,
+      "box": [
+        117,
+        726,
+        760,
+        749
+      ]
+    },
+    {
+      "text": "•Completed coursework in instructional modeling",
+      "score": 0.9894682168960571,
+      "box": [
+        132,
+        748,
+        594,
+        776
+      ]
+    },
+    {
+      "text": "•Completed coursework in introductory child psychology",
+      "score": 0.9857029318809509,
+      "box": [
+        132,
+        772,
+        656,
+        802
+      ]
+    }
+  ],
+  "seconds": 3.300251600332558,
+  "id": "25770",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

@@ -1,0 +1,182 @@
+{
+  "lines": [
+    {
+      "text": "KRISSY KNAPP",
+      "score": 0.9988901019096375,
+      "box": [
+        117,
+        91,
+        368,
+        121
+      ]
+    },
+    {
+      "text": "NJ, USA | +1-833-538-7165 | krissy.knapp@example.com",
+      "score": 0.9924178719520569,
+      "box": [
+        116,
+        150,
+        652,
+        177
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9988835453987122,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Balanced Ledger Co., 2020.10—2023.01",
+      "score": 0.9950551390647888,
+      "box": [
+        115,
+        288,
+        695,
+        316
+      ]
+    },
+    {
+      "text": "- Developed financial analytics frameworks",
+      "score": 0.9889132380485535,
+      "box": [
+        127,
+        315,
+        524,
+        340
+      ]
+    },
+    {
+      "text": "- Led internal audit functions",
+      "score": 0.9900661706924438,
+      "box": [
+        128,
+        339,
+        392,
+        365
+      ]
+    },
+    {
+      "text": "Accountants Auditors, AccuCount Group, 2018.062020.10",
+      "score": 0.9972099661827087,
+      "box": [
+        118,
+        383,
+        665,
+        407
+      ]
+    },
+    {
+      "text": "- Analyzed cost structures",
+      "score": 0.998820960521698,
+      "box": [
+        125,
+        407,
+        371,
+        433
+      ]
+    },
+    {
+      "text": "- Prepared tax compliance filings",
+      "score": 0.9769225716590881,
+      "box": [
+        127,
+        432,
+        432,
+        458
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Reliable Balance Services, 2016.022018.06",
+      "score": 0.9907267689704895,
+      "box": [
+        118,
+        473,
+        743,
+        497
+      ]
+    },
+    {
+      "text": "- Assisted with budget tracking",
+      "score": 0.9951744675636292,
+      "box": [
+        127,
+        495,
+        414,
+        526
+      ]
+    },
+    {
+      "text": "- Maintained supporting documentation",
+      "score": 0.9994306564331055,
+      "box": [
+        128,
+        521,
+        490,
+        550
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999366402626038,
+      "box": [
+        118,
+        588,
+        266,
+        612
+      ]
+    },
+    {
+      "text": "Master's, Auditing, Woodview University, 2014",
+      "score": 0.9934119582176208,
+      "box": [
+        117,
+        632,
+        547,
+        659
+      ]
+    },
+    {
+      "text": "Bachelor's, Organizational Management, Hillside University, 2012",
+      "score": 0.978132963180542,
+      "box": [
+        115,
+        656,
+        724,
+        684
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of quantitative analysis",
+      "score": 0.987537682056427,
+      "box": [
+        131,
+        683,
+        568,
+        708
+      ]
+    },
+    {
+      "text": "Completed coursework in risk assessment",
+      "score": 0.9984376430511475,
+      "box": [
+        132,
+        705,
+        541,
+        735
+      ]
+    }
+  ],
+  "seconds": 2.472215900197625,
+  "id": "34494",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

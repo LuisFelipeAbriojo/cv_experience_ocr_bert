@@ -1,0 +1,122 @@
+{
+  "lines": [
+    {
+      "text": "APRIL OWENS",
+      "score": 0.9996353387832642,
+      "box": [
+        117,
+        91,
+        354,
+        122
+      ]
+    },
+    {
+      "text": "WA, USA | +1-279-894-1669 | april.owens@example.com",
+      "score": 0.9889355897903442,
+      "box": [
+        115,
+        149,
+        651,
+        177
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9997377395629883,
+      "box": [
+        117,
+        243,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Discovery Hills School, 2018.072021.07",
+      "score": 0.9958210587501526,
+      "box": [
+        117,
+        289,
+        844,
+        316
+      ]
+    },
+    {
+      "text": "- Distributed instructional handouts",
+      "score": 0.9819831848144531,
+      "box": [
+        126,
+        314,
+        452,
+        340
+      ]
+    },
+    {
+      "text": "- Assisted with small group instruction activities",
+      "score": 0.9979627132415771,
+      "box": [
+        127,
+        340,
+        564,
+        365
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999560117721558,
+      "box": [
+        116,
+        404,
+        268,
+        431
+      ]
+    },
+    {
+      "text": "Master's, Youth Studies, Clearview University, 2007",
+      "score": 0.9831991195678711,
+      "box": [
+        117,
+        449,
+        595,
+        473
+      ]
+    },
+    {
+      "text": "Bachelor's, Elementary Education Preparation, Stonegate University, 2005",
+      "score": 0.9908390045166016,
+      "box": [
+        116,
+        473,
+        806,
+        500
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of lesson evaluation",
+      "score": 0.9885194301605225,
+      "box": [
+        131,
+        500,
+        541,
+        523
+      ]
+    },
+    {
+      "text": "Completed coursework in educational communication skills",
+      "score": 0.9989933371543884,
+      "box": [
+        132,
+        521,
+        694,
+        549
+      ]
+    }
+  ],
+  "seconds": 2.4027529996819794,
+  "id": "58450",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

@@ -1,0 +1,162 @@
+{
+  "lines": [
+    {
+      "text": "ANDREW WHITAKER",
+      "score": 0.9984999299049377,
+      "box": [
+        118,
+        93,
+        456,
+        120
+      ]
+    },
+    {
+      "text": "RI, USA | +1-524-687-7638 | andrew.whitaker@example.com",
+      "score": 0.9717913269996643,
+      "box": [
+        117,
+        151,
+        684,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9991734027862549,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, FirmStone Construction, 2020.10—2023.01",
+      "score": 0.986158013343811,
+      "box": [
+        116,
+        288,
+        726,
+        316
+      ]
+    },
+    {
+      "text": "- Directed installation methodologies",
+      "score": 0.9821527600288391,
+      "box": [
+        126,
+        314,
+        465,
+        341
+      ]
+    },
+    {
+      "text": "- Developed structural reinforcement plans",
+      "score": 0.9780564904212952,
+      "box": [
+        127,
+        339,
+        523,
+        367
+      ]
+    },
+    {
+      "text": "Construction Laborers, BuildStone Co., 2018.072020.10",
+      "score": 0.9786025881767273,
+      "box": [
+        118,
+        383,
+        648,
+        407
+      ]
+    },
+    {
+      "text": "- Performed site leveling tasks",
+      "score": 0.9989544749259949,
+      "box": [
+        125,
+        407,
+        410,
+        432
+      ]
+    },
+    {
+      "text": "- Measured and cut advanced materials",
+      "score": 0.9986425042152405,
+      "box": [
+        127,
+        432,
+        496,
+        456
+      ]
+    },
+    {
+      "text": "Construction Laborers, CraftBuild Group, 2014.05—2016.08",
+      "score": 0.9933651685714722,
+      "box": [
+        117,
+        472,
+        663,
+        497
+      ]
+    },
+    {
+      "text": "- Maintained cleanliness of work areas",
+      "score": 0.9986872673034668,
+      "box": [
+        127,
+        497,
+        486,
+        523
+      ]
+    },
+    {
+      "text": "- Prepared tools and equipment for daily tasks",
+      "score": 0.9855530858039856,
+      "box": [
+        128,
+        520,
+        555,
+        550
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999552965164185,
+      "box": [
+        118,
+        588,
+        266,
+        612
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Construction Management, Redfield High School, 2004",
+      "score": 0.9921889901161194,
+      "box": [
+        117,
+        632,
+        887,
+        659
+      ]
+    },
+    {
+      "text": "• Studied principles of construction scheduling",
+      "score": 0.9799070358276367,
+      "box": [
+        131,
+        659,
+        560,
+        683
+      ]
+    }
+  ],
+  "seconds": 2.605453100055456,
+  "id": "47093",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

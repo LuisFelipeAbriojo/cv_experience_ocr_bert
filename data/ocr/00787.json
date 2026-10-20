@@ -1,0 +1,142 @@
+{
+  "lines": [
+    {
+      "text": "HANNAH KRAMER",
+      "score": 0.9998611211776733,
+      "box": [
+        116,
+        89,
+        419,
+        122
+      ]
+    },
+    {
+      "text": "AL, USA | +1-425-939-8128 | hannah.kramer@example.com",
+      "score": 0.9901152849197388,
+      "box": [
+        118,
+        152,
+        677,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9991820454597473,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Bright Valley School, 2021.05—2023.01",
+      "score": 0.9876152873039246,
+      "box": [
+        117,
+        289,
+        823,
+        316
+      ]
+    },
+    {
+      "text": "- Established academic quality controls",
+      "score": 0.9876468181610107,
+      "box": [
+        125,
+        314,
+        491,
+        342
+      ]
+    },
+    {
+      "text": "- Implemented academic policy updates",
+      "score": 0.9852932095527649,
+      "box": [
+        126,
+        338,
+        497,
+        370
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Bright Bridge School, 2019.08—2021.05",
+      "score": 0.99216628074646,
+      "box": [
+        115,
+        379,
+        829,
+        410
+      ]
+    },
+    {
+      "text": "- Collected student assignments",
+      "score": 0.9996568560600281,
+      "box": [
+        126,
+        407,
+        427,
+        433
+      ]
+    },
+    {
+      "text": "- Conducted spelling practice",
+      "score": 0.9986738562583923,
+      "box": [
+        128,
+        430,
+        399,
+        459
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999179840087891,
+      "box": [
+        117,
+        494,
+        266,
+        521
+      ]
+    },
+    {
+      "text": "Some college (no degree), Child and Family Studies, Hillcrest University, 2023",
+      "score": 0.9848069548606873,
+      "box": [
+        117,
+        540,
+        840,
+        567
+      ]
+    },
+    {
+      "text": "•Completed coursework in classroom routines",
+      "score": 0.9834266304969788,
+      "box": [
+        130,
+        566,
+        565,
+        591
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of instructional clarity",
+      "score": 0.9894696474075317,
+      "box": [
+        132,
+        589,
+        550,
+        617
+      ]
+    }
+  ],
+  "seconds": 2.410536500159651,
+  "id": "00787",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

@@ -1,0 +1,102 @@
+{
+  "lines": [
+    {
+      "text": "THOMAS HOLT",
+      "score": 0.9998968243598938,
+      "box": [
+        116,
+        89,
+        364,
+        123
+      ]
+    },
+    {
+      "text": "MO, USA | +1-312-340-1834 | thomas.holt@example.com",
+      "score": 0.9970104694366455,
+      "box": [
+        115,
+        149,
+        653,
+        177
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9996919631958008,
+      "box": [
+        117,
+        243,
+        317,
+        270
+      ]
+    },
+    {
+      "text": "Construction Laborers, ClearView Construction, 2021.08—2023.01",
+      "score": 0.9849607944488525,
+      "box": [
+        116,
+        287,
+        725,
+        315
+      ]
+    },
+    {
+      "text": "- Secured site fencing",
+      "score": 0.9953716397285461,
+      "box": [
+        124,
+        313,
+        332,
+        343
+      ]
+    },
+    {
+      "text": "- Installed basic flooring materials",
+      "score": 0.9842037558555603,
+      "box": [
+        125,
+        338,
+        440,
+        367
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999511241912842,
+      "box": [
+        116,
+        404,
+        268,
+        431
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Construction Design, Goldenridge High School, 2019",
+      "score": 0.9902387857437134,
+      "box": [
+        116,
+        446,
+        867,
+        475
+      ]
+    },
+    {
+      "text": "Completed coursework in building maintenance basics",
+      "score": 0.9988783001899719,
+      "box": [
+        131,
+        472,
+        652,
+        500
+      ]
+    }
+  ],
+  "seconds": 2.0182185997255147,
+  "id": "30085",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

@@ -1,0 +1,142 @@
+{
+  "lines": [
+    {
+      "text": "JASON RICE",
+      "score": 0.9998904466629028,
+      "box": [
+        115,
+        89,
+        323,
+        123
+      ]
+    },
+    {
+      "text": "OH, USA | +1-763-576-1641 | jason.rice@example.com",
+      "score": 0.9885697960853577,
+      "box": [
+        116,
+        149,
+        632,
+        177
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9995803833007812,
+      "box": [
+        116,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Accountants Auditors, SolidLedger Financial, 2020.12—2023.01",
+      "score": 0.989338755607605,
+      "box": [
+        117,
+        290,
+        699,
+        314
+      ]
+    },
+    {
+      "text": "- Led audit programs",
+      "score": 0.9836235046386719,
+      "box": [
+        126,
+        315,
+        323,
+        341
+      ]
+    },
+    {
+      "text": "- Managed financial governance",
+      "score": 0.9980899691581726,
+      "box": [
+        128,
+        340,
+        426,
+        366
+      ]
+    },
+    {
+      "text": "Accountants Auditors, OpenLedger Financial, 2018.10—2020.12",
+      "score": 0.9780510663986206,
+      "box": [
+        116,
+        380,
+        708,
+        408
+      ]
+    },
+    {
+      "text": "- Assisted with internal control testing",
+      "score": 0.988395094871521,
+      "box": [
+        123,
+        402,
+        474,
+        435
+      ]
+    },
+    {
+      "text": "- Entered financial data into accounting systems",
+      "score": 0.9883966445922852,
+      "box": [
+        125,
+        429,
+        573,
+        458
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999284744262695,
+      "box": [
+        117,
+        494,
+        268,
+        521
+      ]
+    },
+    {
+      "text": "Bachelor's, Managerial Accounting, Brookwood University, 2018",
+      "score": 0.9956185221672058,
+      "box": [
+        115,
+        539,
+        710,
+        567
+      ]
+    },
+    {
+      "text": "•Studied principles of compliance auditing",
+      "score": 0.9877638816833496,
+      "box": [
+        129,
+        565,
+        527,
+        593
+      ]
+    },
+    {
+      "text": "•Completed coursework in financial data interpretation",
+      "score": 0.9942828416824341,
+      "box": [
+        131,
+        591,
+        639,
+        616
+      ]
+    }
+  ],
+  "seconds": 2.3284636000171304,
+  "id": "41624",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

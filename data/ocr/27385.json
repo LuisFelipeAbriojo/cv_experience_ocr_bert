@@ -1,0 +1,112 @@
+{
+  "lines": [
+    {
+      "text": "JORGE DAY",
+      "score": 0.9997203350067139,
+      "box": [
+        115,
+        88,
+        316,
+        123
+      ]
+    },
+    {
+      "text": "MI, USA | +1-843-331-2769 | jorge.day@example.com",
+      "score": 0.9869499802589417,
+      "box": [
+        115,
+        149,
+        622,
+        177
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9994556307792664,
+      "box": [
+        116,
+        243,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Registered Nurses, BrightWell Health Services, 2021.022023.01",
+      "score": 0.9936681985855103,
+      "box": [
+        115,
+        287,
+        722,
+        316
+      ]
+    },
+    {
+      "text": "- Performed blood glucose testing",
+      "score": 0.9937734603881836,
+      "box": [
+        125,
+        312,
+        442,
+        342
+      ]
+    },
+    {
+      "text": "- Assisted with feeding patients",
+      "score": 0.9818370342254639,
+      "box": [
+        127,
+        338,
+        419,
+        367
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999194741249084,
+      "box": [
+        116,
+        404,
+        268,
+        431
+      ]
+    },
+    {
+      "text": "Associate's degree, Health Care Technology, Southridge University, 2021",
+      "score": 0.9935333728790283,
+      "box": [
+        116,
+        447,
+        795,
+        474
+      ]
+    },
+    {
+      "text": "•Completed coursework in dosage calculations",
+      "score": 0.9838192462921143,
+      "box": [
+        130,
+        473,
+        573,
+        499
+      ]
+    },
+    {
+      "text": "Studied principles of telemetry basics",
+      "score": 0.9997199177742004,
+      "box": [
+        132,
+        497,
+        494,
+        525
+      ]
+    }
+  ],
+  "seconds": 2.0414975001476705,
+  "id": "27385",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

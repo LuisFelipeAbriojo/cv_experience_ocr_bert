@@ -1,0 +1,172 @@
+{
+  "lines": [
+    {
+      "text": "JACOB NASH",
+      "score": 0.9991827011108398,
+      "box": [
+        115,
+        89,
+        339,
+        122
+      ]
+    },
+    {
+      "text": "PA, USA | +1-438-869-5332 | jacob.nash@example.com",
+      "score": 0.9843145608901978,
+      "box": [
+        116,
+        151,
+        640,
+        177
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9990155100822449,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, OpenPath Financial, 2019.122023.01",
+      "score": 0.997198760509491,
+      "box": [
+        115,
+        288,
+        682,
+        316
+      ]
+    },
+    {
+      "text": "- Directed accounting system implementations",
+      "score": 0.9951091408729553,
+      "box": [
+        125,
+        314,
+        557,
+        343
+      ]
+    },
+    {
+      "text": "- Established compliance monitoring systems",
+      "score": 0.9942981600761414,
+      "box": [
+        128,
+        340,
+        546,
+        367
+      ]
+    },
+    {
+      "text": "Accountants Auditors, SteadyLedger Financial Group, 2016.112019.12",
+      "score": 0.9789396524429321,
+      "box": [
+        117,
+        382,
+        785,
+        409
+      ]
+    },
+    {
+      "text": "- Prepared consolidation entries",
+      "score": 0.9948791265487671,
+      "box": [
+        125,
+        406,
+        426,
+        434
+      ]
+    },
+    {
+      "text": "- Prepared cash flow statements",
+      "score": 0.9867656230926514,
+      "box": [
+        126,
+        430,
+        430,
+        461
+      ]
+    },
+    {
+      "text": "Accountants Auditors, OpenLedger Accounting, 2013.092016.11",
+      "score": 0.9866122007369995,
+      "box": [
+        117,
+        472,
+        724,
+        499
+      ]
+    },
+    {
+      "text": "- Updated general ledger records",
+      "score": 0.9908539652824402,
+      "box": [
+        125,
+        497,
+        438,
+        525
+      ]
+    },
+    {
+      "text": "- Recorded cash receipts",
+      "score": 0.9596279263496399,
+      "box": [
+        127,
+        520,
+        363,
+        551
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.99990314245224,
+      "box": [
+        117,
+        587,
+        267,
+        614
+      ]
+    },
+    {
+      "text": "Bachelor's, Government Accounting, Shoreline University, 2011",
+      "score": 0.9962817430496216,
+      "box": [
+        118,
+        633,
+        704,
+        657
+      ]
+    },
+    {
+      "text": "•Studied principles of hedge accounting",
+      "score": 0.983409583568573,
+      "box": [
+        129,
+        657,
+        507,
+        685
+      ]
+    },
+    {
+      "text": "• Studied principles of fixed asset accounting",
+      "score": 0.9798829555511475,
+      "box": [
+        130,
+        682,
+        548,
+        708
+      ]
+    }
+  ],
+  "seconds": 2.6125619001686573,
+  "id": "45465",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

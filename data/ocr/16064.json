@@ -1,0 +1,172 @@
+{
+  "lines": [
+    {
+      "text": "CASEY TAPIA",
+      "score": 0.9996357560157776,
+      "box": [
+        117,
+        91,
+        342,
+        122
+      ]
+    },
+    {
+      "text": "GA, USA | +1-537-976-5526 |casey.tapia@example.com",
+      "score": 0.9796960353851318,
+      "box": [
+        118,
+        152,
+        646,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.998986005783081,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, BrightBridge Nursing Services, 2020.072023.01",
+      "score": 0.9950870871543884,
+      "box": [
+        117,
+        290,
+        753,
+        317
+      ]
+    },
+    {
+      "text": "- Managed nursing unit operations",
+      "score": 0.9655221700668335,
+      "box": [
+        125,
+        314,
+        448,
+        343
+      ]
+    },
+    {
+      "text": "- Developed staffing allocation models",
+      "score": 0.9744001626968384,
+      "box": [
+        129,
+        342,
+        481,
+        366
+      ]
+    },
+    {
+      "text": "Registered Nurses, NewSpring Care Center, 2017.12—2020.07",
+      "score": 0.9953402280807495,
+      "box": [
+        117,
+        382,
+        697,
+        409
+      ]
+    },
+    {
+      "text": "- Conducted quality assurance checks",
+      "score": 0.9996057152748108,
+      "box": [
+        124,
+        406,
+        482,
+        434
+      ]
+    },
+    {
+      "text": "- Provided end-of-life care",
+      "score": 0.9809028506278992,
+      "box": [
+        127,
+        430,
+        370,
+        458
+      ]
+    },
+    {
+      "text": "Registered Nurses, SafePath Nursing, 2015.052017.12",
+      "score": 0.9842628836631775,
+      "box": [
+        118,
+        474,
+        640,
+        497
+      ]
+    },
+    {
+      "text": "- Provided post-procedure care",
+      "score": 0.9926400780677795,
+      "box": [
+        125,
+        496,
+        419,
+        526
+      ]
+    },
+    {
+      "text": "- Monitored patient skin condition",
+      "score": 0.9739245176315308,
+      "box": [
+        127,
+        522,
+        435,
+        548
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9998690485954285,
+      "box": [
+        117,
+        587,
+        267,
+        614
+      ]
+    },
+    {
+      "text": "Bachelor's, Health Care Management, Bayside University, 2016",
+      "score": 0.9962679147720337,
+      "box": [
+        117,
+        632,
+        706,
+        659
+      ]
+    },
+    {
+      "text": "• Completed coursework in laboratory values interpretation",
+      "score": 0.992200493812561,
+      "box": [
+        131,
+        659,
+        676,
+        683
+      ]
+    },
+    {
+      "text": "• Studied principles of blood transfusion basics",
+      "score": 0.9909977912902832,
+      "box": [
+        132,
+        682,
+        567,
+        708
+      ]
+    }
+  ],
+  "seconds": 2.6820248002186418,
+  "id": "16064",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

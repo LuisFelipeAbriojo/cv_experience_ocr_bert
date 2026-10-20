@@ -1,0 +1,202 @@
+{
+  "lines": [
+    {
+      "text": "KATRINA KIM",
+      "score": 0.9810252785682678,
+      "box": [
+        117,
+        91,
+        339,
+        121
+      ]
+    },
+    {
+      "text": "PA, USA | +1-356-988-1156 | katrina.kim@example.com",
+      "score": 0.9744444489479065,
+      "box": [
+        115,
+        149,
+        640,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9979205131530762,
+      "box": [
+        118,
+        245,
+        314,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Skywave Tech, 2019.112023.01",
+      "score": 0.9874100685119629,
+      "box": [
+        117,
+        291,
+        630,
+        315
+      ]
+    },
+    {
+      "text": "- Designed microservice architectures",
+      "score": 0.996429443359375,
+      "box": [
+        128,
+        315,
+        478,
+        341
+      ]
+    },
+    {
+      "text": "- Designed logging infrastructures",
+      "score": 0.9840553402900696,
+      "box": [
+        128,
+        340,
+        443,
+        368
+      ]
+    },
+    {
+      "text": "Software Developers, Flowline Systems, 2016.082019.11",
+      "score": 0.9885804057121277,
+      "box": [
+        117,
+        382,
+        659,
+        409
+      ]
+    },
+    {
+      "text": "- Defined engineering best practices",
+      "score": 0.9853680729866028,
+      "box": [
+        127,
+        409,
+        463,
+        433
+      ]
+    },
+    {
+      "text": "- Designed software development workflows",
+      "score": 0.9974968433380127,
+      "box": [
+        129,
+        434,
+        537,
+        457
+      ]
+    },
+    {
+      "text": "Software Developers, Clearpath Systems, 2013.052016.08",
+      "score": 0.9852649569511414,
+      "box": [
+        117,
+        472,
+        674,
+        499
+      ]
+    },
+    {
+      "text": "- Designed UI workflows",
+      "score": 0.9836035966873169,
+      "box": [
+        126,
+        498,
+        355,
+        525
+      ]
+    },
+    {
+      "text": "- Designed data models",
+      "score": 0.997434675693512,
+      "box": [
+        127,
+        521,
+        351,
+        551
+      ]
+    },
+    {
+      "text": "Software Developers, Openwave Digital, 2009.02—2012.05",
+      "score": 0.9929638504981995,
+      "box": [
+        116,
+        565,
+        661,
+        592
+      ]
+    },
+    {
+      "text": "- Handled file uploads",
+      "score": 0.9990694522857666,
+      "box": [
+        128,
+        591,
+        333,
+        615
+      ]
+    },
+    {
+      "text": "- Implemented caching logic",
+      "score": 0.99210125207901,
+      "box": [
+        128,
+        613,
+        390,
+        644
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9998626708984375,
+      "box": [
+        117,
+        681,
+        266,
+        705
+      ]
+    },
+    {
+      "text": "Bachelor's, Ridgeway University, 2004",
+      "score": 0.996933102607727,
+      "box": [
+        116,
+        723,
+        473,
+        749
+      ]
+    },
+    {
+      "text": "• Completed coursework in logic and computation",
+      "score": 0.971139132976532,
+      "box": [
+        133,
+        749,
+        594,
+        776
+      ]
+    },
+    {
+      "text": "Completed coursework in distributed databases",
+      "score": 0.9995625615119934,
+      "box": [
+        132,
+        772,
+        589,
+        800
+      ]
+    }
+  ],
+  "seconds": 2.8459594999440014,
+  "id": "46361",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

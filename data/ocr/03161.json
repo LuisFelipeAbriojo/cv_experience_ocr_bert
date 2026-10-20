@@ -1,0 +1,172 @@
+{
+  "lines": [
+    {
+      "text": "MATTHEW MAYER",
+      "score": 0.9870334267616272,
+      "box": [
+        118,
+        93,
+        418,
+        120
+      ]
+    },
+    {
+      "text": "CA, USA | +1-663-353-9580 | matthew.mayer@example.com",
+      "score": 0.979409396648407,
+      "box": [
+        116,
+        150,
+        683,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9991938471794128,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Bright Star School, 2019.112023.01",
+      "score": 0.9904484152793884,
+      "box": [
+        116,
+        288,
+        806,
+        318
+      ]
+    },
+    {
+      "text": "- Led academic improvement programs",
+      "score": 0.9885196089744568,
+      "box": [
+        126,
+        316,
+        493,
+        342
+      ]
+    },
+    {
+      "text": "- Designed performance monitoring systems",
+      "score": 0.9948815107345581,
+      "box": [
+        126,
+        340,
+        539,
+        369
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Discovery Futures School, 2014.072017.09",
+      "score": 0.9956657886505127,
+      "box": [
+        116,
+        381,
+        877,
+        411
+      ]
+    },
+    {
+      "text": "- Implemented differentiated instruction strategies",
+      "score": 0.9886922836303711,
+      "box": [
+        125,
+        406,
+        587,
+        435
+      ]
+    },
+    {
+      "text": "- Prepared instructional guides",
+      "score": 0.9895234704017639,
+      "box": [
+        127,
+        432,
+        413,
+        458
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Harmony Path Academy, 2010.08—2013.10",
+      "score": 0.9891361594200134,
+      "box": [
+        117,
+        472,
+        864,
+        499
+      ]
+    },
+    {
+      "text": "- Implemented lesson pacing guidelines",
+      "score": 0.9925819039344788,
+      "box": [
+        126,
+        497,
+        497,
+        526
+      ]
+    },
+    {
+      "text": "- Implemented basic literacy lessons",
+      "score": 0.9994150996208191,
+      "box": [
+        128,
+        521,
+        466,
+        552
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999245405197144,
+      "box": [
+        117,
+        587,
+        267,
+        614
+      ]
+    },
+    {
+      "text": "Bachelor's, Educational Practice, Seabreeze University, 2007",
+      "score": 0.9909822940826416,
+      "box": [
+        118,
+        633,
+        682,
+        657
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of special education awareness",
+      "score": 0.9793016910552979,
+      "box": [
+        131,
+        659,
+        647,
+        683
+      ]
+    },
+    {
+      "text": "• Completed coursework in educational communication skills",
+      "score": 0.986208438873291,
+      "box": [
+        134,
+        682,
+        691,
+        706
+      ]
+    }
+  ],
+  "seconds": 3.2312833997420967,
+  "id": "03161",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

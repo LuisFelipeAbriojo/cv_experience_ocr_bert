@@ -1,0 +1,152 @@
+{
+  "lines": [
+    {
+      "text": "KRISTINA ALLEN",
+      "score": 0.9998365044593811,
+      "box": [
+        118,
+        92,
+        397,
+        122
+      ]
+    },
+    {
+      "text": "SC, USA | +1-788-378-3770 | kristina.allen@example.com",
+      "score": 0.9833306670188904,
+      "box": [
+        116,
+        150,
+        656,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9987983107566833,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, BrightLife Health Services, 2019.112022.06",
+      "score": 0.9857922792434692,
+      "box": [
+        115,
+        287,
+        717,
+        318
+      ]
+    },
+    {
+      "text": "- Led nursing audit programs",
+      "score": 0.9620084166526794,
+      "box": [
+        127,
+        314,
+        396,
+        344
+      ]
+    },
+    {
+      "text": "- Developed clinical performance dashboards",
+      "score": 0.9925510287284851,
+      "box": [
+        129,
+        342,
+        548,
+        366
+      ]
+    },
+    {
+      "text": "Registered Nurses, BrightPath Health Services, 2016.022018.10",
+      "score": 0.9977196455001831,
+      "box": [
+        117,
+        382,
+        726,
+        409
+      ]
+    },
+    {
+      "text": "- Monitored oxygen therapy",
+      "score": 0.9951761960983276,
+      "box": [
+        126,
+        404,
+        384,
+        436
+      ]
+    },
+    {
+      "text": "- Performed blood glucose testing",
+      "score": 0.9986492395401001,
+      "box": [
+        127,
+        430,
+        442,
+        461
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999388456344604,
+      "box": [
+        116,
+        494,
+        268,
+        521
+      ]
+    },
+    {
+      "text": "Master's, Community Health, Greenridge University, 2012",
+      "score": 0.9786837697029114,
+      "box": [
+        114,
+        539,
+        652,
+        567
+      ]
+    },
+    {
+      "text": "Bachelor's, Clinical Studies, Silver Ridge University, 2010",
+      "score": 0.9940524697303772,
+      "box": [
+        117,
+        567,
+        648,
+        591
+      ]
+    },
+    {
+      "text": "• Completed coursework in therapeutic exercise basics",
+      "score": 0.9863163828849792,
+      "box": [
+        131,
+        593,
+        641,
+        617
+      ]
+    },
+    {
+      "text": "Completed coursework in nursing workflow management",
+      "score": 0.9838914275169373,
+      "box": [
+        131,
+        613,
+        674,
+        644
+      ]
+    }
+  ],
+  "seconds": 3.8213847996667027,
+  "id": "47775",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

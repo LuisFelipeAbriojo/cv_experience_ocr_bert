@@ -1,0 +1,102 @@
+{
+  "lines": [
+    {
+      "text": "PARIS FOWLER",
+      "score": 0.9998683929443359,
+      "box": [
+        115,
+        87,
+        375,
+        123
+      ]
+    },
+    {
+      "text": "IN, USA | +1-264-489-7617 | paris.fowler@example.com",
+      "score": 0.9881772398948669,
+      "box": [
+        116,
+        149,
+        640,
+        177
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9997088313102722,
+      "box": [
+        117,
+        243,
+        317,
+        270
+      ]
+    },
+    {
+      "text": "Construction Laborers, Unified Frame Builders, 2022.10—2023.01",
+      "score": 0.9924923777580261,
+      "box": [
+        118,
+        288,
+        718,
+        312
+      ]
+    },
+    {
+      "text": "- Followed safety procedures on site",
+      "score": 0.9945058822631836,
+      "box": [
+        125,
+        313,
+        465,
+        341
+      ]
+    },
+    {
+      "text": "- Assisted with framing support",
+      "score": 0.9984469413757324,
+      "box": [
+        127,
+        337,
+        418,
+        368
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999580383300781,
+      "box": [
+        116,
+        404,
+        268,
+        431
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Construction Safety, Stonehill High School, 2023",
+      "score": 0.999548614025116,
+      "box": [
+        116,
+        446,
+        827,
+        475
+      ]
+    },
+    {
+      "text": "Completed coursework in construction quality control",
+      "score": 0.9931138157844543,
+      "box": [
+        131,
+        472,
+        638,
+        500
+      ]
+    }
+  ],
+  "seconds": 2.011374100111425,
+  "id": "19822",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

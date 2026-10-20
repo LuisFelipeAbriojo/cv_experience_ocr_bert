@@ -1,0 +1,152 @@
+{
+  "lines": [
+    {
+      "text": "HARRISON SWANSON",
+      "score": 0.9865286350250244,
+      "box": [
+        116,
+        90,
+        480,
+        122
+      ]
+    },
+    {
+      "text": "IL, USA | +1-853-937-9301 | harrison.swanson@example.com",
+      "score": 0.98959881067276,
+      "box": [
+        118,
+        152,
+        692,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9991574287414551,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, ClearBooks Group, 2020.02—2023.01",
+      "score": 0.9947234988212585,
+      "box": [
+        115,
+        288,
+        670,
+        316
+      ]
+    },
+    {
+      "text": "- Developed risk management frameworks",
+      "score": 0.9982005953788757,
+      "box": [
+        128,
+        315,
+        520,
+        341
+      ]
+    },
+    {
+      "text": "- Directed accounting leadership initiatives",
+      "score": 0.992266058921814,
+      "box": [
+        127,
+        339,
+        521,
+        368
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Precise Balance Group, 2017.032020.02",
+      "score": 0.9965384602546692,
+      "box": [
+        117,
+        382,
+        716,
+        409
+      ]
+    },
+    {
+      "text": "- Reviewed account balances",
+      "score": 0.9978958368301392,
+      "box": [
+        125,
+        407,
+        402,
+        433
+      ]
+    },
+    {
+      "text": "- Maintained vendor records",
+      "score": 0.9940525889396667,
+      "box": [
+        128,
+        433,
+        390,
+        455
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999531507492065,
+      "box": [
+        116,
+        494,
+        268,
+        521
+      ]
+    },
+    {
+      "text": "Master's, Government Accounting, Willowbrook University, 2022",
+      "score": 0.9993662238121033,
+      "box": [
+        114,
+        539,
+        711,
+        567
+      ]
+    },
+    {
+      "text": "Bachelor's, Accounting, Elm Valley University, 2020",
+      "score": 0.9869084358215332,
+      "box": [
+        117,
+        567,
+        595,
+        591
+      ]
+    },
+    {
+      "text": "•Studied principles of quality control in auditing",
+      "score": 0.9976455569267273,
+      "box": [
+        129,
+        592,
+        573,
+        619
+      ]
+    },
+    {
+      "text": "•Studied fundamentals of consolidation accounting",
+      "score": 0.9803019762039185,
+      "box": [
+        129,
+        615,
+        606,
+        643
+      ]
+    }
+  ],
+  "seconds": 2.3476034002378583,
+  "id": "18895",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

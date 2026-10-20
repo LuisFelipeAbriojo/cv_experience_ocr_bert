@@ -1,0 +1,112 @@
+{
+  "lines": [
+    {
+      "text": "JACOB FOSTER",
+      "score": 0.9995470643043518,
+      "box": [
+        115,
+        89,
+        380,
+        123
+      ]
+    },
+    {
+      "text": "MI, USA | +1-837-502-3473 | jacob.foster@example.com",
+      "score": 0.9917837381362915,
+      "box": [
+        115,
+        149,
+        643,
+        177
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9994173645973206,
+      "box": [
+        116,
+        243,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Software Developers, Softpath Labs, 2019.112022.06",
+      "score": 0.9991241693496704,
+      "box": [
+        115,
+        287,
+        625,
+        315
+      ]
+    },
+    {
+      "text": "- Wrote command-line tools",
+      "score": 0.9947239756584167,
+      "box": [
+        126,
+        314,
+        386,
+        339
+      ]
+    },
+    {
+      "text": "- Updated documentation for implemented features",
+      "score": 0.9844131469726562,
+      "box": [
+        128,
+        340,
+        599,
+        364
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999208450317383,
+      "box": [
+        116,
+        404,
+        268,
+        431
+      ]
+    },
+    {
+      "text": "Bachelor's, Horizon University, 2008",
+      "score": 0.9958133697509766,
+      "box": [
+        115,
+        446,
+        452,
+        474
+      ]
+    },
+    {
+      "text": "•Studied fundamentals of hardware-software integration",
+      "score": 0.9912948608398438,
+      "box": [
+        130,
+        474,
+        654,
+        498
+      ]
+    },
+    {
+      "text": "•Studied fundamentals of normalization",
+      "score": 0.985293447971344,
+      "box": [
+        131,
+        497,
+        504,
+        523
+      ]
+    }
+  ],
+  "seconds": 1.8703616000711918,
+  "id": "27980",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

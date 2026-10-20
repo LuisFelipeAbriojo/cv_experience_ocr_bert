@@ -1,0 +1,142 @@
+{
+  "lines": [
+    {
+      "text": "AMANDA CLEMENTS",
+      "score": 0.9997866749763489,
+      "box": [
+        118,
+        91,
+        458,
+        122
+      ]
+    },
+    {
+      "text": "NC, USA | +1-382-623-6993 | amanda.clements@example.com",
+      "score": 0.9860135316848755,
+      "box": [
+        117,
+        152,
+        706,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.999110221862793,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, ClearCount Services, 2020.06—2023.01",
+      "score": 0.995345950126648,
+      "box": [
+        117,
+        290,
+        689,
+        314
+      ]
+    },
+    {
+      "text": "- Designed financial accountability systems",
+      "score": 0.9932641983032227,
+      "box": [
+        127,
+        315,
+        526,
+        341
+      ]
+    },
+    {
+      "text": "- Developed regulatory reporting strategies",
+      "score": 0.9984737038612366,
+      "box": [
+        128,
+        339,
+        525,
+        369
+      ]
+    },
+    {
+      "text": "Accountants Auditors, EverCount Services, 2014.112017.06",
+      "score": 0.9955828785896301,
+      "box": [
+        116,
+        380,
+        685,
+        408
+      ]
+    },
+    {
+      "text": "- Assisted with monthly close procedures",
+      "score": 0.9855562448501587,
+      "box": [
+        124,
+        407,
+        507,
+        433
+      ]
+    },
+    {
+      "text": "- Reviewed credit memos",
+      "score": 0.9665465354919434,
+      "box": [
+        126,
+        430,
+        366,
+        458
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999591112136841,
+      "box": [
+        116,
+        494,
+        268,
+        521
+      ]
+    },
+    {
+      "text": "Bachelor's, Business Economics, Brookway University, 2014",
+      "score": 0.9957231283187866,
+      "box": [
+        116,
+        540,
+        676,
+        566
+      ]
+    },
+    {
+      "text": "• Completed coursework in professional standards",
+      "score": 0.9932872653007507,
+      "box": [
+        132,
+        566,
+        600,
+        591
+      ]
+    },
+    {
+      "text": "• Completed coursework in mergers and acquisitions basics",
+      "score": 0.9870154857635498,
+      "box": [
+        132,
+        591,
+        684,
+        617
+      ]
+    }
+  ],
+  "seconds": 2.529700200073421,
+  "id": "39365",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

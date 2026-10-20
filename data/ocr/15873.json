@@ -1,0 +1,172 @@
+{
+  "lines": [
+    {
+      "text": "JENNIFER MATHIS",
+      "score": 0.9998177289962769,
+      "box": [
+        116,
+        91,
+        420,
+        121
+      ]
+    },
+    {
+      "text": "GA, USA | +1-815-902-5602 | jennifer.mathis@example.com",
+      "score": 0.9552770853042603,
+      "box": [
+        118,
+        152,
+        677,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9990894794464111,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, AccuLedger Group, 2020.10—2023.01",
+      "score": 0.9851388335227966,
+      "box": [
+        115,
+        288,
+        673,
+        317
+      ]
+    },
+    {
+      "text": "- Directed financial system architecture",
+      "score": 0.9794614911079407,
+      "box": [
+        127,
+        315,
+        489,
+        341
+      ]
+    },
+    {
+      "text": "- Designed financial control environments",
+      "score": 0.9861010909080505,
+      "box": [
+        127,
+        339,
+        513,
+        368
+      ]
+    },
+    {
+      "text": "Accountants Auditors, FairBalance Group, 2017.102020.01",
+      "score": 0.9967710375785828,
+      "box": [
+        118,
+        383,
+        673,
+        407
+      ]
+    },
+    {
+      "text": "- Reviewed accounting estimates",
+      "score": 0.9959654808044434,
+      "box": [
+        126,
+        407,
+        436,
+        434
+      ]
+    },
+    {
+      "text": "- Prepared working capital analysis",
+      "score": 0.9934338331222534,
+      "box": [
+        128,
+        433,
+        453,
+        459
+      ]
+    },
+    {
+      "text": "Accountants Auditors, ClearBalance Advisors, 2014.032016.06",
+      "score": 0.9866961240768433,
+      "box": [
+        118,
+        473,
+        711,
+        497
+      ]
+    },
+    {
+      "text": "- Reviewed timesheets for payroll",
+      "score": 0.992667019367218,
+      "box": [
+        126,
+        496,
+        440,
+        525
+      ]
+    },
+    {
+      "text": "- Updated accounting policies documentation",
+      "score": 0.9902796149253845,
+      "box": [
+        129,
+        523,
+        546,
+        550
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999516606330872,
+      "box": [
+        118,
+        588,
+        266,
+        612
+      ]
+    },
+    {
+      "text": "Bachelor's, Public Accounting, Silverview University, 2013",
+      "score": 0.9872186779975891,
+      "box": [
+        118,
+        632,
+        651,
+        656
+      ]
+    },
+    {
+      "text": "•Studied principles of financial planning",
+      "score": 0.9868990182876587,
+      "box": [
+        129,
+        657,
+        504,
+        686
+      ]
+    },
+    {
+      "text": "Completed coursework in expense cycle management",
+      "score": 0.9962465167045593,
+      "box": [
+        131,
+        681,
+        650,
+        709
+      ]
+    }
+  ],
+  "seconds": 2.7866891003213823,
+  "id": "15873",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

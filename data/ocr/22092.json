@@ -1,0 +1,112 @@
+{
+  "lines": [
+    {
+      "text": "ZACHERY TURNER",
+      "score": 0.9996195435523987,
+      "box": [
+        117,
+        91,
+        428,
+        121
+      ]
+    },
+    {
+      "text": "KY, USA | +1-878-306-6100 | zachery.turner@example.com",
+      "score": 0.9628424644470215,
+      "box": [
+        117,
+        152,
+        672,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.999708354473114,
+      "box": [
+        117,
+        243,
+        317,
+        270
+      ]
+    },
+    {
+      "text": "Construction Laborers, SafeRise Construction, 2022.03—2023.01",
+      "score": 0.9916682839393616,
+      "box": [
+        116,
+        287,
+        715,
+        315
+      ]
+    },
+    {
+      "text": "- Carried materials to designated work areas",
+      "score": 0.9898666143417358,
+      "box": [
+        126,
+        314,
+        541,
+        340
+      ]
+    },
+    {
+      "text": "- Marked measurements on materials",
+      "score": 0.9951826930046082,
+      "box": [
+        127,
+        339,
+        475,
+        365
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999375939369202,
+      "box": [
+        116,
+        404,
+        268,
+        431
+      ]
+    },
+    {
+      "text": "Some college (no degree), Construction Technology, Canyon View University, 2023",
+      "score": 0.9820752739906311,
+      "box": [
+        116,
+        446,
+        890,
+        476
+      ]
+    },
+    {
+      "text": "Studied fundamentals of masonry",
+      "score": 0.9851243495941162,
+      "box": [
+        129,
+        470,
+        460,
+        501
+      ]
+    },
+    {
+      "text": "•Studied fundamentals of structural framing techniques",
+      "score": 0.9858570694923401,
+      "box": [
+        131,
+        498,
+        646,
+        524
+      ]
+    }
+  ],
+  "seconds": 2.142922000028193,
+  "id": "22092",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

@@ -1,0 +1,112 @@
+{
+  "lines": [
+    {
+      "text": "CHRISTIE STUART",
+      "score": 0.9739755988121033,
+      "box": [
+        118,
+        91,
+        419,
+        122
+      ]
+    },
+    {
+      "text": "TN, USA | +1-430-455-5788 | christie.stuart@example.com",
+      "score": 0.985416829586029,
+      "box": [
+        117,
+        149,
+        664,
+        177
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9997498989105225,
+      "box": [
+        117,
+        243,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Registered Nurses, Compassion Care Services, 2020.05—2023.01",
+      "score": 0.98902428150177,
+      "box": [
+        115,
+        286,
+        729,
+        317
+      ]
+    },
+    {
+      "text": "- Prepared sterile supplies",
+      "score": 0.9977969527244568,
+      "box": [
+        125,
+        312,
+        373,
+        343
+      ]
+    },
+    {
+      "text": "- Assisted with physical therapy exercises",
+      "score": 0.9978857636451721,
+      "box": [
+        127,
+        338,
+        515,
+        367
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999494552612305,
+      "box": [
+        116,
+        404,
+        268,
+        431
+      ]
+    },
+    {
+      "text": "Associate's degree, Health Studies, Silverlake University, 2023",
+      "score": 0.9841252565383911,
+      "box": [
+        116,
+        446,
+        698,
+        474
+      ]
+    },
+    {
+      "text": "•Studied principles of hydration management",
+      "score": 0.9647485613822937,
+      "box": [
+        130,
+        475,
+        557,
+        499
+      ]
+    },
+    {
+      "text": "•Studied fundamentals of infection diseases nursing",
+      "score": 0.9812580943107605,
+      "box": [
+        131,
+        497,
+        619,
+        525
+      ]
+    }
+  ],
+  "seconds": 1.9321979996748269,
+  "id": "48556",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

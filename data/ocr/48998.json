@@ -1,0 +1,112 @@
+{
+  "lines": [
+    {
+      "text": "TAYLOR STEELE",
+      "score": 0.9997332096099854,
+      "box": [
+        115,
+        87,
+        396,
+        123
+      ]
+    },
+    {
+      "text": "TN, USA | +1-660-336-4421 | taylor.steele@example.com",
+      "score": 0.9879850149154663,
+      "box": [
+        117,
+        149,
+        653,
+        177
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9994208216667175,
+      "box": [
+        116,
+        243,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Registered Nurses, NewHope Care Center, 2021.02—2023.01",
+      "score": 0.9853478670120239,
+      "box": [
+        115,
+        286,
+        687,
+        317
+      ]
+    },
+    {
+      "text": "- Assisted with patient positioning",
+      "score": 0.9809889793395996,
+      "box": [
+        124,
+        312,
+        439,
+        343
+      ]
+    },
+    {
+      "text": "- Checked medication dosages",
+      "score": 0.9860085248947144,
+      "box": [
+        126,
+        337,
+        417,
+        368
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999927818775177,
+      "box": [
+        116,
+        404,
+        268,
+        431
+      ]
+    },
+    {
+      "text": "Bachelor's, Patient Services, Brighton University, 2023",
+      "score": 0.9970872402191162,
+      "box": [
+        115,
+        446,
+        622,
+        474
+      ]
+    },
+    {
+      "text": "•Studied fundamentals of care coordination",
+      "score": 0.9912922382354736,
+      "box": [
+        131,
+        474,
+        540,
+        498
+      ]
+    },
+    {
+      "text": "•Studied principles of pharmacology",
+      "score": 0.9799875617027283,
+      "box": [
+        131,
+        497,
+        473,
+        527
+      ]
+    }
+  ],
+  "seconds": 2.07546199997887,
+  "id": "48998",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

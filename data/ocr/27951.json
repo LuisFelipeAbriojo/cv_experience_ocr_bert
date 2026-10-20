@@ -1,0 +1,112 @@
+{
+  "lines": [
+    {
+      "text": "SCOTT AHMED",
+      "score": 0.9916433095932007,
+      "box": [
+        116,
+        89,
+        363,
+        123
+      ]
+    },
+    {
+      "text": "MI, USA | +1-570-944-2281 | scott.ahmed@example.com",
+      "score": 0.9852092862129211,
+      "box": [
+        115,
+        149,
+        649,
+        177
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9994363188743591,
+      "box": [
+        116,
+        243,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Software Developers, Corewave Labs, 2020.06—2022.07",
+      "score": 0.9804129600524902,
+      "box": [
+        115,
+        287,
+        642,
+        315
+      ]
+    },
+    {
+      "text": "- Updated database schemas",
+      "score": 0.9993441104888916,
+      "box": [
+        126,
+        315,
+        403,
+        340
+      ]
+    },
+    {
+      "text": "- Updated routing logic",
+      "score": 0.9775701761245728,
+      "box": [
+        127,
+        339,
+        340,
+        368
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9993418455123901,
+      "box": [
+        116,
+        404,
+        268,
+        431
+      ]
+    },
+    {
+      "text": "Bachelor's, Clearstone University, 2015",
+      "score": 0.9954913258552551,
+      "box": [
+        115,
+        446,
+        483,
+        474
+      ]
+    },
+    {
+      "text": "Studied principles of data modeling",
+      "score": 0.9871126413345337,
+      "box": [
+        128,
+        472,
+        473,
+        501
+      ]
+    },
+    {
+      "text": "Studied fundamentals of scalability concepts",
+      "score": 0.98893141746521,
+      "box": [
+        130,
+        497,
+        559,
+        525
+      ]
+    }
+  ],
+  "seconds": 1.8116085003130138,
+  "id": "27951",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

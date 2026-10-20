@@ -1,0 +1,142 @@
+{
+  "lines": [
+    {
+      "text": "ALIXANDRA LU",
+      "score": 0.9990562796592712,
+      "box": [
+        118,
+        91,
+        370,
+        122
+      ]
+    },
+    {
+      "text": "CA, USA | +1-818-594-4461 | alixandra.lu@example.com",
+      "score": 0.9807925820350647,
+      "box": [
+        117,
+        150,
+        648,
+        177
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9997730255126953,
+      "box": [
+        117,
+        243,
+        315,
+        270
+      ]
+    },
+    {
+      "text": "Software Developers, Datapath Solutions, 2021.032023.01",
+      "score": 0.9998928308486938,
+      "box": [
+        116,
+        289,
+        672,
+        316
+      ]
+    },
+    {
+      "text": "- Designed CI/CD frameworks",
+      "score": 0.9900562167167664,
+      "box": [
+        127,
+        316,
+        407,
+        340
+      ]
+    },
+    {
+      "text": "- Reviewed system design documents",
+      "score": 0.9972464442253113,
+      "box": [
+        127,
+        339,
+        481,
+        368
+      ]
+    },
+    {
+      "text": "Software Developers, Softpath Digital, 2018.01—2019.11",
+      "score": 0.9810123443603516,
+      "box": [
+        115,
+        380,
+        638,
+        408
+      ]
+    },
+    {
+      "text": "- Implemented logging features",
+      "score": 0.9986023306846619,
+      "box": [
+        125,
+        406,
+        419,
+        434
+      ]
+    },
+    {
+      "text": "- Monitored application logs",
+      "score": 0.9864689707756042,
+      "box": [
+        126,
+        430,
+        386,
+        460
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999371767044067,
+      "box": [
+        116,
+        494,
+        268,
+        521
+      ]
+    },
+    {
+      "text": "Bachelor's, Sunrise University, 2012",
+      "score": 0.9772787094116211,
+      "box": [
+        116,
+        540,
+        453,
+        566
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of domain-driven design",
+      "score": 0.9879974722862244,
+      "box": [
+        131,
+        567,
+        578,
+        591
+      ]
+    },
+    {
+      "text": "• Completed coursework in transaction management",
+      "score": 0.9818162322044373,
+      "box": [
+        133,
+        592,
+        620,
+        616
+      ]
+    }
+  ],
+  "seconds": 2.904123099986464,
+  "id": "03498",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

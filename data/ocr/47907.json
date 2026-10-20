@@ -1,0 +1,112 @@
+{
+  "lines": [
+    {
+      "text": "SKYLAR WILLIAMS",
+      "score": 0.9998773336410522,
+      "box": [
+        117,
+        91,
+        430,
+        122
+      ]
+    },
+    {
+      "text": "SC, USA | +1-486-208-7984 | skylar.williams@example.com",
+      "score": 0.9809020161628723,
+      "box": [
+        117,
+        150,
+        674,
+        177
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.999746561050415,
+      "box": [
+        117,
+        243,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Harmony Minds Academy, 2021.03—2023.01",
+      "score": 0.9827900528907776,
+      "box": [
+        117,
+        289,
+        875,
+        316
+      ]
+    },
+    {
+      "text": "- Assisted with science experiments",
+      "score": 0.999527096748352,
+      "box": [
+        126,
+        315,
+        459,
+        341
+      ]
+    },
+    {
+      "text": "- Administered quizzes and short assessments",
+      "score": 0.9828241467475891,
+      "box": [
+        128,
+        340,
+        560,
+        364
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999950647354126,
+      "box": [
+        116,
+        404,
+        268,
+        431
+      ]
+    },
+    {
+      "text": "Bachelor's, Elementary Education Preparation, Meadowcrest University, 2021",
+      "score": 0.9948245882987976,
+      "box": [
+        116,
+        448,
+        832,
+        475
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of lesson evaluation",
+      "score": 0.9890883564949036,
+      "box": [
+        131,
+        475,
+        541,
+        498
+      ]
+    },
+    {
+      "text": "Studied fundamentals of educational goal setting",
+      "score": 0.9987752437591553,
+      "box": [
+        130,
+        495,
+        599,
+        526
+      ]
+    }
+  ],
+  "seconds": 2.3544454001821578,
+  "id": "47907",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

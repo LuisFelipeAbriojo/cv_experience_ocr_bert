@@ -1,0 +1,182 @@
+{
+  "lines": [
+    {
+      "text": "HEATHER JENNINGS",
+      "score": 0.999605655670166,
+      "box": [
+        117,
+        92,
+        458,
+        122
+      ]
+    },
+    {
+      "text": "SC, USA | +1-870-626-3809 | heather.jennings@example.com",
+      "score": 0.9858890175819397,
+      "box": [
+        116,
+        150,
+        695,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9991946816444397,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Discovery Futures School, 2020.08—2023.01",
+      "score": 0.9845203757286072,
+      "box": [
+        116,
+        288,
+        874,
+        317
+      ]
+    },
+    {
+      "text": "- Led curriculum alignment initiatives",
+      "score": 0.9879906177520752,
+      "box": [
+        127,
+        317,
+        467,
+        341
+      ]
+    },
+    {
+      "text": "- Established learning outcome benchmarks",
+      "score": 0.9825459122657776,
+      "box": [
+        126,
+        340,
+        535,
+        368
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Open Horizons Academy, 2018.032020.08",
+      "score": 0.9892054796218872,
+      "box": [
+        115,
+        380,
+        871,
+        411
+      ]
+    },
+    {
+      "text": "- Planned interdisciplinary lessons",
+      "score": 0.985102653503418,
+      "box": [
+        126,
+        407,
+        446,
+        434
+      ]
+    },
+    {
+      "text": "- Organized instructional schedules",
+      "score": 0.9875056743621826,
+      "box": [
+        127,
+        434,
+        453,
+        457
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Meadowbrook Academy, 2013.072016.01",
+      "score": 0.9960747957229614,
+      "box": [
+        118,
+        472,
+        860,
+        499
+      ]
+    },
+    {
+      "text": "- Prepared visual teaching aids",
+      "score": 0.9713422656059265,
+      "box": [
+        126,
+        497,
+        418,
+        525
+      ]
+    },
+    {
+      "text": "- Monitored independent work sessions",
+      "score": 0.9967120289802551,
+      "box": [
+        127,
+        521,
+        493,
+        550
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999232888221741,
+      "box": [
+        117,
+        587,
+        267,
+        614
+      ]
+    },
+    {
+      "text": "Master's, Education Services, Oakridge Valley University, 2004",
+      "score": 0.9848027229309082,
+      "box": [
+        116,
+        632,
+        700,
+        659
+      ]
+    },
+    {
+      "text": "Bachelor's, Educational Assistance, Bayside University, 2002",
+      "score": 0.9856594800949097,
+      "box": [
+        115,
+        656,
+        684,
+        685
+      ]
+    },
+    {
+      "text": "• Completed coursework in basic teaching ethics",
+      "score": 0.9716368317604065,
+      "box": [
+        133,
+        683,
+        584,
+        708
+      ]
+    },
+    {
+      "text": "•Completed coursework in student progress monitoring",
+      "score": 0.9828627705574036,
+      "box": [
+        132,
+        706,
+        648,
+        736
+      ]
+    }
+  ],
+  "seconds": 3.5879828999750316,
+  "id": "47638",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

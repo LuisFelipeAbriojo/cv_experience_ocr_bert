@@ -1,0 +1,112 @@
+{
+  "lines": [
+    {
+      "text": "MELANIE TRUONG",
+      "score": 0.9854130744934082,
+      "box": [
+        118,
+        91,
+        422,
+        122
+      ]
+    },
+    {
+      "text": "CT, USA | +1-962-373-8430 | melanie.truong@example.com",
+      "score": 0.9948833584785461,
+      "box": [
+        116,
+        149,
+        678,
+        177
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9997406601905823,
+      "box": [
+        117,
+        243,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Software Developers, Corestack Software, 2019.012020.11",
+      "score": 0.9953837394714355,
+      "box": [
+        116,
+        289,
+        678,
+        316
+      ]
+    },
+    {
+      "text": "- Updated documentation for implemented features",
+      "score": 0.9868257641792297,
+      "box": [
+        127,
+        316,
+        601,
+        340
+      ]
+    },
+    {
+      "text": "- Monitored application logs",
+      "score": 0.9839981198310852,
+      "box": [
+        127,
+        338,
+        386,
+        368
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999306797981262,
+      "box": [
+        116,
+        404,
+        268,
+        431
+      ]
+    },
+    {
+      "text": "Bachelor's, Pinehaven University, 2014",
+      "score": 0.9979870319366455,
+      "box": [
+        115,
+        446,
+        482,
+        474
+      ]
+    },
+    {
+      "text": "Studied fundamentals of programming in Java",
+      "score": 0.9750324487686157,
+      "box": [
+        129,
+        472,
+        576,
+        500
+      ]
+    },
+    {
+      "text": "•Completed coursework in distributed databases",
+      "score": 0.9834753274917603,
+      "box": [
+        134,
+        499,
+        588,
+        523
+      ]
+    }
+  ],
+  "seconds": 1.9648317000828683,
+  "id": "11298",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

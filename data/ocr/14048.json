@@ -1,0 +1,182 @@
+{
+  "lines": [
+    {
+      "text": "HARVEY MOON",
+      "score": 0.9986032843589783,
+      "box": [
+        117,
+        91,
+        370,
+        121
+      ]
+    },
+    {
+      "text": "FL, USA | +1-242-693-8508 | harvey.moon@example.com",
+      "score": 0.9807125329971313,
+      "box": [
+        117,
+        150,
+        655,
+        177
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9988901019096375,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, SolidBalance Services, 2019.112023.01",
+      "score": 0.9953557252883911,
+      "box": [
+        116,
+        289,
+        706,
+        314
+      ]
+    },
+    {
+      "text": "- Managed consolidation processes",
+      "score": 0.9900763630867004,
+      "box": [
+        126,
+        315,
+        457,
+        341
+      ]
+    },
+    {
+      "text": "- Established tax compliance frameworks",
+      "score": 0.9897801280021667,
+      "box": [
+        127,
+        340,
+        508,
+        365
+      ]
+    },
+    {
+      "text": "Accountants Auditors, AccuCount Advisors, 2016.092019.11",
+      "score": 0.9961808323860168,
+      "box": [
+        118,
+        383,
+        688,
+        407
+      ]
+    },
+    {
+      "text": "- Reviewed expense allocations",
+      "score": 0.9939656853675842,
+      "box": [
+        125,
+        407,
+        423,
+        433
+      ]
+    },
+    {
+      "text": "- Analyzed financial trends",
+      "score": 0.9958289265632629,
+      "box": [
+        128,
+        431,
+        374,
+        456
+      ]
+    },
+    {
+      "text": "Accountants Auditors, FairBooks Accounting, 2011.032014.06",
+      "score": 0.9982025623321533,
+      "box": [
+        118,
+        473,
+        703,
+        497
+      ]
+    },
+    {
+      "text": "- Recorded cash receipts",
+      "score": 0.9991787075996399,
+      "box": [
+        126,
+        497,
+        362,
+        524
+      ]
+    },
+    {
+      "text": "- Filed financial documents",
+      "score": 0.9997006058692932,
+      "box": [
+        127,
+        521,
+        378,
+        547
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999473094940186,
+      "box": [
+        118,
+        588,
+        266,
+        612
+      ]
+    },
+    {
+      "text": "Master's, Forensic Accounting, Skyline University, 2008",
+      "score": 0.9909744262695312,
+      "box": [
+        117,
+        632,
+        632,
+        659
+      ]
+    },
+    {
+      "text": "Bachelor's, Corporate Finance, Brookway University, 2006",
+      "score": 0.9916172027587891,
+      "box": [
+        115,
+        656,
+        658,
+        684
+      ]
+    },
+    {
+      "text": "•Studied fundamentals of governmental auditing",
+      "score": 0.9926717281341553,
+      "box": [
+        130,
+        682,
+        585,
+        710
+      ]
+    },
+    {
+      "text": "Completed coursework in accounts receivable",
+      "score": 0.9936048984527588,
+      "box": [
+        132,
+        705,
+        575,
+        735
+      ]
+    }
+  ],
+  "seconds": 2.5138405999168754,
+  "id": "14048",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

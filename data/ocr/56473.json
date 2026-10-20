@@ -1,0 +1,142 @@
+{
+  "lines": [
+    {
+      "text": "TIFFANY MCCANN",
+      "score": 0.9925715327262878,
+      "box": [
+        117,
+        91,
+        418,
+        121
+      ]
+    },
+    {
+      "text": "VA, USA | +1-968-459-3485 | tiffany.mccann@example.com",
+      "score": 0.9941322803497314,
+      "box": [
+        116,
+        150,
+        674,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9990810751914978,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Kind Field School, 2020.08—2023.01",
+      "score": 0.9855278134346008,
+      "box": [
+        117,
+        289,
+        799,
+        316
+      ]
+    },
+    {
+      "text": "- Developed long-term instructional strategies",
+      "score": 0.9965747594833374,
+      "box": [
+        125,
+        314,
+        550,
+        343
+      ]
+    },
+    {
+      "text": "- Implemented instructional improvement programs",
+      "score": 0.9902070164680481,
+      "box": [
+        127,
+        339,
+        601,
+        369
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Learning Horizons Academy, 2016.072018.12",
+      "score": 0.9988697171211243,
+      "box": [
+        115,
+        380,
+        902,
+        411
+      ]
+    },
+    {
+      "text": "- Implemented basic classroom management procedures",
+      "score": 0.992709755897522,
+      "box": [
+        125,
+        407,
+        656,
+        435
+      ]
+    },
+    {
+      "text": "- Administered learning games",
+      "score": 0.9951780438423157,
+      "box": [
+        127,
+        431,
+        414,
+        459
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999446868896484,
+      "box": [
+        117,
+        494,
+        267,
+        521
+      ]
+    },
+    {
+      "text": "Bachelor's, Teaching Support, Meadowridge University, 2015",
+      "score": 0.9980906248092651,
+      "box": [
+        117,
+        541,
+        684,
+        568
+      ]
+    },
+    {
+      "text": "• Completed coursework in educational skill building",
+      "score": 0.9876473546028137,
+      "box": [
+        131,
+        567,
+        614,
+        591
+      ]
+    },
+    {
+      "text": "•Studied principles of classroom inclusivity",
+      "score": 0.9806786179542542,
+      "box": [
+        131,
+        591,
+        532,
+        618
+      ]
+    }
+  ],
+  "seconds": 2.5174495996907353,
+  "id": "56473",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

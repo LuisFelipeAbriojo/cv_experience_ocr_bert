@@ -1,0 +1,152 @@
+{
+  "lines": [
+    {
+      "text": "REX SOLOMON",
+      "score": 0.9997755289077759,
+      "box": [
+        118,
+        91,
+        370,
+        121
+      ]
+    },
+    {
+      "text": "GA, USA | +1-727-924-7013 | rex.solomon@example.com",
+      "score": 0.9786822199821472,
+      "box": [
+        118,
+        152,
+        655,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9968535304069519,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Bright Star School, 2020.11—2023.01",
+      "score": 0.9811064600944519,
+      "box": [
+        116,
+        287,
+        806,
+        317
+      ]
+    },
+    {
+      "text": "- Designed performance monitoring systems",
+      "score": 0.9890002608299255,
+      "box": [
+        125,
+        314,
+        539,
+        343
+      ]
+    },
+    {
+      "text": "- Developed student performance metrics",
+      "score": 0.9980539083480835,
+      "box": [
+        127,
+        339,
+        513,
+        368
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Little Path School, 2016.07—2018.10",
+      "score": 0.9833232164382935,
+      "box": [
+        115,
+        379,
+        802,
+        410
+      ]
+    },
+    {
+      "text": "- Supervised classroom activities",
+      "score": 0.9988239407539368,
+      "box": [
+        125,
+        407,
+        434,
+        432
+      ]
+    },
+    {
+      "text": "- Supervised transitions between lessons",
+      "score": 0.9993351697921753,
+      "box": [
+        129,
+        433,
+        509,
+        456
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999517798423767,
+      "box": [
+        116,
+        494,
+        268,
+        521
+      ]
+    },
+    {
+      "text": "Master's, General Studies, Sunset Ridge University, 2011",
+      "score": 0.9698036909103394,
+      "box": [
+        114,
+        539,
+        648,
+        567
+      ]
+    },
+    {
+      "text": "Bachelor's, Child Studies, Redwood University, 2009",
+      "score": 0.976511538028717,
+      "box": [
+        117,
+        567,
+        604,
+        591
+      ]
+    },
+    {
+      "text": "•Studied principles of instructional alignment",
+      "score": 0.9751846194267273,
+      "box": [
+        130,
+        593,
+        551,
+        617
+      ]
+    },
+    {
+      "text": "Studied principles of content delivery",
+      "score": 0.9997849464416504,
+      "box": [
+        129,
+        615,
+        488,
+        644
+      ]
+    }
+  ],
+  "seconds": 2.4524006000719965,
+  "id": "15329",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

@@ -1,0 +1,182 @@
+{
+  "lines": [
+    {
+      "text": "MIRANDA CRAWFORD",
+      "score": 0.9998228549957275,
+      "box": [
+        118,
+        91,
+        482,
+        122
+      ]
+    },
+    {
+      "text": "MI, USA | +1-465-577-5744 | miranda.crawford@example.com",
+      "score": 0.9897364974021912,
+      "box": [
+        115,
+        150,
+        696,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9990683197975159,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Sunny Ridge School, 2019.10-2023.01",
+      "score": 0.9861205816268921,
+      "box": [
+        115,
+        287,
+        826,
+        318
+      ]
+    },
+    {
+      "text": "- Led instructional design reviews",
+      "score": 0.9975597262382507,
+      "box": [
+        126,
+        314,
+        440,
+        342
+      ]
+    },
+    {
+      "text": "- Implemented assessment policy frameworks",
+      "score": 0.9922043681144714,
+      "box": [
+        125,
+        338,
+        554,
+        369
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, SunnySteps School, 2016.072019.10",
+      "score": 0.9954161643981934,
+      "box": [
+        116,
+        381,
+        822,
+        411
+      ]
+    },
+    {
+      "text": "- Maintained academic records",
+      "score": 0.9971567988395691,
+      "box": [
+        125,
+        407,
+        415,
+        433
+      ]
+    },
+    {
+      "text": "- Developed classroom assessment tools",
+      "score": 0.9862326383590698,
+      "box": [
+        127,
+        434,
+        508,
+        457
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Learning Corner Academy, 2011.042014.07",
+      "score": 0.9911576509475708,
+      "box": [
+        118,
+        472,
+        881,
+        499
+      ]
+    },
+    {
+      "text": "- Implemented lesson pacing guidelines",
+      "score": 0.9750257730484009,
+      "box": [
+        125,
+        497,
+        497,
+        526
+      ]
+    },
+    {
+      "text": "- Managed classroom supplies",
+      "score": 0.9854540824890137,
+      "box": [
+        126,
+        519,
+        415,
+        554
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9998772144317627,
+      "box": [
+        117,
+        587,
+        267,
+        614
+      ]
+    },
+    {
+      "text": "Master's, Basic Education Studies, Forest Hill University, 2005",
+      "score": 0.9891758561134338,
+      "box": [
+        117,
+        632,
+        692,
+        656
+      ]
+    },
+    {
+      "text": "Bachelor's, Educational Foundations, Clearwater University, 2003",
+      "score": 0.9895781874656677,
+      "box": [
+        116,
+        657,
+        724,
+        684
+      ]
+    },
+    {
+      "text": "•Studied fundamentals of classroom engagement",
+      "score": 0.9807925820350647,
+      "box": [
+        130,
+        682,
+        599,
+        710
+      ]
+    },
+    {
+      "text": "Completed coursework in foundational education methods",
+      "score": 0.9941731095314026,
+      "box": [
+        132,
+        704,
+        685,
+        736
+      ]
+    }
+  ],
+  "seconds": 2.9118887996301055,
+  "id": "27569",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

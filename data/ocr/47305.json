@@ -1,0 +1,152 @@
+{
+  "lines": [
+    {
+      "text": "ILDA HICKMAN",
+      "score": 0.9931082129478455,
+      "box": [
+        117,
+        91,
+        362,
+        122
+      ]
+    },
+    {
+      "text": "SC, USA | +1-402-987-9850 | ilda.hickman@example.com",
+      "score": 0.9841040968894958,
+      "box": [
+        116,
+        150,
+        656,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9991477131843567,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, LifeWay Health Services, 2020.07—2023.01",
+      "score": 0.9835134148597717,
+      "box": [
+        115,
+        287,
+        703,
+        318
+      ]
+    },
+    {
+      "text": "- Implemented patient monitoring systems",
+      "score": 0.9887996912002563,
+      "box": [
+        127,
+        314,
+        518,
+        343
+      ]
+    },
+    {
+      "text": "- Designed clinical care protocols",
+      "score": 0.9976493716239929,
+      "box": [
+        127,
+        339,
+        437,
+        368
+      ]
+    },
+    {
+      "text": "Registered Nurses, EverBridge Health Services, 2018.012020.07",
+      "score": 0.9998874068260193,
+      "box": [
+        117,
+        382,
+        731,
+        409
+      ]
+    },
+    {
+      "text": "- Checked medication dosages",
+      "score": 0.998763382434845,
+      "box": [
+        125,
+        405,
+        416,
+        435
+      ]
+    },
+    {
+      "text": "- Assisted with feeding patients",
+      "score": 0.985875129699707,
+      "box": [
+        128,
+        431,
+        417,
+        457
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999408721923828,
+      "box": [
+        116,
+        494,
+        268,
+        521
+      ]
+    },
+    {
+      "text": "Professional degree, Allied Health, Brightwood University, 2021",
+      "score": 0.9908056855201721,
+      "box": [
+        115,
+        539,
+        702,
+        567
+      ]
+    },
+    {
+      "text": "Bachelor's, Biomedical Sciences, Brookfield University, 2017",
+      "score": 0.9884621500968933,
+      "box": [
+        117,
+        567,
+        677,
+        591
+      ]
+    },
+    {
+      "text": "•Completed coursework in laboratory values interpretation",
+      "score": 0.9939159154891968,
+      "box": [
+        130,
+        592,
+        675,
+        617
+      ]
+    },
+    {
+      "text": "Studied principles of patient identification",
+      "score": 0.983036994934082,
+      "box": [
+        131,
+        615,
+        528,
+        643
+      ]
+    }
+  ],
+  "seconds": 2.534392699599266,
+  "id": "47305",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

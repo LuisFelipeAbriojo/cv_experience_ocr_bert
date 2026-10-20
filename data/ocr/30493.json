@@ -1,0 +1,142 @@
+{
+  "lines": [
+    {
+      "text": "NOEL MELTON",
+      "score": 0.9988372921943665,
+      "box": [
+        116,
+        91,
+        362,
+        121
+      ]
+    },
+    {
+      "text": "MO, USA | +1-406-564-6127 | noel.melton@example.com",
+      "score": 0.988506555557251,
+      "box": [
+        115,
+        149,
+        653,
+        177
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9995548725128174,
+      "box": [
+        116,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Construction Laborers, Precision Build Services, 2021.05—2023.01",
+      "score": 0.9875813722610474,
+      "box": [
+        118,
+        290,
+        730,
+        314
+      ]
+    },
+    {
+      "text": "- Managed construction schedules",
+      "score": 0.9918193817138672,
+      "box": [
+        125,
+        313,
+        448,
+        341
+      ]
+    },
+    {
+      "text": "- Directed site construction operations",
+      "score": 0.987981915473938,
+      "box": [
+        127,
+        339,
+        479,
+        366
+      ]
+    },
+    {
+      "text": "Construction Laborers, PrimeRise Builders, 2017.032018.12",
+      "score": 0.9903716444969177,
+      "box": [
+        118,
+        382,
+        687,
+        406
+      ]
+    },
+    {
+      "text": "- Installed temporary site barriers",
+      "score": 0.9875368475914001,
+      "box": [
+        126,
+        408,
+        436,
+        432
+      ]
+    },
+    {
+      "text": "- Operated hand tools for assembly tasks",
+      "score": 0.9970794916152954,
+      "box": [
+        129,
+        432,
+        509,
+        458
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9905307292938232,
+      "box": [
+        118,
+        495,
+        267,
+        519
+      ]
+    },
+    {
+      "text": "Some college (no degree), Structural Technology, Evergreen University, 2010",
+      "score": 0.9796730279922485,
+      "box": [
+        116,
+        539,
+        836,
+        569
+      ]
+    },
+    {
+      "text": "• Completed coursework in construction lighting basics",
+      "score": 0.9783161878585815,
+      "box": [
+        132,
+        566,
+        638,
+        591
+      ]
+    },
+    {
+      "text": "• Completed coursework in building codes overview",
+      "score": 0.9895382523536682,
+      "box": [
+        132,
+        591,
+        611,
+        617
+      ]
+    }
+  ],
+  "seconds": 2.3599888999015093,
+  "id": "30493",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

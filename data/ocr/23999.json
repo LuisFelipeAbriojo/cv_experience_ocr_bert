@@ -1,0 +1,112 @@
+{
+  "lines": [
+    {
+      "text": "VICTORIA MILES",
+      "score": 0.9997562170028687,
+      "box": [
+        117,
+        91,
+        390,
+        122
+      ]
+    },
+    {
+      "text": "MD, USA | +1-580-551-5058 | victoria.miles@example.com",
+      "score": 0.9931334853172302,
+      "box": [
+        116,
+        149,
+        664,
+        177
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9997599720954895,
+      "box": [
+        117,
+        243,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Bright Start School, 2019.04—2021.12",
+      "score": 0.9875984787940979,
+      "box": [
+        115,
+        286,
+        814,
+        317
+      ]
+    },
+    {
+      "text": "- Recorded student feedback",
+      "score": 0.9992935061454773,
+      "box": [
+        126,
+        314,
+        398,
+        339
+      ]
+    },
+    {
+      "text": "- Prepared daily instructional agendas",
+      "score": 0.9847137331962585,
+      "box": [
+        127,
+        339,
+        479,
+        367
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999415874481201,
+      "box": [
+        116,
+        404,
+        268,
+        431
+      ]
+    },
+    {
+      "text": "Associate's degree, Applied Education, Foxwood University, 2008",
+      "score": 0.9913038015365601,
+      "box": [
+        117,
+        448,
+        724,
+        475
+      ]
+    },
+    {
+      "text": "Completed coursework in basic instructional coaching",
+      "score": 0.9962718486785889,
+      "box": [
+        131,
+        471,
+        644,
+        501
+      ]
+    },
+    {
+      "text": "Completed coursework in reading instruction",
+      "score": 0.9835315346717834,
+      "box": [
+        133,
+        497,
+        560,
+        525
+      ]
+    }
+  ],
+  "seconds": 2.0808804999105632,
+  "id": "23999",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

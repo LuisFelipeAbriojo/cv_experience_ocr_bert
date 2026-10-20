@@ -1,0 +1,152 @@
+{
+  "lines": [
+    {
+      "text": "KEEGAN GREENE",
+      "score": 0.9974040389060974,
+      "box": [
+        117,
+        91,
+        411,
+        121
+      ]
+    },
+    {
+      "text": "FL, USA | +1-952-950-6339 | keegan.greene@example.com",
+      "score": 0.9866917729377747,
+      "box": [
+        117,
+        150,
+        674,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9991812109947205,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, NewWay Health Group, 2021.03—2023.01",
+      "score": 0.9853900074958801,
+      "box": [
+        116,
+        287,
+        688,
+        318
+      ]
+    },
+    {
+      "text": "- Developed care quality benchmarks",
+      "score": 0.9954656362533569,
+      "box": [
+        126,
+        313,
+        474,
+        343
+      ]
+    },
+    {
+      "text": "- Developed staffing allocation models",
+      "score": 0.9881882667541504,
+      "box": [
+        127,
+        340,
+        482,
+        368
+      ]
+    },
+    {
+      "text": "Registered Nurses, BrightWell Health Services, 2019.052021.03",
+      "score": 0.9937357306480408,
+      "box": [
+        117,
+        382,
+        724,
+        409
+      ]
+    },
+    {
+      "text": "- Administered prescribed medications",
+      "score": 0.9919420480728149,
+      "box": [
+        124,
+        406,
+        485,
+        435
+      ]
+    },
+    {
+      "text": "- Assisted with hygiene care",
+      "score": 0.9947057962417603,
+      "box": [
+        127,
+        431,
+        391,
+        459
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999480843544006,
+      "box": [
+        116,
+        494,
+        267,
+        521
+      ]
+    },
+    {
+      "text": "Master's, Patient Care, Clearfield University, 2022",
+      "score": 0.9972540140151978,
+      "box": [
+        116,
+        541,
+        579,
+        566
+      ]
+    },
+    {
+      "text": "Bachelor's, Community Health, Highpoint University, 2020",
+      "score": 0.9922628998756409,
+      "box": [
+        115,
+        565,
+        652,
+        593
+      ]
+    },
+    {
+      "text": "•Completed coursework in enteral feeding basics",
+      "score": 0.9851738214492798,
+      "box": [
+        129,
+        590,
+        594,
+        619
+      ]
+    },
+    {
+      "text": "Completed coursework in immunization practices",
+      "score": 0.9959321022033691,
+      "box": [
+        131,
+        614,
+        602,
+        644
+      ]
+    }
+  ],
+  "seconds": 2.4050261001102626,
+  "id": "13968",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

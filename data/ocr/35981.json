@@ -1,0 +1,142 @@
+{
+  "lines": [
+    {
+      "text": "REBECCA STARK",
+      "score": 0.9997034668922424,
+      "box": [
+        117,
+        91,
+        408,
+        121
+      ]
+    },
+    {
+      "text": "NY, USA | +1-603-877-9063 | rebecca.stark@example.com",
+      "score": 0.9720166325569153,
+      "box": [
+        117,
+        152,
+        665,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.999116837978363,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Reliable Ledger Advisors, 2020.09—2023.01",
+      "score": 0.994255781173706,
+      "box": [
+        116,
+        288,
+        730,
+        315
+      ]
+    },
+    {
+      "text": "- Designed financial oversight systems",
+      "score": 0.973427951335907,
+      "box": [
+        128,
+        315,
+        485,
+        341
+      ]
+    },
+    {
+      "text": "- Led regulatory compliance initiatives",
+      "score": 0.9830206036567688,
+      "box": [
+        128,
+        339,
+        479,
+        368
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Integrity Ledger Group, 2018.04—2020.09",
+      "score": 0.9891504049301147,
+      "box": [
+        115,
+        379,
+        710,
+        410
+      ]
+    },
+    {
+      "text": "- Reviewed timesheets for payroll",
+      "score": 0.9882757067680359,
+      "box": [
+        125,
+        407,
+        439,
+        433
+      ]
+    },
+    {
+      "text": "- Processed expense reimbursements",
+      "score": 0.9926785826683044,
+      "box": [
+        127,
+        430,
+        481,
+        459
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999280571937561,
+      "box": [
+        116,
+        494,
+        268,
+        521
+      ]
+    },
+    {
+      "text": "Bachelor's, Business Law, Granite Hill University, 2021",
+      "score": 0.9882785677909851,
+      "box": [
+        115,
+        539,
+        624,
+        567
+      ]
+    },
+    {
+      "text": "•Studied principles of information management",
+      "score": 0.9804633855819702,
+      "box": [
+        129,
+        566,
+        573,
+        591
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of audit software tools",
+      "score": 0.9894437193870544,
+      "box": [
+        131,
+        592,
+        559,
+        615
+      ]
+    }
+  ],
+  "seconds": 2.3402859000489116,
+  "id": "35981",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

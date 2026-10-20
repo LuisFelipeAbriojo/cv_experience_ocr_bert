@@ -1,0 +1,172 @@
+{
+  "lines": [
+    {
+      "text": "FRANCES WALL",
+      "score": 0.9998483061790466,
+      "box": [
+        116,
+        89,
+        386,
+        122
+      ]
+    },
+    {
+      "text": "CT, USA | +1-821-468-7045 | frances.wall@example.com",
+      "score": 0.9831265211105347,
+      "box": [
+        118,
+        152,
+        648,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9986692070960999,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Datastream Digital, 2020.09—2023.01",
+      "score": 0.9938045740127563,
+      "box": [
+        114,
+        287,
+        668,
+        318
+      ]
+    },
+    {
+      "text": "- Designed caching infrastructures",
+      "score": 0.9872574806213379,
+      "box": [
+        125,
+        314,
+        447,
+        342
+      ]
+    },
+    {
+      "text": "- Defined quality assurance frameworks",
+      "score": 0.9971856474876404,
+      "box": [
+        128,
+        340,
+        496,
+        368
+      ]
+    },
+    {
+      "text": "Software Developers, Corelink Software, 2018.05—2020.09",
+      "score": 0.9955036044120789,
+      "box": [
+        116,
+        382,
+        662,
+        409
+      ]
+    },
+    {
+      "text": "- Handled load testing",
+      "score": 0.9982622265815735,
+      "box": [
+        124,
+        403,
+        334,
+        436
+      ]
+    },
+    {
+      "text": "- Built frontend components",
+      "score": 0.996201753616333,
+      "box": [
+        126,
+        431,
+        385,
+        460
+      ]
+    },
+    {
+      "text": "Software Developers, Netline Solutions, 2013.072015.12",
+      "score": 0.9856885075569153,
+      "box": [
+        118,
+        473,
+        654,
+        497
+      ]
+    },
+    {
+      "text": "- Wrote integration tests",
+      "score": 0.9657504558563232,
+      "box": [
+        127,
+        499,
+        352,
+        523
+      ]
+    },
+    {
+      "text": "- Performed basic performance profiling",
+      "score": 0.9849628806114197,
+      "box": [
+        126,
+        520,
+        495,
+        552
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9998552799224854,
+      "box": [
+        117,
+        587,
+        267,
+        614
+      ]
+    },
+    {
+      "text": "Bachelor's, Larkspur University, 2009",
+      "score": 0.9970218539237976,
+      "box": [
+        118,
+        633,
+        462,
+        657
+      ]
+    },
+    {
+      "text": "Completed coursework in code refactoring",
+      "score": 0.9920774698257446,
+      "box": [
+        129,
+        656,
+        540,
+        685
+      ]
+    },
+    {
+      "text": "•Studied fundamentals of hardware-software integration",
+      "score": 0.9883383512496948,
+      "box": [
+        130,
+        680,
+        655,
+        708
+      ]
+    }
+  ],
+  "seconds": 2.3999446001835167,
+  "id": "11252",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

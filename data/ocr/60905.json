@@ -1,0 +1,142 @@
+{
+  "lines": [
+    {
+      "text": "TYREE SILVA",
+      "score": 0.9995842576026917,
+      "box": [
+        117,
+        91,
+        337,
+        122
+      ]
+    },
+    {
+      "text": "WI, USA | +1-297-820-9651 | tyree.silva@example.com",
+      "score": 0.9948490858078003,
+      "box": [
+        116,
+        149,
+        632,
+        177
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9996010661125183,
+      "box": [
+        116,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Software Developers, Softstack Labs, 2020.07—2023.01",
+      "score": 0.9880828857421875,
+      "box": [
+        116,
+        288,
+        631,
+        315
+      ]
+    },
+    {
+      "text": "- Implemented security architectures",
+      "score": 0.9867756962776184,
+      "box": [
+        128,
+        315,
+        465,
+        341
+      ]
+    },
+    {
+      "text": "- Designed high-availability systems",
+      "score": 0.9920288920402527,
+      "box": [
+        128,
+        339,
+        461,
+        368
+      ]
+    },
+    {
+      "text": "Software Developers, Codecrest Systems, 2017.122020.07",
+      "score": 0.9901926517486572,
+      "box": [
+        116,
+        380,
+        678,
+        408
+      ]
+    },
+    {
+      "text": "- Wrote scripts for data processing tasks",
+      "score": 0.9972919225692749,
+      "box": [
+        125,
+        407,
+        501,
+        433
+      ]
+    },
+    {
+      "text": "- Assisted with version control operations",
+      "score": 0.9966374635696411,
+      "box": [
+        128,
+        431,
+        508,
+        457
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999362230300903,
+      "box": [
+        117,
+        494,
+        268,
+        521
+      ]
+    },
+    {
+      "text": "Bachelor's, Golden Hills University, 2017",
+      "score": 0.976257860660553,
+      "box": [
+        116,
+        540,
+        495,
+        567
+      ]
+    },
+    {
+      "text": "• Completed coursework in logging and monitoring",
+      "score": 0.9893024563789368,
+      "box": [
+        132,
+        566,
+        601,
+        593
+      ]
+    },
+    {
+      "text": "Completed coursework in code refactoring",
+      "score": 0.9935016632080078,
+      "box": [
+        131,
+        589,
+        540,
+        619
+      ]
+    }
+  ],
+  "seconds": 2.309990799985826,
+  "id": "60905",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

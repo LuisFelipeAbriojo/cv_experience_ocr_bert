@@ -1,0 +1,152 @@
+{
+  "lines": [
+    {
+      "text": "JUDITH ARCHER",
+      "score": 0.9997138977050781,
+      "box": [
+        116,
+        91,
+        390,
+        122
+      ]
+    },
+    {
+      "text": "IL, USA | +1-738-948-6639 | judith.archer@example.com",
+      "score": 0.9968968629837036,
+      "box": [
+        116,
+        150,
+        644,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9990448951721191,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Accurate Balance Advisors, 2020.07—2023.01",
+      "score": 0.9838383197784424,
+      "box": [
+        116,
+        288,
+        748,
+        315
+      ]
+    },
+    {
+      "text": "- Designed audit methodologies",
+      "score": 0.9934825897216797,
+      "box": [
+        125,
+        314,
+        424,
+        342
+      ]
+    },
+    {
+      "text": "- Established reporting automation systems",
+      "score": 0.9910605549812317,
+      "box": [
+        127,
+        339,
+        529,
+        368
+      ]
+    },
+    {
+      "text": "Accountants Auditors, ClearCount Services, 2018.01—2020.07",
+      "score": 0.9820157289505005,
+      "box": [
+        116,
+        380,
+        692,
+        408
+      ]
+    },
+    {
+      "text": "- Assisted with audit fieldwork",
+      "score": 0.9847203493118286,
+      "box": [
+        126,
+        408,
+        405,
+        432
+      ]
+    },
+    {
+      "text": "- Updated general ledger records",
+      "score": 0.993033766746521,
+      "box": [
+        129,
+        433,
+        436,
+        459
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999222159385681,
+      "box": [
+        116,
+        494,
+        266,
+        521
+      ]
+    },
+    {
+      "text": "Master's, Financial Accounting, Greenwood University, 2019",
+      "score": 0.9930965304374695,
+      "box": [
+        114,
+        539,
+        676,
+        567
+      ]
+    },
+    {
+      "text": "Bachelor's, Commerce, Stonebrook University, 2017",
+      "score": 0.9708564877510071,
+      "box": [
+        117,
+        567,
+        603,
+        591
+      ]
+    },
+    {
+      "text": "• Completed coursework in accounting software applications",
+      "score": 0.9920579791069031,
+      "box": [
+        131,
+        593,
+        689,
+        617
+      ]
+    },
+    {
+      "text": "Completed coursework in general ledger accounting",
+      "score": 0.9931129813194275,
+      "box": [
+        131,
+        614,
+        630,
+        645
+      ]
+    }
+  ],
+  "seconds": 2.4892203002236784,
+  "id": "18939",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

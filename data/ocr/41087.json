@@ -1,0 +1,172 @@
+{
+  "lines": [
+    {
+      "text": "ANTHONY HUTCHINSON",
+      "score": 0.999263346195221,
+      "box": [
+        118,
+        92,
+        515,
+        122
+      ]
+    },
+    {
+      "text": "ND, USA | +1-624-480-5059 | anthony.hutchinson@example.com",
+      "score": 0.984679102897644,
+      "box": [
+        115,
+        150,
+        723,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9991713166236877,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Reliable Accounts Services, 2021.012023.01",
+      "score": 0.9976939558982849,
+      "box": [
+        117,
+        291,
+        751,
+        315
+      ]
+    },
+    {
+      "text": "- Designed accounting frameworks",
+      "score": 0.9719735383987427,
+      "box": [
+        129,
+        317,
+        450,
+        341
+      ]
+    },
+    {
+      "text": "- Led accounting process optimization",
+      "score": 0.993678092956543,
+      "box": [
+        128,
+        340,
+        480,
+        368
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Balanced Path Accounting, 2017.042019.04",
+      "score": 0.9828236103057861,
+      "box": [
+        117,
+        382,
+        746,
+        409
+      ]
+    },
+    {
+      "text": "- Managed accounting system updates",
+      "score": 0.9965184926986694,
+      "box": [
+        125,
+        408,
+        488,
+        433
+      ]
+    },
+    {
+      "text": "- Reviewed accounting estimates",
+      "score": 0.9853767156600952,
+      "box": [
+        125,
+        430,
+        437,
+        459
+      ]
+    },
+    {
+      "text": "Accountants Auditors, CoreLedger Advisors, 2014.08—2016.09",
+      "score": 0.988852322101593,
+      "box": [
+        116,
+        471,
+        697,
+        499
+      ]
+    },
+    {
+      "text": "- Processed journal corrections",
+      "score": 0.9996458292007446,
+      "box": [
+        126,
+        498,
+        419,
+        524
+      ]
+    },
+    {
+      "text": "- Updated accounting policies documentation",
+      "score": 0.9903388023376465,
+      "box": [
+        129,
+        523,
+        546,
+        550
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999919056892395,
+      "box": [
+        117,
+        587,
+        267,
+        614
+      ]
+    },
+    {
+      "text": "Bachelor's, Enterprise Management, Fairway University, 2011",
+      "score": 0.9900404810905457,
+      "box": [
+        117,
+        632,
+        687,
+        659
+      ]
+    },
+    {
+      "text": "• Completed coursework in business taxation",
+      "score": 0.9920568466186523,
+      "box": [
+        132,
+        659,
+        552,
+        683
+      ]
+    },
+    {
+      "text": "• Completed coursework in intermediate accounting",
+      "score": 0.985474169254303,
+      "box": [
+        133,
+        682,
+        610,
+        708
+      ]
+    }
+  ],
+  "seconds": 2.533964700065553,
+  "id": "41087",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

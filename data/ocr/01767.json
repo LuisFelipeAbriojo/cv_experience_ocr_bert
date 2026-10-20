@@ -1,0 +1,112 @@
+{
+  "lines": [
+    {
+      "text": "HEATHER PUGH",
+      "score": 0.9998407959938049,
+      "box": [
+        117,
+        91,
+        386,
+        122
+      ]
+    },
+    {
+      "text": "AZ, USA | +1-924-406-9620 | heather.pugh@example.com",
+      "score": 0.9924221634864807,
+      "box": [
+        117,
+        150,
+        661,
+        177
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.999754011631012,
+      "box": [
+        117,
+        243,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Harmony Learning Center, 2021.08—2022.06",
+      "score": 0.9874307513237,
+      "box": [
+        117,
+        289,
+        879,
+        316
+      ]
+    },
+    {
+      "text": "- Maintained lesson documentation",
+      "score": 0.9980078935623169,
+      "box": [
+        126,
+        314,
+        453,
+        340
+      ]
+    },
+    {
+      "text": "- Conducted reading practice sessions",
+      "score": 0.9866868257522583,
+      "box": [
+        128,
+        339,
+        484,
+        367
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999945342540741,
+      "box": [
+        116,
+        404,
+        268,
+        431
+      ]
+    },
+    {
+      "text": "Bachelor's, Family and Child Studies, Riverbend University, 2011",
+      "score": 0.9887204170227051,
+      "box": [
+        116,
+        446,
+        718,
+        474
+      ]
+    },
+    {
+      "text": "• Studied principles of curriculum standards",
+      "score": 0.9675785303115845,
+      "box": [
+        131,
+        475,
+        535,
+        499
+      ]
+    },
+    {
+      "text": "• Completed coursework in lesson effectiveness analysis",
+      "score": 0.9760187268257141,
+      "box": [
+        131,
+        497,
+        658,
+        525
+      ]
+    }
+  ],
+  "seconds": 2.242549099959433,
+  "id": "01767",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

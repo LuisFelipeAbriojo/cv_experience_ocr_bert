@@ -1,0 +1,172 @@
+{
+  "lines": [
+    {
+      "text": "RACHEL WU",
+      "score": 0.9986848831176758,
+      "box": [
+        118,
+        92,
+        322,
+        120
+      ]
+    },
+    {
+      "text": "MA, USA | +1-943-444-9982 | rachel.wu@example.com",
+      "score": 0.9845491647720337,
+      "box": [
+        116,
+        151,
+        631,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9990315437316895,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Netline Labs, 2020.09—2023.01",
+      "score": 0.9910985827445984,
+      "box": [
+        117,
+        290,
+        612,
+        314
+      ]
+    },
+    {
+      "text": "- Defined API standards",
+      "score": 0.9712187647819519,
+      "box": [
+        126,
+        314,
+        351,
+        339
+      ]
+    },
+    {
+      "text": "- Designed high-availability systems",
+      "score": 0.9906747341156006,
+      "box": [
+        128,
+        339,
+        461,
+        368
+      ]
+    },
+    {
+      "text": "Software Developers, Softbridge Digital, 2018.04—2020.09",
+      "score": 0.9846962690353394,
+      "box": [
+        115,
+        380,
+        656,
+        408
+      ]
+    },
+    {
+      "text": "- Handled schema migrations",
+      "score": 0.989782989025116,
+      "box": [
+        125,
+        407,
+        402,
+        433
+      ]
+    },
+    {
+      "text": "- Developed microservices",
+      "score": 0.9996601939201355,
+      "box": [
+        129,
+        434,
+        376,
+        457
+      ]
+    },
+    {
+      "text": "Software Developers, Softline Digital, 2015.112018.04",
+      "score": 0.9939732551574707,
+      "box": [
+        118,
+        473,
+        627,
+        497
+      ]
+    },
+    {
+      "text": "- Reviewed code changes for syntax and logic issues",
+      "score": 0.9882089495658875,
+      "box": [
+        127,
+        497,
+        621,
+        524
+      ]
+    },
+    {
+      "text": "- Updated documentation for implemented features",
+      "score": 0.9995353817939758,
+      "box": [
+        130,
+        523,
+        601,
+        547
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9998799562454224,
+      "box": [
+        117,
+        586,
+        267,
+        613
+      ]
+    },
+    {
+      "text": "Bachelor's, Prairie View University, 2013",
+      "score": 0.9890562891960144,
+      "box": [
+        118,
+        633,
+        493,
+        657
+      ]
+    },
+    {
+      "text": "•Studied principles of big data systems",
+      "score": 0.9876111149787903,
+      "box": [
+        130,
+        659,
+        498,
+        683
+      ]
+    },
+    {
+      "text": "•Studied fundamentals of compiler design",
+      "score": 0.9747360348701477,
+      "box": [
+        129,
+        680,
+        525,
+        710
+      ]
+    }
+  ],
+  "seconds": 2.4066531998105347,
+  "id": "26607",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

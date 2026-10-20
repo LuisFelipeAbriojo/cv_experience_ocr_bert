@@ -1,0 +1,112 @@
+{
+  "lines": [
+    {
+      "text": "MAXINE WARNER",
+      "score": 0.9743715524673462,
+      "box": [
+        118,
+        91,
+        407,
+        122
+      ]
+    },
+    {
+      "text": "AR, USA | +1-317-245-7565 | maxine.warner@example.com",
+      "score": 0.9847327470779419,
+      "box": [
+        118,
+        152,
+        677,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9993128180503845,
+      "box": [
+        116,
+        243,
+        317,
+        270
+      ]
+    },
+    {
+      "text": "Registered Nurses, KindLife Care Center, 2020.07-2023.01",
+      "score": 0.9913279414176941,
+      "box": [
+        115,
+        287,
+        670,
+        315
+      ]
+    },
+    {
+      "text": "- Provided catheter care",
+      "score": 0.9995198249816895,
+      "box": [
+        126,
+        313,
+        354,
+        341
+      ]
+    },
+    {
+      "text": "- Assisted with emergency procedures",
+      "score": 0.9909089207649231,
+      "box": [
+        126,
+        339,
+        484,
+        367
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999582767486572,
+      "box": [
+        116,
+        404,
+        268,
+        431
+      ]
+    },
+    {
+      "text": "Bachelor's, Medical Sciences, Springdale University, 2021",
+      "score": 0.9920622706413269,
+      "box": [
+        115,
+        446,
+        653,
+        474
+      ]
+    },
+    {
+      "text": "•Completed coursework in documentation standards",
+      "score": 0.992358386516571,
+      "box": [
+        131,
+        474,
+        624,
+        498
+      ]
+    },
+    {
+      "text": "Studied fundamentals of conflict resolution basics",
+      "score": 0.9915661811828613,
+      "box": [
+        132,
+        497,
+        606,
+        524
+      ]
+    }
+  ],
+  "seconds": 2.215138199739158,
+  "id": "02418",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

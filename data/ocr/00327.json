@@ -1,0 +1,142 @@
+{
+  "lines": [
+    {
+      "text": "KELLY MAYER",
+      "score": 0.9763335585594177,
+      "box": [
+        117,
+        91,
+        358,
+        122
+      ]
+    },
+    {
+      "text": "AL, USA | +1-994-330-5922 | kelly.mayer@example.com",
+      "score": 0.9853150844573975,
+      "box": [
+        117,
+        151,
+        641,
+        177
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9991331696510315,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, BrightStart Academy, 2019.05—2020.11",
+      "score": 0.9935431480407715,
+      "box": [
+        115,
+        287,
+        829,
+        318
+      ]
+    },
+    {
+      "text": "- Established instructional review cycles",
+      "score": 0.9798283576965332,
+      "box": [
+        125,
+        314,
+        497,
+        341
+      ]
+    },
+    {
+      "text": "- Directed academic intervention strategies",
+      "score": 0.999163806438446,
+      "box": [
+        125,
+        338,
+        525,
+        368
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Growing Field Academy, 2017.032018.09",
+      "score": 0.9915866851806641,
+      "box": [
+        116,
+        381,
+        860,
+        411
+      ]
+    },
+    {
+      "text": "- Maintained student folders",
+      "score": 0.9852302670478821,
+      "box": [
+        125,
+        407,
+        388,
+        432
+      ]
+    },
+    {
+      "text": "- Recorded behavioral observations",
+      "score": 0.9995012879371643,
+      "box": [
+        126,
+        431,
+        458,
+        456
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999213814735413,
+      "box": [
+        117,
+        494,
+        267,
+        521
+      ]
+    },
+    {
+      "text": "Bachelor's, General Academic Studies, Stonecrest University, 2014",
+      "score": 0.9816761016845703,
+      "box": [
+        115,
+        539,
+        741,
+        567
+      ]
+    },
+    {
+      "text": "•Studied principles of formative assessment",
+      "score": 0.9918404221534729,
+      "box": [
+        130,
+        566,
+        547,
+        591
+      ]
+    },
+    {
+      "text": "• Completed coursework in basic teaching ethics",
+      "score": 0.9837841987609863,
+      "box": [
+        131,
+        591,
+        582,
+        616
+      ]
+    }
+  ],
+  "seconds": 2.7513933000154793,
+  "id": "00327",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

@@ -1,0 +1,112 @@
+{
+  "lines": [
+    {
+      "text": "MARK DUNLAP",
+      "score": 0.999808132648468,
+      "box": [
+        116,
+        89,
+        368,
+        123
+      ]
+    },
+    {
+      "text": "MI, USA | +1-247-689-6183 | mark.dunlap@example.com",
+      "score": 0.9920310974121094,
+      "box": [
+        115,
+        149,
+        649,
+        177
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.999749481678009,
+      "box": [
+        117,
+        243,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Software Developers, Cloudfield Digital, 2021.052023.01",
+      "score": 0.990149974822998,
+      "box": [
+        117,
+        290,
+        651,
+        314
+      ]
+    },
+    {
+      "text": "- Handled feature toggles",
+      "score": 0.986518144607544,
+      "box": [
+        125,
+        313,
+        365,
+        342
+      ]
+    },
+    {
+      "text": "- Implemented error handling logic",
+      "score": 0.9968747496604919,
+      "box": [
+        127,
+        338,
+        446,
+        367
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999006986618042,
+      "box": [
+        116,
+        404,
+        268,
+        431
+      ]
+    },
+    {
+      "text": "Bachelor's, Driftwood University, 2023",
+      "score": 0.9724370241165161,
+      "box": [
+        115,
+        446,
+        469,
+        474
+      ]
+    },
+    {
+      "text": "Completed coursework in code refactoring",
+      "score": 0.996353268623352,
+      "box": [
+        131,
+        472,
+        540,
+        501
+      ]
+    },
+    {
+      "text": "Completed coursework in software lifecycle models",
+      "score": 0.998576283454895,
+      "box": [
+        132,
+        497,
+        622,
+        525
+      ]
+    }
+  ],
+  "seconds": 1.7428214000537992,
+  "id": "27409",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

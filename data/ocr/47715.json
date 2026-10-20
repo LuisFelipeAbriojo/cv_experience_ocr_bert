@@ -1,0 +1,142 @@
+{
+  "lines": [
+    {
+      "text": "JONATHON SULLIVAN",
+      "score": 0.973379909992218,
+      "box": [
+        115,
+        90,
+        481,
+        122
+      ]
+    },
+    {
+      "text": "SC, USA | +1-231-678-3350 | jonathon.sullivan@example.com",
+      "score": 0.988605260848999,
+      "box": [
+        118,
+        152,
+        696,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9991223216056824,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, IronFrame Contractors, 2020.01—2023.01",
+      "score": 0.9836754202842712,
+      "box": [
+        118,
+        290,
+        716,
+        314
+      ]
+    },
+    {
+      "text": "- Directed site optimization initiatives",
+      "score": 0.9636259078979492,
+      "box": [
+        125,
+        313,
+        467,
+        342
+      ]
+    },
+    {
+      "text": "- Led cross-functional coordination",
+      "score": 0.9895486235618591,
+      "box": [
+        127,
+        340,
+        448,
+        365
+      ]
+    },
+    {
+      "text": "Construction Laborers, AnchorPoint Builders, 2014.022017.02",
+      "score": 0.9871988296508789,
+      "box": [
+        116,
+        380,
+        704,
+        408
+      ]
+    },
+    {
+      "text": "- Prepared tools and equipment for daily tasks",
+      "score": 0.9950855374336243,
+      "box": [
+        125,
+        407,
+        555,
+        432
+      ]
+    },
+    {
+      "text": "- Mixed concrete and mortar",
+      "score": 0.9989961981773376,
+      "box": [
+        126,
+        430,
+        392,
+        457
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999167323112488,
+      "box": [
+        117,
+        494,
+        268,
+        521
+      ]
+    },
+    {
+      "text": "Bachelor's, Construction Estimating, Prairie Ridge University, 2014",
+      "score": 0.9859246611595154,
+      "box": [
+        116,
+        540,
+        733,
+        566
+      ]
+    },
+    {
+      "text": "•Completed coursework in construction terminology",
+      "score": 0.987494707107544,
+      "box": [
+        131,
+        564,
+        616,
+        594
+      ]
+    },
+    {
+      "text": "• Completed coursework in concrete basics",
+      "score": 0.994724452495575,
+      "box": [
+        133,
+        592,
+        534,
+        615
+      ]
+    }
+  ],
+  "seconds": 2.310572999995202,
+  "id": "47715",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

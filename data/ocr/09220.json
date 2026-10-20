@@ -1,0 +1,152 @@
+{
+  "lines": [
+    {
+      "text": "GAIL AHMED",
+      "score": 0.9996182322502136,
+      "box": [
+        118,
+        91,
+        329,
+        122
+      ]
+    },
+    {
+      "text": "CA, USA | +1-743-977-6752 | gail.ahmed@example.com",
+      "score": 0.9754089117050171,
+      "box": [
+        117,
+        150,
+        643,
+        177
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9997422099113464,
+      "box": [
+        117,
+        243,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Software Developers, Flowbyte Systems, 2020.072022.04",
+      "score": 0.9857762455940247,
+      "box": [
+        115,
+        288,
+        666,
+        316
+      ]
+    },
+    {
+      "text": "- Implemented infrastructure automation",
+      "score": 0.9848496913909912,
+      "box": [
+        127,
+        315,
+        500,
+        340
+      ]
+    },
+    {
+      "text": "- Implemented disaster recovery plans",
+      "score": 0.9944790005683899,
+      "box": [
+        128,
+        338,
+        483,
+        370
+      ]
+    },
+    {
+      "text": "Software Developers, Flowline Tech, 2017.112019.09",
+      "score": 0.9943689107894897,
+      "box": [
+        115,
+        380,
+        626,
+        408
+      ]
+    },
+    {
+      "text": "- Updated configuration files",
+      "score": 0.9852592349052429,
+      "box": [
+        126,
+        408,
+        389,
+        432
+      ]
+    },
+    {
+      "text": "- Performed code formatting",
+      "score": 0.9867518544197083,
+      "box": [
+        126,
+        428,
+        390,
+        460
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999171495437622,
+      "box": [
+        116,
+        494,
+        268,
+        521
+      ]
+    },
+    {
+      "text": "Master's, Skyview University, 2009",
+      "score": 0.9868700504302979,
+      "box": [
+        114,
+        539,
+        441,
+        567
+      ]
+    },
+    {
+      "text": "Bachelor's, Cloverfield University, 2007",
+      "score": 0.985559344291687,
+      "box": [
+        117,
+        567,
+        480,
+        591
+      ]
+    },
+    {
+      "text": "•Studied principles of functional programming",
+      "score": 0.99083411693573,
+      "box": [
+        128,
+        591,
+        562,
+        619
+      ]
+    },
+    {
+      "text": "Completed coursework in logic and computation",
+      "score": 0.9856475591659546,
+      "box": [
+        131,
+        613,
+        593,
+        645
+      ]
+    }
+  ],
+  "seconds": 2.387652500066906,
+  "id": "09220",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

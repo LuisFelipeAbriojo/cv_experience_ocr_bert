@@ -1,0 +1,152 @@
+{
+  "lines": [
+    {
+      "text": "BRIAN REED",
+      "score": 0.9997197985649109,
+      "box": [
+        117,
+        91,
+        326,
+        122
+      ]
+    },
+    {
+      "text": "MI, USA | +1-851-346-9092 | brian.reed@example.com",
+      "score": 0.9702234864234924,
+      "box": [
+        116,
+        149,
+        628,
+        177
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9997249245643616,
+      "box": [
+        117,
+        243,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Software Developers, Netcrest Technologies, 2018.12—2021.08",
+      "score": 0.9876091480255127,
+      "box": [
+        116,
+        289,
+        705,
+        316
+      ]
+    },
+    {
+      "text": "- Defined data governance policies",
+      "score": 0.9990785121917725,
+      "box": [
+        126,
+        315,
+        450,
+        340
+      ]
+    },
+    {
+      "text": "- Led architectural reviews",
+      "score": 0.998589277267456,
+      "box": [
+        128,
+        339,
+        374,
+        365
+      ]
+    },
+    {
+      "text": "Software Developers, Silverwave Technologies, 2015.06—2018.03",
+      "score": 0.993481457233429,
+      "box": [
+        115,
+        380,
+        728,
+        408
+      ]
+    },
+    {
+      "text": "- Monitored application logs",
+      "score": 0.9856632947921753,
+      "box": [
+        125,
+        403,
+        387,
+        435
+      ]
+    },
+    {
+      "text": "- Implemented validation logic",
+      "score": 0.9771552681922913,
+      "box": [
+        128,
+        430,
+        406,
+        458
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999014735221863,
+      "box": [
+        116,
+        494,
+        268,
+        521
+      ]
+    },
+    {
+      "text": "Master's, Sunset Ridge University, 2004",
+      "score": 0.9875766038894653,
+      "box": [
+        115,
+        540,
+        488,
+        566
+      ]
+    },
+    {
+      "text": "Bachelor's, Southridge University, 2002",
+      "score": 0.9754725694656372,
+      "box": [
+        117,
+        567,
+        483,
+        591
+      ]
+    },
+    {
+      "text": "• Completed coursework in cloud computing basics",
+      "score": 0.9738069176673889,
+      "box": [
+        131,
+        592,
+        606,
+        616
+      ]
+    },
+    {
+      "text": "Studied principles of augmented reality",
+      "score": 0.995730459690094,
+      "box": [
+        131,
+        614,
+        507,
+        644
+      ]
+    }
+  ],
+  "seconds": 2.384872800204903,
+  "id": "27469",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

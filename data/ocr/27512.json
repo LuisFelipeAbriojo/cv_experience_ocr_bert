@@ -1,0 +1,142 @@
+{
+  "lines": [
+    {
+      "text": "LOGAN MCGEE",
+      "score": 0.9997797012329102,
+      "box": [
+        116,
+        90,
+        370,
+        122
+      ]
+    },
+    {
+      "text": "MI, USA | +1-726-862-6552 | logan.mcgee@example.com",
+      "score": 0.9806882739067078,
+      "box": [
+        115,
+        149,
+        654,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9993582367897034,
+      "box": [
+        116,
+        243,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Registered Nurses, Harmony Hands Health, 2021.042023.01",
+      "score": 0.9998066425323486,
+      "box": [
+        117,
+        288,
+        690,
+        315
+      ]
+    },
+    {
+      "text": "- Led clinical governance efforts",
+      "score": 0.9883297085762024,
+      "box": [
+        128,
+        315,
+        424,
+        340
+      ]
+    },
+    {
+      "text": "- Implemented care standardization",
+      "score": 0.9850147366523743,
+      "box": [
+        128,
+        338,
+        456,
+        367
+      ]
+    },
+    {
+      "text": "Registered Nurses, Helping Heart Nursing, 2019.072021.04",
+      "score": 0.9863718748092651,
+      "box": [
+        115,
+        379,
+        682,
+        410
+      ]
+    },
+    {
+      "text": "- Conducted basic patient assessments",
+      "score": 0.9989151954650879,
+      "box": [
+        125,
+        407,
+        492,
+        433
+      ]
+    },
+    {
+      "text": "- Monitored oxygen therapy",
+      "score": 0.9960944652557373,
+      "box": [
+        126,
+        429,
+        384,
+        461
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999254941940308,
+      "box": [
+        116,
+        494,
+        267,
+        521
+      ]
+    },
+    {
+      "text": "Bachelor's, Clinical Health, Silver Creek University, 2017",
+      "score": 0.9936262369155884,
+      "box": [
+        116,
+        540,
+        640,
+        565
+      ]
+    },
+    {
+      "text": "• Completed coursework in medication administration",
+      "score": 0.9862150549888611,
+      "box": [
+        132,
+        566,
+        626,
+        591
+      ]
+    },
+    {
+      "text": "• Completed coursework in healthcare quality improvement",
+      "score": 0.9841893911361694,
+      "box": [
+        132,
+        591,
+        679,
+        617
+      ]
+    }
+  ],
+  "seconds": 2.566752600017935,
+  "id": "27512",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

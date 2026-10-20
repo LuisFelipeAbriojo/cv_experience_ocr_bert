@@ -1,0 +1,202 @@
+{
+  "lines": [
+    {
+      "text": "ROBERT LANG",
+      "score": 0.9610704779624939,
+      "box": [
+        117,
+        91,
+        362,
+        122
+      ]
+    },
+    {
+      "text": "PA, USA | +1-255-907-1813 | robert.lang@example.com",
+      "score": 0.989607036113739,
+      "box": [
+        116,
+        149,
+        639,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.992497980594635,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Softstack Labs, 2020.072023.01",
+      "score": 0.99982750415802,
+      "box": [
+        116,
+        289,
+        632,
+        316
+      ]
+    },
+    {
+      "text": "- Built core libraries",
+      "score": 0.9974713921546936,
+      "box": [
+        126,
+        315,
+        309,
+        341
+      ]
+    },
+    {
+      "text": "- Designed microservice architectures",
+      "score": 0.998109757900238,
+      "box": [
+        127,
+        339,
+        479,
+        367
+      ]
+    },
+    {
+      "text": "Software Developers, Cloudfield Tech, 2018.012020.07",
+      "score": 0.9860926866531372,
+      "box": [
+        117,
+        382,
+        642,
+        409
+      ]
+    },
+    {
+      "text": "- Led performance tuning initiatives",
+      "score": 0.9888331890106201,
+      "box": [
+        129,
+        409,
+        454,
+        433
+      ]
+    },
+    {
+      "text": "- Implemented disaster recovery plans",
+      "score": 0.9997230768203735,
+      "box": [
+        129,
+        433,
+        483,
+        459
+      ]
+    },
+    {
+      "text": "Software Developers, Codehaven Labs, 2015.072018.01",
+      "score": 0.9896504282951355,
+      "box": [
+        117,
+        472,
+        653,
+        499
+      ]
+    },
+    {
+      "text": "- Designed integration tests",
+      "score": 0.973020076751709,
+      "box": [
+        127,
+        497,
+        385,
+        526
+      ]
+    },
+    {
+      "text": "- Implemented search features",
+      "score": 0.9817525148391724,
+      "box": [
+        128,
+        521,
+        414,
+        550
+      ]
+    },
+    {
+      "text": "Software Developers, Riverstone Digital, 2010.112013.06",
+      "score": 0.9948780536651611,
+      "box": [
+        117,
+        566,
+        660,
+        590
+      ]
+    },
+    {
+      "text": "- Created test data sets",
+      "score": 0.9961993098258972,
+      "box": [
+        127,
+        590,
+        348,
+        616
+      ]
+    },
+    {
+      "text": "- Monitored application logs",
+      "score": 0.9793205857276917,
+      "box": [
+        126,
+        613,
+        386,
+        643
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9998637437820435,
+      "box": [
+        117,
+        681,
+        266,
+        705
+      ]
+    },
+    {
+      "text": "Bachelor's, Amber Hills University, 2006",
+      "score": 0.9686983227729797,
+      "box": [
+        116,
+        724,
+        489,
+        750
+      ]
+    },
+    {
+      "text": "Completed coursework in cloud computing basics",
+      "score": 0.9954153299331665,
+      "box": [
+        131,
+        748,
+        607,
+        776
+      ]
+    },
+    {
+      "text": "Studied principles of version control systems",
+      "score": 0.9890090823173523,
+      "box": [
+        132,
+        772,
+        562,
+        802
+      ]
+    }
+  ],
+  "seconds": 2.510758299846202,
+  "id": "44826",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

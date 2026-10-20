@@ -1,0 +1,152 @@
+{
+  "lines": [
+    {
+      "text": "KARINA FITZPATRICK",
+      "score": 0.9755916595458984,
+      "box": [
+        117,
+        91,
+        475,
+        122
+      ]
+    },
+    {
+      "text": "IL, USA | +1-876-671-4734 | karina.fitzpatrick@example.com",
+      "score": 0.9925404191017151,
+      "box": [
+        116,
+        150,
+        680,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9991819858551025,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, TrueBalance Financial, 2020.112023.01",
+      "score": 0.9989094138145447,
+      "box": [
+        115,
+        288,
+        707,
+        316
+      ]
+    },
+    {
+      "text": "- Developed regulatory reporting strategies",
+      "score": 0.98628830909729,
+      "box": [
+        127,
+        314,
+        525,
+        343
+      ]
+    },
+    {
+      "text": "- Led accounting transformation projects",
+      "score": 0.9837058782577515,
+      "box": [
+        128,
+        340,
+        502,
+        368
+      ]
+    },
+    {
+      "text": "Accountants Auditors, SteadyCount Financial, 2016.042018.07",
+      "score": 0.9907925128936768,
+      "box": [
+        117,
+        382,
+        711,
+        409
+      ]
+    },
+    {
+      "text": "- Matched invoices to purchase orders",
+      "score": 0.9985765218734741,
+      "box": [
+        126,
+        408,
+        483,
+        433
+      ]
+    },
+    {
+      "text": "- Performed data validation checks",
+      "score": 0.9804667234420776,
+      "box": [
+        128,
+        430,
+        451,
+        456
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999502897262573,
+      "box": [
+        116,
+        494,
+        268,
+        521
+      ]
+    },
+    {
+      "text": "Master's, Government Accounting, Pine Valley University, 2008",
+      "score": 0.9911583065986633,
+      "box": [
+        114,
+        539,
+        702,
+        568
+      ]
+    },
+    {
+      "text": "Bachelor's, Management Information Systems, Pineview University, 2006",
+      "score": 0.9897265434265137,
+      "box": [
+        114,
+        564,
+        796,
+        595
+      ]
+    },
+    {
+      "text": "•Studied principles of financial planning",
+      "score": 0.9901134371757507,
+      "box": [
+        128,
+        590,
+        505,
+        620
+      ]
+    },
+    {
+      "text": "•Studied fundamentals of employee benefit accounting",
+      "score": 0.9800888895988464,
+      "box": [
+        129,
+        615,
+        644,
+        643
+      ]
+    }
+  ],
+  "seconds": 2.401522300206125,
+  "id": "17395",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

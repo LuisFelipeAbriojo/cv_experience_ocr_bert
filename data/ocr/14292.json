@@ -1,0 +1,142 @@
+{
+  "lines": [
+    {
+      "text": "KYLE CARDENAS",
+      "score": 0.9996668696403503,
+      "box": [
+        117,
+        91,
+        406,
+        122
+      ]
+    },
+    {
+      "text": "FL, USA | +1-583-484-3489 | kyle.cardenas@example.com",
+      "score": 0.9837066531181335,
+      "box": [
+        116,
+        149,
+        665,
+        177
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9991562962532043,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, KindHands Health Services, 2021.042023.01",
+      "score": 0.9968761801719666,
+      "box": [
+        118,
+        290,
+        728,
+        314
+      ]
+    },
+    {
+      "text": "- Developed interdisciplinary care strategies",
+      "score": 0.9902676343917847,
+      "box": [
+        125,
+        313,
+        535,
+        343
+      ]
+    },
+    {
+      "text": "- Directed clinical quality improvement initiatives",
+      "score": 0.9851601719856262,
+      "box": [
+        126,
+        339,
+        573,
+        367
+      ]
+    },
+    {
+      "text": "Registered Nurses, Caring Nest Nursing, 2018.012019.11",
+      "score": 0.9997814893722534,
+      "box": [
+        117,
+        382,
+        663,
+        409
+      ]
+    },
+    {
+      "text": "- Monitored patient intake and output",
+      "score": 0.9981904029846191,
+      "box": [
+        126,
+        407,
+        470,
+        433
+      ]
+    },
+    {
+      "text": "- Assisted with respiratory treatments",
+      "score": 0.9977538585662842,
+      "box": [
+        128,
+        432,
+        472,
+        458
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999546408653259,
+      "box": [
+        116,
+        494,
+        268,
+        521
+      ]
+    },
+    {
+      "text": "Bachelor's, Medical Assisting, Briarwood University, 2016",
+      "score": 0.9778798222541809,
+      "box": [
+        115,
+        539,
+        648,
+        567
+      ]
+    },
+    {
+      "text": "•Studied fundamentals of trauma care",
+      "score": 0.9868137836456299,
+      "box": [
+        129,
+        566,
+        491,
+        591
+      ]
+    },
+    {
+      "text": "•Studied fundamentals of community health nursing",
+      "score": 0.9870970845222473,
+      "box": [
+        130,
+        588,
+        617,
+        619
+      ]
+    }
+  ],
+  "seconds": 2.6327891000546515,
+  "id": "14292",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

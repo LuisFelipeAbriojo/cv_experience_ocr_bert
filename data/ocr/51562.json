@@ -1,0 +1,172 @@
+{
+  "lines": [
+    {
+      "text": "ZACHARY FRIEDMAN",
+      "score": 0.9995899200439453,
+      "box": [
+        117,
+        91,
+        466,
+        121
+      ]
+    },
+    {
+      "text": "TX, USA | +1-522-347-5726 |zachary.friedman@example.com",
+      "score": 0.9785032272338867,
+      "box": [
+        118,
+        151,
+        697,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9989233016967773,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Corestack Software, 2020.10—2023.01",
+      "score": 0.9813597798347473,
+      "box": [
+        117,
+        291,
+        677,
+        315
+      ]
+    },
+    {
+      "text": "- Led cross-team technical alignment",
+      "score": 0.984201967716217,
+      "box": [
+        128,
+        315,
+        471,
+        341
+      ]
+    },
+    {
+      "text": "- Designed deployment strategies",
+      "score": 0.9895744323730469,
+      "box": [
+        128,
+        340,
+        441,
+        368
+      ]
+    },
+    {
+      "text": "Software Developers, Softbridge Labs, 2018.062020.10",
+      "score": 0.9958044290542603,
+      "box": [
+        117,
+        382,
+        644,
+        409
+      ]
+    },
+    {
+      "text": "- Built containerized services",
+      "score": 0.9729316234588623,
+      "box": [
+        125,
+        407,
+        396,
+        433
+      ]
+    },
+    {
+      "text": "- Integrated messaging systems",
+      "score": 0.9611679911613464,
+      "box": [
+        127,
+        431,
+        426,
+        459
+      ]
+    },
+    {
+      "text": "Software Developers, Cleargrid Software, 2016.02—2018.06",
+      "score": 0.9781475067138672,
+      "box": [
+        116,
+        471,
+        670,
+        499
+      ]
+    },
+    {
+      "text": "- Implemented caching logic",
+      "score": 0.9900718927383423,
+      "box": [
+        127,
+        496,
+        392,
+        526
+      ]
+    },
+    {
+      "text": "- Assisted with system documentation",
+      "score": 0.9858307242393494,
+      "box": [
+        128,
+        521,
+        478,
+        549
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9998649954795837,
+      "box": [
+        117,
+        587,
+        267,
+        614
+      ]
+    },
+    {
+      "text": "Bachelor's, Clearview University, 2017",
+      "score": 0.9979299306869507,
+      "box": [
+        118,
+        633,
+        473,
+        657
+      ]
+    },
+    {
+      "text": "•Studied principles of microservices architecture",
+      "score": 0.9896358847618103,
+      "box": [
+        129,
+        658,
+        586,
+        685
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of indexing techniques",
+      "score": 0.9865622520446777,
+      "box": [
+        130,
+        682,
+        563,
+        708
+      ]
+    }
+  ],
+  "seconds": 2.4780085999518633,
+  "id": "51562",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

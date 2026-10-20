@@ -1,0 +1,112 @@
+{
+  "lines": [
+    {
+      "text": "YAHIR LEAL",
+      "score": 0.9997404217720032,
+      "box": [
+        116,
+        89,
+        319,
+        123
+      ]
+    },
+    {
+      "text": "TN, USA | +1-740-304-8236 | yahir.leal@example.com",
+      "score": 0.9901502728462219,
+      "box": [
+        117,
+        149,
+        624,
+        177
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9993195533752441,
+      "box": [
+        116,
+        243,
+        317,
+        270
+      ]
+    },
+    {
+      "text": "Construction Laborers, Unified Build Co., 2020.03—2023.01",
+      "score": 0.9957046508789062,
+      "box": [
+        118,
+        289,
+        662,
+        313
+      ]
+    },
+    {
+      "text": "- Secured materials with fasteners",
+      "score": 0.9960413575172424,
+      "box": [
+        125,
+        314,
+        447,
+        340
+      ]
+    },
+    {
+      "text": "- Assisted with equipment maintenance",
+      "score": 0.9973015785217285,
+      "box": [
+        128,
+        341,
+        492,
+        365
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999940037727356,
+      "box": [
+        116,
+        404,
+        268,
+        431
+      ]
+    },
+    {
+      "text": "Some college (no degree), Construction Management, Silverton University, 2023",
+      "score": 0.9909216165542603,
+      "box": [
+        117,
+        447,
+        861,
+        474
+      ]
+    },
+    {
+      "text": "• Completed coursework in basic tile installation",
+      "score": 0.976349413394928,
+      "box": [
+        133,
+        474,
+        576,
+        498
+      ]
+    },
+    {
+      "text": "• Completed coursework in construction fundamentals",
+      "score": 0.9868867993354797,
+      "box": [
+        134,
+        499,
+        633,
+        523
+      ]
+    }
+  ],
+  "seconds": 2.1077845003455877,
+  "id": "48375",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

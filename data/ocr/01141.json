@@ -1,0 +1,132 @@
+{
+  "lines": [
+    {
+      "text": "BRENTON DENNIS",
+      "score": 0.9769859313964844,
+      "box": [
+        117,
+        89,
+        418,
+        122
+      ]
+    },
+    {
+      "text": "AZ, USA | +1-299-905-7862 | brenton.dennis@example.com",
+      "score": 0.98516845703125,
+      "box": [
+        118,
+        152,
+        676,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9991834759712219,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, PrimeBuild Co., 2019.072021.06",
+      "score": 0.987751841545105,
+      "box": [
+        118,
+        290,
+        647,
+        314
+      ]
+    },
+    {
+      "text": "- Established construction benchmarks",
+      "score": 0.99345862865448,
+      "box": [
+        126,
+        314,
+        486,
+        340
+      ]
+    },
+    {
+      "text": "- Managed subcontractor coordination",
+      "score": 0.9982950687408447,
+      "box": [
+        127,
+        340,
+        480,
+        366
+      ]
+    },
+    {
+      "text": "Construction Laborers, Frontier Build Co., 2016.09—2018.08",
+      "score": 0.9769946932792664,
+      "box": [
+        116,
+        380,
+        672,
+        408
+      ]
+    },
+    {
+      "text": "- Maintained tool storage areas",
+      "score": 0.9987116456031799,
+      "box": [
+        125,
+        407,
+        418,
+        433
+      ]
+    },
+    {
+      "text": "- Helped position heavy materials",
+      "score": 0.9921153783798218,
+      "box": [
+        127,
+        430,
+        438,
+        460
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999321699142456,
+      "box": [
+        117,
+        494,
+        267,
+        521
+      ]
+    },
+    {
+      "text": "High school graduate/GED, General Construction, Autumn Ridge High School, 2008",
+      "score": 0.9879646301269531,
+      "box": [
+        117,
+        541,
+        893,
+        565
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of masonry",
+      "score": 0.9881454110145569,
+      "box": [
+        132,
+        565,
+        458,
+        592
+      ]
+    }
+  ],
+  "seconds": 2.325832000002265,
+  "id": "01141",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

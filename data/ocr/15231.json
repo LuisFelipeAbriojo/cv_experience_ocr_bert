@@ -1,0 +1,172 @@
+{
+  "lines": [
+    {
+      "text": "CHRISTINA GARDNER",
+      "score": 0.9997081756591797,
+      "box": [
+        118,
+        92,
+        477,
+        122
+      ]
+    },
+    {
+      "text": "GA, USA | +1-938-566-3117 | christina.gardner@example.com",
+      "score": 0.9935345649719238,
+      "box": [
+        116,
+        150,
+        697,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9991243481636047,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, NewPath Care Center, 2020.05—2023.01",
+      "score": 0.9799949526786804,
+      "box": [
+        116,
+        288,
+        679,
+        316
+      ]
+    },
+    {
+      "text": "- Developed clinical performance dashboards",
+      "score": 0.9902933835983276,
+      "box": [
+        126,
+        313,
+        549,
+        343
+      ]
+    },
+    {
+      "text": "- Implemented care standardization",
+      "score": 0.9799953699111938,
+      "box": [
+        127,
+        340,
+        456,
+        366
+      ]
+    },
+    {
+      "text": "Registered Nurses, NewHands Care Center, 2017.082020.05",
+      "score": 0.9998371005058289,
+      "box": [
+        117,
+        382,
+        698,
+        409
+      ]
+    },
+    {
+      "text": "- Monitored patient response to treatments",
+      "score": 0.9962230920791626,
+      "box": [
+        125,
+        406,
+        523,
+        435
+      ]
+    },
+    {
+      "text": "- Supervised clinical documentation",
+      "score": 0.9958310723304749,
+      "box": [
+        128,
+        432,
+        457,
+        457
+      ]
+    },
+    {
+      "text": "Registered Nurses, GentleLife Nursing, 2013.052016.02",
+      "score": 0.9956440925598145,
+      "box": [
+        118,
+        474,
+        649,
+        498
+      ]
+    },
+    {
+      "text": "- Prepared medical equipment for use",
+      "score": 0.9811635613441467,
+      "box": [
+        126,
+        497,
+        479,
+        526
+      ]
+    },
+    {
+      "text": "- Assisted with feeding patients",
+      "score": 0.9903255701065063,
+      "box": [
+        129,
+        522,
+        417,
+        549
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9998974204063416,
+      "box": [
+        117,
+        587,
+        267,
+        614
+      ]
+    },
+    {
+      "text": "Associate's degree, Nursing Foundations, Fairfield University, 2011",
+      "score": 0.9893531203269958,
+      "box": [
+        117,
+        632,
+        738,
+        659
+      ]
+    },
+    {
+      "text": "•Completed coursework in perioperative care",
+      "score": 0.9848865270614624,
+      "box": [
+        130,
+        657,
+        559,
+        685
+      ]
+    },
+    {
+      "text": "Completed coursework in care plan development",
+      "score": 0.9909865260124207,
+      "box": [
+        132,
+        681,
+        602,
+        709
+      ]
+    }
+  ],
+  "seconds": 3.639787799678743,
+  "id": "15231",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

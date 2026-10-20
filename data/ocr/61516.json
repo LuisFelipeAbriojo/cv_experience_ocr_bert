@@ -1,0 +1,162 @@
+{
+  "lines": [
+    {
+      "text": "THOMAS HARMON",
+      "score": 0.9805333614349365,
+      "box": [
+        116,
+        89,
+        422,
+        122
+      ]
+    },
+    {
+      "text": "WY, USA | +1-924-764-3474 | thomas.harmon@example.com",
+      "score": 0.9896402359008789,
+      "box": [
+        115,
+        149,
+        691,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9987919926643372,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Dataframe Labs, 2020.072023.01",
+      "score": 0.9898287653923035,
+      "box": [
+        116,
+        289,
+        644,
+        316
+      ]
+    },
+    {
+      "text": "- Built distributed systems",
+      "score": 0.9780864119529724,
+      "box": [
+        126,
+        313,
+        367,
+        342
+      ]
+    },
+    {
+      "text": "- Designed logging infrastructures",
+      "score": 0.9984390139579773,
+      "box": [
+        127,
+        340,
+        442,
+        368
+      ]
+    },
+    {
+      "text": "Software Developers, Brightnode Software, 2017.012019.07",
+      "score": 0.9997948408126831,
+      "box": [
+        115,
+        380,
+        686,
+        409
+      ]
+    },
+    {
+      "text": "- Designed data models",
+      "score": 0.9997022151947021,
+      "box": [
+        127,
+        410,
+        349,
+        431
+      ]
+    },
+    {
+      "text": "- Built containerized services",
+      "score": 0.9968758821487427,
+      "box": [
+        126,
+        431,
+        396,
+        457
+      ]
+    },
+    {
+      "text": "Software Developers, Datastream Solutions, 2013.122016.07",
+      "score": 0.9938564896583557,
+      "box": [
+        117,
+        472,
+        696,
+        499
+      ]
+    },
+    {
+      "text": "- Performed basic performance profiling",
+      "score": 0.9849357604980469,
+      "box": [
+        125,
+        496,
+        496,
+        526
+      ]
+    },
+    {
+      "text": "- Reviewed error reports",
+      "score": 0.9959705471992493,
+      "box": [
+        126,
+        520,
+        356,
+        551
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999465942382812,
+      "box": [
+        118,
+        588,
+        266,
+        612
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Westview High School, 2003",
+      "score": 0.9987262487411499,
+      "box": [
+        116,
+        631,
+        642,
+        659
+      ]
+    },
+    {
+      "text": "• Completed coursework in software architecture",
+      "score": 0.9905529618263245,
+      "box": [
+        133,
+        658,
+        585,
+        682
+      ]
+    }
+  ],
+  "seconds": 2.204958999995142,
+  "id": "61516",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

@@ -1,0 +1,152 @@
+{
+  "lines": [
+    {
+      "text": "CRYSTAL ROBERTSON",
+      "score": 0.9998250007629395,
+      "box": [
+        118,
+        91,
+        498,
+        122
+      ]
+    },
+    {
+      "text": "AL, USA | +1-932-763-6919 | crystal.robertson@example.com",
+      "score": 0.9973769783973694,
+      "box": [
+        116,
+        150,
+        692,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9991876482963562,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, Caring Path Nursing, 2020.10—2023.01",
+      "score": 0.970422089099884,
+      "box": [
+        115,
+        287,
+        663,
+        318
+      ]
+    },
+    {
+      "text": "- Developed patient care algorithms",
+      "score": 0.9990270137786865,
+      "box": [
+        125,
+        314,
+        459,
+        342
+      ]
+    },
+    {
+      "text": "- Directed nursing process improvements",
+      "score": 0.985061526298523,
+      "box": [
+        126,
+        339,
+        510,
+        369
+      ]
+    },
+    {
+      "text": "Registered Nurses, TruePath Nursing, 2017.032019.06",
+      "score": 0.999733567237854,
+      "box": [
+        116,
+        381,
+        640,
+        409
+      ]
+    },
+    {
+      "text": "- Assisted with respiratory treatments",
+      "score": 0.9757230877876282,
+      "box": [
+        124,
+        406,
+        473,
+        434
+      ]
+    },
+    {
+      "text": "- Provided post-procedure care",
+      "score": 0.9910850524902344,
+      "box": [
+        126,
+        430,
+        419,
+        461
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9676497578620911,
+      "box": [
+        116,
+        494,
+        267,
+        521
+      ]
+    },
+    {
+      "text": "Master's, Allied Health, Summit University, 2011",
+      "score": 0.9780178666114807,
+      "box": [
+        114,
+        539,
+        561,
+        567
+      ]
+    },
+    {
+      "text": "Bachelor's, Patient Care, Westview University, 2009",
+      "score": 0.9906913042068481,
+      "box": [
+        117,
+        567,
+        597,
+        591
+      ]
+    },
+    {
+      "text": "•Studied principles of telemetry basics",
+      "score": 0.9704344272613525,
+      "box": [
+        130,
+        593,
+        493,
+        617
+      ]
+    },
+    {
+      "text": "Completed coursework in palliative care basics",
+      "score": 0.9975255727767944,
+      "box": [
+        131,
+        615,
+        582,
+        643
+      ]
+    }
+  ],
+  "seconds": 2.5104058999568224,
+  "id": "00364",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

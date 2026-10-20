@@ -1,0 +1,212 @@
+{
+  "lines": [
+    {
+      "text": "MICHAEL DYER",
+      "score": 0.9997999668121338,
+      "box": [
+        117,
+        91,
+        372,
+        122
+      ]
+    },
+    {
+      "text": "AR, USA | +1-625-876-8127 | michael.dyer@example.com",
+      "score": 0.9751574993133545,
+      "box": [
+        116,
+        150,
+        659,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.997925341129303,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, CoreBalance Financial, 2020.07—2023.01",
+      "score": 0.989068329334259,
+      "box": [
+        116,
+        289,
+        708,
+        314
+      ]
+    },
+    {
+      "text": "- Developed financial risk models",
+      "score": 0.9912967085838318,
+      "box": [
+        128,
+        315,
+        436,
+        340
+      ]
+    },
+    {
+      "text": "- Designed audit methodologies",
+      "score": 0.997724711894989,
+      "box": [
+        127,
+        339,
+        424,
+        370
+      ]
+    },
+    {
+      "text": "Accountants Auditors, SolidLedger Group, 2018.01—2020.07",
+      "score": 0.9829497933387756,
+      "box": [
+        116,
+        381,
+        676,
+        410
+      ]
+    },
+    {
+      "text": "- Established financial reporting standards",
+      "score": 0.9962050914764404,
+      "box": [
+        125,
+        408,
+        518,
+        433
+      ]
+    },
+    {
+      "text": "- Directed financial reporting processes",
+      "score": 0.9880155324935913,
+      "box": [
+        126,
+        432,
+        491,
+        458
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Integrity Books Co., 2015.072018.01",
+      "score": 0.9918111562728882,
+      "box": [
+        117,
+        472,
+        675,
+        499
+      ]
+    },
+    {
+      "text": "- Analyzed financial variances",
+      "score": 0.9985818266868591,
+      "box": [
+        126,
+        498,
+        406,
+        524
+      ]
+    },
+    {
+      "text": "- Reviewed budget performance",
+      "score": 0.9985204339027405,
+      "box": [
+        127,
+        521,
+        427,
+        551
+      ]
+    },
+    {
+      "text": "Accountants Auditors, EverCount Accounting, 2013.012015.07",
+      "score": 0.9893928170204163,
+      "box": [
+        117,
+        566,
+        707,
+        590
+      ]
+    },
+    {
+      "text": "- Assisted with tax form preparation",
+      "score": 0.9774932861328125,
+      "box": [
+        127,
+        592,
+        456,
+        616
+      ]
+    },
+    {
+      "text": "- Prepared supporting schedules",
+      "score": 0.9829875230789185,
+      "box": [
+        127,
+        614,
+        432,
+        644
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999213814735413,
+      "box": [
+        117,
+        681,
+        266,
+        705
+      ]
+    },
+    {
+      "text": "Master's, Business Management, Driftwood University, 2018",
+      "score": 0.9877114295959473,
+      "box": [
+        116,
+        724,
+        676,
+        750
+      ]
+    },
+    {
+      "text": "Bachelor's, Investment Management, Horizon University, 2016",
+      "score": 0.997208833694458,
+      "box": [
+        115,
+        747,
+        696,
+        775
+      ]
+    },
+    {
+      "text": "•Studied fundamentals of accounts payable",
+      "score": 0.9742059707641602,
+      "box": [
+        129,
+        773,
+        542,
+        801
+      ]
+    },
+    {
+      "text": "Studied principles of taxation",
+      "score": 0.9968652129173279,
+      "box": [
+        131,
+        798,
+        417,
+        827
+      ]
+    }
+  ],
+  "seconds": 2.813904599752277,
+  "id": "02151",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

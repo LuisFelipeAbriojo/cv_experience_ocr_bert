@@ -1,0 +1,182 @@
+{
+  "lines": [
+    {
+      "text": "RICKY NGUYEN",
+      "score": 0.999199390411377,
+      "box": [
+        118,
+        91,
+        374,
+        121
+      ]
+    },
+    {
+      "text": "NJ, USA | +1-831-455-4725 | ricky.nguyen@example.com",
+      "score": 0.9860659241676331,
+      "box": [
+        117,
+        152,
+        653,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9990336298942566,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Accurate Ledger Services, 2020.01—2023.01",
+      "score": 0.9881800413131714,
+      "box": [
+        115,
+        288,
+        738,
+        316
+      ]
+    },
+    {
+      "text": "- Led internal audit functions",
+      "score": 0.9913402199745178,
+      "box": [
+        126,
+        315,
+        393,
+        340
+      ]
+    },
+    {
+      "text": "- Established financial reporting standards",
+      "score": 0.9842627048492432,
+      "box": [
+        126,
+        338,
+        518,
+        367
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Reliable Ledger Advisors, 2016.032019.04",
+      "score": 0.998660147190094,
+      "box": [
+        118,
+        383,
+        732,
+        407
+      ]
+    },
+    {
+      "text": "- Conducted inventory valuation",
+      "score": 0.9871609210968018,
+      "box": [
+        126,
+        409,
+        424,
+        432
+      ]
+    },
+    {
+      "text": "- Reviewed contract accounting",
+      "score": 0.9993332028388977,
+      "box": [
+        126,
+        431,
+        421,
+        459
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Integrity Ledger Financial, 2011.102014.11",
+      "score": 0.9960679411888123,
+      "box": [
+        117,
+        472,
+        734,
+        499
+      ]
+    },
+    {
+      "text": "- Processed accounts payable invoices",
+      "score": 0.9904324412345886,
+      "box": [
+        125,
+        496,
+        492,
+        524
+      ]
+    },
+    {
+      "text": "- Reviewed credit memos",
+      "score": 0.999477744102478,
+      "box": [
+        127,
+        521,
+        366,
+        548
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999939501285553,
+      "box": [
+        118,
+        588,
+        266,
+        612
+      ]
+    },
+    {
+      "text": "Professional degree, Auditing, Seabreeze University, 2008",
+      "score": 0.9862285852432251,
+      "box": [
+        116,
+        632,
+        658,
+        659
+      ]
+    },
+    {
+      "text": "Bachelor's, Business Law, Northfield University, 2004",
+      "score": 0.9880658388137817,
+      "box": [
+        117,
+        658,
+        612,
+        682
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of revenue cycle management",
+      "score": 0.9950372576713562,
+      "box": [
+        132,
+        684,
+        636,
+        708
+      ]
+    },
+    {
+      "text": "Completed coursework in expense cycle management",
+      "score": 0.9953195452690125,
+      "box": [
+        131,
+        704,
+        651,
+        737
+      ]
+    }
+  ],
+  "seconds": 2.582639700267464,
+  "id": "34436",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

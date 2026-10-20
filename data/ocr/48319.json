@@ -1,0 +1,142 @@
+{
+  "lines": [
+    {
+      "text": "DAKOTA ROWLAND",
+      "score": 0.9996832013130188,
+      "box": [
+        117,
+        90,
+        444,
+        122
+      ]
+    },
+    {
+      "text": "SD, USA | +1-823-521-7423 | dakota.rowland@example.com",
+      "score": 0.9821857213973999,
+      "box": [
+        118,
+        152,
+        682,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9991946220397949,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, Compassion Bridge Medical, 2019.122021.11",
+      "score": 0.9901608228683472,
+      "box": [
+        116,
+        288,
+        737,
+        318
+      ]
+    },
+    {
+      "text": "- Implemented patient monitoring systems",
+      "score": 0.9850021600723267,
+      "box": [
+        127,
+        314,
+        518,
+        343
+      ]
+    },
+    {
+      "text": "- Developed nursing policy frameworks",
+      "score": 0.9774524569511414,
+      "box": [
+        127,
+        339,
+        489,
+        368
+      ]
+    },
+    {
+      "text": "Registered Nurses, TrueSpring Nursing, 2016.102018.10",
+      "score": 0.9904978275299072,
+      "box": [
+        115,
+        379,
+        658,
+        410
+      ]
+    },
+    {
+      "text": "- Assisted with specimen labeling",
+      "score": 0.9852845072746277,
+      "box": [
+        124,
+        403,
+        438,
+        436
+      ]
+    },
+    {
+      "text": "- Checked patient identification",
+      "score": 0.9814208745956421,
+      "box": [
+        127,
+        431,
+        415,
+        457
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999291896820068,
+      "box": [
+        117,
+        494,
+        267,
+        521
+      ]
+    },
+    {
+      "text": "Associate's degree, Care Management, Lakeside University, 2014",
+      "score": 0.9881377220153809,
+      "box": [
+        115,
+        538,
+        729,
+        569
+      ]
+    },
+    {
+      "text": "•Completed coursework in geriatric nursing",
+      "score": 0.9876218438148499,
+      "box": [
+        130,
+        565,
+        539,
+        594
+      ]
+    },
+    {
+      "text": "•Completed coursework in integumentary system care",
+      "score": 0.9812509417533875,
+      "box": [
+        131,
+        590,
+        641,
+        619
+      ]
+    }
+  ],
+  "seconds": 2.408081800211221,
+  "id": "48319",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

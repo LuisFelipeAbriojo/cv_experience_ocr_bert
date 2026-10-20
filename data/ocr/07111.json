@@ -1,0 +1,182 @@
+{
+  "lines": [
+    {
+      "text": "FLORENCE WU",
+      "score": 0.9937627911567688,
+      "box": [
+        117,
+        91,
+        367,
+        121
+      ]
+    },
+    {
+      "text": "CA, USA | +1-340-425-5094 | florence.wu@example.com",
+      "score": 0.9926419258117676,
+      "box": [
+        118,
+        152,
+        647,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9989409446716309,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Integrity Books Financial, 2020.01—2023.01",
+      "score": 0.9759997129440308,
+      "box": [
+        114,
+        287,
+        728,
+        318
+      ]
+    },
+    {
+      "text": "- Designed financial control environments",
+      "score": 0.9923321008682251,
+      "box": [
+        128,
+        315,
+        512,
+        341
+      ]
+    },
+    {
+      "text": "- Managed financial compliance programs",
+      "score": 0.995490550994873,
+      "box": [
+        127,
+        339,
+        517,
+        368
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Integrity Count Co., 2017.012020.01",
+      "score": 0.9873639941215515,
+      "box": [
+        118,
+        383,
+        671,
+        407
+      ]
+    },
+    {
+      "text": "- Reviewed budget performance",
+      "score": 0.9914504289627075,
+      "box": [
+        126,
+        406,
+        426,
+        434
+      ]
+    },
+    {
+      "text": "- Prepared management reports",
+      "score": 0.9831840991973877,
+      "box": [
+        127,
+        431,
+        427,
+        459
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Precise Ledger Services, 2011.092014.09",
+      "score": 0.9959127902984619,
+      "box": [
+        117,
+        472,
+        727,
+        499
+      ]
+    },
+    {
+      "text": "- Compiled financial schedules",
+      "score": 0.9881097078323364,
+      "box": [
+        125,
+        497,
+        414,
+        525
+      ]
+    },
+    {
+      "text": "- Reviewed billing statements",
+      "score": 0.9904329180717468,
+      "box": [
+        127,
+        520,
+        402,
+        551
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9998591542243958,
+      "box": [
+        117,
+        587,
+        267,
+        614
+      ]
+    },
+    {
+      "text": "Professional degree, Accounting and Auditing, Hillcrest University, 2007",
+      "score": 0.9983267188072205,
+      "box": [
+        116,
+        632,
+        781,
+        659
+      ]
+    },
+    {
+      "text": "Bachelor's, Accounting, Willowstone University, 2003",
+      "score": 0.9937313795089722,
+      "box": [
+        117,
+        659,
+        609,
+        683
+      ]
+    },
+    {
+      "text": "• Completed coursework in cash flow analysis",
+      "score": 0.9905988574028015,
+      "box": [
+        133,
+        684,
+        557,
+        708
+      ]
+    },
+    {
+      "text": "• Studied principles of forecast modeling",
+      "score": 0.9885897040367126,
+      "box": [
+        132,
+        706,
+        507,
+        736
+      ]
+    }
+  ],
+  "seconds": 2.867819200269878,
+  "id": "07111",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

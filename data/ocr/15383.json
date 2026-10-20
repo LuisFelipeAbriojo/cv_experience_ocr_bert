@@ -1,0 +1,102 @@
+{
+  "lines": [
+    {
+      "text": "ADRIAN ADKINS",
+      "score": 0.9997354745864868,
+      "box": [
+        117,
+        91,
+        385,
+        122
+      ]
+    },
+    {
+      "text": "GA, USA | +1-598-390-5076 | adrian.adkins@example.com",
+      "score": 0.9928669929504395,
+      "box": [
+        117,
+        150,
+        666,
+        177
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.999708354473114,
+      "box": [
+        117,
+        243,
+        317,
+        270
+      ]
+    },
+    {
+      "text": "Construction Laborers, Crafted Structures, 2018.11-2020.01",
+      "score": 0.9843315482139587,
+      "box": [
+        116,
+        287,
+        677,
+        315
+      ]
+    },
+    {
+      "text": "- Assisted with equipment maintenance",
+      "score": 0.9906438589096069,
+      "box": [
+        126,
+        314,
+        493,
+        341
+      ]
+    },
+    {
+      "text": "- Performed basic carpentry tasks",
+      "score": 0.9718359708786011,
+      "box": [
+        127,
+        339,
+        442,
+        366
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999375939369202,
+      "box": [
+        116,
+        404,
+        268,
+        431
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Industrial Technology, Brightwater High School, 2018",
+      "score": 0.9860066175460815,
+      "box": [
+        115,
+        445,
+        870,
+        476
+      ]
+    },
+    {
+      "text": "•Completed coursework in concrete curing methods",
+      "score": 0.9802320599555969,
+      "box": [
+        132,
+        473,
+        619,
+        500
+      ]
+    }
+  ],
+  "seconds": 1.932523800060153,
+  "id": "15383",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

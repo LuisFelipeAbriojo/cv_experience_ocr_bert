@@ -1,0 +1,102 @@
+{
+  "lines": [
+    {
+      "text": "MARQUEL PITTMAN",
+      "score": 0.9995570778846741,
+      "box": [
+        117,
+        91,
+        444,
+        122
+      ]
+    },
+    {
+      "text": "IN, USA | +1-943-721-8686 | marquel.pittman@example.com",
+      "score": 0.9921736121177673,
+      "box": [
+        117,
+        150,
+        682,
+        177
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9997479319572449,
+      "box": [
+        117,
+        243,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Construction Laborers, PillarWorks, 2022.052023.01",
+      "score": 0.9952542185783386,
+      "box": [
+        118,
+        290,
+        612,
+        314
+      ]
+    },
+    {
+      "text": "- Performed basic sanding and painting",
+      "score": 0.9819818735122681,
+      "box": [
+        125,
+        311,
+        492,
+        344
+      ]
+    },
+    {
+      "text": "- Installed temporary supports",
+      "score": 0.9887310266494751,
+      "box": [
+        127,
+        339,
+        407,
+        368
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999510645866394,
+      "box": [
+        116,
+        404,
+        268,
+        431
+      ]
+    },
+    {
+      "text": "High school graduate/GED, HVAC Technology, Cedarfield High School, 2023",
+      "score": 0.9946722984313965,
+      "box": [
+        116,
+        446,
+        831,
+        475
+      ]
+    },
+    {
+      "text": "Completed coursework in concrete curing methods",
+      "score": 0.9992707371711731,
+      "box": [
+        131,
+        472,
+        619,
+        500
+      ]
+    }
+  ],
+  "seconds": 2.0755087002180517,
+  "id": "19645",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

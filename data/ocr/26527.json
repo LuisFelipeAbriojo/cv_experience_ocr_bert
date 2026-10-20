@@ -1,0 +1,192 @@
+{
+  "lines": [
+    {
+      "text": "TINA CHRISTENSEN",
+      "score": 0.9998717308044434,
+      "box": [
+        118,
+        93,
+        443,
+        120
+      ]
+    },
+    {
+      "text": "MA, USA | +1-566-929-8109 | tina.christensen@example.com",
+      "score": 0.9873082041740417,
+      "box": [
+        114,
+        149,
+        689,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9990910887718201,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, FirmLine Builders, 2020.04—2023.01",
+      "score": 0.9877173900604248,
+      "box": [
+        116,
+        288,
+        669,
+        316
+      ]
+    },
+    {
+      "text": "- Directed project scheduling",
+      "score": 0.9996596574783325,
+      "box": [
+        126,
+        315,
+        393,
+        342
+      ]
+    },
+    {
+      "text": "- Managed subcontractor coordination",
+      "score": 0.988743245601654,
+      "box": [
+        125,
+        339,
+        481,
+        367
+      ]
+    },
+    {
+      "text": "Construction Laborers, TrueStep Builders, 2017.072020.04",
+      "score": 0.9955369234085083,
+      "box": [
+        118,
+        383,
+        675,
+        407
+      ]
+    },
+    {
+      "text": "- Supervised multiple work crews",
+      "score": 0.9978072047233582,
+      "box": [
+        125,
+        408,
+        436,
+        433
+      ]
+    },
+    {
+      "text": "- Reviewed and approved project plans",
+      "score": 0.9763332009315491,
+      "box": [
+        126,
+        431,
+        491,
+        459
+      ]
+    },
+    {
+      "text": "Construction Laborers, BuildWell Contractors, 2014.10—2017.07",
+      "score": 0.9777402281761169,
+      "box": [
+        117,
+        472,
+        708,
+        497
+      ]
+    },
+    {
+      "text": "- Assembled structural frameworks",
+      "score": 0.9831454157829285,
+      "box": [
+        126,
+        499,
+        449,
+        522
+      ]
+    },
+    {
+      "text": "- Installed drywall systems",
+      "score": 0.9865956902503967,
+      "box": [
+        127,
+        521,
+        375,
+        551
+      ]
+    },
+    {
+      "text": "Construction Laborers, NextStep Construction, 2010.04—2013.02",
+      "score": 0.9912095069885254,
+      "box": [
+        118,
+        565,
+        716,
+        589
+      ]
+    },
+    {
+      "text": "- Applied basic sealants and adhesives",
+      "score": 0.9860374927520752,
+      "box": [
+        129,
+        592,
+        490,
+        616
+      ]
+    },
+    {
+      "text": "- Performed basic plumbing assistance",
+      "score": 0.9747824668884277,
+      "box": [
+        127,
+        613,
+        489,
+        643
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999907910823822,
+      "box": [
+        117,
+        681,
+        266,
+        705
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Welding Technology, Stonebridge High School, 2000",
+      "score": 0.9822155833244324,
+      "box": [
+        115,
+        723,
+        866,
+        750
+      ]
+    },
+    {
+      "text": "•Studied principles of insulation techniques",
+      "score": 0.9862968921661377,
+      "box": [
+        131,
+        750,
+        537,
+        774
+      ]
+    }
+  ],
+  "seconds": 2.8857387001626194,
+  "id": "26527",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

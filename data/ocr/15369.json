@@ -1,0 +1,202 @@
+{
+  "lines": [
+    {
+      "text": "ELIZABETH JEFFERSON",
+      "score": 0.9997676014900208,
+      "box": [
+        118,
+        92,
+        516,
+        122
+      ]
+    },
+    {
+      "text": "GA, USA | +1-408-931-6918 | elizabeth.jefferson@example.com",
+      "score": 0.9838752746582031,
+      "box": [
+        117,
+        151,
+        711,
+        177
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9995593428611755,
+      "box": [
+        117,
+        244,
+        316,
+        271
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Open Horizons School, 2020.04—2023.01",
+      "score": 0.9839072823524475,
+      "box": [
+        117,
+        290,
+        846,
+        317
+      ]
+    },
+    {
+      "text": "- Developed system-wide assessment tools",
+      "score": 0.9910039901733398,
+      "box": [
+        127,
+        317,
+        530,
+        341
+      ]
+    },
+    {
+      "text": "- Developed teacher training modules",
+      "score": 0.9911556243896484,
+      "box": [
+        127,
+        340,
+        477,
+        369
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Bright Minds Academy, 2017.06—2020.04",
+      "score": 0.9798685908317566,
+      "box": [
+        116,
+        381,
+        848,
+        411
+      ]
+    },
+    {
+      "text": "- Led curriculum transformation initiatives",
+      "score": 0.9791904091835022,
+      "box": [
+        127,
+        408,
+        509,
+        434
+      ]
+    },
+    {
+      "text": "- Developed system-wide assessment tools",
+      "score": 0.9914742708206177,
+      "box": [
+        128,
+        433,
+        531,
+        459
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Discovery Tree Academy, 2014.082017.06",
+      "score": 0.9960440993309021,
+      "box": [
+        117,
+        472,
+        871,
+        499
+      ]
+    },
+    {
+      "text": "- Maintained academic records",
+      "score": 0.9993951916694641,
+      "box": [
+        126,
+        498,
+        415,
+        524
+      ]
+    },
+    {
+      "text": "- Designed math assessments",
+      "score": 0.997935950756073,
+      "box": [
+        127,
+        521,
+        411,
+        552
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Kind Minds School, 2009.032012.01",
+      "score": 0.9867627620697021,
+      "box": [
+        118,
+        566,
+        808,
+        590
+      ]
+    },
+    {
+      "text": "- Followed standard instructional schedules",
+      "score": 0.9846422076225281,
+      "box": [
+        126,
+        590,
+        529,
+        615
+      ]
+    },
+    {
+      "text": "- Supported standardized testing sessions",
+      "score": 0.9798025488853455,
+      "box": [
+        126,
+        614,
+        518,
+        643
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999135136604309,
+      "box": [
+        117,
+        681,
+        266,
+        705
+      ]
+    },
+    {
+      "text": "Bachelor's, Community Education, Meadowfield University, 2003",
+      "score": 0.9977559447288513,
+      "box": [
+        116,
+        725,
+        714,
+        751
+      ]
+    },
+    {
+      "text": "• Completed coursework in educational skill building",
+      "score": 0.9937381148338318,
+      "box": [
+        134,
+        751,
+        614,
+        775
+      ]
+    },
+    {
+      "text": "•Completed coursework in educational data basics",
+      "score": 0.993360698223114,
+      "box": [
+        132,
+        772,
+        609,
+        802
+      ]
+    }
+  ],
+  "seconds": 4.304860500153154,
+  "id": "15369",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

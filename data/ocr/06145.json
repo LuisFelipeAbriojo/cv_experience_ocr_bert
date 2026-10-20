@@ -1,0 +1,202 @@
+{
+  "lines": [
+    {
+      "text": "ALEX CHASE",
+      "score": 0.9998396635055542,
+      "box": [
+        117,
+        91,
+        333,
+        122
+      ]
+    },
+    {
+      "text": "CA, USA | +1-586-617-9487 | alex.chase@example.com",
+      "score": 0.9808581471443176,
+      "box": [
+        116,
+        150,
+        640,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9992208480834961,
+      "box": [
+        118,
+        245,
+        314,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, ClearBuild Construction, 2019.12—2023.01",
+      "score": 0.9952248930931091,
+      "box": [
+        117,
+        288,
+        726,
+        316
+      ]
+    },
+    {
+      "text": "- Directed training programs for crews",
+      "score": 0.9737641215324402,
+      "box": [
+        126,
+        314,
+        479,
+        343
+      ]
+    },
+    {
+      "text": "- Implemented safety compliance strategies",
+      "score": 0.9959529042243958,
+      "box": [
+        127,
+        339,
+        532,
+        369
+      ]
+    },
+    {
+      "text": "Construction Laborers, PrimeStone Group, 2016.112019.12",
+      "score": 0.9815433025360107,
+      "box": [
+        118,
+        383,
+        681,
+        407
+      ]
+    },
+    {
+      "text": "- Led structural installation projects",
+      "score": 0.9994684457778931,
+      "box": [
+        126,
+        407,
+        452,
+        433
+      ]
+    },
+    {
+      "text": "- Managed construction schedules",
+      "score": 0.9786844253540039,
+      "box": [
+        129,
+        434,
+        447,
+        456
+      ]
+    },
+    {
+      "text": "Construction Laborers, StrongFrame Builders, 2013.102016.11",
+      "score": 0.9849113821983337,
+      "box": [
+        117,
+        472,
+        711,
+        499
+      ]
+    },
+    {
+      "text": "- Performed site leveling tasks",
+      "score": 0.9829933047294617,
+      "box": [
+        127,
+        498,
+        410,
+        523
+      ]
+    },
+    {
+      "text": "- Interpreted blueprints for task execution",
+      "score": 0.9993734955787659,
+      "box": [
+        127,
+        521,
+        509,
+        549
+      ]
+    },
+    {
+      "text": "Construction Laborers, SteadyRise Builders, 2010.082013.10",
+      "score": 0.9829021096229553,
+      "box": [
+        118,
+        566,
+        696,
+        590
+      ]
+    },
+    {
+      "text": "- Set up workstations for crews",
+      "score": 0.9928783774375916,
+      "box": [
+        126,
+        590,
+        418,
+        616
+      ]
+    },
+    {
+      "text": "- Assisted with site cleanup and debris removal",
+      "score": 0.9738412499427795,
+      "box": [
+        126,
+        613,
+        566,
+        642
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999370574951172,
+      "box": [
+        117,
+        681,
+        266,
+        705
+      ]
+    },
+    {
+      "text": "Associate's degree, Industrial Maintenance, Springfield University, 2008",
+      "score": 0.993139922618866,
+      "box": [
+        116,
+        723,
+        781,
+        750
+      ]
+    },
+    {
+      "text": "Studied principles of structural load paths",
+      "score": 0.9751109480857849,
+      "box": [
+        131,
+        749,
+        530,
+        776
+      ]
+    },
+    {
+      "text": "Completed coursework in framing layout",
+      "score": 0.999464213848114,
+      "box": [
+        132,
+        772,
+        522,
+        801
+      ]
+    }
+  ],
+  "seconds": 2.9412058000452816,
+  "id": "06145",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

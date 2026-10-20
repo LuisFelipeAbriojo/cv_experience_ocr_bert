@@ -1,0 +1,112 @@
+{
+  "lines": [
+    {
+      "text": "ANDREW KELLER",
+      "score": 0.9624146819114685,
+      "box": [
+        117,
+        91,
+        411,
+        122
+      ]
+    },
+    {
+      "text": "MO, USA | +1-880-709-5929 | andrew.keller@example.com",
+      "score": 0.9949509501457214,
+      "box": [
+        115,
+        149,
+        670,
+        177
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9997720718383789,
+      "box": [
+        117,
+        243,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Software Developers, Skycore Technologies, 2019.072021.07",
+      "score": 0.9998961091041565,
+      "box": [
+        116,
+        289,
+        702,
+        316
+      ]
+    },
+    {
+      "text": "- Performed basic performance profiling",
+      "score": 0.9843689203262329,
+      "box": [
+        126,
+        313,
+        496,
+        343
+      ]
+    },
+    {
+      "text": "- Updated routing logic",
+      "score": 0.9825170040130615,
+      "box": [
+        128,
+        339,
+        340,
+        368
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999228715896606,
+      "box": [
+        116,
+        404,
+        268,
+        431
+      ]
+    },
+    {
+      "text": "Bachelor's, Windfield University, 2016",
+      "score": 0.9944148659706116,
+      "box": [
+        115,
+        446,
+        468,
+        474
+      ]
+    },
+    {
+      "text": "Completed coursework in programming in C++",
+      "score": 0.9955334663391113,
+      "box": [
+        131,
+        472,
+        580,
+        501
+      ]
+    },
+    {
+      "text": "Completed coursework in software engineering",
+      "score": 0.9948186278343201,
+      "box": [
+        132,
+        496,
+        584,
+        527
+      ]
+    }
+  ],
+  "seconds": 1.8959002997726202,
+  "id": "30651",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

@@ -1,0 +1,112 @@
+{
+  "lines": [
+    {
+      "text": "DANIELLE JENKINS",
+      "score": 0.9738880395889282,
+      "box": [
+        118,
+        91,
+        439,
+        122
+      ]
+    },
+    {
+      "text": "AL, USA | +1-832-398-9695 | danielle.jenkins@example.com",
+      "score": 0.989802360534668,
+      "box": [
+        118,
+        152,
+        679,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.99977046251297,
+      "box": [
+        117,
+        243,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Registered Nurses, BrightWell Health Services, 2021.062023.01",
+      "score": 0.9982949495315552,
+      "box": [
+        117,
+        289,
+        722,
+        316
+      ]
+    },
+    {
+      "text": "- Collected laboratory specimens",
+      "score": 0.9910187721252441,
+      "box": [
+        125,
+        313,
+        435,
+        343
+      ]
+    },
+    {
+      "text": "- Provided patient education materials",
+      "score": 0.987526535987854,
+      "box": [
+        128,
+        340,
+        478,
+        364
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999253749847412,
+      "box": [
+        116,
+        404,
+        268,
+        432
+      ]
+    },
+    {
+      "text": "Bachelor's, Health and Wellness, Brightfield University, 2020",
+      "score": 0.9968593716621399,
+      "box": [
+        114,
+        445,
+        677,
+        476
+      ]
+    },
+    {
+      "text": "Studied principles of health screening",
+      "score": 0.9987493753433228,
+      "box": [
+        128,
+        472,
+        495,
+        501
+      ]
+    },
+    {
+      "text": "•Studied principles of emergency nursing",
+      "score": 0.9843136668205261,
+      "box": [
+        131,
+        498,
+        519,
+        527
+      ]
+    }
+  ],
+  "seconds": 1.88223410025239,
+  "id": "00430",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

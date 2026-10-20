@@ -1,0 +1,112 @@
+{
+  "lines": [
+    {
+      "text": "KEISHA BEST",
+      "score": 0.9998365640640259,
+      "box": [
+        116,
+        89,
+        345,
+        123
+      ]
+    },
+    {
+      "text": "AR, USA | +1-443-666-5931 | keisha.best@example.com",
+      "score": 0.9898730516433716,
+      "box": [
+        117,
+        149,
+        646,
+        177
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9992377758026123,
+      "box": [
+        116,
+        243,
+        317,
+        270
+      ]
+    },
+    {
+      "text": "Registered Nurses, LifeWay Health Services, 2021.06—2021.07",
+      "score": 0.984356701374054,
+      "box": [
+        116,
+        288,
+        703,
+        315
+      ]
+    },
+    {
+      "text": "- Monitored patient skin condition",
+      "score": 0.9983167052268982,
+      "box": [
+        124,
+        312,
+        438,
+        341
+      ]
+    },
+    {
+      "text": "- Recorded shift handoff notes",
+      "score": 0.9977792501449585,
+      "box": [
+        126,
+        339,
+        410,
+        364
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999209642410278,
+      "box": [
+        116,
+        404,
+        268,
+        431
+      ]
+    },
+    {
+      "text": "Associate's degree, Health Systems, Brookhaven University, 2012",
+      "score": 0.9917953014373779,
+      "box": [
+        116,
+        447,
+        731,
+        474
+      ]
+    },
+    {
+      "text": "•Studied principles of pharmacology",
+      "score": 0.9846450686454773,
+      "box": [
+        128,
+        472,
+        473,
+        501
+      ]
+    },
+    {
+      "text": "Studied principles of ostomy care",
+      "score": 0.9683358669281006,
+      "box": [
+        131,
+        497,
+        458,
+        527
+      ]
+    }
+  ],
+  "seconds": 1.792687399778515,
+  "id": "02343",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

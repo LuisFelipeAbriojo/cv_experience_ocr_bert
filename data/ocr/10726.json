@@ -1,0 +1,102 @@
+{
+  "lines": [
+    {
+      "text": "CEDRIC WILEY",
+      "score": 0.999825656414032,
+      "box": [
+        117,
+        89,
+        362,
+        123
+      ]
+    },
+    {
+      "text": "CO, USA | +1-215-743-4315 | cedric.wiley@example.com",
+      "score": 0.9819265007972717,
+      "box": [
+        117,
+        150,
+        651,
+        177
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9996973872184753,
+      "box": [
+        117,
+        243,
+        317,
+        270
+      ]
+    },
+    {
+      "text": "Construction Laborers, WorkForce Builders, 2019.07-2020.08",
+      "score": 0.9822648763656616,
+      "box": [
+        116,
+        287,
+        692,
+        315
+      ]
+    },
+    {
+      "text": "- Assisted with concrete pouring",
+      "score": 0.985512912273407,
+      "box": [
+        124,
+        312,
+        426,
+        343
+      ]
+    },
+    {
+      "text": "- Moved equipment between work zones",
+      "score": 0.9904009699821472,
+      "box": [
+        126,
+        338,
+        506,
+        367
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999385476112366,
+      "box": [
+        116,
+        404,
+        268,
+        431
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Construction Quality Control, Golden Meadow High School, 2013",
+      "score": 0.9958570599555969,
+      "box": [
+        116,
+        446,
+        978,
+        475
+      ]
+    },
+    {
+      "text": "Completed coursework in basic painting techniques",
+      "score": 0.9949599504470825,
+      "box": [
+        131,
+        472,
+        625,
+        501
+      ]
+    }
+  ],
+  "seconds": 2.044131999835372,
+  "id": "10726",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

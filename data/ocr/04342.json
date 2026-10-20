@@ -1,0 +1,152 @@
+{
+  "lines": [
+    {
+      "text": "KYLE LIM",
+      "score": 0.9984451532363892,
+      "box": [
+        116,
+        91,
+        275,
+        122
+      ]
+    },
+    {
+      "text": "CA, USA | +1-858-901-9422 | kyle.lim@example.com",
+      "score": 0.9773309230804443,
+      "box": [
+        116,
+        150,
+        611,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9991324543952942,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, LifeNest Nursing Services, 2020.08—2023.01",
+      "score": 0.9822987914085388,
+      "box": [
+        115,
+        287,
+        716,
+        318
+      ]
+    },
+    {
+      "text": "- Implemented clinical decision support systems",
+      "score": 0.9993036389350891,
+      "box": [
+        126,
+        315,
+        571,
+        341
+      ]
+    },
+    {
+      "text": "- Established nursing performance metrics",
+      "score": 0.9702320694923401,
+      "box": [
+        126,
+        338,
+        521,
+        368
+      ]
+    },
+    {
+      "text": "Registered Nurses, Compassion Care Services, 2017.032019.08",
+      "score": 0.999466598033905,
+      "box": [
+        117,
+        382,
+        729,
+        409
+      ]
+    },
+    {
+      "text": "- Collected laboratory specimens",
+      "score": 0.9990016222000122,
+      "box": [
+        126,
+        407,
+        434,
+        434
+      ]
+    },
+    {
+      "text": "- Performed wound dressing changes",
+      "score": 0.9833493828773499,
+      "box": [
+        126,
+        429,
+        476,
+        460
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9976096749305725,
+      "box": [
+        116,
+        494,
+        267,
+        521
+      ]
+    },
+    {
+      "text": "Master's, Health Management, Clearwater University, 2012",
+      "score": 0.9886895418167114,
+      "box": [
+        114,
+        539,
+        665,
+        567
+      ]
+    },
+    {
+      "text": "Bachelor's, Health Services, Rolling Hills University, 2010",
+      "score": 0.9870231747627258,
+      "box": [
+        116,
+        566,
+        648,
+        591
+      ]
+    },
+    {
+      "text": "•Completed coursework in therapeutic exercise basics",
+      "score": 0.9904794096946716,
+      "box": [
+        128,
+        591,
+        642,
+        619
+      ]
+    },
+    {
+      "text": "Studied fundamentals of respiratory nursing",
+      "score": 0.9951044917106628,
+      "box": [
+        130,
+        614,
+        552,
+        644
+      ]
+    }
+  ],
+  "seconds": 2.6538805002346635,
+  "id": "04342",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

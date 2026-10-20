@@ -1,0 +1,142 @@
+{
+  "lines": [
+    {
+      "text": "DOMINICK PENNINGTON",
+      "score": 0.9995309710502625,
+      "box": [
+        118,
+        91,
+        518,
+        121
+      ]
+    },
+    {
+      "text": "CA, USA | +1-272-390-2821 | dominick.pennington@example.com",
+      "score": 0.9921374917030334,
+      "box": [
+        116,
+        150,
+        732,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9997704029083252,
+      "box": [
+        117,
+        243,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Construction Laborers, Precision Build Group, 2020.06—2023.01",
+      "score": 0.9845700263977051,
+      "box": [
+        116,
+        288,
+        709,
+        316
+      ]
+    },
+    {
+      "text": "- Directed project scheduling",
+      "score": 0.9877657890319824,
+      "box": [
+        124,
+        312,
+        394,
+        343
+      ]
+    },
+    {
+      "text": "- Directed site safety audits",
+      "score": 0.9828583002090454,
+      "box": [
+        126,
+        339,
+        382,
+        367
+      ]
+    },
+    {
+      "text": "Construction Laborers, SolidWorks Builders, 2017.112020.06",
+      "score": 0.9985021352767944,
+      "box": [
+        117,
+        381,
+        696,
+        408
+      ]
+    },
+    {
+      "text": "- Dug trenches for utility lines",
+      "score": 0.9997840523719788,
+      "box": [
+        126,
+        409,
+        399,
+        433
+      ]
+    },
+    {
+      "text": "- Moved equipment between work zones",
+      "score": 0.975031316280365,
+      "box": [
+        127,
+        432,
+        504,
+        457
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999281764030457,
+      "box": [
+        117,
+        494,
+        267,
+        521
+      ]
+    },
+    {
+      "text": "Some college (no degree), Carpentry, Brighton University, 2018",
+      "score": 0.998153805732727,
+      "box": [
+        116,
+        539,
+        706,
+        567
+      ]
+    },
+    {
+      "text": "•Studied principles of construction workflow analysis",
+      "score": 0.9878981113433838,
+      "box": [
+        130,
+        567,
+        621,
+        591
+      ]
+    },
+    {
+      "text": "• Studied principles of site preparation",
+      "score": 0.9822769165039062,
+      "box": [
+        132,
+        592,
+        485,
+        616
+      ]
+    }
+  ],
+  "seconds": 2.6464118002913892,
+  "id": "06407",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

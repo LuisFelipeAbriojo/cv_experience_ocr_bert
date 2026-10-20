@@ -1,0 +1,172 @@
+{
+  "lines": [
+    {
+      "text": "DUSTIN LEWIS",
+      "score": 0.9998297095298767,
+      "box": [
+        117,
+        91,
+        358,
+        122
+      ]
+    },
+    {
+      "text": "TN, USA |+1-645-284-9361 |dustin.lewis@example.com",
+      "score": 0.9841613173484802,
+      "box": [
+        119,
+        151,
+        646,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9991553425788879,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, Clearline Builders, 2020.042023.01",
+      "score": 0.9977031350135803,
+      "box": [
+        118,
+        290,
+        670,
+        314
+      ]
+    },
+    {
+      "text": "- Reviewed engineering drawings",
+      "score": 0.994238555431366,
+      "box": [
+        126,
+        315,
+        438,
+        342
+      ]
+    },
+    {
+      "text": "- Implemented workflow optimization",
+      "score": 0.9704591035842896,
+      "box": [
+        127,
+        339,
+        467,
+        367
+      ]
+    },
+    {
+      "text": "Construction Laborers, AnchorWorks Construction, 2015.022017.12",
+      "score": 0.9909505844116211,
+      "box": [
+        118,
+        383,
+        756,
+        407
+      ]
+    },
+    {
+      "text": "- Installed mechanical supports",
+      "score": 0.9991557598114014,
+      "box": [
+        125,
+        407,
+        418,
+        433
+      ]
+    },
+    {
+      "text": "- Measured and cut advanced materials",
+      "score": 0.9992732405662537,
+      "box": [
+        127,
+        432,
+        496,
+        456
+      ]
+    },
+    {
+      "text": "Construction Laborers, PrimeBuild Services, 2011.092014.07",
+      "score": 0.9988417029380798,
+      "box": [
+        119,
+        473,
+        695,
+        497
+      ]
+    },
+    {
+      "text": "- Followed safety procedures on site",
+      "score": 0.9847489595413208,
+      "box": [
+        127,
+        496,
+        465,
+        525
+      ]
+    },
+    {
+      "text": "- Prepared scaffolding platforms",
+      "score": 0.9908100366592407,
+      "box": [
+        128,
+        521,
+        426,
+        551
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999525547027588,
+      "box": [
+        118,
+        588,
+        266,
+        612
+      ]
+    },
+    {
+      "text": "Some college (no degree), Plumbing Technology, Seabreeze University, 2008",
+      "score": 0.9915311336517334,
+      "box": [
+        117,
+        631,
+        836,
+        658
+      ]
+    },
+    {
+      "text": "Studied fundamentals of site preparation planning",
+      "score": 0.9830220937728882,
+      "box": [
+        128,
+        655,
+        609,
+        686
+      ]
+    },
+    {
+      "text": "Completed coursework in construction cost basics",
+      "score": 0.9917736649513245,
+      "box": [
+        132,
+        680,
+        611,
+        709
+      ]
+    }
+  ],
+  "seconds": 2.760578399989754,
+  "id": "49268",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

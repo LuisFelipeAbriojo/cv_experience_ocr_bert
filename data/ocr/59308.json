@@ -1,0 +1,172 @@
+{
+  "lines": [
+    {
+      "text": "OLIVIA PONCE",
+      "score": 0.999779224395752,
+      "box": [
+        117,
+        91,
+        357,
+        122
+      ]
+    },
+    {
+      "text": "WA, USA | +1-806-423-3762 | olivia.ponce@example.com",
+      "score": 0.9949200749397278,
+      "box": [
+        116,
+        149,
+        655,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9991362690925598,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Discovery Grove School, 2020.06—2023.01",
+      "score": 0.9943702220916748,
+      "box": [
+        115,
+        287,
+        862,
+        319
+      ]
+    },
+    {
+      "text": "- Designed curriculum frameworks for grade-level instruction",
+      "score": 0.9826898574829102,
+      "box": [
+        127,
+        317,
+        685,
+        341
+      ]
+    },
+    {
+      "text": "- Developed long-term instructional strategies",
+      "score": 0.9940225481987,
+      "box": [
+        127,
+        340,
+        550,
+        368
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Little Valley School, 2017.112020.06",
+      "score": 0.9846929907798767,
+      "box": [
+        116,
+        381,
+        815,
+        409
+      ]
+    },
+    {
+      "text": "- Administered standardized assessments",
+      "score": 0.997982919216156,
+      "box": [
+        126,
+        409,
+        516,
+        432
+      ]
+    },
+    {
+      "text": "- Developed science lesson plans",
+      "score": 0.9665051698684692,
+      "box": [
+        126,
+        432,
+        441,
+        458
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Sunny Ridge School, 2015.032017.11",
+      "score": 0.9966166615486145,
+      "box": [
+        116,
+        471,
+        827,
+        501
+      ]
+    },
+    {
+      "text": "- Supported individual student learning activities",
+      "score": 0.9795128703117371,
+      "box": [
+        126,
+        498,
+        572,
+        523
+      ]
+    },
+    {
+      "text": "- Tracked student participation",
+      "score": 0.9818092584609985,
+      "box": [
+        128,
+        521,
+        411,
+        551
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999385476112366,
+      "box": [
+        117,
+        587,
+        267,
+        614
+      ]
+    },
+    {
+      "text": "Bachelor's, Liberal Arts, Clearview University, 2018",
+      "score": 0.9926402568817139,
+      "box": [
+        117,
+        632,
+        591,
+        657
+      ]
+    },
+    {
+      "text": "•Completed coursework in foundational pedagogy practices",
+      "score": 0.9914485216140747,
+      "box": [
+        130,
+        658,
+        691,
+        685
+      ]
+    },
+    {
+      "text": "•Studied principles of academic instruction",
+      "score": 0.9750232100486755,
+      "box": [
+        131,
+        682,
+        533,
+        707
+      ]
+    }
+  ],
+  "seconds": 2.7181746000424027,
+  "id": "59308",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

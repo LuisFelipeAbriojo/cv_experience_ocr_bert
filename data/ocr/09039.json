@@ -1,0 +1,212 @@
+{
+  "lines": [
+    {
+      "text": "DAVID NORMAN",
+      "score": 0.9993630051612854,
+      "box": [
+        117,
+        91,
+        382,
+        121
+      ]
+    },
+    {
+      "text": "CA, USA | +1-453-845-1940 | david.norman@example.com",
+      "score": 0.9887428879737854,
+      "box": [
+        116,
+        150,
+        668,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9988424181938171,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Openframe Labs, 2020.01—2023.01",
+      "score": 0.993776261806488,
+      "box": [
+        116,
+        290,
+        651,
+        317
+      ]
+    },
+    {
+      "text": "- Designed software development workflows",
+      "score": 0.9838641285896301,
+      "box": [
+        126,
+        312,
+        539,
+        345
+      ]
+    },
+    {
+      "text": "- Designed observability platforms",
+      "score": 0.9960511326789856,
+      "box": [
+        128,
+        339,
+        444,
+        370
+      ]
+    },
+    {
+      "text": "Software Developers, Cloudpath Digital, 2017.012020.01",
+      "score": 0.9987396001815796,
+      "box": [
+        116,
+        381,
+        654,
+        410
+      ]
+    },
+    {
+      "text": "- Implemented disaster recovery plans",
+      "score": 0.9998006820678711,
+      "box": [
+        125,
+        407,
+        483,
+        435
+      ]
+    },
+    {
+      "text": "- Designed event-driven architectures",
+      "score": 0.9997328519821167,
+      "box": [
+        129,
+        434,
+        476,
+        457
+      ]
+    },
+    {
+      "text": "Software Developers, Cleargrid Software, 2014.012017.01",
+      "score": 0.9847790598869324,
+      "box": [
+        116,
+        471,
+        668,
+        499
+      ]
+    },
+    {
+      "text": "- Implemented error handling frameworks",
+      "score": 0.9908579587936401,
+      "box": [
+        125,
+        497,
+        512,
+        525
+      ]
+    },
+    {
+      "text": "- Optimized database queries",
+      "score": 0.9994982481002808,
+      "box": [
+        128,
+        522,
+        403,
+        550
+      ]
+    },
+    {
+      "text": "Software Developers, Flowpath Systems, 2011.012014.01",
+      "score": 0.990667998790741,
+      "box": [
+        117,
+        565,
+        666,
+        592
+      ]
+    },
+    {
+      "text": "- Handled feature toggles",
+      "score": 0.9962627291679382,
+      "box": [
+        127,
+        589,
+        366,
+        619
+      ]
+    },
+    {
+      "text": "- Assisted with system documentation",
+      "score": 0.9938143491744995,
+      "box": [
+        127,
+        614,
+        479,
+        642
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9998866319656372,
+      "box": [
+        117,
+        681,
+        266,
+        705
+      ]
+    },
+    {
+      "text": "Master's, Silverfield University, 2009",
+      "score": 0.9820446372032166,
+      "box": [
+        114,
+        723,
+        454,
+        750
+      ]
+    },
+    {
+      "text": "Bachelor's, Summit University, 2007",
+      "score": 0.9751973748207092,
+      "box": [
+        117,
+        750,
+        452,
+        774
+      ]
+    },
+    {
+      "text": "•Completed coursework in quality assurance",
+      "score": 0.979935884475708,
+      "box": [
+        129,
+        773,
+        554,
+        801
+      ]
+    },
+    {
+      "text": "•Completed coursework in requirements engineering",
+      "score": 0.9892086386680603,
+      "box": [
+        131,
+        798,
+        626,
+        828
+      ]
+    }
+  ],
+  "seconds": 2.668339299969375,
+  "id": "09039",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

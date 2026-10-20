@@ -1,0 +1,172 @@
+{
+  "lines": [
+    {
+      "text": "MEGHAN MILLS",
+      "score": 0.9996461868286133,
+      "box": [
+        117,
+        92,
+        375,
+        122
+      ]
+    },
+    {
+      "text": "MI, USA | +1-257-732-6161 | meghan.mills@example.com",
+      "score": 0.9832979440689087,
+      "box": [
+        116,
+        150,
+        657,
+        177
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9947653412818909,
+      "box": [
+        117,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, GentleHands Health, 2020.08—2023.01",
+      "score": 0.9957289695739746,
+      "box": [
+        116,
+        288,
+        662,
+        316
+      ]
+    },
+    {
+      "text": "- Directed clinical quality improvement initiatives",
+      "score": 0.9909907579421997,
+      "box": [
+        125,
+        313,
+        574,
+        343
+      ]
+    },
+    {
+      "text": "- Led clinical governance efforts",
+      "score": 0.9910515546798706,
+      "box": [
+        127,
+        339,
+        426,
+        367
+      ]
+    },
+    {
+      "text": "Registered Nurses, Caring Way Care, 2018.03—2020.08",
+      "score": 0.9896799921989441,
+      "box": [
+        116,
+        381,
+        636,
+        409
+      ]
+    },
+    {
+      "text": "- Managed intravenous therapy",
+      "score": 0.9978345632553101,
+      "box": [
+        124,
+        404,
+        420,
+        436
+      ]
+    },
+    {
+      "text": "- Supervised junior nursing staff",
+      "score": 0.9842566251754761,
+      "box": [
+        128,
+        433,
+        424,
+        459
+      ]
+    },
+    {
+      "text": "Registered Nurses, EverCare Health Services, 2012.122015.05",
+      "score": 0.9921508431434631,
+      "box": [
+        118,
+        473,
+        715,
+        497
+      ]
+    },
+    {
+      "text": "- Administered prescribed medications",
+      "score": 0.9921907782554626,
+      "box": [
+        128,
+        499,
+        483,
+        523
+      ]
+    },
+    {
+      "text": "- Assisted with physical therapy exercises",
+      "score": 0.9781854748725891,
+      "box": [
+        128,
+        521,
+        514,
+        550
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.99994957447052,
+      "box": [
+        118,
+        588,
+        266,
+        612
+      ]
+    },
+    {
+      "text": "Associate's degree, Nursing Studies, Riverstone University, 2010",
+      "score": 0.9917675256729126,
+      "box": [
+        117,
+        631,
+        718,
+        658
+      ]
+    },
+    {
+      "text": "• Completed coursework in laboratory values interpretation",
+      "score": 0.9898223876953125,
+      "box": [
+        131,
+        658,
+        676,
+        683
+      ]
+    },
+    {
+      "text": "•Completed coursework in patient positioning",
+      "score": 0.9882806539535522,
+      "box": [
+        132,
+        680,
+        558,
+        711
+      ]
+    }
+  ],
+  "seconds": 2.634567799977958,
+  "id": "26943",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

@@ -1,0 +1,152 @@
+{
+  "lines": [
+    {
+      "text": "SEAN HUBBARD",
+      "score": 0.9975668787956238,
+      "box": [
+        116,
+        90,
+        388,
+        122
+      ]
+    },
+    {
+      "text": "WA, USA | +1-878-455-5459 | sean.hubbard@example.com",
+      "score": 0.9763864278793335,
+      "box": [
+        118,
+        152,
+        672,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.999102771282196,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Golden Oak Academy, 2020.07-2022.04",
+      "score": 0.9886209964752197,
+      "box": [
+        115,
+        287,
+        843,
+        318
+      ]
+    },
+    {
+      "text": "- Designed instructional accountability systems",
+      "score": 0.993679940700531,
+      "box": [
+        125,
+        314,
+        563,
+        343
+      ]
+    },
+    {
+      "text": "- Directed instructional planning processes",
+      "score": 0.97292560338974,
+      "box": [
+        126,
+        338,
+        523,
+        369
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Kind Futures School, 2018.02—2019.11",
+      "score": 0.9854989051818848,
+      "box": [
+        117,
+        382,
+        825,
+        409
+      ]
+    },
+    {
+      "text": "- Organized classroom learning resources",
+      "score": 0.9846361875534058,
+      "box": [
+        126,
+        408,
+        517,
+        434
+      ]
+    },
+    {
+      "text": "- Managed classroom supplies",
+      "score": 0.9899023771286011,
+      "box": [
+        126,
+        431,
+        414,
+        459
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999596476554871,
+      "box": [
+        116,
+        494,
+        268,
+        521
+      ]
+    },
+    {
+      "text": "Master's, Community Education, Brightwater University, 2014",
+      "score": 0.9856133460998535,
+      "box": [
+        116,
+        542,
+        684,
+        566
+      ]
+    },
+    {
+      "text": "Bachelor's, Teaching Foundations, Southridge University, 2012",
+      "score": 0.9888214468955994,
+      "box": [
+        117,
+        568,
+        700,
+        592
+      ]
+    },
+    {
+      "text": "• Studied principles of classroom learning outcomes",
+      "score": 0.9820675849914551,
+      "box": [
+        129,
+        592,
+        614,
+        618
+      ]
+    },
+    {
+      "text": "•Completed coursework in educational communication skills",
+      "score": 0.9873350858688354,
+      "box": [
+        131,
+        615,
+        693,
+        643
+      ]
+    }
+  ],
+  "seconds": 2.5631111999973655,
+  "id": "58135",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

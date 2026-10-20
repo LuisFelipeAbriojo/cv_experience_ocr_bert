@@ -1,0 +1,112 @@
+{
+  "lines": [
+    {
+      "text": "NELLY ESTES",
+      "score": 0.999481201171875,
+      "box": [
+        116,
+        91,
+        346,
+        122
+      ]
+    },
+    {
+      "text": "WA, USA | +1-247-232-1435 | nelly.estes@example.com",
+      "score": 0.9949979782104492,
+      "box": [
+        115,
+        149,
+        644,
+        177
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9997448325157166,
+      "box": [
+        117,
+        243,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Caring Start School, 2021.052023.01",
+      "score": 0.9996903538703918,
+      "box": [
+        117,
+        289,
+        817,
+        316
+      ]
+    },
+    {
+      "text": "- Reviewed homework assignments",
+      "score": 0.9986364841461182,
+      "box": [
+        126,
+        314,
+        457,
+        340
+      ]
+    },
+    {
+      "text": "- Conducted spelling practice",
+      "score": 0.9942234754562378,
+      "box": [
+        127,
+        339,
+        400,
+        368
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999521970748901,
+      "box": [
+        116,
+        404,
+        268,
+        431
+      ]
+    },
+    {
+      "text": "Bachelor's, Developmental Studies, Brightwood University, 2023",
+      "score": 0.9927335977554321,
+      "box": [
+        117,
+        448,
+        712,
+        475
+      ]
+    },
+    {
+      "text": "Completed coursework in academic monitoring strategies",
+      "score": 0.9906389713287354,
+      "box": [
+        129,
+        472,
+        678,
+        501
+      ]
+    },
+    {
+      "text": "Studied fundamentals of language arts education",
+      "score": 0.9930498600006104,
+      "box": [
+        131,
+        496,
+        603,
+        525
+      ]
+    }
+  ],
+  "seconds": 2.13733350019902,
+  "id": "58650",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

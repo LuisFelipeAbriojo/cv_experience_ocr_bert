@@ -1,0 +1,142 @@
+{
+  "lines": [
+    {
+      "text": "CHERIE SCHMITT",
+      "score": 0.9997553825378418,
+      "box": [
+        118,
+        91,
+        402,
+        122
+      ]
+    },
+    {
+      "text": "AZ, USA | +1-646-595-9821 | cherie.schmitt@example.com",
+      "score": 0.9828055500984192,
+      "box": [
+        118,
+        152,
+        667,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9906715750694275,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Little Horizons School, 2020.02—2022.02",
+      "score": 0.9890431761741638,
+      "box": [
+        117,
+        289,
+        840,
+        316
+      ]
+    },
+    {
+      "text": "- Directed content standardization",
+      "score": 0.9994749426841736,
+      "box": [
+        126,
+        315,
+        442,
+        340
+      ]
+    },
+    {
+      "text": "- Designed learning analytics frameworks",
+      "score": 0.9860838055610657,
+      "box": [
+        126,
+        339,
+        511,
+        367
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Learning Corner Academy, 2016.072018.08",
+      "score": 0.9911494851112366,
+      "box": [
+        116,
+        381,
+        881,
+        411
+      ]
+    },
+    {
+      "text": "- Reviewed curriculum content",
+      "score": 0.9962595105171204,
+      "box": [
+        126,
+        407,
+        413,
+        432
+      ]
+    },
+    {
+      "text": "- Prepared daily lesson plans aligned with curriculum guidelines",
+      "score": 0.9969543218612671,
+      "box": [
+        126,
+        430,
+        717,
+        460
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.99991774559021,
+      "box": [
+        117,
+        494,
+        267,
+        521
+      ]
+    },
+    {
+      "text": "Bachelor's, Learning and Development, Willowgate University, 2013",
+      "score": 0.9959186315536499,
+      "box": [
+        117,
+        542,
+        743,
+        566
+      ]
+    },
+    {
+      "text": "• Completed coursework in child development fundamentals",
+      "score": 0.9932344555854797,
+      "box": [
+        133,
+        567,
+        688,
+        591
+      ]
+    },
+    {
+      "text": "• Completed coursework in educational skill building",
+      "score": 0.9848449230194092,
+      "box": [
+        132,
+        591,
+        614,
+        617
+      ]
+    }
+  ],
+  "seconds": 2.9236796000041068,
+  "id": "01684",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

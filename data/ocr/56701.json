@@ -1,0 +1,112 @@
+{
+  "lines": [
+    {
+      "text": "JAMES LOGAN",
+      "score": 0.999910295009613,
+      "box": [
+        115,
+        89,
+        364,
+        123
+      ]
+    },
+    {
+      "text": "VA, USA | +1-629-667-6206 | james.logan@example.com",
+      "score": 0.9897282719612122,
+      "box": [
+        117,
+        149,
+        651,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.999755322933197,
+      "box": [
+        117,
+        243,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Morning Star School, 2019.04—2020.11",
+      "score": 0.9912205934524536,
+      "box": [
+        115,
+        286,
+        827,
+        317
+      ]
+    },
+    {
+      "text": "- Recorded test results",
+      "score": 0.9848194718360901,
+      "box": [
+        125,
+        314,
+        339,
+        340
+      ]
+    },
+    {
+      "text": "- Supported individual student learning activities",
+      "score": 0.9789348840713501,
+      "box": [
+        128,
+        341,
+        571,
+        365
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999443888664246,
+      "box": [
+        116,
+        404,
+        268,
+        431
+      ]
+    },
+    {
+      "text": "Bachelor's, Youth Development, Wildflower University, 2012",
+      "score": 0.9898790121078491,
+      "box": [
+        115,
+        446,
+        674,
+        476
+      ]
+    },
+    {
+      "text": "Studied principles of learner diversity",
+      "score": 0.9954338073730469,
+      "box": [
+        129,
+        472,
+        489,
+        500
+      ]
+    },
+    {
+      "text": "Completed coursework in literacy development",
+      "score": 0.9899276494979858,
+      "box": [
+        132,
+        497,
+        582,
+        526
+      ]
+    }
+  ],
+  "seconds": 2.0364659996703267,
+  "id": "56701",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

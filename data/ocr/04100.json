@@ -1,0 +1,152 @@
+{
+  "lines": [
+    {
+      "text": "GREGORY VENTURA",
+      "score": 0.9755439162254333,
+      "box": [
+        118,
+        91,
+        458,
+        122
+      ]
+    },
+    {
+      "text": "CA, USA | +1-518-967-6496 | gregory.ventura@example.com",
+      "score": 0.9927394390106201,
+      "box": [
+        118,
+        152,
+        687,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9997285008430481,
+      "box": [
+        117,
+        243,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Software Developers, Softgrid Tech, 2019.072022.05",
+      "score": 0.9996457099914551,
+      "box": [
+        116,
+        289,
+        621,
+        316
+      ]
+    },
+    {
+      "text": "- Led architectural reviews",
+      "score": 0.9996032118797302,
+      "box": [
+        126,
+        315,
+        374,
+        340
+      ]
+    },
+    {
+      "text": "- Led database design efforts",
+      "score": 0.998249888420105,
+      "box": [
+        127,
+        339,
+        400,
+        368
+      ]
+    },
+    {
+      "text": "Software Developers, Softgrid Tech, 2015.092018.08",
+      "score": 0.9894170165061951,
+      "box": [
+        115,
+        379,
+        623,
+        410
+      ]
+    },
+    {
+      "text": "- Updated localization files",
+      "score": 0.9684632420539856,
+      "box": [
+        127,
+        408,
+        374,
+        432
+      ]
+    },
+    {
+      "text": "- Performed basic performance profiling",
+      "score": 0.9793209433555603,
+      "box": [
+        127,
+        430,
+        495,
+        460
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999144077301025,
+      "box": [
+        116,
+        494,
+        267,
+        521
+      ]
+    },
+    {
+      "text": "Master's, Windridge University, 2008",
+      "score": 0.9962231516838074,
+      "box": [
+        114,
+        539,
+        457,
+        567
+      ]
+    },
+    {
+      "text": "Bachelor's, Cedarview University, 2006",
+      "score": 0.9891175627708435,
+      "box": [
+        117,
+        567,
+        480,
+        591
+      ]
+    },
+    {
+      "text": "•Studied principles of software usability",
+      "score": 0.9883258938789368,
+      "box": [
+        129,
+        591,
+        502,
+        617
+      ]
+    },
+    {
+      "text": "Studied fundamentals of deployment pipelines",
+      "score": 0.994907796382904,
+      "box": [
+        129,
+        614,
+        575,
+        643
+      ]
+    }
+  ],
+  "seconds": 2.1952971001155674,
+  "id": "04100",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

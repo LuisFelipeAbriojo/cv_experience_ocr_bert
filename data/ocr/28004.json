@@ -1,0 +1,112 @@
+{
+  "lines": [
+    {
+      "text": "JADA GILL",
+      "score": 0.9996591210365295,
+      "box": [
+        113,
+        87,
+        295,
+        124
+      ]
+    },
+    {
+      "text": "MI, USA | +1-488-984-3812 | jada.gill@example.com",
+      "score": 0.9783820509910583,
+      "box": [
+        115,
+        149,
+        607,
+        177
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9997683167457581,
+      "box": [
+        117,
+        243,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Software Developers, Codecrest Systems, 2022.02—2023.01",
+      "score": 0.9956731200218201,
+      "box": [
+        115,
+        287,
+        676,
+        315
+      ]
+    },
+    {
+      "text": "- Performed code formatting",
+      "score": 0.9994728565216064,
+      "box": [
+        126,
+        313,
+        390,
+        341
+      ]
+    },
+    {
+      "text": "- Reviewed test coverage reports",
+      "score": 0.9928336143493652,
+      "box": [
+        126,
+        338,
+        436,
+        367
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999253749847412,
+      "box": [
+        116,
+        404,
+        268,
+        431
+      ]
+    },
+    {
+      "text": "Bachelor's, Aspen Grove University, 2023",
+      "score": 0.9879888296127319,
+      "box": [
+        116,
+        447,
+        503,
+        474
+      ]
+    },
+    {
+      "text": "• Studied principles of ACID properties",
+      "score": 0.9782114028930664,
+      "box": [
+        130,
+        475,
+        490,
+        498
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of client-side development",
+      "score": 0.9861142635345459,
+      "box": [
+        132,
+        499,
+        599,
+        523
+      ]
+    }
+  ],
+  "seconds": 1.8169672000221908,
+  "id": "28004",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

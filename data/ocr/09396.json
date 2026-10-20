@@ -1,0 +1,112 @@
+{
+  "lines": [
+    {
+      "text": "CYNTHIA COLE",
+      "score": 0.9997799396514893,
+      "box": [
+        117,
+        89,
+        369,
+        123
+      ]
+    },
+    {
+      "text": "CA, USA | +1-976-658-7599 | cynthia.cole@example.com",
+      "score": 0.9862308502197266,
+      "box": [
+        117,
+        150,
+        651,
+        177
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9997355937957764,
+      "box": [
+        117,
+        243,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Software Developers, Netline Technologies, 2022.04—2022.07",
+      "score": 0.9880884885787964,
+      "box": [
+        115,
+        288,
+        692,
+        316
+      ]
+    },
+    {
+      "text": "- Fixed software bugs identified through testing",
+      "score": 0.9925530552864075,
+      "box": [
+        125,
+        312,
+        562,
+        343
+      ]
+    },
+    {
+      "text": "- Assisted with container setup",
+      "score": 0.9772084951400757,
+      "box": [
+        126,
+        336,
+        414,
+        368
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999262690544128,
+      "box": [
+        116,
+        404,
+        268,
+        431
+      ]
+    },
+    {
+      "text": "Bachelor's, Ironwood University, 2014",
+      "score": 0.9895785450935364,
+      "box": [
+        115,
+        446,
+        469,
+        474
+      ]
+    },
+    {
+      "text": "Studied principles of event-driven architecture",
+      "score": 0.9912881851196289,
+      "box": [
+        129,
+        472,
+        573,
+        500
+      ]
+    },
+    {
+      "text": "Completed coursework in calculus for computing",
+      "score": 0.9937159419059753,
+      "box": [
+        132,
+        497,
+        597,
+        526
+      ]
+    }
+  ],
+  "seconds": 2.0501043000258505,
+  "id": "09396",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

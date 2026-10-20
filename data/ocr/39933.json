@@ -1,0 +1,122 @@
+{
+  "lines": [
+    {
+      "text": "OSKAR HULL",
+      "score": 0.9999105334281921,
+      "box": [
+        117,
+        91,
+        336,
+        122
+      ]
+    },
+    {
+      "text": "NC, USA | +1-481-294-5200 | oskar.hull@example.com",
+      "score": 0.9902496337890625,
+      "box": [
+        115,
+        149,
+        632,
+        177
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9997612833976746,
+      "box": [
+        117,
+        243,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Balanced Books Co., 2020.06—2023.01",
+      "score": 0.9912655353546143,
+      "box": [
+        116,
+        288,
+        687,
+        313
+      ]
+    },
+    {
+      "text": "- Processed accounts payable invoices",
+      "score": 0.9882296919822693,
+      "box": [
+        126,
+        314,
+        490,
+        340
+      ]
+    },
+    {
+      "text": "- Assisted with internal control testing",
+      "score": 0.9880813360214233,
+      "box": [
+        126,
+        336,
+        474,
+        368
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999386668205261,
+      "box": [
+        116,
+        404,
+        268,
+        431
+      ]
+    },
+    {
+      "text": "Master's, Investment Management, Silver Ridge University, 2022",
+      "score": 0.9929791688919067,
+      "box": [
+        114,
+        446,
+        716,
+        474
+      ]
+    },
+    {
+      "text": "Bachelor's, Auditing, Maple Ridge University, 2020",
+      "score": 0.9754907488822937,
+      "box": [
+        117,
+        474,
+        586,
+        498
+      ]
+    },
+    {
+      "text": "• Completed coursework in expense allocation",
+      "score": 0.9830092787742615,
+      "box": [
+        132,
+        500,
+        563,
+        524
+      ]
+    },
+    {
+      "text": "Completed coursework in cost accounting",
+      "score": 0.9985714554786682,
+      "box": [
+        132,
+        521,
+        535,
+        551
+      ]
+    }
+  ],
+  "seconds": 2.0621163002215326,
+  "id": "39933",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

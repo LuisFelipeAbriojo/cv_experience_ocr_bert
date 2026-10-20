@@ -1,0 +1,102 @@
+{
+  "lines": [
+    {
+      "text": "LIAM LESTER",
+      "score": 0.9842477440834045,
+      "box": [
+        117,
+        91,
+        341,
+        122
+      ]
+    },
+    {
+      "text": "IL, USA | +1-980-872-5958 | liam.lester@example.com",
+      "score": 0.9934549331665039,
+      "box": [
+        117,
+        150,
+        624,
+        177
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9993805289268494,
+      "box": [
+        116,
+        243,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Construction Laborers, AnchorLine Contractors, 2021.04—2023.01",
+      "score": 0.979603111743927,
+      "box": [
+        116,
+        287,
+        727,
+        315
+      ]
+    },
+    {
+      "text": "- Installed temporary site barriers",
+      "score": 0.9929556846618652,
+      "box": [
+        127,
+        316,
+        434,
+        340
+      ]
+    },
+    {
+      "text": "- Assisted with concrete pouring",
+      "score": 0.9829891920089722,
+      "box": [
+        126,
+        337,
+        426,
+        369
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999424815177917,
+      "box": [
+        116,
+        404,
+        268,
+        431
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Facilities Maintenance, Highland High School, 2021",
+      "score": 0.9965407848358154,
+      "box": [
+        117,
+        448,
+        851,
+        475
+      ]
+    },
+    {
+      "text": "• Completed coursework in construction materials identification",
+      "score": 0.97121661901474,
+      "box": [
+        133,
+        474,
+        715,
+        498
+      ]
+    }
+  ],
+  "seconds": 2.163868200033903,
+  "id": "17249",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

@@ -1,0 +1,192 @@
+{
+  "lines": [
+    {
+      "text": "JESSE FARRELL",
+      "score": 0.9998167753219604,
+      "box": [
+        115,
+        89,
+        391,
+        122
+      ]
+    },
+    {
+      "text": "OH, USA | +1-796-451-5041 | jesse.farrell@example.com",
+      "score": 0.9825298190116882,
+      "box": [
+        118,
+        152,
+        648,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9991443157196045,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, Cornerstone Works, 2019.122023.01",
+      "score": 0.9917441606521606,
+      "box": [
+        118,
+        291,
+        686,
+        315
+      ]
+    },
+    {
+      "text": "- Designed construction staging plans",
+      "score": 0.981391191482544,
+      "box": [
+        125,
+        314,
+        478,
+        342
+      ]
+    },
+    {
+      "text": "- Led operational planning",
+      "score": 0.9964933395385742,
+      "box": [
+        127,
+        339,
+        371,
+        369
+      ]
+    },
+    {
+      "text": "Construction Laborers, ClearView Construction, 2016.112019.12",
+      "score": 0.9885951280593872,
+      "box": [
+        118,
+        383,
+        727,
+        407
+      ]
+    },
+    {
+      "text": "- Implemented workflow optimization",
+      "score": 0.9886365532875061,
+      "box": [
+        126,
+        408,
+        467,
+        433
+      ]
+    },
+    {
+      "text": "- Established construction benchmarks",
+      "score": 0.9967067837715149,
+      "box": [
+        127,
+        432,
+        487,
+        456
+      ]
+    },
+    {
+      "text": "Construction Laborers, WorkStone Contractors, 2013.02—2016.03",
+      "score": 0.9903090596199036,
+      "box": [
+        117,
+        472,
+        725,
+        497
+      ]
+    },
+    {
+      "text": "- Managed waste disposal operations",
+      "score": 0.9992325901985168,
+      "box": [
+        125,
+        497,
+        476,
+        525
+      ]
+    },
+    {
+      "text": "- Installed exterior cladding",
+      "score": 0.9979420304298401,
+      "box": [
+        126,
+        520,
+        380,
+        551
+      ]
+    },
+    {
+      "text": "Construction Laborers, CornerWay Construction, 2009.072012.08",
+      "score": 0.9935590624809265,
+      "box": [
+        118,
+        566,
+        736,
+        590
+      ]
+    },
+    {
+      "text": "- Installed temporary site barriers",
+      "score": 0.9982597231864929,
+      "box": [
+        128,
+        591,
+        436,
+        616
+      ]
+    },
+    {
+      "text": "- Handled power tools under supervision",
+      "score": 0.9890748858451843,
+      "box": [
+        127,
+        614,
+        503,
+        642
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999934196472168,
+      "box": [
+        117,
+        681,
+        266,
+        705
+      ]
+    },
+    {
+      "text": "High school graduate/GED, General Construction, Brightfield Secondary School, 2007",
+      "score": 0.9804095029830933,
+      "box": [
+        117,
+        724,
+        912,
+        750
+      ]
+    },
+    {
+      "text": "• Completed coursework in basic metalwork",
+      "score": 0.9802385568618774,
+      "box": [
+        133,
+        750,
+        540,
+        774
+      ]
+    }
+  ],
+  "seconds": 2.737195000052452,
+  "id": "43136",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

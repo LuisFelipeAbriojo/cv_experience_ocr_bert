@@ -1,0 +1,212 @@
+{
+  "lines": [
+    {
+      "text": "ANDREA KIRK",
+      "score": 0.9998007416725159,
+      "box": [
+        117,
+        91,
+        352,
+        122
+      ]
+    },
+    {
+      "text": "UT, USA | +1-763-216-9760 | andrea.kirk@example.com",
+      "score": 0.9934382438659668,
+      "box": [
+        116,
+        150,
+        643,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.99919193983078,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Kind Minds Academy, 2019.06—2023.01",
+      "score": 0.9872044324874878,
+      "box": [
+        117,
+        290,
+        833,
+        317
+      ]
+    },
+    {
+      "text": "- Designed instructional quality standards",
+      "score": 0.9959872961044312,
+      "box": [
+        126,
+        316,
+        509,
+        340
+      ]
+    },
+    {
+      "text": "- Directed instructional planning processes",
+      "score": 0.977726399898529,
+      "box": [
+        126,
+        339,
+        524,
+        369
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Growing Minds School, 2015.112019.06",
+      "score": 0.9993524551391602,
+      "box": [
+        117,
+        383,
+        847,
+        410
+      ]
+    },
+    {
+      "text": "- Designed curriculum frameworks for grade-level instruction",
+      "score": 0.9893729090690613,
+      "box": [
+        126,
+        408,
+        685,
+        433
+      ]
+    },
+    {
+      "text": "- Developed instructional innovation plans",
+      "score": 0.999443769454956,
+      "box": [
+        125,
+        432,
+        516,
+        459
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Friendly Steps School, 2012.04—2015.11",
+      "score": 0.9821365475654602,
+      "box": [
+        117,
+        471,
+        840,
+        499
+      ]
+    },
+    {
+      "text": "- Coordinated group learning activities",
+      "score": 0.9846388697624207,
+      "box": [
+        127,
+        500,
+        481,
+        524
+      ]
+    },
+    {
+      "text": "- Organized academic interventions",
+      "score": 0.9847245812416077,
+      "box": [
+        130,
+        524,
+        456,
+        548
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Little Steps Academy, 2006.05—2010.01",
+      "score": 0.9909252524375916,
+      "box": [
+        117,
+        565,
+        833,
+        592
+      ]
+    },
+    {
+      "text": "- Delivered structured lectures",
+      "score": 0.9932110905647278,
+      "box": [
+        126,
+        590,
+        409,
+        616
+      ]
+    },
+    {
+      "text": "- Prepared daily instructional agendas",
+      "score": 0.9917702674865723,
+      "box": [
+        127,
+        614,
+        480,
+        643
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999370574951172,
+      "box": [
+        117,
+        681,
+        266,
+        705
+      ]
+    },
+    {
+      "text": "Master's, Education Studies, Elmwood University, 2005",
+      "score": 0.9948128461837769,
+      "box": [
+        117,
+        726,
+        628,
+        749
+      ]
+    },
+    {
+      "text": "Bachelor's, Early Childhood Education, Greenfield Ridge University, 2003",
+      "score": 0.9976736903190613,
+      "box": [
+        116,
+        749,
+        796,
+        776
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of formative feedback",
+      "score": 0.9863487482070923,
+      "box": [
+        131,
+        776,
+        556,
+        799
+      ]
+    },
+    {
+      "text": "Completed coursework in early literacy instruction",
+      "score": 0.9872461557388306,
+      "box": [
+        130,
+        797,
+        609,
+        828
+      ]
+    }
+  ],
+  "seconds": 3.146801599767059,
+  "id": "55620",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

@@ -1,0 +1,182 @@
+{
+  "lines": [
+    {
+      "text": "YAMIL KHAN",
+      "score": 0.9633474349975586,
+      "box": [
+        117,
+        91,
+        328,
+        122
+      ]
+    },
+    {
+      "text": "CA, USA | +1-477-411-4820 | yamil.khan@example.com",
+      "score": 0.9795745015144348,
+      "box": [
+        116,
+        150,
+        640,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9658131003379822,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Openfield Labs, 2020.032023.01",
+      "score": 0.9959373474121094,
+      "box": [
+        117,
+        291,
+        635,
+        315
+      ]
+    },
+    {
+      "text": "- Implemented infrastructure automation",
+      "score": 0.9949745535850525,
+      "box": [
+        128,
+        315,
+        500,
+        340
+      ]
+    },
+    {
+      "text": "- Implemented access control frameworks",
+      "score": 0.9880681037902832,
+      "box": [
+        128,
+        340,
+        514,
+        365
+      ]
+    },
+    {
+      "text": "Software Developers, Cloudspring Systems, 2017.052020.03",
+      "score": 0.9996587634086609,
+      "box": [
+        116,
+        382,
+        694,
+        409
+      ]
+    },
+    {
+      "text": "- Developed microservices",
+      "score": 0.9975175261497498,
+      "box": [
+        125,
+        408,
+        376,
+        433
+      ]
+    },
+    {
+      "text": "- Developed RESTful APIs",
+      "score": 0.994948148727417,
+      "box": [
+        127,
+        432,
+        377,
+        458
+      ]
+    },
+    {
+      "text": "Software Developers, Corefield Software, 2012.042015.03",
+      "score": 0.9872313737869263,
+      "box": [
+        117,
+        472,
+        668,
+        499
+      ]
+    },
+    {
+      "text": "- Resolved merge conflicts",
+      "score": 0.9941214323043823,
+      "box": [
+        127,
+        499,
+        376,
+        523
+      ]
+    },
+    {
+      "text": "- Monitored application logs",
+      "score": 0.9779780507087708,
+      "box": [
+        126,
+        521,
+        385,
+        551
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.99989914894104,
+      "box": [
+        117,
+        587,
+        267,
+        614
+      ]
+    },
+    {
+      "text": "Master's, Lakeview University, 2006",
+      "score": 0.9916445016860962,
+      "box": [
+        117,
+        633,
+        449,
+        657
+      ]
+    },
+    {
+      "text": "Bachelor's, Aspen Grove University, 2004",
+      "score": 0.9741672277450562,
+      "box": [
+        115,
+        656,
+        505,
+        684
+      ]
+    },
+    {
+      "text": "• Completed coursework in human-computer interaction basics",
+      "score": 0.9913418889045715,
+      "box": [
+        133,
+        684,
+        714,
+        708
+      ]
+    },
+    {
+      "text": "Completed coursework in web development basics",
+      "score": 0.989593505859375,
+      "box": [
+        132,
+        705,
+        619,
+        735
+      ]
+    }
+  ],
+  "seconds": 2.5455016000196338,
+  "id": "09277",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

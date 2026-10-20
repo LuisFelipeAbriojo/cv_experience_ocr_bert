@@ -1,0 +1,122 @@
+{
+  "lines": [
+    {
+      "text": "JOSHUA PALACIOS",
+      "score": 0.967091977596283,
+      "box": [
+        116,
+        91,
+        438,
+        122
+      ]
+    },
+    {
+      "text": "CA, USA | +1-520-852-4074 | joshua.palacios@example.com",
+      "score": 0.983564019203186,
+      "box": [
+        118,
+        152,
+        684,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9997394680976868,
+      "box": [
+        117,
+        243,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Kind Hearts Academy, 2021.122023.01",
+      "score": 0.9936442971229553,
+      "box": [
+        117,
+        289,
+        838,
+        316
+      ]
+    },
+    {
+      "text": "- Scheduled instructional activities",
+      "score": 0.9905154705047607,
+      "box": [
+        126,
+        314,
+        445,
+        340
+      ]
+    },
+    {
+      "text": "- Supported individual student learning activities",
+      "score": 0.9798630475997925,
+      "box": [
+        127,
+        339,
+        572,
+        367
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999322891235352,
+      "box": [
+        116,
+        404,
+        268,
+        431
+      ]
+    },
+    {
+      "text": "Master's, Academic Foundations, Greenway University, 2023",
+      "score": 0.9941568374633789,
+      "box": [
+        115,
+        448,
+        682,
+        475
+      ]
+    },
+    {
+      "text": "Bachelor's, General Academic Studies, Fieldstone University, 2022",
+      "score": 0.991134762763977,
+      "box": [
+        115,
+        472,
+        737,
+        500
+      ]
+    },
+    {
+      "text": "Completed coursework in educational skill building",
+      "score": 0.9857125282287598,
+      "box": [
+        129,
+        496,
+        616,
+        527
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of instructional objectives",
+      "score": 0.9764447808265686,
+      "box": [
+        133,
+        522,
+        589,
+        549
+      ]
+    }
+  ],
+  "seconds": 2.1766061997041106,
+  "id": "03474",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

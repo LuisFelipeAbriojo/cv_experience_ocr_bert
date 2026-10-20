@@ -1,0 +1,172 @@
+{
+  "lines": [
+    {
+      "text": "TEVITA FOWLER",
+      "score": 0.9980820417404175,
+      "box": [
+        117,
+        91,
+        391,
+        121
+      ]
+    },
+    {
+      "text": "LA, USA | +1-687-322-2652 | tevita.fowler@example.com",
+      "score": 0.9870659708976746,
+      "box": [
+        115,
+        151,
+        648,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9991876482963562,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, IronWay Contractors, 2020.04—2023.01",
+      "score": 0.987672746181488,
+      "box": [
+        116,
+        288,
+        698,
+        316
+      ]
+    },
+    {
+      "text": "- Reviewed structural integrity assessments",
+      "score": 0.9991218447685242,
+      "box": [
+        126,
+        314,
+        531,
+        341
+      ]
+    },
+    {
+      "text": "- Led cross-functional coordination",
+      "score": 0.984096109867096,
+      "box": [
+        127,
+        339,
+        449,
+        365
+      ]
+    },
+    {
+      "text": "Construction Laborers, MasterBuild Services, 2017.072020.04",
+      "score": 0.9924417734146118,
+      "box": [
+        118,
+        383,
+        704,
+        407
+      ]
+    },
+    {
+      "text": "- Constructed temporary structures",
+      "score": 0.9997449517250061,
+      "box": [
+        126,
+        408,
+        452,
+        433
+      ]
+    },
+    {
+      "text": "- Performed masonry work",
+      "score": 0.9770693778991699,
+      "box": [
+        126,
+        430,
+        378,
+        460
+      ]
+    },
+    {
+      "text": "Construction Laborers, ClearStone Construction, 2013.022015.12",
+      "score": 0.9979040622711182,
+      "box": [
+        118,
+        473,
+        735,
+        497
+      ]
+    },
+    {
+      "text": "- Mixed concrete and mortar",
+      "score": 0.9995526075363159,
+      "box": [
+        126,
+        497,
+        392,
+        522
+      ]
+    },
+    {
+      "text": "- Set up ladders and basic scaffolding",
+      "score": 0.9885520935058594,
+      "box": [
+        126,
+        520,
+        477,
+        550
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999501705169678,
+      "box": [
+        118,
+        588,
+        267,
+        612
+      ]
+    },
+    {
+      "text": "Some college (no degree), Construction Management, Lakeside University, 2011",
+      "score": 0.9964148998260498,
+      "box": [
+        118,
+        633,
+        863,
+        657
+      ]
+    },
+    {
+      "text": "• Completed coursework in basic structural demolition",
+      "score": 0.9894357919692993,
+      "box": [
+        131,
+        658,
+        631,
+        682
+      ]
+    },
+    {
+      "text": "•Studied fundamentals of construction measurement tools",
+      "score": 0.9934372901916504,
+      "box": [
+        131,
+        681,
+        674,
+        707
+      ]
+    }
+  ],
+  "seconds": 2.683534999843687,
+  "id": "23339",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

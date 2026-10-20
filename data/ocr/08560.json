@@ -1,0 +1,112 @@
+{
+  "lines": [
+    {
+      "text": "TARIA LIN",
+      "score": 0.9998183846473694,
+      "box": [
+        115,
+        89,
+        285,
+        123
+      ]
+    },
+    {
+      "text": "CA, USA | +1-341-401-4439 | taria.lin@example.com",
+      "score": 0.9770039319992065,
+      "box": [
+        116,
+        149,
+        609,
+        177
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9994737505912781,
+      "box": [
+        116,
+        243,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Precise Ledger Services, 2020.03—2021.01",
+      "score": 0.9874405860900879,
+      "box": [
+        114,
+        287,
+        725,
+        315
+      ]
+    },
+    {
+      "text": "- Updated general ledger records",
+      "score": 0.999330997467041,
+      "box": [
+        126,
+        315,
+        435,
+        339
+      ]
+    },
+    {
+      "text": "- Processed accounts payable invoices",
+      "score": 0.9859880208969116,
+      "box": [
+        128,
+        338,
+        490,
+        367
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999353885650635,
+      "box": [
+        116,
+        404,
+        268,
+        431
+      ]
+    },
+    {
+      "text": "Bachelor's, Auditing, Willowstone University, 2005",
+      "score": 0.9850314855575562,
+      "box": [
+        115,
+        446,
+        582,
+        476
+      ]
+    },
+    {
+      "text": "• Completed coursework in trial balance preparation",
+      "score": 0.9799211621284485,
+      "box": [
+        132,
+        473,
+        613,
+        498
+      ]
+    },
+    {
+      "text": "Completed coursework in internal auditing",
+      "score": 0.9992831349372864,
+      "box": [
+        132,
+        496,
+        538,
+        526
+      ]
+    }
+  ],
+  "seconds": 1.946514599956572,
+  "id": "08560",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

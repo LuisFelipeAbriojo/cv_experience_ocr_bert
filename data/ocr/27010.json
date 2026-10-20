@@ -1,0 +1,202 @@
+{
+  "lines": [
+    {
+      "text": "BRANDI GAINES",
+      "score": 0.9781526327133179,
+      "box": [
+        118,
+        91,
+        385,
+        121
+      ]
+    },
+    {
+      "text": "MI, USA | +1-327-239-5827 | brandi.gaines@example.com",
+      "score": 0.9917920827865601,
+      "box": [
+        115,
+        150,
+        660,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9961659908294678,
+      "box": [
+        117,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, Harmony Way Health, 2020.05—2023.01",
+      "score": 0.9770078063011169,
+      "box": [
+        115,
+        287,
+        674,
+        318
+      ]
+    },
+    {
+      "text": "- Directed clinical training standards",
+      "score": 0.9830806255340576,
+      "box": [
+        125,
+        313,
+        460,
+        344
+      ]
+    },
+    {
+      "text": "- Managed patient safety reporting systems",
+      "score": 0.9943209886550903,
+      "box": [
+        126,
+        339,
+        529,
+        368
+      ]
+    },
+    {
+      "text": "Registered Nurses, GentleWay Care Center, 2017.092020.05",
+      "score": 0.996423065662384,
+      "box": [
+        118,
+        383,
+        698,
+        407
+      ]
+    },
+    {
+      "text": "- Directed clinical training standards",
+      "score": 0.9987075924873352,
+      "box": [
+        124,
+        406,
+        460,
+        434
+      ]
+    },
+    {
+      "text": "- Managed clinical workflow redesign",
+      "score": 0.9834774732589722,
+      "box": [
+        126,
+        432,
+        469,
+        458
+      ]
+    },
+    {
+      "text": "Registered Nurses, WellWay Nursing Services, 2012.072015.04",
+      "score": 0.9987436532974243,
+      "box": [
+        116,
+        471,
+        722,
+        499
+      ]
+    },
+    {
+      "text": "- Conducted patient safety checks",
+      "score": 0.9933869242668152,
+      "box": [
+        127,
+        497,
+        446,
+        525
+      ]
+    },
+    {
+      "text": "- Conducted comprehensive patient assessments",
+      "score": 0.9984448552131653,
+      "box": [
+        127,
+        521,
+        587,
+        550
+      ]
+    },
+    {
+      "text": "Registered Nurses, SafeSpring Health Group, 2009.032011.12",
+      "score": 0.9915425777435303,
+      "box": [
+        118,
+        566,
+        709,
+        590
+      ]
+    },
+    {
+      "text": "- Collected laboratory specimens",
+      "score": 0.9901376962661743,
+      "box": [
+        128,
+        590,
+        435,
+        617
+      ]
+    },
+    {
+      "text": "- Assisted with hygiene care",
+      "score": 0.9985412359237671,
+      "box": [
+        127,
+        613,
+        391,
+        644
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999294281005859,
+      "box": [
+        117,
+        681,
+        266,
+        705
+      ]
+    },
+    {
+      "text": "Bachelor's, Health Care Technology, Willowstone University, 2004",
+      "score": 0.9895936250686646,
+      "box": [
+        115,
+        723,
+        729,
+        750
+      ]
+    },
+    {
+      "text": "Completed coursework in rehabilitation nursing",
+      "score": 0.9863795638084412,
+      "box": [
+        130,
+        748,
+        583,
+        776
+      ]
+    },
+    {
+      "text": "•Studied fundamentals of trauma care",
+      "score": 0.981949508190155,
+      "box": [
+        132,
+        773,
+        491,
+        799
+      ]
+    }
+  ],
+  "seconds": 2.960440400056541,
+  "id": "27010",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

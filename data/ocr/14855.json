@@ -1,0 +1,142 @@
+{
+  "lines": [
+    {
+      "text": "AHMAD KELLY",
+      "score": 0.9997301697731018,
+      "box": [
+        118,
+        91,
+        361,
+        122
+      ]
+    },
+    {
+      "text": "GA, USA | +1-846-703-4557 | ahmad.kelly@example.com",
+      "score": 0.9912538528442383,
+      "box": [
+        116,
+        149,
+        653,
+        177
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9997585415840149,
+      "box": [
+        117,
+        243,
+        315,
+        270
+      ]
+    },
+    {
+      "text": "Construction Laborers, PrimeBuild Co., 2021.06—2023.01",
+      "score": 0.9912185668945312,
+      "box": [
+        118,
+        290,
+        645,
+        314
+      ]
+    },
+    {
+      "text": "- Established site layout plans",
+      "score": 0.9970048069953918,
+      "box": [
+        126,
+        314,
+        406,
+        342
+      ]
+    },
+    {
+      "text": "- Reviewed compliance documentation",
+      "score": 0.9974976778030396,
+      "box": [
+        128,
+        341,
+        487,
+        365
+      ]
+    },
+    {
+      "text": "Construction Laborers, SureStone Construction, 2019.112021.06",
+      "score": 0.9975204467773438,
+      "box": [
+        117,
+        381,
+        730,
+        408
+      ]
+    },
+    {
+      "text": "- Assisted with drywall installation",
+      "score": 0.989363431930542,
+      "box": [
+        125,
+        406,
+        440,
+        432
+      ]
+    },
+    {
+      "text": "- Prepared surfaces for construction work",
+      "score": 0.9993655681610107,
+      "box": [
+        129,
+        433,
+        512,
+        456
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999919056892395,
+      "box": [
+        117,
+        494,
+        267,
+        521
+      ]
+    },
+    {
+      "text": "Associate's degree, Building Maintenance, Pine Valley University, 2019",
+      "score": 0.9948731660842896,
+      "box": [
+        117,
+        540,
+        776,
+        567
+      ]
+    },
+    {
+      "text": "•Studied principles of equipment calibration",
+      "score": 0.9670115113258362,
+      "box": [
+        129,
+        566,
+        541,
+        591
+      ]
+    },
+    {
+      "text": "•Completed coursework in site drainage planning",
+      "score": 0.9914119839668274,
+      "box": [
+        131,
+        591,
+        593,
+        617
+      ]
+    }
+  ],
+  "seconds": 2.3155502998270094,
+  "id": "14855",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

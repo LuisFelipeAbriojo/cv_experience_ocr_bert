@@ -1,0 +1,132 @@
+{
+  "lines": [
+    {
+      "text": "DANIEL WILCOX",
+      "score": 0.9988180994987488,
+      "box": [
+        118,
+        91,
+        386,
+        121
+      ]
+    },
+    {
+      "text": "IL, USA | +1-907-664-5514 | daniel.wilcox@example.com",
+      "score": 0.9876253604888916,
+      "box": [
+        116,
+        149,
+        648,
+        177
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9997589588165283,
+      "box": [
+        117,
+        243,
+        315,
+        270
+      ]
+    },
+    {
+      "text": "Construction Laborers, Stronghold Construction, 2020.072023.01",
+      "score": 0.9951872229576111,
+      "box": [
+        117,
+        289,
+        731,
+        316
+      ]
+    },
+    {
+      "text": "- Developed structural reinforcement plans",
+      "score": 0.9925211071968079,
+      "box": [
+        125,
+        313,
+        523,
+        342
+      ]
+    },
+    {
+      "text": "- Designed construction staging plans",
+      "score": 0.9932534694671631,
+      "box": [
+        127,
+        339,
+        478,
+        368
+      ]
+    },
+    {
+      "text": "Construction Laborers, Allied Frame Co., 2018.012020.07",
+      "score": 0.9938871264457703,
+      "box": [
+        118,
+        382,
+        663,
+        406
+      ]
+    },
+    {
+      "text": "- Performed basic plumbing assistance",
+      "score": 0.9985654950141907,
+      "box": [
+        125,
+        407,
+        489,
+        433
+      ]
+    },
+    {
+      "text": "- Set up ladders and basic scaffolding",
+      "score": 0.9880911111831665,
+      "box": [
+        127,
+        430,
+        478,
+        458
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9496991634368896,
+      "box": [
+        118,
+        495,
+        267,
+        519
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Construction Practices, Canyon View High School, 2016",
+      "score": 0.9851673245429993,
+      "box": [
+        115,
+        538,
+        897,
+        567
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of door installation",
+      "score": 0.9671340584754944,
+      "box": [
+        132,
+        565,
+        526,
+        590
+      ]
+    }
+  ],
+  "seconds": 2.5080750002525747,
+  "id": "18505",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

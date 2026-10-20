@@ -1,0 +1,142 @@
+{
+  "lines": [
+    {
+      "text": "KAITLYNN HARRELL",
+      "score": 0.9952380657196045,
+      "box": [
+        117,
+        92,
+        453,
+        122
+      ]
+    },
+    {
+      "text": "WA, USA | +1-945-207-5175 | kaitlynn.harrell@example.com",
+      "score": 0.9909080862998962,
+      "box": [
+        116,
+        150,
+        680,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9991675019264221,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, OpenSpring Care Services, 2020.09—2023.01",
+      "score": 0.9895276427268982,
+      "box": [
+        115,
+        287,
+        725,
+        320
+      ]
+    },
+    {
+      "text": "- Directed nursing operations planning",
+      "score": 0.9943702816963196,
+      "box": [
+        125,
+        313,
+        482,
+        344
+      ]
+    },
+    {
+      "text": "- Implemented care standardization",
+      "score": 0.9935254454612732,
+      "box": [
+        126,
+        338,
+        458,
+        369
+      ]
+    },
+    {
+      "text": "Registered Nurses, WellWay Nursing Services, 2018.052020.09",
+      "score": 0.9814276099205017,
+      "box": [
+        117,
+        382,
+        722,
+        409
+      ]
+    },
+    {
+      "text": "- Monitored patient skin condition",
+      "score": 0.9922271966934204,
+      "box": [
+        126,
+        407,
+        436,
+        432
+      ]
+    },
+    {
+      "text": "- Assisted with hygiene care",
+      "score": 0.9902239441871643,
+      "box": [
+        127,
+        430,
+        391,
+        461
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999943196773529,
+      "box": [
+        116,
+        494,
+        267,
+        521
+      ]
+    },
+    {
+      "text": "Associate's degree, Allied Health, Elmwood Ridge University, 2016",
+      "score": 0.9747084379196167,
+      "box": [
+        117,
+        540,
+        736,
+        567
+      ]
+    },
+    {
+      "text": "•Studied fundamentals of trauma care",
+      "score": 0.9844763278961182,
+      "box": [
+        129,
+        566,
+        491,
+        592
+      ]
+    },
+    {
+      "text": "• Studied principles of hydration management",
+      "score": 0.9961553812026978,
+      "box": [
+        132,
+        593,
+        556,
+        617
+      ]
+    }
+  ],
+  "seconds": 7.013343499973416,
+  "id": "58672",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

@@ -1,0 +1,202 @@
+{
+  "lines": [
+    {
+      "text": "MALLORY HUFFMAN",
+      "score": 0.9967778921127319,
+      "box": [
+        117,
+        92,
+        457,
+        122
+      ]
+    },
+    {
+      "text": "MI, USA | +1-855-440-4941 | mallory.huffman@example.com",
+      "score": 0.9916660189628601,
+      "box": [
+        115,
+        150,
+        683,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9960207343101501,
+      "box": [
+        117,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, SafeHands Care Center, 2020.01—2023.01",
+      "score": 0.9927439093589783,
+      "box": [
+        118,
+        291,
+        696,
+        315
+      ]
+    },
+    {
+      "text": "- Led clinical governance efforts",
+      "score": 0.995216965675354,
+      "box": [
+        128,
+        317,
+        425,
+        341
+      ]
+    },
+    {
+      "text": "- Directed clinical quality improvement initiatives",
+      "score": 0.9835163354873657,
+      "box": [
+        127,
+        339,
+        573,
+        368
+      ]
+    },
+    {
+      "text": "Registered Nurses, EverLife Health Services, 2017.012020.01",
+      "score": 0.9951215982437134,
+      "box": [
+        118,
+        383,
+        703,
+        407
+      ]
+    },
+    {
+      "text": "- Established care delivery standards",
+      "score": 0.9987665414810181,
+      "box": [
+        125,
+        407,
+        471,
+        433
+      ]
+    },
+    {
+      "text": "- Directed care delivery improvements",
+      "score": 0.9991576671600342,
+      "box": [
+        126,
+        432,
+        480,
+        459
+      ]
+    },
+    {
+      "text": "Registered Nurses, EverWay Nursing Services, 2013.12—2017.01",
+      "score": 0.9872733950614929,
+      "box": [
+        116,
+        471,
+        723,
+        499
+      ]
+    },
+    {
+      "text": "- Documented clinical care activities",
+      "score": 0.99774169921875,
+      "box": [
+        126,
+        497,
+        461,
+        523
+      ]
+    },
+    {
+      "text": "- Performed advanced wound assessments",
+      "score": 0.9955551028251648,
+      "box": [
+        128,
+        522,
+        530,
+        548
+      ]
+    },
+    {
+      "text": "Registered Nurses, Helping Heart Nursing, 2010.112013.12",
+      "score": 0.9937081933021545,
+      "box": [
+        116,
+        564,
+        682,
+        592
+      ]
+    },
+    {
+      "text": "- Prepared treatment rooms",
+      "score": 0.9923411011695862,
+      "box": [
+        127,
+        589,
+        388,
+        619
+      ]
+    },
+    {
+      "text": "- Prepared intravenous solutions",
+      "score": 0.986278772354126,
+      "box": [
+        127,
+        614,
+        431,
+        645
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9998986721038818,
+      "box": [
+        117,
+        681,
+        266,
+        705
+      ]
+    },
+    {
+      "text": "Bachelor's, Health Care Technology, Goldenfield University, 2009",
+      "score": 0.9855384826660156,
+      "box": [
+        117,
+        726,
+        723,
+        749
+      ]
+    },
+    {
+      "text": "• Completed coursework in disaster nursing basics",
+      "score": 0.9978708624839783,
+      "box": [
+        132,
+        751,
+        602,
+        775
+      ]
+    },
+    {
+      "text": "•Studied fundamentals of mobility assistance",
+      "score": 0.9653040170669556,
+      "box": [
+        132,
+        773,
+        554,
+        800
+      ]
+    }
+  ],
+  "seconds": 3.005063599906862,
+  "id": "27188",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

@@ -1,0 +1,102 @@
+{
+  "lines": [
+    {
+      "text": "MARK GOODMAN",
+      "score": 0.974214494228363,
+      "box": [
+        118,
+        90,
+        406,
+        121
+      ]
+    },
+    {
+      "text": "FL, USA | +1-546-456-4205 | mark.goodman@example.com",
+      "score": 0.9876773357391357,
+      "box": [
+        116,
+        149,
+        675,
+        177
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9997405409812927,
+      "box": [
+        117,
+        243,
+        317,
+        270
+      ]
+    },
+    {
+      "text": "Construction Laborers, MasterStone Construction, 2018.05—2020.02",
+      "score": 0.9966728687286377,
+      "box": [
+        118,
+        289,
+        750,
+        313
+      ]
+    },
+    {
+      "text": "- Marked measurements on materials",
+      "score": 0.9992120265960693,
+      "box": [
+        125,
+        313,
+        476,
+        341
+      ]
+    },
+    {
+      "text": "- Operated hand tools for assembly tasks",
+      "score": 0.9965661764144897,
+      "box": [
+        128,
+        340,
+        509,
+        367
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999367594718933,
+      "box": [
+        116,
+        404,
+        268,
+        431
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Construction Skills, Seabreeze High School, 2003",
+      "score": 0.9974466562271118,
+      "box": [
+        117,
+        447,
+        836,
+        474
+      ]
+    },
+    {
+      "text": "Completed coursework in basic metalwork",
+      "score": 0.9986512660980225,
+      "box": [
+        131,
+        471,
+        541,
+        499
+      ]
+    }
+  ],
+  "seconds": 2.3447912000119686,
+  "id": "13084",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

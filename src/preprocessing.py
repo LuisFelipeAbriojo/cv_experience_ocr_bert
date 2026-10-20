@@ -31,7 +31,7 @@ import pandas as pd
 from src.ocr_extraction import ordered_text
 from src.utils import CAP, METRICS, OCR_DIR, PROCESSED, RAW, ensure_dirs, load_json, save_json
 
-MIN_CONF = 0.80  # threshold for the "low-confidence lines removed" variant (see README)
+MIN_CONF = 0.98  # "low-confidence" variant: drops 11.5% of lines (no line is below 0.95)
 
 HEADERS = re.compile(r"(?im)^\s*(work\s*history|work\s*experience|experience|employment"
                      r"|professional\s*experience|education)\s*$")
@@ -144,7 +144,9 @@ def main():
                          text=text, text_raw=minimal(raw), text_lowconf=text_low,
                          text_ref=text_ref, n_chars=len(text)))
     df = pd.DataFrame(rows)
-    df.to_csv(PROCESSED / "cvs.csv", index=False)
+    tmp = PROCESSED / "cvs.tmp.csv"
+    df.to_csv(tmp, index=False)
+    tmp.replace(PROCESSED / "cvs.csv")  # atomic: other stages may be reading it
     log = pd.DataFrame(mask_log, columns=["id", *MASKS])
     log.to_csv(PROCESSED / "masking_log.csv", index=False)
     stats = dict(n_cvs=len(df), n_cvs_masked=len(log),

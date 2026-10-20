@@ -1,0 +1,202 @@
+{
+  "lines": [
+    {
+      "text": "MAURICIO FORD",
+      "score": 0.9997015595436096,
+      "box": [
+        117,
+        91,
+        390,
+        122
+      ]
+    },
+    {
+      "text": "TN, USA |+1-976-218-7961 | mauricio.ford@example.com",
+      "score": 0.9852839708328247,
+      "box": [
+        118,
+        150,
+        660,
+        177
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9954158663749695,
+      "box": [
+        117,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, MasterBuild Services, 2019.052023.01",
+      "score": 0.9981148838996887,
+      "box": [
+        118,
+        290,
+        703,
+        314
+      ]
+    },
+    {
+      "text": "- Developed cost estimation models",
+      "score": 0.986481249332428,
+      "box": [
+        126,
+        315,
+        460,
+        340
+      ]
+    },
+    {
+      "text": "- Directed construction audits",
+      "score": 0.9870650172233582,
+      "box": [
+        127,
+        339,
+        400,
+        365
+      ]
+    },
+    {
+      "text": "Construction Laborers, TrueForm Construction, 2015.082019.05",
+      "score": 0.9836243391036987,
+      "box": [
+        118,
+        383,
+        723,
+        407
+      ]
+    },
+    {
+      "text": "- Directed project scheduling",
+      "score": 0.9851742386817932,
+      "box": [
+        124,
+        403,
+        395,
+        436
+      ]
+    },
+    {
+      "text": "- Led cross-functional coordination",
+      "score": 0.98149174451828,
+      "box": [
+        127,
+        431,
+        448,
+        456
+      ]
+    },
+    {
+      "text": "Construction Laborers, SolidFrame Construction, 2011.11—2015.08",
+      "score": 0.9847637414932251,
+      "box": [
+        117,
+        472,
+        738,
+        497
+      ]
+    },
+    {
+      "text": "- Installed mechanical supports",
+      "score": 0.9992406368255615,
+      "box": [
+        126,
+        498,
+        419,
+        523
+      ]
+    },
+    {
+      "text": "- Managed waste disposal operations",
+      "score": 0.9942939877510071,
+      "box": [
+        127,
+        521,
+        475,
+        550
+      ]
+    },
+    {
+      "text": "Construction Laborers, SolidLine Contractors, 2008.02—2011.11",
+      "score": 0.9904329776763916,
+      "box": [
+        118,
+        566,
+        707,
+        590
+      ]
+    },
+    {
+      "text": "- Carried materials to designated work areas",
+      "score": 0.9836488962173462,
+      "box": [
+        126,
+        589,
+        542,
+        618
+      ]
+    },
+    {
+      "text": "- Checked inventory of supplies",
+      "score": 0.9927077293395996,
+      "box": [
+        127,
+        614,
+        422,
+        643
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9998919367790222,
+      "box": [
+        117,
+        681,
+        266,
+        705
+      ]
+    },
+    {
+      "text": "Some college (no degree), Industrial Maintenance, Windridge University, 2011",
+      "score": 0.990739107131958,
+      "box": [
+        116,
+        723,
+        839,
+        750
+      ]
+    },
+    {
+      "text": "Studied principles of material recycling",
+      "score": 0.999554455280304,
+      "box": [
+        130,
+        748,
+        507,
+        777
+      ]
+    },
+    {
+      "text": "•Completed coursework in structural inspection basics",
+      "score": 0.9845131039619446,
+      "box": [
+        132,
+        772,
+        640,
+        801
+      ]
+    }
+  ],
+  "seconds": 2.9392206999473274,
+  "id": "49430",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

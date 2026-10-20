@@ -1,0 +1,172 @@
+{
+  "lines": [
+    {
+      "text": "HUGH MCINTYRE",
+      "score": 0.9996577501296997,
+      "box": [
+        117,
+        91,
+        400,
+        121
+      ]
+    },
+    {
+      "text": "PA, USA | +1-692-294-2301 | hugh.mcintyre@example.com",
+      "score": 0.9722943305969238,
+      "box": [
+        117,
+        151,
+        669,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9989033341407776,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Stonepath Software, 2020.102023.01",
+      "score": 0.999752938747406,
+      "box": [
+        116,
+        289,
+        679,
+        316
+      ]
+    },
+    {
+      "text": "- Built distributed systems",
+      "score": 0.9798282384872437,
+      "box": [
+        126,
+        314,
+        367,
+        342
+      ]
+    },
+    {
+      "text": "- Implemented service orchestration",
+      "score": 0.9933746457099915,
+      "box": [
+        128,
+        340,
+        460,
+        365
+      ]
+    },
+    {
+      "text": "Software Developers, Clearstone Software, 2017.042019.08",
+      "score": 0.9944702982902527,
+      "box": [
+        116,
+        382,
+        687,
+        409
+      ]
+    },
+    {
+      "text": "- Integrated analytics services",
+      "score": 0.9704309105873108,
+      "box": [
+        127,
+        409,
+        406,
+        433
+      ]
+    },
+    {
+      "text": "- Developed data processing pipelines",
+      "score": 0.9965413212776184,
+      "box": [
+        127,
+        431,
+        483,
+        459
+      ]
+    },
+    {
+      "text": "Software Developers, Corestack Tech, 2013.122016.04",
+      "score": 0.9922617673873901,
+      "box": [
+        117,
+        472,
+        643,
+        499
+      ]
+    },
+    {
+      "text": "- Updated routing logic",
+      "score": 0.9750775694847107,
+      "box": [
+        127,
+        497,
+        342,
+        526
+      ]
+    },
+    {
+      "text": "- Assisted with CI pipeline tasks",
+      "score": 0.9683474898338318,
+      "box": [
+        128,
+        521,
+        424,
+        549
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9998568296432495,
+      "box": [
+        117,
+        587,
+        267,
+        614
+      ]
+    },
+    {
+      "text": "Bachelor's, Brightfield University, 2004",
+      "score": 0.9980122447013855,
+      "box": [
+        117,
+        632,
+        475,
+        659
+      ]
+    },
+    {
+      "text": "•Completed coursework in query performance tuning",
+      "score": 0.9808250069618225,
+      "box": [
+        130,
+        657,
+        627,
+        686
+      ]
+    },
+    {
+      "text": "Completed coursework in database optimization",
+      "score": 0.9995241165161133,
+      "box": [
+        132,
+        680,
+        593,
+        709
+      ]
+    }
+  ],
+  "seconds": 2.285332900006324,
+  "id": "45278",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

@@ -1,0 +1,112 @@
+{
+  "lines": [
+    {
+      "text": "COLE ODOM",
+      "score": 0.9530995488166809,
+      "box": [
+        116,
+        88,
+        326,
+        123
+      ]
+    },
+    {
+      "text": "ID, USA | +1-562-592-2437 | cole.odom@example.com",
+      "score": 0.9769107103347778,
+      "box": [
+        116,
+        149,
+        629,
+        177
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9997580647468567,
+      "box": [
+        117,
+        243,
+        315,
+        270
+      ]
+    },
+    {
+      "text": "Construction Laborers, PrimeBuild Services, 2021.12—2023.01",
+      "score": 0.9938890337944031,
+      "box": [
+        117,
+        288,
+        693,
+        313
+      ]
+    },
+    {
+      "text": "- Prepared surfaces for construction work",
+      "score": 0.9757165908813477,
+      "box": [
+        127,
+        315,
+        512,
+        339
+      ]
+    },
+    {
+      "text": "- Followed safety procedures on site",
+      "score": 0.9979825615882874,
+      "box": [
+        127,
+        338,
+        465,
+        367
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999521970748901,
+      "box": [
+        116,
+        404,
+        268,
+        431
+      ]
+    },
+    {
+      "text": "Some college (no degree), Construction Logistics, Clearview University, 2023",
+      "score": 0.987734317779541,
+      "box": [
+        117,
+        447,
+        831,
+        474
+      ]
+    },
+    {
+      "text": "Completed coursework in construction site signage",
+      "score": 0.9935552477836609,
+      "box": [
+        131,
+        471,
+        621,
+        501
+      ]
+    },
+    {
+      "text": "Completed coursework in construction drawing interpretation",
+      "score": 0.9982063174247742,
+      "box": [
+        132,
+        497,
+        709,
+        525
+      ]
+    }
+  ],
+  "seconds": 2.055645199958235,
+  "id": "16979",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

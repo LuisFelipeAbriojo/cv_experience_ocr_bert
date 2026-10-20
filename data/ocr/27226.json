@@ -1,0 +1,142 @@
+{
+  "lines": [
+    {
+      "text": "IVY PATRICK",
+      "score": 0.999724805355072,
+      "box": [
+        116,
+        91,
+        330,
+        122
+      ]
+    },
+    {
+      "text": "MI, USA | +1-357-927-9824 | ivy.patrick@example.com",
+      "score": 0.9892895221710205,
+      "box": [
+        116,
+        150,
+        627,
+        177
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9991250038146973,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Learning Futures Academy, 2019.11—2022.0",
+      "score": 0.9908831715583801,
+      "box": [
+        115,
+        287,
+        878,
+        318
+      ]
+    },
+    {
+      "text": "- Directed academic intervention strategies",
+      "score": 0.9992612600326538,
+      "box": [
+        126,
+        314,
+        524,
+        342
+      ]
+    },
+    {
+      "text": "- Implemented long-term academic plans",
+      "score": 0.9931254386901855,
+      "box": [
+        127,
+        339,
+        507,
+        368
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Discovery Grove School, 2016.072018.09",
+      "score": 0.9955205917358398,
+      "box": [
+        115,
+        379,
+        864,
+        411
+      ]
+    },
+    {
+      "text": "- Managed classroom supplies",
+      "score": 0.978964626789093,
+      "box": [
+        125,
+        407,
+        413,
+        434
+      ]
+    },
+    {
+      "text": "- Tracked student participation",
+      "score": 0.9861833453178406,
+      "box": [
+        126,
+        430,
+        411,
+        458
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999212622642517,
+      "box": [
+        117,
+        494,
+        268,
+        521
+      ]
+    },
+    {
+      "text": "Bachelor's, Child Studies, Lakeview University, 2009",
+      "score": 0.9973927140235901,
+      "box": [
+        116,
+        540,
+        602,
+        566
+      ]
+    },
+    {
+      "text": "• Completed coursework in foundational education methods",
+      "score": 0.9866193532943726,
+      "box": [
+        133,
+        567,
+        685,
+        591
+      ]
+    },
+    {
+      "text": "• Completed coursework in student-centered learning",
+      "score": 0.9870755672454834,
+      "box": [
+        132,
+        591,
+        626,
+        617
+      ]
+    }
+  ],
+  "seconds": 2.9493621001020074,
+  "id": "27226",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

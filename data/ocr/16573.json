@@ -1,0 +1,102 @@
+{
+  "lines": [
+    {
+      "text": "COLTON ELLISON",
+      "score": 0.996641218662262,
+      "box": [
+        117,
+        89,
+        415,
+        123
+      ]
+    },
+    {
+      "text": "GA, USA | +1-280-856-8377 |colton.ellison@example.com",
+      "score": 0.9829649329185486,
+      "box": [
+        118,
+        152,
+        662,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9997150301933289,
+      "box": [
+        117,
+        243,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Construction Laborers, SteadyFrame Builders, 2018.112020.04",
+      "score": 0.9940613508224487,
+      "box": [
+        118,
+        290,
+        715,
+        314
+      ]
+    },
+    {
+      "text": "- Applied basic sealants and adhesives",
+      "score": 0.9815971851348877,
+      "box": [
+        127,
+        316,
+        490,
+        340
+      ]
+    },
+    {
+      "text": "- Maintained cleanliness of work areas",
+      "score": 0.9985114932060242,
+      "box": [
+        127,
+        339,
+        485,
+        365
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999470114707947,
+      "box": [
+        116,
+        404,
+        268,
+        431
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Construction Foundations, Riverstone High School, 2013",
+      "score": 0.9987265467643738,
+      "box": [
+        116,
+        446,
+        903,
+        474
+      ]
+    },
+    {
+      "text": "•Studied principles of construction documentation",
+      "score": 0.9878028035163879,
+      "box": [
+        130,
+        475,
+        597,
+        499
+      ]
+    }
+  ],
+  "seconds": 2.1213228995911777,
+  "id": "16573",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

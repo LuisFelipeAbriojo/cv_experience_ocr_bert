@@ -1,0 +1,142 @@
+{
+  "lines": [
+    {
+      "text": "AXEL GREER",
+      "score": 0.9679813385009766,
+      "box": [
+        118,
+        92,
+        334,
+        120
+      ]
+    },
+    {
+      "text": "AR, USA | +1-320-838-6505 | axel.greer@example.com",
+      "score": 0.9774461984634399,
+      "box": [
+        118,
+        152,
+        632,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.999583899974823,
+      "box": [
+        116,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Construction Laborers, FirmFrame Builders, 2021.062023.01",
+      "score": 0.9972089529037476,
+      "box": [
+        118,
+        290,
+        689,
+        314
+      ]
+    },
+    {
+      "text": "- Developed construction standards",
+      "score": 0.9887509942054749,
+      "box": [
+        127,
+        316,
+        457,
+        340
+      ]
+    },
+    {
+      "text": "- Supervised high-risk operations",
+      "score": 0.9768233895301819,
+      "box": [
+        127,
+        339,
+        435,
+        368
+      ]
+    },
+    {
+      "text": "Construction Laborers, SolidFrame Construction, 2019.112021.06",
+      "score": 0.998424768447876,
+      "box": [
+        117,
+        381,
+        738,
+        406
+      ]
+    },
+    {
+      "text": "- Operated hand tools for assembly tasks",
+      "score": 0.9852463603019714,
+      "box": [
+        126,
+        407,
+        510,
+        432
+      ]
+    },
+    {
+      "text": "- Loaded and unloaded construction materials",
+      "score": 0.9991928339004517,
+      "box": [
+        129,
+        433,
+        553,
+        455
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9881722331047058,
+      "box": [
+        118,
+        495,
+        267,
+        519
+      ]
+    },
+    {
+      "text": "Some college (no degree), Industrial Maintenance, Elmwood University, 2023",
+      "score": 0.9855685830116272,
+      "box": [
+        117,
+        540,
+        831,
+        567
+      ]
+    },
+    {
+      "text": "•Completed coursework in construction materials storage",
+      "score": 0.9766332507133484,
+      "box": [
+        130,
+        566,
+        668,
+        592
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of job site documentation",
+      "score": 0.9889030456542969,
+      "box": [
+        132,
+        590,
+        589,
+        616
+      ]
+    }
+  ],
+  "seconds": 2.4737029997631907,
+  "id": "02169",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

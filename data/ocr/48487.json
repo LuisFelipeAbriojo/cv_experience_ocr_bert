@@ -1,0 +1,112 @@
+{
+  "lines": [
+    {
+      "text": "STEPHANIE KNAPP",
+      "score": 0.9931398630142212,
+      "box": [
+        117,
+        91,
+        436,
+        122
+      ]
+    },
+    {
+      "text": "TN, USA | +1-252-343-4581 | stephanie.knapp@example.com",
+      "score": 0.9960745573043823,
+      "box": [
+        117,
+        149,
+        693,
+        177
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9997430443763733,
+      "box": [
+        117,
+        243,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Registered Nurses, CareBridge Health Services, 2020.08—2023.01",
+      "score": 0.9844603538513184,
+      "box": [
+        116,
+        288,
+        734,
+        318
+      ]
+    },
+    {
+      "text": "- Assisted with physical therapy exercises",
+      "score": 0.9940959215164185,
+      "box": [
+        126,
+        314,
+        514,
+        342
+      ]
+    },
+    {
+      "text": "- Prepared medical equipment for use",
+      "score": 0.963842511177063,
+      "box": [
+        126,
+        338,
+        479,
+        368
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999276399612427,
+      "box": [
+        116,
+        404,
+        268,
+        431
+      ]
+    },
+    {
+      "text": "Bachelor's, Life Sciences, Elmwood University, 2021",
+      "score": 0.986232578754425,
+      "box": [
+        115,
+        446,
+        602,
+        474
+      ]
+    },
+    {
+      "text": "•Studied fundamentals of respiratory nursing",
+      "score": 0.986386239528656,
+      "box": [
+        129,
+        473,
+        551,
+        500
+      ]
+    },
+    {
+      "text": "•Studied fundamentals of end-of-life care",
+      "score": 0.9883225560188293,
+      "box": [
+        131,
+        498,
+        519,
+        524
+      ]
+    }
+  ],
+  "seconds": 1.9994385000318289,
+  "id": "48487",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

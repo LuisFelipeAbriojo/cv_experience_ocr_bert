@@ -1,0 +1,122 @@
+{
+  "lines": [
+    {
+      "text": "AMANDA BAXTER",
+      "score": 0.9999006986618042,
+      "box": [
+        118,
+        91,
+        413,
+        122
+      ]
+    },
+    {
+      "text": "FL, USA | +1-245-317-6772 | amanda.baxter@example.com",
+      "score": 0.9841537475585938,
+      "box": [
+        116,
+        149,
+        676,
+        177
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9997625350952148,
+      "box": [
+        117,
+        243,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Registered Nurses, Compassion Way Care, 2022.082023.01",
+      "score": 0.9847813248634338,
+      "box": [
+        117,
+        289,
+        689,
+        316
+      ]
+    },
+    {
+      "text": "- Prepared medical equipment for use",
+      "score": 0.9815079569816589,
+      "box": [
+        126,
+        313,
+        480,
+        342
+      ]
+    },
+    {
+      "text": "- Assisted with physical therapy exercises",
+      "score": 0.9866908192634583,
+      "box": [
+        127,
+        338,
+        514,
+        367
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999393820762634,
+      "box": [
+        116,
+        404,
+        268,
+        431
+      ]
+    },
+    {
+      "text": "Master's, Biological Sciences, Pinecrest University, 2021",
+      "score": 0.9944732189178467,
+      "box": [
+        115,
+        446,
+        641,
+        474
+      ]
+    },
+    {
+      "text": "Bachelor's, Health Promotion, Stonegate University, 2019",
+      "score": 0.9839559197425842,
+      "box": [
+        117,
+        474,
+        649,
+        498
+      ]
+    },
+    {
+      "text": "Studied fundamentals of public health nursing",
+      "score": 0.9916425347328186,
+      "box": [
+        129,
+        496,
+        572,
+        526
+      ]
+    },
+    {
+      "text": "Completed coursework in clinical reasoning",
+      "score": 0.9998553991317749,
+      "box": [
+        132,
+        521,
+        550,
+        551
+      ]
+    }
+  ],
+  "seconds": 2.337677599862218,
+  "id": "14291",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

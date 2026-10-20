@@ -1,0 +1,212 @@
+{
+  "lines": [
+    {
+      "text": "ADAM PATEL",
+      "score": 0.9996517300605774,
+      "box": [
+        118,
+        92,
+        336,
+        120
+      ]
+    },
+    {
+      "text": "NY, USA |+1-226-689-1536 | adam.patel@example.com",
+      "score": 0.9770172834396362,
+      "box": [
+        115,
+        150,
+        643,
+        177
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9988424181938171,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Integrity Books Co., 2020.04—2023.01",
+      "score": 0.9946820735931396,
+      "box": [
+        115,
+        288,
+        675,
+        316
+      ]
+    },
+    {
+      "text": "- Developed audit quality standards",
+      "score": 0.9690542221069336,
+      "box": [
+        129,
+        317,
+        457,
+        341
+      ]
+    },
+    {
+      "text": "- Designed budgeting methodologies",
+      "score": 0.9969538450241089,
+      "box": [
+        127,
+        340,
+        469,
+        368
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Integrity Books Group, 2017.072020.04",
+      "score": 0.9761233925819397,
+      "box": [
+        116,
+        382,
+        703,
+        409
+      ]
+    },
+    {
+      "text": "- Led audit programs",
+      "score": 0.9881407618522644,
+      "box": [
+        127,
+        409,
+        323,
+        433
+      ]
+    },
+    {
+      "text": "- Established financial quality controls",
+      "score": 0.9864971041679382,
+      "box": [
+        126,
+        432,
+        477,
+        456
+      ]
+    },
+    {
+      "text": "Accountants Auditors, OpenLedger Accounting, 2014.10—2017.07",
+      "score": 0.9785991311073303,
+      "box": [
+        116,
+        471,
+        726,
+        499
+      ]
+    },
+    {
+      "text": "- Prepared regulatory reports",
+      "score": 0.991376519203186,
+      "box": [
+        127,
+        500,
+        398,
+        524
+      ]
+    },
+    {
+      "text": "- Managed general ledger maintenance",
+      "score": 0.9978712797164917,
+      "box": [
+        127,
+        521,
+        494,
+        551
+      ]
+    },
+    {
+      "text": "Accountants Auditors, SolidBalance Advisors Group, 2012.01—2014.10",
+      "score": 0.9688999056816101,
+      "box": [
+        116,
+        565,
+        773,
+        592
+      ]
+    },
+    {
+      "text": "- Prepared aging reports",
+      "score": 0.9792177081108093,
+      "box": [
+        125,
+        590,
+        358,
+        619
+      ]
+    },
+    {
+      "text": "- Performed data validation checks",
+      "score": 0.99559086561203,
+      "box": [
+        127,
+        613,
+        452,
+        642
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9998866319656372,
+      "box": [
+        117,
+        681,
+        266,
+        705
+      ]
+    },
+    {
+      "text": "Master's, Business Economics, Oakview University, 2012",
+      "score": 0.9958672523498535,
+      "box": [
+        114,
+        720,
+        650,
+        752
+      ]
+    },
+    {
+      "text": "Bachelor's, Accounting Information Systems, Westview University, 2010",
+      "score": 0.9977577328681946,
+      "box": [
+        116,
+        748,
+        783,
+        775
+      ]
+    },
+    {
+      "text": "• Completed coursework in international accounting basics",
+      "score": 0.9973334670066833,
+      "box": [
+        131,
+        776,
+        674,
+        799
+      ]
+    },
+    {
+      "text": "•Studied principles of hedge accounting",
+      "score": 0.9872059226036072,
+      "box": [
+        131,
+        798,
+        506,
+        827
+      ]
+    }
+  ],
+  "seconds": 3.034371600020677,
+  "id": "36522",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

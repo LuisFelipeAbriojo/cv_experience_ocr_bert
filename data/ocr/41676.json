@@ -1,0 +1,182 @@
+{
+  "lines": [
+    {
+      "text": "CHARLES RASMUSSEN",
+      "score": 0.9762073755264282,
+      "box": [
+        118,
+        92,
+        501,
+        122
+      ]
+    },
+    {
+      "text": "OH, USA | +1-712-660-8652 | charles.rasmussen@example.com",
+      "score": 0.9888495802879333,
+      "box": [
+        116,
+        150,
+        719,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9991585612297058,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Integrity Ledger Group, 2020.09—2023.01",
+      "score": 0.9786196351051331,
+      "box": [
+        114,
+        287,
+        709,
+        318
+      ]
+    },
+    {
+      "text": "- Developed internal control systems",
+      "score": 0.9887844920158386,
+      "box": [
+        128,
+        315,
+        466,
+        342
+      ]
+    },
+    {
+      "text": "- Led financial data standardization",
+      "score": 0.995204508304596,
+      "box": [
+        128,
+        339,
+        453,
+        366
+      ]
+    },
+    {
+      "text": "Accountants Auditors, AccuLedger Group, 2018.052020.09",
+      "score": 0.9838436245918274,
+      "box": [
+        116,
+        381,
+        676,
+        409
+      ]
+    },
+    {
+      "text": "- Performed revenue recognition analysis",
+      "score": 0.999803364276886,
+      "box": [
+        126,
+        408,
+        509,
+        433
+      ]
+    },
+    {
+      "text": "- Prepared working capital analysis",
+      "score": 0.9803486466407776,
+      "box": [
+        127,
+        431,
+        453,
+        459
+      ]
+    },
+    {
+      "text": "Accountants Auditors, OpenBook Accounting, 2016.012018.05",
+      "score": 0.9859271049499512,
+      "box": [
+        116,
+        471,
+        708,
+        499
+      ]
+    },
+    {
+      "text": "- Reviewed timesheets for payroll",
+      "score": 0.9854645133018494,
+      "box": [
+        125,
+        496,
+        440,
+        524
+      ]
+    },
+    {
+      "text": "- Reconciled subsidiary ledgers",
+      "score": 0.9978652000427246,
+      "box": [
+        127,
+        520,
+        420,
+        551
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999123811721802,
+      "box": [
+        117,
+        587,
+        267,
+        614
+      ]
+    },
+    {
+      "text": "Master's, Business Studies, Riverfield University, 2021",
+      "score": 0.9843961000442505,
+      "box": [
+        117,
+        632,
+        619,
+        656
+      ]
+    },
+    {
+      "text": "Bachelor's, Data Analytics, Brookwood University, 2019",
+      "score": 0.990594208240509,
+      "box": [
+        115,
+        656,
+        631,
+        684
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of business performance analysis",
+      "score": 0.9859258532524109,
+      "box": [
+        131,
+        684,
+        664,
+        708
+      ]
+    },
+    {
+      "text": "•Studied principles of financial planning",
+      "score": 0.9883875846862793,
+      "box": [
+        131,
+        706,
+        503,
+        736
+      ]
+    }
+  ],
+  "seconds": 2.5586477001197636,
+  "id": "41676",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

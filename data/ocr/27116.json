@@ -1,0 +1,152 @@
+{
+  "lines": [
+    {
+      "text": "CHATARA DRAKE",
+      "score": 0.9998963475227356,
+      "box": [
+        118,
+        91,
+        411,
+        122
+      ]
+    },
+    {
+      "text": "MI, USA | +1-791-306-7373 |chatara.drake@example.com",
+      "score": 0.9823883771896362,
+      "box": [
+        117,
+        151,
+        661,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9680922627449036,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, OpenArms Care Services, 2019.092022.06",
+      "score": 0.9918655157089233,
+      "box": [
+        117,
+        289,
+        713,
+        316
+      ]
+    },
+    {
+      "text": "- Directed emergency response planning",
+      "score": 0.9780119061470032,
+      "box": [
+        125,
+        314,
+        505,
+        344
+      ]
+    },
+    {
+      "text": "- Developed nursing training programs",
+      "score": 0.985133171081543,
+      "box": [
+        127,
+        340,
+        485,
+        369
+      ]
+    },
+    {
+      "text": "Registered Nurses, KindPath Care Center, 2016.032018.12",
+      "score": 0.9896042346954346,
+      "box": [
+        118,
+        383,
+        681,
+        407
+      ]
+    },
+    {
+      "text": "- Recorded medication administration times",
+      "score": 0.9893666505813599,
+      "box": [
+        125,
+        405,
+        531,
+        435
+      ]
+    },
+    {
+      "text": "- Assisted with respiratory treatments",
+      "score": 0.9916494488716125,
+      "box": [
+        128,
+        432,
+        472,
+        457
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999364018440247,
+      "box": [
+        116,
+        494,
+        267,
+        521
+      ]
+    },
+    {
+      "text": "Master's, Health Studies, Aspen Grove University, 2012",
+      "score": 0.9907328486442566,
+      "box": [
+        114,
+        539,
+        633,
+        567
+      ]
+    },
+    {
+      "text": "Bachelor's, Health and Human Services, Pineview University, 2010",
+      "score": 0.9947779178619385,
+      "box": [
+        117,
+        567,
+        736,
+        591
+      ]
+    },
+    {
+      "text": "•Studied principles of endocrine nursing",
+      "score": 0.9915054440498352,
+      "box": [
+        128,
+        590,
+        509,
+        619
+      ]
+    },
+    {
+      "text": "Studied fundamentals of infusion pump use",
+      "score": 0.9930920600891113,
+      "box": [
+        130,
+        614,
+        549,
+        644
+      ]
+    }
+  ],
+  "seconds": 3.6108692004345357,
+  "id": "27116",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

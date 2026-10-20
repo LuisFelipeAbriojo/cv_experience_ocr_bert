@@ -1,0 +1,202 @@
+{
+  "lines": [
+    {
+      "text": "NICHOLAS MANN",
+      "score": 0.9998308420181274,
+      "box": [
+        117,
+        91,
+        403,
+        122
+      ]
+    },
+    {
+      "text": "CT, USA | +1-891-382-6313 | nicholas.mann@example.com",
+      "score": 0.9893393516540527,
+      "box": [
+        116,
+        150,
+        675,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9987226128578186,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Cloudstack Digital, 2020.072023.01",
+      "score": 0.989120602607727,
+      "box": [
+        117,
+        291,
+        661,
+        315
+      ]
+    },
+    {
+      "text": "- Designed scalable services",
+      "score": 0.9964408874511719,
+      "box": [
+        125,
+        314,
+        396,
+        343
+      ]
+    },
+    {
+      "text": "- Built distributed systems",
+      "score": 0.9907328486442566,
+      "box": [
+        127,
+        339,
+        368,
+        369
+      ]
+    },
+    {
+      "text": "Software Developers, Softnode Systems, 2018.012020.07",
+      "score": 0.9871716499328613,
+      "box": [
+        117,
+        383,
+        665,
+        407
+      ]
+    },
+    {
+      "text": "- Built distributed systems",
+      "score": 0.9760131239891052,
+      "box": [
+        126,
+        409,
+        368,
+        433
+      ]
+    },
+    {
+      "text": "- Defined technical documentation standards",
+      "score": 0.9882618188858032,
+      "box": [
+        127,
+        433,
+        542,
+        456
+      ]
+    },
+    {
+      "text": "Software Developers, Datawave Systems, 2015.06—2018.01",
+      "score": 0.9784674644470215,
+      "box": [
+        116,
+        471,
+        674,
+        499
+      ]
+    },
+    {
+      "text": "- Built frontend components",
+      "score": 0.9974322319030762,
+      "box": [
+        126,
+        498,
+        386,
+        524
+      ]
+    },
+    {
+      "text": "- Improved application performance",
+      "score": 0.9921326637268066,
+      "box": [
+        128,
+        522,
+        457,
+        551
+      ]
+    },
+    {
+      "text": "Software Developers, Clearstone Systems, 2012.112015.06",
+      "score": 0.994374692440033,
+      "box": [
+        117,
+        566,
+        683,
+        590
+      ]
+    },
+    {
+      "text": "- Wrote command-line tools",
+      "score": 0.9976414442062378,
+      "box": [
+        126,
+        590,
+        387,
+        615
+      ]
+    },
+    {
+      "text": "- Performed code formatting",
+      "score": 0.9942585825920105,
+      "box": [
+        127,
+        613,
+        390,
+        642
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999136328697205,
+      "box": [
+        117,
+        681,
+        266,
+        705
+      ]
+    },
+    {
+      "text": "Some college (no degree), Cedarfield University, 2010",
+      "score": 0.9932940602302551,
+      "box": [
+        117,
+        724,
+        620,
+        750
+      ]
+    },
+    {
+      "text": "•Studied principles of image processing",
+      "score": 0.9858892560005188,
+      "box": [
+        130,
+        749,
+        506,
+        775
+      ]
+    },
+    {
+      "text": "•Studied fundamentals of agile methodologies",
+      "score": 0.9855977892875671,
+      "box": [
+        131,
+        773,
+        563,
+        799
+      ]
+    }
+  ],
+  "seconds": 2.864379399921745,
+  "id": "11225",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

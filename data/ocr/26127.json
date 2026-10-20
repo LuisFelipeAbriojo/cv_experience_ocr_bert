@@ -1,0 +1,212 @@
+{
+  "lines": [
+    {
+      "text": "CHARITY MURRAY",
+      "score": 0.9998440742492676,
+      "box": [
+        118,
+        91,
+        422,
+        122
+      ]
+    },
+    {
+      "text": "MA, USA | +1-504-798-5290 | charity.murray@example.com",
+      "score": 0.9924010634422302,
+      "box": [
+        115,
+        150,
+        675,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9990894794464111,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Learning Way Academy, 2019.02—2023.01",
+      "score": 0.9925308227539062,
+      "box": [
+        117,
+        290,
+        858,
+        317
+      ]
+    },
+    {
+      "text": "- Developed learning progression models",
+      "score": 0.9879723787307739,
+      "box": [
+        125,
+        314,
+        510,
+        344
+      ]
+    },
+    {
+      "text": "- Developed data-driven teaching models",
+      "score": 0.9909771680831909,
+      "box": [
+        127,
+        339,
+        510,
+        369
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Harmony Field Academy, 2015.032019.02",
+      "score": 0.9857285022735596,
+      "box": [
+        116,
+        381,
+        868,
+        411
+      ]
+    },
+    {
+      "text": "- Designed systemic intervention models",
+      "score": 0.9857754111289978,
+      "box": [
+        126,
+        408,
+        504,
+        433
+      ]
+    },
+    {
+      "text": "- Developed teacher training modules",
+      "score": 0.9962428212165833,
+      "box": [
+        128,
+        434,
+        476,
+        457
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Morning Star School, 2010.08—2014.07",
+      "score": 0.9859580397605896,
+      "box": [
+        117,
+        471,
+        827,
+        499
+      ]
+    },
+    {
+      "text": "- Evaluated student portfolios",
+      "score": 0.999739944934845,
+      "box": [
+        126,
+        498,
+        401,
+        524
+      ]
+    },
+    {
+      "text": "- Implemented project-based learning activities",
+      "score": 0.9963455200195312,
+      "box": [
+        127,
+        522,
+        561,
+        550
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Bright Futures Academy, 2005.09—2009.08",
+      "score": 0.9874263405799866,
+      "box": [
+        116,
+        564,
+        862,
+        592
+      ]
+    },
+    {
+      "text": "- Collected student assignments",
+      "score": 0.9888845086097717,
+      "box": [
+        128,
+        592,
+        428,
+        616
+      ]
+    },
+    {
+      "text": "- Prepared lesson summaries",
+      "score": 0.9768899083137512,
+      "box": [
+        126,
+        613,
+        403,
+        645
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999321699142456,
+      "box": [
+        117,
+        681,
+        266,
+        705
+      ]
+    },
+    {
+      "text": "Master's, Foundations of Learning, Prairie Ridge University, 2004",
+      "score": 0.9995964765548706,
+      "box": [
+        115,
+        723,
+        720,
+        751
+      ]
+    },
+    {
+      "text": "Bachelor's, Youth Studies, Crossfield University, 2002",
+      "score": 0.9939410090446472,
+      "box": [
+        116,
+        748,
+        617,
+        775
+      ]
+    },
+    {
+      "text": "• Completed coursework in classroom organization",
+      "score": 0.9890036582946777,
+      "box": [
+        131,
+        776,
+        604,
+        800
+      ]
+    },
+    {
+      "text": "Studied principles of student support systems",
+      "score": 0.9970244765281677,
+      "box": [
+        130,
+        797,
+        569,
+        828
+      ]
+    }
+  ],
+  "seconds": 3.228319099638611,
+  "id": "26127",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

@@ -1,0 +1,152 @@
+{
+  "lines": [
+    {
+      "text": "LAUREN BARBER",
+      "score": 0.9731253385543823,
+      "box": [
+        116,
+        89,
+        410,
+        122
+      ]
+    },
+    {
+      "text": "WA, USA | +1-983-725-1009 | lauren.barber@example.com",
+      "score": 0.9805853962898254,
+      "box": [
+        118,
+        152,
+        668,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9991331696510315,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Future Bridge Academy, 2020.07—2023.01",
+      "score": 0.9920786023139954,
+      "box": [
+        115,
+        287,
+        856,
+        319
+      ]
+    },
+    {
+      "text": "- Designed systemic intervention models",
+      "score": 0.9925102591514587,
+      "box": [
+        125,
+        314,
+        505,
+        342
+      ]
+    },
+    {
+      "text": "- Directed academic intervention strategies",
+      "score": 0.9873508214950562,
+      "box": [
+        126,
+        339,
+        526,
+        368
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Bright Meadows Academy, 2018.012020.07",
+      "score": 0.9892318844795227,
+      "box": [
+        116,
+        381,
+        881,
+        411
+      ]
+    },
+    {
+      "text": "- Implemented basic classroom management procedures",
+      "score": 0.991303026676178,
+      "box": [
+        126,
+        408,
+        656,
+        435
+      ]
+    },
+    {
+      "text": "- Recorded behavioral observations",
+      "score": 0.9810566902160645,
+      "box": [
+        127,
+        431,
+        459,
+        456
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9996746778488159,
+      "box": [
+        116,
+        494,
+        267,
+        521
+      ]
+    },
+    {
+      "text": "Master's, Developmental Studies, Clearbrook University, 2016",
+      "score": 0.9988995790481567,
+      "box": [
+        116,
+        542,
+        691,
+        566
+      ]
+    },
+    {
+      "text": "Bachelor's, Child Development, Riverstone Ridge University, 2014",
+      "score": 0.9907933473587036,
+      "box": [
+        116,
+        566,
+        731,
+        593
+      ]
+    },
+    {
+      "text": "• Completed coursework in basic tutoring methods",
+      "score": 0.9782969355583191,
+      "box": [
+        131,
+        593,
+        601,
+        617
+      ]
+    },
+    {
+      "text": "Completed coursework in educational technology basics",
+      "score": 0.9675829410552979,
+      "box": [
+        131,
+        613,
+        668,
+        645
+      ]
+    }
+  ],
+  "seconds": 3.1108477003872395,
+  "id": "58555",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

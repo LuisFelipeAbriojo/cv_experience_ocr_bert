@@ -1,0 +1,132 @@
+{
+  "lines": [
+    {
+      "text": "TYLER KEMP",
+      "score": 0.9997729063034058,
+      "box": [
+        117,
+        90,
+        333,
+        121
+      ]
+    },
+    {
+      "text": "MN, USA | +1-988-422-6385 | tyler.kemp@example.com",
+      "score": 0.987034022808075,
+      "box": [
+        116,
+        149,
+        640,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9997437000274658,
+      "box": [
+        117,
+        243,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Construction Laborers, SureStone Construction, 2020.07—2023.01",
+      "score": 0.9889571070671082,
+      "box": [
+        118,
+        289,
+        727,
+        313
+      ]
+    },
+    {
+      "text": "- Reviewed workflow efficiency reports",
+      "score": 0.9866114258766174,
+      "box": [
+        125,
+        314,
+        484,
+        340
+      ]
+    },
+    {
+      "text": "- Established construction benchmarks",
+      "score": 0.9929932355880737,
+      "box": [
+        126,
+        339,
+        487,
+        365
+      ]
+    },
+    {
+      "text": "Construction Laborers, SolidCraft Contractors, 2016.11—2019.06",
+      "score": 0.9922768473625183,
+      "box": [
+        117,
+        381,
+        713,
+        406
+      ]
+    },
+    {
+      "text": "- Performed basic sanding and painting",
+      "score": 0.996310293674469,
+      "box": [
+        125,
+        406,
+        492,
+        434
+      ]
+    },
+    {
+      "text": "- Performed basic carpentry tasks",
+      "score": 0.9967626929283142,
+      "box": [
+        127,
+        429,
+        443,
+        458
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999277591705322,
+      "box": [
+        117,
+        494,
+        268,
+        521
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Construction Equipment Technology, Lakewood High School, 2006",
+      "score": 0.9984705448150635,
+      "box": [
+        117,
+        540,
+        995,
+        567
+      ]
+    },
+    {
+      "text": "• Completed coursework in surveying basics",
+      "score": 0.9847306609153748,
+      "box": [
+        134,
+        567,
+        544,
+        591
+      ]
+    }
+  ],
+  "seconds": 2.5060708997771144,
+  "id": "28446",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

@@ -1,0 +1,112 @@
+{
+  "lines": [
+    {
+      "text": "CURTIS VILLANUEVA",
+      "score": 0.997574508190155,
+      "box": [
+        118,
+        91,
+        465,
+        122
+      ]
+    },
+    {
+      "text": "CA, USA | +1-304-370-6907 | curtis.villanueva@example.com",
+      "score": 0.9815129041671753,
+      "box": [
+        118,
+        152,
+        688,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9997084736824036,
+      "box": [
+        117,
+        243,
+        317,
+        270
+      ]
+    },
+    {
+      "text": "Construction Laborers, FirmRise Construction, 2021.012022.06",
+      "score": 0.9920342564582825,
+      "box": [
+        118,
+        290,
+        714,
+        314
+      ]
+    },
+    {
+      "text": "- Installed insulation materials",
+      "score": 0.9850826263427734,
+      "box": [
+        126,
+        314,
+        405,
+        339
+      ]
+    },
+    {
+      "text": "- Installed basic flooring materials",
+      "score": 0.9989966154098511,
+      "box": [
+        129,
+        341,
+        439,
+        365
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999958872795105,
+      "box": [
+        116,
+        404,
+        268,
+        431
+      ]
+    },
+    {
+      "text": "Associate's degree, Construction Practices, Oakridge Valley University, 2001",
+      "score": 0.9901115298271179,
+      "box": [
+        117,
+        448,
+        826,
+        475
+      ]
+    },
+    {
+      "text": "•Completed coursework in construction logistics planning",
+      "score": 0.9874929785728455,
+      "box": [
+        131,
+        471,
+        666,
+        502
+      ]
+    },
+    {
+      "text": "• Completed coursework in construction cost basics",
+      "score": 0.9865314364433289,
+      "box": [
+        134,
+        499,
+        612,
+        523
+      ]
+    }
+  ],
+  "seconds": 2.1864470997825265,
+  "id": "02639",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

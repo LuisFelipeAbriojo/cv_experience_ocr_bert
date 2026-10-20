@@ -1,0 +1,212 @@
+{
+  "lines": [
+    {
+      "text": "SABRINA DUNCAN",
+      "score": 0.999897837638855,
+      "box": [
+        117,
+        91,
+        425,
+        122
+      ]
+    },
+    {
+      "text": "MA, USA | +1-231-995-7652 | sabrina.duncan@example.com",
+      "score": 0.9961991310119629,
+      "box": [
+        115,
+        150,
+        686,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.999011754989624,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Bright Star School, 2020.07—2023.01",
+      "score": 0.9845401048660278,
+      "box": [
+        115,
+        287,
+        805,
+        318
+      ]
+    },
+    {
+      "text": "- Led professional development planning",
+      "score": 0.9789283871650696,
+      "box": [
+        126,
+        316,
+        504,
+        342
+      ]
+    },
+    {
+      "text": "- Designed systemic intervention models",
+      "score": 0.9839053750038147,
+      "box": [
+        127,
+        340,
+        504,
+        367
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Learning Way Academy, 2018.01—2020.07",
+      "score": 0.9897045493125916,
+      "box": [
+        116,
+        381,
+        860,
+        411
+      ]
+    },
+    {
+      "text": "- Developed instructional innovation plans",
+      "score": 0.9929596185684204,
+      "box": [
+        126,
+        408,
+        515,
+        433
+      ]
+    },
+    {
+      "text": "- Developed instructional evaluation metrics",
+      "score": 0.9993008971214294,
+      "box": [
+        125,
+        430,
+        533,
+        459
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, BrightPath Learning Center, 2015.07—2018.01",
+      "score": 0.9933081269264221,
+      "box": [
+        117,
+        472,
+        889,
+        499
+      ]
+    },
+    {
+      "text": "- Implemented classroom routines",
+      "score": 0.981955885887146,
+      "box": [
+        126,
+        498,
+        445,
+        524
+      ]
+    },
+    {
+      "text": "- Evaluated student portfolios",
+      "score": 0.9881573915481567,
+      "box": [
+        127,
+        522,
+        400,
+        550
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Discovery Grove School, 2010.112013.06",
+      "score": 0.9805997014045715,
+      "box": [
+        117,
+        565,
+        863,
+        592
+      ]
+    },
+    {
+      "text": "- Collected permission forms",
+      "score": 0.9915343523025513,
+      "box": [
+        127,
+        592,
+        395,
+        616
+      ]
+    },
+    {
+      "text": "- Distributed instructional handouts",
+      "score": 0.9983290433883667,
+      "box": [
+        125,
+        613,
+        452,
+        642
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9998980760574341,
+      "box": [
+        117,
+        681,
+        266,
+        705
+      ]
+    },
+    {
+      "text": "Master's, Human Development, Heritage University, 2006",
+      "score": 0.9951302409172058,
+      "box": [
+        115,
+        723,
+        650,
+        750
+      ]
+    },
+    {
+      "text": "Bachelor's, General Education, Briarwood University, 2004",
+      "score": 0.99546217918396,
+      "box": [
+        117,
+        750,
+        659,
+        774
+      ]
+    },
+    {
+      "text": "•Studied fundamentals of learning environments",
+      "score": 0.9729070067405701,
+      "box": [
+        129,
+        773,
+        585,
+        801
+      ]
+    },
+    {
+      "text": "Completed coursework in introductory child psychology",
+      "score": 0.9904049038887024,
+      "box": [
+        131,
+        797,
+        657,
+        829
+      ]
+    }
+  ],
+  "seconds": 3.17396720033139,
+  "id": "26239",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

@@ -1,0 +1,122 @@
+{
+  "lines": [
+    {
+      "text": "DAKOTA TRAN",
+      "score": 0.9998409748077393,
+      "box": [
+        116,
+        89,
+        364,
+        123
+      ]
+    },
+    {
+      "text": "CA, USA | +1-943-843-7203 | dakota.tran@example.com",
+      "score": 0.9804153442382812,
+      "box": [
+        117,
+        150,
+        645,
+        177
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.999747097492218,
+      "box": [
+        117,
+        243,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Software Developers, Softpeak Technologies, 2018.112020.02",
+      "score": 0.9963366985321045,
+      "box": [
+        117,
+        290,
+        709,
+        314
+      ]
+    },
+    {
+      "text": "- Assisted with database queries",
+      "score": 0.998465895652771,
+      "box": [
+        125,
+        314,
+        430,
+        340
+      ]
+    },
+    {
+      "text": "- Participated in code reviews",
+      "score": 0.9916638135910034,
+      "box": [
+        128,
+        339,
+        403,
+        365
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9998874664306641,
+      "box": [
+        116,
+        404,
+        268,
+        431
+      ]
+    },
+    {
+      "text": "Master's, Timberline University, 2017",
+      "score": 0.9976456165313721,
+      "box": [
+        115,
+        447,
+        463,
+        474
+      ]
+    },
+    {
+      "text": "Bachelor's, Seabreeze University, 2015",
+      "score": 0.9881590604782104,
+      "box": [
+        117,
+        474,
+        483,
+        498
+      ]
+    },
+    {
+      "text": "Studied principles of data modeling",
+      "score": 0.9986748695373535,
+      "box": [
+        129,
+        497,
+        474,
+        527
+      ]
+    },
+    {
+      "text": " Completed coursework in message queues",
+      "score": 0.988644540309906,
+      "box": [
+        132,
+        522,
+        549,
+        550
+      ]
+    }
+  ],
+  "seconds": 1.9037766000255942,
+  "id": "04259",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

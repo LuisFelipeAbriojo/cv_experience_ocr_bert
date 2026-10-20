@@ -1,0 +1,142 @@
+{
+  "lines": [
+    {
+      "text": "SALVATORE HERMAN",
+      "score": 0.9993540048599243,
+      "box": [
+        116,
+        90,
+        480,
+        122
+      ]
+    },
+    {
+      "text": "IN, USA | +1-620-259-8471 | salvatore.herman@example.com",
+      "score": 0.9871127009391785,
+      "box": [
+        118,
+        152,
+        693,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9985339641571045,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Balanced Books Advisors, 2020.09—2023.01",
+      "score": 0.9896314144134521,
+      "box": [
+        117,
+        290,
+        735,
+        314
+      ]
+    },
+    {
+      "text": "- Directed accounting operations planning",
+      "score": 0.9975824356079102,
+      "box": [
+        125,
+        313,
+        514,
+        343
+      ]
+    },
+    {
+      "text": "- Developed internal control systems",
+      "score": 0.9661848545074463,
+      "box": [
+        127,
+        339,
+        467,
+        368
+      ]
+    },
+    {
+      "text": "Accountants Auditors, TrustLedger Group, 2016.05—2018.09",
+      "score": 0.9885777235031128,
+      "box": [
+        116,
+        380,
+        677,
+        408
+      ]
+    },
+    {
+      "text": "- Prepared account reconciliations",
+      "score": 0.9989535212516785,
+      "box": [
+        125,
+        407,
+        446,
+        433
+      ]
+    },
+    {
+      "text": "- Maintained accounting software records",
+      "score": 0.9887384176254272,
+      "box": [
+        126,
+        431,
+        510,
+        458
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999919056892395,
+      "box": [
+        117,
+        494,
+        267,
+        521
+      ]
+    },
+    {
+      "text": "Bachelor's, Administrative Studies, Springdale University, 2011",
+      "score": 0.9910750389099121,
+      "box": [
+        116,
+        540,
+        698,
+        567
+      ]
+    },
+    {
+      "text": "• Completed coursework in supply chain accounting",
+      "score": 0.9800740480422974,
+      "box": [
+        131,
+        565,
+        614,
+        593
+      ]
+    },
+    {
+      "text": "•Completed coursework in accounting information systems",
+      "score": 0.9821315407752991,
+      "box": [
+        131,
+        590,
+        681,
+        618
+      ]
+    }
+  ],
+  "seconds": 2.661454599816352,
+  "id": "19881",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

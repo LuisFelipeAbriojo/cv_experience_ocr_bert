@@ -1,0 +1,142 @@
+{
+  "lines": [
+    {
+      "text": "KAREN WILKERSON",
+      "score": 0.9936850666999817,
+      "box": [
+        117,
+        91,
+        450,
+        121
+      ]
+    },
+    {
+      "text": "FL, USA | +1-225-896-6536 | karen.wilkerson@example.com",
+      "score": 0.9904016256332397,
+      "box": [
+        118,
+        152,
+        680,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9991734027862549,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, SolidBalance Services, 2020.02—2021.09",
+      "score": 0.995924711227417,
+      "box": [
+        115,
+        288,
+        708,
+        316
+      ]
+    },
+    {
+      "text": "- Led regulatory compliance initiatives",
+      "score": 0.997643768787384,
+      "box": [
+        129,
+        317,
+        478,
+        341
+      ]
+    },
+    {
+      "text": "- Developed regulatory reporting strategies",
+      "score": 0.9854540228843689,
+      "box": [
+        127,
+        340,
+        525,
+        368
+      ]
+    },
+    {
+      "text": "Accountants Auditors, OpenBooks Financial Group, 2017.10—2019.06",
+      "score": 0.9853555560112,
+      "box": [
+        115,
+        379,
+        764,
+        410
+      ]
+    },
+    {
+      "text": "- Compiled audit evidence",
+      "score": 0.9794653058052063,
+      "box": [
+        125,
+        408,
+        371,
+        433
+      ]
+    },
+    {
+      "text": "- Processed expense reimbursements",
+      "score": 0.9908115267753601,
+      "box": [
+        129,
+        434,
+        480,
+        457
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999361038208008,
+      "box": [
+        117,
+        494,
+        267,
+        521
+      ]
+    },
+    {
+      "text": "Bachelor's, Accounting Practice, Pine Valley University, 2003",
+      "score": 0.9826287627220154,
+      "box": [
+        117,
+        542,
+        680,
+        566
+      ]
+    },
+    {
+      "text": "• Completed coursework in intangible asset accounting",
+      "score": 0.9893293380737305,
+      "box": [
+        132,
+        566,
+        640,
+        592
+      ]
+    },
+    {
+      "text": "•Completed coursework in economics for accounting",
+      "score": 0.9800435900688171,
+      "box": [
+        131,
+        589,
+        627,
+        619
+      ]
+    }
+  ],
+  "seconds": 2.3632080000825226,
+  "id": "12520",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

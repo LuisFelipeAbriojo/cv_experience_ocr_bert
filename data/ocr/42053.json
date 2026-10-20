@@ -1,0 +1,202 @@
+{
+  "lines": [
+    {
+      "text": "JEREMY WAGNER",
+      "score": 0.9991335272789001,
+      "box": [
+        117,
+        93,
+        415,
+        120
+      ]
+    },
+    {
+      "text": "OH, USA | +1-255-827-6812 | jeremy.wagner@example.com",
+      "score": 0.9886040091514587,
+      "box": [
+        116,
+        150,
+        680,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9989233016967773,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, CoreLedger Financial, 2020.01—2023.01",
+      "score": 0.9879353642463684,
+      "box": [
+        115,
+        288,
+        698,
+        316
+      ]
+    },
+    {
+      "text": "- Directed accounting leadership initiatives",
+      "score": 0.9736974835395813,
+      "box": [
+        126,
+        314,
+        521,
+        344
+      ]
+    },
+    {
+      "text": "- Designed financial policy frameworks",
+      "score": 0.964008629322052,
+      "box": [
+        127,
+        340,
+        485,
+        368
+      ]
+    },
+    {
+      "text": "Accountants Auditors, OpenLedger Accounting, 2017.01—2020.01",
+      "score": 0.9855111837387085,
+      "box": [
+        116,
+        381,
+        724,
+        409
+      ]
+    },
+    {
+      "text": "- Managed financial governance",
+      "score": 0.998951256275177,
+      "box": [
+        126,
+        409,
+        425,
+        433
+      ]
+    },
+    {
+      "text": "- Led financial forecasting initiatives",
+      "score": 0.9960063099861145,
+      "box": [
+        127,
+        431,
+        458,
+        459
+      ]
+    },
+    {
+      "text": "Accountants Auditors, FairLedger Financial Group, 2013.04—2016.04",
+      "score": 0.9843958616256714,
+      "box": [
+        116,
+        471,
+        754,
+        499
+      ]
+    },
+    {
+      "text": "- Prepared cost allocation models",
+      "score": 0.9920120239257812,
+      "box": [
+        127,
+        498,
+        441,
+        525
+      ]
+    },
+    {
+      "text": "- Implemented accounting procedures",
+      "score": 0.991972804069519,
+      "box": [
+        128,
+        521,
+        480,
+        551
+      ]
+    },
+    {
+      "text": "Accountants Auditors, CoreBooks Financial Group, 2009.07—2012.07",
+      "score": 0.9906975030899048,
+      "box": [
+        117,
+        565,
+        757,
+        592
+      ]
+    },
+    {
+      "text": "- Prepared variance reports",
+      "score": 0.9816219210624695,
+      "box": [
+        126,
+        589,
+        385,
+        618
+      ]
+    },
+    {
+      "text": "- Assisted with regulatory filings",
+      "score": 0.9813311100006104,
+      "box": [
+        127,
+        614,
+        422,
+        644
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9998914003372192,
+      "box": [
+        117,
+        681,
+        266,
+        705
+      ]
+    },
+    {
+      "text": "Bachelor's, Business Economics, Clearfield University, 2005",
+      "score": 0.9722821116447449,
+      "box": [
+        115,
+        722,
+        673,
+        751
+      ]
+    },
+    {
+      "text": "• Studied principles of financial review procedures",
+      "score": 0.9940099716186523,
+      "box": [
+        133,
+        751,
+        596,
+        775
+      ]
+    },
+    {
+      "text": "• Completed coursework in professional standards",
+      "score": 0.9869926571846008,
+      "box": [
+        134,
+        775,
+        599,
+        799
+      ]
+    }
+  ],
+  "seconds": 3.024847500026226,
+  "id": "42053",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

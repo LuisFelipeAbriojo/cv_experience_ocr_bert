@@ -1,0 +1,172 @@
+{
+  "lines": [
+    {
+      "text": "JENNIFER SANTIAGO",
+      "score": 0.9999153017997742,
+      "box": [
+        116,
+        91,
+        465,
+        121
+      ]
+    },
+    {
+      "text": "TX, USA | +1-338-427-9852 | jennifer.santiago@example.com",
+      "score": 0.9982076287269592,
+      "box": [
+        116,
+        150,
+        691,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9990050792694092,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Corebyte Systems, 2021.012023.01",
+      "score": 0.999448299407959,
+      "box": [
+        116,
+        290,
+        666,
+        317
+      ]
+    },
+    {
+      "text": "- Defined code review processes",
+      "score": 0.9867235422134399,
+      "box": [
+        126,
+        315,
+        433,
+        344
+      ]
+    },
+    {
+      "text": "- Defined coding standards",
+      "score": 0.9838420152664185,
+      "box": [
+        127,
+        340,
+        380,
+        369
+      ]
+    },
+    {
+      "text": "Software Developers, Cloudpath Labs, 2017.072019.07",
+      "score": 0.9944779872894287,
+      "box": [
+        117,
+        382,
+        643,
+        409
+      ]
+    },
+    {
+      "text": "- Designed integration tests",
+      "score": 0.9605409502983093,
+      "box": [
+        127,
+        409,
+        384,
+        433
+      ]
+    },
+    {
+      "text": "- Designed documentation templates",
+      "score": 0.9980592131614685,
+      "box": [
+        128,
+        434,
+        468,
+        457
+      ]
+    },
+    {
+      "text": "Software Developers, Skycore Technologies, 2014.06—2016.07",
+      "score": 0.9774282574653625,
+      "box": [
+        117,
+        472,
+        702,
+        499
+      ]
+    },
+    {
+      "text": "- Updated frontend stylesheets",
+      "score": 0.9996996521949768,
+      "box": [
+        130,
+        499,
+        415,
+        523
+      ]
+    },
+    {
+      "text": "- Implemented basic features in existing codebases",
+      "score": 0.9958109259605408,
+      "box": [
+        128,
+        521,
+        604,
+        550
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9998637437820435,
+      "box": [
+        117,
+        587,
+        267,
+        614
+      ]
+    },
+    {
+      "text": "Bachelor's, Canyon View University, 2008",
+      "score": 0.9961959719657898,
+      "box": [
+        118,
+        633,
+        504,
+        657
+      ]
+    },
+    {
+      "text": "•Studied fundamentals of software metrics",
+      "score": 0.9889499545097351,
+      "box": [
+        129,
+        657,
+        531,
+        682
+      ]
+    },
+    {
+      "text": "•Studied fundamentals of responsive design",
+      "score": 0.9868726134300232,
+      "box": [
+        129,
+        680,
+        548,
+        710
+      ]
+    }
+  ],
+  "seconds": 2.367169300094247,
+  "id": "49843",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

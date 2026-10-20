@@ -1,0 +1,172 @@
+{
+  "lines": [
+    {
+      "text": "STEPHANIE MCCONNELL",
+      "score": 0.9997828602790833,
+      "box": [
+        117,
+        92,
+        531,
+        122
+      ]
+    },
+    {
+      "text": "VA, USA | +1-992-853-6014 | stephanie.mcconnell@example.com",
+      "score": 0.9865753650665283,
+      "box": [
+        116,
+        150,
+        730,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9991202354431152,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Growing Start Academy, 2020.06—2023.01",
+      "score": 0.9927880167961121,
+      "box": [
+        115,
+        287,
+        857,
+        319
+      ]
+    },
+    {
+      "text": "- Established curriculum evaluation protocols",
+      "score": 0.9870126247406006,
+      "box": [
+        125,
+        314,
+        544,
+        342
+      ]
+    },
+    {
+      "text": "- Designed instructional quality standards",
+      "score": 0.9797625541687012,
+      "box": [
+        126,
+        339,
+        512,
+        368
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Sunny Start School, 2017.042019.12",
+      "score": 0.9945393204689026,
+      "box": [
+        116,
+        381,
+        819,
+        411
+      ]
+    },
+    {
+      "text": "- Coordinated subject integration",
+      "score": 0.9818854928016663,
+      "box": [
+        127,
+        409,
+        432,
+        433
+      ]
+    },
+    {
+      "text": "- Designed reading intervention plans",
+      "score": 0.9778887033462524,
+      "box": [
+        126,
+        431,
+        475,
+        459
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Growing Path School, 2014.02—2016.10",
+      "score": 0.9880291819572449,
+      "box": [
+        117,
+        471,
+        835,
+        499
+      ]
+    },
+    {
+      "text": "- Recorded behavioral observations",
+      "score": 0.9930033683776855,
+      "box": [
+        125,
+        496,
+        459,
+        525
+      ]
+    },
+    {
+      "text": "- Administered quizzes and short assessments",
+      "score": 0.9870930314064026,
+      "box": [
+        127,
+        521,
+        562,
+        549
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9998908638954163,
+      "box": [
+        117,
+        587,
+        267,
+        614
+      ]
+    },
+    {
+      "text": "Bachelor's, Learning Support Studies, Silverwood University, 2005",
+      "score": 0.990453839302063,
+      "box": [
+        117,
+        632,
+        731,
+        659
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of learning reinforcement",
+      "score": 0.9892889857292175,
+      "box": [
+        130,
+        658,
+        588,
+        683
+      ]
+    },
+    {
+      "text": "•Completed coursework in literacy development",
+      "score": 0.9881328344345093,
+      "box": [
+        132,
+        681,
+        582,
+        709
+      ]
+    }
+  ],
+  "seconds": 3.027329399716109,
+  "id": "57033",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

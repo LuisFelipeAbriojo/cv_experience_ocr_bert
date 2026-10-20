@@ -1,0 +1,182 @@
+{
+  "lines": [
+    {
+      "text": "KEVIN TORRES",
+      "score": 0.9980402588844299,
+      "box": [
+        117,
+        91,
+        368,
+        121
+      ]
+    },
+    {
+      "text": "MA, USA | +1-882-793-1840 | kevin.torres@example.com",
+      "score": 0.9920206665992737,
+      "box": [
+        117,
+        152,
+        650,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9991250038146973,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Bright River Academy, 2020.01—2023.01",
+      "score": 0.9908087253570557,
+      "box": [
+        115,
+        287,
+        839,
+        318
+      ]
+    },
+    {
+      "text": "- Led instructional technology integration",
+      "score": 0.9956018328666687,
+      "box": [
+        125,
+        314,
+        505,
+        343
+      ]
+    },
+    {
+      "text": "- Led instructional leadership initiatives",
+      "score": 0.990359365940094,
+      "box": [
+        127,
+        340,
+        488,
+        367
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Open Fields School, 2017.012020.01",
+      "score": 0.9947632551193237,
+      "box": [
+        117,
+        382,
+        819,
+        409
+      ]
+    },
+    {
+      "text": "- Designed reading intervention plans",
+      "score": 0.983498215675354,
+      "box": [
+        127,
+        409,
+        475,
+        433
+      ]
+    },
+    {
+      "text": "- Developed math enrichment lessons",
+      "score": 0.9915821552276611,
+      "box": [
+        126,
+        432,
+        479,
+        457
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Sunny Start School, 2014.012017.01",
+      "score": 0.989547073841095,
+      "box": [
+        118,
+        472,
+        815,
+        499
+      ]
+    },
+    {
+      "text": "- Maintained classroom bulletin boards",
+      "score": 0.9991249442100525,
+      "box": [
+        126,
+        497,
+        487,
+        522
+      ]
+    },
+    {
+      "text": "- Recorded test results",
+      "score": 0.9625407457351685,
+      "box": [
+        127,
+        521,
+        340,
+        548
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999021887779236,
+      "box": [
+        117,
+        587,
+        267,
+        614
+      ]
+    },
+    {
+      "text": "Master's, Child Studies, Pioneer University, 2013",
+      "score": 0.9893888235092163,
+      "box": [
+        117,
+        633,
+        570,
+        657
+      ]
+    },
+    {
+      "text": "Bachelor's, Education Services, Harborview University, 2011",
+      "score": 0.9981726408004761,
+      "box": [
+        116,
+        657,
+        677,
+        684
+      ]
+    },
+    {
+      "text": "• Completed coursework in phonics instruction",
+      "score": 0.9715361595153809,
+      "box": [
+        133,
+        683,
+        563,
+        708
+      ]
+    },
+    {
+      "text": "Completed coursework in instructional improvement methods",
+      "score": 0.9885608553886414,
+      "box": [
+        131,
+        704,
+        714,
+        737
+      ]
+    }
+  ],
+  "seconds": 2.9474627999588847,
+  "id": "26549",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

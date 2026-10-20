@@ -1,0 +1,202 @@
+{
+  "lines": [
+    {
+      "text": "KRISTIE ODONNELL",
+      "score": 0.9997279644012451,
+      "box": [
+        118,
+        91,
+        444,
+        122
+      ]
+    },
+    {
+      "text": "GA, USA | +1-930-770-6887 | kristie.odonnell@example.com",
+      "score": 0.9850066304206848,
+      "box": [
+        116,
+        150,
+        681,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.999103844165802,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Future Field Academy, 2019.05—2023.01",
+      "score": 0.9858879446983337,
+      "box": [
+        117,
+        290,
+        840,
+        317
+      ]
+    },
+    {
+      "text": "- Designed instructional quality standards",
+      "score": 0.9985543489456177,
+      "box": [
+        126,
+        316,
+        509,
+        340
+      ]
+    },
+    {
+      "text": "- Directed assessment development efforts",
+      "score": 0.9896374344825745,
+      "box": [
+        126,
+        339,
+        527,
+        368
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Harmony Grove Academy, 2015.08—2019.05",
+      "score": 0.9900651574134827,
+      "box": [
+        115,
+        380,
+        879,
+        411
+      ]
+    },
+    {
+      "text": "- Developed instructional innovation plans",
+      "score": 0.9714674353599548,
+      "box": [
+        127,
+        408,
+        514,
+        433
+      ]
+    },
+    {
+      "text": "- Designed learning analytics frameworks",
+      "score": 0.9817764163017273,
+      "box": [
+        126,
+        431,
+        511,
+        459
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Golden Horizons Academy, 2011.112015.08",
+      "score": 0.9996688365936279,
+      "box": [
+        117,
+        472,
+        886,
+        499
+      ]
+    },
+    {
+      "text": "- Organized instructional schedules",
+      "score": 0.9927253723144531,
+      "box": [
+        126,
+        497,
+        456,
+        525
+      ]
+    },
+    {
+      "text": "- Analyzed student performance data",
+      "score": 0.9822078347206116,
+      "box": [
+        127,
+        521,
+        471,
+        550
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Harmony Path Academy, 2008.02—2011.11",
+      "score": 0.9927400946617126,
+      "box": [
+        117,
+        565,
+        863,
+        592
+      ]
+    },
+    {
+      "text": "- Set up classroom technology tools",
+      "score": 0.9970918893814087,
+      "box": [
+        125,
+        589,
+        461,
+        618
+      ]
+    },
+    {
+      "text": "- Supervised classroom activities",
+      "score": 0.9832596182823181,
+      "box": [
+        125,
+        614,
+        435,
+        644
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999028444290161,
+      "box": [
+        117,
+        681,
+        266,
+        705
+      ]
+    },
+    {
+      "text": "Bachelor's, Applied Child Studies, Riverwood University, 2009",
+      "score": 0.9945958256721497,
+      "box": [
+        117,
+        726,
+        688,
+        749
+      ]
+    },
+    {
+      "text": "• Studied principles of content delivery",
+      "score": 0.9845833778381348,
+      "box": [
+        132,
+        750,
+        487,
+        774
+      ]
+    },
+    {
+      "text": "• Completed coursework in classroom learning design",
+      "score": 0.9870883822441101,
+      "box": [
+        132,
+        772,
+        631,
+        802
+      ]
+    }
+  ],
+  "seconds": 3.024078099988401,
+  "id": "16521",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

@@ -1,0 +1,142 @@
+{
+  "lines": [
+    {
+      "text": "ALEAH CARTER",
+      "score": 0.9998638033866882,
+      "box": [
+        118,
+        91,
+        381,
+        122
+      ]
+    },
+    {
+      "text": "SC, USA | +1-998-786-4098 | aleah.carter@example.com",
+      "score": 0.9814872741699219,
+      "box": [
+        118,
+        152,
+        650,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9990568161010742,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, Compassion Care Group, 2020.04—2022.02",
+      "score": 0.986176609992981,
+      "box": [
+        115,
+        287,
+        708,
+        318
+      ]
+    },
+    {
+      "text": "- Established care delivery standards",
+      "score": 0.9875882863998413,
+      "box": [
+        126,
+        314,
+        471,
+        341
+      ]
+    },
+    {
+      "text": "- Managed patient safety reporting systems",
+      "score": 0.9937418699264526,
+      "box": [
+        126,
+        339,
+        529,
+        368
+      ]
+    },
+    {
+      "text": "Registered Nurses, Compassion Way Care, 2017.082019.07",
+      "score": 0.9924455285072327,
+      "box": [
+        115,
+        379,
+        692,
+        410
+      ]
+    },
+    {
+      "text": "- Assisted with hygiene care",
+      "score": 0.983778178691864,
+      "box": [
+        124,
+        404,
+        390,
+        434
+      ]
+    },
+    {
+      "text": "- Recorded nursing notes",
+      "score": 0.9897546172142029,
+      "box": [
+        125,
+        430,
+        366,
+        460
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999405741691589,
+      "box": [
+        116,
+        494,
+        267,
+        521
+      ]
+    },
+    {
+      "text": "Bachelor's, Pediatric Care, Evergreen University, 2013",
+      "score": 0.9917675256729126,
+      "box": [
+        115,
+        539,
+        622,
+        567
+      ]
+    },
+    {
+      "text": "•Studied fundamentals of quality assurance in care",
+      "score": 0.9758590459823608,
+      "box": [
+        129,
+        565,
+        610,
+        593
+      ]
+    },
+    {
+      "text": "Studied principles of adverse drug reactions",
+      "score": 0.998853325843811,
+      "box": [
+        130,
+        590,
+        555,
+        618
+      ]
+    }
+  ],
+  "seconds": 2.5240671997889876,
+  "id": "48045",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

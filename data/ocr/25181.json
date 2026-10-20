@@ -1,0 +1,202 @@
+{
+  "lines": [
+    {
+      "text": "FATIMA SCHROEDER",
+      "score": 0.999785304069519,
+      "box": [
+        116,
+        89,
+        466,
+        122
+      ]
+    },
+    {
+      "text": "MA, USA | +1-619-951-1796 |fatima.schroeder@example.com",
+      "score": 0.9806317687034607,
+      "box": [
+        117,
+        151,
+        697,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9968559145927429,
+      "box": [
+        117,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, SafePath Nursing, 2020.072023.01",
+      "score": 0.9853082299232483,
+      "box": [
+        115,
+        287,
+        639,
+        320
+      ]
+    },
+    {
+      "text": "- Supervised multidisciplinary care teams",
+      "score": 0.9816992282867432,
+      "box": [
+        126,
+        314,
+        510,
+        343
+      ]
+    },
+    {
+      "text": "- Implemented evidence-based practice models",
+      "score": 0.996472954750061,
+      "box": [
+        126,
+        339,
+        569,
+        367
+      ]
+    },
+    {
+      "text": "Registered Nurses, KindCare Medical Services, 2018.012020.07",
+      "score": 0.9995856881141663,
+      "box": [
+        117,
+        382,
+        727,
+        409
+      ]
+    },
+    {
+      "text": "- Developed nursing policy frameworks",
+      "score": 0.9907088279724121,
+      "box": [
+        125,
+        406,
+        489,
+        435
+      ]
+    },
+    {
+      "text": "- Directed clinical quality improvement initiatives",
+      "score": 0.9733975529670715,
+      "box": [
+        127,
+        432,
+        572,
+        458
+      ]
+    },
+    {
+      "text": "Registered Nurses, Compassion Spring Medical, 2015.062018.01",
+      "score": 0.9969249367713928,
+      "box": [
+        118,
+        474,
+        734,
+        498
+      ]
+    },
+    {
+      "text": "- Coordinated patient discharge planning",
+      "score": 0.9898874163627625,
+      "box": [
+        127,
+        497,
+        506,
+        527
+      ]
+    },
+    {
+      "text": "- Monitored patient compliance",
+      "score": 0.9979708194732666,
+      "box": [
+        128,
+        523,
+        416,
+        549
+      ]
+    },
+    {
+      "text": "Registered Nurses, Harmony Path Health, 2011.112014.06",
+      "score": 0.9997943043708801,
+      "box": [
+        117,
+        565,
+        676,
+        592
+      ]
+    },
+    {
+      "text": "- Prepared medication trays",
+      "score": 0.9979438185691833,
+      "box": [
+        127,
+        589,
+        389,
+        620
+      ]
+    },
+    {
+      "text": "- Performed basic life support procedures",
+      "score": 0.9969598054885864,
+      "box": [
+        127,
+        613,
+        513,
+        644
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999409914016724,
+      "box": [
+        117,
+        681,
+        266,
+        705
+      ]
+    },
+    {
+      "text": "Bachelor's, Health Services, Forestfield University, 2008",
+      "score": 0.9795314073562622,
+      "box": [
+        117,
+        726,
+        635,
+        749
+      ]
+    },
+    {
+      "text": "• Studied principles of adverse drug reactions",
+      "score": 0.998346745967865,
+      "box": [
+        133,
+        751,
+        555,
+        775
+      ]
+    },
+    {
+      "text": "Completed coursework in acute care nursing",
+      "score": 0.9996376037597656,
+      "box": [
+        132,
+        772,
+        561,
+        802
+      ]
+    }
+  ],
+  "seconds": 2.946984499692917,
+  "id": "25181",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

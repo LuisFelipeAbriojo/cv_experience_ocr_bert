@@ -1,0 +1,202 @@
+{
+  "lines": [
+    {
+      "text": "LATISHA FARMER",
+      "score": 0.9976621866226196,
+      "box": [
+        118,
+        92,
+        415,
+        122
+      ]
+    },
+    {
+      "text": "VA, USA | +1-825-575-3415 | latisha.farmer@example.com",
+      "score": 0.9919804334640503,
+      "box": [
+        116,
+        150,
+        666,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9991269111633301,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Golden Futures Academy, 2020.01—2023.01",
+      "score": 0.9888759255409241,
+      "box": [
+        117,
+        290,
+        872,
+        317
+      ]
+    },
+    {
+      "text": "- Directed assessment development efforts",
+      "score": 0.9996548891067505,
+      "box": [
+        125,
+        314,
+        527,
+        342
+      ]
+    },
+    {
+      "text": "- Established data reporting standards",
+      "score": 0.9870209097862244,
+      "box": [
+        126,
+        339,
+        483,
+        368
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Discovery Path Academy, 2017.012020.01",
+      "score": 0.9949242472648621,
+      "box": [
+        117,
+        381,
+        871,
+        411
+      ]
+    },
+    {
+      "text": "- Established learning outcome benchmarks",
+      "score": 0.998662531375885,
+      "box": [
+        126,
+        409,
+        535,
+        433
+      ]
+    },
+    {
+      "text": "- Established data reporting standards",
+      "score": 0.9832991361618042,
+      "box": [
+        126,
+        432,
+        482,
+        458
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Growing Start Academy, 2013.06—2016.07",
+      "score": 0.9871156215667725,
+      "box": [
+        118,
+        473,
+        858,
+        500
+      ]
+    },
+    {
+      "text": "- Analyzed assessment trends",
+      "score": 0.9944829344749451,
+      "box": [
+        126,
+        497,
+        411,
+        527
+      ]
+    },
+    {
+      "text": "- Integrated educational technology tools",
+      "score": 0.9767694473266602,
+      "box": [
+        126,
+        520,
+        506,
+        552
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Little Field School, 2009.102012.11",
+      "score": 0.9932351112365723,
+      "box": [
+        116,
+        564,
+        802,
+        592
+      ]
+    },
+    {
+      "text": "- Supported individual student learning activities",
+      "score": 0.9769505858421326,
+      "box": [
+        127,
+        592,
+        572,
+        616
+      ]
+    },
+    {
+      "text": "- Conducted spelling practice",
+      "score": 0.9669723510742188,
+      "box": [
+        126,
+        614,
+        400,
+        644
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999933123588562,
+      "box": [
+        117,
+        681,
+        266,
+        705
+      ]
+    },
+    {
+      "text": "Bachelor's, Learning Foundations, Woodview University, 2004",
+      "score": 0.9857131242752075,
+      "box": [
+        116,
+        725,
+        691,
+        751
+      ]
+    },
+    {
+      "text": "•Studied basic classroom management concepts",
+      "score": 0.9802120327949524,
+      "box": [
+        129,
+        748,
+        593,
+        776
+      ]
+    },
+    {
+      "text": "• Studied principles of student comprehension",
+      "score": 0.977855920791626,
+      "box": [
+        133,
+        775,
+        559,
+        799
+      ]
+    }
+  ],
+  "seconds": 3.124429500196129,
+  "id": "56261",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

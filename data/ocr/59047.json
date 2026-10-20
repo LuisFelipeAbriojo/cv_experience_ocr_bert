@@ -1,0 +1,142 @@
+{
+  "lines": [
+    {
+      "text": "KRISTEN BERNARD",
+      "score": 0.9997835159301758,
+      "box": [
+        117,
+        91,
+        440,
+        121
+      ]
+    },
+    {
+      "text": "WA, USA | +1-417-391-3586 | kristen.bernard@example.com",
+      "score": 0.9792031645774841,
+      "box": [
+        118,
+        151,
+        683,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9991443157196045,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Integrity Balance Advisors, 2019.062021.06",
+      "score": 0.9876971244812012,
+      "box": [
+        116,
+        289,
+        742,
+        316
+      ]
+    },
+    {
+      "text": "- Directed financial reporting processes",
+      "score": 0.9744628667831421,
+      "box": [
+        126,
+        314,
+        491,
+        343
+      ]
+    },
+    {
+      "text": "- Developed financial risk models",
+      "score": 0.9940067529678345,
+      "box": [
+        128,
+        340,
+        436,
+        366
+      ]
+    },
+    {
+      "text": "Accountants Auditors, ClearLedger Accounting, 2015.12—2018.01",
+      "score": 0.988446056842804,
+      "box": [
+        116,
+        379,
+        724,
+        410
+      ]
+    },
+    {
+      "text": "- Assisted with regulatory filings",
+      "score": 0.9996893405914307,
+      "box": [
+        124,
+        403,
+        422,
+        436
+      ]
+    },
+    {
+      "text": "- Prepared variance reports",
+      "score": 0.9841757416725159,
+      "box": [
+        126,
+        430,
+        384,
+        462
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999171495437622,
+      "box": [
+        117,
+        494,
+        266,
+        521
+      ]
+    },
+    {
+      "text": "Associate's degree, Accounting Information Systems, Foxwood University, 2005",
+      "score": 0.9931430816650391,
+      "box": [
+        117,
+        540,
+        855,
+        567
+      ]
+    },
+    {
+      "text": "• Completed coursework in internal auditing",
+      "score": 0.977595329284668,
+      "box": [
+        131,
+        566,
+        537,
+        592
+      ]
+    },
+    {
+      "text": "•Completed coursework in accounting controls testing",
+      "score": 0.9856947660446167,
+      "box": [
+        131,
+        589,
+        636,
+        619
+      ]
+    }
+  ],
+  "seconds": 2.3328322996385396,
+  "id": "59047",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

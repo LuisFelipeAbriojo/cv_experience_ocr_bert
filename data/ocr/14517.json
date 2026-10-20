@@ -1,0 +1,202 @@
+{
+  "lines": [
+    {
+      "text": "ANGELA STEVENSON",
+      "score": 0.9845727682113647,
+      "box": [
+        118,
+        92,
+        473,
+        122
+      ]
+    },
+    {
+      "text": "FL, USA | +1-839-881-7266 | angela.stevenson@example.com",
+      "score": 0.9923301339149475,
+      "box": [
+        117,
+        150,
+        699,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9981793761253357,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, FairBalance Accounting, 2019.05—2023.01",
+      "score": 0.9881278276443481,
+      "box": [
+        115,
+        288,
+        719,
+        318
+      ]
+    },
+    {
+      "text": "- Led cross-functional financial integration",
+      "score": 0.9965711832046509,
+      "box": [
+        128,
+        316,
+        513,
+        341
+      ]
+    },
+    {
+      "text": "- Led audit planning governance",
+      "score": 0.974411129951477,
+      "box": [
+        127,
+        340,
+        429,
+        370
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Balanced Books Group, 2015.092019.05",
+      "score": 0.9881405234336853,
+      "box": [
+        116,
+        381,
+        716,
+        409
+      ]
+    },
+    {
+      "text": "- Established financial quality controls",
+      "score": 0.9934488534927368,
+      "box": [
+        124,
+        406,
+        477,
+        434
+      ]
+    },
+    {
+      "text": "- Led cross-functional financial integration",
+      "score": 0.9813050627708435,
+      "box": [
+        127,
+        432,
+        514,
+        457
+      ]
+    },
+    {
+      "text": "Accountants Auditors, OpenBooks Accounting, 2011.122015.09",
+      "score": 0.9908487796783447,
+      "box": [
+        118,
+        474,
+        718,
+        498
+      ]
+    },
+    {
+      "text": "- Prepared working capital analysis",
+      "score": 0.9828273057937622,
+      "box": [
+        127,
+        500,
+        453,
+        524
+      ]
+    },
+    {
+      "text": "- Conducted inventory valuation",
+      "score": 0.9849939942359924,
+      "box": [
+        127,
+        521,
+        423,
+        551
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Reliable Ledger Services, 2008.03—2011.12",
+      "score": 0.9916280508041382,
+      "box": [
+        117,
+        566,
+        732,
+        590
+      ]
+    },
+    {
+      "text": "- Prepared trial balances",
+      "score": 0.9994378685951233,
+      "box": [
+        125,
+        589,
+        359,
+        618
+      ]
+    },
+    {
+      "text": "- Compiled audit evidence",
+      "score": 0.9696701765060425,
+      "box": [
+        126,
+        614,
+        371,
+        644
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999227523803711,
+      "box": [
+        117,
+        681,
+        266,
+        705
+      ]
+    },
+    {
+      "text": "Bachelor's, Financial Services, Lakewood University, 2008",
+      "score": 0.9912224411964417,
+      "box": [
+        117,
+        726,
+        656,
+        749
+      ]
+    },
+    {
+      "text": "•Studied fundamentals of substantive testing",
+      "score": 0.9924855828285217,
+      "box": [
+        131,
+        748,
+        551,
+        775
+      ]
+    },
+    {
+      "text": "Completed coursework in financial controls",
+      "score": 0.9995917081832886,
+      "box": [
+        132,
+        772,
+        546,
+        800
+      ]
+    }
+  ],
+  "seconds": 2.7872302997857332,
+  "id": "14517",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

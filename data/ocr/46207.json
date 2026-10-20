@@ -1,0 +1,172 @@
+{
+  "lines": [
+    {
+      "text": "LEAH SCHMIDT",
+      "score": 0.9998083710670471,
+      "box": [
+        117,
+        91,
+        371,
+        121
+      ]
+    },
+    {
+      "text": "PA, USA | +1-948-467-6590 | leah.schmidt@example.com",
+      "score": 0.9845112562179565,
+      "box": [
+        117,
+        152,
+        656,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9989835619926453,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, NewHope Care Center, 2020.09—2023.01",
+      "score": 0.9845923781394958,
+      "box": [
+        115,
+        287,
+        687,
+        318
+      ]
+    },
+    {
+      "text": "- Implemented evidence-based practice models",
+      "score": 0.9997043013572693,
+      "box": [
+        125,
+        314,
+        569,
+        342
+      ]
+    },
+    {
+      "text": "- Established care delivery standards",
+      "score": 0.9987820982933044,
+      "box": [
+        126,
+        338,
+        472,
+        368
+      ]
+    },
+    {
+      "text": "Registered Nurses, Caring Life Nursing, 2017.092020.01",
+      "score": 0.9893784523010254,
+      "box": [
+        117,
+        382,
+        653,
+        409
+      ]
+    },
+    {
+      "text": "- Conducted clinical audits",
+      "score": 0.984658420085907,
+      "box": [
+        126,
+        408,
+        373,
+        432
+      ]
+    },
+    {
+      "text": "- Monitored patient compliance",
+      "score": 0.9837542772293091,
+      "box": [
+        127,
+        432,
+        415,
+        458
+      ]
+    },
+    {
+      "text": "Registered Nurses, EverBridge Health Group, 2014.092017.01",
+      "score": 0.9996944069862366,
+      "box": [
+        116,
+        471,
+        708,
+        499
+      ]
+    },
+    {
+      "text": "- Checked patient identification",
+      "score": 0.9826024770736694,
+      "box": [
+        127,
+        498,
+        415,
+        524
+      ]
+    },
+    {
+      "text": "- Monitored patient pain levels",
+      "score": 0.9991629719734192,
+      "box": [
+        127,
+        521,
+        410,
+        549
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999088644981384,
+      "box": [
+        117,
+        587,
+        267,
+        614
+      ]
+    },
+    {
+      "text": "Associate's degree, Health Management, Rosewood University, 2008",
+      "score": 0.9824422597885132,
+      "box": [
+        118,
+        633,
+        758,
+        657
+      ]
+    },
+    {
+      "text": "Completed coursework in patient triage",
+      "score": 0.9818282127380371,
+      "box": [
+        129,
+        657,
+        511,
+        685
+      ]
+    },
+    {
+      "text": "•Studied fundamentals of clinical documentation",
+      "score": 0.9804103374481201,
+      "box": [
+        131,
+        681,
+        585,
+        706
+      ]
+    }
+  ],
+  "seconds": 3.2365421997383237,
+  "id": "46207",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

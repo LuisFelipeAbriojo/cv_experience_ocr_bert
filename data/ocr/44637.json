@@ -1,0 +1,202 @@
+{
+  "lines": [
+    {
+      "text": "WILLIAM PARSONS",
+      "score": 0.9996650815010071,
+      "box": [
+        118,
+        91,
+        435,
+        121
+      ]
+    },
+    {
+      "text": "PA, USA | +1-964-886-4474 | william.parsons@example.com",
+      "score": 0.987947940826416,
+      "box": [
+        115,
+        149,
+        682,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9988835453987122,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, Unified Builders, 2020.03—2023.01",
+      "score": 0.9870797395706177,
+      "box": [
+        116,
+        288,
+        653,
+        316
+      ]
+    },
+    {
+      "text": "- Managed subcontractor coordination",
+      "score": 0.986373782157898,
+      "box": [
+        126,
+        315,
+        480,
+        341
+      ]
+    },
+    {
+      "text": "- Developed site performance metrics",
+      "score": 0.9954568147659302,
+      "box": [
+        127,
+        340,
+        477,
+        368
+      ]
+    },
+    {
+      "text": "Construction Laborers, ClearBuild Construction, 2017.05—2020.03",
+      "score": 0.9904595613479614,
+      "box": [
+        118,
+        383,
+        727,
+        407
+      ]
+    },
+    {
+      "text": "- Led complex demolition projects",
+      "score": 0.9726355671882629,
+      "box": [
+        127,
+        409,
+        441,
+        433
+      ]
+    },
+    {
+      "text": "- Developed structural reinforcement plans",
+      "score": 0.9915469884872437,
+      "box": [
+        129,
+        434,
+        522,
+        457
+      ]
+    },
+    {
+      "text": "Construction Laborers, Precision Stone Builders, 2013.072016.06",
+      "score": 0.993122935295105,
+      "box": [
+        118,
+        473,
+        736,
+        497
+      ]
+    },
+    {
+      "text": "- Reviewed installation quality",
+      "score": 0.9860483407974243,
+      "box": [
+        125,
+        497,
+        406,
+        525
+      ]
+    },
+    {
+      "text": "- Installed electrical wiring supports",
+      "score": 0.9953426718711853,
+      "box": [
+        128,
+        522,
+        453,
+        549
+      ]
+    },
+    {
+      "text": "Construction Laborers, NextStone Contractors, 2009.05—2012.04",
+      "score": 0.9742419123649597,
+      "box": [
+        118,
+        566,
+        719,
+        590
+      ]
+    },
+    {
+      "text": "- Followed blueprint instructions",
+      "score": 0.9859557747840881,
+      "box": [
+        127,
+        589,
+        425,
+        617
+      ]
+    },
+    {
+      "text": "- Installed safety signage",
+      "score": 0.9983164072036743,
+      "box": [
+        127,
+        614,
+        362,
+        644
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9998889565467834,
+      "box": [
+        117,
+        681,
+        266,
+        705
+      ]
+    },
+    {
+      "text": "Some college (no degree), Industrial Maintenance, Brookstone University, 2008",
+      "score": 0.9918595552444458,
+      "box": [
+        117,
+        724,
+        851,
+        750
+      ]
+    },
+    {
+      "text": "•Completed coursework in framing layout",
+      "score": 0.9899972081184387,
+      "box": [
+        133,
+        748,
+        523,
+        775
+      ]
+    },
+    {
+      "text": "• Completed coursework in building codes overview",
+      "score": 0.9727557301521301,
+      "box": [
+        132,
+        772,
+        613,
+        802
+      ]
+    }
+  ],
+  "seconds": 2.961248599924147,
+  "id": "44637",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

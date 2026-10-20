@@ -1,0 +1,212 @@
+{
+  "lines": [
+    {
+      "text": "SHAMEKA CLINE",
+      "score": 0.9995467066764832,
+      "box": [
+        117,
+        91,
+        396,
+        122
+      ]
+    },
+    {
+      "text": "SC, USA | +1-775-719-5648 | shameka.cline@example.com",
+      "score": 0.9844334721565247,
+      "box": [
+        116,
+        150,
+        675,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9992995262145996,
+      "box": [
+        116,
+        242,
+        316,
+        271
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Evergreen Academy, 2020.05—2023.01",
+      "score": 0.9723621606826782,
+      "box": [
+        116,
+        289,
+        826,
+        319
+      ]
+    },
+    {
+      "text": "- Directed content standardization",
+      "score": 0.9836651086807251,
+      "box": [
+        124,
+        314,
+        443,
+        342
+      ]
+    },
+    {
+      "text": "- Directed academic intervention strategies",
+      "score": 0.9756210446357727,
+      "box": [
+        126,
+        339,
+        525,
+        368
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Bright Bridge School, 2017.092020.05",
+      "score": 0.9984533786773682,
+      "box": [
+        117,
+        383,
+        828,
+        410
+      ]
+    },
+    {
+      "text": "- Directed program effectiveness studies",
+      "score": 0.9874998331069946,
+      "box": [
+        126,
+        408,
+        502,
+        433
+      ]
+    },
+    {
+      "text": "- Developed instructional evaluation metrics",
+      "score": 0.999699056148529,
+      "box": [
+        126,
+        433,
+        533,
+        457
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Bright Minds School, 2015.01—2017.09",
+      "score": 0.992002010345459,
+      "box": [
+        116,
+        471,
+        824,
+        499
+      ]
+    },
+    {
+      "text": "- Maintained academic records",
+      "score": 0.9994543790817261,
+      "box": [
+        126,
+        498,
+        416,
+        523
+      ]
+    },
+    {
+      "text": "- Designed reading intervention plans",
+      "score": 0.9979448318481445,
+      "box": [
+        127,
+        522,
+        474,
+        550
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Discovery Bridge School, 2012.052015.01",
+      "score": 0.9933218955993652,
+      "box": [
+        116,
+        564,
+        864,
+        592
+      ]
+    },
+    {
+      "text": "- Scheduled instructional activities",
+      "score": 0.9884154796600342,
+      "box": [
+        127,
+        592,
+        444,
+        615
+      ]
+    },
+    {
+      "text": "- Reviewed curriculum content",
+      "score": 0.9785158038139343,
+      "box": [
+        125,
+        613,
+        413,
+        643
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999039769172668,
+      "box": [
+        117,
+        681,
+        266,
+        705
+      ]
+    },
+    {
+      "text": "Master's, Learning and Development, Clear Spring University, 2010",
+      "score": 0.9981032013893127,
+      "box": [
+        117,
+        726,
+        740,
+        749
+      ]
+    },
+    {
+      "text": "Bachelor's, Student Learning Studies, Greenridge University, 2008",
+      "score": 0.9942708015441895,
+      "box": [
+        116,
+        748,
+        732,
+        775
+      ]
+    },
+    {
+      "text": "Completed coursework in student-centered learning",
+      "score": 0.985028862953186,
+      "box": [
+        129,
+        773,
+        627,
+        802
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of student learning styles",
+      "score": 0.975013017654419,
+      "box": [
+        131,
+        799,
+        586,
+        825
+      ]
+    }
+  ],
+  "seconds": 3.0879947999492288,
+  "id": "47408",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

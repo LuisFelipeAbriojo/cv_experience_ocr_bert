@@ -1,0 +1,182 @@
+{
+  "lines": [
+    {
+      "text": "JUSTIN GREER",
+      "score": 0.9996216297149658,
+      "box": [
+        116,
+        91,
+        365,
+        122
+      ]
+    },
+    {
+      "text": "MO, USA | +1-342-662-9666 | justin.greer@example.com",
+      "score": 0.983622670173645,
+      "box": [
+        114,
+        150,
+        648,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9990050792694092,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Clearstone Software, 2021.012023.01",
+      "score": 0.9913730621337891,
+      "box": [
+        117,
+        291,
+        684,
+        315
+      ]
+    },
+    {
+      "text": "- Implemented performance optimization plans",
+      "score": 0.9812150597572327,
+      "box": [
+        127,
+        314,
+        559,
+        342
+      ]
+    },
+    {
+      "text": "- Implemented access control frameworks",
+      "score": 0.9946080446243286,
+      "box": [
+        128,
+        340,
+        515,
+        366
+      ]
+    },
+    {
+      "text": "Software Developers, Stonecrest Tech, 2018.122021.01",
+      "score": 0.9990044832229614,
+      "box": [
+        116,
+        382,
+        648,
+        409
+      ]
+    },
+    {
+      "text": "- Improved build processes",
+      "score": 0.9922827482223511,
+      "box": [
+        127,
+        409,
+        380,
+        433
+      ]
+    },
+    {
+      "text": "- Built data visualization tools",
+      "score": 0.993282675743103,
+      "box": [
+        126,
+        431,
+        399,
+        456
+      ]
+    },
+    {
+      "text": "Software Developers, Openbyte Systems, 2016.112018.12",
+      "score": 0.9899502992630005,
+      "box": [
+        117,
+        473,
+        674,
+        500
+      ]
+    },
+    {
+      "text": "- Performed basic performance profiling",
+      "score": 0.9949760437011719,
+      "box": [
+        126,
+        498,
+        495,
+        525
+      ]
+    },
+    {
+      "text": "- Debugged runtime errors",
+      "score": 0.9732764959335327,
+      "box": [
+        127,
+        521,
+        376,
+        551
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999377727508545,
+      "box": [
+        118,
+        588,
+        266,
+        612
+      ]
+    },
+    {
+      "text": "Master's, Morningstar University, 2014",
+      "score": 0.9981797933578491,
+      "box": [
+        116,
+        632,
+        475,
+        659
+      ]
+    },
+    {
+      "text": "Bachelor's, Sunnyside University, 2012",
+      "score": 0.9810627102851868,
+      "box": [
+        115,
+        656,
+        480,
+        684
+      ]
+    },
+    {
+      "text": "• Completed coursework in microprocessor programming",
+      "score": 0.9833037853240967,
+      "box": [
+        131,
+        682,
+        660,
+        710
+      ]
+    },
+    {
+      "text": "Studied principles of data modeling",
+      "score": 0.9963857531547546,
+      "box": [
+        131,
+        706,
+        473,
+        736
+      ]
+    }
+  ],
+  "seconds": 2.497381799854338,
+  "id": "30801",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

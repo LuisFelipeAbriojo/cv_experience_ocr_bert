@@ -1,0 +1,212 @@
+{
+  "lines": [
+    {
+      "text": "ANNA SEXTON",
+      "score": 0.9997847080230713,
+      "box": [
+        116,
+        90,
+        362,
+        122
+      ]
+    },
+    {
+      "text": "OH, USA | +1-480-821-2411 | anna.sexton@example.com",
+      "score": 0.9912347197532654,
+      "box": [
+        116,
+        150,
+        657,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9985945820808411,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, CoreCount Advisors, 2020.03—2023.01",
+      "score": 0.9904937148094177,
+      "box": [
+        117,
+        291,
+        685,
+        315
+      ]
+    },
+    {
+      "text": "- Led audit planning governance",
+      "score": 0.999846339225769,
+      "box": [
+        126,
+        316,
+        429,
+        342
+      ]
+    },
+    {
+      "text": "- Directed budget planning cycles",
+      "score": 0.9839314818382263,
+      "box": [
+        127,
+        339,
+        439,
+        369
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Reliable Accounts Group, 2017.05—2020.03",
+      "score": 0.9790946245193481,
+      "box": [
+        117,
+        382,
+        731,
+        407
+      ]
+    },
+    {
+      "text": "- Established tax compliance frameworks",
+      "score": 0.9874421954154968,
+      "box": [
+        125,
+        407,
+        508,
+        432
+      ]
+    },
+    {
+      "text": "- Developed financial risk models",
+      "score": 0.9984515905380249,
+      "box": [
+        128,
+        434,
+        437,
+        457
+      ]
+    },
+    {
+      "text": "Accountants Auditors, SolidLedger Advisors, 2014.072017.05",
+      "score": 0.9911366105079651,
+      "box": [
+        115,
+        471,
+        698,
+        499
+      ]
+    },
+    {
+      "text": "- Developed financial policies",
+      "score": 0.9801107048988342,
+      "box": [
+        127,
+        500,
+        401,
+        524
+      ]
+    },
+    {
+      "text": "- Reviewed accounting estimates",
+      "score": 0.988111674785614,
+      "box": [
+        126,
+        521,
+        437,
+        550
+      ]
+    },
+    {
+      "text": "Accountants Auditors, CoreLedger Services, 2009.01—2011.12",
+      "score": 0.9857292175292969,
+      "box": [
+        116,
+        563,
+        698,
+        592
+      ]
+    },
+    {
+      "text": "- Assisted with regulatory filings",
+      "score": 0.9872345924377441,
+      "box": [
+        127,
+        588,
+        423,
+        619
+      ]
+    },
+    {
+      "text": "- Processed expense reimbursements",
+      "score": 0.9893314242362976,
+      "box": [
+        127,
+        614,
+        481,
+        643
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999251961708069,
+      "box": [
+        117,
+        681,
+        266,
+        705
+      ]
+    },
+    {
+      "text": "Master's, Economic Studies, Goldenridge University, 2008",
+      "score": 0.9890497326850891,
+      "box": [
+        116,
+        724,
+        656,
+        750
+      ]
+    },
+    {
+      "text": "Bachelor's, Government Accounting, Clearfield University, 2006",
+      "score": 0.987332284450531,
+      "box": [
+        115,
+        747,
+        705,
+        775
+      ]
+    },
+    {
+      "text": "•Studied principles of nonprofit accounting",
+      "score": 0.9843782782554626,
+      "box": [
+        130,
+        774,
+        529,
+        801
+      ]
+    },
+    {
+      "text": "•Completed coursework in international accounting basics",
+      "score": 0.9896520972251892,
+      "box": [
+        131,
+        798,
+        674,
+        827
+      ]
+    }
+  ],
+  "seconds": 2.7808591001667082,
+  "id": "41342",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

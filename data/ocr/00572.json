@@ -1,0 +1,112 @@
+{
+  "lines": [
+    {
+      "text": "SIERA HART",
+      "score": 0.9611078500747681,
+      "box": [
+        116,
+        89,
+        324,
+        123
+      ]
+    },
+    {
+      "text": "AL, USA | +1-654-659-9788 | siera.hart@example.com",
+      "score": 0.9900153875350952,
+      "box": [
+        116,
+        149,
+        624,
+        177
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9994475245475769,
+      "box": [
+        116,
+        243,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Registered Nurses, EverBridge Health Services, 2020.06—2023.01",
+      "score": 0.9894981980323792,
+      "box": [
+        114,
+        286,
+        731,
+        317
+      ]
+    },
+    {
+      "text": "- Prepared treatment rooms",
+      "score": 0.9995068907737732,
+      "box": [
+        125,
+        312,
+        388,
+        343
+      ]
+    },
+    {
+      "text": "- Prepared medical equipment for use",
+      "score": 0.9829940795898438,
+      "box": [
+        126,
+        338,
+        479,
+        367
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999088644981384,
+      "box": [
+        116,
+        404,
+        268,
+        431
+      ]
+    },
+    {
+      "text": "Bachelor's, Health and Human Services, Clear Ridge University, 2023",
+      "score": 0.9732170701026917,
+      "box": [
+        115,
+        446,
+        763,
+        474
+      ]
+    },
+    {
+      "text": "•Completed coursework in integumentary system care",
+      "score": 0.9869478344917297,
+      "box": [
+        130,
+        473,
+        640,
+        499
+      ]
+    },
+    {
+      "text": "Studied principles of ostomy care",
+      "score": 0.999397873878479,
+      "box": [
+        132,
+        497,
+        457,
+        526
+      ]
+    }
+  ],
+  "seconds": 2.0228037000633776,
+  "id": "00572",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

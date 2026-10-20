@@ -1,0 +1,202 @@
+{
+  "lines": [
+    {
+      "text": "AMIE LI",
+      "score": 0.999038815498352,
+      "box": [
+        116,
+        91,
+        244,
+        122
+      ]
+    },
+    {
+      "text": "CA, USA | +1-593-974-8204 | amie.li@example.com",
+      "score": 0.9870093464851379,
+      "box": [
+        116,
+        150,
+        602,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9990910887718201,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, ClearCount Services, 2020.072023.01",
+      "score": 0.9985522627830505,
+      "box": [
+        117,
+        291,
+        689,
+        315
+      ]
+    },
+    {
+      "text": "- Led accounting process optimization",
+      "score": 0.9954301714897156,
+      "box": [
+        129,
+        317,
+        480,
+        341
+      ]
+    },
+    {
+      "text": "- Developed long-term financial strategies",
+      "score": 0.9934647083282471,
+      "box": [
+        127,
+        340,
+        514,
+        368
+      ]
+    },
+    {
+      "text": "Accountants Auditors, AccuBalance Advisors, 2018.012020.07",
+      "score": 0.9993736147880554,
+      "box": [
+        118,
+        383,
+        707,
+        407
+      ]
+    },
+    {
+      "text": "- Directed financial reporting processes",
+      "score": 0.9948339462280273,
+      "box": [
+        126,
+        407,
+        491,
+        434
+      ]
+    },
+    {
+      "text": "- Developed financial performance metrics",
+      "score": 0.9955092668533325,
+      "box": [
+        129,
+        434,
+        520,
+        457
+      ]
+    },
+    {
+      "text": "Accountants Auditors, AccuCount Solutions, 2014.112017.06",
+      "score": 0.9896149635314941,
+      "box": [
+        117,
+        473,
+        694,
+        497
+      ]
+    },
+    {
+      "text": "- Conducted internal audits",
+      "score": 0.9973028898239136,
+      "box": [
+        127,
+        499,
+        380,
+        522
+      ]
+    },
+    {
+      "text": "- Managed monthly close processes",
+      "score": 0.9848083853721619,
+      "box": [
+        127,
+        521,
+        464,
+        551
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Integrity Balance Services, 2011.09—2014.04",
+      "score": 0.9843042492866516,
+      "box": [
+        117,
+        566,
+        742,
+        590
+      ]
+    },
+    {
+      "text": "- Assisted with compliance documentation",
+      "score": 0.986850917339325,
+      "box": [
+        127,
+        592,
+        518,
+        615
+      ]
+    },
+    {
+      "text": "- Recorded payroll entries",
+      "score": 0.9994086623191833,
+      "box": [
+        125,
+        614,
+        370,
+        643
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999907910823822,
+      "box": [
+        117,
+        681,
+        266,
+        705
+      ]
+    },
+    {
+      "text": "Bachelor's, Investment Management, Larkspur University, 2004",
+      "score": 0.9861323237419128,
+      "box": [
+        115,
+        723,
+        704,
+        750
+      ]
+    },
+    {
+      "text": "•Studied fundamentals of sustainability accounting basics",
+      "score": 0.9738284945487976,
+      "box": [
+        131,
+        749,
+        670,
+        774
+      ]
+    },
+    {
+      "text": "•Completed coursework in accounting controls testing",
+      "score": 0.9933680891990662,
+      "box": [
+        132,
+        772,
+        637,
+        802
+      ]
+    }
+  ],
+  "seconds": 3.3522449997253716,
+  "id": "07534",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

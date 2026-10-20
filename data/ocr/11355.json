@@ -1,0 +1,212 @@
+{
+  "lines": [
+    {
+      "text": "EDDIE HUYNH",
+      "score": 0.9988828897476196,
+      "box": [
+        117,
+        91,
+        349,
+        121
+      ]
+    },
+    {
+      "text": "CT, USA | +1-601-417-9639 | eddie.huynh@example.com",
+      "score": 0.9910915493965149,
+      "box": [
+        116,
+        150,
+        653,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9983651638031006,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Netstream Software, 2020.02—2023.01",
+      "score": 0.9927276968955994,
+      "box": [
+        115,
+        288,
+        680,
+        316
+      ]
+    },
+    {
+      "text": "- Designed scalable services",
+      "score": 0.9955577850341797,
+      "box": [
+        125,
+        314,
+        396,
+        343
+      ]
+    },
+    {
+      "text": "- Led technical audits",
+      "score": 0.9817481637001038,
+      "box": [
+        127,
+        339,
+        327,
+        366
+      ]
+    },
+    {
+      "text": "Software Developers, Nextline Software, 2017.032020.02",
+      "score": 0.9981011152267456,
+      "box": [
+        117,
+        383,
+        660,
+        407
+      ]
+    },
+    {
+      "text": "- Built fault-tolerant systems",
+      "score": 0.9935640096664429,
+      "box": [
+        125,
+        408,
+        388,
+        433
+      ]
+    },
+    {
+      "text": "- Led system reliability programs",
+      "score": 0.9980179667472839,
+      "box": [
+        128,
+        432,
+        429,
+        458
+      ]
+    },
+    {
+      "text": "Software Developers, Codepath Labs, 2014.042017.03",
+      "score": 0.9996707439422607,
+      "box": [
+        115,
+        471,
+        639,
+        499
+      ]
+    },
+    {
+      "text": "- Built containerized services",
+      "score": 0.9975692629814148,
+      "box": [
+        126,
+        497,
+        397,
+        523
+      ]
+    },
+    {
+      "text": "- Implemented authentication workflows",
+      "score": 0.998585045337677,
+      "box": [
+        129,
+        522,
+        496,
+        548
+      ]
+    },
+    {
+      "text": "Software Developers, Stonefield Tech, 2008.042011.04",
+      "score": 0.9923439621925354,
+      "box": [
+        117,
+        565,
+        641,
+        589
+      ]
+    },
+    {
+      "text": "- Debugged runtime errors",
+      "score": 0.985139787197113,
+      "box": [
+        128,
+        591,
+        374,
+        615
+      ]
+    },
+    {
+      "text": "- Performed code formatting",
+      "score": 0.9981824159622192,
+      "box": [
+        127,
+        613,
+        390,
+        643
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9998644590377808,
+      "box": [
+        117,
+        681,
+        266,
+        705
+      ]
+    },
+    {
+      "text": "Master's, Silver Creek University, 2005",
+      "score": 0.993353009223938,
+      "box": [
+        115,
+        724,
+        476,
+        749
+      ]
+    },
+    {
+      "text": "Bachelor's, Timberline University, 2003",
+      "score": 0.9917100667953491,
+      "box": [
+        117,
+        750,
+        478,
+        774
+      ]
+    },
+    {
+      "text": "• Completed coursework in data structures and algorithms",
+      "score": 0.982713520526886,
+      "box": [
+        131,
+        775,
+        668,
+        799
+      ]
+    },
+    {
+      "text": "•Studied fundamentals of profiling tools",
+      "score": 0.9837740063667297,
+      "box": [
+        131,
+        800,
+        500,
+        824
+      ]
+    }
+  ],
+  "seconds": 2.66136040026322,
+  "id": "11355",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

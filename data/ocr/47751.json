@@ -1,0 +1,182 @@
+{
+  "lines": [
+    {
+      "text": "JESSICA LARSEN",
+      "score": 0.9987621903419495,
+      "box": [
+        116,
+        91,
+        408,
+        121
+      ]
+    },
+    {
+      "text": "SC, USA | +1-452-447-5996 | jessica.larsen@example.com",
+      "score": 0.9841800332069397,
+      "box": [
+        116,
+        150,
+        668,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9991410374641418,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Discovery Hills School, 2020.04—2023.01",
+      "score": 0.9893845319747925,
+      "box": [
+        115,
+        287,
+        844,
+        319
+      ]
+    },
+    {
+      "text": "- Established instructional leadership protocols",
+      "score": 0.9972660541534424,
+      "box": [
+        125,
+        314,
+        560,
+        342
+      ]
+    },
+    {
+      "text": "- Led instructional technology integration",
+      "score": 0.9877920746803284,
+      "box": [
+        126,
+        339,
+        505,
+        369
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Bright Grove Academy, 2017.062020.04",
+      "score": 0.9918596744537354,
+      "box": [
+        116,
+        381,
+        849,
+        411
+      ]
+    },
+    {
+      "text": "- Administered standardized assessments",
+      "score": 0.9994000196456909,
+      "box": [
+        126,
+        409,
+        517,
+        433
+      ]
+    },
+    {
+      "text": "- Organized academic interventions",
+      "score": 0.9991732239723206,
+      "box": [
+        128,
+        434,
+        457,
+        457
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Sunny Field School, 2011.122014.10",
+      "score": 0.9984408617019653,
+      "box": [
+        119,
+        474,
+        817,
+        498
+      ]
+    },
+    {
+      "text": "- Prepared daily lesson plans aligned with curriculum guidelines",
+      "score": 0.9933889508247375,
+      "box": [
+        125,
+        497,
+        717,
+        525
+      ]
+    },
+    {
+      "text": "- Maintained classroom attendance and grading records",
+      "score": 0.9871021509170532,
+      "box": [
+        126,
+        521,
+        645,
+        550
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999287128448486,
+      "box": [
+        117,
+        587,
+        267,
+        614
+      ]
+    },
+    {
+      "text": "Master's, Teaching Support, Brookside University, 2008",
+      "score": 0.9987053871154785,
+      "box": [
+        117,
+        632,
+        632,
+        659
+      ]
+    },
+    {
+      "text": "Bachelor's, Youth Studies, Forestfield University, 2006",
+      "score": 0.9933217763900757,
+      "box": [
+        115,
+        656,
+        622,
+        684
+      ]
+    },
+    {
+      "text": "• Completed coursework in classroom collaboration",
+      "score": 0.9830238819122314,
+      "box": [
+        133,
+        684,
+        609,
+        708
+      ]
+    },
+    {
+      "text": "•Studied principles of knowledge retention",
+      "score": 0.9822301268577576,
+      "box": [
+        132,
+        706,
+        530,
+        736
+      ]
+    }
+  ],
+  "seconds": 2.798149799928069,
+  "id": "47751",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

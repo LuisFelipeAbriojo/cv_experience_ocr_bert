@@ -1,0 +1,212 @@
+{
+  "lines": [
+    {
+      "text": "JAMES BURTON",
+      "score": 0.9670455455780029,
+      "box": [
+        116,
+        91,
+        386,
+        121
+      ]
+    },
+    {
+      "text": "CT, USA | +1-892-608-1884 | james.burton@example.com",
+      "score": 0.9853476285934448,
+      "box": [
+        116,
+        150,
+        660,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9981793761253357,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Reliable Ledger Services, 2019.06—2023.01",
+      "score": 0.9883531928062439,
+      "box": [
+        117,
+        291,
+        731,
+        315
+      ]
+    },
+    {
+      "text": "- Established reporting automation systems",
+      "score": 0.9920503497123718,
+      "box": [
+        127,
+        315,
+        530,
+        343
+      ]
+    },
+    {
+      "text": "- Led audit planning governance",
+      "score": 0.9878995418548584,
+      "box": [
+        127,
+        340,
+        429,
+        370
+      ]
+    },
+    {
+      "text": "Accountants Auditors, SolidCount Financial Group, 2015.112019.06",
+      "score": 0.9990295171737671,
+      "box": [
+        117,
+        382,
+        755,
+        408
+      ]
+    },
+    {
+      "text": "- Developed regulatory reporting strategies",
+      "score": 0.9973509311676025,
+      "box": [
+        126,
+        408,
+        524,
+        433
+      ]
+    },
+    {
+      "text": "- Developed financial analytics frameworks",
+      "score": 0.9875911474227905,
+      "box": [
+        127,
+        432,
+        524,
+        457
+      ]
+    },
+    {
+      "text": "Accountants Auditors, CoreLedger Financial Group, 2012.042015.11",
+      "score": 0.9840453863143921,
+      "box": [
+        115,
+        470,
+        762,
+        501
+      ]
+    },
+    {
+      "text": "- Developed financial models",
+      "score": 0.999695897102356,
+      "box": [
+        125,
+        497,
+        399,
+        526
+      ]
+    },
+    {
+      "text": "- Developed financial policies",
+      "score": 0.9961340427398682,
+      "box": [
+        127,
+        521,
+        400,
+        550
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Balanced Books Group, 2008.09—2012.04",
+      "score": 0.9927282929420471,
+      "box": [
+        118,
+        566,
+        715,
+        590
+      ]
+    },
+    {
+      "text": "- Processed accounts receivable transactions",
+      "score": 0.9980413913726807,
+      "box": [
+        126,
+        590,
+        549,
+        616
+      ]
+    },
+    {
+      "text": "- Maintained accounting software records",
+      "score": 0.9911386370658875,
+      "box": [
+        126,
+        613,
+        511,
+        642
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999227523803711,
+      "box": [
+        117,
+        681,
+        266,
+        705
+      ]
+    },
+    {
+      "text": "Master's, Applied Accounting, Greenwood University, 2011",
+      "score": 0.9977772831916809,
+      "box": [
+        116,
+        724,
+        660,
+        750
+      ]
+    },
+    {
+      "text": "Bachelor's, Financial Services, Westview University, 2009",
+      "score": 0.9869678020477295,
+      "box": [
+        117,
+        750,
+        651,
+        774
+      ]
+    },
+    {
+      "text": "•Completed coursework in cost allocation methods",
+      "score": 0.9882299900054932,
+      "box": [
+        130,
+        774,
+        608,
+        799
+      ]
+    },
+    {
+      "text": "Completed coursework in budgeting techniques",
+      "score": 0.995327889919281,
+      "box": [
+        131,
+        798,
+        589,
+        826
+      ]
+    }
+  ],
+  "seconds": 2.8989703003317118,
+  "id": "11332",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

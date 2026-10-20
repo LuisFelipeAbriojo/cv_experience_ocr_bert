@@ -1,0 +1,202 @@
+{
+  "lines": [
+    {
+      "text": "DANIEL MIRANDA",
+      "score": 0.9967647790908813,
+      "box": [
+        117,
+        89,
+        409,
+        122
+      ]
+    },
+    {
+      "text": "MI, USA | +1-625-648-8410 | daniel.miranda@example.com",
+      "score": 0.9834086298942566,
+      "box": [
+        117,
+        152,
+        671,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9987999796867371,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Brightsoft Solutions, 2020.072023.01",
+      "score": 0.9883771538734436,
+      "box": [
+        117,
+        291,
+        674,
+        315
+      ]
+    },
+    {
+      "text": "- Defined API standards",
+      "score": 0.9788867831230164,
+      "box": [
+        127,
+        316,
+        349,
+        337
+      ]
+    },
+    {
+      "text": "- Led cross-team technical alignment",
+      "score": 0.9984099268913269,
+      "box": [
+        128,
+        340,
+        471,
+        366
+      ]
+    },
+    {
+      "text": "Software Developers, Brightstack Labs, 2017.122020.07",
+      "score": 0.9897676110267639,
+      "box": [
+        118,
+        383,
+        649,
+        407
+      ]
+    },
+    {
+      "text": "- Defined technical documentation standards",
+      "score": 0.9885126352310181,
+      "box": [
+        127,
+        409,
+        542,
+        432
+      ]
+    },
+    {
+      "text": "- Defined API governance models",
+      "score": 0.9769646525382996,
+      "box": [
+        126,
+        431,
+        443,
+        459
+      ]
+    },
+    {
+      "text": "Software Developers, Cloudline Solutions, 2015.052017.12",
+      "score": 0.9848875403404236,
+      "box": [
+        116,
+        471,
+        677,
+        499
+      ]
+    },
+    {
+      "text": "- Reviewed pull requests",
+      "score": 0.9991569519042969,
+      "box": [
+        125,
+        497,
+        360,
+        526
+      ]
+    },
+    {
+      "text": "- Integrated payment gateways",
+      "score": 0.9990161657333374,
+      "box": [
+        127,
+        522,
+        416,
+        551
+      ]
+    },
+    {
+      "text": "Software Developers, Skyline Tech, 2012.102015.05",
+      "score": 0.9875761270523071,
+      "box": [
+        117,
+        566,
+        617,
+        590
+      ]
+    },
+    {
+      "text": "- Assisted with build automation",
+      "score": 0.998969554901123,
+      "box": [
+        126,
+        590,
+        424,
+        615
+      ]
+    },
+    {
+      "text": "- Handled basic deployment tasks",
+      "score": 0.9841917753219604,
+      "box": [
+        127,
+        613,
+        442,
+        642
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9998840689659119,
+      "box": [
+        117,
+        681,
+        266,
+        705
+      ]
+    },
+    {
+      "text": "Bachelor's, Goldenview University, 2010",
+      "score": 0.9819691777229309,
+      "box": [
+        115,
+        723,
+        492,
+        750
+      ]
+    },
+    {
+      "text": "•Studied principles of virtualization",
+      "score": 0.9729013442993164,
+      "box": [
+        131,
+        750,
+        458,
+        774
+      ]
+    },
+    {
+      "text": "•Studied fundamentals of indexing techniques",
+      "score": 0.9609291553497314,
+      "box": [
+        131,
+        772,
+        564,
+        801
+      ]
+    }
+  ],
+  "seconds": 3.0394246000796556,
+  "id": "27181",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

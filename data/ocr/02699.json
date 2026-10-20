@@ -1,0 +1,152 @@
+{
+  "lines": [
+    {
+      "text": "MAX LIM",
+      "score": 0.9996019005775452,
+      "box": [
+        116,
+        90,
+        261,
+        122
+      ]
+    },
+    {
+      "text": "CA, USA | +1-375-459-1198 | max.lim@example.com",
+      "score": 0.9808523058891296,
+      "box": [
+        118,
+        152,
+        612,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.999600887298584,
+      "box": [
+        116,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Software Developers, Skycore Software, 2020.06—2023.01",
+      "score": 0.9930142164230347,
+      "box": [
+        116,
+        289,
+        659,
+        316
+      ]
+    },
+    {
+      "text": "- Defined API governance models",
+      "score": 0.9834331274032593,
+      "box": [
+        126,
+        315,
+        441,
+        339
+      ]
+    },
+    {
+      "text": "- Defined data governance policies",
+      "score": 0.9780851006507874,
+      "box": [
+        129,
+        341,
+        449,
+        365
+      ]
+    },
+    {
+      "text": "Software Developers, Skyline Software, 2017.112020.06",
+      "score": 0.9911101460456848,
+      "box": [
+        116,
+        380,
+        653,
+        408
+      ]
+    },
+    {
+      "text": "- Wrote scripts for data processing tasks",
+      "score": 0.9873708486557007,
+      "box": [
+        126,
+        408,
+        501,
+        432
+      ]
+    },
+    {
+      "text": "- Handled basic deployment tasks",
+      "score": 0.9807844758033752,
+      "box": [
+        127,
+        431,
+        443,
+        457
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999457597732544,
+      "box": [
+        116,
+        494,
+        268,
+        521
+      ]
+    },
+    {
+      "text": "Master's, Briarwood University, 2019",
+      "score": 0.9908530712127686,
+      "box": [
+        116,
+        541,
+        457,
+        565
+      ]
+    },
+    {
+      "text": "Bachelor's, Cedar Valley University, 2017",
+      "score": 0.9730783700942993,
+      "box": [
+        117,
+        566,
+        500,
+        590
+      ]
+    },
+    {
+      "text": "•Completed coursework in configuration management",
+      "score": 0.9784343242645264,
+      "box": [
+        130,
+        591,
+        637,
+        618
+      ]
+    },
+    {
+      "text": "Completed coursework in project documentation",
+      "score": 0.9896037578582764,
+      "box": [
+        130,
+        613,
+        598,
+        644
+      ]
+    }
+  ],
+  "seconds": 2.1058010002598166,
+  "id": "02699",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

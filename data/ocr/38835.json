@@ -1,0 +1,172 @@
+{
+  "lines": [
+    {
+      "text": "TERRYN HO",
+      "score": 0.9997127056121826,
+      "box": [
+        117,
+        91,
+        314,
+        122
+      ]
+    },
+    {
+      "text": "NY, USA | +1-801-675-2468 | terryn.ho@example.com",
+      "score": 0.9909443259239197,
+      "box": [
+        115,
+        151,
+        623,
+        177
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.999011754989624,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Integrity Accounts, 2019.112023.01",
+      "score": 0.9889348149299622,
+      "box": [
+        115,
+        288,
+        665,
+        316
+      ]
+    },
+    {
+      "text": "- Established compliance monitoring systems",
+      "score": 0.9890257120132446,
+      "box": [
+        128,
+        316,
+        545,
+        340
+      ]
+    },
+    {
+      "text": "- Led audit planning governance",
+      "score": 0.993040144443512,
+      "box": [
+        128,
+        341,
+        428,
+        367
+      ]
+    },
+    {
+      "text": "Accountants Auditors, SteadyLedger Group, 2016.092019.11",
+      "score": 0.9980451464653015,
+      "box": [
+        118,
+        383,
+        692,
+        407
+      ]
+    },
+    {
+      "text": "- Prepared audit reports",
+      "score": 0.9832994341850281,
+      "box": [
+        126,
+        409,
+        350,
+        433
+      ]
+    },
+    {
+      "text": "- Reviewed payroll reconciliations",
+      "score": 0.9994950890541077,
+      "box": [
+        125,
+        430,
+        440,
+        458
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Precise Balance Services, 2011.042014.07",
+      "score": 0.98899245262146,
+      "box": [
+        118,
+        473,
+        737,
+        497
+      ]
+    },
+    {
+      "text": "- Entered financial data into accounting systems",
+      "score": 0.9994480013847351,
+      "box": [
+        126,
+        497,
+        573,
+        523
+      ]
+    },
+    {
+      "text": "- Reconciled subsidiary ledgers",
+      "score": 0.9995880126953125,
+      "box": [
+        128,
+        520,
+        420,
+        551
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.99993896484375,
+      "box": [
+        118,
+        588,
+        266,
+        612
+      ]
+    },
+    {
+      "text": "Bachelor's, Government Accounting, Pinehaven University, 2007",
+      "score": 0.9942843914031982,
+      "box": [
+        116,
+        630,
+        715,
+        658
+      ]
+    },
+    {
+      "text": "•Completed coursework in lease accounting",
+      "score": 0.9899299144744873,
+      "box": [
+        130,
+        657,
+        547,
+        684
+      ]
+    },
+    {
+      "text": "•Studied principles of transfer pricing",
+      "score": 0.993156909942627,
+      "box": [
+        131,
+        681,
+        481,
+        710
+      ]
+    }
+  ],
+  "seconds": 2.670838000252843,
+  "id": "38835",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

@@ -1,0 +1,212 @@
+{
+  "lines": [
+    {
+      "text": "RICK BLACK",
+      "score": 0.9997690320014954,
+      "box": [
+        117,
+        91,
+        327,
+        122
+      ]
+    },
+    {
+      "text": "AL, USA | +1-441-502-1311 | rick.black@example.com",
+      "score": 0.9987196922302246,
+      "box": [
+        116,
+        150,
+        624,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9891178607940674,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Datapoint Solutions, 2020.072023.01",
+      "score": 0.9998458027839661,
+      "box": [
+        116,
+        290,
+        676,
+        317
+      ]
+    },
+    {
+      "text": "- Defined coding standards",
+      "score": 0.9771734476089478,
+      "box": [
+        127,
+        317,
+        379,
+        341
+      ]
+    },
+    {
+      "text": "- Developed system monitoring strategies",
+      "score": 0.9864498376846313,
+      "box": [
+        128,
+        340,
+        513,
+        368
+      ]
+    },
+    {
+      "text": "Software Developers, Datapoint Labs, 2018.012020.07",
+      "score": 0.9952195882797241,
+      "box": [
+        115,
+        381,
+        637,
+        409
+      ]
+    },
+    {
+      "text": "- Implemented performance optimization plans",
+      "score": 0.9965173602104187,
+      "box": [
+        126,
+        409,
+        557,
+        433
+      ]
+    },
+    {
+      "text": "- Led refactoring initiatives",
+      "score": 0.9902371168136597,
+      "box": [
+        127,
+        432,
+        374,
+        459
+      ]
+    },
+    {
+      "text": "Software Developers, Netline Technologies, 2015.06—2018.01",
+      "score": 0.9896024465560913,
+      "box": [
+        116,
+        471,
+        690,
+        499
+      ]
+    },
+    {
+      "text": "- Implemented logging frameworks",
+      "score": 0.997241735458374,
+      "box": [
+        125,
+        497,
+        450,
+        525
+      ]
+    },
+    {
+      "text": "- Built containerized services",
+      "score": 0.9989596605300903,
+      "box": [
+        127,
+        522,
+        396,
+        548
+      ]
+    },
+    {
+      "text": "Software Developers, Clearfield Labs, 2012.112015.06",
+      "score": 0.9956826567649841,
+      "box": [
+        117,
+        566,
+        636,
+        590
+      ]
+    },
+    {
+      "text": "- Logged and tracked software defects",
+      "score": 0.9853116869926453,
+      "box": [
+        130,
+        592,
+        485,
+        616
+      ]
+    },
+    {
+      "text": "- Performed code formatting",
+      "score": 0.9907171726226807,
+      "box": [
+        127,
+        613,
+        391,
+        644
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999175667762756,
+      "box": [
+        117,
+        681,
+        266,
+        705
+      ]
+    },
+    {
+      "text": "Master's, Windfield University, 2013",
+      "score": 0.995438814163208,
+      "box": [
+        116,
+        724,
+        451,
+        750
+      ]
+    },
+    {
+      "text": "Bachelor's, Springfield University, 2011",
+      "score": 0.9917548298835754,
+      "box": [
+        115,
+        747,
+        480,
+        775
+      ]
+    },
+    {
+      "text": "•Studied fundamentals of recursion techniques",
+      "score": 0.9844231605529785,
+      "box": [
+        129,
+        774,
+        572,
+        799
+      ]
+    },
+    {
+      "text": "•Studied fundamentals of stack and heap usage",
+      "score": 0.9814292788505554,
+      "box": [
+        130,
+        798,
+        584,
+        827
+      ]
+    }
+  ],
+  "seconds": 2.666262600105256,
+  "id": "00140",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

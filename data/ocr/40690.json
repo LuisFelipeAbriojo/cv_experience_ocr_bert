@@ -1,0 +1,172 @@
+{
+  "lines": [
+    {
+      "text": "ALEXANDRA BAXTER",
+      "score": 0.9990546107292175,
+      "box": [
+        117,
+        89,
+        473,
+        122
+      ]
+    },
+    {
+      "text": "NC, USA | +1-792-794-9893 | alexandra.baxter@example.com",
+      "score": 0.9804331660270691,
+      "box": [
+        117,
+        152,
+        696,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9989409446716309,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, CoreBooks Financial, 2020.07—2023.01",
+      "score": 0.9935228824615479,
+      "box": [
+        116,
+        289,
+        691,
+        314
+      ]
+    },
+    {
+      "text": "- Led financial data standardization",
+      "score": 0.9853408336639404,
+      "box": [
+        127,
+        315,
+        453,
+        340
+      ]
+    },
+    {
+      "text": "- Directed financial system architecture",
+      "score": 0.9873737096786499,
+      "box": [
+        128,
+        340,
+        489,
+        366
+      ]
+    },
+    {
+      "text": "Accountants Auditors, SteadyLedger Financial, 2018.012020.07",
+      "score": 0.9793862700462341,
+      "box": [
+        117,
+        382,
+        720,
+        409
+      ]
+    },
+    {
+      "text": "- Reviewed contract accounting",
+      "score": 0.9993506073951721,
+      "box": [
+        125,
+        404,
+        422,
+        436
+      ]
+    },
+    {
+      "text": "- Prepared management reports",
+      "score": 0.9904305934906006,
+      "box": [
+        127,
+        431,
+        427,
+        459
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Integrity Ledger Services Group, 2015.06—2018.01",
+      "score": 0.9940051436424255,
+      "box": [
+        117,
+        472,
+        793,
+        499
+      ]
+    },
+    {
+      "text": "- Reviewed ledger postings",
+      "score": 0.9992200136184692,
+      "box": [
+        125,
+        495,
+        383,
+        526
+      ]
+    },
+    {
+      "text": "- Prepared audit confirmations",
+      "score": 0.9730543494224548,
+      "box": [
+        128,
+        520,
+        410,
+        551
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999365210533142,
+      "box": [
+        118,
+        588,
+        266,
+        612
+      ]
+    },
+    {
+      "text": "Bachelor's, Administrative Studies, Clearfield Ridge University, 2016",
+      "score": 0.9856277704238892,
+      "box": [
+        118,
+        633,
+        747,
+        657
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of break-even analysis",
+      "score": 0.9829705357551575,
+      "box": [
+        129,
+        657,
+        565,
+        683
+      ]
+    },
+    {
+      "text": "•Studied fundamentals of tax planning",
+      "score": 0.984250545501709,
+      "box": [
+        130,
+        679,
+        492,
+        710
+      ]
+    }
+  ],
+  "seconds": 2.730213100090623,
+  "id": "40690",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

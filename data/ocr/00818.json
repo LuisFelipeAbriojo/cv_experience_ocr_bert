@@ -1,0 +1,112 @@
+{
+  "lines": [
+    {
+      "text": "RACHEL MOSES",
+      "score": 0.995749294757843,
+      "box": [
+        117,
+        91,
+        387,
+        122
+      ]
+    },
+    {
+      "text": "AL, USA | +1-401-964-4165 | rachel.moses@example.com",
+      "score": 0.9950368404388428,
+      "box": [
+        117,
+        150,
+        662,
+        177
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9997272491455078,
+      "box": [
+        117,
+        243,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Discovery Start School, 2020.07—2023.01",
+      "score": 0.9856160879135132,
+      "box": [
+        115,
+        286,
+        849,
+        317
+      ]
+    },
+    {
+      "text": "- Managed classroom supplies",
+      "score": 0.9900441765785217,
+      "box": [
+        125,
+        313,
+        414,
+        343
+      ]
+    },
+    {
+      "text": "- Implemented basic classroom management procedures",
+      "score": 0.9932693243026733,
+      "box": [
+        127,
+        338,
+        656,
+        368
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999602437019348,
+      "box": [
+        116,
+        404,
+        268,
+        431
+      ]
+    },
+    {
+      "text": "Bachelor's, Child Development, Canyon View University, 2022",
+      "score": 0.9815777540206909,
+      "box": [
+        115,
+        446,
+        692,
+        475
+      ]
+    },
+    {
+      "text": "• Completed coursework in lesson reflection practices",
+      "score": 0.9844759702682495,
+      "box": [
+        132,
+        473,
+        628,
+        499
+      ]
+    },
+    {
+      "text": "• Completed coursework in student evaluation basics",
+      "score": 0.9708573818206787,
+      "box": [
+        133,
+        498,
+        624,
+        524
+      ]
+    }
+  ],
+  "seconds": 2.21280279988423,
+  "id": "00818",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

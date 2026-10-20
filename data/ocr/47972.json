@@ -1,0 +1,202 @@
+{
+  "lines": [
+    {
+      "text": "MEGAN NORTON",
+      "score": 0.9997572898864746,
+      "box": [
+        116,
+        89,
+        397,
+        122
+      ]
+    },
+    {
+      "text": "SC, USA | +1-699-858-8935 | megan.norton@example.com",
+      "score": 0.9862496852874756,
+      "box": [
+        117,
+        150,
+        668,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9991400837898254,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Sunny Meadow School, 2019.122023.01",
+      "score": 0.9868599772453308,
+      "box": [
+        116,
+        289,
+        851,
+        319
+      ]
+    },
+    {
+      "text": "- Implemented assessment policy frameworks",
+      "score": 0.9953959584236145,
+      "box": [
+        127,
+        317,
+        553,
+        341
+      ]
+    },
+    {
+      "text": "- Led academic improvement programs",
+      "score": 0.9971711039543152,
+      "box": [
+        127,
+        339,
+        493,
+        371
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Golden Bridge Academy, 2016.112019.12",
+      "score": 0.9975894093513489,
+      "box": [
+        116,
+        381,
+        866,
+        411
+      ]
+    },
+    {
+      "text": "- Implemented long-term academic plans",
+      "score": 0.9993147850036621,
+      "box": [
+        126,
+        408,
+        507,
+        434
+      ]
+    },
+    {
+      "text": "- Designed performance monitoring systems",
+      "score": 0.9974192380905151,
+      "box": [
+        126,
+        432,
+        539,
+        459
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Caring Meadow School, 2013.09—2016.11",
+      "score": 0.9894256591796875,
+      "box": [
+        116,
+        471,
+        852,
+        499
+      ]
+    },
+    {
+      "text": "- Integrated educational technology tools",
+      "score": 0.9915416836738586,
+      "box": [
+        125,
+        497,
+        506,
+        526
+      ]
+    },
+    {
+      "text": "- Implemented formative assessment strategies",
+      "score": 0.9956483840942383,
+      "box": [
+        127,
+        522,
+        569,
+        550
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Learning Roots Academy, 2010.07—2013.09",
+      "score": 0.9840109348297119,
+      "box": [
+        117,
+        565,
+        872,
+        592
+      ]
+    },
+    {
+      "text": "- Updated student performance logs",
+      "score": 0.9987410306930542,
+      "box": [
+        127,
+        590,
+        462,
+        618
+      ]
+    },
+    {
+      "text": "- Maintained lesson documentation",
+      "score": 0.9858340620994568,
+      "box": [
+        126,
+        613,
+        455,
+        644
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999129772186279,
+      "box": [
+        117,
+        681,
+        266,
+        705
+      ]
+    },
+    {
+      "text": "Bachelor's, Learning Support Studies, Rockland University, 2010",
+      "score": 0.9880929589271545,
+      "box": [
+        115,
+        723,
+        716,
+        750
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of science education",
+      "score": 0.9811903238296509,
+      "box": [
+        131,
+        750,
+        547,
+        774
+      ]
+    },
+    {
+      "text": "•Studied foundational learning strategies",
+      "score": 0.9903813600540161,
+      "box": [
+        132,
+        773,
+        515,
+        801
+      ]
+    }
+  ],
+  "seconds": 4.045020500198007,
+  "id": "47972",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

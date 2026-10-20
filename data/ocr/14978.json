@@ -1,0 +1,142 @@
+{
+  "lines": [
+    {
+      "text": "RACHEL HARPER",
+      "score": 0.9995961785316467,
+      "box": [
+        118,
+        91,
+        407,
+        121
+      ]
+    },
+    {
+      "text": "GA, USA | +1-952-681-3247 | rachel.harper@example.com",
+      "score": 0.9930945634841919,
+      "box": [
+        116,
+        150,
+        665,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9991443753242493,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Learning Minds Academy, 2019.03—2020.10",
+      "score": 0.9961340427398682,
+      "box": [
+        115,
+        287,
+        874,
+        318
+      ]
+    },
+    {
+      "text": "- Directed cross-grade curriculum alignment",
+      "score": 0.9829884767532349,
+      "box": [
+        125,
+        314,
+        537,
+        342
+      ]
+    },
+    {
+      "text": "- Designed assessment systems",
+      "score": 0.9895625114440918,
+      "box": [
+        126,
+        339,
+        431,
+        368
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Sunny Meadow School, 2016.122018.08",
+      "score": 0.9887011647224426,
+      "box": [
+        116,
+        380,
+        853,
+        410
+      ]
+    },
+    {
+      "text": "- Reviewed curriculum content",
+      "score": 0.996514618396759,
+      "box": [
+        126,
+        407,
+        413,
+        432
+      ]
+    },
+    {
+      "text": "- Prepared daily lesson plans aligned with curriculum guidelines",
+      "score": 0.9935767650604248,
+      "box": [
+        127,
+        431,
+        716,
+        458
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999933660030365,
+      "box": [
+        117,
+        494,
+        266,
+        521
+      ]
+    },
+    {
+      "text": "Bachelor's, Early Childhood Education, Redfield University, 2014",
+      "score": 0.9991499185562134,
+      "box": [
+        116,
+        540,
+        715,
+        566
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of language arts education",
+      "score": 0.9514251351356506,
+      "box": [
+        129,
+        566,
+        601,
+        591
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of instructional facilitation",
+      "score": 0.9857078790664673,
+      "box": [
+        131,
+        592,
+        589,
+        615
+      ]
+    }
+  ],
+  "seconds": 2.7096966998651624,
+  "id": "14978",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

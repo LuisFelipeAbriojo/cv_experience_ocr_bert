@@ -1,0 +1,172 @@
+{
+  "lines": [
+    {
+      "text": "ALFONSO HODGE",
+      "score": 0.999794602394104,
+      "box": [
+        118,
+        91,
+        413,
+        121
+      ]
+    },
+    {
+      "text": "KY, USA |+1-410-630-8311 | alfonso.hodge@example.com",
+      "score": 0.9829621911048889,
+      "box": [
+        116,
+        151,
+        670,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9989109635353088,
+      "box": [
+        118,
+        245,
+        314,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, SolidWay Construction, 2020.08—2023.01",
+      "score": 0.9914860129356384,
+      "box": [
+        116,
+        288,
+        718,
+        316
+      ]
+    },
+    {
+      "text": "- Designed site safety protocols",
+      "score": 0.9964239001274109,
+      "box": [
+        125,
+        314,
+        422,
+        342
+      ]
+    },
+    {
+      "text": "- Developed structural reinforcement plans",
+      "score": 0.979812502861023,
+      "box": [
+        127,
+        339,
+        523,
+        367
+      ]
+    },
+    {
+      "text": "Construction Laborers, Reliable Frame Co., 2017.072019.12",
+      "score": 0.9743598103523254,
+      "box": [
+        117,
+        381,
+        690,
+        408
+      ]
+    },
+    {
+      "text": "- Performed site leveling tasks",
+      "score": 0.9992786645889282,
+      "box": [
+        125,
+        407,
+        409,
+        432
+      ]
+    },
+    {
+      "text": "- Coordinated material deliveries",
+      "score": 0.9963975548744202,
+      "box": [
+        128,
+        431,
+        430,
+        456
+      ]
+    },
+    {
+      "text": "Construction Laborers, Hardrock Builders, 2014.052016.10",
+      "score": 0.9966660141944885,
+      "box": [
+        118,
+        473,
+        674,
+        497
+      ]
+    },
+    {
+      "text": "- Assisted with site cleanup and debris removal",
+      "score": 0.9841935038566589,
+      "box": [
+        127,
+        499,
+        565,
+        523
+      ]
+    },
+    {
+      "text": "- Followed blueprint instructions",
+      "score": 0.9730191230773926,
+      "box": [
+        129,
+        520,
+        424,
+        550
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999513626098633,
+      "box": [
+        118,
+        588,
+        266,
+        612
+      ]
+    },
+    {
+      "text": "Some college (no degree), HVAC Technology, Willowcrest University, 2009",
+      "score": 0.9931542873382568,
+      "box": [
+        117,
+        632,
+        813,
+        659
+      ]
+    },
+    {
+      "text": "•Studied principles of site safety protocols",
+      "score": 0.9647722840309143,
+      "box": [
+        130,
+        658,
+        528,
+        685
+      ]
+    },
+    {
+      "text": "•Completed coursework in construction materials testing",
+      "score": 0.9886148571968079,
+      "box": [
+        131,
+        681,
+        660,
+        710
+      ]
+    }
+  ],
+  "seconds": 2.562347900122404,
+  "id": "22677",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

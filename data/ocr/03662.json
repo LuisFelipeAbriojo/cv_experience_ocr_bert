@@ -1,0 +1,202 @@
+{
+  "lines": [
+    {
+      "text": "CHRYSTAL MIDDLETON",
+      "score": 0.9998102188110352,
+      "box": [
+        118,
+        92,
+        507,
+        122
+      ]
+    },
+    {
+      "text": "CA, USA | +1-414-684-2856 | chrystal.middleton@example.com",
+      "score": 0.9843227863311768,
+      "box": [
+        116,
+        150,
+        709,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9991946816444397,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Little Grove School, 2019.01-2023.01",
+      "score": 0.9895448088645935,
+      "box": [
+        115,
+        287,
+        814,
+        318
+      ]
+    },
+    {
+      "text": "- Established instructional review cycles",
+      "score": 0.9974469542503357,
+      "box": [
+        126,
+        316,
+        497,
+        342
+      ]
+    },
+    {
+      "text": "- Established instructional best practices",
+      "score": 0.9962496757507324,
+      "box": [
+        125,
+        339,
+        502,
+        368
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Open Grove School, 2015.012019.01",
+      "score": 0.9916932582855225,
+      "box": [
+        117,
+        382,
+        819,
+        409
+      ]
+    },
+    {
+      "text": "- Led curriculum alignment initiatives",
+      "score": 0.9986572265625,
+      "box": [
+        128,
+        409,
+        466,
+        433
+      ]
+    },
+    {
+      "text": "- Designed instructional quality standards",
+      "score": 0.9981216192245483,
+      "box": [
+        127,
+        431,
+        511,
+        459
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Open Path School, 2011.01—2015.01",
+      "score": 0.9901459813117981,
+      "box": [
+        117,
+        471,
+        806,
+        499
+      ]
+    },
+    {
+      "text": "- Evaluated instructional effectiveness",
+      "score": 0.9960415959358215,
+      "box": [
+        126,
+        498,
+        480,
+        524
+      ]
+    },
+    {
+      "text": "- Evaluated learning outcomes",
+      "score": 0.9929893016815186,
+      "box": [
+        127,
+        522,
+        412,
+        550
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Sunny Minds School, 2007.012011.01",
+      "score": 0.9896648526191711,
+      "box": [
+        118,
+        566,
+        826,
+        590
+      ]
+    },
+    {
+      "text": "- Prepared visual teaching aids",
+      "score": 0.9780564904212952,
+      "box": [
+        127,
+        591,
+        418,
+        615
+      ]
+    },
+    {
+      "text": "- Prepared instructional materials and worksheets",
+      "score": 0.9824398756027222,
+      "box": [
+        127,
+        614,
+        588,
+        642
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999399185180664,
+      "box": [
+        117,
+        681,
+        266,
+        705
+      ]
+    },
+    {
+      "text": "Bachelor's, Education Services, Hillcrest University, 2005",
+      "score": 0.9920791387557983,
+      "box": [
+        117,
+        725,
+        644,
+        748
+      ]
+    },
+    {
+      "text": "• Studied principles of learner motivation",
+      "score": 0.9754437804222107,
+      "box": [
+        131,
+        750,
+        509,
+        774
+      ]
+    },
+    {
+      "text": "•Studied fundamentals of instructional pacing",
+      "score": 0.9935688376426697,
+      "box": [
+        131,
+        773,
+        556,
+        800
+      ]
+    }
+  ],
+  "seconds": 3.1229747999459505,
+  "id": "03662",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

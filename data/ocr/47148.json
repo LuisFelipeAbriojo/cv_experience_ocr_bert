@@ -1,0 +1,172 @@
+{
+  "lines": [
+    {
+      "text": "MICHELLE BISHOP",
+      "score": 0.9824780225753784,
+      "box": [
+        117,
+        89,
+        426,
+        122
+      ]
+    },
+    {
+      "text": "RI, USA | +1-853-618-4995 | michelle.bishop@example.com",
+      "score": 0.9883126020431519,
+      "box": [
+        116,
+        150,
+        676,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9990910887718201,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, LifePath Nursing Services, 2020.09—2023.01",
+      "score": 0.9846123456954956,
+      "box": [
+        115,
+        287,
+        716,
+        318
+      ]
+    },
+    {
+      "text": "- Managed clinical risk assessments",
+      "score": 0.9867100119590759,
+      "box": [
+        125,
+        313,
+        463,
+        344
+      ]
+    },
+    {
+      "text": "- Developed nursing training programs",
+      "score": 0.9745860695838928,
+      "box": [
+        127,
+        340,
+        484,
+        369
+      ]
+    },
+    {
+      "text": "Registered Nurses, LifeSpring Medical Services, 2018.042020.09",
+      "score": 0.9900712370872498,
+      "box": [
+        116,
+        381,
+        735,
+        411
+      ]
+    },
+    {
+      "text": "- Managed isolation procedures",
+      "score": 0.993976891040802,
+      "box": [
+        125,
+        406,
+        423,
+        436
+      ]
+    },
+    {
+      "text": "- Implemented infection prevention protocols",
+      "score": 0.9928455352783203,
+      "box": [
+        128,
+        433,
+        540,
+        459
+      ]
+    },
+    {
+      "text": "Registered Nurses, GentleBridge Nursing, 2012.112015.04",
+      "score": 0.985723614692688,
+      "box": [
+        118,
+        474,
+        675,
+        498
+      ]
+    },
+    {
+      "text": "- Prepared patients for examinations",
+      "score": 0.9702303409576416,
+      "box": [
+        127,
+        497,
+        466,
+        525
+      ]
+    },
+    {
+      "text": "- Prepared medical equipment for use",
+      "score": 0.9991198778152466,
+      "box": [
+        128,
+        521,
+        478,
+        551
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9998807907104492,
+      "box": [
+        117,
+        587,
+        267,
+        614
+      ]
+    },
+    {
+      "text": "Bachelor's, Health Care Management, Summit University, 2012",
+      "score": 0.9986889958381653,
+      "box": [
+        117,
+        632,
+        704,
+        659
+      ]
+    },
+    {
+      "text": "•Completed coursework in enteral feeding basics",
+      "score": 0.9633833169937134,
+      "box": [
+        130,
+        657,
+        594,
+        685
+      ]
+    },
+    {
+      "text": "Completed coursework in home health nursing basics",
+      "score": 0.9996253848075867,
+      "box": [
+        132,
+        681,
+        643,
+        709
+      ]
+    }
+  ],
+  "seconds": 2.7452754001133144,
+  "id": "47148",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

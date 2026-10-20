@@ -1,0 +1,112 @@
+{
+  "lines": [
+    {
+      "text": "AMARION FLYNN",
+      "score": 0.9995351433753967,
+      "box": [
+        118,
+        91,
+        398,
+        122
+      ]
+    },
+    {
+      "text": "MO, USA | +1-708-488-1693 | amarion.flynn@example.com",
+      "score": 0.9928004145622253,
+      "box": [
+        115,
+        149,
+        671,
+        177
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9997137188911438,
+      "box": [
+        117,
+        243,
+        317,
+        270
+      ]
+    },
+    {
+      "text": "Construction Laborers, FirmTrack Construction, 2021.03—2023.01",
+      "score": 0.988211452960968,
+      "box": [
+        116,
+        287,
+        724,
+        315
+      ]
+    },
+    {
+      "text": "- Secured site fencing",
+      "score": 0.9937517046928406,
+      "box": [
+        124,
+        312,
+        332,
+        342
+      ]
+    },
+    {
+      "text": "- Carried materials to designated work areas",
+      "score": 0.9839521646499634,
+      "box": [
+        126,
+        338,
+        541,
+        367
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999175667762756,
+      "box": [
+        116,
+        404,
+        268,
+        431
+      ]
+    },
+    {
+      "text": "Some college (no degree), Construction Materials, Willow Ridge University, 2023",
+      "score": 0.9915398955345154,
+      "box": [
+        116,
+        446,
+        865,
+        476
+      ]
+    },
+    {
+      "text": "Studied principles of material recycling",
+      "score": 0.9937654733657837,
+      "box": [
+        129,
+        472,
+        505,
+        501
+      ]
+    },
+    {
+      "text": "Completed coursework in basic siding installation",
+      "score": 0.9971209764480591,
+      "box": [
+        132,
+        497,
+        603,
+        525
+      ]
+    }
+  ],
+  "seconds": 1.9122799998149276,
+  "id": "31179",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

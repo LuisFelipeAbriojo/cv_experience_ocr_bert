@@ -1,0 +1,112 @@
+{
+  "lines": [
+    {
+      "text": "CHRISTINE BASS",
+      "score": 0.9997954964637756,
+      "box": [
+        118,
+        91,
+        400,
+        122
+      ]
+    },
+    {
+      "text": "GA, USA | +1-227-730-9216 | christine.bass@example.com",
+      "score": 0.9896788597106934,
+      "box": [
+        117,
+        150,
+        670,
+        177
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9997612833976746,
+      "box": [
+        117,
+        243,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Registered Nurses, GentleBridge Nursing, 2017.102020.09",
+      "score": 0.9996674060821533,
+      "box": [
+        115,
+        286,
+        675,
+        318
+      ]
+    },
+    {
+      "text": "- Checked medication dosages",
+      "score": 0.9843079447746277,
+      "box": [
+        126,
+        313,
+        417,
+        341
+      ]
+    },
+    {
+      "text": "- Prepared patients for examinations",
+      "score": 0.9832444787025452,
+      "box": [
+        127,
+        339,
+        466,
+        367
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999386668205261,
+      "box": [
+        116,
+        404,
+        268,
+        431
+      ]
+    },
+    {
+      "text": "Associate's degree, Health Management, Vista University, 2002",
+      "score": 0.9970981478691101,
+      "box": [
+        116,
+        446,
+        706,
+        475
+      ]
+    },
+    {
+      "text": "• Studied principles of pain management",
+      "score": 0.9761030673980713,
+      "box": [
+        129,
+        475,
+        509,
+        499
+      ]
+    },
+    {
+      "text": "Studied fundamentals of clinical decision making",
+      "score": 0.9942801594734192,
+      "box": [
+        130,
+        496,
+        598,
+        526
+      ]
+    }
+  ],
+  "seconds": 1.9568984000943601,
+  "id": "16635",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

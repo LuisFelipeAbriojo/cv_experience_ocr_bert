@@ -1,0 +1,142 @@
+{
+  "lines": [
+    {
+      "text": "CHELSEA OWEN",
+      "score": 0.9994966983795166,
+      "box": [
+        118,
+        91,
+        390,
+        122
+      ]
+    },
+    {
+      "text": "CO, USA | +1-830-534-6177 | chelsea.owen@example.com",
+      "score": 0.9903910160064697,
+      "box": [
+        118,
+        152,
+        670,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9991493225097656,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, TrustCount Group, 2020.11-2023.01",
+      "score": 0.9752712845802307,
+      "box": [
+        115,
+        288,
+        666,
+        316
+      ]
+    },
+    {
+      "text": "- Directed financial reporting processes",
+      "score": 0.996661365032196,
+      "box": [
+        126,
+        315,
+        492,
+        342
+      ]
+    },
+    {
+      "text": "- Established compliance monitoring systems",
+      "score": 0.9989891052246094,
+      "box": [
+        126,
+        339,
+        547,
+        369
+      ]
+    },
+    {
+      "text": "Accountants Auditors, AccuCount Group, 2017.042019.07",
+      "score": 0.9975706934928894,
+      "box": [
+        115,
+        379,
+        667,
+        410
+      ]
+    },
+    {
+      "text": "- Prepared journal entries",
+      "score": 0.9989075064659119,
+      "box": [
+        124,
+        406,
+        367,
+        435
+      ]
+    },
+    {
+      "text": "- Prepared audit confirmations",
+      "score": 0.9836364388465881,
+      "box": [
+        127,
+        430,
+        410,
+        458
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999404549598694,
+      "box": [
+        117,
+        494,
+        268,
+        521
+      ]
+    },
+    {
+      "text": "Bachelor's, Administrative Studies, Silverlake University, 2012",
+      "score": 0.9838321805000305,
+      "box": [
+        116,
+        540,
+        689,
+        566
+      ]
+    },
+    {
+      "text": "• Completed coursework in expense allocation",
+      "score": 0.9916708469390869,
+      "box": [
+        132,
+        566,
+        563,
+        591
+      ]
+    },
+    {
+      "text": "Completed coursework in accounting controls testing",
+      "score": 0.9879012703895569,
+      "box": [
+        130,
+        587,
+        637,
+        621
+      ]
+    }
+  ],
+  "seconds": 2.411422399803996,
+  "id": "09537",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

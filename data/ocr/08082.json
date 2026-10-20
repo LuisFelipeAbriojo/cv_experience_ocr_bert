@@ -1,0 +1,182 @@
+{
+  "lines": [
+    {
+      "text": "JORDAN VO",
+      "score": 0.9527015686035156,
+      "box": [
+        115,
+        88,
+        316,
+        122
+      ]
+    },
+    {
+      "text": "CA, USA | +1-971-560-2822 | jordan.vo@example.com",
+      "score": 0.9807348251342773,
+      "box": [
+        116,
+        150,
+        626,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9987257122993469,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Brightstack Systems, 2020.09—2023.01",
+      "score": 0.9924855828285217,
+      "box": [
+        116,
+        290,
+        684,
+        317
+      ]
+    },
+    {
+      "text": "- Implemented security architectures",
+      "score": 0.9993178248405457,
+      "box": [
+        129,
+        317,
+        465,
+        341
+      ]
+    },
+    {
+      "text": "- Led technical roadmap planning",
+      "score": 0.9995766878128052,
+      "box": [
+        129,
+        340,
+        437,
+        368
+      ]
+    },
+    {
+      "text": "Software Developers, Netcore Solutions, 2018.042020.09",
+      "score": 0.9945512413978577,
+      "box": [
+        118,
+        383,
+        661,
+        407
+      ]
+    },
+    {
+      "text": "- Handled concurrency issues",
+      "score": 0.989876925945282,
+      "box": [
+        125,
+        408,
+        405,
+        433
+      ]
+    },
+    {
+      "text": "- Reviewed pull requests",
+      "score": 0.9965114593505859,
+      "box": [
+        125,
+        431,
+        359,
+        461
+      ]
+    },
+    {
+      "text": "Software Developers, Corefield Labs, 2015.112018.04",
+      "score": 0.9989108443260193,
+      "box": [
+        118,
+        473,
+        631,
+        497
+      ]
+    },
+    {
+      "text": "- Reviewed error reports",
+      "score": 0.9925025105476379,
+      "box": [
+        126,
+        498,
+        355,
+        523
+      ]
+    },
+    {
+      "text": "- Implemented validation logic",
+      "score": 0.9842422008514404,
+      "box": [
+        128,
+        521,
+        406,
+        550
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999330043792725,
+      "box": [
+        118,
+        588,
+        266,
+        612
+      ]
+    },
+    {
+      "text": "Master's, Meadowfield University, 2018",
+      "score": 0.9834161996841431,
+      "box": [
+        117,
+        633,
+        481,
+        657
+      ]
+    },
+    {
+      "text": "Bachelor's, Riverbend University, 2016",
+      "score": 0.9849987030029297,
+      "box": [
+        117,
+        658,
+        477,
+        682
+      ]
+    },
+    {
+      "text": "Completed coursework in human-computer interaction basics",
+      "score": 0.998277485370636,
+      "box": [
+        131,
+        681,
+        715,
+        709
+      ]
+    },
+    {
+      "text": "Completed coursework in computer graphics basics",
+      "score": 0.9944651126861572,
+      "box": [
+        131,
+        704,
+        629,
+        738
+      ]
+    }
+  ],
+  "seconds": 2.3503394997678697,
+  "id": "08082",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

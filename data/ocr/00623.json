@@ -1,0 +1,142 @@
+{
+  "lines": [
+    {
+      "text": "JOHNNY HOOVER",
+      "score": 0.9871397614479065,
+      "box": [
+        116,
+        91,
+        411,
+        121
+      ]
+    },
+    {
+      "text": "AL, USA | +1-687-974-5994 | johnny.hoover@example.com",
+      "score": 0.99300616979599,
+      "box": [
+        118,
+        152,
+        667,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9991037249565125,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, SteadyStone Builders, 2020.08—2022.02",
+      "score": 0.9843770861625671,
+      "box": [
+        116,
+        288,
+        710,
+        316
+      ]
+    },
+    {
+      "text": "- Developed site performance metrics",
+      "score": 0.990977942943573,
+      "box": [
+        126,
+        315,
+        476,
+        341
+      ]
+    },
+    {
+      "text": "- Reviewed structural integrity assessments",
+      "score": 0.9866653084754944,
+      "box": [
+        126,
+        339,
+        532,
+        367
+      ]
+    },
+    {
+      "text": "Construction Laborers, StrongBase Builders, 2018.022019.09",
+      "score": 0.9907689094543457,
+      "box": [
+        117,
+        382,
+        699,
+        409
+      ]
+    },
+    {
+      "text": "- Helped position heavy materials",
+      "score": 0.9918352961540222,
+      "box": [
+        126,
+        407,
+        439,
+        432
+      ]
+    },
+    {
+      "text": "- Assisted with basic electrical conduit placement",
+      "score": 0.9954410791397095,
+      "box": [
+        128,
+        432,
+        582,
+        456
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999172687530518,
+      "box": [
+        117,
+        494,
+        266,
+        521
+      ]
+    },
+    {
+      "text": "Associate's degree, Drafting Technology, Harvest University, 2013",
+      "score": 0.9953098893165588,
+      "box": [
+        117,
+        541,
+        732,
+        568
+      ]
+    },
+    {
+      "text": "•Completed coursework in basic welding concepts",
+      "score": 0.9960235953330994,
+      "box": [
+        130,
+        567,
+        603,
+        591
+      ]
+    },
+    {
+      "text": "Studied principles of construction scheduling",
+      "score": 0.9994659423828125,
+      "box": [
+        130,
+        590,
+        561,
+        618
+      ]
+    }
+  ],
+  "seconds": 2.4403038998134434,
+  "id": "00623",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

@@ -1,0 +1,112 @@
+{
+  "lines": [
+    {
+      "text": "CARLEEN BELTRAN",
+      "score": 0.983992874622345,
+      "box": [
+        118,
+        91,
+        449,
+        122
+      ]
+    },
+    {
+      "text": "CA, USA | +1-977-865-1545 | carleen.beltran@example.com",
+      "score": 0.9883487224578857,
+      "box": [
+        118,
+        152,
+        678,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9997676014900208,
+      "box": [
+        117,
+        243,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Accountants Auditors, FairBalance Financial, 2020.03—2023.01",
+      "score": 0.9894498586654663,
+      "box": [
+        117,
+        289,
+        699,
+        313
+      ]
+    },
+    {
+      "text": "- Verified financial transactions",
+      "score": 0.9850542545318604,
+      "box": [
+        126,
+        313,
+        414,
+        340
+      ]
+    },
+    {
+      "text": "- Prepared aging reports",
+      "score": 0.9953290820121765,
+      "box": [
+        126,
+        338,
+        357,
+        369
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999324083328247,
+      "box": [
+        116,
+        404,
+        268,
+        431
+      ]
+    },
+    {
+      "text": "Bachelor's, Economics, Stonebridge University, 2019",
+      "score": 0.9989156723022461,
+      "box": [
+        115,
+        446,
+        609,
+        475
+      ]
+    },
+    {
+      "text": "Completed coursework in tax accounting",
+      "score": 0.9792489409446716,
+      "box": [
+        129,
+        472,
+        525,
+        501
+      ]
+    },
+    {
+      "text": "•Studied fundamentals of depreciation methods",
+      "score": 0.9881750345230103,
+      "box": [
+        131,
+        496,
+        579,
+        525
+      ]
+    }
+  ],
+  "seconds": 2.061948100104928,
+  "id": "08502",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

@@ -1,0 +1,142 @@
+{
+  "lines": [
+    {
+      "text": "RICKY SCHWARTZ",
+      "score": 0.991028904914856,
+      "box": [
+        117,
+        89,
+        423,
+        122
+      ]
+    },
+    {
+      "text": "CA, USA | +1-337-670-4872 | ricky.schwartz@example.com",
+      "score": 0.9765214323997498,
+      "box": [
+        116,
+        150,
+        672,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9991051554679871,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, SolidCount Advisors, 2018.06—2021.06",
+      "score": 0.9852409362792969,
+      "box": [
+        115,
+        288,
+        689,
+        316
+      ]
+    },
+    {
+      "text": "- Designed financial documentation standards",
+      "score": 0.9847981929779053,
+      "box": [
+        126,
+        315,
+        553,
+        340
+      ]
+    },
+    {
+      "text": "- Developed internal control systems",
+      "score": 0.9960922598838806,
+      "box": [
+        127,
+        339,
+        467,
+        370
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Fairview Financial Services, 2014.052017.05",
+      "score": 0.9992305040359497,
+      "box": [
+        118,
+        383,
+        753,
+        407
+      ]
+    },
+    {
+      "text": "- Maintained accounting software records",
+      "score": 0.996595561504364,
+      "box": [
+        126,
+        409,
+        509,
+        433
+      ]
+    },
+    {
+      "text": "- Assisted with forecasting data",
+      "score": 0.991836428642273,
+      "box": [
+        127,
+        430,
+        420,
+        459
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999212622642517,
+      "box": [
+        117,
+        494,
+        267,
+        521
+      ]
+    },
+    {
+      "text": "Bachelor's, Applied Accounting, Oakview University, 2002",
+      "score": 0.9942899346351624,
+      "box": [
+        117,
+        542,
+        651,
+        566
+      ]
+    },
+    {
+      "text": "• Completed coursework in investment analysis basics",
+      "score": 0.9955978393554688,
+      "box": [
+        131,
+        567,
+        635,
+        592
+      ]
+    },
+    {
+      "text": "Studied principles of financial regulations",
+      "score": 0.9881802797317505,
+      "box": [
+        130,
+        590,
+        528,
+        618
+      ]
+    }
+  ],
+  "seconds": 2.486642099916935,
+  "id": "03208",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

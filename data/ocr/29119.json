@@ -1,0 +1,182 @@
+{
+  "lines": [
+    {
+      "text": "LOGAN PHAN",
+      "score": 0.9998680949211121,
+      "box": [
+        117,
+        91,
+        342,
+        121
+      ]
+    },
+    {
+      "text": "MN, USA | +1-811-518-7468 |logan.phan@example.com",
+      "score": 0.9764943718910217,
+      "box": [
+        117,
+        151,
+        645,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9981083273887634,
+      "box": [
+        118,
+        245,
+        314,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Corebyte Systems, 2020.072023.01",
+      "score": 0.9944316148757935,
+      "box": [
+        117,
+        291,
+        665,
+        315
+      ]
+    },
+    {
+      "text": "- Designed caching infrastructures",
+      "score": 0.9991496801376343,
+      "box": [
+        127,
+        314,
+        447,
+        342
+      ]
+    },
+    {
+      "text": "- Led technical roadmap planning",
+      "score": 0.9872492551803589,
+      "box": [
+        129,
+        340,
+        438,
+        368
+      ]
+    },
+    {
+      "text": "Software Developers, Corewave Software, 2017.122020.07",
+      "score": 0.9876876473426819,
+      "box": [
+        117,
+        382,
+        679,
+        409
+      ]
+    },
+    {
+      "text": "- Improved application performance",
+      "score": 0.9985498785972595,
+      "box": [
+        125,
+        407,
+        458,
+        435
+      ]
+    },
+    {
+      "text": "- Integrated analytics services",
+      "score": 0.9829300045967102,
+      "box": [
+        127,
+        431,
+        407,
+        459
+      ]
+    },
+    {
+      "text": "Software Developers, Cloudframe Software, 2015.052017.12",
+      "score": 0.9865202307701111,
+      "box": [
+        117,
+        472,
+        694,
+        499
+      ]
+    },
+    {
+      "text": "- Refactored simple functions for readability",
+      "score": 0.9786967635154724,
+      "box": [
+        126,
+        497,
+        530,
+        525
+      ]
+    },
+    {
+      "text": "- Assisted with container setup",
+      "score": 0.9837678074836731,
+      "box": [
+        128,
+        521,
+        414,
+        549
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999502897262573,
+      "box": [
+        118,
+        588,
+        266,
+        612
+      ]
+    },
+    {
+      "text": "Master's, Rolling Hills University, 2018",
+      "score": 0.9620922803878784,
+      "box": [
+        117,
+        632,
+        473,
+        659
+      ]
+    },
+    {
+      "text": "Bachelor's, Stonebridge University, 2016",
+      "score": 0.9796510934829712,
+      "box": [
+        115,
+        656,
+        496,
+        684
+      ]
+    },
+    {
+      "text": "•Completed coursework in message queues",
+      "score": 0.9768717885017395,
+      "box": [
+        130,
+        682,
+        549,
+        710
+      ]
+    },
+    {
+      "text": "•Studied fundamentals of profiling tools",
+      "score": 0.9710890650749207,
+      "box": [
+        131,
+        705,
+        502,
+        735
+      ]
+    }
+  ],
+  "seconds": 2.4184190002270043,
+  "id": "29119",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

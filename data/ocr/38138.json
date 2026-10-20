@@ -1,0 +1,142 @@
+{
+  "lines": [
+    {
+      "text": "BRYCE WILLIAMSON",
+      "score": 0.9997537136077881,
+      "box": [
+        118,
+        91,
+        459,
+        121
+      ]
+    },
+    {
+      "text": "NY, USA | +1-730-724-5558 |bryce.williamson@example.com",
+      "score": 0.9843317866325378,
+      "box": [
+        117,
+        152,
+        693,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9991827607154846,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, SteadyLedger Group, 2020.06—2023.01",
+      "score": 0.9943673610687256,
+      "box": [
+        115,
+        288,
+        692,
+        316
+      ]
+    },
+    {
+      "text": "- Managed consolidation processes",
+      "score": 0.9994792342185974,
+      "box": [
+        126,
+        315,
+        458,
+        342
+      ]
+    },
+    {
+      "text": "- Led cross-functional financial integration",
+      "score": 0.986733615398407,
+      "box": [
+        128,
+        339,
+        514,
+        367
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Balanced Books Group, 2017.102020.06",
+      "score": 0.988313615322113,
+      "box": [
+        116,
+        380,
+        716,
+        409
+      ]
+    },
+    {
+      "text": "- Assisted with financial statement preparation",
+      "score": 0.9766486883163452,
+      "box": [
+        124,
+        406,
+        556,
+        434
+      ]
+    },
+    {
+      "text": "- Maintained vendor records",
+      "score": 0.9970742464065552,
+      "box": [
+        127,
+        433,
+        390,
+        455
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999474287033081,
+      "box": [
+        116,
+        494,
+        268,
+        521
+      ]
+    },
+    {
+      "text": "Bachelor's, Administrative Studies, Hillside University, 2021",
+      "score": 0.9912592768669128,
+      "box": [
+        116,
+        540,
+        664,
+        567
+      ]
+    },
+    {
+      "text": "•Studied fundamentals of auditing",
+      "score": 0.9728424549102783,
+      "box": [
+        129,
+        565,
+        453,
+        592
+      ]
+    },
+    {
+      "text": "•Studied fundamentals of operations management",
+      "score": 0.9717375636100769,
+      "box": [
+        131,
+        590,
+        604,
+        618
+      ]
+    }
+  ],
+  "seconds": 2.219000400044024,
+  "id": "38138",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

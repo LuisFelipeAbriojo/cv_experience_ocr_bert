@@ -1,0 +1,172 @@
+{
+  "lines": [
+    {
+      "text": "REBECCA HARRISON",
+      "score": 0.9815402626991272,
+      "box": [
+        117,
+        91,
+        469,
+        121
+      ]
+    },
+    {
+      "text": "CA, USA | +1-604-720-7604 | rebecca.harrison@example.com",
+      "score": 0.9936691522598267,
+      "box": [
+        116,
+        150,
+        697,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9990448951721191,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Open Fields School, 2019.112023.01",
+      "score": 0.9944401383399963,
+      "box": [
+        116,
+        287,
+        819,
+        317
+      ]
+    },
+    {
+      "text": "- Designed literacy development programs",
+      "score": 0.9997389912605286,
+      "box": [
+        125,
+        314,
+        522,
+        344
+      ]
+    },
+    {
+      "text": "- Implemented long-term academic plans",
+      "score": 0.9957375526428223,
+      "box": [
+        126,
+        339,
+        508,
+        369
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Harmony Horizons Academy, 2016.09—2019.11",
+      "score": 0.9918403625488281,
+      "box": [
+        116,
+        381,
+        904,
+        411
+      ]
+    },
+    {
+      "text": "- Supervised student projects",
+      "score": 0.9952718615531921,
+      "box": [
+        126,
+        409,
+        400,
+        433
+      ]
+    },
+    {
+      "text": "- Created instructional units",
+      "score": 0.9837241172790527,
+      "box": [
+        126,
+        431,
+        383,
+        457
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Caring Start School, 2013.072016.09",
+      "score": 0.994403064250946,
+      "box": [
+        117,
+        472,
+        819,
+        499
+      ]
+    },
+    {
+      "text": "- Implemented lesson pacing guidelines",
+      "score": 0.9974064826965332,
+      "box": [
+        125,
+        497,
+        497,
+        525
+      ]
+    },
+    {
+      "text": "- Delivered structured lectures",
+      "score": 0.9936807751655579,
+      "box": [
+        127,
+        521,
+        410,
+        549
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999043345451355,
+      "box": [
+        117,
+        587,
+        267,
+        614
+      ]
+    },
+    {
+      "text": "Bachelor's, Introductory Education, Shady Grove University, 2013",
+      "score": 0.9880303144454956,
+      "box": [
+        118,
+        633,
+        723,
+        657
+      ]
+    },
+    {
+      "text": "• Completed coursework in social studies education",
+      "score": 0.988315761089325,
+      "box": [
+        132,
+        659,
+        612,
+        683
+      ]
+    },
+    {
+      "text": "•Completed coursework in basic curriculum planning",
+      "score": 0.9764679670333862,
+      "box": [
+        132,
+        680,
+        625,
+        710
+      ]
+    }
+  ],
+  "seconds": 2.6434762999415398,
+  "id": "04408",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

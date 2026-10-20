@@ -1,0 +1,172 @@
+{
+  "lines": [
+    {
+      "text": "TARA ENRIQUEZ",
+      "score": 0.9693406224250793,
+      "box": [
+        116,
+        89,
+        394,
+        122
+      ]
+    },
+    {
+      "text": "IL, USA | +1-758-300-5466 | tara.enriquez@example.com",
+      "score": 0.9874902367591858,
+      "box": [
+        116,
+        150,
+        651,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9989835619926453,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, FairCount Financial, 2020.01—2023.01",
+      "score": 0.9746139645576477,
+      "box": [
+        117,
+        290,
+        679,
+        314
+      ]
+    },
+    {
+      "text": "- Established audit governance structures",
+      "score": 0.9974821209907532,
+      "box": [
+        128,
+        315,
+        513,
+        342
+      ]
+    },
+    {
+      "text": "- Led audit planning governance",
+      "score": 0.9855490326881409,
+      "box": [
+        127,
+        340,
+        429,
+        370
+      ]
+    },
+    {
+      "text": "Accountants Auditors, ClearLedger Services, 2016.122020.01",
+      "score": 0.9953536987304688,
+      "box": [
+        117,
+        383,
+        699,
+        407
+      ]
+    },
+    {
+      "text": "- Conducted account reconciliations",
+      "score": 0.9978482127189636,
+      "box": [
+        125,
+        407,
+        460,
+        432
+      ]
+    },
+    {
+      "text": "- Reviewed revenue forecasts",
+      "score": 0.9984949231147766,
+      "box": [
+        126,
+        431,
+        405,
+        456
+      ]
+    },
+    {
+      "text": "Accountants Auditors, SolidBooks Financial, 2013.112016.12",
+      "score": 0.9930592179298401,
+      "box": [
+        118,
+        473,
+        694,
+        497
+      ]
+    },
+    {
+      "text": "- Compiled audit evidence",
+      "score": 0.9950941205024719,
+      "box": [
+        126,
+        498,
+        372,
+        524
+      ]
+    },
+    {
+      "text": "- Entered financial data into accounting systems",
+      "score": 0.9897083640098572,
+      "box": [
+        126,
+        520,
+        573,
+        550
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999088644981384,
+      "box": [
+        117,
+        587,
+        267,
+        614
+      ]
+    },
+    {
+      "text": "Bachelor's, Public Accounting, Willow Ridge University, 2015",
+      "score": 0.9966160655021667,
+      "box": [
+        117,
+        633,
+        679,
+        657
+      ]
+    },
+    {
+      "text": "Studied fundamentals of auditing",
+      "score": 0.9924842119216919,
+      "box": [
+        129,
+        654,
+        454,
+        685
+      ]
+    },
+    {
+      "text": "•Studied fundamentals of professional writing",
+      "score": 0.9798003435134888,
+      "box": [
+        130,
+        680,
+        558,
+        710
+      ]
+    }
+  ],
+  "seconds": 2.476388200186193,
+  "id": "19154",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

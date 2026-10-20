@@ -1,0 +1,202 @@
+{
+  "lines": [
+    {
+      "text": "SEAN FITZGERALD",
+      "score": 0.999192476272583,
+      "box": [
+        117,
+        92,
+        431,
+        122
+      ]
+    },
+    {
+      "text": "WI, USA | +1-733-511-8014 | sean.fitzgerald@example.com",
+      "score": 0.9981355667114258,
+      "box": [
+        116,
+        150,
+        673,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9989565014839172,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Reliable Accounts Co., 2019.09—2023.01",
+      "score": 0.9860727190971375,
+      "box": [
+        117,
+        291,
+        704,
+        315
+      ]
+    },
+    {
+      "text": "- Designed accounting frameworks",
+      "score": 0.9846389293670654,
+      "box": [
+        129,
+        317,
+        450,
+        341
+      ]
+    },
+    {
+      "text": "- Designed financial oversight systems",
+      "score": 0.9907454252243042,
+      "box": [
+        127,
+        339,
+        485,
+        369
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Integrity Balance Services, 2016.042019.09",
+      "score": 0.9965773820877075,
+      "box": [
+        116,
+        381,
+        742,
+        409
+      ]
+    },
+    {
+      "text": "- Designed financial documentation standards",
+      "score": 0.9893655776977539,
+      "box": [
+        129,
+        409,
+        553,
+        433
+      ]
+    },
+    {
+      "text": "- Led accounting transformation projects",
+      "score": 0.9884769320487976,
+      "box": [
+        129,
+        435,
+        501,
+        458
+      ]
+    },
+    {
+      "text": "Accountants Auditors, CoreCount Services, 2012.112016.04",
+      "score": 0.9986454844474792,
+      "box": [
+        117,
+        474,
+        687,
+        498
+      ]
+    },
+    {
+      "text": "- Conducted variance investigations",
+      "score": 0.9828834533691406,
+      "box": [
+        126,
+        498,
+        460,
+        523
+      ]
+    },
+    {
+      "text": "- Coordinated audit schedules",
+      "score": 0.9796162247657776,
+      "box": [
+        127,
+        522,
+        407,
+        548
+      ]
+    },
+    {
+      "text": "Accountants Auditors, EverBalance Group, 2009.06—2012.11",
+      "score": 0.9926403760910034,
+      "box": [
+        118,
+        566,
+        680,
+        590
+      ]
+    },
+    {
+      "text": "- Prepared audit confirmations",
+      "score": 0.9658743739128113,
+      "box": [
+        127,
+        592,
+        410,
+        616
+      ]
+    },
+    {
+      "text": "- Prepared aging reports",
+      "score": 0.9855989813804626,
+      "box": [
+        127,
+        614,
+        357,
+        644
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9998937249183655,
+      "box": [
+        117,
+        681,
+        266,
+        705
+      ]
+    },
+    {
+      "text": "Bachelor's, Applied Finance, Riverwood University, 2012",
+      "score": 0.9907363653182983,
+      "box": [
+        117,
+        726,
+        641,
+        749
+      ]
+    },
+    {
+      "text": "•Studied principles of nonprofit accounting",
+      "score": 0.9745261669158936,
+      "box": [
+        131,
+        748,
+        531,
+        777
+      ]
+    },
+    {
+      "text": "• Completed coursework in business communication",
+      "score": 0.9911606907844543,
+      "box": [
+        134,
+        775,
+        618,
+        799
+      ]
+    }
+  ],
+  "seconds": 2.856734700035304,
+  "id": "60619",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

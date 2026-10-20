@@ -1,0 +1,212 @@
+{
+  "lines": [
+    {
+      "text": "DAVID MCCARTHY",
+      "score": 0.9990631341934204,
+      "box": [
+        117,
+        91,
+        421,
+        122
+      ]
+    },
+    {
+      "text": "IL, USA | +1-829-763-8306 | david.mccarthy@example.com",
+      "score": 0.993981122970581,
+      "box": [
+        116,
+        150,
+        669,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9989409446716309,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Balanced Books Group, 2018.12—2023.01",
+      "score": 0.9804418087005615,
+      "box": [
+        115,
+        288,
+        714,
+        318
+      ]
+    },
+    {
+      "text": "- Directed accounting leadership initiatives",
+      "score": 0.9924413561820984,
+      "box": [
+        126,
+        314,
+        521,
+        342
+      ]
+    },
+    {
+      "text": "- Designed financial control environments",
+      "score": 0.9981807470321655,
+      "box": [
+        127,
+        339,
+        513,
+        368
+      ]
+    },
+    {
+      "text": "Accountants Auditors, FairBooks Services, 2014.112018.12",
+      "score": 0.9994825124740601,
+      "box": [
+        118,
+        383,
+        681,
+        407
+      ]
+    },
+    {
+      "text": "- Managed financial compliance programs",
+      "score": 0.9994287490844727,
+      "box": [
+        126,
+        407,
+        517,
+        434
+      ]
+    },
+    {
+      "text": "- Designed financial documentation standards",
+      "score": 0.9816710948944092,
+      "box": [
+        128,
+        434,
+        551,
+        457
+      ]
+    },
+    {
+      "text": "Accountants Auditors, FairLedger Group, 2010.10-2014.11",
+      "score": 0.9842774868011475,
+      "box": [
+        116,
+        471,
+        664,
+        499
+      ]
+    },
+    {
+      "text": "- Conducted inventory valuation",
+      "score": 0.9917870759963989,
+      "box": [
+        125,
+        497,
+        425,
+        525
+      ]
+    },
+    {
+      "text": "- Prepared statutory filings",
+      "score": 0.9919657707214355,
+      "box": [
+        128,
+        521,
+        374,
+        552
+      ]
+    },
+    {
+      "text": "Accountants Auditors, ClearLedger Advisors, 2006.08—2010.10",
+      "score": 0.9916917085647583,
+      "box": [
+        117,
+        566,
+        701,
+        590
+      ]
+    },
+    {
+      "text": "- Reconciled bank statements",
+      "score": 0.9793554544448853,
+      "box": [
+        127,
+        592,
+        405,
+        615
+      ]
+    },
+    {
+      "text": "- Reconciled subsidiary ledgers",
+      "score": 0.9858733415603638,
+      "box": [
+        125,
+        613,
+        420,
+        644
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9998867511749268,
+      "box": [
+        117,
+        681,
+        266,
+        705
+      ]
+    },
+    {
+      "text": "Master's, Risk Management, Lakewood University, 2007",
+      "score": 0.988107442855835,
+      "box": [
+        115,
+        723,
+        638,
+        750
+      ]
+    },
+    {
+      "text": "Bachelor's, Financial Management, Brightwater University, 2005",
+      "score": 0.98298180103302,
+      "box": [
+        117,
+        750,
+        709,
+        774
+      ]
+    },
+    {
+      "text": "•Studied fundamentals of internal controls",
+      "score": 0.989592432975769,
+      "box": [
+        130,
+        774,
+        526,
+        799
+      ]
+    },
+    {
+      "text": "Completed coursework in audit planning techniques",
+      "score": 0.9855188131332397,
+      "box": [
+        131,
+        797,
+        626,
+        829
+      ]
+    }
+  ],
+  "seconds": 2.8681557001546025,
+  "id": "17337",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

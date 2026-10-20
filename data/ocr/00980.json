@@ -1,0 +1,202 @@
+{
+  "lines": [
+    {
+      "text": "ELIZABETH DAWSON",
+      "score": 0.9998537302017212,
+      "box": [
+        117,
+        90,
+        466,
+        122
+      ]
+    },
+    {
+      "text": "AK, USA | +1-463-517-7411 | elizabeth.dawson@example.com",
+      "score": 0.9936897158622742,
+      "box": [
+        116,
+        150,
+        701,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9981793761253357,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Integrity Balance Financial, 2018.10—2023.01",
+      "score": 0.9854230880737305,
+      "box": [
+        115,
+        288,
+        744,
+        316
+      ]
+    },
+    {
+      "text": "- Led audit programs",
+      "score": 0.975706934928894,
+      "box": [
+        126,
+        315,
+        323,
+        343
+      ]
+    },
+    {
+      "text": "- Designed audit methodologies",
+      "score": 0.9979643225669861,
+      "box": [
+        127,
+        339,
+        423,
+        370
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Precise Balance Group, 2014.072018.10",
+      "score": 0.9898750185966492,
+      "box": [
+        117,
+        382,
+        715,
+        407
+      ]
+    },
+    {
+      "text": "- Directed enterprise accounting platforms",
+      "score": 0.9917925000190735,
+      "box": [
+        125,
+        409,
+        515,
+        433
+      ]
+    },
+    {
+      "text": "- Directed revenue recognition policies",
+      "score": 0.9849448800086975,
+      "box": [
+        125,
+        431,
+        485,
+        459
+      ]
+    },
+    {
+      "text": "Accountants Auditors, ClearBooks Group, 2009.092013.12",
+      "score": 0.9966274499893188,
+      "box": [
+        118,
+        474,
+        672,
+        498
+      ]
+    },
+    {
+      "text": "- Reviewed tax provisions",
+      "score": 0.9996601939201355,
+      "box": [
+        125,
+        497,
+        369,
+        526
+      ]
+    },
+    {
+      "text": "- Reviewed financial disclosures",
+      "score": 0.988835334777832,
+      "box": [
+        127,
+        522,
+        427,
+        548
+      ]
+    },
+    {
+      "text": "Accountants Auditors, CoreBooks Group, 2004.10—2009.01",
+      "score": 0.981477677822113,
+      "box": [
+        118,
+        566,
+        665,
+        590
+      ]
+    },
+    {
+      "text": "- Prepared audit confirmations",
+      "score": 0.984260618686676,
+      "box": [
+        127,
+        592,
+        410,
+        616
+      ]
+    },
+    {
+      "text": "- Reviewed timesheets for payroll",
+      "score": 0.9847732186317444,
+      "box": [
+        126,
+        613,
+        439,
+        644
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999227523803711,
+      "box": [
+        117,
+        681,
+        266,
+        705
+      ]
+    },
+    {
+      "text": "Bachelor's, Quantitative Finance, Cedar Ridge University, 2002",
+      "score": 0.9813187122344971,
+      "box": [
+        115,
+        723,
+        702,
+        750
+      ]
+    },
+    {
+      "text": "Completed coursework in regulatory reporting",
+      "score": 0.9984806180000305,
+      "box": [
+        131,
+        748,
+        572,
+        777
+      ]
+    },
+    {
+      "text": "•Studied principles of reconciliation procedures",
+      "score": 0.9828251004219055,
+      "box": [
+        132,
+        772,
+        574,
+        801
+      ]
+    }
+  ],
+  "seconds": 4.158114800229669,
+  "id": "00980",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

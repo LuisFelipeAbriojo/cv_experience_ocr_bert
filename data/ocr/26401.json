@@ -1,0 +1,122 @@
+{
+  "lines": [
+    {
+      "text": "JASMINE WASHINGTON",
+      "score": 0.9997544884681702,
+      "box": [
+        115,
+        90,
+        507,
+        122
+      ]
+    },
+    {
+      "text": "MA, USA | +1-465-335-6114 | jasmine.washington@example.com",
+      "score": 0.9915685057640076,
+      "box": [
+        115,
+        149,
+        727,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.999058723449707,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Growing Path School, 2020.02—2023.01",
+      "score": 0.9845974445343018,
+      "box": [
+        117,
+        289,
+        832,
+        316
+      ]
+    },
+    {
+      "text": "- Distributed instructional handouts",
+      "score": 0.9840068817138672,
+      "box": [
+        126,
+        314,
+        451,
+        340
+      ]
+    },
+    {
+      "text": "- Reviewed lesson objectives",
+      "score": 0.9995413422584534,
+      "box": [
+        127,
+        339,
+        399,
+        366
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999497532844543,
+      "box": [
+        116,
+        404,
+        268,
+        431
+      ]
+    },
+    {
+      "text": "Master's, Community Education, Bright Ridge University, 2023",
+      "score": 0.9880397319793701,
+      "box": [
+        115,
+        447,
+        693,
+        475
+      ]
+    },
+    {
+      "text": "Bachelor's, Learning Skills, Bright Ridge University, 2023",
+      "score": 0.9959989786148071,
+      "box": [
+        117,
+        475,
+        642,
+        499
+      ]
+    },
+    {
+      "text": "Studied fundamentals of instructional goal setting",
+      "score": 0.9971142411231995,
+      "box": [
+        128,
+        496,
+        605,
+        527
+      ]
+    },
+    {
+      "text": "•Studied fundamentals of teaching strategy selection",
+      "score": 0.9777265191078186,
+      "box": [
+        131,
+        522,
+        626,
+        551
+      ]
+    }
+  ],
+  "seconds": 2.233433499932289,
+  "id": "26401",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

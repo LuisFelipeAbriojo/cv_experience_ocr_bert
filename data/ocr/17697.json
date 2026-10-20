@@ -1,0 +1,112 @@
+{
+  "lines": [
+    {
+      "text": "ERIC SANFORD",
+      "score": 0.95918208360672,
+      "box": [
+        118,
+        90,
+        371,
+        121
+      ]
+    },
+    {
+      "text": "IL, USA | +1-494-869-1140 | eric.sanford@example.com",
+      "score": 0.9920028448104858,
+      "box": [
+        116,
+        149,
+        639,
+        177
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9993556141853333,
+      "box": [
+        116,
+        243,
+        317,
+        270
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Precise Balance Services, 2019.10—2020.10",
+      "score": 0.9940931797027588,
+      "box": [
+        116,
+        288,
+        736,
+        313
+      ]
+    },
+    {
+      "text": "- Prepared supporting schedules",
+      "score": 0.9894184470176697,
+      "box": [
+        125,
+        313,
+        432,
+        341
+      ]
+    },
+    {
+      "text": "- Maintained chart of accounts",
+      "score": 0.9870955944061279,
+      "box": [
+        127,
+        339,
+        410,
+        364
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999306797981262,
+      "box": [
+        116,
+        404,
+        268,
+        431
+      ]
+    },
+    {
+      "text": "Bachelor's, Supply Chain Management, Brookstone University, 2014",
+      "score": 0.998834490776062,
+      "box": [
+        116,
+        447,
+        752,
+        474
+      ]
+    },
+    {
+      "text": "•Studied fundamentals of internal controls",
+      "score": 0.9870354533195496,
+      "box": [
+        130,
+        474,
+        526,
+        497
+      ]
+    },
+    {
+      "text": "•Studied fundamentals of revenue cycle management",
+      "score": 0.9851989150047302,
+      "box": [
+        130,
+        496,
+        637,
+        525
+      ]
+    }
+  ],
+  "seconds": 2.062445899937302,
+  "id": "17697",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

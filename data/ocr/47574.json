@@ -1,0 +1,142 @@
+{
+  "lines": [
+    {
+      "text": "LARENA HART",
+      "score": 0.9939832091331482,
+      "box": [
+        117,
+        91,
+        359,
+        122
+      ]
+    },
+    {
+      "text": "SC, USA | +1-995-426-3612 | larena.hart@example.com",
+      "score": 0.9756808280944824,
+      "box": [
+        117,
+        151,
+        639,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.999061107635498,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, WellPath Medical Group, 2020.05—2023.01",
+      "score": 0.9700059294700623,
+      "box": [
+        115,
+        287,
+        701,
+        318
+      ]
+    },
+    {
+      "text": "- Implemented evidence-based practice models",
+      "score": 0.9968137145042419,
+      "box": [
+        126,
+        313,
+        570,
+        341
+      ]
+    },
+    {
+      "text": "- Implemented care standardization",
+      "score": 0.9883369207382202,
+      "box": [
+        127,
+        338,
+        457,
+        367
+      ]
+    },
+    {
+      "text": "Registered Nurses, OpenArms Care Services, 2017.092020.05",
+      "score": 0.9920419454574585,
+      "box": [
+        118,
+        383,
+        712,
+        407
+      ]
+    },
+    {
+      "text": "- Performed basic life support procedures",
+      "score": 0.9976324439048767,
+      "box": [
+        126,
+        407,
+        512,
+        434
+      ]
+    },
+    {
+      "text": "- Conducted basic patient assessments",
+      "score": 0.9913878440856934,
+      "box": [
+        128,
+        431,
+        492,
+        457
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999358654022217,
+      "box": [
+        116,
+        494,
+        267,
+        521
+      ]
+    },
+    {
+      "text": "Bachelor's, Nursing Practice, Windcrest University, 2020",
+      "score": 0.9764807820320129,
+      "box": [
+        117,
+        542,
+        637,
+        566
+      ]
+    },
+    {
+      "text": "• Completed coursework in metabolic disorders basics",
+      "score": 0.9932110905647278,
+      "box": [
+        131,
+        567,
+        635,
+        591
+      ]
+    },
+    {
+      "text": "•Studied fundamentals of wound assessment",
+      "score": 0.9863526225090027,
+      "box": [
+        131,
+        590,
+        559,
+        615
+      ]
+    }
+  ],
+  "seconds": 2.4841078999452293,
+  "id": "47574",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

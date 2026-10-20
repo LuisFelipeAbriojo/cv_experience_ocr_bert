@@ -1,0 +1,172 @@
+{
+  "lines": [
+    {
+      "text": "NICKOLIS CHAPMAN",
+      "score": 0.9797347187995911,
+      "box": [
+        117,
+        91,
+        457,
+        121
+      ]
+    },
+    {
+      "text": "MA, USA | +1-344-554-6975 | nickolis.chapman@example.com",
+      "score": 0.9942156672477722,
+      "box": [
+        115,
+        149,
+        703,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.998323380947113,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Stonegrid Tech, 2019.12—2023.01",
+      "score": 0.9811313152313232,
+      "box": [
+        117,
+        291,
+        636,
+        315
+      ]
+    },
+    {
+      "text": "- Implemented data pipeline architectures",
+      "score": 0.996895968914032,
+      "box": [
+        127,
+        316,
+        512,
+        340
+      ]
+    },
+    {
+      "text": "- Defined API standards",
+      "score": 0.9921495914459229,
+      "box": [
+        128,
+        339,
+        351,
+        366
+      ]
+    },
+    {
+      "text": "Software Developers, Cloudpath Digital, 2016.112019.12",
+      "score": 0.9990530610084534,
+      "box": [
+        115,
+        381,
+        657,
+        409
+      ]
+    },
+    {
+      "text": "- Built data visualization tools",
+      "score": 0.9410975575447083,
+      "box": [
+        125,
+        407,
+        399,
+        433
+      ]
+    },
+    {
+      "text": "- Improved system reliability",
+      "score": 0.9984973669052124,
+      "box": [
+        127,
+        431,
+        388,
+        460
+      ]
+    },
+    {
+      "text": "Software Developers, Flowstack Solutions, 2013.092016.11",
+      "score": 0.9901543855667114,
+      "box": [
+        117,
+        472,
+        680,
+        499
+      ]
+    },
+    {
+      "text": "- Refactored simple functions for readability",
+      "score": 0.9994627237319946,
+      "box": [
+        125,
+        497,
+        531,
+        525
+      ]
+    },
+    {
+      "text": "- Debugged runtime errors",
+      "score": 0.9739570021629333,
+      "box": [
+        127,
+        521,
+        376,
+        551
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999492168426514,
+      "box": [
+        118,
+        588,
+        266,
+        612
+      ]
+    },
+    {
+      "text": "Bachelor's, Rockland University, 2011",
+      "score": 0.9864932894706726,
+      "box": [
+        117,
+        630,
+        466,
+        658
+      ]
+    },
+    {
+      "text": "Completed coursework in inversion of control",
+      "score": 0.9895074963569641,
+      "box": [
+        131,
+        657,
+        566,
+        684
+      ]
+    },
+    {
+      "text": "•Completed coursework in configuration management",
+      "score": 0.9896793961524963,
+      "box": [
+        132,
+        680,
+        637,
+        709
+      ]
+    }
+  ],
+  "seconds": 2.2298798002302647,
+  "id": "25674",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

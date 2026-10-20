@@ -1,0 +1,172 @@
+{
+  "lines": [
+    {
+      "text": "SYDNEY COMBS",
+      "score": 0.997345507144928,
+      "box": [
+        117,
+        91,
+        389,
+        122
+      ]
+    },
+    {
+      "text": "MA, USA | +1-512-799-7902 | sydney.combs@example.com",
+      "score": 0.9807213544845581,
+      "box": [
+        117,
+        152,
+        675,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9991125464439392,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, TruePath Health Services, 2020.10—2023.01",
+      "score": 0.990041971206665,
+      "box": [
+        117,
+        289,
+        712,
+        316
+      ]
+    },
+    {
+      "text": "- Led nursing process audits",
+      "score": 0.990323007106781,
+      "box": [
+        126,
+        314,
+        392,
+        343
+      ]
+    },
+    {
+      "text": "- Managed clinical compliance programs",
+      "score": 0.9874022603034973,
+      "box": [
+        126,
+        339,
+        502,
+        368
+      ]
+    },
+    {
+      "text": "Registered Nurses, OpenLife Nursing Services, 2018.072020.10",
+      "score": 0.9990822076797485,
+      "box": [
+        117,
+        382,
+        725,
+        409
+      ]
+    },
+    {
+      "text": "- Managed patient referrals",
+      "score": 0.9944255948066711,
+      "box": [
+        124,
+        406,
+        381,
+        435
+      ]
+    },
+    {
+      "text": "- Educated patients on treatment plans",
+      "score": 0.9788652658462524,
+      "box": [
+        126,
+        430,
+        488,
+        459
+      ]
+    },
+    {
+      "text": "Registered Nurses, Harmony Life Care, 2015.02—2017.05",
+      "score": 0.9909360408782959,
+      "box": [
+        116,
+        471,
+        652,
+        499
+      ]
+    },
+    {
+      "text": "- Performed wound dressing changes",
+      "score": 0.9981265068054199,
+      "box": [
+        127,
+        497,
+        477,
+        526
+      ]
+    },
+    {
+      "text": "- Assisted with emergency procedures",
+      "score": 0.9978192448616028,
+      "box": [
+        127,
+        521,
+        483,
+        551
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999427795410156,
+      "box": [
+        118,
+        588,
+        266,
+        612
+      ]
+    },
+    {
+      "text": "Bachelor's, Nursing Foundations, Skycrest University, 2013",
+      "score": 0.996076762676239,
+      "box": [
+        118,
+        633,
+        664,
+        657
+      ]
+    },
+    {
+      "text": "•Completed coursework in integumentary system care",
+      "score": 0.9724876880645752,
+      "box": [
+        129,
+        657,
+        641,
+        685
+      ]
+    },
+    {
+      "text": "• Studied principles of healthcare ethics",
+      "score": 0.9915275573730469,
+      "box": [
+        132,
+        682,
+        500,
+        708
+      ]
+    }
+  ],
+  "seconds": 4.579463699832559,
+  "id": "25353",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

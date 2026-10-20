@@ -1,0 +1,132 @@
+{
+  "lines": [
+    {
+      "text": "KENDEL LANE",
+      "score": 0.9967876672744751,
+      "box": [
+        117,
+        91,
+        355,
+        121
+      ]
+    },
+    {
+      "text": "DE, USA | +1-864-282-4224 | kendel.lane@example.com",
+      "score": 0.9908770322799683,
+      "box": [
+        118,
+        152,
+        647,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9991628527641296,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, SolidBuild Contractors, 2021.012023.01",
+      "score": 0.9941104650497437,
+      "box": [
+        118,
+        290,
+        713,
+        314
+      ]
+    },
+    {
+      "text": "- Developed site performance metrics",
+      "score": 0.9911710023880005,
+      "box": [
+        126,
+        315,
+        476,
+        340
+      ]
+    },
+    {
+      "text": "- Reviewed structural integrity assessments",
+      "score": 0.9866271615028381,
+      "box": [
+        126,
+        338,
+        531,
+        368
+      ]
+    },
+    {
+      "text": "Construction Laborers, Durable Works, 2016.042018.04",
+      "score": 0.9835761785507202,
+      "box": [
+        117,
+        381,
+        646,
+        406
+      ]
+    },
+    {
+      "text": "- Maintained cleanliness of work areas",
+      "score": 0.9828457832336426,
+      "box": [
+        125,
+        407,
+        485,
+        432
+      ]
+    },
+    {
+      "text": "- Set up workstations for crews",
+      "score": 0.9836827516555786,
+      "box": [
+        127,
+        431,
+        415,
+        457
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999392032623291,
+      "box": [
+        117,
+        494,
+        268,
+        521
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Construction Equipment Technology, Canyon View High School, 2016",
+      "score": 0.9971656799316406,
+      "box": [
+        117,
+        540,
+        1024,
+        567
+      ]
+    },
+    {
+      "text": "• Completed coursework in construction workflow coordination",
+      "score": 0.9891692399978638,
+      "box": [
+        134,
+        566,
+        708,
+        590
+      ]
+    }
+  ],
+  "seconds": 2.460315099917352,
+  "id": "11502",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

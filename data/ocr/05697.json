@@ -1,0 +1,112 @@
+{
+  "lines": [
+    {
+      "text": "ELIZABETH XIONG",
+      "score": 0.9823093414306641,
+      "box": [
+        118,
+        91,
+        422,
+        122
+      ]
+    },
+    {
+      "text": "CA, USA | +1-595-612-2219 | elizabeth.xiong@example.com",
+      "score": 0.98284912109375,
+      "box": [
+        116,
+        150,
+        680,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9997288584709167,
+      "box": [
+        117,
+        243,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Accountants Auditors, OpenLedger Accounting, 2020.04—2023.01",
+      "score": 0.98125821352005,
+      "box": [
+        116,
+        289,
+        724,
+        316
+      ]
+    },
+    {
+      "text": "- Reviewed billing statements",
+      "score": 0.9989433288574219,
+      "box": [
+        126,
+        314,
+        402,
+        340
+      ]
+    },
+    {
+      "text": "- Verified financial transactions",
+      "score": 0.978982150554657,
+      "box": [
+        127,
+        339,
+        414,
+        365
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999934732913971,
+      "box": [
+        116,
+        404,
+        268,
+        431
+      ]
+    },
+    {
+      "text": "Bachelor's, Financial Accounting, Timberline University, 2020",
+      "score": 0.9979907870292664,
+      "box": [
+        115,
+        446,
+        683,
+        475
+      ]
+    },
+    {
+      "text": "Completed coursework in professional standards",
+      "score": 0.9898569583892822,
+      "box": [
+        131,
+        472,
+        600,
+        500
+      ]
+    },
+    {
+      "text": "Completed coursework in supply chain accounting",
+      "score": 0.9906328320503235,
+      "box": [
+        132,
+        497,
+        612,
+        527
+      ]
+    }
+  ],
+  "seconds": 2.0639269002713263,
+  "id": "05697",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

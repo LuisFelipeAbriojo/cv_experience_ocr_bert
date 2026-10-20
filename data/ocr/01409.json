@@ -1,0 +1,122 @@
+{
+  "lines": [
+    {
+      "text": "TEAGAN RIVERA",
+      "score": 0.9998528957366943,
+      "box": [
+        117,
+        91,
+        394,
+        122
+      ]
+    },
+    {
+      "text": "AZ, USA | +1-998-316-5350 | teagan.rivera@example.com",
+      "score": 0.9844170808792114,
+      "box": [
+        118,
+        152,
+        659,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9997269511222839,
+      "box": [
+        117,
+        243,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Integrity Ledger Group, 2019.08-2022.06",
+      "score": 0.9780381917953491,
+      "box": [
+        115,
+        287,
+        709,
+        317
+      ]
+    },
+    {
+      "text": "- Verified financial transactions",
+      "score": 0.9959912300109863,
+      "box": [
+        126,
+        314,
+        415,
+        340
+      ]
+    },
+    {
+      "text": "- Prepared basic financial reports",
+      "score": 0.9937187433242798,
+      "box": [
+        127,
+        338,
+        436,
+        367
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999370574951172,
+      "box": [
+        116,
+        404,
+        268,
+        431
+      ]
+    },
+    {
+      "text": "Master's, Business Law, Morningstar University, 2004",
+      "score": 0.998453676700592,
+      "box": [
+        116,
+        449,
+        614,
+        473
+      ]
+    },
+    {
+      "text": "Bachelor's, Applied Finance, Brightfield Ridge University, 2002",
+      "score": 0.9856910705566406,
+      "box": [
+        116,
+        473,
+        695,
+        498
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of operations management",
+      "score": 0.9788488745689392,
+      "box": [
+        129,
+        498,
+        605,
+        524
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of business valuation",
+      "score": 0.9815974831581116,
+      "box": [
+        133,
+        524,
+        551,
+        547
+      ]
+    }
+  ],
+  "seconds": 2.1304188002832234,
+  "id": "01409",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

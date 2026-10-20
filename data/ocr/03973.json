@@ -1,0 +1,202 @@
+{
+  "lines": [
+    {
+      "text": "ZEBULON MCINTYRE",
+      "score": 0.9998483657836914,
+      "box": [
+        117,
+        91,
+        461,
+        121
+      ]
+    },
+    {
+      "text": "CA, USA | +1-444-671-2345 | zebulon.mcintyre@example.com",
+      "score": 0.9786419868469238,
+      "box": [
+        116,
+        150,
+        698,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9991436004638672,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Accurate Path Accounting, 2019.07—2023.01",
+      "score": 0.9762599468231201,
+      "box": [
+        115,
+        288,
+        740,
+        317
+      ]
+    },
+    {
+      "text": "- Directed accounting system implementations",
+      "score": 0.9860029816627502,
+      "box": [
+        126,
+        313,
+        557,
+        344
+      ]
+    },
+    {
+      "text": "- Managed financial governance",
+      "score": 0.9979135394096375,
+      "box": [
+        128,
+        341,
+        427,
+        367
+      ]
+    },
+    {
+      "text": "Accountants Auditors, TrustCount Advisors, 2015.122019.07",
+      "score": 0.9979957342147827,
+      "box": [
+        118,
+        383,
+        689,
+        407
+      ]
+    },
+    {
+      "text": "- Developed accounting innovation plans",
+      "score": 0.9961156845092773,
+      "box": [
+        126,
+        408,
+        505,
+        433
+      ]
+    },
+    {
+      "text": "- Led cross-functional financial integration",
+      "score": 0.971721887588501,
+      "box": [
+        127,
+        431,
+        513,
+        458
+      ]
+    },
+    {
+      "text": "Accountants Auditors, SolidBalance Financial, 2012.052015.12",
+      "score": 0.9975592494010925,
+      "box": [
+        117,
+        474,
+        712,
+        498
+      ]
+    },
+    {
+      "text": "- Implemented accounting procedures",
+      "score": 0.9995786547660828,
+      "box": [
+        125,
+        497,
+        481,
+        526
+      ]
+    },
+    {
+      "text": "- Developed audit plans",
+      "score": 0.9756458401679993,
+      "box": [
+        127,
+        521,
+        351,
+        552
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Integrity Ledger Financial, 2007.042010.11",
+      "score": 0.9923195242881775,
+      "box": [
+        117,
+        565,
+        734,
+        592
+      ]
+    },
+    {
+      "text": "- Entered financial data into accounting systems",
+      "score": 0.9926061630249023,
+      "box": [
+        126,
+        590,
+        573,
+        616
+      ]
+    },
+    {
+      "text": "- Processed accounts payable invoices",
+      "score": 0.9994928240776062,
+      "box": [
+        125,
+        614,
+        491,
+        643
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999147057533264,
+      "box": [
+        117,
+        681,
+        266,
+        705
+      ]
+    },
+    {
+      "text": "Bachelor's, Commerce, Highland University, 2005",
+      "score": 0.9762505292892456,
+      "box": [
+        115,
+        723,
+        579,
+        750
+      ]
+    },
+    {
+      "text": "• Completed coursework in internal reporting systems",
+      "score": 0.9848167896270752,
+      "box": [
+        132,
+        748,
+        628,
+        777
+      ]
+    },
+    {
+      "text": "•Completed coursework in audit reporting",
+      "score": 0.9868546724319458,
+      "box": [
+        132,
+        772,
+        523,
+        803
+      ]
+    }
+  ],
+  "seconds": 3.0421567000448704,
+  "id": "03973",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

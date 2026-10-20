@@ -1,0 +1,112 @@
+{
+  "lines": [
+    {
+      "text": "KAITLYN CLINE",
+      "score": 0.9998534917831421,
+      "box": [
+        117,
+        91,
+        372,
+        122
+      ]
+    },
+    {
+      "text": "MD, USA | +1-920-947-9622 | kaitlyn.cline@example.com",
+      "score": 0.9820024967193604,
+      "box": [
+        115,
+        149,
+        652,
+        177
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9997195601463318,
+      "box": [
+        117,
+        243,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Learning Start Academy, 2021.112023.01",
+      "score": 0.9987707138061523,
+      "box": [
+        117,
+        289,
+        860,
+        316
+      ]
+    },
+    {
+      "text": "- Conducted reading practice sessions",
+      "score": 0.9876714944839478,
+      "box": [
+        127,
+        315,
+        484,
+        341
+      ]
+    },
+    {
+      "text": "- Reviewed learning standards",
+      "score": 0.9727274179458618,
+      "box": [
+        127,
+        339,
+        412,
+        367
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999502897262573,
+      "box": [
+        116,
+        404,
+        268,
+        431
+      ]
+    },
+    {
+      "text": "Bachelor's, Developmental Studies, Brookridge University, 2021",
+      "score": 0.9919847249984741,
+      "box": [
+        116,
+        447,
+        707,
+        475
+      ]
+    },
+    {
+      "text": "• Studied principles of learning outcomes assessment",
+      "score": 0.9887536764144897,
+      "box": [
+        131,
+        475,
+        630,
+        499
+      ]
+    },
+    {
+      "text": "•Completed coursework in student progress monitoring",
+      "score": 0.9846751689910889,
+      "box": [
+        131,
+        497,
+        648,
+        527
+      ]
+    }
+  ],
+  "seconds": 2.368634100072086,
+  "id": "23914",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

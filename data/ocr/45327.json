@@ -1,0 +1,112 @@
+{
+  "lines": [
+    {
+      "text": "CODY SHIELDS",
+      "score": 0.997627317905426,
+      "box": [
+        117,
+        89,
+        369,
+        123
+      ]
+    },
+    {
+      "text": "PA, USA | +1-365-235-9856 | cody.shields@example.com",
+      "score": 0.9760046601295471,
+      "box": [
+        115,
+        149,
+        655,
+        177
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9997496604919434,
+      "box": [
+        117,
+        243,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Software Developers, Vertexline Tech, 2021.10-2023.01",
+      "score": 0.9881473779678345,
+      "box": [
+        115,
+        287,
+        641,
+        315
+      ]
+    },
+    {
+      "text": "- Wrote scripts for data processing tasks",
+      "score": 0.9904441833496094,
+      "box": [
+        126,
+        314,
+        502,
+        340
+      ]
+    },
+    {
+      "text": "- Assisted with version control operations",
+      "score": 0.992964506149292,
+      "box": [
+        127,
+        340,
+        508,
+        365
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999480843544006,
+      "box": [
+        116,
+        404,
+        268,
+        431
+      ]
+    },
+    {
+      "text": "Bachelor's, Prairie View University, 2021",
+      "score": 0.9835512042045593,
+      "box": [
+        116,
+        447,
+        491,
+        474
+      ]
+    },
+    {
+      "text": "Completed coursework in memory management",
+      "score": 0.9952191710472107,
+      "box": [
+        131,
+        472,
+        595,
+        500
+      ]
+    },
+    {
+      "text": "•Completed coursework in SQL and data querying",
+      "score": 0.9831641912460327,
+      "box": [
+        132,
+        497,
+        605,
+        526
+      ]
+    }
+  ],
+  "seconds": 1.8490104000084102,
+  "id": "45327",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

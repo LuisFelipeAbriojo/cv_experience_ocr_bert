@@ -1,0 +1,142 @@
+{
+  "lines": [
+    {
+      "text": "MADISON PHAN",
+      "score": 0.9991719126701355,
+      "box": [
+        116,
+        89,
+        379,
+        122
+      ]
+    },
+    {
+      "text": "AZ, USA | +1-569-776-9529 | madison.phan@example.com",
+      "score": 0.975403368473053,
+      "box": [
+        118,
+        152,
+        668,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9991675019264221,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, SunBridge Nursing, 2020.102023.01",
+      "score": 0.9916673302650452,
+      "box": [
+        116,
+        288,
+        649,
+        316
+      ]
+    },
+    {
+      "text": "- Led clinical governance efforts",
+      "score": 0.9889448881149292,
+      "box": [
+        128,
+        315,
+        425,
+        340
+      ]
+    },
+    {
+      "text": "- Managed care delivery innovation",
+      "score": 0.977526843547821,
+      "box": [
+        128,
+        340,
+        453,
+        367
+      ]
+    },
+    {
+      "text": "Registered Nurses, LifeHands Health Services, 2018.072020.10",
+      "score": 0.9975702166557312,
+      "box": [
+        118,
+        383,
+        721,
+        407
+      ]
+    },
+    {
+      "text": "- Monitored oxygen therapy",
+      "score": 0.9852653741836548,
+      "box": [
+        124,
+        402,
+        385,
+        437
+      ]
+    },
+    {
+      "text": "- Recorded patient vital signs",
+      "score": 0.9603462219238281,
+      "box": [
+        126,
+        430,
+        399,
+        461
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999943196773529,
+      "box": [
+        116,
+        494,
+        267,
+        521
+      ]
+    },
+    {
+      "text": "Bachelor's, Health and Human Services, Stonewood University, 2021",
+      "score": 0.9987677931785583,
+      "box": [
+        116,
+        540,
+        755,
+        566
+      ]
+    },
+    {
+      "text": "•Studied fundamentals of skin integrity maintenance",
+      "score": 0.9704238772392273,
+      "box": [
+        128,
+        563,
+        622,
+        594
+      ]
+    },
+    {
+      "text": "•Studied fundamentals of tracheostomy care",
+      "score": 0.9894523620605469,
+      "box": [
+        131,
+        590,
+        551,
+        617
+      ]
+    }
+  ],
+  "seconds": 2.5012276000343263,
+  "id": "01047",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

@@ -1,0 +1,182 @@
+{
+  "lines": [
+    {
+      "text": "MICHAEL MCINTOSH",
+      "score": 0.999833345413208,
+      "box": [
+        118,
+        92,
+        457,
+        122
+      ]
+    },
+    {
+      "text": "PA, USA | +1-658-266-5987 | michael.mcintosh@example.com",
+      "score": 0.9736601114273071,
+      "box": [
+        117,
+        152,
+        700,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9990050792694092,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Nextline Software, 2020.08—2023.01",
+      "score": 0.9901964068412781,
+      "box": [
+        117,
+        291,
+        658,
+        315
+      ]
+    },
+    {
+      "text": "- Implemented access control frameworks",
+      "score": 0.9913961887359619,
+      "box": [
+        128,
+        315,
+        514,
+        341
+      ]
+    },
+    {
+      "text": "- Implemented long-term maintenance plans",
+      "score": 0.9955112338066101,
+      "box": [
+        128,
+        340,
+        537,
+        368
+      ]
+    },
+    {
+      "text": "Software Developers, Stonefield Tech, 2018.032020.08",
+      "score": 0.9861880540847778,
+      "box": [
+        117,
+        382,
+        642,
+        409
+      ]
+    },
+    {
+      "text": "- Integrated analytics services",
+      "score": 0.9718660712242126,
+      "box": [
+        127,
+        409,
+        405,
+        433
+      ]
+    },
+    {
+      "text": "- Integrated monitoring tools",
+      "score": 0.9989102482795715,
+      "box": [
+        129,
+        435,
+        389,
+        458
+      ]
+    },
+    {
+      "text": "Software Developers, Clearpath Digital, 2014.092017.03",
+      "score": 0.9926055669784546,
+      "box": [
+        115,
+        470,
+        652,
+        501
+      ]
+    },
+    {
+      "text": "- Implemented error handling logic",
+      "score": 0.9762205481529236,
+      "box": [
+        127,
+        497,
+        448,
+        525
+      ]
+    },
+    {
+      "text": "- Implemented basic features in existing codebases",
+      "score": 0.994357705116272,
+      "box": [
+        128,
+        521,
+        605,
+        551
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9998637437820435,
+      "box": [
+        117,
+        587,
+        267,
+        614
+      ]
+    },
+    {
+      "text": "Master's, Lakeside University, 2007",
+      "score": 0.9885177612304688,
+      "box": [
+        117,
+        633,
+        446,
+        657
+      ]
+    },
+    {
+      "text": "Bachelor's, Clearwater University, 2005",
+      "score": 0.9901666641235352,
+      "box": [
+        116,
+        657,
+        483,
+        684
+      ]
+    },
+    {
+      "text": "•Completed coursework in debugging techniques",
+      "score": 0.9941098690032959,
+      "box": [
+        131,
+        683,
+        595,
+        710
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of concurrency",
+      "score": 0.9956467151641846,
+      "box": [
+        132,
+        707,
+        491,
+        734
+      ]
+    }
+  ],
+  "seconds": 2.5551700997166336,
+  "id": "45558",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

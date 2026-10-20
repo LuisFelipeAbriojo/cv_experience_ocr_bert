@@ -1,0 +1,102 @@
+{
+  "lines": [
+    {
+      "text": "PARIS MORA",
+      "score": 0.9557781219482422,
+      "box": [
+        115,
+        89,
+        332,
+        123
+      ]
+    },
+    {
+      "text": "MI, USA | +1-882-986-5464 | paris.mora@example.com",
+      "score": 0.986423134803772,
+      "box": [
+        115,
+        149,
+        634,
+        177
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9993802905082703,
+      "box": [
+        116,
+        243,
+        317,
+        270
+      ]
+    },
+    {
+      "text": "Construction Laborers, FirmBase Construction, 2022.04—2023.01",
+      "score": 0.981631875038147,
+      "box": [
+        118,
+        288,
+        717,
+        312
+      ]
+    },
+    {
+      "text": "- Installed temporary supports",
+      "score": 0.9987395405769348,
+      "box": [
+        125,
+        314,
+        406,
+        342
+      ]
+    },
+    {
+      "text": "- Mixed concrete and mortar",
+      "score": 0.9995487928390503,
+      "box": [
+        126,
+        339,
+        393,
+        365
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999494552612305,
+      "box": [
+        116,
+        404,
+        268,
+        431
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Construction Equipment Technology, Forest Hill High School, 2023",
+      "score": 0.9952331781387329,
+      "box": [
+        116,
+        447,
+        993,
+        474
+      ]
+    },
+    {
+      "text": "•Studied principles of load-bearing structures",
+      "score": 0.9894209504127502,
+      "box": [
+        130,
+        475,
+        556,
+        499
+      ]
+    }
+  ],
+  "seconds": 2.017447200138122,
+  "id": "27746",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

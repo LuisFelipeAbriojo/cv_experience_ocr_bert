@@ -1,0 +1,212 @@
+{
+  "lines": [
+    {
+      "text": "TYRONE SHAW",
+      "score": 0.9996114373207092,
+      "box": [
+        116,
+        89,
+        369,
+        122
+      ]
+    },
+    {
+      "text": "HI, USA | +1-851-336-5198 | tyrone.shaw@example.com",
+      "score": 0.9916032552719116,
+      "box": [
+        115,
+        150,
+        645,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.998986005783081,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, New Horizons School, 2019.072023.01",
+      "score": 0.995851993560791,
+      "box": [
+        118,
+        290,
+        834,
+        314
+      ]
+    },
+    {
+      "text": "- Developed learning progression models",
+      "score": 0.994366466999054,
+      "box": [
+        127,
+        317,
+        509,
+        341
+      ]
+    },
+    {
+      "text": "- Led instructional technology integration",
+      "score": 0.984076976776123,
+      "box": [
+        126,
+        339,
+        505,
+        368
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Bright Steps Academy, 2016.012019.07",
+      "score": 0.9982805848121643,
+      "box": [
+        115,
+        380,
+        845,
+        411
+      ]
+    },
+    {
+      "text": "- Led curriculum transformation initiatives",
+      "score": 0.9762063026428223,
+      "box": [
+        128,
+        408,
+        509,
+        433
+      ]
+    },
+    {
+      "text": "- Implemented performance evaluation systems",
+      "score": 0.9994059205055237,
+      "box": [
+        129,
+        435,
+        568,
+        458
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Golden Minds Academy, 2012.072016.01",
+      "score": 0.9881725311279297,
+      "box": [
+        117,
+        472,
+        858,
+        499
+      ]
+    },
+    {
+      "text": "- Designed math assessments",
+      "score": 0.9818599820137024,
+      "box": [
+        125,
+        497,
+        412,
+        526
+      ]
+    },
+    {
+      "text": "- Maintained academic records",
+      "score": 0.986161470413208,
+      "box": [
+        127,
+        522,
+        414,
+        549
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Bright Minds Academy, 2009.012012.07",
+      "score": 0.9931872487068176,
+      "box": [
+        117,
+        564,
+        845,
+        591
+      ]
+    },
+    {
+      "text": "- Tracked student participation",
+      "score": 0.9803734421730042,
+      "box": [
+        127,
+        592,
+        411,
+        616
+      ]
+    },
+    {
+      "text": "- Administered quizzes and short assessments",
+      "score": 0.9884910583496094,
+      "box": [
+        125,
+        614,
+        562,
+        643
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9998959302902222,
+      "box": [
+        117,
+        681,
+        266,
+        705
+      ]
+    },
+    {
+      "text": "Master's, Social Science Studies, Meadowview University, 2009",
+      "score": 0.9898136258125305,
+      "box": [
+        114,
+        723,
+        708,
+        750
+      ]
+    },
+    {
+      "text": "Bachelor's, Basic Child Development, Fairmont University, 2007",
+      "score": 0.9927602410316467,
+      "box": [
+        116,
+        749,
+        708,
+        776
+      ]
+    },
+    {
+      "text": "•Completed coursework in educational technology basics",
+      "score": 0.9895597100257874,
+      "box": [
+        130,
+        774,
+        667,
+        800
+      ]
+    },
+    {
+      "text": "•Completed coursework in instructional evaluation",
+      "score": 0.9938336610794067,
+      "box": [
+        132,
+        799,
+        601,
+        826
+      ]
+    }
+  ],
+  "seconds": 3.204116300214082,
+  "id": "16799",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

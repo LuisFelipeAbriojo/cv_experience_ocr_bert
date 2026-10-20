@@ -1,0 +1,132 @@
+{
+  "lines": [
+    {
+      "text": "BRADLEY DUKE",
+      "score": 0.9919538497924805,
+      "box": [
+        118,
+        91,
+        382,
+        121
+      ]
+    },
+    {
+      "text": "PA, USA | +1-446-645-5253 | bradley.duke@example.com",
+      "score": 0.9922934174537659,
+      "box": [
+        115,
+        149,
+        659,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.999116837978363,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, StrongBase Builders, 2021.02—2023.01",
+      "score": 0.9842334389686584,
+      "box": [
+        117,
+        288,
+        696,
+        315
+      ]
+    },
+    {
+      "text": "- Directed training programs for crews",
+      "score": 0.9764888882637024,
+      "box": [
+        125,
+        314,
+        479,
+        343
+      ]
+    },
+    {
+      "text": "- Developed structural reinforcement plans",
+      "score": 0.9769964814186096,
+      "box": [
+        127,
+        339,
+        523,
+        367
+      ]
+    },
+    {
+      "text": "Construction Laborers, Allied Build Services, 2016.072018.06",
+      "score": 0.9792879819869995,
+      "box": [
+        116,
+        380,
+        698,
+        408
+      ]
+    },
+    {
+      "text": "- Installed simple fixtures",
+      "score": 0.9992945790290833,
+      "box": [
+        126,
+        408,
+        360,
+        432
+      ]
+    },
+    {
+      "text": "- Installed insulation materials",
+      "score": 0.9832786917686462,
+      "box": [
+        128,
+        433,
+        405,
+        456
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999909520149231,
+      "box": [
+        117,
+        494,
+        267,
+        521
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Industrial Maintenance, Fairfield High School, 2012",
+      "score": 0.9949882626533508,
+      "box": [
+        117,
+        540,
+        851,
+        567
+      ]
+    },
+    {
+      "text": "• Completed coursework in material handling",
+      "score": 0.9872462153434753,
+      "box": [
+        132,
+        565,
+        549,
+        593
+      ]
+    }
+  ],
+  "seconds": 2.4644849998876452,
+  "id": "45876",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

@@ -1,0 +1,172 @@
+{
+  "lines": [
+    {
+      "text": "KRISTA KLEIN",
+      "score": 0.9962131381034851,
+      "box": [
+        117,
+        91,
+        353,
+        121
+      ]
+    },
+    {
+      "text": "MI, USA | +1-366-483-6695 | krista.klein@example.com",
+      "score": 0.9915235042572021,
+      "box": [
+        116,
+        151,
+        632,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9963666796684265,
+      "box": [
+        117,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, WellBridge Health Group, 2020.07—2023.01",
+      "score": 0.9672690629959106,
+      "box": [
+        115,
+        287,
+        706,
+        318
+      ]
+    },
+    {
+      "text": "- Developed patient care algorithms",
+      "score": 0.9851130843162537,
+      "box": [
+        125,
+        314,
+        459,
+        342
+      ]
+    },
+    {
+      "text": "- Directed nursing process improvements",
+      "score": 0.9699334502220154,
+      "box": [
+        126,
+        339,
+        510,
+        369
+      ]
+    },
+    {
+      "text": "Registered Nurses, KindBridge Health Group, 2017.122020.07",
+      "score": 0.9948351383209229,
+      "box": [
+        117,
+        382,
+        708,
+        409
+      ]
+    },
+    {
+      "text": "- Developed patient care plans",
+      "score": 0.9983654022216797,
+      "box": [
+        125,
+        406,
+        414,
+        436
+      ]
+    },
+    {
+      "text": "- Supervised clinical documentation",
+      "score": 0.9992755055427551,
+      "box": [
+        129,
+        434,
+        457,
+        457
+      ]
+    },
+    {
+      "text": "Registered Nurses, TrueLife Nursing, 2015.052017.12",
+      "score": 0.9935429692268372,
+      "box": [
+        118,
+        473,
+        630,
+        497
+      ]
+    },
+    {
+      "text": "- Collected laboratory specimens",
+      "score": 0.9989434480667114,
+      "box": [
+        126,
+        497,
+        434,
+        524
+      ]
+    },
+    {
+      "text": "- Prepared treatment rooms",
+      "score": 0.9939712285995483,
+      "box": [
+        128,
+        520,
+        388,
+        551
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999521970748901,
+      "box": [
+        118,
+        588,
+        266,
+        612
+      ]
+    },
+    {
+      "text": "Associate's degree, Nursing, Clear Spring University, 2019",
+      "score": 0.9825941324234009,
+      "box": [
+        118,
+        633,
+        659,
+        657
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of care coordination",
+      "score": 0.9821143746376038,
+      "box": [
+        130,
+        659,
+        540,
+        682
+      ]
+    },
+    {
+      "text": "•Studied principles of health informatics",
+      "score": 0.9755287170410156,
+      "box": [
+        131,
+        682,
+        505,
+        707
+      ]
+    }
+  ],
+  "seconds": 4.377610899973661,
+  "id": "27752",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

@@ -1,0 +1,142 @@
+{
+  "lines": [
+    {
+      "text": "KRISTI RAYMOND",
+      "score": 0.9983202815055847,
+      "box": [
+        118,
+        91,
+        409,
+        121
+      ]
+    },
+    {
+      "text": "OR, USA | +1-399-348-6468 | kristi.raymond@example.com",
+      "score": 0.9949241280555725,
+      "box": [
+        116,
+        150,
+        673,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9991941452026367,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Accurate Balance Financial, 2020.112023.01",
+      "score": 0.989510178565979,
+      "box": [
+        117,
+        290,
+        752,
+        314
+      ]
+    },
+    {
+      "text": "- Designed financial documentation standards",
+      "score": 0.9988696575164795,
+      "box": [
+        129,
+        316,
+        553,
+        340
+      ]
+    },
+    {
+      "text": "- Managed financial governance",
+      "score": 0.9992384314537048,
+      "box": [
+        128,
+        340,
+        426,
+        367
+      ]
+    },
+    {
+      "text": "Accountants Auditors, CoreBooks Financial Group, 2016.09—2018.11",
+      "score": 0.9895414113998413,
+      "box": [
+        115,
+        379,
+        757,
+        410
+      ]
+    },
+    {
+      "text": "- Prepared trial balances",
+      "score": 0.9987205266952515,
+      "box": [
+        125,
+        406,
+        358,
+        433
+      ]
+    },
+    {
+      "text": "- Matched invoices to purchase orders",
+      "score": 0.9931433200836182,
+      "box": [
+        126,
+        430,
+        483,
+        459
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999306201934814,
+      "box": [
+        117,
+        494,
+        268,
+        521
+      ]
+    },
+    {
+      "text": "Bachelor's, Investment Management, Sagewood University, 2007",
+      "score": 0.9870812892913818,
+      "box": [
+        116,
+        540,
+        721,
+        567
+      ]
+    },
+    {
+      "text": "•Studied principles of forecast modeling",
+      "score": 0.9858739972114563,
+      "box": [
+        130,
+        566,
+        506,
+        592
+      ]
+    },
+    {
+      "text": "Completed coursework in budgeting techniques",
+      "score": 0.9928712844848633,
+      "box": [
+        131,
+        590,
+        589,
+        618
+      ]
+    }
+  ],
+  "seconds": 2.174181600101292,
+  "id": "44423",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

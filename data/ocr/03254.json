@@ -1,0 +1,112 @@
+{
+  "lines": [
+    {
+      "text": "ARIANA OCONNELL",
+      "score": 0.9973533749580383,
+      "box": [
+        118,
+        91,
+        443,
+        122
+      ]
+    },
+    {
+      "text": "CA, USA | +1-763-848-5216 | ariana.oconnell@example.com",
+      "score": 0.9768447875976562,
+      "box": [
+        118,
+        152,
+        682,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9997288584709167,
+      "box": [
+        117,
+        243,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Accountants Auditors, SolidBooks Financial, 2018.06—2021.05",
+      "score": 0.9915915727615356,
+      "box": [
+        115,
+        287,
+        695,
+        315
+      ]
+    },
+    {
+      "text": "- Verified transaction accuracy",
+      "score": 0.9963379502296448,
+      "box": [
+        125,
+        311,
+        410,
+        343
+      ]
+    },
+    {
+      "text": "- Processed journal corrections",
+      "score": 0.9847153425216675,
+      "box": [
+        126,
+        338,
+        418,
+        368
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999934732913971,
+      "box": [
+        116,
+        404,
+        268,
+        431
+      ]
+    },
+    {
+      "text": "Bachelor's, Data Analytics, Skyline University, 2009",
+      "score": 0.9984372854232788,
+      "box": [
+        115,
+        446,
+        595,
+        475
+      ]
+    },
+    {
+      "text": "Completed coursework in accounting research methods",
+      "score": 0.997008204460144,
+      "box": [
+        131,
+        472,
+        664,
+        500
+      ]
+    },
+    {
+      "text": "•Completed coursework in performance measurement",
+      "score": 0.9932923913002014,
+      "box": [
+        134,
+        499,
+        641,
+        523
+      ]
+    }
+  ],
+  "seconds": 2.0688268998637795,
+  "id": "03254",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

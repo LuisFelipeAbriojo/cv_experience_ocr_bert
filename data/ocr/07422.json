@@ -1,0 +1,202 @@
+{
+  "lines": [
+    {
+      "text": "ASHLEY XIONG",
+      "score": 0.9833785891532898,
+      "box": [
+        117,
+        91,
+        370,
+        122
+      ]
+    },
+    {
+      "text": "CA, USA | +1-230-627-9876 | ashley.xiong@example.com",
+      "score": 0.9872643947601318,
+      "box": [
+        116,
+        149,
+        656,
+        179
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9990995526313782,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Accurate Balance Services, 2018.12—2023.01",
+      "score": 0.9899108409881592,
+      "box": [
+        117,
+        290,
+        747,
+        314
+      ]
+    },
+    {
+      "text": "- Led accounting process optimization",
+      "score": 0.9957180619239807,
+      "box": [
+        129,
+        317,
+        479,
+        341
+      ]
+    },
+    {
+      "text": "- Developed regulatory reporting strategies",
+      "score": 0.978600800037384,
+      "box": [
+        127,
+        340,
+        525,
+        368
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Reliable Ledger Group, 2014.112018.12",
+      "score": 0.9865439534187317,
+      "box": [
+        116,
+        381,
+        712,
+        409
+      ]
+    },
+    {
+      "text": "- Established financial reporting standards",
+      "score": 0.9990167021751404,
+      "box": [
+        125,
+        407,
+        518,
+        434
+      ]
+    },
+    {
+      "text": "- Developed internal control systems",
+      "score": 0.9810404181480408,
+      "box": [
+        126,
+        431,
+        467,
+        459
+      ]
+    },
+    {
+      "text": "Accountants Auditors, TrustCount Group, 2010.102014.11",
+      "score": 0.9856886267662048,
+      "box": [
+        116,
+        471,
+        666,
+        499
+      ]
+    },
+    {
+      "text": "- Implemented accounting procedures",
+      "score": 0.9729260206222534,
+      "box": [
+        125,
+        497,
+        481,
+        526
+      ]
+    },
+    {
+      "text": "- Managed fixed asset accounting",
+      "score": 0.9829655289649963,
+      "box": [
+        127,
+        521,
+        442,
+        551
+      ]
+    },
+    {
+      "text": "Accountants Auditors, EverBalance Financial, 2006.09—2010.10",
+      "score": 0.9947363138198853,
+      "box": [
+        118,
+        566,
+        708,
+        590
+      ]
+    },
+    {
+      "text": "- Entered financial data into accounting systems",
+      "score": 0.9914898872375488,
+      "box": [
+        125,
+        589,
+        574,
+        617
+      ]
+    },
+    {
+      "text": "- Reviewed timesheets for payroll",
+      "score": 0.9923361539840698,
+      "box": [
+        125,
+        613,
+        439,
+        642
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999098181724548,
+      "box": [
+        117,
+        681,
+        266,
+        705
+      ]
+    },
+    {
+      "text": "Bachelor's, Professional Accounting, Sunset Ridge University, 2006",
+      "score": 0.9845166206359863,
+      "box": [
+        115,
+        723,
+        742,
+        750
+      ]
+    },
+    {
+      "text": "• Completed coursework in investment analysis basics",
+      "score": 0.9733260869979858,
+      "box": [
+        131,
+        748,
+        637,
+        776
+      ]
+    },
+    {
+      "text": "Studied principles of fixed asset accounting",
+      "score": 0.9884933829307556,
+      "box": [
+        132,
+        772,
+        549,
+        802
+      ]
+    }
+  ],
+  "seconds": 2.903888499829918,
+  "id": "07422",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

@@ -1,0 +1,202 @@
+{
+  "lines": [
+    {
+      "text": "ROBERT KERR",
+      "score": 0.9740366339683533,
+      "box": [
+        117,
+        91,
+        363,
+        122
+      ]
+    },
+    {
+      "text": "WA, USA | +1-237-310-1905 | robert.kerr@example.com",
+      "score": 0.9932344555854797,
+      "box": [
+        117,
+        152,
+        640,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9991355538368225,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, LifeBridge Health Group, 2018.112023.01",
+      "score": 0.9922599196434021,
+      "box": [
+        115,
+        287,
+        699,
+        318
+      ]
+    },
+    {
+      "text": "- Directed nursing education initiatives",
+      "score": 0.999584972858429,
+      "box": [
+        125,
+        313,
+        483,
+        343
+      ]
+    },
+    {
+      "text": "- Managed clinical workflow redesign",
+      "score": 0.9761580228805542,
+      "box": [
+        126,
+        339,
+        470,
+        368
+      ]
+    },
+    {
+      "text": "Registered Nurses, Harmony Bridge Health, 2014.092018.11",
+      "score": 0.9922156929969788,
+      "box": [
+        117,
+        382,
+        693,
+        409
+      ]
+    },
+    {
+      "text": "- Established clinical best practices",
+      "score": 0.9876357316970825,
+      "box": [
+        125,
+        407,
+        453,
+        433
+      ]
+    },
+    {
+      "text": "- Directed clinical training standards",
+      "score": 0.9954044818878174,
+      "box": [
+        126,
+        434,
+        457,
+        457
+      ]
+    },
+    {
+      "text": "Registered Nurses, Harmony Health Services, 2010.06—2014.09",
+      "score": 0.9937409162521362,
+      "box": [
+        116,
+        471,
+        713,
+        499
+      ]
+    },
+    {
+      "text": "- Monitored infusion pump settings",
+      "score": 0.9987290501594543,
+      "box": [
+        126,
+        498,
+        450,
+        525
+      ]
+    },
+    {
+      "text": "- Educated patients on treatment plans",
+      "score": 0.9913522005081177,
+      "box": [
+        126,
+        521,
+        488,
+        550
+      ]
+    },
+    {
+      "text": "Registered Nurses, NewHands Health Group, 2006.03—2010.06",
+      "score": 0.9893395304679871,
+      "box": [
+        118,
+        566,
+        708,
+        590
+      ]
+    },
+    {
+      "text": "- Recorded patient weight and height",
+      "score": 0.9996547698974609,
+      "box": [
+        125,
+        589,
+        473,
+        617
+      ]
+    },
+    {
+      "text": "- Monitored patient pain levels",
+      "score": 0.991005003452301,
+      "box": [
+        125,
+        614,
+        410,
+        642
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999110698699951,
+      "box": [
+        117,
+        681,
+        266,
+        705
+      ]
+    },
+    {
+      "text": "Bachelor's, Medical Technology, Timberline University, 2005",
+      "score": 0.984385073184967,
+      "box": [
+        115,
+        723,
+        676,
+        750
+      ]
+    },
+    {
+      "text": "Studied principles of pain assessment tools",
+      "score": 0.9910345673561096,
+      "box": [
+        130,
+        749,
+        550,
+        776
+      ]
+    },
+    {
+      "text": "•Studied principles of health screening",
+      "score": 0.9731850028038025,
+      "box": [
+        131,
+        774,
+        495,
+        800
+      ]
+    }
+  ],
+  "seconds": 3.595087599940598,
+  "id": "59013",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

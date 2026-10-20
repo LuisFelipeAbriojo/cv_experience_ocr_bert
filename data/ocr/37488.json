@@ -1,0 +1,172 @@
+{
+  "lines": [
+    {
+      "text": "JAMES ZHANG",
+      "score": 0.9938379526138306,
+      "box": [
+        116,
+        91,
+        361,
+        122
+      ]
+    },
+    {
+      "text": "NY, USA | +1-608-772-2924 | james.zhang@example.com",
+      "score": 0.9902751445770264,
+      "box": [
+        115,
+        151,
+        658,
+        177
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9988259673118591,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, ClearBooks Advisors, 2020.05—2023.01",
+      "score": 0.9765599370002747,
+      "box": [
+        117,
+        290,
+        692,
+        314
+      ]
+    },
+    {
+      "text": "- Led audit planning governance",
+      "score": 0.9929159283638,
+      "box": [
+        128,
+        316,
+        429,
+        343
+      ]
+    },
+    {
+      "text": "- Designed financial oversight systems",
+      "score": 0.9878208041191101,
+      "box": [
+        127,
+        340,
+        485,
+        368
+      ]
+    },
+    {
+      "text": "Accountants Auditors, SolidCount Financial, 2017.092020.05",
+      "score": 0.9965363144874573,
+      "box": [
+        118,
+        383,
+        691,
+        407
+      ]
+    },
+    {
+      "text": "- Prepared statutory filings",
+      "score": 0.9696870446205139,
+      "box": [
+        124,
+        406,
+        375,
+        435
+      ]
+    },
+    {
+      "text": "- Conducted internal audits",
+      "score": 0.9838624000549316,
+      "box": [
+        127,
+        431,
+        378,
+        456
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Precise Balance Services, 2012.042014.12",
+      "score": 0.9985744953155518,
+      "box": [
+        117,
+        473,
+        737,
+        497
+      ]
+    },
+    {
+      "text": "- Reviewed timesheets for payroll",
+      "score": 0.9945469498634338,
+      "box": [
+        127,
+        499,
+        439,
+        523
+      ]
+    },
+    {
+      "text": "- Assisted with budget tracking",
+      "score": 0.9951109290122986,
+      "box": [
+        127,
+        521,
+        414,
+        550
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999344348907471,
+      "box": [
+        118,
+        588,
+        266,
+        612
+      ]
+    },
+    {
+      "text": "Bachelor's, Business Administration, Brookside University, 2007",
+      "score": 0.9873589277267456,
+      "box": [
+        116,
+        630,
+        708,
+        658
+      ]
+    },
+    {
+      "text": "Completed coursework in accounting information systems",
+      "score": 0.9943451881408691,
+      "box": [
+        130,
+        656,
+        682,
+        684
+      ]
+    },
+    {
+      "text": "•Completed coursework in expense allocation",
+      "score": 0.9670721292495728,
+      "box": [
+        132,
+        680,
+        564,
+        710
+      ]
+    }
+  ],
+  "seconds": 2.525798600167036,
+  "id": "37488",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

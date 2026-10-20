@@ -1,0 +1,142 @@
+{
+  "lines": [
+    {
+      "text": "JEAN LAM",
+      "score": 0.9997347593307495,
+      "box": [
+        116,
+        91,
+        290,
+        122
+      ]
+    },
+    {
+      "text": "CA, USA | +1-299-381-9741 | jean.lam@example.com",
+      "score": 0.9892525672912598,
+      "box": [
+        118,
+        152,
+        620,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9997822642326355,
+      "box": [
+        117,
+        243,
+        315,
+        270
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Integrity Count Group, 2021.04—2023.01",
+      "score": 0.9700657725334167,
+      "box": [
+        116,
+        288,
+        697,
+        315
+      ]
+    },
+    {
+      "text": "- Established financial data governance",
+      "score": 0.996594250202179,
+      "box": [
+        127,
+        314,
+        493,
+        341
+      ]
+    },
+    {
+      "text": "- Led regulatory compliance initiatives",
+      "score": 0.9712234735488892,
+      "box": [
+        128,
+        339,
+        479,
+        368
+      ]
+    },
+    {
+      "text": "Accountants Auditors, CoreLedger Financial Group, 2019.06—2021.04",
+      "score": 0.9868289828300476,
+      "box": [
+        116,
+        380,
+        764,
+        408
+      ]
+    },
+    {
+      "text": "- Assisted with audit fieldwork",
+      "score": 0.9951793551445007,
+      "box": [
+        125,
+        408,
+        404,
+        431
+      ]
+    },
+    {
+      "text": "- Updated general ledger records",
+      "score": 0.9870412349700928,
+      "box": [
+        128,
+        430,
+        436,
+        458
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999542236328125,
+      "box": [
+        117,
+        495,
+        267,
+        519
+      ]
+    },
+    {
+      "text": "Bachelor's, Business Administration, Harborview University, 2018",
+      "score": 0.9828121662139893,
+      "box": [
+        116,
+        540,
+        721,
+        566
+      ]
+    },
+    {
+      "text": "•Completed coursework in accounting software applications",
+      "score": 0.9866392016410828,
+      "box": [
+        130,
+        566,
+        691,
+        592
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of break-even analysis",
+      "score": 0.9867469668388367,
+      "box": [
+        132,
+        590,
+        564,
+        616
+      ]
+    }
+  ],
+  "seconds": 2.333506100345403,
+  "id": "08566",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

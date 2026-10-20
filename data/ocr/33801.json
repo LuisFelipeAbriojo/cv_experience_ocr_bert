@@ -1,0 +1,212 @@
+{
+  "lines": [
+    {
+      "text": "OMER BAUTISTA",
+      "score": 0.9998541474342346,
+      "box": [
+        117,
+        91,
+        396,
+        122
+      ]
+    },
+    {
+      "text": "NJ, USA | +1-753-235-4639 | omer.bautista@example.com",
+      "score": 0.979551374912262,
+      "box": [
+        116,
+        150,
+        663,
+        177
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9991400837898254,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Integrity Books Financial Group, 2018.10—2023.01",
+      "score": 0.9875423908233643,
+      "box": [
+        116,
+        290,
+        790,
+        317
+      ]
+    },
+    {
+      "text": "- Developed audit quality standards",
+      "score": 0.97572261095047,
+      "box": [
+        129,
+        317,
+        456,
+        341
+      ]
+    },
+    {
+      "text": "- Led regulatory compliance initiatives",
+      "score": 0.9734402894973755,
+      "box": [
+        127,
+        340,
+        479,
+        368
+      ]
+    },
+    {
+      "text": "Accountants Auditors, SolidCount Financial Group, 2014.062018.10",
+      "score": 0.9938405752182007,
+      "box": [
+        116,
+        381,
+        757,
+        409
+      ]
+    },
+    {
+      "text": "- Developed long-term financial strategies",
+      "score": 0.9974528551101685,
+      "box": [
+        125,
+        407,
+        515,
+        435
+      ]
+    },
+    {
+      "text": "- Established financial quality controls",
+      "score": 0.9880765676498413,
+      "box": [
+        127,
+        432,
+        476,
+        457
+      ]
+    },
+    {
+      "text": "Accountants Auditors, CoreBalance Advisors, 2010.02—2014.06",
+      "score": 0.9903025031089783,
+      "box": [
+        116,
+        471,
+        707,
+        499
+      ]
+    },
+    {
+      "text": "- Managed monthly close processes",
+      "score": 0.9864638447761536,
+      "box": [
+        125,
+        498,
+        465,
+        526
+      ]
+    },
+    {
+      "text": "- Conducted inventory valuation",
+      "score": 0.9898170828819275,
+      "box": [
+        129,
+        524,
+        423,
+        548
+      ]
+    },
+    {
+      "text": "Accountants Auditors, AccuCount Financial Group, 2005.10—2010.02",
+      "score": 0.9905590415000916,
+      "box": [
+        117,
+        566,
+        755,
+        590
+      ]
+    },
+    {
+      "text": "- Assisted with tax form preparation",
+      "score": 0.9988858103752136,
+      "box": [
+        126,
+        590,
+        458,
+        616
+      ]
+    },
+    {
+      "text": "- Entered financial data into accounting systems",
+      "score": 0.9720778465270996,
+      "box": [
+        125,
+        613,
+        573,
+        642
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999129772186279,
+      "box": [
+        117,
+        681,
+        266,
+        705
+      ]
+    },
+    {
+      "text": "Master's, Commerce, Oakfield University, 2010",
+      "score": 0.9994620680809021,
+      "box": [
+        116,
+        724,
+        555,
+        750
+      ]
+    },
+    {
+      "text": "Bachelor's, Financial Management, Silverton University, 2008",
+      "score": 0.9940935969352722,
+      "box": [
+        116,
+        748,
+        686,
+        775
+      ]
+    },
+    {
+      "text": "•Studied principles of professional responsibility",
+      "score": 0.9885316491127014,
+      "box": [
+        129,
+        774,
+        580,
+        800
+      ]
+    },
+    {
+      "text": "•Studied fundamentals of depreciation methods",
+      "score": 0.9862841963768005,
+      "box": [
+        131,
+        799,
+        578,
+        825
+      ]
+    }
+  ],
+  "seconds": 2.9520523003302515,
+  "id": "33801",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

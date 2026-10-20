@@ -1,0 +1,172 @@
+{
+  "lines": [
+    {
+      "text": "ALEX COHEN",
+      "score": 0.9997288584709167,
+      "box": [
+        118,
+        92,
+        338,
+        121
+      ]
+    },
+    {
+      "text": "CO, USA | +1-246-362-5433 | alex.cohen@example.com",
+      "score": 0.9866008758544922,
+      "box": [
+        118,
+        152,
+        643,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9990155100822449,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Flowframe Labs, 2020.06—2023.01",
+      "score": 0.9844691157341003,
+      "box": [
+        116,
+        289,
+        645,
+        316
+      ]
+    },
+    {
+      "text": "- Led database design efforts",
+      "score": 0.9715982675552368,
+      "box": [
+        127,
+        315,
+        399,
+        341
+      ]
+    },
+    {
+      "text": "- Designed system architectures",
+      "score": 0.999258279800415,
+      "box": [
+        128,
+        339,
+        429,
+        367
+      ]
+    },
+    {
+      "text": "Software Developers, Cloudline Solutions, 2017.052019.12",
+      "score": 0.9798691868782043,
+      "box": [
+        118,
+        383,
+        676,
+        407
+      ]
+    },
+    {
+      "text": "- Developed data processing pipelines",
+      "score": 0.9997020363807678,
+      "box": [
+        125,
+        406,
+        484,
+        434
+      ]
+    },
+    {
+      "text": "- Built data visualization tools",
+      "score": 0.997512936592102,
+      "box": [
+        127,
+        430,
+        399,
+        458
+      ]
+    },
+    {
+      "text": "Software Developers, Softnode Systems, 2013.09—2016.05",
+      "score": 0.9875994324684143,
+      "box": [
+        118,
+        473,
+        665,
+        497
+      ]
+    },
+    {
+      "text": "- Performed code formatting",
+      "score": 0.9842122197151184,
+      "box": [
+        125,
+        494,
+        391,
+        525
+      ]
+    },
+    {
+      "text": "- Handled file uploads",
+      "score": 0.9867116808891296,
+      "box": [
+        127,
+        520,
+        331,
+        549
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999489188194275,
+      "box": [
+        118,
+        588,
+        266,
+        612
+      ]
+    },
+    {
+      "text": "Bachelor's, Briar Ridge University, 2011",
+      "score": 0.9842411875724792,
+      "box": [
+        118,
+        633,
+        484,
+        657
+      ]
+    },
+    {
+      "text": "•Studied principles of software development",
+      "score": 0.9822803139686584,
+      "box": [
+        130,
+        659,
+        548,
+        683
+      ]
+    },
+    {
+      "text": "•Studied fundamentals of client-side development",
+      "score": 0.9825994968414307,
+      "box": [
+        130,
+        681,
+        599,
+        707
+      ]
+    }
+  ],
+  "seconds": 2.4446434997953475,
+  "id": "09729",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

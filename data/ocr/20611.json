@@ -1,0 +1,162 @@
+{
+  "lines": [
+    {
+      "text": "BLAKE CARPENTER",
+      "score": 0.9904358983039856,
+      "box": [
+        118,
+        91,
+        449,
+        121
+      ]
+    },
+    {
+      "text": "IN, USA | +1-675-527-6993 | blake.carpenter@example.com",
+      "score": 0.9877404570579529,
+      "box": [
+        118,
+        152,
+        675,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9988259673118591,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, CraftFrame Builders, 2020.05—2023.01",
+      "score": 0.982390284538269,
+      "box": [
+        118,
+        290,
+        693,
+        314
+      ]
+    },
+    {
+      "text": "- Led operational planning",
+      "score": 0.9996626377105713,
+      "box": [
+        125,
+        313,
+        372,
+        343
+      ]
+    },
+    {
+      "text": "- Managed construction schedules",
+      "score": 0.9899572134017944,
+      "box": [
+        127,
+        340,
+        448,
+        365
+      ]
+    },
+    {
+      "text": "Construction Laborers, SteadyRise Contractors, 2017.092020.05",
+      "score": 0.9954975843429565,
+      "box": [
+        118,
+        383,
+        727,
+        407
+      ]
+    },
+    {
+      "text": "- Performed site leveling tasks",
+      "score": 0.9987104535102844,
+      "box": [
+        125,
+        407,
+        409,
+        433
+      ]
+    },
+    {
+      "text": "- Prepared site reports",
+      "score": 0.9859343767166138,
+      "box": [
+        127,
+        431,
+        339,
+        461
+      ]
+    },
+    {
+      "text": "Construction Laborers, Hardrock Builders, 2014.012016.09",
+      "score": 0.9912272691726685,
+      "box": [
+        118,
+        473,
+        674,
+        497
+      ]
+    },
+    {
+      "text": "- Performed basic carpentry tasks",
+      "score": 0.9935486316680908,
+      "box": [
+        127,
+        499,
+        441,
+        523
+      ]
+    },
+    {
+      "text": "- Maintained tool storage areas",
+      "score": 0.999167263507843,
+      "box": [
+        127,
+        520,
+        419,
+        551
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9998711347579956,
+      "box": [
+        117,
+        586,
+        267,
+        613
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Construction Operations, Autumn Ridge High School, 2011",
+      "score": 0.9838381409645081,
+      "box": [
+        117,
+        632,
+        921,
+        659
+      ]
+    },
+    {
+      "text": "• Completed coursework in basic welding concepts",
+      "score": 0.9724884033203125,
+      "box": [
+        132,
+        657,
+        605,
+        683
+      ]
+    }
+  ],
+  "seconds": 2.545781200286001,
+  "id": "20611",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

@@ -1,0 +1,142 @@
+{
+  "lines": [
+    {
+      "text": "DEBROAH DEAN",
+      "score": 0.9998003840446472,
+      "box": [
+        117,
+        89,
+        390,
+        122
+      ]
+    },
+    {
+      "text": "FL, USA | +1-394-304-3574 | debroah.dean@example.com",
+      "score": 0.9856511354446411,
+      "box": [
+        116,
+        149,
+        665,
+        177
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9991820454597473,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, WellHands Health Group, 2020.03—2022.06",
+      "score": 0.9893068671226501,
+      "box": [
+        116,
+        288,
+        706,
+        316
+      ]
+    },
+    {
+      "text": "- Managed clinical resource planning",
+      "score": 0.9996239542961121,
+      "box": [
+        125,
+        313,
+        469,
+        343
+      ]
+    },
+    {
+      "text": "- Led nursing process audits",
+      "score": 0.9597560167312622,
+      "box": [
+        127,
+        339,
+        392,
+        370
+      ]
+    },
+    {
+      "text": "Registered Nurses, SunPath Nursing, 2017.012019.04",
+      "score": 0.9872384071350098,
+      "box": [
+        118,
+        383,
+        633,
+        407
+      ]
+    },
+    {
+      "text": "- Monitored patient recovery",
+      "score": 0.9738759994506836,
+      "box": [
+        125,
+        404,
+        391,
+        436
+      ]
+    },
+    {
+      "text": "- Assisted with respiratory treatments",
+      "score": 0.9825964570045471,
+      "box": [
+        127,
+        431,
+        473,
+        459
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999430775642395,
+      "box": [
+        116,
+        494,
+        268,
+        521
+      ]
+    },
+    {
+      "text": "Bachelor's, General Nursing, Crossfield University, 2008",
+      "score": 0.9957724809646606,
+      "box": [
+        115,
+        539,
+        638,
+        569
+      ]
+    },
+    {
+      "text": "•Studied principles of wound care",
+      "score": 0.9773601293563843,
+      "box": [
+        130,
+        567,
+        450,
+        591
+      ]
+    },
+    {
+      "text": "•Studied fundamentals of tracheostomy care",
+      "score": 0.9825707674026489,
+      "box": [
+        130,
+        591,
+        550,
+        617
+      ]
+    }
+  ],
+  "seconds": 2.662386900279671,
+  "id": "14368",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

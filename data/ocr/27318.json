@@ -1,0 +1,162 @@
+{
+  "lines": [
+    {
+      "text": "SHAUN PHELPS",
+      "score": 0.9690513014793396,
+      "box": [
+        117,
+        91,
+        379,
+        122
+      ]
+    },
+    {
+      "text": "MI, USA | +1-374-447-7323 | shaun.phelps@example.com",
+      "score": 0.9839308261871338,
+      "box": [
+        116,
+        151,
+        658,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.999011754989624,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, ClearBuild Construction, 2020.12—2023.01",
+      "score": 0.9868593215942383,
+      "box": [
+        118,
+        290,
+        725,
+        314
+      ]
+    },
+    {
+      "text": "- Developed site performance metrics",
+      "score": 0.9850447773933411,
+      "box": [
+        126,
+        315,
+        476,
+        341
+      ]
+    },
+    {
+      "text": "- Established site layout plans",
+      "score": 0.9960147142410278,
+      "box": [
+        127,
+        340,
+        406,
+        367
+      ]
+    },
+    {
+      "text": "Construction Laborers, FirmRise Construction, 2018.112020.12",
+      "score": 0.9716008901596069,
+      "box": [
+        118,
+        383,
+        716,
+        407
+      ]
+    },
+    {
+      "text": "- Set up scaffolding systems",
+      "score": 0.9954166412353516,
+      "box": [
+        124,
+        407,
+        391,
+        433
+      ]
+    },
+    {
+      "text": "- Coordinated material deliveries",
+      "score": 0.9910404086112976,
+      "box": [
+        126,
+        429,
+        431,
+        457
+      ]
+    },
+    {
+      "text": "Construction Laborers, SureLine Construction, 2013.112016.01",
+      "score": 0.9910506010055542,
+      "box": [
+        118,
+        473,
+        713,
+        497
+      ]
+    },
+    {
+      "text": "- Applied basic sealants and adhesives",
+      "score": 0.9942786693572998,
+      "box": [
+        127,
+        499,
+        491,
+        522
+      ]
+    },
+    {
+      "text": "- Secured materials with fasteners",
+      "score": 0.9913281798362732,
+      "box": [
+        128,
+        521,
+        446,
+        548
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.99993896484375,
+      "box": [
+        118,
+        588,
+        266,
+        612
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Construction Foundations, Maple Ridge High School, 2002",
+      "score": 0.9902626276016235,
+      "box": [
+        118,
+        633,
+        919,
+        657
+      ]
+    },
+    {
+      "text": "Studied fundamentals of masonry",
+      "score": 0.9868093729019165,
+      "box": [
+        129,
+        653,
+        460,
+        685
+      ]
+    }
+  ],
+  "seconds": 2.9741298998706043,
+  "id": "27318",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

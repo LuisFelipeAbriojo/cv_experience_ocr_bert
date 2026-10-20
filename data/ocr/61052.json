@@ -1,0 +1,112 @@
+{
+  "lines": [
+    {
+      "text": "AMBERLEE HENDRIX",
+      "score": 0.9993413090705872,
+      "box": [
+        117,
+        90,
+        465,
+        122
+      ]
+    },
+    {
+      "text": "WI, USA | +1-698-747-6873 | amberlee.hendrix@example.com",
+      "score": 0.9911419749259949,
+      "box": [
+        116,
+        149,
+        699,
+        177
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9993047118186951,
+      "box": [
+        116,
+        243,
+        317,
+        270
+      ]
+    },
+    {
+      "text": "Registered Nurses, KindLife Care Center, 2019.012021.08",
+      "score": 0.9985021948814392,
+      "box": [
+        117,
+        290,
+        671,
+        314
+      ]
+    },
+    {
+      "text": "- Assisted with surgical prep",
+      "score": 0.9983478784561157,
+      "box": [
+        125,
+        313,
+        390,
+        342
+      ]
+    },
+    {
+      "text": "- Recorded medication administration times",
+      "score": 0.9996190667152405,
+      "box": [
+        126,
+        339,
+        531,
+        365
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999077916145325,
+      "box": [
+        116,
+        404,
+        268,
+        431
+      ]
+    },
+    {
+      "text": "Bachelor's, Biomedical Sciences, Lakeside University, 2011",
+      "score": 0.9830886721611023,
+      "box": [
+        116,
+        447,
+        668,
+        474
+      ]
+    },
+    {
+      "text": "Studied principles of ostomy care",
+      "score": 0.9988068342208862,
+      "box": [
+        129,
+        473,
+        456,
+        499
+      ]
+    },
+    {
+      "text": "Studied principles of safety protocols",
+      "score": 0.9981344938278198,
+      "box": [
+        131,
+        497,
+        489,
+        526
+      ]
+    }
+  ],
+  "seconds": 2.015763900242746,
+  "id": "61052",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

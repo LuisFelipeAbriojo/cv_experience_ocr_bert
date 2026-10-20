@@ -1,0 +1,192 @@
+{
+  "lines": [
+    {
+      "text": "NICOLAS CLEMENTS",
+      "score": 0.9998655319213867,
+      "box": [
+        116,
+        89,
+        460,
+        122
+      ]
+    },
+    {
+      "text": "SC, USA | +1-346-829-6559 | nicolas.clements@example.com",
+      "score": 0.9812825322151184,
+      "box": [
+        116,
+        150,
+        696,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9987983107566833,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, AnchorLine Contractors, 2020.05—2023.01",
+      "score": 0.9838383793830872,
+      "box": [
+        116,
+        288,
+        727,
+        316
+      ]
+    },
+    {
+      "text": "- Directed quality assurance programs",
+      "score": 0.9758833646774292,
+      "box": [
+        125,
+        314,
+        482,
+        343
+      ]
+    },
+    {
+      "text": "- Supervised multiple work crews",
+      "score": 0.9841122627258301,
+      "box": [
+        128,
+        341,
+        434,
+        367
+      ]
+    },
+    {
+      "text": "Construction Laborers, BuildCraft Co., 2017.09—2020.05",
+      "score": 0.9821804165840149,
+      "box": [
+        118,
+        383,
+        638,
+        407
+      ]
+    },
+    {
+      "text": "- Established site layout plans",
+      "score": 0.9973623752593994,
+      "box": [
+        126,
+        409,
+        406,
+        433
+      ]
+    },
+    {
+      "text": "- Developed project risk assessments",
+      "score": 0.9882384538650513,
+      "box": [
+        128,
+        434,
+        476,
+        457
+      ]
+    },
+    {
+      "text": "Construction Laborers, SolidBuild Contractors, 2013.032015.11",
+      "score": 0.9932482838630676,
+      "box": [
+        117,
+        472,
+        713,
+        499
+      ]
+    },
+    {
+      "text": "- Installed support beams",
+      "score": 0.9685394763946533,
+      "box": [
+        125,
+        497,
+        366,
+        526
+      ]
+    },
+    {
+      "text": "- Managed material inventories",
+      "score": 0.9926615953445435,
+      "box": [
+        126,
+        521,
+        417,
+        550
+      ]
+    },
+    {
+      "text": "Construction Laborers, Stoneway Construction, 2009.112012.07",
+      "score": 0.9892285466194153,
+      "box": [
+        117,
+        565,
+        723,
+        592
+      ]
+    },
+    {
+      "text": "- Prepared scaffolding platforms",
+      "score": 0.9920123815536499,
+      "box": [
+        128,
+        592,
+        427,
+        616
+      ]
+    },
+    {
+      "text": "- Prepared surfaces for construction work",
+      "score": 0.9826809167861938,
+      "box": [
+        127,
+        614,
+        513,
+        642
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999264478683472,
+      "box": [
+        117,
+        681,
+        266,
+        705
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Building Construction, Skyline High School, 2001",
+      "score": 0.9815894365310669,
+      "box": [
+        116,
+        724,
+        827,
+        750
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of construction inspection",
+      "score": 0.9936849474906921,
+      "box": [
+        131,
+        750,
+        592,
+        774
+      ]
+    }
+  ],
+  "seconds": 3.167878500185907,
+  "id": "47218",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

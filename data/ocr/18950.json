@@ -1,0 +1,162 @@
+{
+  "lines": [
+    {
+      "text": "GAGE CRANE",
+      "score": 0.9806393384933472,
+      "box": [
+        116,
+        87,
+        346,
+        123
+      ]
+    },
+    {
+      "text": "IL, USA | +1-260-666-5196 | gage.crane@example.com",
+      "score": 0.9731433987617493,
+      "box": [
+        118,
+        152,
+        632,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9990541934967041,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, BuildCraft Co., 2020.072023.01",
+      "score": 0.9864130020141602,
+      "box": [
+        118,
+        290,
+        636,
+        314
+      ]
+    },
+    {
+      "text": "- Managed subcontractor coordination",
+      "score": 0.999200701713562,
+      "box": [
+        125,
+        313,
+        482,
+        342
+      ]
+    },
+    {
+      "text": "- Coordinated large-scale material logistics",
+      "score": 0.9842624664306641,
+      "box": [
+        128,
+        339,
+        524,
+        367
+      ]
+    },
+    {
+      "text": "Construction Laborers, Allied Build Co., 2018.012020.07",
+      "score": 0.9948590397834778,
+      "box": [
+        118,
+        382,
+        649,
+        406
+      ]
+    },
+    {
+      "text": "- Installed exterior cladding",
+      "score": 0.9964026212692261,
+      "box": [
+        125,
+        403,
+        379,
+        435
+      ]
+    },
+    {
+      "text": "- Prepared job site layouts",
+      "score": 0.9989636540412903,
+      "box": [
+        128,
+        433,
+        373,
+        459
+      ]
+    },
+    {
+      "text": "Construction Laborers, SteadyRise Construction, 2015.072018.01",
+      "score": 0.9981824159622192,
+      "box": [
+        118,
+        473,
+        736,
+        497
+      ]
+    },
+    {
+      "text": "- Maintained tool storage areas",
+      "score": 0.9993635416030884,
+      "box": [
+        126,
+        497,
+        419,
+        524
+      ]
+    },
+    {
+      "text": "- Carried materials to designated work areas",
+      "score": 0.9888272881507874,
+      "box": [
+        127,
+        520,
+        541,
+        550
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9998815059661865,
+      "box": [
+        117,
+        586,
+        267,
+        613
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Mechanical Technology, Brookstone High School, 2013",
+      "score": 0.9930587410926819,
+      "box": [
+        118,
+        633,
+        890,
+        657
+      ]
+    },
+    {
+      "text": "•Studied principles of site safety protocols",
+      "score": 0.9911311864852905,
+      "box": [
+        130,
+        658,
+        525,
+        681
+      ]
+    }
+  ],
+  "seconds": 2.549779700115323,
+  "id": "18950",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

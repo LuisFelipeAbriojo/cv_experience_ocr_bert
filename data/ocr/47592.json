@@ -1,0 +1,182 @@
+{
+  "lines": [
+    {
+      "text": "KAITLYN PUGH",
+      "score": 0.9630398154258728,
+      "box": [
+        117,
+        91,
+        370,
+        122
+      ]
+    },
+    {
+      "text": "SC, USA | +1-783-592-2449 | kaitlyn.pugh@example.com",
+      "score": 0.982258677482605,
+      "box": [
+        116,
+        150,
+        652,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.998323380947113,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Growing Tree Academy, 2020.01—2023.01",
+      "score": 0.9941501617431641,
+      "box": [
+        115,
+        287,
+        856,
+        319
+      ]
+    },
+    {
+      "text": "- Designed assessment systems",
+      "score": 0.9948537349700928,
+      "box": [
+        125,
+        314,
+        431,
+        343
+      ]
+    },
+    {
+      "text": "- Developed instructional innovation plans",
+      "score": 0.9909631013870239,
+      "box": [
+        127,
+        339,
+        516,
+        369
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Caring Path School, 2016.12—2020.01",
+      "score": 0.9899223446846008,
+      "box": [
+        116,
+        381,
+        816,
+        411
+      ]
+    },
+    {
+      "text": "- Created instructional units",
+      "score": 0.9967849850654602,
+      "box": [
+        126,
+        409,
+        383,
+        432
+      ]
+    },
+    {
+      "text": "- Organized instructional schedules",
+      "score": 0.9927971959114075,
+      "box": [
+        129,
+        434,
+        454,
+        457
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Bright Path School, 2013.112016.12",
+      "score": 0.9940226674079895,
+      "box": [
+        117,
+        471,
+        812,
+        499
+      ]
+    },
+    {
+      "text": "- Conducted spelling practice",
+      "score": 0.9973527193069458,
+      "box": [
+        127,
+        497,
+        400,
+        526
+      ]
+    },
+    {
+      "text": "- Maintained classroom attendance and grading records",
+      "score": 0.9980198740959167,
+      "box": [
+        127,
+        521,
+        645,
+        549
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999043941497803,
+      "box": [
+        117,
+        587,
+        267,
+        614
+      ]
+    },
+    {
+      "text": "Master's, Education Studies, Silver Ridge University, 2020",
+      "score": 0.9930835962295532,
+      "box": [
+        117,
+        633,
+        655,
+        657
+      ]
+    },
+    {
+      "text": "Bachelor's, Educational Practice, Sagewood University, 2018",
+      "score": 0.9865463376045227,
+      "box": [
+        115,
+        656,
+        683,
+        686
+      ]
+    },
+    {
+      "text": "• Completed coursework in educational technology basics",
+      "score": 0.9841809272766113,
+      "box": [
+        133,
+        684,
+        667,
+        708
+      ]
+    },
+    {
+      "text": "• Studied principles of learner diversity",
+      "score": 0.9774702191352844,
+      "box": [
+        132,
+        706,
+        489,
+        736
+      ]
+    }
+  ],
+  "seconds": 2.676716099958867,
+  "id": "47592",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

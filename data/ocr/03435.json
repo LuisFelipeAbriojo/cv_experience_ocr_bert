@@ -1,0 +1,112 @@
+{
+  "lines": [
+    {
+      "text": "EMILY DUDLEY",
+      "score": 0.9935421347618103,
+      "box": [
+        116,
+        87,
+        368,
+        123
+      ]
+    },
+    {
+      "text": "CA, USA | +1-688-948-3239 | emily.dudley@example.com",
+      "score": 0.981325089931488,
+      "box": [
+        116,
+        149,
+        656,
+        177
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.999747097492218,
+      "box": [
+        117,
+        243,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Bright Bridge School, 2019.12—2022.05",
+      "score": 0.9924523830413818,
+      "box": [
+        117,
+        289,
+        828,
+        316
+      ]
+    },
+    {
+      "text": "- Reviewed learning standards",
+      "score": 0.9924176335334778,
+      "box": [
+        125,
+        314,
+        411,
+        340
+      ]
+    },
+    {
+      "text": "- Distributed assessment rubrics",
+      "score": 0.9832313060760498,
+      "box": [
+        126,
+        339,
+        428,
+        365
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999517798423767,
+      "box": [
+        116,
+        404,
+        268,
+        431
+      ]
+    },
+    {
+      "text": "Bachelor's, Academic Support Studies, Horizon University, 2013",
+      "score": 0.9870520234107971,
+      "box": [
+        115,
+        446,
+        712,
+        474
+      ]
+    },
+    {
+      "text": "•Studied fundamentals of instructional clarity",
+      "score": 0.9805298447608948,
+      "box": [
+        130,
+        473,
+        550,
+        499
+      ]
+    },
+    {
+      "text": "• Completed coursework in lesson effectiveness analysis",
+      "score": 0.9847204685211182,
+      "box": [
+        133,
+        498,
+        657,
+        524
+      ]
+    }
+  ],
+  "seconds": 2.0263600000180304,
+  "id": "03435",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

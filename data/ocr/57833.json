@@ -1,0 +1,112 @@
+{
+  "lines": [
+    {
+      "text": "KRISTA LANE",
+      "score": 0.9952954649925232,
+      "box": [
+        116,
+        89,
+        344,
+        123
+      ]
+    },
+    {
+      "text": "WA, USA | +1-737-547-4438 | krista.lane@example.com",
+      "score": 0.9790893793106079,
+      "box": [
+        116,
+        149,
+        640,
+        177
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9997578263282776,
+      "box": [
+        117,
+        243,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Caring Meadow School, 2021.09—2023.01",
+      "score": 0.9906109571456909,
+      "box": [
+        116,
+        287,
+        852,
+        315
+      ]
+    },
+    {
+      "text": "- Delivered structured lectures",
+      "score": 0.9955928921699524,
+      "box": [
+        125,
+        312,
+        409,
+        341
+      ]
+    },
+    {
+      "text": "- Tracked student participation",
+      "score": 0.983893096446991,
+      "box": [
+        126,
+        338,
+        411,
+        368
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9998998641967773,
+      "box": [
+        116,
+        404,
+        268,
+        431
+      ]
+    },
+    {
+      "text": "Some college (no degree), Teaching Support, Stonebrook University, 2023",
+      "score": 0.991349995136261,
+      "box": [
+        116,
+        445,
+        807,
+        476
+      ]
+    },
+    {
+      "text": "•Completed introductory coursework in educational psychology",
+      "score": 0.9892882704734802,
+      "box": [
+        130,
+        471,
+        720,
+        502
+      ]
+    },
+    {
+      "text": "Studied principles of cooperative learning",
+      "score": 0.9965285062789917,
+      "box": [
+        132,
+        495,
+        530,
+        529
+      ]
+    }
+  ],
+  "seconds": 2.2123510004021227,
+  "id": "57833",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

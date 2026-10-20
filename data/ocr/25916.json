@@ -1,0 +1,142 @@
+{
+  "lines": [
+    {
+      "text": "ANNETTE MCCARTHY",
+      "score": 0.9981282353401184,
+      "box": [
+        118,
+        92,
+        474,
+        122
+      ]
+    },
+    {
+      "text": "MA, USA | +1-660-759-5527 | annette.mccarthy@example.com",
+      "score": 0.9854449033737183,
+      "box": [
+        117,
+        152,
+        703,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9991946816444397,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Kind Horizons School, 2020.02—2023.01",
+      "score": 0.9923098087310791,
+      "box": [
+        117,
+        289,
+        836,
+        316
+      ]
+    },
+    {
+      "text": "- Developed learning progression models",
+      "score": 0.9919787645339966,
+      "box": [
+        125,
+        314,
+        510,
+        342
+      ]
+    },
+    {
+      "text": "- Established academic quality controls",
+      "score": 0.9931320548057556,
+      "box": [
+        125,
+        339,
+        490,
+        368
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Safe Harbor Academy, 2017.02—2020.02",
+      "score": 0.9950389862060547,
+      "box": [
+        115,
+        379,
+        844,
+        410
+      ]
+    },
+    {
+      "text": "- Conducted group reading activities",
+      "score": 0.9972668886184692,
+      "box": [
+        125,
+        406,
+        464,
+        434
+      ]
+    },
+    {
+      "text": "- Implemented classroom seating plans",
+      "score": 0.98799729347229,
+      "box": [
+        127,
+        431,
+        493,
+        459
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999322891235352,
+      "box": [
+        117,
+        494,
+        268,
+        521
+      ]
+    },
+    {
+      "text": "Bachelor's, Instructional Support, Shoreline University, 2020",
+      "score": 0.992241382598877,
+      "box": [
+        117,
+        542,
+        671,
+        566
+      ]
+    },
+    {
+      "text": "• Studied principles of curriculum standards",
+      "score": 0.9710628390312195,
+      "box": [
+        131,
+        567,
+        536,
+        591
+      ]
+    },
+    {
+      "text": "• Completed coursework in classroom facilitation",
+      "score": 0.9856464266777039,
+      "box": [
+        133,
+        592,
+        584,
+        616
+      ]
+    }
+  ],
+  "seconds": 5.413982899859548,
+  "id": "25916",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

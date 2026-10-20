@@ -1,0 +1,132 @@
+{
+  "lines": [
+    {
+      "text": "SAMUEL PRUITT",
+      "score": 0.9996923804283142,
+      "box": [
+        116,
+        90,
+        389,
+        122
+      ]
+    },
+    {
+      "text": "PA, USA | +1-613-355-1973 |samuel.pruitt@example.com",
+      "score": 0.9820691347122192,
+      "box": [
+        116,
+        150,
+        658,
+        177
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9991812109947205,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, PrimeWay Construction, 2019.06—2021.08",
+      "score": 0.9805466532707214,
+      "box": [
+        116,
+        288,
+        728,
+        316
+      ]
+    },
+    {
+      "text": "- Led cross-functional coordination",
+      "score": 0.9994101524353027,
+      "box": [
+        126,
+        315,
+        448,
+        340
+      ]
+    },
+    {
+      "text": "- Directed quality assurance programs",
+      "score": 0.9887538552284241,
+      "box": [
+        127,
+        339,
+        482,
+        369
+      ]
+    },
+    {
+      "text": "Construction Laborers, TrueBuild Services, 2016.052018.07",
+      "score": 0.9961241483688354,
+      "box": [
+        118,
+        383,
+        683,
+        407
+      ]
+    },
+    {
+      "text": "- Dug trenches for utility lines",
+      "score": 0.9873358011245728,
+      "box": [
+        125,
+        409,
+        398,
+        433
+      ]
+    },
+    {
+      "text": "- Installed temporary site barriers",
+      "score": 0.9825693368911743,
+      "box": [
+        127,
+        430,
+        435,
+        459
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999220371246338,
+      "box": [
+        117,
+        494,
+        266,
+        521
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Concrete Technology, Westview High School, 2009",
+      "score": 0.9885908961296082,
+      "box": [
+        116,
+        539,
+        852,
+        567
+      ]
+    },
+    {
+      "text": "• Completed coursework in construction fundamentals",
+      "score": 0.9943123459815979,
+      "box": [
+        133,
+        566,
+        633,
+        591
+      ]
+    }
+  ],
+  "seconds": 2.20803950028494,
+  "id": "45553",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

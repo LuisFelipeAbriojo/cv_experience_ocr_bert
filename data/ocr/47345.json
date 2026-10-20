@@ -1,0 +1,162 @@
+{
+  "lines": [
+    {
+      "text": "THOMAS PATTERSON",
+      "score": 0.9856083393096924,
+      "box": [
+        117,
+        91,
+        478,
+        121
+      ]
+    },
+    {
+      "text": "SC, USA | +1-485-685-5129 | thomas.patterson@example.com",
+      "score": 0.9839868545532227,
+      "box": [
+        116,
+        150,
+        702,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9965725541114807,
+      "box": [
+        117,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, Reliable Track Co., 2020.10—2023.01",
+      "score": 0.9883843660354614,
+      "box": [
+        118,
+        290,
+        678,
+        314
+      ]
+    },
+    {
+      "text": "- Established project documentation systems",
+      "score": 0.9945547580718994,
+      "box": [
+        126,
+        316,
+        542,
+        340
+      ]
+    },
+    {
+      "text": "- Directed training programs for crews",
+      "score": 0.9943717122077942,
+      "box": [
+        127,
+        340,
+        479,
+        369
+      ]
+    },
+    {
+      "text": "Construction Laborers, TrueRise Builders, 2018.072020.10",
+      "score": 0.9916431307792664,
+      "box": [
+        118,
+        383,
+        674,
+        406
+      ]
+    },
+    {
+      "text": "- Installed foundation elements",
+      "score": 0.9870620369911194,
+      "box": [
+        126,
+        409,
+        413,
+        432
+      ]
+    },
+    {
+      "text": "- Conducted material inspections",
+      "score": 0.9996086359024048,
+      "box": [
+        129,
+        434,
+        434,
+        457
+      ]
+    },
+    {
+      "text": "Construction Laborers, StrongBase Builders, 2013.08—2015.12",
+      "score": 0.971105694770813,
+      "box": [
+        117,
+        472,
+        700,
+        497
+      ]
+    },
+    {
+      "text": "- Assisted with drywall installation",
+      "score": 0.9921948313713074,
+      "box": [
+        126,
+        499,
+        439,
+        523
+      ]
+    },
+    {
+      "text": "- Monitored material usage",
+      "score": 0.9991587996482849,
+      "box": [
+        127,
+        520,
+        379,
+        551
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9998791217803955,
+      "box": [
+        117,
+        587,
+        267,
+        614
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Construction Infrastructure, Lakeview High School, 2004",
+      "score": 0.9990370273590088,
+      "box": [
+        118,
+        633,
+        897,
+        657
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of construction measurement tools",
+      "score": 0.9896755218505859,
+      "box": [
+        131,
+        658,
+        675,
+        681
+      ]
+    }
+  ],
+  "seconds": 2.693619200028479,
+  "id": "47345",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

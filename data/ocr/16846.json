@@ -1,0 +1,202 @@
+{
+  "lines": [
+    {
+      "text": "LAURA DAVID",
+      "score": 0.9998962879180908,
+      "box": [
+        117,
+        91,
+        347,
+        122
+      ]
+    },
+    {
+      "text": "HI, USA | +1-226-300-7129 | laura.david@example.com",
+      "score": 0.9944005012512207,
+      "box": [
+        115,
+        150,
+        635,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9991820454597473,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Growing Futures Academy, 2020.05—2023.01",
+      "score": 0.9892739057540894,
+      "box": [
+        117,
+        290,
+        883,
+        317
+      ]
+    },
+    {
+      "text": "- Led professional development planning",
+      "score": 0.9996939301490784,
+      "box": [
+        125,
+        314,
+        506,
+        344
+      ]
+    },
+    {
+      "text": "- Developed learning progression models",
+      "score": 0.9969732761383057,
+      "box": [
+        127,
+        339,
+        510,
+        368
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Learning Way Academy, 2017.08—2020.05",
+      "score": 0.989823043346405,
+      "box": [
+        116,
+        381,
+        860,
+        411
+      ]
+    },
+    {
+      "text": "- Established instructional review cycles",
+      "score": 0.9880658388137817,
+      "box": [
+        126,
+        409,
+        497,
+        433
+      ]
+    },
+    {
+      "text": "- Directed curriculum revision cycles",
+      "score": 0.9912718534469604,
+      "box": [
+        125,
+        432,
+        463,
+        458
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Learning Way Academy, 2014.05—2017.02",
+      "score": 0.9820128679275513,
+      "box": [
+        118,
+        474,
+        858,
+        498
+      ]
+    },
+    {
+      "text": "- Maintained academic records",
+      "score": 0.9857394099235535,
+      "box": [
+        127,
+        499,
+        416,
+        523
+      ]
+    },
+    {
+      "text": "- Analyzed student performance data",
+      "score": 0.9929875135421753,
+      "box": [
+        127,
+        521,
+        471,
+        550
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Future Path Academy, 2011.02—2013.11",
+      "score": 0.9806814193725586,
+      "box": [
+        117,
+        565,
+        839,
+        592
+      ]
+    },
+    {
+      "text": "- Distributed instructional handouts",
+      "score": 0.9963297247886658,
+      "box": [
+        126,
+        590,
+        452,
+        615
+      ]
+    },
+    {
+      "text": "- Recorded student feedback",
+      "score": 0.9995068311691284,
+      "box": [
+        125,
+        613,
+        400,
+        641
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999349117279053,
+      "box": [
+        117,
+        681,
+        266,
+        705
+      ]
+    },
+    {
+      "text": "Bachelor's, General Learning Studies, Oakfield University, 2005",
+      "score": 0.9828009009361267,
+      "box": [
+        115,
+        723,
+        706,
+        750
+      ]
+    },
+    {
+      "text": "•Studied fundamentals of instructional consistency",
+      "score": 0.9905831217765808,
+      "box": [
+        131,
+        748,
+        606,
+        775
+      ]
+    },
+    {
+      "text": "•Completed coursework in classroom observation methods",
+      "score": 0.9831774234771729,
+      "box": [
+        132,
+        772,
+        684,
+        800
+      ]
+    }
+  ],
+  "seconds": 3.283459700178355,
+  "id": "16846",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

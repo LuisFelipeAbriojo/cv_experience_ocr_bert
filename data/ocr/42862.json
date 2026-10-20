@@ -1,0 +1,132 @@
+{
+  "lines": [
+    {
+      "text": "DAMON FARLEY",
+      "score": 0.9998316764831543,
+      "box": [
+        118,
+        91,
+        386,
+        122
+      ]
+    },
+    {
+      "text": "OH, USA | +1-546-777-7994 | damon.farley@example.com",
+      "score": 0.9915797114372253,
+      "box": [
+        116,
+        150,
+        664,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.99919193983078,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, Reliable Build Co., 2018.06—2021.04",
+      "score": 0.9868091344833374,
+      "box": [
+        118,
+        290,
+        673,
+        314
+      ]
+    },
+    {
+      "text": "- Reviewed site inspection reports",
+      "score": 0.9964786767959595,
+      "box": [
+        125,
+        313,
+        444,
+        342
+      ]
+    },
+    {
+      "text": "- Directed project execution strategies",
+      "score": 0.9924643039703369,
+      "box": [
+        127,
+        339,
+        480,
+        368
+      ]
+    },
+    {
+      "text": "Construction Laborers, SteadyRise Builders, 2015.012017.12",
+      "score": 0.9830381274223328,
+      "box": [
+        116,
+        380,
+        697,
+        408
+      ]
+    },
+    {
+      "text": "- Assisted with excavation tasks",
+      "score": 0.9962100982666016,
+      "box": [
+        125,
+        407,
+        425,
+        432
+      ]
+    },
+    {
+      "text": "- Assisted with basic electrical conduit placement",
+      "score": 0.995195209980011,
+      "box": [
+        128,
+        432,
+        582,
+        456
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999275207519531,
+      "box": [
+        117,
+        494,
+        267,
+        521
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Building Maintenance, Valley View High School, 2000",
+      "score": 0.9848257303237915,
+      "box": [
+        117,
+        540,
+        871,
+        567
+      ]
+    },
+    {
+      "text": "•Studied principles of site preparation",
+      "score": 0.9876689314842224,
+      "box": [
+        133,
+        566,
+        485,
+        590
+      ]
+    }
+  ],
+  "seconds": 2.2146887998096645,
+  "id": "42862",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

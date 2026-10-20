@@ -1,0 +1,142 @@
+{
+  "lines": [
+    {
+      "text": "SKYLER PARRISH",
+      "score": 0.9998282790184021,
+      "box": [
+        117,
+        91,
+        414,
+        122
+      ]
+    },
+    {
+      "text": "NC, USA | +1-396-960-8035 | skyler.parrish@example.com",
+      "score": 0.9886738657951355,
+      "box": [
+        117,
+        152,
+        665,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9680922627449036,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, AccuCount Advisors, 2021.052023.01",
+      "score": 0.9913973808288574,
+      "box": [
+        117,
+        290,
+        686,
+        314
+      ]
+    },
+    {
+      "text": "- Developed financial analytics frameworks",
+      "score": 0.9932568073272705,
+      "box": [
+        128,
+        315,
+        523,
+        339
+      ]
+    },
+    {
+      "text": "- Designed audit methodologies",
+      "score": 0.998424232006073,
+      "box": [
+        127,
+        339,
+        424,
+        369
+      ]
+    },
+    {
+      "text": "Accountants Auditors, FairCount Financial, 2019.09—2021.05",
+      "score": 0.9743106365203857,
+      "box": [
+        116,
+        379,
+        682,
+        410
+      ]
+    },
+    {
+      "text": "- Prepared journal entries",
+      "score": 0.9800814390182495,
+      "box": [
+        125,
+        406,
+        367,
+        435
+      ]
+    },
+    {
+      "text": "- Updated accounting policies documentation",
+      "score": 0.9747346639633179,
+      "box": [
+        129,
+        433,
+        546,
+        459
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999362230300903,
+      "box": [
+        117,
+        494,
+        268,
+        521
+      ]
+    },
+    {
+      "text": "Bachelor's, Quantitative Finance, Oakridge Valley University, 2023",
+      "score": 0.9825913310050964,
+      "box": [
+        115,
+        539,
+        731,
+        567
+      ]
+    },
+    {
+      "text": "• Completed coursework in accounts receivable",
+      "score": 0.9874600172042847,
+      "box": [
+        132,
+        567,
+        574,
+        591
+      ]
+    },
+    {
+      "text": "Studied principles of business analytics",
+      "score": 0.9627092480659485,
+      "box": [
+        131,
+        590,
+        512,
+        618
+      ]
+    }
+  ],
+  "seconds": 2.3456477001309395,
+  "id": "40189",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

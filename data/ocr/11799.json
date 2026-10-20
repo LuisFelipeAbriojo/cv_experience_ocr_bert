@@ -1,0 +1,112 @@
+{
+  "lines": [
+    {
+      "text": "RANDY CHARLES",
+      "score": 0.9891622066497803,
+      "box": [
+        116,
+        87,
+        407,
+        123
+      ]
+    },
+    {
+      "text": "FL, USA | +1-840-915-8646 | randy.charles@example.com",
+      "score": 0.9884617924690247,
+      "box": [
+        116,
+        149,
+        662,
+        177
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9993939995765686,
+      "box": [
+        116,
+        243,
+        317,
+        270
+      ]
+    },
+    {
+      "text": "Construction Laborers, SureBuild Co., 2021.07—2021.11",
+      "score": 0.9765271544456482,
+      "box": [
+        116,
+        287,
+        636,
+        315
+      ]
+    },
+    {
+      "text": "- Stacked and organized construction supplies",
+      "score": 0.9835769534111023,
+      "box": [
+        124,
+        313,
+        557,
+        342
+      ]
+    },
+    {
+      "text": "- Assisted with concrete pouring",
+      "score": 0.9856227040290833,
+      "box": [
+        125,
+        337,
+        427,
+        368
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999526143074036,
+      "box": [
+        115,
+        401,
+        269,
+        431
+      ]
+    },
+    {
+      "text": "Some college (no degree), HVAC Technology, Larkspur University, 2001",
+      "score": 0.9727388024330139,
+      "box": [
+        116,
+        446,
+        789,
+        476
+      ]
+    },
+    {
+      "text": "Completed coursework in basic HVAC concepts",
+      "score": 0.9889011979103088,
+      "box": [
+        130,
+        472,
+        592,
+        500
+      ]
+    },
+    {
+      "text": "•Studied principles of vibration control",
+      "score": 0.9885839223861694,
+      "box": [
+        133,
+        498,
+        492,
+        525
+      ]
+    }
+  ],
+  "seconds": 1.9037092002108693,
+  "id": "11799",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

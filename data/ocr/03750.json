@@ -1,0 +1,182 @@
+{
+  "lines": [
+    {
+      "text": "SALVADOR LI",
+      "score": 0.9997284412384033,
+      "box": [
+        117,
+        91,
+        346,
+        122
+      ]
+    },
+    {
+      "text": "CA, USA | +1-938-501-9021 | salvador.li@example.com",
+      "score": 0.98221355676651,
+      "box": [
+        118,
+        152,
+        634,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9990525245666504,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Brightway Systems, 2019.10—2023.01",
+      "score": 0.9869171977043152,
+      "box": [
+        116,
+        290,
+        673,
+        317
+      ]
+    },
+    {
+      "text": "- Defined quality assurance frameworks",
+      "score": 0.9854756593704224,
+      "box": [
+        127,
+        314,
+        497,
+        342
+      ]
+    },
+    {
+      "text": "- Led backend platform development",
+      "score": 0.9995923638343811,
+      "box": [
+        129,
+        340,
+        468,
+        366
+      ]
+    },
+    {
+      "text": "Software Developers, Brightway Systems, 2016.062019.10",
+      "score": 0.9964293241500854,
+      "box": [
+        116,
+        382,
+        676,
+        409
+      ]
+    },
+    {
+      "text": "- Implemented caching strategies",
+      "score": 0.9824983477592468,
+      "box": [
+        126,
+        407,
+        437,
+        434
+      ]
+    },
+    {
+      "text": "- Integrated analytics services",
+      "score": 0.9970477223396301,
+      "box": [
+        127,
+        430,
+        406,
+        461
+      ]
+    },
+    {
+      "text": "Software Developers, Softgrid Labs, 2013.022016.06",
+      "score": 0.9996141195297241,
+      "box": [
+        116,
+        471,
+        621,
+        499
+      ]
+    },
+    {
+      "text": "- Updated application dependencies",
+      "score": 0.9957553744316101,
+      "box": [
+        127,
+        497,
+        463,
+        525
+      ]
+    },
+    {
+      "text": "- Reviewed test coverage reports",
+      "score": 0.9828953742980957,
+      "box": [
+        127,
+        520,
+        436,
+        551
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999940037727356,
+      "box": [
+        118,
+        588,
+        266,
+        612
+      ]
+    },
+    {
+      "text": "Master's, Lakeview University, 2014",
+      "score": 0.9890695810317993,
+      "box": [
+        117,
+        633,
+        451,
+        657
+      ]
+    },
+    {
+      "text": "Bachelor's, Willowbrook University, 2012",
+      "score": 0.9835032224655151,
+      "box": [
+        116,
+        657,
+        496,
+        684
+      ]
+    },
+    {
+      "text": "•Studied fundamentals of search algorithms",
+      "score": 0.9824923276901245,
+      "box": [
+        129,
+        681,
+        543,
+        709
+      ]
+    },
+    {
+      "text": "Studied principles of distributed systems",
+      "score": 0.9899320006370544,
+      "box": [
+        131,
+        706,
+        521,
+        734
+      ]
+    }
+  ],
+  "seconds": 2.5420308001339436,
+  "id": "03750",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

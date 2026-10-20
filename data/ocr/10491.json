@@ -1,0 +1,172 @@
+{
+  "lines": [
+    {
+      "text": "ERIC TUCKER",
+      "score": 0.9988317489624023,
+      "box": [
+        118,
+        91,
+        347,
+        121
+      ]
+    },
+    {
+      "text": "CO, USA | +1-208-365-8107 | eric.tucker@example.com",
+      "score": 0.9750764966011047,
+      "box": [
+        118,
+        152,
+        639,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9990715980529785,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Brightscale Labs, 2020.052023.01",
+      "score": 0.9940026998519897,
+      "box": [
+        117,
+        290,
+        648,
+        314
+      ]
+    },
+    {
+      "text": "- Designed data storage strategies",
+      "score": 0.9984948635101318,
+      "box": [
+        127,
+        314,
+        450,
+        343
+      ]
+    },
+    {
+      "text": "- Led system reliability programs",
+      "score": 0.9760123491287231,
+      "box": [
+        128,
+        339,
+        430,
+        370
+      ]
+    },
+    {
+      "text": "Software Developers, Cloudfield Digital, 2017.082020.05",
+      "score": 0.9924198389053345,
+      "box": [
+        117,
+        383,
+        653,
+        407
+      ]
+    },
+    {
+      "text": "- Built data visualization tools",
+      "score": 0.9750990271568298,
+      "box": [
+        125,
+        406,
+        399,
+        432
+      ]
+    },
+    {
+      "text": "- Built reusable libraries",
+      "score": 0.9908438920974731,
+      "box": [
+        126,
+        430,
+        348,
+        458
+      ]
+    },
+    {
+      "text": "Software Developers, Datapath Solutions, 2014.112017.08",
+      "score": 0.992191731929779,
+      "box": [
+        117,
+        472,
+        673,
+        499
+      ]
+    },
+    {
+      "text": "- Performed basic performance profiling",
+      "score": 0.9784658551216125,
+      "box": [
+        127,
+        496,
+        497,
+        526
+      ]
+    },
+    {
+      "text": "- Wrote scripts for data processing tasks",
+      "score": 0.997979998588562,
+      "box": [
+        127,
+        520,
+        501,
+        551
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999494552612305,
+      "box": [
+        118,
+        588,
+        266,
+        612
+      ]
+    },
+    {
+      "text": "Bachelor's, Meadowway University, 2013",
+      "score": 0.9931347370147705,
+      "box": [
+        118,
+        633,
+        497,
+        657
+      ]
+    },
+    {
+      "text": "Completed coursework in real-time systems",
+      "score": 0.9823676347732544,
+      "box": [
+        130,
+        656,
+        555,
+        684
+      ]
+    },
+    {
+      "text": "Completed coursework in clean code principles",
+      "score": 0.9947599768638611,
+      "box": [
+        132,
+        680,
+        585,
+        709
+      ]
+    }
+  ],
+  "seconds": 2.315853300038725,
+  "id": "10491",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

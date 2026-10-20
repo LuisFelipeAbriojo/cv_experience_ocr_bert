@@ -1,0 +1,152 @@
+{
+  "lines": [
+    {
+      "text": "AARON VU",
+      "score": 0.9898926019668579,
+      "box": [
+        116,
+        89,
+        298,
+        123
+      ]
+    },
+    {
+      "text": "MA, USA | +1-598-788-3146 |aaron.vu@example.com",
+      "score": 0.9938253164291382,
+      "box": [
+        116,
+        150,
+        624,
+        177
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9990894794464111,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Softgrid Labs, 2020.02—2023.01",
+      "score": 0.9903044104576111,
+      "box": [
+        116,
+        290,
+        619,
+        317
+      ]
+    },
+    {
+      "text": "- Implemented long-term maintenance plans",
+      "score": 0.9962409138679504,
+      "box": [
+        129,
+        317,
+        537,
+        341
+      ]
+    },
+    {
+      "text": "- Defined scalability roadmaps",
+      "score": 0.983798086643219,
+      "box": [
+        128,
+        339,
+        410,
+        369
+      ]
+    },
+    {
+      "text": "Software Developers, Flowbyte Systems, 2017.03—2020.02",
+      "score": 0.9837185740470886,
+      "box": [
+        116,
+        380,
+        666,
+        408
+      ]
+    },
+    {
+      "text": "- Participated in code reviews",
+      "score": 0.9815438389778137,
+      "box": [
+        127,
+        408,
+        403,
+        432
+      ]
+    },
+    {
+      "text": "- Updated monitoring dashboards",
+      "score": 0.9964765906333923,
+      "box": [
+        129,
+        434,
+        437,
+        457
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999425411224365,
+      "box": [
+        116,
+        494,
+        267,
+        521
+      ]
+    },
+    {
+      "text": "Master's, Redwood University, 2017",
+      "score": 0.9818059206008911,
+      "box": [
+        115,
+        540,
+        452,
+        567
+      ]
+    },
+    {
+      "text": "Bachelor's, Woodcrest University, 2015",
+      "score": 0.9728992581367493,
+      "box": [
+        117,
+        567,
+        481,
+        591
+      ]
+    },
+    {
+      "text": "•Studied fundamentals of refactoring techniques",
+      "score": 0.9891480803489685,
+      "box": [
+        128,
+        590,
+        585,
+        618
+      ]
+    },
+    {
+      "text": "Completed coursework in clean code principles",
+      "score": 0.989781379699707,
+      "box": [
+        130,
+        614,
+        585,
+        644
+      ]
+    }
+  ],
+  "seconds": 2.2269255998544395,
+  "id": "25866",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

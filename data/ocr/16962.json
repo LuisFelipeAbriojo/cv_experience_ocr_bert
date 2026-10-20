@@ -1,0 +1,142 @@
+{
+  "lines": [
+    {
+      "text": "KELLI HUFF",
+      "score": 0.9989091753959656,
+      "box": [
+        117,
+        91,
+        313,
+        122
+      ]
+    },
+    {
+      "text": "ID, USA | +1-312-346-7586 | kelli.huff@example.com",
+      "score": 0.9667463898658752,
+      "box": [
+        117,
+        151,
+        609,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9991820454597473,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, OpenHands Nursing Services, 2021.022023.01",
+      "score": 0.9802089333534241,
+      "box": [
+        116,
+        288,
+        751,
+        318
+      ]
+    },
+    {
+      "text": "- Managed care delivery innovation",
+      "score": 0.9836586117744446,
+      "box": [
+        125,
+        313,
+        455,
+        342
+      ]
+    },
+    {
+      "text": "- Managed clinical workflow redesign",
+      "score": 0.9665746688842773,
+      "box": [
+        126,
+        338,
+        470,
+        368
+      ]
+    },
+    {
+      "text": "Registered Nurses, LifeNest Nursing Services, 2018.012020.01",
+      "score": 0.9953861236572266,
+      "box": [
+        116,
+        380,
+        715,
+        408
+      ]
+    },
+    {
+      "text": "- Checked laboratory results",
+      "score": 0.9846935868263245,
+      "box": [
+        126,
+        408,
+        391,
+        432
+      ]
+    },
+    {
+      "text": "- Assisted with diagnostic procedures",
+      "score": 0.9952669739723206,
+      "box": [
+        127,
+        431,
+        473,
+        458
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999279379844666,
+      "box": [
+        117,
+        494,
+        268,
+        521
+      ]
+    },
+    {
+      "text": "Bachelor's, Clinical Studies, Greenridge University, 2010",
+      "score": 0.9928115010261536,
+      "box": [
+        116,
+        540,
+        639,
+        566
+      ]
+    },
+    {
+      "text": "•Studied fundamentals of wound assessment",
+      "score": 0.9816353917121887,
+      "box": [
+        130,
+        566,
+        560,
+        591
+      ]
+    },
+    {
+      "text": "• Completed coursework in dosage calculations",
+      "score": 0.9873199462890625,
+      "box": [
+        132,
+        592,
+        572,
+        616
+      ]
+    }
+  ],
+  "seconds": 3.776323700323701,
+  "id": "16962",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

@@ -1,0 +1,182 @@
+{
+  "lines": [
+    {
+      "text": "ANNALISA KIRK",
+      "score": 0.9835178852081299,
+      "box": [
+        118,
+        91,
+        382,
+        122
+      ]
+    },
+    {
+      "text": "MD, USA | +1-954-667-1783 | annalisa.kirk@example.com",
+      "score": 0.9882954359054565,
+      "box": [
+        115,
+        150,
+        660,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9613265991210938,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Golden Minds Academy, 2020.05—2023.01",
+      "score": 0.9940416812896729,
+      "box": [
+        116,
+        288,
+        859,
+        318
+      ]
+    },
+    {
+      "text": "- Developed student performance metrics",
+      "score": 0.981819748878479,
+      "box": [
+        125,
+        314,
+        513,
+        343
+      ]
+    },
+    {
+      "text": "- Led professional development planning",
+      "score": 0.9882044792175293,
+      "box": [
+        127,
+        339,
+        505,
+        369
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Inspire Learning School, 2017.022019.11",
+      "score": 0.9926878213882446,
+      "box": [
+        116,
+        381,
+        857,
+        411
+      ]
+    },
+    {
+      "text": "- Administered standardized assessments",
+      "score": 0.9994993209838867,
+      "box": [
+        126,
+        409,
+        517,
+        433
+      ]
+    },
+    {
+      "text": "- Prepared test review sessions",
+      "score": 0.9975245594978333,
+      "box": [
+        126,
+        432,
+        421,
+        458
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Learning Way Academy, 2013.03—2015.12",
+      "score": 0.9892660975456238,
+      "box": [
+        118,
+        473,
+        860,
+        500
+      ]
+    },
+    {
+      "text": "- Prepared daily lesson plans aligned with curriculum guidelines",
+      "score": 0.9827139377593994,
+      "box": [
+        127,
+        499,
+        717,
+        526
+      ]
+    },
+    {
+      "text": "- Tracked student participation",
+      "score": 0.9973379373550415,
+      "box": [
+        127,
+        521,
+        412,
+        551
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9998999834060669,
+      "box": [
+        117,
+        587,
+        267,
+        614
+      ]
+    },
+    {
+      "text": "Master's, Youth Studies, Willowcrest University, 2008",
+      "score": 0.9817160964012146,
+      "box": [
+        116,
+        632,
+        609,
+        657
+      ]
+    },
+    {
+      "text": "Bachelor's, Education Studies, Riverhaven University, 2006",
+      "score": 0.9890526533126831,
+      "box": [
+        115,
+        656,
+        667,
+        684
+      ]
+    },
+    {
+      "text": "• Completed coursework in reading instruction",
+      "score": 0.9911879897117615,
+      "box": [
+        133,
+        684,
+        560,
+        708
+      ]
+    },
+    {
+      "text": "• Studied principles of behavior management",
+      "score": 0.976889431476593,
+      "box": [
+        132,
+        706,
+        552,
+        736
+      ]
+    }
+  ],
+  "seconds": 2.6585367997176945,
+  "id": "24827",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

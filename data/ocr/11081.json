@@ -1,0 +1,182 @@
+{
+  "lines": [
+    {
+      "text": "ANDREW THORNTON",
+      "score": 0.9985063076019287,
+      "box": [
+        118,
+        93,
+        465,
+        120
+      ]
+    },
+    {
+      "text": "CT, USA | +1-906-213-4405 | andrew.thornton@example.com",
+      "score": 0.9856826663017273,
+      "box": [
+        116,
+        150,
+        691,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9991443157196045,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Integrity Books Group, 2020.04—2023.01",
+      "score": 0.9749249815940857,
+      "box": [
+        114,
+        287,
+        702,
+        318
+      ]
+    },
+    {
+      "text": "- Designed tax strategies",
+      "score": 0.9974831938743591,
+      "box": [
+        127,
+        315,
+        361,
+        343
+      ]
+    },
+    {
+      "text": "- Designed financial oversight systems",
+      "score": 0.9905514121055603,
+      "box": [
+        127,
+        339,
+        485,
+        369
+      ]
+    },
+    {
+      "text": "Accountants Auditors, ClearBalance Services, 2017.062020.04",
+      "score": 0.984911322593689,
+      "box": [
+        116,
+        382,
+        712,
+        409
+      ]
+    },
+    {
+      "text": "- Conducted inventory valuation",
+      "score": 0.9948484301567078,
+      "box": [
+        127,
+        409,
+        423,
+        433
+      ]
+    },
+    {
+      "text": "- Supervised junior accountants",
+      "score": 0.9915024042129517,
+      "box": [
+        127,
+        431,
+        422,
+        459
+      ]
+    },
+    {
+      "text": "Accountants Auditors, ClearPath Financial, 2014.082017.06",
+      "score": 0.990868330001831,
+      "box": [
+        116,
+        471,
+        683,
+        499
+      ]
+    },
+    {
+      "text": "- Matched invoices to purchase orders",
+      "score": 0.9958901405334473,
+      "box": [
+        125,
+        497,
+        484,
+        525
+      ]
+    },
+    {
+      "text": "- Maintained accounting software records",
+      "score": 0.9898155331611633,
+      "box": [
+        127,
+        521,
+        510,
+        550
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999152421951294,
+      "box": [
+        117,
+        587,
+        267,
+        614
+      ]
+    },
+    {
+      "text": "Master's, Applied Finance, Silver Ridge University, 2013",
+      "score": 0.9911193251609802,
+      "box": [
+        116,
+        632,
+        637,
+        659
+      ]
+    },
+    {
+      "text": "Bachelor's, Supply Chain Management, Cloverfield University, 2011",
+      "score": 0.9981833696365356,
+      "box": [
+        115,
+        656,
+        743,
+        685
+      ]
+    },
+    {
+      "text": "•Studied principles of financial forecasting",
+      "score": 0.9899997711181641,
+      "box": [
+        129,
+        681,
+        528,
+        711
+      ]
+    },
+    {
+      "text": "•Studied fundamentals of revenue cycle management",
+      "score": 0.9933692216873169,
+      "box": [
+        130,
+        706,
+        636,
+        735
+      ]
+    }
+  ],
+  "seconds": 2.716367600020021,
+  "id": "11081",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

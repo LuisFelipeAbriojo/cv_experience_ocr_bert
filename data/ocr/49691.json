@@ -1,0 +1,112 @@
+{
+  "lines": [
+    {
+      "text": "ELIAS WOLFE",
+      "score": 0.9969860315322876,
+      "box": [
+        116,
+        87,
+        347,
+        123
+      ]
+    },
+    {
+      "text": "TX, USA | +1-262-737-5793 | elias.wolfe@example.com",
+      "score": 0.997468888759613,
+      "box": [
+        117,
+        149,
+        636,
+        177
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9997382164001465,
+      "box": [
+        117,
+        243,
+        317,
+        270
+      ]
+    },
+    {
+      "text": "Construction Laborers, SureLine Construction, 2022.07-2023.01",
+      "score": 0.9830739498138428,
+      "box": [
+        116,
+        287,
+        714,
+        315
+      ]
+    },
+    {
+      "text": "- Secured site fencing",
+      "score": 0.9831923842430115,
+      "box": [
+        125,
+        312,
+        331,
+        342
+      ]
+    },
+    {
+      "text": "- Marked measurements on materials",
+      "score": 0.9829311370849609,
+      "box": [
+        126,
+        339,
+        474,
+        364
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999359846115112,
+      "box": [
+        116,
+        404,
+        268,
+        431
+      ]
+    },
+    {
+      "text": "Some college (no degree), Welding Technology, Rolling Hills University, 2023",
+      "score": 0.9806795716285706,
+      "box": [
+        115,
+        445,
+        834,
+        476
+      ]
+    },
+    {
+      "text": "Completed coursework in building layout techniques",
+      "score": 0.9799949526786804,
+      "box": [
+        130,
+        472,
+        630,
+        501
+      ]
+    },
+    {
+      "text": "Studied principles of environmental safety",
+      "score": 0.9991434812545776,
+      "box": [
+        132,
+        497,
+        535,
+        526
+      ]
+    }
+  ],
+  "seconds": 1.976734900381416,
+  "id": "49691",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

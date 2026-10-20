@@ -1,0 +1,142 @@
+{
+  "lines": [
+    {
+      "text": "JUSTIN LIN",
+      "score": 0.9998807907104492,
+      "box": [
+        116,
+        91,
+        300,
+        122
+      ]
+    },
+    {
+      "text": "CA, USA | +1-604-255-8955 | justin.lin@example.com",
+      "score": 0.9625928997993469,
+      "box": [
+        117,
+        150,
+        616,
+        177
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9991734027862549,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, TrustCount Financial, 2020.05—2023.01",
+      "score": 0.9984796047210693,
+      "box": [
+        116,
+        289,
+        691,
+        314
+      ]
+    },
+    {
+      "text": "- Established audit governance structures",
+      "score": 0.9466260671615601,
+      "box": [
+        126,
+        315,
+        513,
+        341
+      ]
+    },
+    {
+      "text": "- Developed regulatory reporting strategies",
+      "score": 0.9987778663635254,
+      "box": [
+        128,
+        340,
+        525,
+        368
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Balanced Path Accounting, 2017.082020.05",
+      "score": 0.9963362216949463,
+      "box": [
+        116,
+        380,
+        745,
+        409
+      ]
+    },
+    {
+      "text": "- Verified financial transactions",
+      "score": 0.9822562336921692,
+      "box": [
+        125,
+        407,
+        414,
+        432
+      ]
+    },
+    {
+      "text": "- Processed journal corrections",
+      "score": 0.9991568326950073,
+      "box": [
+        127,
+        431,
+        417,
+        457
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999377727508545,
+      "box": [
+        117,
+        494,
+        268,
+        521
+      ]
+    },
+    {
+      "text": "Bachelor's, Accounting Practice, Pinecrest University, 2019",
+      "score": 0.9841347932815552,
+      "box": [
+        117,
+        542,
+        664,
+        566
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of business valuation",
+      "score": 0.9844748973846436,
+      "box": [
+        131,
+        567,
+        552,
+        590
+      ]
+    },
+    {
+      "text": "•Completed coursework in accounting analytics basics",
+      "score": 0.9960892796516418,
+      "box": [
+        131,
+        591,
+        641,
+        616
+      ]
+    }
+  ],
+  "seconds": 2.3741484000347555,
+  "id": "09304",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

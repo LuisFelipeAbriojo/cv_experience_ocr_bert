@@ -1,0 +1,152 @@
+{
+  "lines": [
+    {
+      "text": "JAMISON HESS",
+      "score": 0.9997246265411377,
+      "box": [
+        116,
+        91,
+        370,
+        122
+      ]
+    },
+    {
+      "text": "PA, USA | +1-560-382-2333 | jamison.hess@example.com",
+      "score": 0.972021758556366,
+      "box": [
+        117,
+        152,
+        661,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9991067051887512,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, CoreBooks Group, 2020.05—2023.01",
+      "score": 0.9911583662033081,
+      "box": [
+        115,
+        288,
+        666,
+        316
+      ]
+    },
+    {
+      "text": "- Led audit programs",
+      "score": 0.9993807077407837,
+      "box": [
+        126,
+        315,
+        323,
+        342
+      ]
+    },
+    {
+      "text": "- Led accounting transformation projects",
+      "score": 0.9820648431777954,
+      "box": [
+        129,
+        342,
+        500,
+        366
+      ]
+    },
+    {
+      "text": "Accountants Auditors, SteadyLedger Services, 2017.09—2020.05",
+      "score": 0.9881470799446106,
+      "box": [
+        116,
+        380,
+        717,
+        408
+      ]
+    },
+    {
+      "text": "- Assisted with financial statement preparation",
+      "score": 0.983305811882019,
+      "box": [
+        125,
+        407,
+        555,
+        432
+      ]
+    },
+    {
+      "text": "- Assisted with audit fieldwork",
+      "score": 0.9904085993766785,
+      "box": [
+        128,
+        433,
+        405,
+        455
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999418258666992,
+      "box": [
+        116,
+        494,
+        268,
+        521
+      ]
+    },
+    {
+      "text": "Master's, Business Economics, Maple Ridge University, 2018",
+      "score": 0.989062488079071,
+      "box": [
+        114,
+        539,
+        685,
+        567
+      ]
+    },
+    {
+      "text": "Bachelor's, Financial Analysis, Driftwood University, 2016",
+      "score": 0.9893778562545776,
+      "box": [
+        117,
+        567,
+        648,
+        591
+      ]
+    },
+    {
+      "text": "•Studied fundamentals of depreciation methods",
+      "score": 0.983306348323822,
+      "box": [
+        129,
+        591,
+        578,
+        615
+      ]
+    },
+    {
+      "text": "Completed coursework in segment reporting",
+      "score": 0.9812341928482056,
+      "box": [
+        130,
+        614,
+        557,
+        645
+      ]
+    }
+  ],
+  "seconds": 2.550536500290036,
+  "id": "44748",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

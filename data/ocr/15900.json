@@ -1,0 +1,182 @@
+{
+  "lines": [
+    {
+      "text": "SANDRA KNIGHT",
+      "score": 0.9997420907020569,
+      "box": [
+        117,
+        91,
+        397,
+        122
+      ]
+    },
+    {
+      "text": "GA, USA | +1-457-349-8795 | sandra.knight@example.com",
+      "score": 0.9815933108329773,
+      "box": [
+        116,
+        150,
+        667,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9991946220397949,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Kind Path School, 2019.102023.01",
+      "score": 0.9927815794944763,
+      "box": [
+        117,
+        289,
+        798,
+        316
+      ]
+    },
+    {
+      "text": "- Implemented data analysis frameworks",
+      "score": 0.9887809753417969,
+      "box": [
+        126,
+        315,
+        503,
+        340
+      ]
+    },
+    {
+      "text": "- Directed academic intervention strategies",
+      "score": 0.9770252108573914,
+      "box": [
+        126,
+        338,
+        525,
+        368
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Willow Grove School, 2015.112019.03",
+      "score": 0.9711270928382874,
+      "box": [
+        117,
+        382,
+        831,
+        409
+      ]
+    },
+    {
+      "text": "- Reviewed and updated curriculum materials",
+      "score": 0.9858623743057251,
+      "box": [
+        127,
+        409,
+        549,
+        433
+      ]
+    },
+    {
+      "text": "- Prepared differentiated worksheets",
+      "score": 0.9749889373779297,
+      "box": [
+        128,
+        434,
+        465,
+        457
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Harmony Field Academy, 2011.042014.08",
+      "score": 0.9964334964752197,
+      "box": [
+        119,
+        474,
+        865,
+        498
+      ]
+    },
+    {
+      "text": "- Conducted group reading activities",
+      "score": 0.9981110095977783,
+      "box": [
+        125,
+        497,
+        464,
+        525
+      ]
+    },
+    {
+      "text": "- Implemented lesson pacing guidelines",
+      "score": 0.9874104857444763,
+      "box": [
+        128,
+        521,
+        495,
+        551
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999219179153442,
+      "box": [
+        117,
+        587,
+        267,
+        614
+      ]
+    },
+    {
+      "text": "Professional degree, Academic Support Studies, Lakewood University, 2008",
+      "score": 0.9939603805541992,
+      "box": [
+        114,
+        629,
+        824,
+        660
+      ]
+    },
+    {
+      "text": "Bachelor's, General Education, Northview University, 2004",
+      "score": 0.9846073389053345,
+      "box": [
+        115,
+        656,
+        660,
+        684
+      ]
+    },
+    {
+      "text": "• Studied principles of classroom learning outcomes",
+      "score": 0.9701783657073975,
+      "box": [
+        131,
+        684,
+        614,
+        708
+      ]
+    },
+    {
+      "text": "Studied principles of lesson coherence",
+      "score": 0.9859097003936768,
+      "box": [
+        131,
+        706,
+        507,
+        736
+      ]
+    }
+  ],
+  "seconds": 2.883109400048852,
+  "id": "15900",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

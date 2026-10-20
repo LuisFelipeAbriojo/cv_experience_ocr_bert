@@ -1,0 +1,142 @@
+{
+  "lines": [
+    {
+      "text": "LAURA LAWRENCE",
+      "score": 0.9980181455612183,
+      "box": [
+        118,
+        91,
+        438,
+        122
+      ]
+    },
+    {
+      "text": "MD, USA | +1-599-387-9945 | laura.lawrence@example.com",
+      "score": 0.9691771864891052,
+      "box": [
+        117,
+        152,
+        679,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9990568161010742,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Growing Path Academy, 2020.07—2023.01",
+      "score": 0.9881222248077393,
+      "box": [
+        115,
+        287,
+        856,
+        318
+      ]
+    },
+    {
+      "text": "- Developed district-aligned lesson frameworks",
+      "score": 0.9852533936500549,
+      "box": [
+        125,
+        314,
+        562,
+        342
+      ]
+    },
+    {
+      "text": "- Led strategic curriculum planning",
+      "score": 0.9824931621551514,
+      "box": [
+        127,
+        339,
+        450,
+        370
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Bright Minds School, 2015.02—2017.08",
+      "score": 0.9901300072669983,
+      "box": [
+        117,
+        382,
+        823,
+        409
+      ]
+    },
+    {
+      "text": "- Distributed instructional handouts",
+      "score": 0.9735820293426514,
+      "box": [
+        126,
+        407,
+        452,
+        433
+      ]
+    },
+    {
+      "text": "- Organized classroom learning resources",
+      "score": 0.9985586404800415,
+      "box": [
+        127,
+        431,
+        517,
+        460
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999363422393799,
+      "box": [
+        117,
+        494,
+        267,
+        521
+      ]
+    },
+    {
+      "text": "Bachelor's, Introductory Education, Briar Ridge University, 2009",
+      "score": 0.9914790391921997,
+      "box": [
+        116,
+        541,
+        705,
+        568
+      ]
+    },
+    {
+      "text": "•Studied fundamentals of early math instruction",
+      "score": 0.9841383099555969,
+      "box": [
+        130,
+        566,
+        578,
+        591
+      ]
+    },
+    {
+      "text": "Completed coursework in basic mentoring strategies",
+      "score": 0.9916393160820007,
+      "box": [
+        131,
+        590,
+        632,
+        618
+      ]
+    }
+  ],
+  "seconds": 2.4881450003013015,
+  "id": "24328",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

@@ -1,0 +1,202 @@
+{
+  "lines": [
+    {
+      "text": "JUSTIN FRANKLIN",
+      "score": 0.9995776414871216,
+      "box": [
+        117,
+        93,
+        417,
+        120
+      ]
+    },
+    {
+      "text": "TN, USA | +1-757-249-6162 | justin.franklin@example.com",
+      "score": 0.9929420351982117,
+      "box": [
+        118,
+        149,
+        661,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9966970086097717,
+      "box": [
+        117,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, SolidForm Contractors, 2020.05—2023.01",
+      "score": 0.986452043056488,
+      "box": [
+        116,
+        288,
+        717,
+        316
+      ]
+    },
+    {
+      "text": "- Developed construction workflows",
+      "score": 0.9879158139228821,
+      "box": [
+        126,
+        315,
+        457,
+        341
+      ]
+    },
+    {
+      "text": "- Reviewed material quality standards",
+      "score": 0.9918283224105835,
+      "box": [
+        126,
+        339,
+        477,
+        367
+      ]
+    },
+    {
+      "text": "Construction Laborers, StrongFrame Builders, 2017.092020.05",
+      "score": 0.9926477074623108,
+      "box": [
+        117,
+        382,
+        713,
+        409
+      ]
+    },
+    {
+      "text": "- Reviewed material specifications",
+      "score": 0.997793972492218,
+      "box": [
+        126,
+        409,
+        445,
+        433
+      ]
+    },
+    {
+      "text": "- Reviewed material quality standards",
+      "score": 0.9983736276626587,
+      "box": [
+        128,
+        434,
+        476,
+        457
+      ]
+    },
+    {
+      "text": "Construction Laborers, FirmRise Construction, 2015.01—2017.09",
+      "score": 0.9851714968681335,
+      "box": [
+        117,
+        472,
+        714,
+        497
+      ]
+    },
+    {
+      "text": "- Installed support beams",
+      "score": 0.9730311036109924,
+      "box": [
+        125,
+        497,
+        366,
+        526
+      ]
+    },
+    {
+      "text": "- Interpreted blueprints for task execution",
+      "score": 0.9993406534194946,
+      "box": [
+        127,
+        521,
+        509,
+        549
+      ]
+    },
+    {
+      "text": "Construction Laborers, Precision Frame Builders, 2012.05—2015.01",
+      "score": 0.9927801489830017,
+      "box": [
+        118,
+        566,
+        740,
+        589
+      ]
+    },
+    {
+      "text": "- Secured materials with fasteners",
+      "score": 0.9993300437927246,
+      "box": [
+        126,
+        590,
+        447,
+        615
+      ]
+    },
+    {
+      "text": "- Carried materials to designated work areas",
+      "score": 0.979596734046936,
+      "box": [
+        126,
+        613,
+        541,
+        643
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999938428401947,
+      "box": [
+        117,
+        681,
+        266,
+        705
+      ]
+    },
+    {
+      "text": "Some college (no degree), Heavy Equipment Operation, Oakview University, 2016",
+      "score": 0.9938804507255554,
+      "box": [
+        115,
+        723,
+        879,
+        750
+      ]
+    },
+    {
+      "text": "•Studied fundamentals of job site inspections",
+      "score": 0.9979708194732666,
+      "box": [
+        131,
+        749,
+        557,
+        775
+      ]
+    },
+    {
+      "text": "Completed coursework in structural reinforcement methods",
+      "score": 0.9993796348571777,
+      "box": [
+        132,
+        772,
+        695,
+        800
+      ]
+    }
+  ],
+  "seconds": 2.9985830998048186,
+  "id": "49121",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

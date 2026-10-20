@@ -1,0 +1,172 @@
+{
+  "lines": [
+    {
+      "text": "CRISTIN RANDOLPH",
+      "score": 0.9998186826705933,
+      "box": [
+        118,
+        91,
+        450,
+        122
+      ]
+    },
+    {
+      "text": "SC, USA | +1-532-997-7948 | cristin.randolph@example.com",
+      "score": 0.9792987108230591,
+      "box": [
+        116,
+        150,
+        682,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9991585612297058,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, GentleWay Health, 2020.112023.01",
+      "score": 0.9928127527236938,
+      "box": [
+        115,
+        287,
+        645,
+        318
+      ]
+    },
+    {
+      "text": "- Managed clinical resource planning",
+      "score": 0.9817672371864319,
+      "box": [
+        125,
+        313,
+        469,
+        344
+      ]
+    },
+    {
+      "text": "- Developed patient safety programs",
+      "score": 0.9915125370025635,
+      "box": [
+        127,
+        339,
+        465,
+        371
+      ]
+    },
+    {
+      "text": "Registered Nurses, WellWay Nursing Services, 2017.032019.05",
+      "score": 0.9952490329742432,
+      "box": [
+        117,
+        382,
+        721,
+        409
+      ]
+    },
+    {
+      "text": "- Reviewed diagnostic imaging results",
+      "score": 0.9845514893531799,
+      "box": [
+        124,
+        406,
+        480,
+        434
+      ]
+    },
+    {
+      "text": "- Administered complex medication regimens",
+      "score": 0.9874851703643799,
+      "box": [
+        127,
+        432,
+        545,
+        458
+      ]
+    },
+    {
+      "text": "Registered Nurses, ClearWay Health Group, 2013.072015.10",
+      "score": 0.9974007606506348,
+      "box": [
+        118,
+        474,
+        697,
+        498
+      ]
+    },
+    {
+      "text": "- Provided post-procedure care",
+      "score": 0.988571047782898,
+      "box": [
+        126,
+        497,
+        420,
+        526
+      ]
+    },
+    {
+      "text": "- Conducted basic patient assessments",
+      "score": 0.995832085609436,
+      "box": [
+        127,
+        521,
+        493,
+        550
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999123811721802,
+      "box": [
+        117,
+        587,
+        267,
+        614
+      ]
+    },
+    {
+      "text": "Bachelor's, Medical Assisting, Skyview University, 2007",
+      "score": 0.991402268409729,
+      "box": [
+        117,
+        632,
+        630,
+        659
+      ]
+    },
+    {
+      "text": "•Studied principles of endocrine nursing",
+      "score": 0.9878942370414734,
+      "box": [
+        129,
+        657,
+        509,
+        686
+      ]
+    },
+    {
+      "text": "Completed coursework in nursing ethics",
+      "score": 0.9912731647491455,
+      "box": [
+        131,
+        681,
+        518,
+        710
+      ]
+    }
+  ],
+  "seconds": 3.3594734999351203,
+  "id": "47818",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

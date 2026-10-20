@@ -1,0 +1,212 @@
+{
+  "lines": [
+    {
+      "text": "ANNA TYLER",
+      "score": 0.9989923238754272,
+      "box": [
+        117,
+        91,
+        334,
+        122
+      ]
+    },
+    {
+      "text": "GA, USA | +1-699-568-3102 | anna.tyler@example.com",
+      "score": 0.9958798289299011,
+      "box": [
+        116,
+        150,
+        633,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9989857077598572,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Golden Futures Academy, 2018.11—2023.01",
+      "score": 0.9887288808822632,
+      "box": [
+        117,
+        290,
+        873,
+        317
+      ]
+    },
+    {
+      "text": "- Designed literacy development programs",
+      "score": 0.9997245669364929,
+      "box": [
+        125,
+        315,
+        522,
+        343
+      ]
+    },
+    {
+      "text": "- Designed assessment systems",
+      "score": 0.9957700371742249,
+      "box": [
+        126,
+        339,
+        431,
+        371
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Harmony Learning Center, 2014.09—2018.11",
+      "score": 0.9877447485923767,
+      "box": [
+        116,
+        381,
+        879,
+        411
+      ]
+    },
+    {
+      "text": "- Led professional development planning",
+      "score": 0.9929400682449341,
+      "box": [
+        127,
+        408,
+        504,
+        434
+      ]
+    },
+    {
+      "text": "- Established academic quality controls",
+      "score": 0.9878398180007935,
+      "box": [
+        126,
+        431,
+        490,
+        458
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Harmony Horizons Academy, 2010.072014.09",
+      "score": 0.9915478229522705,
+      "box": [
+        117,
+        472,
+        904,
+        499
+      ]
+    },
+    {
+      "text": "- Analyzed assessment trends",
+      "score": 0.9995669722557068,
+      "box": [
+        125,
+        497,
+        411,
+        525
+      ]
+    },
+    {
+      "text": "- Developed progress monitoring tools",
+      "score": 0.9939747452735901,
+      "box": [
+        127,
+        521,
+        482,
+        551
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Learning Minds School, 2006.052010.07",
+      "score": 0.9947501420974731,
+      "box": [
+        117,
+        565,
+        850,
+        592
+      ]
+    },
+    {
+      "text": "- Prepared lesson summaries",
+      "score": 0.9994040727615356,
+      "box": [
+        126,
+        591,
+        403,
+        617
+      ]
+    },
+    {
+      "text": "- Supervised classroom activities",
+      "score": 0.9886211156845093,
+      "box": [
+        126,
+        614,
+        434,
+        642
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999219179153442,
+      "box": [
+        117,
+        681,
+        266,
+        705
+      ]
+    },
+    {
+      "text": "Master's, Student Learning Studies, Northfield University, 2008",
+      "score": 0.9897845387458801,
+      "box": [
+        115,
+        723,
+        699,
+        750
+      ]
+    },
+    {
+      "text": "Bachelor's, Basic Education Studies, Maple Ridge University, 2006",
+      "score": 0.9850272536277771,
+      "box": [
+        114,
+        746,
+        737,
+        777
+      ]
+    },
+    {
+      "text": "•Completed coursework in creative teaching strategies",
+      "score": 0.9821478128433228,
+      "box": [
+        129,
+        773,
+        644,
+        802
+      ]
+    },
+    {
+      "text": "•Studied principles of lesson planning",
+      "score": 0.9756977558135986,
+      "box": [
+        131,
+        798,
+        486,
+        827
+      ]
+    }
+  ],
+  "seconds": 3.1898888000287116,
+  "id": "14942",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

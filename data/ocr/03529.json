@@ -1,0 +1,212 @@
+{
+  "lines": [
+    {
+      "text": "DANIEL WILEY",
+      "score": 0.9894397854804993,
+      "box": [
+        117,
+        91,
+        358,
+        121
+      ]
+    },
+    {
+      "text": "CA, USA | +1-805-774-5911 | daniel.wiley@example.com",
+      "score": 0.9919083714485168,
+      "box": [
+        116,
+        150,
+        648,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9987226128578186,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Datawave Systems, 2020.05—2023.01",
+      "score": 0.9900738596916199,
+      "box": [
+        115,
+        289,
+        674,
+        317
+      ]
+    },
+    {
+      "text": "- Led technical roadmap planning",
+      "score": 0.9997849464416504,
+      "box": [
+        126,
+        315,
+        437,
+        342
+      ]
+    },
+    {
+      "text": "- Led technical audits",
+      "score": 0.9980499148368835,
+      "box": [
+        128,
+        339,
+        327,
+        365
+      ]
+    },
+    {
+      "text": "Software Developers, Corefield Software, 2017.082020.05",
+      "score": 0.9928047060966492,
+      "box": [
+        116,
+        382,
+        669,
+        409
+      ]
+    },
+    {
+      "text": "- Led database design efforts",
+      "score": 0.9970025420188904,
+      "box": [
+        128,
+        408,
+        400,
+        433
+      ]
+    },
+    {
+      "text": "- Led backend platform development",
+      "score": 0.9997806549072266,
+      "box": [
+        129,
+        434,
+        468,
+        457
+      ]
+    },
+    {
+      "text": "Software Developers, Brightstack Systems, 2013.112016.08",
+      "score": 0.991635262966156,
+      "box": [
+        116,
+        471,
+        686,
+        499
+      ]
+    },
+    {
+      "text": "- Implemented error handling frameworks",
+      "score": 0.9759170413017273,
+      "box": [
+        126,
+        497,
+        512,
+        525
+      ]
+    },
+    {
+      "text": "- Integrated third-party services",
+      "score": 0.9877921342849731,
+      "box": [
+        128,
+        521,
+        420,
+        552
+      ]
+    },
+    {
+      "text": "Software Developers, Clearpath Systems, 2009.082012.05",
+      "score": 0.9997996687889099,
+      "box": [
+        116,
+        565,
+        674,
+        592
+      ]
+    },
+    {
+      "text": "- Updated database schemas",
+      "score": 0.9993199706077576,
+      "box": [
+        130,
+        592,
+        403,
+        616
+      ]
+    },
+    {
+      "text": "- Handled input sanitization",
+      "score": 0.9995523691177368,
+      "box": [
+        127,
+        613,
+        382,
+        644
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999136328697205,
+      "box": [
+        117,
+        681,
+        266,
+        705
+      ]
+    },
+    {
+      "text": "Master's, Goldenwood University, 2007",
+      "score": 0.9944814443588257,
+      "box": [
+        116,
+        724,
+        481,
+        750
+      ]
+    },
+    {
+      "text": "Bachelor's, Stoneview University, 2005",
+      "score": 0.9871281981468201,
+      "box": [
+        117,
+        750,
+        477,
+        774
+      ]
+    },
+    {
+      "text": "• Completed coursework in mobile application development",
+      "score": 0.9831039309501648,
+      "box": [
+        131,
+        775,
+        682,
+        799
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of user interface development",
+      "score": 0.9833621978759766,
+      "box": [
+        132,
+        800,
+        631,
+        824
+      ]
+    }
+  ],
+  "seconds": 2.6001189998351038,
+  "id": "03529",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

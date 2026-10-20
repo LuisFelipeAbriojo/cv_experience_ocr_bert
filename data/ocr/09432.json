@@ -1,0 +1,202 @@
+{
+  "lines": [
+    {
+      "text": "SINDHU HUYNH",
+      "score": 0.9996271133422852,
+      "box": [
+        117,
+        92,
+        375,
+        122
+      ]
+    },
+    {
+      "text": "CA, USA | +1-886-611-1824 | sindhu.huynh@example.com",
+      "score": 0.9794517159461975,
+      "box": [
+        116,
+        150,
+        665,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9978634715080261,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, SolidLedger Financial, 2019.12—2023.01",
+      "score": 0.9847200512886047,
+      "box": [
+        114,
+        287,
+        701,
+        318
+      ]
+    },
+    {
+      "text": "- Established financial reporting standards",
+      "score": 0.984682559967041,
+      "box": [
+        127,
+        317,
+        518,
+        341
+      ]
+    },
+    {
+      "text": "- Directed accounting training programs",
+      "score": 0.9933209419250488,
+      "box": [
+        127,
+        340,
+        495,
+        369
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Integrity Balance Advisors, 2016.112019.12",
+      "score": 0.9985235929489136,
+      "box": [
+        117,
+        382,
+        743,
+        409
+      ]
+    },
+    {
+      "text": "- Designed tax strategies",
+      "score": 0.9851276874542236,
+      "box": [
+        127,
+        409,
+        361,
+        433
+      ]
+    },
+    {
+      "text": "- Directed strategic accounting initiatives",
+      "score": 0.987872302532196,
+      "box": [
+        125,
+        431,
+        503,
+        459
+      ]
+    },
+    {
+      "text": "Accountants Auditors, EverBalance Services, 2013.102016.11",
+      "score": 0.9990994930267334,
+      "box": [
+        117,
+        474,
+        704,
+        498
+      ]
+    },
+    {
+      "text": "- Managed fixed asset accounting",
+      "score": 0.9993764758110046,
+      "box": [
+        125,
+        497,
+        442,
+        526
+      ]
+    },
+    {
+      "text": "- Reviewed expense allocations",
+      "score": 0.9874165058135986,
+      "box": [
+        127,
+        521,
+        423,
+        551
+      ]
+    },
+    {
+      "text": "Accountants Auditors, OpenPath Accounting, 2010.082013.10",
+      "score": 0.9987856149673462,
+      "box": [
+        117,
+        565,
+        702,
+        589
+      ]
+    },
+    {
+      "text": "- Filed financial documents",
+      "score": 0.9747679233551025,
+      "box": [
+        127,
+        591,
+        378,
+        615
+      ]
+    },
+    {
+      "text": "- Compiled audit evidence",
+      "score": 0.9791195392608643,
+      "box": [
+        126,
+        613,
+        372,
+        643
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9998738765716553,
+      "box": [
+        117,
+        681,
+        266,
+        705
+      ]
+    },
+    {
+      "text": "Bachelor's, Management Information Systems, Stonefield University, 2010",
+      "score": 0.994047224521637,
+      "box": [
+        117,
+        726,
+        802,
+        749
+      ]
+    },
+    {
+      "text": "•Studied principles of financial forecasting",
+      "score": 0.976464033126831,
+      "box": [
+        129,
+        748,
+        529,
+        776
+      ]
+    },
+    {
+      "text": "•Studied fundamentals of employee benefit accounting",
+      "score": 0.9928845763206482,
+      "box": [
+        131,
+        774,
+        644,
+        800
+      ]
+    }
+  ],
+  "seconds": 2.9083771998994052,
+  "id": "09432",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

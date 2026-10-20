@@ -1,0 +1,162 @@
+{
+  "lines": [
+    {
+      "text": "YOVANI YORK",
+      "score": 0.9623973965644836,
+      "box": [
+        117,
+        90,
+        351,
+        121
+      ]
+    },
+    {
+      "text": "PA, USA | +1-288-343-8200 | yovani.york@example.com",
+      "score": 0.9754571318626404,
+      "box": [
+        117,
+        152,
+        644,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9943814277648926,
+      "box": [
+        117,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, Unified Craft Builders, 2020.11—2023.01",
+      "score": 0.9919421672821045,
+      "box": [
+        118,
+        290,
+        703,
+        314
+      ]
+    },
+    {
+      "text": "- Led operational planning",
+      "score": 0.999611496925354,
+      "box": [
+        125,
+        313,
+        372,
+        343
+      ]
+    },
+    {
+      "text": "- Directed site safety audits",
+      "score": 0.9833818078041077,
+      "box": [
+        126,
+        339,
+        381,
+        367
+      ]
+    },
+    {
+      "text": "Construction Laborers, ClearPoint Builders, 2018.09—2020.11",
+      "score": 0.9847384691238403,
+      "box": [
+        117,
+        381,
+        686,
+        406
+      ]
+    },
+    {
+      "text": "- Supervised junior laborers",
+      "score": 0.9934294819831848,
+      "box": [
+        125,
+        409,
+        385,
+        432
+      ]
+    },
+    {
+      "text": "- Installed door and window frames",
+      "score": 0.9861893653869629,
+      "box": [
+        128,
+        433,
+        452,
+        456
+      ]
+    },
+    {
+      "text": "Construction Laborers, CornerLine Contractors, 2015.032017.06",
+      "score": 0.9967955350875854,
+      "box": [
+        118,
+        473,
+        725,
+        497
+      ]
+    },
+    {
+      "text": "- Assisted with roofing material handling",
+      "score": 0.9913354516029358,
+      "box": [
+        125,
+        495,
+        499,
+        526
+      ]
+    },
+    {
+      "text": "- Carried materials to designated work areas",
+      "score": 0.9939858913421631,
+      "box": [
+        129,
+        520,
+        540,
+        550
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9998772144317627,
+      "box": [
+        117,
+        586,
+        267,
+        613
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Building Systems, Willow Ridge High School, 2011",
+      "score": 0.9913560152053833,
+      "box": [
+        117,
+        632,
+        844,
+        659
+      ]
+    },
+    {
+      "text": "•Studied principles of site hazard controls",
+      "score": 0.9898071885108948,
+      "box": [
+        130,
+        657,
+        524,
+        682
+      ]
+    }
+  ],
+  "seconds": 2.4629949000664055,
+  "id": "45546",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

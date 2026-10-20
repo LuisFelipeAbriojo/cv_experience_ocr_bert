@@ -1,0 +1,132 @@
+{
+  "lines": [
+    {
+      "text": "MARQUIZE HOWE",
+      "score": 0.9990209937095642,
+      "box": [
+        117,
+        90,
+        410,
+        122
+      ]
+    },
+    {
+      "text": "WY, USA | +1-927-595-4785 | marquize.howe@example.com",
+      "score": 0.9934170842170715,
+      "box": [
+        117,
+        152,
+        687,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9991051554679871,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, NextGen Builders, 2021.032023.01",
+      "score": 0.9984126687049866,
+      "box": [
+        118,
+        290,
+        670,
+        314
+      ]
+    },
+    {
+      "text": "- Coordinated large-scale material logistics",
+      "score": 0.9926233291625977,
+      "box": [
+        126,
+        314,
+        524,
+        343
+      ]
+    },
+    {
+      "text": "- Managed equipment maintenance programs",
+      "score": 0.9980384707450867,
+      "box": [
+        127,
+        339,
+        552,
+        369
+      ]
+    },
+    {
+      "text": "Construction Laborers, ClearStone Construction, 2016.102018.09",
+      "score": 0.9780734777450562,
+      "box": [
+        116,
+        380,
+        736,
+        408
+      ]
+    },
+    {
+      "text": "- Installed temporary site barriers",
+      "score": 0.9987276196479797,
+      "box": [
+        126,
+        407,
+        435,
+        433
+      ]
+    },
+    {
+      "text": "- Installed safety signage",
+      "score": 0.9788491725921631,
+      "box": [
+        127,
+        431,
+        361,
+        459
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999430775642395,
+      "box": [
+        116,
+        494,
+        267,
+        521
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Heavy Equipment Operation, Brighton High School, 2010",
+      "score": 0.9854177236557007,
+      "box": [
+        117,
+        540,
+        904,
+        567
+      ]
+    },
+    {
+      "text": "• Studied principles of construction record keeping",
+      "score": 0.9889687895774841,
+      "box": [
+        132,
+        565,
+        599,
+        594
+      ]
+    }
+  ],
+  "seconds": 2.3867819998413324,
+  "id": "61507",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

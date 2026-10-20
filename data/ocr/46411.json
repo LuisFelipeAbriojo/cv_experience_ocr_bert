@@ -1,0 +1,172 @@
+{
+  "lines": [
+    {
+      "text": "LACEY BLEVINS",
+      "score": 0.9995289444923401,
+      "box": [
+        117,
+        91,
+        384,
+        121
+      ]
+    },
+    {
+      "text": "PA, USA | +1-573-620-1163 | lacey.blevins@example.com",
+      "score": 0.9867834448814392,
+      "box": [
+        115,
+        150,
+        659,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9991254806518555,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Caring Hands School, 2020.04—2023.01",
+      "score": 0.9848813414573669,
+      "box": [
+        115,
+        287,
+        835,
+        318
+      ]
+    },
+    {
+      "text": "- Directed instructional benchmarking",
+      "score": 0.9997574090957642,
+      "box": [
+        125,
+        314,
+        474,
+        343
+      ]
+    },
+    {
+      "text": "- Directed cross-grade curriculum alignment",
+      "score": 0.9989920258522034,
+      "box": [
+        127,
+        341,
+        536,
+        368
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Caring Futures School, 2017.072020.04",
+      "score": 0.9955630898475647,
+      "box": [
+        117,
+        382,
+        846,
+        409
+      ]
+    },
+    {
+      "text": "- Organized academic interventions",
+      "score": 0.9946478605270386,
+      "box": [
+        127,
+        409,
+        458,
+        433
+      ]
+    },
+    {
+      "text": "- Implemented differentiated instruction strategies",
+      "score": 0.9901944994926453,
+      "box": [
+        127,
+        432,
+        586,
+        458
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Caring Start School, 2012.122015.09",
+      "score": 0.9947200417518616,
+      "box": [
+        118,
+        474,
+        818,
+        498
+      ]
+    },
+    {
+      "text": "- Prepared daily lesson plans aligned with curriculum guidelines",
+      "score": 0.9890801906585693,
+      "box": [
+        127,
+        500,
+        716,
+        524
+      ]
+    },
+    {
+      "text": "- Administered quizzes and short assessments",
+      "score": 0.9984947443008423,
+      "box": [
+        127,
+        521,
+        563,
+        550
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9998998641967773,
+      "box": [
+        117,
+        587,
+        267,
+        614
+      ]
+    },
+    {
+      "text": "Bachelor's, General Education, Shady Grove University, 2007",
+      "score": 0.9932831525802612,
+      "box": [
+        118,
+        633,
+        686,
+        657
+      ]
+    },
+    {
+      "text": "• Completed coursework in social studies education",
+      "score": 0.9857998490333557,
+      "box": [
+        131,
+        659,
+        613,
+        683
+      ]
+    },
+    {
+      "text": "•Studied principles of lesson coherence",
+      "score": 0.9893193244934082,
+      "box": [
+        131,
+        681,
+        507,
+        709
+      ]
+    }
+  ],
+  "seconds": 2.726599299814552,
+  "id": "46411",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

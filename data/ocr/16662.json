@@ -1,0 +1,142 @@
+{
+  "lines": [
+    {
+      "text": "KENITRA ALLISON",
+      "score": 0.9993790984153748,
+      "box": [
+        117,
+        89,
+        422,
+        122
+      ]
+    },
+    {
+      "text": "GA, USA | +1-353-771-6718 | kenitra.allison@example.com",
+      "score": 0.9792391061782837,
+      "box": [
+        118,
+        152,
+        669,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9985339641571045,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, NewPath Nursing Group, 2019.04—2021.04",
+      "score": 0.9646389484405518,
+      "box": [
+        116,
+        288,
+        703,
+        316
+      ]
+    },
+    {
+      "text": "- Designed clinical care protocols",
+      "score": 0.993691623210907,
+      "box": [
+        125,
+        313,
+        437,
+        342
+      ]
+    },
+    {
+      "text": "- Managed clinical risk assessments",
+      "score": 0.9880793690681458,
+      "box": [
+        126,
+        338,
+        463,
+        368
+      ]
+    },
+    {
+      "text": "Registered Nurses, Harmony Hands Health, 2016.012018.01",
+      "score": 0.9893651604652405,
+      "box": [
+        118,
+        383,
+        691,
+        407
+      ]
+    },
+    {
+      "text": "- Monitored patient intake and output",
+      "score": 0.9874498248100281,
+      "box": [
+        126,
+        407,
+        470,
+        433
+      ]
+    },
+    {
+      "text": "- Provided patient education materials",
+      "score": 0.9925293922424316,
+      "box": [
+        128,
+        432,
+        479,
+        456
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999121427536011,
+      "box": [
+        117,
+        494,
+        266,
+        521
+      ]
+    },
+    {
+      "text": "Bachelor's, Health Care Technology, Elmwood University, 2011",
+      "score": 0.9910427331924438,
+      "box": [
+        115,
+        539,
+        702,
+        567
+      ]
+    },
+    {
+      "text": "•Completed coursework in patient monitoring technologies",
+      "score": 0.9834651350975037,
+      "box": [
+        131,
+        565,
+        678,
+        593
+      ]
+    },
+    {
+      "text": "Completed coursework in patient confidentiality",
+      "score": 0.986524760723114,
+      "box": [
+        131,
+        590,
+        585,
+        618
+      ]
+    }
+  ],
+  "seconds": 2.416824800428003,
+  "id": "16662",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

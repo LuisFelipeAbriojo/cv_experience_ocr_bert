@@ -1,0 +1,132 @@
+{
+  "lines": [
+    {
+      "text": "GIANCARLO BROOKS",
+      "score": 0.9997923374176025,
+      "box": [
+        117,
+        90,
+        475,
+        122
+      ]
+    },
+    {
+      "text": "PA, USA |+1-537-217-8430 |giancarlo.brooks@example.com",
+      "score": 0.974783718585968,
+      "box": [
+        117,
+        151,
+        691,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9997676014900208,
+      "box": [
+        117,
+        243,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Construction Laborers, StrongWay Builders, 2021.012023.01",
+      "score": 0.9949982166290283,
+      "box": [
+        117,
+        289,
+        692,
+        316
+      ]
+    },
+    {
+      "text": "- Designed construction staging plans",
+      "score": 0.9958073496818542,
+      "box": [
+        126,
+        315,
+        477,
+        342
+      ]
+    },
+    {
+      "text": "- Developed cost estimation models",
+      "score": 0.996182382106781,
+      "box": [
+        127,
+        339,
+        461,
+        367
+      ]
+    },
+    {
+      "text": "Construction Laborers, SolidWay Construction, 2016.122019.01",
+      "score": 0.9988674521446228,
+      "box": [
+        117,
+        381,
+        719,
+        408
+      ]
+    },
+    {
+      "text": "- Prepared surfaces for construction work",
+      "score": 0.977725625038147,
+      "box": [
+        127,
+        408,
+        512,
+        432
+      ]
+    },
+    {
+      "text": "- Assisted with excavation tasks",
+      "score": 0.9683969616889954,
+      "box": [
+        128,
+        431,
+        424,
+        456
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999361038208008,
+      "box": [
+        117,
+        494,
+        267,
+        521
+      ]
+    },
+    {
+      "text": "High school graduate/GED, General Construction, Parkview High School, 2013",
+      "score": 0.9990609884262085,
+      "box": [
+        116,
+        539,
+        847,
+        567
+      ]
+    },
+    {
+      "text": "• Completed coursework in construction workflow coordination",
+      "score": 0.9924019575119019,
+      "box": [
+        134,
+        567,
+        708,
+        591
+      ]
+    }
+  ],
+  "seconds": 2.2497201999649405,
+  "id": "45512",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

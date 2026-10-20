@@ -1,0 +1,202 @@
+{
+  "lines": [
+    {
+      "text": "JAMESON HORNE",
+      "score": 0.9998273253440857,
+      "box": [
+        116,
+        91,
+        413,
+        121
+      ]
+    },
+    {
+      "text": "FL, USA | +1-777-334-7195 | jameson.horne@example.com",
+      "score": 0.9922311902046204,
+      "box": [
+        116,
+        150,
+        675,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9951090812683105,
+      "box": [
+        117,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, HardRock Construction, 2020.04—2023.01",
+      "score": 0.9949588179588318,
+      "box": [
+        118,
+        291,
+        722,
+        315
+      ]
+    },
+    {
+      "text": "- Designed construction staging plans",
+      "score": 0.9709184765815735,
+      "box": [
+        125,
+        314,
+        478,
+        343
+      ]
+    },
+    {
+      "text": "- Reviewed compliance documentation",
+      "score": 0.9980548024177551,
+      "box": [
+        128,
+        341,
+        488,
+        366
+      ]
+    },
+    {
+      "text": "Construction Laborers, Precision Line Contractors, 2017.072020.04",
+      "score": 0.9913617372512817,
+      "box": [
+        118,
+        383,
+        753,
+        407
+      ]
+    },
+    {
+      "text": "- Reviewed structural integrity assessments",
+      "score": 0.9904448986053467,
+      "box": [
+        125,
+        408,
+        531,
+        433
+      ]
+    },
+    {
+      "text": "- Established construction benchmarks",
+      "score": 0.9767400622367859,
+      "box": [
+        127,
+        431,
+        487,
+        457
+      ]
+    },
+    {
+      "text": "Construction Laborers, TrueStep Builders, 2014.102017.07",
+      "score": 0.9834802746772766,
+      "box": [
+        116,
+        471,
+        676,
+        499
+      ]
+    },
+    {
+      "text": "- Maintained equipment logs",
+      "score": 0.9901078343391418,
+      "box": [
+        126,
+        497,
+        393,
+        526
+      ]
+    },
+    {
+      "text": "- Prepared scaffolding inspections",
+      "score": 0.9886305332183838,
+      "box": [
+        128,
+        521,
+        444,
+        550
+      ]
+    },
+    {
+      "text": "Construction Laborers, StrongWay Construction, 2012.012014.10",
+      "score": 0.988231360912323,
+      "box": [
+        117,
+        565,
+        736,
+        592
+      ]
+    },
+    {
+      "text": "- Checked inventory of supplies",
+      "score": 0.9939652681350708,
+      "box": [
+        128,
+        590,
+        421,
+        618
+      ]
+    },
+    {
+      "text": "- Handled delivery documentation",
+      "score": 0.9923850297927856,
+      "box": [
+        127,
+        614,
+        440,
+        642
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999231696128845,
+      "box": [
+        117,
+        681,
+        266,
+        705
+      ]
+    },
+    {
+      "text": "Some college (no degree), Construction Drafting, Goldenwood University, 2011",
+      "score": 0.9819867014884949,
+      "box": [
+        116,
+        723,
+        848,
+        750
+      ]
+    },
+    {
+      "text": "• Completed coursework in structural reinforcement methods",
+      "score": 0.9903983473777771,
+      "box": [
+        132,
+        749,
+        695,
+        774
+      ]
+    },
+    {
+      "text": "Studied principles of framing methods",
+      "score": 0.9966860413551331,
+      "box": [
+        132,
+        772,
+        498,
+        800
+      ]
+    }
+  ],
+  "seconds": 2.9421574999578297,
+  "id": "12383",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

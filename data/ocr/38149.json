@@ -1,0 +1,182 @@
+{
+  "lines": [
+    {
+      "text": "TAMRA DAUGHERTY",
+      "score": 0.9997466802597046,
+      "box": [
+        117,
+        91,
+        457,
+        121
+      ]
+    },
+    {
+      "text": "NY, USA | +1-384-755-4446 | tamra.daugherty@example.com",
+      "score": 0.9950925707817078,
+      "box": [
+        114,
+        149,
+        693,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9990336298942566,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, ClearBalance Financial, 2020.012023.01",
+      "score": 0.9981749057769775,
+      "box": [
+        117,
+        290,
+        713,
+        314
+      ]
+    },
+    {
+      "text": "- Directed accounting operations planning",
+      "score": 0.986405611038208,
+      "box": [
+        128,
+        315,
+        513,
+        342
+      ]
+    },
+    {
+      "text": "- Led regulatory compliance initiatives",
+      "score": 0.9870724678039551,
+      "box": [
+        128,
+        340,
+        479,
+        369
+      ]
+    },
+    {
+      "text": "Accountants Auditors, CoreBooks Advisors, 2017.012020.01",
+      "score": 0.9945273399353027,
+      "box": [
+        117,
+        382,
+        689,
+        409
+      ]
+    },
+    {
+      "text": "- Prepared tax compliance filings",
+      "score": 0.9696081280708313,
+      "box": [
+        124,
+        406,
+        433,
+        435
+      ]
+    },
+    {
+      "text": "- Reviewed contract accounting",
+      "score": 0.9993237853050232,
+      "box": [
+        126,
+        431,
+        421,
+        459
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Precise Ledger Group, 2014.012017.01",
+      "score": 0.9944685697555542,
+      "box": [
+        118,
+        474,
+        702,
+        498
+      ]
+    },
+    {
+      "text": "- Maintained supporting documentation",
+      "score": 0.9939142465591431,
+      "box": [
+        129,
+        500,
+        490,
+        524
+      ]
+    },
+    {
+      "text": "- Verified transaction accuracy",
+      "score": 0.9979010820388794,
+      "box": [
+        128,
+        521,
+        410,
+        550
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999939501285553,
+      "box": [
+        118,
+        588,
+        266,
+        612
+      ]
+    },
+    {
+      "text": "Master's, Administrative Studies, Silver Ridge University, 2015",
+      "score": 0.9861478805541992,
+      "box": [
+        117,
+        633,
+        693,
+        657
+      ]
+    },
+    {
+      "text": "Bachelor's, Taxation, Brookridge University, 2013",
+      "score": 0.9936937689781189,
+      "box": [
+        117,
+        659,
+        575,
+        683
+      ]
+    },
+    {
+      "text": "• Completed coursework in derivative accounting basics",
+      "score": 0.9949814081192017,
+      "box": [
+        133,
+        684,
+        649,
+        708
+      ]
+    },
+    {
+      "text": "• Completed coursework in professional standards",
+      "score": 0.9762423634529114,
+      "box": [
+        132,
+        706,
+        601,
+        734
+      ]
+    }
+  ],
+  "seconds": 2.607516400050372,
+  "id": "38149",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

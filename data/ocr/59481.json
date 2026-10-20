@@ -1,0 +1,112 @@
+{
+  "lines": [
+    {
+      "text": "STANLEY LARSEN",
+      "score": 0.9994490742683411,
+      "box": [
+        115,
+        87,
+        423,
+        123
+      ]
+    },
+    {
+      "text": "WA, USA | +1-933-531-4259 | stanley.larsen@example.com",
+      "score": 0.9899207949638367,
+      "box": [
+        116,
+        149,
+        674,
+        177
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9994651675224304,
+      "box": [
+        116,
+        243,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Software Developers, Codewave Tech, 2018.10—2020.08",
+      "score": 0.9889628887176514,
+      "box": [
+        117,
+        289,
+        647,
+        313
+      ]
+    },
+    {
+      "text": "- Wrote unit tests for application modules",
+      "score": 0.9858469367027283,
+      "box": [
+        125,
+        314,
+        508,
+        340
+      ]
+    },
+    {
+      "text": "- Wrote command-line tools",
+      "score": 0.9930675029754639,
+      "box": [
+        126,
+        339,
+        386,
+        364
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999443888664246,
+      "box": [
+        116,
+        404,
+        268,
+        431
+      ]
+    },
+    {
+      "text": "Bachelor's, Pebble Creek University, 2006",
+      "score": 0.9959263801574707,
+      "box": [
+        116,
+        447,
+        509,
+        474
+      ]
+    },
+    {
+      "text": "•Studied principles of microservices architecture",
+      "score": 0.9839137196540833,
+      "box": [
+        130,
+        473,
+        585,
+        499
+      ]
+    },
+    {
+      "text": "• Completed coursework in human-computer interaction basics",
+      "score": 0.9860996603965759,
+      "box": [
+        134,
+        499,
+        714,
+        523
+      ]
+    }
+  ],
+  "seconds": 2.048584199976176,
+  "id": "59481",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

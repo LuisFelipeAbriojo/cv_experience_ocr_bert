@@ -1,0 +1,142 @@
+{
+  "lines": [
+    {
+      "text": "KAYLA JENKINS",
+      "score": 0.9995127320289612,
+      "box": [
+        117,
+        91,
+        387,
+        121
+      ]
+    },
+    {
+      "text": "IL, USA | +1-708-998-9923 | kayla.jenkins@example.com",
+      "score": 0.9926891922950745,
+      "box": [
+        117,
+        150,
+        649,
+        177
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9997631907463074,
+      "box": [
+        117,
+        243,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Accountants Auditors, FairLedger Services, 2020.09—2023.01",
+      "score": 0.987234354019165,
+      "box": [
+        116,
+        289,
+        686,
+        316
+      ]
+    },
+    {
+      "text": "- Designed financial accountability systems",
+      "score": 0.9807115793228149,
+      "box": [
+        125,
+        314,
+        528,
+        342
+      ]
+    },
+    {
+      "text": "- Established tax compliance frameworks",
+      "score": 0.9826229810714722,
+      "box": [
+        127,
+        339,
+        508,
+        365
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Reliable Accounts Advisors, 2018.05—2020.09",
+      "score": 0.9885027408599854,
+      "box": [
+        117,
+        381,
+        753,
+        406
+      ]
+    },
+    {
+      "text": "- Reconciled bank statements",
+      "score": 0.9815312623977661,
+      "box": [
+        125,
+        406,
+        405,
+        432
+      ]
+    },
+    {
+      "text": "- Recorded payroll entries",
+      "score": 0.9994234442710876,
+      "box": [
+        125,
+        429,
+        370,
+        459
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999385476112366,
+      "box": [
+        117,
+        494,
+        267,
+        521
+      ]
+    },
+    {
+      "text": "Bachelor's, Accounting Practice, Wildflower University, 2019",
+      "score": 0.9889717698097229,
+      "box": [
+        117,
+        541,
+        673,
+        565
+      ]
+    },
+    {
+      "text": "• Completed coursework in financial controls",
+      "score": 0.9945546984672546,
+      "box": [
+        133,
+        567,
+        545,
+        590
+      ]
+    },
+    {
+      "text": "• Completed coursework in cost accounting",
+      "score": 0.994522213935852,
+      "box": [
+        132,
+        591,
+        534,
+        617
+      ]
+    }
+  ],
+  "seconds": 2.3643343998119235,
+  "id": "19201",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

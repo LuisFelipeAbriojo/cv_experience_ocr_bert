@@ -1,0 +1,212 @@
+{
+  "lines": [
+    {
+      "text": "MICHAEL BEAN",
+      "score": 0.9997804760932922,
+      "box": [
+        117,
+        91,
+        374,
+        122
+      ]
+    },
+    {
+      "text": "SC, USA | +1-674-542-5463 | michael.bean@example.com",
+      "score": 0.9789420366287231,
+      "box": [
+        116,
+        150,
+        665,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9965550303459167,
+      "box": [
+        117,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, Caring Hands Care, 2018.08—2023.01",
+      "score": 0.9723958373069763,
+      "box": [
+        115,
+        288,
+        654,
+        319
+      ]
+    },
+    {
+      "text": "- Managed patient outcome evaluation systems",
+      "score": 0.9938936829566956,
+      "box": [
+        125,
+        314,
+        567,
+        343
+      ]
+    },
+    {
+      "text": "- Directed patient care coordination",
+      "score": 0.9889328479766846,
+      "box": [
+        127,
+        339,
+        455,
+        368
+      ]
+    },
+    {
+      "text": "Registered Nurses, Caring Life Care, 2014.02—2018.08",
+      "score": 0.9864489436149597,
+      "box": [
+        116,
+        381,
+        628,
+        409
+      ]
+    },
+    {
+      "text": "- Directed clinical quality improvement initiatives",
+      "score": 0.998091995716095,
+      "box": [
+        124,
+        406,
+        573,
+        435
+      ]
+    },
+    {
+      "text": "- Directed nursing operations planning",
+      "score": 0.9997233152389526,
+      "box": [
+        125,
+        431,
+        482,
+        460
+      ]
+    },
+    {
+      "text": "Registered Nurses, BrightCare Nursing, 2009.082014.02",
+      "score": 0.9911335706710815,
+      "box": [
+        118,
+        474,
+        653,
+        498
+      ]
+    },
+    {
+      "text": "- Monitored fluid and electrolyte balance",
+      "score": 0.979483425617218,
+      "box": [
+        125,
+        496,
+        501,
+        525
+      ]
+    },
+    {
+      "text": "- Educated patients on treatment plans",
+      "score": 0.9857028126716614,
+      "box": [
+        126,
+        521,
+        487,
+        551
+      ]
+    },
+    {
+      "text": "Registered Nurses, SafePath Nursing, 2005.02—2009.08",
+      "score": 0.9914316534996033,
+      "box": [
+        118,
+        565,
+        638,
+        589
+      ]
+    },
+    {
+      "text": "- Prepared patients for examinations",
+      "score": 0.9997294545173645,
+      "box": [
+        125,
+        589,
+        467,
+        618
+      ]
+    },
+    {
+      "text": "- Assisted with patient transfers",
+      "score": 0.9841368794441223,
+      "box": [
+        126,
+        614,
+        421,
+        644
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999363422393799,
+      "box": [
+        117,
+        681,
+        266,
+        705
+      ]
+    },
+    {
+      "text": "Master's, Health Care Technology, Hawthorne University, 2007",
+      "score": 0.9973816275596619,
+      "box": [
+        114,
+        723,
+        700,
+        750
+      ]
+    },
+    {
+      "text": "Bachelor's, Clinical Health, Seabreeze University, 2005",
+      "score": 0.9881429076194763,
+      "box": [
+        117,
+        750,
+        628,
+        774
+      ]
+    },
+    {
+      "text": "•Studied principles of evidence-based practice",
+      "score": 0.9876800775527954,
+      "box": [
+        130,
+        776,
+        569,
+        800
+      ]
+    },
+    {
+      "text": "• Studied principles of infection control",
+      "score": 0.9779682755470276,
+      "box": [
+        133,
+        801,
+        488,
+        825
+      ]
+    }
+  ],
+  "seconds": 3.1452105999924242,
+  "id": "47925",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

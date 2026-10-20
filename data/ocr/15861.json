@@ -1,0 +1,112 @@
+{
+  "lines": [
+    {
+      "text": "FALLON RHODES",
+      "score": 0.999873161315918,
+      "box": [
+        117,
+        91,
+        405,
+        122
+      ]
+    },
+    {
+      "text": "GA, USA | +1-889-302-8008 | fallon.rhodes@example.com",
+      "score": 0.991671085357666,
+      "box": [
+        117,
+        150,
+        662,
+        177
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9997498989105225,
+      "box": [
+        117,
+        243,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Little Grove School, 2019.012021.12",
+      "score": 0.9895636439323425,
+      "box": [
+        118,
+        290,
+        814,
+        314
+      ]
+    },
+    {
+      "text": "- Provided math drill exercises",
+      "score": 0.9985250234603882,
+      "box": [
+        125,
+        314,
+        410,
+        340
+      ]
+    },
+    {
+      "text": "- Reviewed curriculum content",
+      "score": 0.9931157827377319,
+      "box": [
+        127,
+        339,
+        412,
+        365
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999494552612305,
+      "box": [
+        116,
+        404,
+        268,
+        431
+      ]
+    },
+    {
+      "text": "Bachelor's, Child Studies, Pineview Ridge University, 2006",
+      "score": 0.9788970351219177,
+      "box": [
+        115,
+        446,
+        660,
+        475
+      ]
+    },
+    {
+      "text": "•Completed coursework in classroom workflow organization",
+      "score": 0.9788404107093811,
+      "box": [
+        131,
+        472,
+        692,
+        500
+      ]
+    },
+    {
+      "text": "Completed coursework in basic instructional coaching",
+      "score": 0.9897751212120056,
+      "box": [
+        131,
+        495,
+        646,
+        528
+      ]
+    }
+  ],
+  "seconds": 2.1138713997788727,
+  "id": "15861",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

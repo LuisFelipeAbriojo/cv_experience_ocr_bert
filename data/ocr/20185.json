@@ -1,0 +1,162 @@
+{
+  "lines": [
+    {
+      "text": "DANIEL HAYDEN",
+      "score": 0.9985304474830627,
+      "box": [
+        118,
+        91,
+        393,
+        121
+      ]
+    },
+    {
+      "text": "IN, USA | +1-699-886-4014 | daniel.hayden@example.com",
+      "score": 0.9880291819572449,
+      "box": [
+        117,
+        149,
+        662,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.998914897441864,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, SolidWay Construction, 2019.10—2023.01",
+      "score": 0.987952470779419,
+      "box": [
+        116,
+        288,
+        718,
+        316
+      ]
+    },
+    {
+      "text": "- Developed structural reinforcement plans",
+      "score": 0.9889904856681824,
+      "box": [
+        126,
+        315,
+        522,
+        341
+      ]
+    },
+    {
+      "text": "- Directed construction audits",
+      "score": 0.9889019727706909,
+      "box": [
+        127,
+        339,
+        399,
+        365
+      ]
+    },
+    {
+      "text": "Construction Laborers, CraftBuild Group, 2016.062019.10",
+      "score": 0.9914109706878662,
+      "box": [
+        118,
+        383,
+        664,
+        407
+      ]
+    },
+    {
+      "text": "- Prepared scaffoldinginspections",
+      "score": 0.9843145608901978,
+      "box": [
+        125,
+        407,
+        444,
+        433
+      ]
+    },
+    {
+      "text": "- Operated heavy equipment",
+      "score": 0.984890878200531,
+      "box": [
+        128,
+        431,
+        395,
+        460
+      ]
+    },
+    {
+      "text": "Construction Laborers, SolidLine Construction, 2013.022016.06",
+      "score": 0.9981722235679626,
+      "box": [
+        118,
+        473,
+        717,
+        497
+      ]
+    },
+    {
+      "text": "- Set up workstations for crews",
+      "score": 0.984329342842102,
+      "box": [
+        125,
+        498,
+        416,
+        523
+      ]
+    },
+    {
+      "text": "- Mixed concrete and mortar",
+      "score": 0.9957965016365051,
+      "box": [
+        126,
+        519,
+        392,
+        550
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999502897262573,
+      "box": [
+        118,
+        588,
+        266,
+        612
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Construction Fundamentals, Woodland High School, 2013",
+      "score": 0.9984826445579529,
+      "box": [
+        118,
+        633,
+        914,
+        657
+      ]
+    },
+    {
+      "text": "Studied principles of load handling",
+      "score": 0.999665379524231,
+      "box": [
+        129,
+        655,
+        466,
+        686
+      ]
+    }
+  ],
+  "seconds": 2.541733399964869,
+  "id": "20185",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

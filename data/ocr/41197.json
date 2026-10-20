@@ -1,0 +1,172 @@
+{
+  "lines": [
+    {
+      "text": "JAMES AYERS",
+      "score": 0.9997945427894592,
+      "box": [
+        116,
+        91,
+        358,
+        122
+      ]
+    },
+    {
+      "text": "OH, USA | +1-804-577-8341 | james.ayers@example.com",
+      "score": 0.9939903616905212,
+      "box": [
+        116,
+        150,
+        656,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9990541934967041,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, SolidLedger Advisors, 2019.12—2023.01",
+      "score": 0.9923151731491089,
+      "box": [
+        115,
+        288,
+        696,
+        316
+      ]
+    },
+    {
+      "text": "- Designed financial accountability systems",
+      "score": 0.9976419806480408,
+      "box": [
+        126,
+        315,
+        527,
+        341
+      ]
+    },
+    {
+      "text": "- Directed accounting training programs",
+      "score": 0.9913843870162964,
+      "box": [
+        127,
+        339,
+        495,
+        369
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Precise Ledger Advisors, 2016.02—2019.04",
+      "score": 0.986685037612915,
+      "box": [
+        118,
+        383,
+        727,
+        407
+      ]
+    },
+    {
+      "text": "- Conducted risk assessments",
+      "score": 0.9993187189102173,
+      "box": [
+        125,
+        407,
+        409,
+        433
+      ]
+    },
+    {
+      "text": "- Developed financial policies",
+      "score": 0.9900471568107605,
+      "box": [
+        127,
+        430,
+        401,
+        459
+      ]
+    },
+    {
+      "text": "Accountants Auditors, CoreBooks Advisors, 2012.012015.03",
+      "score": 0.9949917197227478,
+      "box": [
+        117,
+        473,
+        688,
+        497
+      ]
+    },
+    {
+      "text": "- Compiled financial schedules",
+      "score": 0.993891179561615,
+      "box": [
+        127,
+        499,
+        414,
+        523
+      ]
+    },
+    {
+      "text": "- Assisted with inventory counts",
+      "score": 0.9767586588859558,
+      "box": [
+        128,
+        522,
+        421,
+        549
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9998682737350464,
+      "box": [
+        117,
+        587,
+        267,
+        614
+      ]
+    },
+    {
+      "text": "Bachelor's, Statistics, Willowbrook University, 2003",
+      "score": 0.9747213125228882,
+      "box": [
+        117,
+        633,
+        588,
+        657
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of operations management",
+      "score": 0.9866987466812134,
+      "box": [
+        130,
+        659,
+        605,
+        683
+      ]
+    },
+    {
+      "text": "•Completed coursework in tax accounting",
+      "score": 0.986052393913269,
+      "box": [
+        132,
+        681,
+        525,
+        710
+      ]
+    }
+  ],
+  "seconds": 2.5305906999856234,
+  "id": "41197",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

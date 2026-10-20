@@ -1,0 +1,172 @@
+{
+  "lines": [
+    {
+      "text": "NIKOLETTE FOSTER",
+      "score": 0.9854329228401184,
+      "box": [
+        117,
+        91,
+        451,
+        121
+      ]
+    },
+    {
+      "text": "WI, USA | +1-202-740-9495 | nikolette.foster@example.com",
+      "score": 0.9843462109565735,
+      "box": [
+        118,
+        152,
+        672,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9990952610969543,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, EverWay Nursing Services, 2020.12—2023.01",
+      "score": 0.9922816753387451,
+      "box": [
+        115,
+        287,
+        724,
+        319
+      ]
+    },
+    {
+      "text": "- Directed clinical quality improvement initiatives",
+      "score": 0.9875239133834839,
+      "box": [
+        125,
+        313,
+        574,
+        343
+      ]
+    },
+    {
+      "text": "- Directed nursing operations planning",
+      "score": 0.9818472862243652,
+      "box": [
+        126,
+        339,
+        482,
+        369
+      ]
+    },
+    {
+      "text": "Registered Nurses, ClearView Health Center, 2018.112020.12",
+      "score": 0.991675078868866,
+      "box": [
+        118,
+        383,
+        706,
+        407
+      ]
+    },
+    {
+      "text": "- Monitored patient compliance",
+      "score": 0.9767667651176453,
+      "box": [
+        125,
+        407,
+        415,
+        434
+      ]
+    },
+    {
+      "text": "- Reviewed care plan outcomes",
+      "score": 0.9995855689048767,
+      "box": [
+        127,
+        432,
+        421,
+        458
+      ]
+    },
+    {
+      "text": "Registered Nurses, Harmony Health Group, 2016.092018.11",
+      "score": 0.9939314126968384,
+      "box": [
+        118,
+        474,
+        688,
+        498
+      ]
+    },
+    {
+      "text": "- Assisted with hygiene care",
+      "score": 0.9928649067878723,
+      "box": [
+        125,
+        497,
+        392,
+        525
+      ]
+    },
+    {
+      "text": "- Assisted with patient transfers",
+      "score": 0.9782965779304504,
+      "box": [
+        127,
+        521,
+        420,
+        550
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999069571495056,
+      "box": [
+        117,
+        587,
+        267,
+        614
+      ]
+    },
+    {
+      "text": "Bachelor's, Health Care Studies, Lakeview University, 2017",
+      "score": 0.9727822542190552,
+      "box": [
+        117,
+        633,
+        666,
+        657
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of tracheostomy care",
+      "score": 0.9793270826339722,
+      "box": [
+        129,
+        658,
+        551,
+        683
+      ]
+    },
+    {
+      "text": "•Studied principles of oxygen therapy",
+      "score": 0.9929065108299255,
+      "box": [
+        130,
+        681,
+        485,
+        711
+      ]
+    }
+  ],
+  "seconds": 4.019253300037235,
+  "id": "60675",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

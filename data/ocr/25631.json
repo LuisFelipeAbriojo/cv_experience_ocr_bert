@@ -1,0 +1,152 @@
+{
+  "lines": [
+    {
+      "text": "EMILY DRAKE",
+      "score": 0.999803900718689,
+      "box": [
+        118,
+        90,
+        348,
+        121
+      ]
+    },
+    {
+      "text": "MA, USA | +1-795-343-6715 |emily.drake@example.com",
+      "score": 0.9940996766090393,
+      "box": [
+        117,
+        152,
+        648,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.999098539352417,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Riverside Learning Center, 2020.06—2022.04",
+      "score": 0.9941532015800476,
+      "box": [
+        116,
+        288,
+        880,
+        316
+      ]
+    },
+    {
+      "text": "- Developed instructional evaluation metrics",
+      "score": 0.9926181435585022,
+      "box": [
+        126,
+        315,
+        532,
+        340
+      ]
+    },
+    {
+      "text": "- Implemented academic policy updates",
+      "score": 0.9911010265350342,
+      "box": [
+        126,
+        338,
+        498,
+        369
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Learning Path Academy, 2017.112019.09",
+      "score": 0.9886975884437561,
+      "box": [
+        116,
+        381,
+        861,
+        411
+      ]
+    },
+    {
+      "text": "- Supported standardized testing sessions",
+      "score": 0.9982254505157471,
+      "box": [
+        125,
+        407,
+        518,
+        433
+      ]
+    },
+    {
+      "text": "- Provided math drill exercises",
+      "score": 0.9987344145774841,
+      "box": [
+        127,
+        430,
+        410,
+        456
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999597072601318,
+      "box": [
+        116,
+        494,
+        268,
+        521
+      ]
+    },
+    {
+      "text": "Master's, Instructional Studies, Prairie Ridge University, 2011",
+      "score": 0.9907357096672058,
+      "box": [
+        114,
+        539,
+        682,
+        567
+      ]
+    },
+    {
+      "text": "Bachelor's, Learning Support Studies, Cedar Valley University, 2009",
+      "score": 0.982795238494873,
+      "box": [
+        116,
+        566,
+        748,
+        593
+      ]
+    },
+    {
+      "text": "• Completed coursework in classroom management techniques",
+      "score": 0.9908130168914795,
+      "box": [
+        129,
+        591,
+        720,
+        619
+      ]
+    },
+    {
+      "text": "Completed coursework in academic differentiation basics",
+      "score": 0.9935617446899414,
+      "box": [
+        131,
+        614,
+        675,
+        643
+      ]
+    }
+  ],
+  "seconds": 2.5816425001248717,
+  "id": "25631",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

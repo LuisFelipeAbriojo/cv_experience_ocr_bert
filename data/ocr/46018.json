@@ -1,0 +1,152 @@
+{
+  "lines": [
+    {
+      "text": "CAITLIN BARNETT",
+      "score": 0.9998775124549866,
+      "box": [
+        118,
+        91,
+        418,
+        122
+      ]
+    },
+    {
+      "text": "PA, USA | +1-775-773-9820 | caitlin.barnett@example.com",
+      "score": 0.9777153134346008,
+      "box": [
+        115,
+        150,
+        664,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9991753101348877,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Little Grove School, 2020.05—2023.01",
+      "score": 0.9888957738876343,
+      "box": [
+        116,
+        288,
+        814,
+        318
+      ]
+    },
+    {
+      "text": "- Developed teacher training modules",
+      "score": 0.9907892942428589,
+      "box": [
+        125,
+        314,
+        476,
+        343
+      ]
+    },
+    {
+      "text": "- Led curriculum alignment initiatives",
+      "score": 0.9926825165748596,
+      "box": [
+        127,
+        339,
+        467,
+        368
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Morning Star School, 2017.09—2020.05",
+      "score": 0.9813104271888733,
+      "box": [
+        116,
+        381,
+        828,
+        411
+      ]
+    },
+    {
+      "text": "- Reviewed curriculum content",
+      "score": 0.999343991279602,
+      "box": [
+        125,
+        407,
+        411,
+        433
+      ]
+    },
+    {
+      "text": "- Supported art instruction",
+      "score": 0.9838147163391113,
+      "box": [
+        128,
+        434,
+        370,
+        457
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999440312385559,
+      "box": [
+        116,
+        494,
+        267,
+        521
+      ]
+    },
+    {
+      "text": "Master's, Early Childhood Education, Silver Ridge University, 2021",
+      "score": 0.9873994588851929,
+      "box": [
+        116,
+        542,
+        729,
+        566
+      ]
+    },
+    {
+      "text": "Bachelor's, Educational Foundations, Granite Hill University, 2019",
+      "score": 0.9757559895515442,
+      "box": [
+        115,
+        565,
+        727,
+        593
+      ]
+    },
+    {
+      "text": "Completed coursework in student-centered learning",
+      "score": 0.998723030090332,
+      "box": [
+        129,
+        588,
+        627,
+        621
+      ]
+    },
+    {
+      "text": "•Studied principles of instructional alignment",
+      "score": 0.9805467128753662,
+      "box": [
+        131,
+        615,
+        552,
+        643
+      ]
+    }
+  ],
+  "seconds": 2.525084199849516,
+  "id": "46018",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

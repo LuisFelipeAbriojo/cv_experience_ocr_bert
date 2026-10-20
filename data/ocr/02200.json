@@ -1,0 +1,172 @@
+{
+  "lines": [
+    {
+      "text": "KAREN ENGLISH",
+      "score": 0.9997957944869995,
+      "box": [
+        116,
+        89,
+        395,
+        122
+      ]
+    },
+    {
+      "text": "AR, USA | +1-334-754-7487 | karen.english@example.com",
+      "score": 0.9921723008155823,
+      "box": [
+        116,
+        150,
+        665,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9991355538368225,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, TruePath Health Services, 2020.07—2023.01",
+      "score": 0.9922448992729187,
+      "box": [
+        116,
+        288,
+        712,
+        316
+      ]
+    },
+    {
+      "text": "- Managed patient safety reporting systems",
+      "score": 0.9837873578071594,
+      "box": [
+        125,
+        313,
+        530,
+        344
+      ]
+    },
+    {
+      "text": "- Established care delivery standards",
+      "score": 0.9722310900688171,
+      "box": [
+        126,
+        338,
+        471,
+        367
+      ]
+    },
+    {
+      "text": "Registered Nurses, KindWay Care Center, 2017.122020.07",
+      "score": 0.9998827576637268,
+      "box": [
+        117,
+        382,
+        680,
+        409
+      ]
+    },
+    {
+      "text": "- Conducted medication reconciliation",
+      "score": 0.9990754127502441,
+      "box": [
+        125,
+        407,
+        477,
+        433
+      ]
+    },
+    {
+      "text": "- Provided wound care management",
+      "score": 0.9994549751281738,
+      "box": [
+        127,
+        431,
+        466,
+        459
+      ]
+    },
+    {
+      "text": "Registered Nurses, Harmony Care Group, 2013.072016.02",
+      "score": 0.9820466041564941,
+      "box": [
+        118,
+        474,
+        675,
+        498
+      ]
+    },
+    {
+      "text": "- Assisted with diagnostic procedures",
+      "score": 0.9887273907661438,
+      "box": [
+        127,
+        497,
+        475,
+        525
+      ]
+    },
+    {
+      "text": "- Assisted with patient positioning",
+      "score": 0.9955610036849976,
+      "box": [
+        128,
+        521,
+        439,
+        551
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9998833537101746,
+      "box": [
+        117,
+        587,
+        267,
+        614
+      ]
+    },
+    {
+      "text": "Bachelor's, Health Care Technology, Skycrest University, 2007",
+      "score": 0.995240330696106,
+      "box": [
+        116,
+        632,
+        697,
+        659
+      ]
+    },
+    {
+      "text": "•Studied fundamentals of patient education",
+      "score": 0.993841290473938,
+      "box": [
+        130,
+        659,
+        539,
+        683
+      ]
+    },
+    {
+      "text": "•Studied principles of evidence-based practice",
+      "score": 0.9871168732643127,
+      "box": [
+        131,
+        682,
+        568,
+        707
+      ]
+    }
+  ],
+  "seconds": 2.851561900228262,
+  "id": "02200",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

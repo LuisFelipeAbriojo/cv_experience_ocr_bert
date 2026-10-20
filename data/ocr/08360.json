@@ -1,0 +1,122 @@
+{
+  "lines": [
+    {
+      "text": "CATHERINE VALDEZ",
+      "score": 0.9997141361236572,
+      "box": [
+        117,
+        90,
+        455,
+        122
+      ]
+    },
+    {
+      "text": "CA, USA | +1-747-335-5620 | catherine.valdez@example.com",
+      "score": 0.9915680289268494,
+      "box": [
+        118,
+        152,
+        692,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9997689723968506,
+      "box": [
+        117,
+        243,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Software Developers, Netline Solutions, 2019.092021.02",
+      "score": 0.9911496639251709,
+      "box": [
+        116,
+        289,
+        653,
+        316
+      ]
+    },
+    {
+      "text": "- Handled basic deployment tasks",
+      "score": 0.9849839806556702,
+      "box": [
+        127,
+        314,
+        443,
+        341
+      ]
+    },
+    {
+      "text": "- Implemented Ul components based on design specs",
+      "score": 0.9781066179275513,
+      "box": [
+        128,
+        339,
+        628,
+        367
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999232888221741,
+      "box": [
+        116,
+        404,
+        268,
+        431
+      ]
+    },
+    {
+      "text": "Master's, Brookway University, 2008",
+      "score": 0.9845201969146729,
+      "box": [
+        116,
+        448,
+        454,
+        475
+      ]
+    },
+    {
+      "text": "Bachelor's, Seabreeze University, 2006",
+      "score": 0.992291271686554,
+      "box": [
+        115,
+        472,
+        483,
+        500
+      ]
+    },
+    {
+      "text": "• Completed coursework in information systems",
+      "score": 0.9906760454177856,
+      "box": [
+        132,
+        500,
+        575,
+        524
+      ]
+    },
+    {
+      "text": "Completed coursework in debugging techniques",
+      "score": 0.9849923849105835,
+      "box": [
+        131,
+        520,
+        594,
+        552
+      ]
+    }
+  ],
+  "seconds": 1.9776515997946262,
+  "id": "08360",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

@@ -1,0 +1,172 @@
+{
+  "lines": [
+    {
+      "text": "JONATHON RICHARD",
+      "score": 0.9998160600662231,
+      "box": [
+        115,
+        90,
+        467,
+        122
+      ]
+    },
+    {
+      "text": "RI, USA | +1-991-330-7037 | jonathon.richard@example.com",
+      "score": 0.9830819368362427,
+      "box": [
+        117,
+        151,
+        682,
+        177
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9991436004638672,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Golden Bridge School, 2020.08-2023.01",
+      "score": 0.9882476329803467,
+      "box": [
+        116,
+        287,
+        839,
+        317
+      ]
+    },
+    {
+      "text": "- Implemented data analysis frameworks",
+      "score": 0.991701602935791,
+      "box": [
+        125,
+        314,
+        505,
+        342
+      ]
+    },
+    {
+      "text": "- Designed curriculum frameworks for grade-level instruction",
+      "score": 0.9821427464485168,
+      "box": [
+        126,
+        338,
+        686,
+        369
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Sunny Horizons School, 2016.082019.01",
+      "score": 0.9976909160614014,
+      "box": [
+        116,
+        381,
+        855,
+        411
+      ]
+    },
+    {
+      "text": "- Organized academic interventions",
+      "score": 0.993273913860321,
+      "box": [
+        127,
+        409,
+        457,
+        433
+      ]
+    },
+    {
+      "text": "- Supervised student projects",
+      "score": 0.9679343104362488,
+      "box": [
+        127,
+        432,
+        400,
+        458
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Sunny Meadow Academy, 2013.06—2015.12",
+      "score": 0.9951595664024353,
+      "box": [
+        116,
+        471,
+        876,
+        499
+      ]
+    },
+    {
+      "text": "- Implemented lesson pacing guidelines",
+      "score": 0.9713645577430725,
+      "box": [
+        125,
+        497,
+        497,
+        525
+      ]
+    },
+    {
+      "text": "- Recorded test results",
+      "score": 0.972011148929596,
+      "box": [
+        127,
+        520,
+        339,
+        550
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9998878836631775,
+      "box": [
+        117,
+        587,
+        267,
+        614
+      ]
+    },
+    {
+      "text": "Bachelor's, Child and Youth Studies, Riverside University, 2012",
+      "score": 0.9859534502029419,
+      "box": [
+        118,
+        633,
+        704,
+        657
+      ]
+    },
+    {
+      "text": "•Studied fundamentals of instructional clarity",
+      "score": 0.9880256056785583,
+      "box": [
+        130,
+        659,
+        550,
+        683
+      ]
+    },
+    {
+      "text": "• Studied principles of inclusive education",
+      "score": 0.9882413148880005,
+      "box": [
+        132,
+        683,
+        518,
+        707
+      ]
+    }
+  ],
+  "seconds": 2.8170277001336217,
+  "id": "47091",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

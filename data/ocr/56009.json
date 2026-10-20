@@ -1,0 +1,122 @@
+{
+  "lines": [
+    {
+      "text": "CHELSEA OLIVER",
+      "score": 0.9898704886436462,
+      "box": [
+        117,
+        89,
+        411,
+        122
+      ]
+    },
+    {
+      "text": "VA, USA| +1-407-200-1751 | chelsea.oliver@example.com",
+      "score": 0.9900602698326111,
+      "box": [
+        118,
+        152,
+        667,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9997479319572449,
+      "box": [
+        117,
+        243,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Learning Minds School, 2021.08—2022.06",
+      "score": 0.9888527393341064,
+      "box": [
+        116,
+        288,
+        851,
+        318
+      ]
+    },
+    {
+      "text": "- Prepared lesson summaries",
+      "score": 0.9994053840637207,
+      "box": [
+        126,
+        315,
+        402,
+        341
+      ]
+    },
+    {
+      "text": "- Collected permission forms",
+      "score": 0.9947147369384766,
+      "box": [
+        128,
+        338,
+        394,
+        368
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999510645866394,
+      "box": [
+        116,
+        404,
+        268,
+        431
+      ]
+    },
+    {
+      "text": "Master's, Education Studies, Oakview University, 2013",
+      "score": 0.989886999130249,
+      "box": [
+        116,
+        449,
+        623,
+        473
+      ]
+    },
+    {
+      "text": "Bachelor's, Basic Child Development, Stonewood University, 2011",
+      "score": 0.9823763966560364,
+      "box": [
+        116,
+        473,
+        730,
+        500
+      ]
+    },
+    {
+      "text": "•Studied principles of differentiated instruction",
+      "score": 0.9747766852378845,
+      "box": [
+        130,
+        500,
+        564,
+        524
+      ]
+    },
+    {
+      "text": "• Completed coursework in classroom communication techniques",
+      "score": 0.9921970963478088,
+      "box": [
+        133,
+        523,
+        736,
+        549
+      ]
+    }
+  ],
+  "seconds": 2.4731231001205742,
+  "id": "56009",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

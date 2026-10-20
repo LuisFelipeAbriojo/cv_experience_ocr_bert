@@ -1,0 +1,132 @@
+{
+  "lines": [
+    {
+      "text": "DALE CARR",
+      "score": 0.9995584487915039,
+      "box": [
+        116,
+        89,
+        316,
+        123
+      ]
+    },
+    {
+      "text": "CA, USA | +1-638-623-2452 | dale.carr@example.com",
+      "score": 0.984003484249115,
+      "box": [
+        117,
+        150,
+        622,
+        177
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9997655749320984,
+      "box": [
+        117,
+        243,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Registered Nurses, Compassion Bridge Care, 2021.012021.02",
+      "score": 0.9913226962089539,
+      "box": [
+        116,
+        289,
+        709,
+        316
+      ]
+    },
+    {
+      "text": "- Monitored patient recovery",
+      "score": 0.9820120930671692,
+      "box": [
+        125,
+        313,
+        390,
+        342
+      ]
+    },
+    {
+      "text": "- Checked medication dosages",
+      "score": 0.9984077215194702,
+      "box": [
+        127,
+        339,
+        416,
+        366
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999314546585083,
+      "box": [
+        116,
+        404,
+        268,
+        431
+      ]
+    },
+    {
+      "text": "Doctorate, Health Care Operations, Riverwood University, 2014",
+      "score": 0.9926799535751343,
+      "box": [
+        115,
+        446,
+        705,
+        474
+      ]
+    },
+    {
+      "text": "Bachelor's, Patient Services, Bayside University, 2009",
+      "score": 0.9790557026863098,
+      "box": [
+        117,
+        474,
+        618,
+        498
+      ]
+    },
+    {
+      "text": "Completed coursework in medication safety",
+      "score": 0.9905794858932495,
+      "box": [
+        129,
+        497,
+        553,
+        526
+      ]
+    },
+    {
+      "text": "Studied principles of emergency nursing",
+      "score": 0.989313006401062,
+      "box": [
+        131,
+        522,
+        521,
+        551
+      ]
+    },
+    {
+      "text": "• Studied principles of hydration management",
+      "score": 0.9672191739082336,
+      "box": [
+        134,
+        550,
+        556,
+        574
+      ]
+    }
+  ],
+  "seconds": 2.623176499735564,
+  "id": "04077",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

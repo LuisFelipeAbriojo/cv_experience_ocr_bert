@@ -1,0 +1,142 @@
+{
+  "lines": [
+    {
+      "text": "TABITHA PHAN",
+      "score": 0.999836266040802,
+      "box": [
+        117,
+        91,
+        370,
+        121
+      ]
+    },
+    {
+      "text": "IN, USA | +1-587-730-7042 | tabitha.phan@example.com",
+      "score": 0.98429936170578,
+      "box": [
+        117,
+        151,
+        646,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9991941452026367,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Reliable Path Services, 2020.072022.06",
+      "score": 0.986386239528656,
+      "box": [
+        117,
+        290,
+        709,
+        314
+      ]
+    },
+    {
+      "text": "- Directed financial reporting processes",
+      "score": 0.9949771165847778,
+      "box": [
+        127,
+        314,
+        491,
+        343
+      ]
+    },
+    {
+      "text": "- Designed financial policy frameworks",
+      "score": 0.9906883239746094,
+      "box": [
+        127,
+        339,
+        485,
+        367
+      ]
+    },
+    {
+      "text": "Accountants Auditors, FairLedger Group, 2017.04—2019.03",
+      "score": 0.985766589641571,
+      "box": [
+        116,
+        380,
+        665,
+        408
+      ]
+    },
+    {
+      "text": "- Assisted with forecasting data",
+      "score": 0.9750182628631592,
+      "box": [
+        125,
+        407,
+        419,
+        433
+      ]
+    },
+    {
+      "text": "- Tracked budget expenditures",
+      "score": 0.9893149733543396,
+      "box": [
+        126,
+        430,
+        414,
+        458
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999208450317383,
+      "box": [
+        117,
+        494,
+        266,
+        521
+      ]
+    },
+    {
+      "text": "Bachelor's, Auditing, Springfield University, 2005",
+      "score": 0.9929286241531372,
+      "box": [
+        117,
+        542,
+        567,
+        566
+      ]
+    },
+    {
+      "text": "•Completed coursework in intangible asset accounting",
+      "score": 0.9907805323600769,
+      "box": [
+        130,
+        566,
+        639,
+        592
+      ]
+    },
+    {
+      "text": "•Studied fundamentals of revenue cycle management",
+      "score": 0.9710959792137146,
+      "box": [
+        131,
+        589,
+        637,
+        618
+      ]
+    }
+  ],
+  "seconds": 2.584977699909359,
+  "id": "19711",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

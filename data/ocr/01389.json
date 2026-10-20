@@ -1,0 +1,152 @@
+{
+  "lines": [
+    {
+      "text": "ANN THOMAS",
+      "score": 0.9942712783813477,
+      "box": [
+        117,
+        91,
+        344,
+        122
+      ]
+    },
+    {
+      "text": "AZ, USA | +1-469-714-3549 | ann.thomas@example.com",
+      "score": 0.9784278273582458,
+      "box": [
+        118,
+        152,
+        647,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9991410374641418,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Little Path School, 2020.01—2021.11",
+      "score": 0.9935144782066345,
+      "box": [
+        117,
+        289,
+        800,
+        316
+      ]
+    },
+    {
+      "text": "- Implemented learning system upgrades",
+      "score": 0.999597430229187,
+      "box": [
+        125,
+        314,
+        508,
+        343
+      ]
+    },
+    {
+      "text": "- Developed data-driven teaching models",
+      "score": 0.9969662427902222,
+      "box": [
+        127,
+        339,
+        510,
+        368
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Sunny Start School, 2017.03—2019.02",
+      "score": 0.9929888844490051,
+      "box": [
+        115,
+        379,
+        818,
+        411
+      ]
+    },
+    {
+      "text": "- Administered learning games",
+      "score": 0.9991657137870789,
+      "box": [
+        125,
+        407,
+        414,
+        434
+      ]
+    },
+    {
+      "text": "- Prepared daily instructional agendas",
+      "score": 0.9861359596252441,
+      "box": [
+        127,
+        431,
+        480,
+        459
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999933660030365,
+      "box": [
+        117,
+        494,
+        267,
+        521
+      ]
+    },
+    {
+      "text": "Master's, Instructional Support, Hillview University, 2009",
+      "score": 0.9859058856964111,
+      "box": [
+        116,
+        542,
+        635,
+        566
+      ]
+    },
+    {
+      "text": "Bachelor's, Elementary Education Preparation, Brightfield Ridge University, 2007",
+      "score": 0.9802347421646118,
+      "box": [
+        117,
+        567,
+        862,
+        591
+      ]
+    },
+    {
+      "text": "•Completed coursework in interactive learning methods",
+      "score": 0.9682172536849976,
+      "box": [
+        129,
+        592,
+        648,
+        616
+      ]
+    },
+    {
+      "text": "•Studied fundamentals of concept-based instruction",
+      "score": 0.9741451740264893,
+      "box": [
+        130,
+        614,
+        618,
+        643
+      ]
+    }
+  ],
+  "seconds": 2.6820468003861606,
+  "id": "01389",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

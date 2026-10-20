@@ -1,0 +1,102 @@
+{
+  "lines": [
+    {
+      "text": "JAKE DAVIS",
+      "score": 0.9535185694694519,
+      "box": [
+        115,
+        89,
+        319,
+        123
+      ]
+    },
+    {
+      "text": "SC, USA | +1-635-582-6484 | jake.davis@example.com",
+      "score": 0.9862318634986877,
+      "box": [
+        116,
+        149,
+        634,
+        177
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9993796348571777,
+      "box": [
+        116,
+        243,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Construction Laborers, FirmRise Construction, 2018.10—2021.04",
+      "score": 0.9885475635528564,
+      "box": [
+        118,
+        289,
+        715,
+        313
+      ]
+    },
+    {
+      "text": "- Installed temporary site barriers",
+      "score": 0.9948137402534485,
+      "box": [
+        125,
+        313,
+        436,
+        342
+      ]
+    },
+    {
+      "text": "- Installed simple fixtures",
+      "score": 0.9526691436767578,
+      "box": [
+        126,
+        338,
+        360,
+        367
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999958872795105,
+      "box": [
+        116,
+        404,
+        268,
+        431
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Construction Management, Ridgeway High School, 2006",
+      "score": 0.9989909529685974,
+      "box": [
+        116,
+        446,
+        901,
+        475
+      ]
+    },
+    {
+      "text": "• Completed coursework in concrete curing methods",
+      "score": 0.9905293583869934,
+      "box": [
+        133,
+        474,
+        618,
+        498
+      ]
+    }
+  ],
+  "seconds": 1.9345379997976124,
+  "id": "47595",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

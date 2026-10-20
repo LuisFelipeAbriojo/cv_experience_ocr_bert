@@ -1,0 +1,112 @@
+{
+  "lines": [
+    {
+      "text": "HOLLY HUBER",
+      "score": 0.997249960899353,
+      "box": [
+        116,
+        91,
+        360,
+        122
+      ]
+    },
+    {
+      "text": "WI, USA | +1-723-472-2043 | holly.huber@example.com",
+      "score": 0.998276948928833,
+      "box": [
+        116,
+        149,
+        640,
+        177
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9997512698173523,
+      "box": [
+        117,
+        243,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Registered Nurses, Caring Way Nursing, 2021.042023.01",
+      "score": 0.9724569320678711,
+      "box": [
+        116,
+        289,
+        661,
+        316
+      ]
+    },
+    {
+      "text": "- Maintained infection control protocols",
+      "score": 0.9991161227226257,
+      "box": [
+        125,
+        314,
+        486,
+        340
+      ]
+    },
+    {
+      "text": "- Recorded nursing notes",
+      "score": 0.9808502197265625,
+      "box": [
+        126,
+        339,
+        365,
+        367
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999145865440369,
+      "box": [
+        116,
+        404,
+        268,
+        431
+      ]
+    },
+    {
+      "text": "Associate's degree, Health Systems, Rolling Hills University, 2020",
+      "score": 0.989651083946228,
+      "box": [
+        117,
+        447,
+        726,
+        474
+      ]
+    },
+    {
+      "text": "•Completed coursework in maternal health nursing",
+      "score": 0.9743166565895081,
+      "box": [
+        129,
+        472,
+        608,
+        501
+      ]
+    },
+    {
+      "text": "Studied fundamentals of data privacy",
+      "score": 0.9864436388015747,
+      "box": [
+        131,
+        494,
+        492,
+        527
+      ]
+    }
+  ],
+  "seconds": 12.146188800223172,
+  "id": "60558",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

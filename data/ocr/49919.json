@@ -1,0 +1,112 @@
+{
+  "lines": [
+    {
+      "text": "DAVID SULLIVAN",
+      "score": 0.9987502098083496,
+      "box": [
+        118,
+        91,
+        398,
+        122
+      ]
+    },
+    {
+      "text": "TX, USA | +1-821-294-4908 | david.sullivan@example.com",
+      "score": 0.9980193972587585,
+      "box": [
+        117,
+        149,
+        664,
+        177
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9997689723968506,
+      "box": [
+        117,
+        243,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Software Developers, Clearwave Digital, 2018.082020.10",
+      "score": 0.9998473525047302,
+      "box": [
+        116,
+        289,
+        660,
+        316
+      ]
+    },
+    {
+      "text": "- Performed basic performance profiling",
+      "score": 0.9696914553642273,
+      "box": [
+        127,
+        313,
+        495,
+        342
+      ]
+    },
+    {
+      "text": "- Implemented error handling logic",
+      "score": 0.9911069273948669,
+      "box": [
+        128,
+        338,
+        447,
+        368
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999232888221741,
+      "box": [
+        116,
+        404,
+        268,
+        431
+      ]
+    },
+    {
+      "text": "Bachelor's, Clearwater University, 2007",
+      "score": 0.9855009317398071,
+      "box": [
+        116,
+        447,
+        482,
+        474
+      ]
+    },
+    {
+      "text": "Studied fundamentals of error handling",
+      "score": 0.9916427135467529,
+      "box": [
+        128,
+        471,
+        508,
+        501
+      ]
+    },
+    {
+      "text": "•Studied fundamentals of artificial intelligence",
+      "score": 0.9910328984260559,
+      "box": [
+        131,
+        498,
+        560,
+        524
+      ]
+    }
+  ],
+  "seconds": 1.9040532996878028,
+  "id": "49919",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

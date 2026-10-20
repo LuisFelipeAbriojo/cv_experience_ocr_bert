@@ -1,0 +1,112 @@
+{
+  "lines": [
+    {
+      "text": "ELIZABETH NORTON",
+      "score": 0.9824324250221252,
+      "box": [
+        118,
+        91,
+        459,
+        122
+      ]
+    },
+    {
+      "text": "GA, USA | +1-288-218-7932 | elizabeth.norton@example.com",
+      "score": 0.9770217537879944,
+      "box": [
+        118,
+        152,
+        690,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.999746561050415,
+      "box": [
+        117,
+        243,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Accountants Auditors, OpenPath Advisors, 2021.062022.05",
+      "score": 0.9900224804878235,
+      "box": [
+        116,
+        289,
+        681,
+        316
+      ]
+    },
+    {
+      "text": "- Maintained accounting software records",
+      "score": 0.9779149889945984,
+      "box": [
+        127,
+        316,
+        510,
+        340
+      ]
+    },
+    {
+      "text": "- Verified financial transactions",
+      "score": 0.9940071105957031,
+      "box": [
+        128,
+        339,
+        415,
+        365
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999950647354126,
+      "box": [
+        116,
+        404,
+        268,
+        431
+      ]
+    },
+    {
+      "text": "Some college (no degree), International Business, Crestview University, 2003",
+      "score": 0.9860527515411377,
+      "box": [
+        116,
+        446,
+        834,
+        476
+      ]
+    },
+    {
+      "text": "•Studied fundamentals of operations management",
+      "score": 0.9825485944747925,
+      "box": [
+        130,
+        473,
+        605,
+        499
+      ]
+    },
+    {
+      "text": "Completed coursework in supply chain accounting",
+      "score": 0.9997361302375793,
+      "box": [
+        132,
+        497,
+        613,
+        527
+      ]
+    }
+  ],
+  "seconds": 2.049264600034803,
+  "id": "14659",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

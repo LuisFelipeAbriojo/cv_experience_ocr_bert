@@ -1,0 +1,112 @@
+{
+  "lines": [
+    {
+      "text": "GRACIE MCLAUGHLIN",
+      "score": 0.994360089302063,
+      "box": [
+        118,
+        91,
+        481,
+        122
+      ]
+    },
+    {
+      "text": "FL, USA | +1-923-944-8134 | gracie.mclaughlin@example.com",
+      "score": 0.985355794429779,
+      "box": [
+        116,
+        149,
+        698,
+        177
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9997588992118835,
+      "box": [
+        117,
+        243,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Learning Hill Academy, 2022.06—2023.01",
+      "score": 0.9896471500396729,
+      "box": [
+        117,
+        289,
+        845,
+        316
+      ]
+    },
+    {
+      "text": "- Provided math drill exercises",
+      "score": 0.9956157803535461,
+      "box": [
+        126,
+        314,
+        410,
+        340
+      ]
+    },
+    {
+      "text": "- Distributed instructional handouts",
+      "score": 0.9996786117553711,
+      "box": [
+        127,
+        339,
+        450,
+        364
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999051690101624,
+      "box": [
+        116,
+        404,
+        268,
+        431
+      ]
+    },
+    {
+      "text": "Some college (no degree), Educational Assistance, Brightwood University, 2023",
+      "score": 0.9872428774833679,
+      "box": [
+        116,
+        446,
+        856,
+        476
+      ]
+    },
+    {
+      "text": "Studied principles of lesson planning",
+      "score": 0.9926905035972595,
+      "box": [
+        129,
+        472,
+        487,
+        501
+      ]
+    },
+    {
+      "text": " Completed coursework in basic curriculum planning",
+      "score": 0.9809792041778564,
+      "box": [
+        132,
+        497,
+        625,
+        526
+      ]
+    }
+  ],
+  "seconds": 2.1882051997818053,
+  "id": "14244",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

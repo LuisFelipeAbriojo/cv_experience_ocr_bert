@@ -1,0 +1,142 @@
+{
+  "lines": [
+    {
+      "text": "RACHEL NORTON",
+      "score": 0.9996958374977112,
+      "box": [
+        118,
+        91,
+        411,
+        121
+      ]
+    },
+    {
+      "text": "WI, USA | +1-929-676-2278 | rachel.norton@example.com",
+      "score": 0.9911280870437622,
+      "box": [
+        116,
+        149,
+        660,
+        177
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9997592568397522,
+      "box": [
+        117,
+        243,
+        315,
+        270
+      ]
+    },
+    {
+      "text": "Software Developers, Brightgrid Software, 2019.062021.09",
+      "score": 0.9998806118965149,
+      "box": [
+        116,
+        289,
+        674,
+        316
+      ]
+    },
+    {
+      "text": "- Defined integration standards",
+      "score": 0.9781413674354553,
+      "box": [
+        126,
+        315,
+        415,
+        342
+      ]
+    },
+    {
+      "text": "- Designed CI/CD frameworks",
+      "score": 0.9823206663131714,
+      "box": [
+        128,
+        339,
+        408,
+        367
+      ]
+    },
+    {
+      "text": "Software Developers, Cloudframe Software, 2016.08—2018.12",
+      "score": 0.9917946457862854,
+      "box": [
+        115,
+        380,
+        694,
+        408
+      ]
+    },
+    {
+      "text": "- Implemented basic authentication logic",
+      "score": 0.9913783073425293,
+      "box": [
+        126,
+        407,
+        501,
+        433
+      ]
+    },
+    {
+      "text": "- Logged and tracked software defects",
+      "score": 0.9592987298965454,
+      "box": [
+        130,
+        434,
+        485,
+        456
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999277591705322,
+      "box": [
+        117,
+        494,
+        268,
+        521
+      ]
+    },
+    {
+      "text": "Associate's degree, Willow Creek University, 2005",
+      "score": 0.9998334646224976,
+      "box": [
+        116,
+        539,
+        583,
+        567
+      ]
+    },
+    {
+      "text": "•Completed coursework in software architecture",
+      "score": 0.9903153777122498,
+      "box": [
+        130,
+        566,
+        584,
+        591
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of computer networks",
+      "score": 0.9843190312385559,
+      "box": [
+        132,
+        590,
+        555,
+        616
+      ]
+    }
+  ],
+  "seconds": 2.519559199921787,
+  "id": "60682",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

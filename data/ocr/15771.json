@@ -1,0 +1,182 @@
+{
+  "lines": [
+    {
+      "text": "WHITNEY HOBBS",
+      "score": 0.9980215430259705,
+      "box": [
+        116,
+        89,
+        402,
+        122
+      ]
+    },
+    {
+      "text": "GA, USA | +1-453-577-2663 | whitney.hobbs@example.com",
+      "score": 0.9968026280403137,
+      "box": [
+        116,
+        150,
+        675,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9991250038146973,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Learning Grove Academy, 2020.12—2023.01",
+      "score": 0.9836835861206055,
+      "box": [
+        116,
+        289,
+        873,
+        319
+      ]
+    },
+    {
+      "text": "- Implemented data analysis frameworks",
+      "score": 0.9942480325698853,
+      "box": [
+        125,
+        314,
+        505,
+        342
+      ]
+    },
+    {
+      "text": "- Directed academic intervention strategies",
+      "score": 0.976660430431366,
+      "box": [
+        126,
+        338,
+        525,
+        368
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Growing Field Academy, 2018.11—2020.12",
+      "score": 0.9940055012702942,
+      "box": [
+        115,
+        380,
+        861,
+        411
+      ]
+    },
+    {
+      "text": "- Implemented differentiated instruction strategies",
+      "score": 0.9889018535614014,
+      "box": [
+        125,
+        407,
+        587,
+        435
+      ]
+    },
+    {
+      "text": "- Created instructional units",
+      "score": 0.9903509020805359,
+      "box": [
+        127,
+        432,
+        384,
+        457
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Bright Steps Academy, 2016.102018.11",
+      "score": 0.9980709552764893,
+      "box": [
+        118,
+        473,
+        843,
+        500
+      ]
+    },
+    {
+      "text": "- Prepared instructional materials and worksheets",
+      "score": 0.9828878045082092,
+      "box": [
+        126,
+        498,
+        590,
+        525
+      ]
+    },
+    {
+      "text": "- Prepared lesson summaries",
+      "score": 0.993876039981842,
+      "box": [
+        127,
+        521,
+        403,
+        552
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999021887779236,
+      "box": [
+        117,
+        587,
+        267,
+        614
+      ]
+    },
+    {
+      "text": "Master's, Education and Development, Parkview University, 2017",
+      "score": 0.9761592745780945,
+      "box": [
+        117,
+        633,
+        721,
+        657
+      ]
+    },
+    {
+      "text": "Bachelor's, Child Studies, Windridge University, 2015",
+      "score": 0.9701563119888306,
+      "box": [
+        117,
+        659,
+        612,
+        683
+      ]
+    },
+    {
+      "text": "• Studied principles of instructional materials development",
+      "score": 0.9909997582435608,
+      "box": [
+        132,
+        684,
+        668,
+        708
+      ]
+    },
+    {
+      "text": "•Completed coursework in classroom structure planning",
+      "score": 0.9763156771659851,
+      "box": [
+        131,
+        705,
+        657,
+        738
+      ]
+    }
+  ],
+  "seconds": 3.677610700018704,
+  "id": "15771",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

@@ -1,0 +1,202 @@
+{
+  "lines": [
+    {
+      "text": "HARMONY WEBER",
+      "score": 0.9994665384292603,
+      "box": [
+        116,
+        89,
+        425,
+        122
+      ]
+    },
+    {
+      "text": "MD, USA | +1-307-897-5863 | harmony.weber@example.com",
+      "score": 0.9894755482673645,
+      "box": [
+        115,
+        150,
+        688,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9988656044006348,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, Helping Hands Nursing, 2020.04—2023.01",
+      "score": 0.9802607297897339,
+      "box": [
+        115,
+        287,
+        689,
+        318
+      ]
+    },
+    {
+      "text": "- Led nursing audit programs",
+      "score": 0.998074471950531,
+      "box": [
+        128,
+        315,
+        397,
+        343
+      ]
+    },
+    {
+      "text": "- Implemented clinical decision support systems",
+      "score": 0.9850730895996094,
+      "box": [
+        126,
+        339,
+        572,
+        369
+      ]
+    },
+    {
+      "text": "Registered Nurses, EverWay Nursing Services, 2017.062020.04",
+      "score": 0.9996756315231323,
+      "box": [
+        117,
+        382,
+        724,
+        409
+      ]
+    },
+    {
+      "text": "- Managed long-term care strategies",
+      "score": 0.9918399453163147,
+      "box": [
+        125,
+        406,
+        465,
+        437
+      ]
+    },
+    {
+      "text": "- Directed patient care coordination",
+      "score": 0.9829127192497253,
+      "box": [
+        127,
+        432,
+        454,
+        457
+      ]
+    },
+    {
+      "text": "Registered Nurses, Helping Path Care, 2014.082017.06",
+      "score": 0.9956803917884827,
+      "box": [
+        118,
+        474,
+        646,
+        498
+      ]
+    },
+    {
+      "text": "- Administered sedation protocols",
+      "score": 0.9866917729377747,
+      "box": [
+        126,
+        497,
+        440,
+        525
+      ]
+    },
+    {
+      "text": "- Managed patient advocacy tasks",
+      "score": 0.9776276350021362,
+      "box": [
+        127,
+        521,
+        447,
+        552
+      ]
+    },
+    {
+      "text": "Registered Nurses, SafePath Health, 2010.012012.11",
+      "score": 0.9932073950767517,
+      "box": [
+        118,
+        566,
+        626,
+        590
+      ]
+    },
+    {
+      "text": "- Recorded nursing notes",
+      "score": 0.9894364476203918,
+      "box": [
+        125,
+        589,
+        366,
+        618
+      ]
+    },
+    {
+      "text": "- Assisted with patient mobility",
+      "score": 0.9989321231842041,
+      "box": [
+        125,
+        614,
+        408,
+        642
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9998813271522522,
+      "box": [
+        117,
+        681,
+        266,
+        705
+      ]
+    },
+    {
+      "text": "Bachelor's, Patient Care, Woodview University, 2005",
+      "score": 0.9869972467422485,
+      "box": [
+        117,
+        726,
+        605,
+        749
+      ]
+    },
+    {
+      "text": "•Studied principles of patient identification",
+      "score": 0.9733256101608276,
+      "box": [
+        130,
+        749,
+        526,
+        773
+      ]
+    },
+    {
+      "text": "•Studied fundamentals of vital signs monitoring",
+      "score": 0.9838430285453796,
+      "box": [
+        131,
+        773,
+        573,
+        800
+      ]
+    }
+  ],
+  "seconds": 3.3617536001838744,
+  "id": "24673",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

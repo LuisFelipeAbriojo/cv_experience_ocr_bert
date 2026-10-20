@@ -1,0 +1,152 @@
+{
+  "lines": [
+    {
+      "text": "BRITTANY YANG",
+      "score": 0.9996827244758606,
+      "box": [
+        118,
+        91,
+        392,
+        122
+      ]
+    },
+    {
+      "text": "NY, USA | +1-488-329-3565 | brittany.yang@example.com",
+      "score": 0.9837536215782166,
+      "box": [
+        116,
+        150,
+        659,
+        177
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9991476535797119,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, BlueLine Accounting, 2020.08—2023.01",
+      "score": 0.9908580183982849,
+      "box": [
+        115,
+        288,
+        689,
+        316
+      ]
+    },
+    {
+      "text": "- Established financial data governance",
+      "score": 0.9715983867645264,
+      "box": [
+        126,
+        314,
+        493,
+        341
+      ]
+    },
+    {
+      "text": "- Established audit governance structures",
+      "score": 0.989135205745697,
+      "box": [
+        127,
+        340,
+        513,
+        367
+      ]
+    },
+    {
+      "text": "Accountants Auditors, FairBooks Accounting, 2018.03—2020.08",
+      "score": 0.9923918843269348,
+      "box": [
+        115,
+        379,
+        705,
+        410
+      ]
+    },
+    {
+      "text": "- Prepared aging reports",
+      "score": 0.9987261891365051,
+      "box": [
+        124,
+        406,
+        357,
+        435
+      ]
+    },
+    {
+      "text": "- Processed accounts payable invoices",
+      "score": 0.9854052662849426,
+      "box": [
+        126,
+        429,
+        491,
+        458
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999338984489441,
+      "box": [
+        116,
+        494,
+        267,
+        521
+      ]
+    },
+    {
+      "text": "Master's, Supply Chain Management, Riverside University, 2016",
+      "score": 0.9778147339820862,
+      "box": [
+        114,
+        539,
+        713,
+        567
+      ]
+    },
+    {
+      "text": "Bachelor's, Public Accounting, Brookfield University, 2014",
+      "score": 0.9950397610664368,
+      "box": [
+        117,
+        567,
+        653,
+        591
+      ]
+    },
+    {
+      "text": "•Completed coursework in intangible asset accounting",
+      "score": 0.9717327952384949,
+      "box": [
+        129,
+        589,
+        641,
+        620
+      ]
+    },
+    {
+      "text": "Studied principles of revenue recognition",
+      "score": 0.9914425015449524,
+      "box": [
+        131,
+        613,
+        527,
+        645
+      ]
+    }
+  ],
+  "seconds": 2.428748399950564,
+  "id": "36520",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

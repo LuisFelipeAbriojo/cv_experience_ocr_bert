@@ -1,0 +1,122 @@
+{
+  "lines": [
+    {
+      "text": "KATELYNN WEBER",
+      "score": 0.9995796084403992,
+      "box": [
+        116,
+        89,
+        434,
+        122
+      ]
+    },
+    {
+      "text": "AZ, USA | +1-850-761-6107 | katelynn.weber@example.com",
+      "score": 0.9813317060470581,
+      "box": [
+        118,
+        152,
+        678,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9997527003288269,
+      "box": [
+        117,
+        243,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Registered Nurses, OpenHands Care Services, 2020.09—2023.01",
+      "score": 0.9899881482124329,
+      "box": [
+        117,
+        289,
+        723,
+        316
+      ]
+    },
+    {
+      "text": "- Monitored patient intake and output",
+      "score": 0.9959708452224731,
+      "box": [
+        125,
+        313,
+        469,
+        342
+      ]
+    },
+    {
+      "text": "- Collected laboratory specimens",
+      "score": 0.9871816039085388,
+      "box": [
+        128,
+        340,
+        433,
+        367
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999462962150574,
+      "box": [
+        116,
+        404,
+        268,
+        431
+      ]
+    },
+    {
+      "text": "Master's, Health Care Studies, Goldenbrook University, 2018",
+      "score": 0.9910171627998352,
+      "box": [
+        116,
+        449,
+        681,
+        473
+      ]
+    },
+    {
+      "text": "Bachelor's, Medical Technology, Stonebridge University, 2016",
+      "score": 0.9905334115028381,
+      "box": [
+        115,
+        472,
+        692,
+        500
+      ]
+    },
+    {
+      "text": "•Completed coursework in patient discharge planning",
+      "score": 0.9845513701438904,
+      "box": [
+        131,
+        498,
+        633,
+        527
+      ]
+    },
+    {
+      "text": "Completed coursework in suctioning techniques",
+      "score": 0.9998874068260193,
+      "box": [
+        132,
+        521,
+        591,
+        552
+      ]
+    }
+  ],
+  "seconds": 7.829069900326431,
+  "id": "01955",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

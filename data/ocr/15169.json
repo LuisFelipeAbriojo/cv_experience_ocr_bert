@@ -1,0 +1,202 @@
+{
+  "lines": [
+    {
+      "text": "MICHAELA PATEL",
+      "score": 0.9839434027671814,
+      "box": [
+        118,
+        92,
+        412,
+        122
+      ]
+    },
+    {
+      "text": "GA, USA | +1-822-598-3499 | michaela.patel@example.com",
+      "score": 0.9926332831382751,
+      "box": [
+        116,
+        150,
+        676,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9989857077598572,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Integrity Balance Financial, 2020.07—2023.01",
+      "score": 0.9847559928894043,
+      "box": [
+        114,
+        287,
+        745,
+        318
+      ]
+    },
+    {
+      "text": "- Developed accounting innovation plans",
+      "score": 0.990309476852417,
+      "box": [
+        127,
+        314,
+        506,
+        343
+      ]
+    },
+    {
+      "text": "- Led cross-functional financial integration",
+      "score": 0.9964349865913391,
+      "box": [
+        128,
+        340,
+        514,
+        366
+      ]
+    },
+    {
+      "text": "Accountants Auditors, OpenLedger Accounting, 2018.01—2020.07",
+      "score": 0.9874380230903625,
+      "box": [
+        116,
+        381,
+        725,
+        409
+      ]
+    },
+    {
+      "text": "- Developed accounting innovation plans",
+      "score": 0.9968763589859009,
+      "box": [
+        126,
+        408,
+        505,
+        433
+      ]
+    },
+    {
+      "text": "- Led financial data standardization",
+      "score": 0.9891364574432373,
+      "box": [
+        127,
+        432,
+        453,
+        457
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Integrity Accounts, 2015.072018.01",
+      "score": 0.9983446002006531,
+      "box": [
+        117,
+        474,
+        664,
+        498
+      ]
+    },
+    {
+      "text": "- Managed monthly close processes",
+      "score": 0.9867976903915405,
+      "box": [
+        125,
+        497,
+        465,
+        527
+      ]
+    },
+    {
+      "text": "- Developed audit plans",
+      "score": 0.9842498898506165,
+      "box": [
+        126,
+        522,
+        351,
+        551
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Precise Balance Financial Group, 2010.112013.06",
+      "score": 0.9948098063468933,
+      "box": [
+        117,
+        566,
+        803,
+        590
+      ]
+    },
+    {
+      "text": "- Reviewed vendor payments",
+      "score": 0.9940370321273804,
+      "box": [
+        127,
+        592,
+        401,
+        616
+      ]
+    },
+    {
+      "text": "- Reviewed credit memos",
+      "score": 0.998450756072998,
+      "box": [
+        125,
+        613,
+        366,
+        643
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999219179153442,
+      "box": [
+        117,
+        681,
+        266,
+        705
+      ]
+    },
+    {
+      "text": "Bachelor's, Financial Management, Blue Ridge University, 2009",
+      "score": 0.9954621195793152,
+      "box": [
+        116,
+        725,
+        706,
+        751
+      ]
+    },
+    {
+      "text": "•Studied fundamentals of forensic accounting",
+      "score": 0.9863125085830688,
+      "box": [
+        130,
+        749,
+        560,
+        775
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of variance analysis",
+      "score": 0.9835550785064697,
+      "box": [
+        132,
+        773,
+        538,
+        799
+      ]
+    }
+  ],
+  "seconds": 2.9977381001226604,
+  "id": "15169",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

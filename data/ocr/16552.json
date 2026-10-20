@@ -1,0 +1,112 @@
+{
+  "lines": [
+    {
+      "text": "LINDSEY OSBORNE",
+      "score": 0.9980705380439758,
+      "box": [
+        116,
+        87,
+        442,
+        123
+      ]
+    },
+    {
+      "text": "GA, USA | +1-219-482-6262 | lindsey.osborne@example.com",
+      "score": 0.98686683177948,
+      "box": [
+        116,
+        149,
+        688,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9993233680725098,
+      "box": [
+        116,
+        243,
+        317,
+        270
+      ]
+    },
+    {
+      "text": "Registered Nurses, SunLife Care Group, 2018.03—2020.09",
+      "score": 0.9872605204582214,
+      "box": [
+        114,
+        286,
+        662,
+        317
+      ]
+    },
+    {
+      "text": "- Provided catheter care",
+      "score": 0.9968636631965637,
+      "box": [
+        125,
+        313,
+        354,
+        340
+      ]
+    },
+    {
+      "text": "- Documented patient observations",
+      "score": 0.9984139204025269,
+      "box": [
+        129,
+        341,
+        452,
+        365
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999385476112366,
+      "box": [
+        116,
+        404,
+        268,
+        431
+      ]
+    },
+    {
+      "text": "Some college (no degree), Pediatric Care, Amber Hills University, 2004",
+      "score": 0.9814563393592834,
+      "box": [
+        116,
+        446,
+        777,
+        476
+      ]
+    },
+    {
+      "text": "•Completed coursework in disaster nursing basics",
+      "score": 0.9835637211799622,
+      "box": [
+        131,
+        473,
+        601,
+        499
+      ]
+    },
+    {
+      "text": "•Studied fundamentals of clinical supervision",
+      "score": 0.9826656579971313,
+      "box": [
+        132,
+        497,
+        553,
+        524
+      ]
+    }
+  ],
+  "seconds": 2.5075508998706937,
+  "id": "16552",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

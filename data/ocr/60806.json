@@ -1,0 +1,142 @@
+{
+  "lines": [
+    {
+      "text": "HAKEEN MARSH",
+      "score": 0.9998350739479065,
+      "box": [
+        117,
+        91,
+        391,
+        122
+      ]
+    },
+    {
+      "text": "WI, USA | +1-386-806-9701 | hakeen.marsh@example.com",
+      "score": 0.9975756406784058,
+      "box": [
+        116,
+        149,
+        669,
+        177
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9997398853302002,
+      "box": [
+        117,
+        243,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Software Developers, Corefield Software, 2021.06—2023.01",
+      "score": 0.9909354448318481,
+      "box": [
+        116,
+        289,
+        667,
+        316
+      ]
+    },
+    {
+      "text": "- Built core libraries",
+      "score": 0.9967138767242432,
+      "box": [
+        126,
+        314,
+        309,
+        340
+      ]
+    },
+    {
+      "text": "- Designed data storage strategies",
+      "score": 0.9983305335044861,
+      "box": [
+        127,
+        339,
+        450,
+        368
+      ]
+    },
+    {
+      "text": "Software Developers, Softpeak Technologies, 2018.08—2020.04",
+      "score": 0.9826698899269104,
+      "box": [
+        116,
+        380,
+        709,
+        408
+      ]
+    },
+    {
+      "text": "- Configured development environments",
+      "score": 0.9950010180473328,
+      "box": [
+        125,
+        407,
+        500,
+        433
+      ]
+    },
+    {
+      "text": "- Handled file uploads",
+      "score": 0.9887866973876953,
+      "box": [
+        126,
+        430,
+        332,
+        459
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9998836517333984,
+      "box": [
+        117,
+        494,
+        266,
+        521
+      ]
+    },
+    {
+      "text": "Associate's degree, Oakwood University, 2012",
+      "score": 0.9943292737007141,
+      "box": [
+        116,
+        539,
+        551,
+        567
+      ]
+    },
+    {
+      "text": "• Completed coursework in software architecture",
+      "score": 0.993949830532074,
+      "box": [
+        132,
+        567,
+        584,
+        591
+      ]
+    },
+    {
+      "text": "Completed coursework in software engineering",
+      "score": 0.994576096534729,
+      "box": [
+        131,
+        589,
+        583,
+        619
+      ]
+    }
+  ],
+  "seconds": 2.3630148000083864,
+  "id": "60806",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

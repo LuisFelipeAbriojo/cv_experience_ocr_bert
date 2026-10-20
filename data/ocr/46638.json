@@ -1,0 +1,152 @@
+{
+  "lines": [
+    {
+      "text": "AMANDA MAYER",
+      "score": 0.98033207654953,
+      "box": [
+        118,
+        91,
+        397,
+        122
+      ]
+    },
+    {
+      "text": "PA, USA | +1-330-630-7748 | amanda.mayer@example.com",
+      "score": 0.9765956401824951,
+      "box": [
+        115,
+        149,
+        678,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9997446537017822,
+      "box": [
+        117,
+        243,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Registered Nurses, WellWay Nursing Services, 2020.05—2022.07",
+      "score": 0.9863319993019104,
+      "box": [
+        116,
+        287,
+        722,
+        317
+      ]
+    },
+    {
+      "text": "- Managed clinical risk assessments",
+      "score": 0.9765426516532898,
+      "box": [
+        126,
+        314,
+        462,
+        341
+      ]
+    },
+    {
+      "text": "- Managed care delivery innovation",
+      "score": 0.9981243014335632,
+      "box": [
+        126,
+        338,
+        455,
+        370
+      ]
+    },
+    {
+      "text": "Registered Nurses, WellLife Medical Group, 2017.052019.08",
+      "score": 0.9741250276565552,
+      "box": [
+        115,
+        379,
+        693,
+        410
+      ]
+    },
+    {
+      "text": "- Assisted with specimen labeling",
+      "score": 0.9868364930152893,
+      "box": [
+        124,
+        404,
+        438,
+        435
+      ]
+    },
+    {
+      "text": "- Assisted with hygiene care",
+      "score": 0.98175048828125,
+      "box": [
+        127,
+        430,
+        390,
+        459
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999158382415771,
+      "box": [
+        116,
+        494,
+        267,
+        521
+      ]
+    },
+    {
+      "text": "Master's, Nursing Practice, Elm Ridge University, 2013",
+      "score": 0.9972960352897644,
+      "box": [
+        116,
+        541,
+        623,
+        565
+      ]
+    },
+    {
+      "text": "Bachelor's, Registered Nursing, Crestwood University, 2011",
+      "score": 0.9942741394042969,
+      "box": [
+        117,
+        567,
+        669,
+        591
+      ]
+    },
+    {
+      "text": "•Studied principles of endocrine nursing",
+      "score": 0.9771229028701782,
+      "box": [
+        128,
+        590,
+        510,
+        619
+      ]
+    },
+    {
+      "text": "Studied fundamentals of skin integrity maintenance",
+      "score": 0.9766905307769775,
+      "box": [
+        129,
+        614,
+        621,
+        643
+      ]
+    }
+  ],
+  "seconds": 3.865924899931997,
+  "id": "46638",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

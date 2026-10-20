@@ -1,0 +1,142 @@
+{
+  "lines": [
+    {
+      "text": "RYAN GILL",
+      "score": 0.9992157816886902,
+      "box": [
+        117,
+        91,
+        298,
+        122
+      ]
+    },
+    {
+      "text": "CA, USA | +1-373-643-3829 | ryan.gill@example.com",
+      "score": 0.9756703972816467,
+      "box": [
+        117,
+        149,
+        612,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9997386932373047,
+      "box": [
+        117,
+        243,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Software Developers, Clearstone Systems, 2020.10—2023.01",
+      "score": 0.9950820803642273,
+      "box": [
+        114,
+        287,
+        683,
+        318
+      ]
+    },
+    {
+      "text": "- Implemented release management strategies",
+      "score": 0.9884623885154724,
+      "box": [
+        126,
+        315,
+        560,
+        341
+      ]
+    },
+    {
+      "text": "- Defined integration standards",
+      "score": 0.9965340495109558,
+      "box": [
+        128,
+        339,
+        416,
+        367
+      ]
+    },
+    {
+      "text": "Software Developers, Stoneframe Tech, 2018.072020.10",
+      "score": 0.9940351247787476,
+      "box": [
+        117,
+        382,
+        658,
+        409
+      ]
+    },
+    {
+      "text": "- Reviewed error reports",
+      "score": 0.980870246887207,
+      "box": [
+        125,
+        407,
+        355,
+        433
+      ]
+    },
+    {
+      "text": "- Assisted with container setup",
+      "score": 0.9781791567802429,
+      "box": [
+        128,
+        429,
+        413,
+        459
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9998800754547119,
+      "box": [
+        117,
+        494,
+        267,
+        521
+      ]
+    },
+    {
+      "text": "Bachelor's, Sunset Ridge University, 2023",
+      "score": 0.9971792697906494,
+      "box": [
+        116,
+        540,
+        506,
+        566
+      ]
+    },
+    {
+      "text": "• Completed coursework in performance benchmarking",
+      "score": 0.9835622906684875,
+      "box": [
+        131,
+        567,
+        641,
+        591
+      ]
+    },
+    {
+      "text": "Studied fundamentals of user interface development",
+      "score": 0.9884535074234009,
+      "box": [
+        131,
+        589,
+        632,
+        617
+      ]
+    }
+  ],
+  "seconds": 2.10318630002439,
+  "id": "08600",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

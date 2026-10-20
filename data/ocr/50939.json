@@ -1,0 +1,162 @@
+{
+  "lines": [
+    {
+      "text": "CHRISTOPHER CHOI",
+      "score": 0.9988226890563965,
+      "box": [
+        118,
+        91,
+        453,
+        122
+      ]
+    },
+    {
+      "text": "TX, USA | +1-359-458-1546 | christopher.choi@example.com",
+      "score": 0.9896697998046875,
+      "box": [
+        119,
+        152,
+        685,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9986692070960999,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Brightnode Systems, 2020.03—2023.01",
+      "score": 0.9894002676010132,
+      "box": [
+        116,
+        290,
+        682,
+        317
+      ]
+    },
+    {
+      "text": "- Led performance tuning initiatives",
+      "score": 0.9964508414268494,
+      "box": [
+        127,
+        317,
+        453,
+        341
+      ]
+    },
+    {
+      "text": "- Led technical audits",
+      "score": 0.9814579486846924,
+      "box": [
+        127,
+        339,
+        327,
+        366
+      ]
+    },
+    {
+      "text": "Software Developers, Codefield Software, 2017.052020.03",
+      "score": 0.9949901103973389,
+      "box": [
+        114,
+        379,
+        674,
+        410
+      ]
+    },
+    {
+      "text": "- Wrote integration tests",
+      "score": 0.9990451335906982,
+      "box": [
+        124,
+        406,
+        353,
+        435
+      ]
+    },
+    {
+      "text": "- Updated localization files",
+      "score": 0.9665370583534241,
+      "box": [
+        127,
+        430,
+        374,
+        460
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999061226844788,
+      "box": [
+        116,
+        494,
+        268,
+        521
+      ]
+    },
+    {
+      "text": "Doctorate, Goldenfield University, 2016",
+      "score": 0.9748275876045227,
+      "box": [
+        115,
+        539,
+        483,
+        567
+      ]
+    },
+    {
+      "text": "Bachelor's, Stonehaven University, 2011",
+      "score": 0.9781563878059387,
+      "box": [
+        117,
+        566,
+        491,
+        590
+      ]
+    },
+    {
+      "text": "• Completed coursework in exception management",
+      "score": 0.9851265549659729,
+      "box": [
+        130,
+        593,
+        608,
+        617
+      ]
+    },
+    {
+      "text": "Studied fundamentals of game development",
+      "score": 0.9945474863052368,
+      "box": [
+        129,
+        614,
+        559,
+        644
+      ]
+    },
+    {
+      "text": "• Completed coursework in system programming",
+      "score": 0.9791204333305359,
+      "box": [
+        132,
+        640,
+        585,
+        670
+      ]
+    }
+  ],
+  "seconds": 2.3484295001253486,
+  "id": "50939",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

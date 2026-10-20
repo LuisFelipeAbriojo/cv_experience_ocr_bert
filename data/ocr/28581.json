@@ -1,0 +1,152 @@
+{
+  "lines": [
+    {
+      "text": "DANIEL BRADFORD",
+      "score": 0.974766194820404,
+      "box": [
+        117,
+        90,
+        442,
+        122
+      ]
+    },
+    {
+      "text": "MN, USA | +1-903-439-6659 | daniel.bradford@example.com",
+      "score": 0.9852722883224487,
+      "box": [
+        115,
+        149,
+        684,
+        177
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9985249042510986,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Codefield Software, 2020.03—2023.01",
+      "score": 0.9924644827842712,
+      "box": [
+        116,
+        289,
+        672,
+        316
+      ]
+    },
+    {
+      "text": "- Designed data storage strategies",
+      "score": 0.9853919744491577,
+      "box": [
+        127,
+        314,
+        450,
+        343
+      ]
+    },
+    {
+      "text": "- Led platform migrations",
+      "score": 0.9996387958526611,
+      "box": [
+        128,
+        339,
+        362,
+        369
+      ]
+    },
+    {
+      "text": "Software Developers, Datastream Labs, 2015.082018.07",
+      "score": 0.9836732149124146,
+      "box": [
+        117,
+        381,
+        655,
+        408
+      ]
+    },
+    {
+      "text": "- Wrote configuration parsers",
+      "score": 0.9965089559555054,
+      "box": [
+        124,
+        406,
+        400,
+        435
+      ]
+    },
+    {
+      "text": "- Handled feature toggles",
+      "score": 0.9754404425621033,
+      "box": [
+        126,
+        430,
+        365,
+        460
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999087452888489,
+      "box": [
+        116,
+        494,
+        267,
+        521
+      ]
+    },
+    {
+      "text": "Master's, Fieldview University, 2012",
+      "score": 0.9923643469810486,
+      "box": [
+        115,
+        540,
+        451,
+        566
+      ]
+    },
+    {
+      "text": "Bachelor's, Autumn Ridge University, 2010",
+      "score": 0.9704022407531738,
+      "box": [
+        117,
+        567,
+        514,
+        591
+      ]
+    },
+    {
+      "text": "•Completed coursework in full-stack development",
+      "score": 0.9794006943702698,
+      "box": [
+        129,
+        591,
+        596,
+        615
+      ]
+    },
+    {
+      "text": "Studied fundamentals of refactoring techniques",
+      "score": 0.9898489117622375,
+      "box": [
+        130,
+        614,
+        585,
+        644
+      ]
+    }
+  ],
+  "seconds": 2.1732931002043188,
+  "id": "28581",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

@@ -1,0 +1,172 @@
+{
+  "lines": [
+    {
+      "text": "DAVID ELLISON",
+      "score": 0.9991537928581238,
+      "box": [
+        117,
+        91,
+        377,
+        121
+      ]
+    },
+    {
+      "text": "CT, USA | +1-503-349-5690 | david.ellison@example.com",
+      "score": 0.9826658964157104,
+      "box": [
+        118,
+        152,
+        654,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9990290999412537,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Stonepath Digital, 2020.122023.01",
+      "score": 0.9970867037773132,
+      "box": [
+        116,
+        290,
+        654,
+        317
+      ]
+    },
+    {
+      "text": "- Implemented service orchestration",
+      "score": 0.9770503640174866,
+      "box": [
+        127,
+        314,
+        462,
+        342
+      ]
+    },
+    {
+      "text": "- Reviewed system design documents",
+      "score": 0.9949770569801331,
+      "box": [
+        128,
+        339,
+        481,
+        369
+      ]
+    },
+    {
+      "text": "Software Developers, Netline Technologies, 2018.112020.12",
+      "score": 0.9942442178726196,
+      "box": [
+        115,
+        381,
+        693,
+        411
+      ]
+    },
+    {
+      "text": "- Improved system reliability",
+      "score": 0.9919685125350952,
+      "box": [
+        125,
+        406,
+        389,
+        435
+      ]
+    },
+    {
+      "text": "- Implemented security controls",
+      "score": 0.992604672908783,
+      "box": [
+        129,
+        434,
+        420,
+        457
+      ]
+    },
+    {
+      "text": "Software Developers, Netline Solutions, 2016.102018.11",
+      "score": 0.9897471070289612,
+      "box": [
+        116,
+        472,
+        653,
+        499
+      ]
+    },
+    {
+      "text": "- Optimized simple queries",
+      "score": 0.9946267604827881,
+      "box": [
+        128,
+        500,
+        377,
+        524
+      ]
+    },
+    {
+      "text": "- Assisted with build automation",
+      "score": 0.9837390780448914,
+      "box": [
+        129,
+        522,
+        422,
+        546
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999102354049683,
+      "box": [
+        117,
+        587,
+        267,
+        614
+      ]
+    },
+    {
+      "text": "Bachelor's, Goldenwood University, 2015",
+      "score": 0.9855281114578247,
+      "box": [
+        117,
+        631,
+        500,
+        658
+      ]
+    },
+    {
+      "text": "Completed coursework in debugging techniques",
+      "score": 0.9871296286582947,
+      "box": [
+        129,
+        656,
+        595,
+        685
+      ]
+    },
+    {
+      "text": "Studied fundamentals of error handling",
+      "score": 0.9901206493377686,
+      "box": [
+        130,
+        679,
+        508,
+        710
+      ]
+    }
+  ],
+  "seconds": 2.2512131999246776,
+  "id": "11437",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

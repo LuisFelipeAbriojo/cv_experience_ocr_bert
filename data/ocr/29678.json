@@ -1,0 +1,202 @@
+{
+  "lines": [
+    {
+      "text": "SEAN BERGER",
+      "score": 0.9998083114624023,
+      "box": [
+        116,
+        89,
+        363,
+        122
+      ]
+    },
+    {
+      "text": "MS, USA | +1-525-287-3143 | sean.berger@example.com",
+      "score": 0.9878613948822021,
+      "box": [
+        116,
+        150,
+        653,
+        177
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.996246337890625,
+      "box": [
+        117,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, EverRise Construction, 2018.01—2023.01",
+      "score": 0.9798904061317444,
+      "box": [
+        116,
+        288,
+        715,
+        316
+      ]
+    },
+    {
+      "text": "- Reviewed site inspection reports",
+      "score": 0.9803198575973511,
+      "box": [
+        126,
+        315,
+        443,
+        342
+      ]
+    },
+    {
+      "text": "- Established project documentation systems",
+      "score": 0.9935714602470398,
+      "box": [
+        127,
+        341,
+        543,
+        367
+      ]
+    },
+    {
+      "text": "Construction Laborers, SolidBuild Group, 2013.012018.01",
+      "score": 0.9874578714370728,
+      "box": [
+        116,
+        381,
+        663,
+        409
+      ]
+    },
+    {
+      "text": "- Implemented safety compliance strategies",
+      "score": 0.999714195728302,
+      "box": [
+        126,
+        408,
+        532,
+        434
+      ]
+    },
+    {
+      "text": "- Reviewed compliance documentation",
+      "score": 0.9992442727088928,
+      "box": [
+        127,
+        432,
+        487,
+        457
+      ]
+    },
+    {
+      "text": "Construction Laborers, FirmWay Construction, 2007.12—2013.01",
+      "score": 0.9832505583763123,
+      "box": [
+        117,
+        471,
+        713,
+        499
+      ]
+    },
+    {
+      "text": "- Performed quality checks on installations",
+      "score": 0.995449960231781,
+      "box": [
+        129,
+        500,
+        520,
+        524
+      ]
+    },
+    {
+      "text": "- Maintained equipment logs",
+      "score": 0.9961907863616943,
+      "box": [
+        126,
+        521,
+        393,
+        551
+      ]
+    },
+    {
+      "text": "Construction Laborers, CornerStonecraft, 2002.112007.12",
+      "score": 0.9820157885551453,
+      "box": [
+        118,
+        566,
+        668,
+        590
+      ]
+    },
+    {
+      "text": "- Set up workstations for crews",
+      "score": 0.9965552091598511,
+      "box": [
+        125,
+        590,
+        416,
+        616
+      ]
+    },
+    {
+      "text": "- Maintained tool storage areas",
+      "score": 0.9836873412132263,
+      "box": [
+        125,
+        613,
+        418,
+        644
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999933123588562,
+      "box": [
+        117,
+        681,
+        266,
+        705
+      ]
+    },
+    {
+      "text": "Some college (no degree), Carpentry, Brookhaven University, 2003",
+      "score": 0.9805202484130859,
+      "box": [
+        116,
+        724,
+        740,
+        750
+      ]
+    },
+    {
+      "text": "•Studied fundamentals of surface preparation",
+      "score": 0.976859450340271,
+      "box": [
+        131,
+        749,
+        560,
+        774
+      ]
+    },
+    {
+      "text": "Completed coursework in basic formwork",
+      "score": 0.9976319670677185,
+      "box": [
+        132,
+        772,
+        532,
+        800
+      ]
+    }
+  ],
+  "seconds": 2.8793050996027887,
+  "id": "29678",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

@@ -1,0 +1,142 @@
+{
+  "lines": [
+    {
+      "text": "LANGLEY FRYE",
+      "score": 0.9986811280250549,
+      "box": [
+        117,
+        91,
+        377,
+        121
+      ]
+    },
+    {
+      "text": "AL, USA | +1-453-928-7877 | langley.frye@example.com",
+      "score": 0.9965037107467651,
+      "box": [
+        116,
+        149,
+        644,
+        177
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9991269111633301,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, Compassion Life Medical, 2020.02—2023.01",
+      "score": 0.9869615435600281,
+      "box": [
+        117,
+        289,
+        708,
+        316
+      ]
+    },
+    {
+      "text": "- Led nursing workflow optimization",
+      "score": 0.9755194783210754,
+      "box": [
+        127,
+        314,
+        456,
+        342
+      ]
+    },
+    {
+      "text": "- Designed clinical care protocols",
+      "score": 0.9976449608802795,
+      "box": [
+        127,
+        339,
+        437,
+        367
+      ]
+    },
+    {
+      "text": "Registered Nurses, ClearWay Nursing Group, 2017.032020.02",
+      "score": 0.9851603507995605,
+      "box": [
+        116,
+        380,
+        709,
+        410
+      ]
+    },
+    {
+      "text": "- Assisted with physical therapy exercises",
+      "score": 0.9899710416793823,
+      "box": [
+        125,
+        407,
+        515,
+        433
+      ]
+    },
+    {
+      "text": "- Assisted with patient transfers",
+      "score": 0.9835078120231628,
+      "box": [
+        127,
+        430,
+        421,
+        458
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999433159828186,
+      "box": [
+        116,
+        494,
+        267,
+        521
+      ]
+    },
+    {
+      "text": "Bachelor's, Health and Wellness, Brightfield University, 2015",
+      "score": 0.9883307218551636,
+      "box": [
+        115,
+        539,
+        677,
+        567
+      ]
+    },
+    {
+      "text": "•Studied fundamentals of surgical nursing",
+      "score": 0.9861692786216736,
+      "box": [
+        130,
+        565,
+        525,
+        592
+      ]
+    },
+    {
+      "text": "• Completed coursework in patient safety culture",
+      "score": 0.9919137358665466,
+      "box": [
+        132,
+        591,
+        581,
+        617
+      ]
+    }
+  ],
+  "seconds": 3.6420363998040557,
+  "id": "00515",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

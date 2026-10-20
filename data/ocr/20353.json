@@ -1,0 +1,152 @@
+{
+  "lines": [
+    {
+      "text": "MICHAEL OCONNELL",
+      "score": 0.9998037815093994,
+      "box": [
+        118,
+        91,
+        466,
+        122
+      ]
+    },
+    {
+      "text": "IN, USA | +1-602-548-4861 | michael.oconnell@example.com",
+      "score": 0.9959501624107361,
+      "box": [
+        116,
+        150,
+        688,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9991400837898254,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, CoreLedger Financial Group, 2020.06—2023.01",
+      "score": 0.9790239930152893,
+      "box": [
+        114,
+        287,
+        763,
+        318
+      ]
+    },
+    {
+      "text": "- Designed financial accountability systems",
+      "score": 0.9674989581108093,
+      "box": [
+        128,
+        315,
+        526,
+        342
+      ]
+    },
+    {
+      "text": "- Led accounting process optimization",
+      "score": 0.9853494763374329,
+      "box": [
+        128,
+        340,
+        480,
+        368
+      ]
+    },
+    {
+      "text": "Accountants Auditors, ClearPath Financial, 2017.112020.06",
+      "score": 0.9928786754608154,
+      "box": [
+        118,
+        383,
+        682,
+        407
+      ]
+    },
+    {
+      "text": "- Verified transaction accuracy",
+      "score": 0.9771590232849121,
+      "box": [
+        124,
+        403,
+        411,
+        436
+      ]
+    },
+    {
+      "text": "- Processed journal corrections",
+      "score": 0.978236734867096,
+      "box": [
+        126,
+        430,
+        418,
+        458
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999297261238098,
+      "box": [
+        116,
+        494,
+        267,
+        521
+      ]
+    },
+    {
+      "text": "Master's, Statistics, Brookridge University, 2016",
+      "score": 0.9887018203735352,
+      "box": [
+        116,
+        542,
+        559,
+        566
+      ]
+    },
+    {
+      "text": "Bachelor's, Applied Accounting, Golden Meadow University, 2014",
+      "score": 0.9961172938346863,
+      "box": [
+        117,
+        567,
+        724,
+        591
+      ]
+    },
+    {
+      "text": "• Completed coursework in business communication",
+      "score": 0.9887587428092957,
+      "box": [
+        130,
+        593,
+        618,
+        616
+      ]
+    },
+    {
+      "text": "Studied fundamentals of operations management",
+      "score": 0.9946498274803162,
+      "box": [
+        130,
+        614,
+        606,
+        644
+      ]
+    }
+  ],
+  "seconds": 2.4330270998179913,
+  "id": "20353",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

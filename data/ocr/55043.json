@@ -1,0 +1,132 @@
+{
+  "lines": [
+    {
+      "text": "AMBROSE PECK",
+      "score": 0.9964015483856201,
+      "box": [
+        118,
+        91,
+        392,
+        122
+      ]
+    },
+    {
+      "text": "UT, USA | +1-658-905-5498 | ambrose.peck@example.com",
+      "score": 0.974923849105835,
+      "box": [
+        118,
+        152,
+        670,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9991481304168701,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, CornerTrack Construction, 2020.072022.07",
+      "score": 0.9976478219032288,
+      "box": [
+        117,
+        289,
+        747,
+        316
+      ]
+    },
+    {
+      "text": "- Implemented safety compliance strategies",
+      "score": 0.9842328429222107,
+      "box": [
+        125,
+        314,
+        532,
+        343
+      ]
+    },
+    {
+      "text": "- Reviewed and approved project plans",
+      "score": 0.9849492907524109,
+      "box": [
+        127,
+        339,
+        492,
+        368
+      ]
+    },
+    {
+      "text": "Construction Laborers, BuildPoint Co., 2017.102019.10",
+      "score": 0.9760410189628601,
+      "box": [
+        116,
+        380,
+        641,
+        408
+      ]
+    },
+    {
+      "text": "- Assembled prefabricated components",
+      "score": 0.990067183971405,
+      "box": [
+        124,
+        406,
+        493,
+        434
+      ]
+    },
+    {
+      "text": "- Set up ladders and basic scaffolding",
+      "score": 0.971858561038971,
+      "box": [
+        126,
+        430,
+        478,
+        459
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999123811721802,
+      "box": [
+        117,
+        494,
+        267,
+        521
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Masonry, Stonehaven High School, 2009",
+      "score": 0.9980459213256836,
+      "box": [
+        117,
+        541,
+        757,
+        568
+      ]
+    },
+    {
+      "text": "• Completed coursework in basic earthmoving techniques",
+      "score": 0.9892520308494568,
+      "box": [
+        132,
+        565,
+        665,
+        593
+      ]
+    }
+  ],
+  "seconds": 2.0509889000095427,
+  "id": "55043",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

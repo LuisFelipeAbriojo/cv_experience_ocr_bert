@@ -1,0 +1,112 @@
+{
+  "lines": [
+    {
+      "text": "DESIREA CHANG",
+      "score": 0.9995956420898438,
+      "box": [
+        118,
+        91,
+        398,
+        122
+      ]
+    },
+    {
+      "text": "CA, USA | +1-615-557-9455 | desirea.chang@example.com",
+      "score": 0.9889087080955505,
+      "box": [
+        116,
+        150,
+        672,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9997507929801941,
+      "box": [
+        117,
+        243,
+        317,
+        270
+      ]
+    },
+    {
+      "text": "Registered Nurses, GentleCare Health, 2020.02—2020.09",
+      "score": 0.9936312437057495,
+      "box": [
+        117,
+        290,
+        648,
+        314
+      ]
+    },
+    {
+      "text": "- Monitored patient skin condition",
+      "score": 0.9844338893890381,
+      "box": [
+        125,
+        314,
+        437,
+        339
+      ]
+    },
+    {
+      "text": "- Checked medication dosages",
+      "score": 0.9863325953483582,
+      "box": [
+        127,
+        339,
+        417,
+        366
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999088644981384,
+      "box": [
+        116,
+        404,
+        268,
+        431
+      ]
+    },
+    {
+      "text": "Bachelor's, Health Education, Lakewood University, 2016",
+      "score": 0.9803544878959656,
+      "box": [
+        115,
+        446,
+        648,
+        474
+      ]
+    },
+    {
+      "text": "• Completed coursework in nutritional assessment",
+      "score": 0.9905124306678772,
+      "box": [
+        131,
+        475,
+        598,
+        498
+      ]
+    },
+    {
+      "text": "Studied principles of oxygen therapy",
+      "score": 0.9873831272125244,
+      "box": [
+        132,
+        497,
+        485,
+        528
+      ]
+    }
+  ],
+  "seconds": 2.097878399770707,
+  "id": "03733",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

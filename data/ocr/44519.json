@@ -1,0 +1,122 @@
+{
+  "lines": [
+    {
+      "text": "ELIANA PERSON",
+      "score": 0.9992955327033997,
+      "box": [
+        118,
+        91,
+        393,
+        122
+      ]
+    },
+    {
+      "text": "OR, USA | +1-660-709-6251 | eliana.person@example.com",
+      "score": 0.9889925122261047,
+      "box": [
+        118,
+        152,
+        667,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9997507929801941,
+      "box": [
+        117,
+        243,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Software Developers, Flowframe Digital, 2020.02—2023.01",
+      "score": 0.9762012958526611,
+      "box": [
+        116,
+        289,
+        656,
+        316
+      ]
+    },
+    {
+      "text": "- Implemented caching logic",
+      "score": 0.9742245674133301,
+      "box": [
+        125,
+        313,
+        391,
+        343
+      ]
+    },
+    {
+      "text": "- Fixed software bugs identified through testing",
+      "score": 0.9922506809234619,
+      "box": [
+        127,
+        338,
+        562,
+        368
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999057054519653,
+      "box": [
+        116,
+        404,
+        268,
+        431
+      ]
+    },
+    {
+      "text": "Master's, Riverfield University, 2021",
+      "score": 0.9905238747596741,
+      "box": [
+        116,
+        449,
+        448,
+        473
+      ]
+    },
+    {
+      "text": "Bachelor's, Hillview University, 2019",
+      "score": 0.9869527816772461,
+      "box": [
+        117,
+        474,
+        452,
+        498
+      ]
+    },
+    {
+      "text": "•Studied principles of software reliability",
+      "score": 0.9775682687759399,
+      "box": [
+        130,
+        500,
+        507,
+        524
+      ]
+    },
+    {
+      "text": "Studied principles of dependency injection",
+      "score": 0.9943939447402954,
+      "box": [
+        131,
+        522,
+        538,
+        551
+      ]
+    }
+  ],
+  "seconds": 1.9971022997051477,
+  "id": "44519",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

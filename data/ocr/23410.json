@@ -1,0 +1,172 @@
+{
+  "lines": [
+    {
+      "text": "PATRICK HINTON",
+      "score": 0.9997318983078003,
+      "box": [
+        117,
+        91,
+        404,
+        121
+      ]
+    },
+    {
+      "text": "LA, USA | +1-648-736-8827 | patrick.hinton@example.com",
+      "score": 0.9859196543693542,
+      "box": [
+        117,
+        152,
+        661,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9991222023963928,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, TrueLine Services, 2021.01—2023.01",
+      "score": 0.9759160280227661,
+      "box": [
+        116,
+        288,
+        675,
+        316
+      ]
+    },
+    {
+      "text": "- Directed project execution strategies",
+      "score": 0.9711326360702515,
+      "box": [
+        125,
+        314,
+        480,
+        343
+      ]
+    },
+    {
+      "text": "- Established project documentation systems",
+      "score": 0.9879925847053528,
+      "box": [
+        126,
+        339,
+        544,
+        368
+      ]
+    },
+    {
+      "text": "Construction Laborers, TrueBuild Group, 2018.122021.01",
+      "score": 0.9804540276527405,
+      "box": [
+        118,
+        383,
+        659,
+        407
+      ]
+    },
+    {
+      "text": "- Prepared site reports",
+      "score": 0.999455988407135,
+      "box": [
+        126,
+        409,
+        338,
+        433
+      ]
+    },
+    {
+      "text": "- Set up scaffolding systems",
+      "score": 0.9885016083717346,
+      "box": [
+        126,
+        430,
+        391,
+        461
+      ]
+    },
+    {
+      "text": "Construction Laborers, Precision Structures, 2015.042017.05",
+      "score": 0.9921609163284302,
+      "box": [
+        118,
+        473,
+        695,
+        497
+      ]
+    },
+    {
+      "text": "- Installed basic flooring materials",
+      "score": 0.9905061721801758,
+      "box": [
+        127,
+        499,
+        440,
+        523
+      ]
+    },
+    {
+      "text": "- Applied basic sealants and adhesives",
+      "score": 0.9792271852493286,
+      "box": [
+        128,
+        521,
+        491,
+        550
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999417066574097,
+      "box": [
+        118,
+        588,
+        266,
+        612
+      ]
+    },
+    {
+      "text": "Some college (no degree), Construction Estimating, Silverfield University, 2004",
+      "score": 0.9903097748756409,
+      "box": [
+        117,
+        632,
+        847,
+        659
+      ]
+    },
+    {
+      "text": "•Completed coursework in basic plastering",
+      "score": 0.9812154769897461,
+      "box": [
+        130,
+        657,
+        536,
+        685
+      ]
+    },
+    {
+      "text": "Completed coursework in construction logistics planning",
+      "score": 0.9814164042472839,
+      "box": [
+        131,
+        679,
+        667,
+        712
+      ]
+    }
+  ],
+  "seconds": 2.6178186000324786,
+  "id": "23410",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

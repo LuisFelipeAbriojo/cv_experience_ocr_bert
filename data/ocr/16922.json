@@ -1,0 +1,152 @@
+{
+  "lines": [
+    {
+      "text": "DANIELLA WILLIAMS",
+      "score": 0.9993916749954224,
+      "box": [
+        118,
+        92,
+        460,
+        122
+      ]
+    },
+    {
+      "text": "ID, USA | +1-792-212-3774 | daniella.williams@example.com",
+      "score": 0.9869710206985474,
+      "box": [
+        118,
+        152,
+        683,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9991219639778137,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Golden Field Academy, 2020.07-2023.01",
+      "score": 0.9900516867637634,
+      "box": [
+        115,
+        287,
+        848,
+        318
+      ]
+    },
+    {
+      "text": "- Implemented assessment policy frameworks",
+      "score": 0.9996085166931152,
+      "box": [
+        125,
+        314,
+        553,
+        343
+      ]
+    },
+    {
+      "text": "- Developed teacher training modules",
+      "score": 0.9857085347175598,
+      "box": [
+        127,
+        339,
+        477,
+        369
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Riverside Learning Center, 2017.12—2020.07",
+      "score": 0.9804279208183289,
+      "box": [
+        116,
+        381,
+        882,
+        411
+      ]
+    },
+    {
+      "text": "- Organized classroom learning resources",
+      "score": 0.9989859461784363,
+      "box": [
+        126,
+        408,
+        517,
+        433
+      ]
+    },
+    {
+      "text": "- Supervised transitions between lessons",
+      "score": 0.9970285296440125,
+      "box": [
+        128,
+        432,
+        509,
+        457
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999465942382812,
+      "box": [
+        116,
+        494,
+        267,
+        521
+      ]
+    },
+    {
+      "text": "Master's, Student Learning Studies, Pineview Ridge University, 2016",
+      "score": 0.9839985370635986,
+      "box": [
+        114,
+        539,
+        753,
+        568
+      ]
+    },
+    {
+      "text": "Bachelor's, Teaching Studies, Westbrook University, 2014",
+      "score": 0.9734611511230469,
+      "box": [
+        116,
+        566,
+        655,
+        591
+      ]
+    },
+    {
+      "text": "• Completed coursework in lesson reflection practices",
+      "score": 0.9958351850509644,
+      "box": [
+        129,
+        592,
+        629,
+        617
+      ]
+    },
+    {
+      "text": "Studied fundamentals of instructional feedback",
+      "score": 0.9968996644020081,
+      "box": [
+        130,
+        614,
+        583,
+        642
+      ]
+    }
+  ],
+  "seconds": 2.6003791000694036,
+  "id": "16922",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

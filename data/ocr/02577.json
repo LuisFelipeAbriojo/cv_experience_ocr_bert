@@ -1,0 +1,172 @@
+{
+  "lines": [
+    {
+      "text": "LYLE WALKER",
+      "score": 0.9952605962753296,
+      "box": [
+        116,
+        91,
+        359,
+        121
+      ]
+    },
+    {
+      "text": "CA, USA | +1-268-311-5335 | lyle.walker@example.com",
+      "score": 0.9791299700737,
+      "box": [
+        118,
+        152,
+        637,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9990541934967041,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, SolidTrack Construction, 2020.12—2023.01",
+      "score": 0.9945167899131775,
+      "box": [
+        117,
+        289,
+        728,
+        314
+      ]
+    },
+    {
+      "text": "- Managed equipment maintenance programs",
+      "score": 0.9907953143119812,
+      "box": [
+        125,
+        314,
+        553,
+        343
+      ]
+    },
+    {
+      "text": "- Directed project scheduling",
+      "score": 0.988226056098938,
+      "box": [
+        127,
+        339,
+        394,
+        369
+      ]
+    },
+    {
+      "text": "Construction Laborers, EverStrong Construction, 2017.042019.05",
+      "score": 0.9891266226768494,
+      "box": [
+        116,
+        380,
+        737,
+        408
+      ]
+    },
+    {
+      "text": "- Installed foundation elements",
+      "score": 0.999223530292511,
+      "box": [
+        125,
+        407,
+        413,
+        432
+      ]
+    },
+    {
+      "text": "- Performed site leveling tasks",
+      "score": 0.9964598417282104,
+      "box": [
+        128,
+        431,
+        409,
+        457
+      ]
+    },
+    {
+      "text": "Construction Laborers, SolidTrack Builders, 2014.072016.08",
+      "score": 0.9959108829498291,
+      "box": [
+        118,
+        473,
+        688,
+        496
+      ]
+    },
+    {
+      "text": "- Carried materials to designated work areas",
+      "score": 0.974562406539917,
+      "box": [
+        126,
+        497,
+        541,
+        524
+      ]
+    },
+    {
+      "text": "- Secured site fencing",
+      "score": 0.9800840020179749,
+      "box": [
+        127,
+        520,
+        331,
+        549
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.99993896484375,
+      "box": [
+        118,
+        588,
+        266,
+        612
+      ]
+    },
+    {
+      "text": "Associate's degree, Construction Fundamentals, Windcrest University, 2006",
+      "score": 0.9807189702987671,
+      "box": [
+        118,
+        633,
+        818,
+        657
+      ]
+    },
+    {
+      "text": "•Studied fundamentals of scaffolding assembly",
+      "score": 0.989075779914856,
+      "box": [
+        127,
+        656,
+        574,
+        684
+      ]
+    },
+    {
+      "text": "•Studied fundamentals of structural framing techniques",
+      "score": 0.9870075583457947,
+      "box": [
+        130,
+        680,
+        647,
+        709
+      ]
+    }
+  ],
+  "seconds": 2.6221042997203767,
+  "id": "02577",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

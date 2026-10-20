@@ -1,0 +1,112 @@
+{
+  "lines": [
+    {
+      "text": "ISABELLA FULLER",
+      "score": 0.999882161617279,
+      "box": [
+        117,
+        91,
+        426,
+        122
+      ]
+    },
+    {
+      "text": "WI, USA | +1-553-899-8760 | isabella.fuller@example.com",
+      "score": 0.99361252784729,
+      "box": [
+        116,
+        149,
+        660,
+        177
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9997648596763611,
+      "box": [
+        117,
+        243,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Registered Nurses, WellSpring Nursing Services, 2021.02—2023.01",
+      "score": 0.9934700727462769,
+      "box": [
+        114,
+        286,
+        740,
+        317
+      ]
+    },
+    {
+      "text": "- Recorded patient vital signs",
+      "score": 0.9988734722137451,
+      "box": [
+        124,
+        312,
+        400,
+        343
+      ]
+    },
+    {
+      "text": "- Checked patient identification",
+      "score": 0.960128664970398,
+      "box": [
+        126,
+        338,
+        415,
+        366
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999367594718933,
+      "box": [
+        116,
+        404,
+        268,
+        431
+      ]
+    },
+    {
+      "text": "Bachelor's, Health Systems, Greenway University, 2023",
+      "score": 0.9934836626052856,
+      "box": [
+        116,
+        448,
+        634,
+        475
+      ]
+    },
+    {
+      "text": "Completed coursework in disaster nursing basics",
+      "score": 0.9892112016677856,
+      "box": [
+        131,
+        472,
+        602,
+        501
+      ]
+    },
+    {
+      "text": "Completed coursework in clinical reporting",
+      "score": 0.9997859001159668,
+      "box": [
+        132,
+        497,
+        541,
+        527
+      ]
+    }
+  ],
+  "seconds": 2.1618527001701295,
+  "id": "61032",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

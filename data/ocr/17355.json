@@ -1,0 +1,172 @@
+{
+  "lines": [
+    {
+      "text": "LISSETTE MCCORMICK",
+      "score": 0.9996911287307739,
+      "box": [
+        116,
+        91,
+        498,
+        122
+      ]
+    },
+    {
+      "text": "IL, USA |+1-522-862-6227 |lissette.mccormick@example.com",
+      "score": 0.9885941743850708,
+      "box": [
+        118,
+        151,
+        698,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9991641640663147,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Integrity Ledger Services, 2020.12—2023.01",
+      "score": 0.9831568002700806,
+      "box": [
+        114,
+        287,
+        731,
+        318
+      ]
+    },
+    {
+      "text": "- Developed regulatory reporting strategies",
+      "score": 0.9977747797966003,
+      "box": [
+        128,
+        316,
+        524,
+        342
+      ]
+    },
+    {
+      "text": "- Developed financial performance metrics",
+      "score": 0.9953590035438538,
+      "box": [
+        128,
+        341,
+        520,
+        366
+      ]
+    },
+    {
+      "text": "Accountants Auditors, TrustCount Advisors, 2018.112020.12",
+      "score": 0.9961037039756775,
+      "box": [
+        118,
+        383,
+        690,
+        407
+      ]
+    },
+    {
+      "text": "- Managed accounting system updates",
+      "score": 0.9852952361106873,
+      "box": [
+        126,
+        409,
+        487,
+        433
+      ]
+    },
+    {
+      "text": "- Developed financial policies",
+      "score": 0.9881488680839539,
+      "box": [
+        128,
+        432,
+        400,
+        458
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Reliable Accounts Advisors, 2013.102015.11",
+      "score": 0.9994103908538818,
+      "box": [
+        118,
+        473,
+        752,
+        497
+      ]
+    },
+    {
+      "text": "- Reviewed timesheets for payroll",
+      "score": 0.995428740978241,
+      "box": [
+        127,
+        499,
+        439,
+        523
+      ]
+    },
+    {
+      "text": "- Reviewed vendor payments",
+      "score": 0.9990663528442383,
+      "box": [
+        127,
+        520,
+        400,
+        551
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.99991774559021,
+      "box": [
+        117,
+        587,
+        267,
+        614
+      ]
+    },
+    {
+      "text": "Bachelor's, Business Administration, Crestline University, 2012",
+      "score": 0.9850918650627136,
+      "box": [
+        118,
+        633,
+        699,
+        657
+      ]
+    },
+    {
+      "text": "Completed coursework in business taxation",
+      "score": 0.9846813678741455,
+      "box": [
+        131,
+        656,
+        553,
+        685
+      ]
+    },
+    {
+      "text": "• Completed coursework in segment reporting",
+      "score": 0.9805046916007996,
+      "box": [
+        132,
+        680,
+        557,
+        711
+      ]
+    }
+  ],
+  "seconds": 2.642949199769646,
+  "id": "17355",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

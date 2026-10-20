@@ -1,0 +1,142 @@
+{
+  "lines": [
+    {
+      "text": "MICHAEL LOWERY",
+      "score": 0.9994713068008423,
+      "box": [
+        117,
+        90,
+        426,
+        122
+      ]
+    },
+    {
+      "text": "IL, USA | +1-297-301-3245 | michael.lowery@example.com",
+      "score": 0.9852935671806335,
+      "box": [
+        116,
+        150,
+        667,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9991509914398193,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, CoreLedger Advisors, 2020.02—2023.01",
+      "score": 0.9926005601882935,
+      "box": [
+        115,
+        288,
+        695,
+        316
+      ]
+    },
+    {
+      "text": "- Established financial quality controls",
+      "score": 0.9996051788330078,
+      "box": [
+        125,
+        314,
+        478,
+        342
+      ]
+    },
+    {
+      "text": "- Directed financial system architecture",
+      "score": 0.9895731210708618,
+      "box": [
+        128,
+        340,
+        488,
+        367
+      ]
+    },
+    {
+      "text": "Accountants Auditors, FairBooks Advisors, 2017.02—2020.02",
+      "score": 0.9920745491981506,
+      "box": [
+        118,
+        383,
+        680,
+        407
+      ]
+    },
+    {
+      "text": "- Processed accounts receivable transactions",
+      "score": 0.9876530170440674,
+      "box": [
+        125,
+        407,
+        549,
+        432
+      ]
+    },
+    {
+      "text": "- Prepared trial balances",
+      "score": 0.9646247625350952,
+      "box": [
+        126,
+        430,
+        358,
+        460
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999392628669739,
+      "box": [
+        117,
+        494,
+        267,
+        521
+      ]
+    },
+    {
+      "text": "Bachelor's, Government Accounting, Willowgate University, 2015",
+      "score": 0.99080491065979,
+      "box": [
+        115,
+        539,
+        718,
+        568
+      ]
+    },
+    {
+      "text": "• Completed coursework in performance measurement",
+      "score": 0.9826717972755432,
+      "box": [
+        132,
+        568,
+        640,
+        592
+      ]
+    },
+    {
+      "text": "Studied principles of financial ratio analysis",
+      "score": 0.9981657266616821,
+      "box": [
+        130,
+        590,
+        547,
+        618
+      ]
+    }
+  ],
+  "seconds": 2.326159799937159,
+  "id": "19436",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

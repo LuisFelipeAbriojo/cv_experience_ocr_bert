@@ -1,0 +1,142 @@
+{
+  "lines": [
+    {
+      "text": "KIANNA MCCARTY",
+      "score": 0.9980144500732422,
+      "box": [
+        117,
+        90,
+        423,
+        122
+      ]
+    },
+    {
+      "text": "AL, USA | +1-543-293-8189 | kianna.mccarty@example.com",
+      "score": 0.9869561195373535,
+      "box": [
+        118,
+        152,
+        676,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9990584850311279,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, GentleBridge Nursing, 2020.10—2023.01",
+      "score": 0.982040524482727,
+      "box": [
+        115,
+        287,
+        674,
+        318
+      ]
+    },
+    {
+      "text": "- Managed clinical data analysis",
+      "score": 0.9990995526313782,
+      "box": [
+        125,
+        313,
+        426,
+        343
+      ]
+    },
+    {
+      "text": "- Directed care delivery improvements",
+      "score": 0.9776167869567871,
+      "box": [
+        126,
+        338,
+        481,
+        370
+      ]
+    },
+    {
+      "text": "Registered Nurses, SafeBridge Health Group, 2018.072020.10",
+      "score": 0.9934862852096558,
+      "box": [
+        115,
+        379,
+        710,
+        410
+      ]
+    },
+    {
+      "text": "- Assisted with patient transfers",
+      "score": 0.9839385151863098,
+      "box": [
+        124,
+        406,
+        420,
+        433
+      ]
+    },
+    {
+      "text": "- Recorded shift handoff notes",
+      "score": 0.9961088299751282,
+      "box": [
+        126,
+        430,
+        410,
+        456
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999234080314636,
+      "box": [
+        117,
+        494,
+        267,
+        521
+      ]
+    },
+    {
+      "text": "Bachelor's, Health Care Management, Brookwood University, 2019",
+      "score": 0.9950397610664368,
+      "box": [
+        115,
+        539,
+        737,
+        567
+      ]
+    },
+    {
+      "text": "Completed coursework in medical-surgical nursing",
+      "score": 0.9944614768028259,
+      "box": [
+        131,
+        563,
+        616,
+        595
+      ]
+    },
+    {
+      "text": "• Completed coursework in documentation standards",
+      "score": 0.9881327748298645,
+      "box": [
+        133,
+        592,
+        623,
+        615
+      ]
+    }
+  ],
+  "seconds": 2.3917589001357555,
+  "id": "00368",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

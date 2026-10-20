@@ -1,0 +1,112 @@
+{
+  "lines": [
+    {
+      "text": "DESSA RICHMOND",
+      "score": 0.9807495474815369,
+      "box": [
+        118,
+        91,
+        426,
+        122
+      ]
+    },
+    {
+      "text": "GA, USA | +1-576-621-6185 | dessa.richmond@example.com",
+      "score": 0.9642018675804138,
+      "box": [
+        118,
+        152,
+        688,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9997478127479553,
+      "box": [
+        117,
+        243,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Accountants Auditors, CoreLedger Advisors, 2020.01—2023.01",
+      "score": 0.9820625185966492,
+      "box": [
+        115,
+        287,
+        695,
+        315
+      ]
+    },
+    {
+      "text": "- Assisted with audit fieldwork",
+      "score": 0.9996640086174011,
+      "box": [
+        127,
+        316,
+        405,
+        339
+      ]
+    },
+    {
+      "text": "- Assisted with compliance documentation",
+      "score": 0.9846605062484741,
+      "box": [
+        129,
+        341,
+        518,
+        365
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999208450317383,
+      "box": [
+        116,
+        404,
+        268,
+        431
+      ]
+    },
+    {
+      "text": "Bachelor's, Statistics, Fairmont University, 2023",
+      "score": 0.978389322757721,
+      "box": [
+        115,
+        446,
+        559,
+        474
+      ]
+    },
+    {
+      "text": "•Completed coursework in cost accounting",
+      "score": 0.98723965883255,
+      "box": [
+        130,
+        473,
+        534,
+        500
+      ]
+    },
+    {
+      "text": "Studied principles of compliance auditing",
+      "score": 0.9887523055076599,
+      "box": [
+        132,
+        497,
+        527,
+        527
+      ]
+    }
+  ],
+  "seconds": 2.054359099827707,
+  "id": "15743",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

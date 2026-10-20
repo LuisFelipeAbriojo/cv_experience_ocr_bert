@@ -1,0 +1,202 @@
+{
+  "lines": [
+    {
+      "text": "JAMIE TOWNSEND",
+      "score": 0.9993000030517578,
+      "box": [
+        116,
+        91,
+        423,
+        121
+      ]
+    },
+    {
+      "text": "AZ, USA | +1-353-865-6889 | jamie.townsend@example.com",
+      "score": 0.9973472356796265,
+      "box": [
+        116,
+        150,
+        683,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9975097179412842,
+      "box": [
+        115,
+        242,
+        316,
+        271
+      ]
+    },
+    {
+      "text": "Registered Nurses, NewPath Nursing Group, 2020.01—2023.01",
+      "score": 0.9849268198013306,
+      "box": [
+        115,
+        287,
+        702,
+        320
+      ]
+    },
+    {
+      "text": "- Directed clinical quality improvement initiatives",
+      "score": 0.988381028175354,
+      "box": [
+        125,
+        314,
+        573,
+        343
+      ]
+    },
+    {
+      "text": "- Established clinical best practices",
+      "score": 0.9552596807479858,
+      "box": [
+        126,
+        339,
+        454,
+        368
+      ]
+    },
+    {
+      "text": "Registered Nurses, Compassion Care Group, 2017.012020.01",
+      "score": 0.9994661211967468,
+      "box": [
+        117,
+        383,
+        705,
+        410
+      ]
+    },
+    {
+      "text": "- Led nursing workflow optimization",
+      "score": 0.9894927144050598,
+      "box": [
+        129,
+        409,
+        456,
+        433
+      ]
+    },
+    {
+      "text": "- Led infection control programs",
+      "score": 0.9893226623535156,
+      "box": [
+        127,
+        432,
+        423,
+        458
+      ]
+    },
+    {
+      "text": "Registered Nurses, Helping Heart Nursing, 2012.092015.10",
+      "score": 0.9971628189086914,
+      "box": [
+        117,
+        473,
+        681,
+        500
+      ]
+    },
+    {
+      "text": "- Provided catheter and ostomy care",
+      "score": 0.999434232711792,
+      "box": [
+        125,
+        496,
+        467,
+        526
+      ]
+    },
+    {
+      "text": "- Performed advanced wound assessments",
+      "score": 0.9917024374008179,
+      "box": [
+        127,
+        520,
+        531,
+        551
+      ]
+    },
+    {
+      "text": "Registered Nurses, SunSpring Nursing, 2008.092011.10",
+      "score": 0.9972873330116272,
+      "box": [
+        116,
+        564,
+        652,
+        592
+      ]
+    },
+    {
+      "text": "- Recorded nursing notes",
+      "score": 0.9995148777961731,
+      "box": [
+        125,
+        589,
+        366,
+        619
+      ]
+    },
+    {
+      "text": "- Assisted with patient positioning",
+      "score": 0.9813603162765503,
+      "box": [
+        125,
+        614,
+        438,
+        645
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999299645423889,
+      "box": [
+        117,
+        681,
+        266,
+        705
+      ]
+    },
+    {
+      "text": "Bachelor's, Health Management, Elmwood University, 2006",
+      "score": 0.9868570566177368,
+      "box": [
+        117,
+        726,
+        665,
+        749
+      ]
+    },
+    {
+      "text": "• Studied principles of health records management",
+      "score": 0.9831334352493286,
+      "box": [
+        131,
+        751,
+        604,
+        775
+      ]
+    },
+    {
+      "text": "Studied principles of patient identification",
+      "score": 0.982679545879364,
+      "box": [
+        131,
+        773,
+        528,
+        801
+      ]
+    }
+  ],
+  "seconds": 6.549196499865502,
+  "id": "01742",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

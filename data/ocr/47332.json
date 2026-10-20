@@ -1,0 +1,152 @@
+{
+  "lines": [
+    {
+      "text": "SANA LANG",
+      "score": 0.9517995119094849,
+      "box": [
+        117,
+        91,
+        316,
+        122
+      ]
+    },
+    {
+      "text": "SC, USA | +1-645-239-6224 | sana.lang@example.com",
+      "score": 0.9856100082397461,
+      "box": [
+        116,
+        149,
+        631,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9990268349647522,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Sunny Bridge School, 2021.03—2023.01",
+      "score": 0.9877009987831116,
+      "box": [
+        116,
+        287,
+        831,
+        317
+      ]
+    },
+    {
+      "text": "- Established curriculum evaluation protocols",
+      "score": 0.9995124936103821,
+      "box": [
+        126,
+        315,
+        544,
+        340
+      ]
+    },
+    {
+      "text": "- Developed district-aligned lesson frameworks",
+      "score": 0.9894422292709351,
+      "box": [
+        128,
+        341,
+        561,
+        365
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Sunny Grove School, 2019.042021.03",
+      "score": 0.9925559163093567,
+      "box": [
+        115,
+        379,
+        830,
+        410
+      ]
+    },
+    {
+      "text": "- Recorded student progress data",
+      "score": 0.9962891340255737,
+      "box": [
+        126,
+        407,
+        442,
+        434
+      ]
+    },
+    {
+      "text": "- Supported standardized testing sessions",
+      "score": 0.9993615746498108,
+      "box": [
+        129,
+        434,
+        517,
+        457
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999561309814453,
+      "box": [
+        116,
+        494,
+        268,
+        521
+      ]
+    },
+    {
+      "text": "Master's, Educational Assistance, Oakwood University, 2021",
+      "score": 0.9883314967155457,
+      "box": [
+        114,
+        539,
+        677,
+        567
+      ]
+    },
+    {
+      "text": "Bachelor's, Education Preparation, Willowfield University, 2019",
+      "score": 0.9953574538230896,
+      "box": [
+        117,
+        567,
+        699,
+        591
+      ]
+    },
+    {
+      "text": "• Completed coursework in academic skill development",
+      "score": 0.9789610505104065,
+      "box": [
+        130,
+        592,
+        645,
+        615
+      ]
+    },
+    {
+      "text": "Completed coursework in developmental psychology basics",
+      "score": 0.9830911159515381,
+      "box": [
+        131,
+        613,
+        700,
+        645
+      ]
+    }
+  ],
+  "seconds": 2.5709297000430524,
+  "id": "47332",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

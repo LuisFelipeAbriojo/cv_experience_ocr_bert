@@ -1,0 +1,122 @@
+{
+  "lines": [
+    {
+      "text": "SIDNEY AUSTIN",
+      "score": 0.9900025725364685,
+      "box": [
+        117,
+        91,
+        376,
+        122
+      ]
+    },
+    {
+      "text": "CA, USA | +1-449-202-6404 | sidney.austin@example.com",
+      "score": 0.9906189441680908,
+      "box": [
+        118,
+        152,
+        662,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9997556805610657,
+      "box": [
+        117,
+        243,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Software Developers, Clearpath Digital, 2022.092023.01",
+      "score": 0.9897982478141785,
+      "box": [
+        116,
+        289,
+        650,
+        316
+      ]
+    },
+    {
+      "text": "- Updated frontend stylesheets",
+      "score": 0.9745905995368958,
+      "box": [
+        127,
+        316,
+        414,
+        340
+      ]
+    },
+    {
+      "text": "- Assisted with CI pipeline tasks",
+      "score": 0.9841543436050415,
+      "box": [
+        128,
+        338,
+        423,
+        367
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9998854398727417,
+      "box": [
+        116,
+        404,
+        268,
+        431
+      ]
+    },
+    {
+      "text": "Master's, Willowgate University, 2022",
+      "score": 0.9912099242210388,
+      "box": [
+        116,
+        447,
+        464,
+        474
+      ]
+    },
+    {
+      "text": "Bachelor's, Stonegate University, 2020",
+      "score": 0.9831668734550476,
+      "box": [
+        116,
+        473,
+        477,
+        500
+      ]
+    },
+    {
+      "text": "•Studied principles of performance optimization",
+      "score": 0.9850053787231445,
+      "box": [
+        130,
+        500,
+        576,
+        524
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of build systems",
+      "score": 0.9824640154838562,
+      "box": [
+        132,
+        523,
+        505,
+        549
+      ]
+    }
+  ],
+  "seconds": 1.9587500002235174,
+  "id": "04219",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

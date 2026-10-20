@@ -1,0 +1,212 @@
+{
+  "lines": [
+    {
+      "text": "CAROLINE FARLEY",
+      "score": 0.9716297388076782,
+      "box": [
+        118,
+        91,
+        435,
+        122
+      ]
+    },
+    {
+      "text": "MD, USA | +1-471-421-8749 |caroline.farley@example.com",
+      "score": 0.9907829165458679,
+      "box": [
+        115,
+        150,
+        674,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9991222023963928,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Learning Grove Academy, 2020.02—2023.01",
+      "score": 0.9921503067016602,
+      "box": [
+        117,
+        290,
+        872,
+        317
+      ]
+    },
+    {
+      "text": "- Led instructional technology integration",
+      "score": 0.9899871349334717,
+      "box": [
+        125,
+        314,
+        505,
+        343
+      ]
+    },
+    {
+      "text": "- Developed teacher training modules",
+      "score": 0.9905263185501099,
+      "box": [
+        127,
+        339,
+        477,
+        369
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Bright Valley School, 2017.03—2020.02",
+      "score": 0.9896355867385864,
+      "box": [
+        117,
+        382,
+        825,
+        409
+      ]
+    },
+    {
+      "text": "- Developed teacher training modules",
+      "score": 0.9942575097084045,
+      "box": [
+        127,
+        409,
+        475,
+        433
+      ]
+    },
+    {
+      "text": "- Led curriculum transformation initiatives",
+      "score": 0.9930724501609802,
+      "box": [
+        126,
+        431,
+        509,
+        457
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Learning Horizons Academy, 2014.032017.03",
+      "score": 0.9933661222457886,
+      "box": [
+        117,
+        471,
+        901,
+        500
+      ]
+    },
+    {
+      "text": "- Aligned lesson objectives with standards",
+      "score": 0.982999324798584,
+      "box": [
+        126,
+        497,
+        518,
+        525
+      ]
+    },
+    {
+      "text": "- Prepared differentiated worksheets",
+      "score": 0.9809268116950989,
+      "box": [
+        127,
+        521,
+        466,
+        550
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Bright Star School, 2011.032014.03",
+      "score": 0.9873083233833313,
+      "box": [
+        118,
+        566,
+        806,
+        590
+      ]
+    },
+    {
+      "text": "- Organized classroom learning resources",
+      "score": 0.9914061427116394,
+      "box": [
+        129,
+        593,
+        517,
+        617
+      ]
+    },
+    {
+      "text": "- Reviewed lesson objectives",
+      "score": 0.9969130754470825,
+      "box": [
+        126,
+        613,
+        400,
+        645
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999069571495056,
+      "box": [
+        117,
+        681,
+        266,
+        705
+      ]
+    },
+    {
+      "text": "Master's, Family and Child Studies, Windermere University, 2013",
+      "score": 0.9859650731086731,
+      "box": [
+        117,
+        726,
+        719,
+        749
+      ]
+    },
+    {
+      "text": "Bachelor's, Liberal Arts, Willowstone University, 2011",
+      "score": 0.9812381267547607,
+      "box": [
+        117,
+        750,
+        610,
+        774
+      ]
+    },
+    {
+      "text": "• Completed coursework in instructional review methods",
+      "score": 0.9940558671951294,
+      "box": [
+        131,
+        775,
+        652,
+        799
+      ]
+    },
+    {
+      "text": "• Completed coursework in classroom workflow organization",
+      "score": 0.9893702268600464,
+      "box": [
+        132,
+        799,
+        690,
+        826
+      ]
+    }
+  ],
+  "seconds": 3.8915122002363205,
+  "id": "24108",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

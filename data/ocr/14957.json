@@ -1,0 +1,212 @@
+{
+  "lines": [
+    {
+      "text": "KRISTEN HUFFMAN",
+      "score": 0.9998045563697815,
+      "box": [
+        117,
+        92,
+        439,
+        122
+      ]
+    },
+    {
+      "text": "GA, USA | +1-829-343-7936 | kristen.huffman@example.com",
+      "score": 0.9869053363800049,
+      "box": [
+        117,
+        151,
+        685,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9991941452026367,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Learning Star Academy, 2019.03—2023.01",
+      "score": 0.9844481348991394,
+      "box": [
+        116,
+        289,
+        856,
+        319
+      ]
+    },
+    {
+      "text": "- Developed data-driven teaching models",
+      "score": 0.9995930790901184,
+      "box": [
+        125,
+        314,
+        510,
+        343
+      ]
+    },
+    {
+      "text": "- Developed teacher training modules",
+      "score": 0.9794432520866394,
+      "box": [
+        127,
+        339,
+        477,
+        369
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Kind Futures School, 2015.05—2019.03",
+      "score": 0.9859556555747986,
+      "box": [
+        117,
+        382,
+        825,
+        409
+      ]
+    },
+    {
+      "text": "- Implemented long-term academic plans",
+      "score": 0.9731549620628357,
+      "box": [
+        127,
+        408,
+        507,
+        434
+      ]
+    },
+    {
+      "text": "- Designed literacy development programs",
+      "score": 0.976669192314148,
+      "box": [
+        128,
+        435,
+        520,
+        458
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Learning Stone Academy, 2011.072015.05",
+      "score": 0.9892386794090271,
+      "box": [
+        117,
+        473,
+        872,
+        500
+      ]
+    },
+    {
+      "text": "- Developed classroom assessment tools",
+      "score": 0.9852861166000366,
+      "box": [
+        126,
+        498,
+        510,
+        523
+      ]
+    },
+    {
+      "text": "- Coordinated group learning activities",
+      "score": 0.9878110885620117,
+      "box": [
+        128,
+        523,
+        480,
+        549
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Learning Minds Academy, 2007.08—2011.07",
+      "score": 0.9794725775718689,
+      "box": [
+        117,
+        565,
+        873,
+        592
+      ]
+    },
+    {
+      "text": "- Supported individual student learning activities",
+      "score": 0.9811675548553467,
+      "box": [
+        127,
+        592,
+        572,
+        616
+      ]
+    },
+    {
+      "text": "- Recorded student feedback",
+      "score": 0.9991524815559387,
+      "box": [
+        125,
+        613,
+        400,
+        643
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999380111694336,
+      "box": [
+        117,
+        681,
+        266,
+        705
+      ]
+    },
+    {
+      "text": "Master's, General Education, Brookside University, 2012",
+      "score": 0.9832573533058167,
+      "box": [
+        116,
+        724,
+        641,
+        750
+      ]
+    },
+    {
+      "text": "Bachelor's, Education and Development, Bright Ridge University, 2010",
+      "score": 0.9908069372177124,
+      "box": [
+        116,
+        749,
+        772,
+        776
+      ]
+    },
+    {
+      "text": "•Completed coursework in basic instructional coaching",
+      "score": 0.9661292433738708,
+      "box": [
+        129,
+        773,
+        645,
+        802
+      ]
+    },
+    {
+      "text": "•Studied principles of learner diversity",
+      "score": 0.9878896474838257,
+      "box": [
+        131,
+        798,
+        488,
+        827
+      ]
+    }
+  ],
+  "seconds": 5.212039299774915,
+  "id": "14957",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

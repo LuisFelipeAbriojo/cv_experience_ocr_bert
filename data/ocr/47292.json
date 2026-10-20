@@ -1,0 +1,142 @@
+{
+  "lines": [
+    {
+      "text": "JOEL POPE",
+      "score": 0.9994780421257019,
+      "box": [
+        116,
+        90,
+        307,
+        121
+      ]
+    },
+    {
+      "text": "SC, USA | +1-354-908-9674 | joel.pope@example.com",
+      "score": 0.9729463458061218,
+      "box": [
+        118,
+        152,
+        624,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9997661113739014,
+      "box": [
+        117,
+        243,
+        315,
+        270
+      ]
+    },
+    {
+      "text": "Construction Laborers, IronLine Contractors, 2021.06—2023.01",
+      "score": 0.9891232848167419,
+      "box": [
+        118,
+        290,
+        695,
+        314
+      ]
+    },
+    {
+      "text": "- Reviewed structural integrity assessments",
+      "score": 0.9950084090232849,
+      "box": [
+        126,
+        314,
+        531,
+        341
+      ]
+    },
+    {
+      "text": "- Reviewed material quality standards",
+      "score": 0.9909346103668213,
+      "box": [
+        126,
+        338,
+        477,
+        367
+      ]
+    },
+    {
+      "text": "Construction Laborers, PrimeBuild Group, 2019.102021.06",
+      "score": 0.9970815777778625,
+      "box": [
+        118,
+        382,
+        673,
+        406
+      ]
+    },
+    {
+      "text": "- Marked measurements on materials",
+      "score": 0.9991461634635925,
+      "box": [
+        125,
+        407,
+        475,
+        432
+      ]
+    },
+    {
+      "text": "- Carried materials to designated work areas",
+      "score": 0.9869899749755859,
+      "box": [
+        127,
+        429,
+        541,
+        459
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9996976852416992,
+      "box": [
+        118,
+        495,
+        267,
+        519
+      ]
+    },
+    {
+      "text": "Some college (no degree), Construction Estimating, Amber Hills University, 2022",
+      "score": 0.9867886900901794,
+      "box": [
+        117,
+        539,
+        862,
+        566
+      ]
+    },
+    {
+      "text": "Studied principles of load handling",
+      "score": 0.9983417987823486,
+      "box": [
+        128,
+        564,
+        467,
+        593
+      ]
+    },
+    {
+      "text": "Studied principles of building envelope basics",
+      "score": 0.9887920022010803,
+      "box": [
+        130,
+        589,
+        569,
+        618
+      ]
+    }
+  ],
+  "seconds": 2.6586927003227174,
+  "id": "47292",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

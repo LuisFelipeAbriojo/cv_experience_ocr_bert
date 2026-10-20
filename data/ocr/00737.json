@@ -1,0 +1,122 @@
+{
+  "lines": [
+    {
+      "text": "PAIGE CASE",
+      "score": 0.9996833801269531,
+      "box": [
+        115,
+        89,
+        325,
+        123
+      ]
+    },
+    {
+      "text": "AL, USA | +1-888-908-1803 | paige.case@example.com",
+      "score": 0.9981915354728699,
+      "box": [
+        116,
+        149,
+        638,
+        177
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9997561573982239,
+      "box": [
+        117,
+        243,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Bright Lake School, 2020.04—2023.01",
+      "score": 0.9923431277275085,
+      "box": [
+        116,
+        287,
+        812,
+        315
+      ]
+    },
+    {
+      "text": "- Recorded student feedback",
+      "score": 0.9824330806732178,
+      "box": [
+        127,
+        315,
+        399,
+        338
+      ]
+    },
+    {
+      "text": "- Assisted with small group instruction activities",
+      "score": 0.9971795678138733,
+      "box": [
+        125,
+        338,
+        565,
+        366
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999449253082275,
+      "box": [
+        116,
+        404,
+        268,
+        431
+      ]
+    },
+    {
+      "text": "Master's, Education Basics, Larkspur University, 2022",
+      "score": 0.983585000038147,
+      "box": [
+        114,
+        446,
+        617,
+        474
+      ]
+    },
+    {
+      "text": "Bachelor's, Foundations of Learning, Plainview University, 2020",
+      "score": 0.99301677942276,
+      "box": [
+        117,
+        474,
+        705,
+        498
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of science education",
+      "score": 0.9806791543960571,
+      "box": [
+        129,
+        498,
+        546,
+        523
+      ]
+    },
+    {
+      "text": "•Studied principles of classroom interaction",
+      "score": 0.9820171594619751,
+      "box": [
+        134,
+        524,
+        540,
+        548
+      ]
+    }
+  ],
+  "seconds": 2.212524199858308,
+  "id": "00737",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

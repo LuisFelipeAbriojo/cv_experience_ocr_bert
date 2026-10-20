@@ -1,0 +1,122 @@
+{
+  "lines": [
+    {
+      "text": "CHRISTIAN LIU",
+      "score": 0.9992895722389221,
+      "box": [
+        118,
+        91,
+        363,
+        122
+      ]
+    },
+    {
+      "text": "PA, USA | +1-240-531-9034 | christian.liu@example.com",
+      "score": 0.9801095128059387,
+      "box": [
+        117,
+        152,
+        643,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9997727274894714,
+      "box": [
+        117,
+        243,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Software Developers, Datagrid Digital, 2020.06—2023.01",
+      "score": 0.9826717972755432,
+      "box": [
+        117,
+        289,
+        636,
+        313
+      ]
+    },
+    {
+      "text": "- Wrote utility scripts",
+      "score": 0.9926179051399231,
+      "box": [
+        125,
+        313,
+        319,
+        342
+      ]
+    },
+    {
+      "text": "- Updated application dependencies",
+      "score": 0.9995326995849609,
+      "box": [
+        128,
+        340,
+        462,
+        367
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999194741249084,
+      "box": [
+        116,
+        404,
+        268,
+        431
+      ]
+    },
+    {
+      "text": "Master's, Oakwood University, 2023",
+      "score": 0.991141140460968,
+      "box": [
+        116,
+        449,
+        450,
+        473
+      ]
+    },
+    {
+      "text": "Bachelor's, Meadowcrest University, 2022",
+      "score": 0.986514687538147,
+      "box": [
+        117,
+        474,
+        505,
+        498
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of hardware-software integration",
+      "score": 0.9761773347854614,
+      "box": [
+        130,
+        498,
+        654,
+        524
+      ]
+    },
+    {
+      "text": "Completed coursework in signal processing basics",
+      "score": 0.9969571232795715,
+      "box": [
+        132,
+        521,
+        617,
+        551
+      ]
+    }
+  ],
+  "seconds": 1.948879100382328,
+  "id": "46249",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

@@ -1,0 +1,112 @@
+{
+  "lines": [
+    {
+      "text": "ISAIAH COLE",
+      "score": 0.9998964071273804,
+      "box": [
+        115,
+        89,
+        334,
+        123
+      ]
+    },
+    {
+      "text": "CA, USA | +1-614-907-1372 | isaiah.cole@example.com",
+      "score": 0.9919814467430115,
+      "box": [
+        117,
+        149,
+        639,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9997487664222717,
+      "box": [
+        117,
+        243,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Software Developers, Codefield Labs, 2022.032023.01",
+      "score": 0.9915087819099426,
+      "box": [
+        117,
+        290,
+        633,
+        314
+      ]
+    },
+    {
+      "text": "- Performed basic performance profiling",
+      "score": 0.9774799942970276,
+      "box": [
+        125,
+        313,
+        495,
+        342
+      ]
+    },
+    {
+      "text": "- Wrote integration tests",
+      "score": 0.9884943962097168,
+      "box": [
+        126,
+        338,
+        352,
+        369
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999501705169678,
+      "box": [
+        116,
+        404,
+        268,
+        431
+      ]
+    },
+    {
+      "text": "Some college (no degree), Hawthorne University, 2023",
+      "score": 0.9855295419692993,
+      "box": [
+        117,
+        447,
+        626,
+        474
+      ]
+    },
+    {
+      "text": "Studied fundamentals of race condition handling",
+      "score": 0.9996576309204102,
+      "box": [
+        128,
+        471,
+        594,
+        501
+      ]
+    },
+    {
+      "text": "•Studied fundamentals of programming in Java",
+      "score": 0.9798433184623718,
+      "box": [
+        131,
+        498,
+        574,
+        525
+      ]
+    }
+  ],
+  "seconds": 2.0819520000368357,
+  "id": "02660",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

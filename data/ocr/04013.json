@@ -1,0 +1,112 @@
+{
+  "lines": [
+    {
+      "text": "ROBERT PERALTA",
+      "score": 0.9890753626823425,
+      "box": [
+        115,
+        87,
+        427,
+        123
+      ]
+    },
+    {
+      "text": "CA, USA | +1-304-416-8091 | robert.peralta@example.com",
+      "score": 0.9865115880966187,
+      "box": [
+        118,
+        152,
+        664,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.999330997467041,
+      "box": [
+        116,
+        243,
+        317,
+        270
+      ]
+    },
+    {
+      "text": "Registered Nurses, GentlePath Nursing, 2017.122020.12",
+      "score": 0.9995193481445312,
+      "box": [
+        115,
+        287,
+        659,
+        315
+      ]
+    },
+    {
+      "text": "- Prepared treatment rooms",
+      "score": 0.9994931817054749,
+      "box": [
+        125,
+        312,
+        388,
+        342
+      ]
+    },
+    {
+      "text": "- Recorded patient weight and height",
+      "score": 0.983430027961731,
+      "box": [
+        127,
+        338,
+        472,
+        367
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9993418455123901,
+      "box": [
+        116,
+        404,
+        268,
+        431
+      ]
+    },
+    {
+      "text": "Bachelor's, Pediatric Care, Timberline University, 2017",
+      "score": 0.9958433508872986,
+      "box": [
+        116,
+        447,
+        624,
+        474
+      ]
+    },
+    {
+      "text": "Studied principles of healthcare ethics",
+      "score": 0.9998283386230469,
+      "box": [
+        128,
+        472,
+        501,
+        500
+      ]
+    },
+    {
+      "text": "Studied principles of patient safety",
+      "score": 0.9945436120033264,
+      "box": [
+        131,
+        497,
+        466,
+        526
+      ]
+    }
+  ],
+  "seconds": 1.9208817002363503,
+  "id": "04013",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

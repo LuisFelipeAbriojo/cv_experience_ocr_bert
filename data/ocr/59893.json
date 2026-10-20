@@ -1,0 +1,152 @@
+{
+  "lines": [
+    {
+      "text": "ERIN PARKER",
+      "score": 0.9998387694358826,
+      "box": [
+        118,
+        91,
+        348,
+        122
+      ]
+    },
+    {
+      "text": "WA, USA | +1-360-990-1343 | erin.parker@example.com",
+      "score": 0.9889364838600159,
+      "box": [
+        116,
+        151,
+        644,
+        177
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9991628527641296,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Kind Futures School, 2020.01—2022.05",
+      "score": 0.9780799150466919,
+      "box": [
+        117,
+        289,
+        826,
+        316
+      ]
+    },
+    {
+      "text": "- Implemented performance evaluation systems",
+      "score": 0.9992001056671143,
+      "box": [
+        125,
+        314,
+        570,
+        343
+      ]
+    },
+    {
+      "text": "- Established instructional best practices",
+      "score": 0.968895435333252,
+      "box": [
+        127,
+        339,
+        501,
+        367
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Discovery Path Academy, 2016.06—2018.11",
+      "score": 0.9911713600158691,
+      "box": [
+        117,
+        382,
+        871,
+        409
+      ]
+    },
+    {
+      "text": "- Assisted with science experiments",
+      "score": 0.9891349673271179,
+      "box": [
+        125,
+        408,
+        458,
+        433
+      ]
+    },
+    {
+      "text": "- Conducted group reading activities",
+      "score": 0.9968883991241455,
+      "box": [
+        128,
+        432,
+        462,
+        457
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999420642852783,
+      "box": [
+        116,
+        494,
+        267,
+        521
+      ]
+    },
+    {
+      "text": "Master's, Human Development, Stonehaven University, 2014",
+      "score": 0.9890456199645996,
+      "box": [
+        115,
+        541,
+        683,
+        568
+      ]
+    },
+    {
+      "text": "Bachelor's, Learning Foundations, Amber Hills University, 2012",
+      "score": 0.9857888221740723,
+      "box": [
+        115,
+        565,
+        703,
+        593
+      ]
+    },
+    {
+      "text": "• Studied principles of instructional communication",
+      "score": 0.9919768571853638,
+      "box": [
+        131,
+        593,
+        600,
+        617
+      ]
+    },
+    {
+      "text": "Completed coursework in instructional improvement methods",
+      "score": 0.9940695762634277,
+      "box": [
+        131,
+        615,
+        712,
+        643
+      ]
+    }
+  ],
+  "seconds": 2.4636701000854373,
+  "id": "59893",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

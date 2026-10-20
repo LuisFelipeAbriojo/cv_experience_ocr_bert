@@ -1,0 +1,112 @@
+{
+  "lines": [
+    {
+      "text": "STEPHEN HOUSTON",
+      "score": 0.9998214840888977,
+      "box": [
+        117,
+        91,
+        452,
+        122
+      ]
+    },
+    {
+      "text": "VA, USA | +1-365-710-9729 | stephen.houston@example.com",
+      "score": 0.969842255115509,
+      "box": [
+        118,
+        152,
+        694,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9997589588165283,
+      "box": [
+        117,
+        243,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Open Door School, 2017.02—2020.01",
+      "score": 0.9907564520835876,
+      "box": [
+        117,
+        288,
+        807,
+        315
+      ]
+    },
+    {
+      "text": "- Conducted spelling practice",
+      "score": 0.9959456324577332,
+      "box": [
+        126,
+        315,
+        400,
+        342
+      ]
+    },
+    {
+      "text": "- Administered learning games",
+      "score": 0.9771471619606018,
+      "box": [
+        126,
+        338,
+        413,
+        369
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999411106109619,
+      "box": [
+        116,
+        404,
+        268,
+        431
+      ]
+    },
+    {
+      "text": "Bachelor's, Education and Development, Elm Valley University, 2012",
+      "score": 0.9964795112609863,
+      "box": [
+        115,
+        445,
+        755,
+        476
+      ]
+    },
+    {
+      "text": "Completed coursework in educational skill building",
+      "score": 0.9872662425041199,
+      "box": [
+        130,
+        470,
+        616,
+        503
+      ]
+    },
+    {
+      "text": "Completed coursework in writing instruction",
+      "score": 0.9998428821563721,
+      "box": [
+        132,
+        497,
+        552,
+        526
+      ]
+    }
+  ],
+  "seconds": 2.238955700304359,
+  "id": "55930",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

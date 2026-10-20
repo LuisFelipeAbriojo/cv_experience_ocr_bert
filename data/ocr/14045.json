@@ -1,0 +1,142 @@
+{
+  "lines": [
+    {
+      "text": "PRESCILLA COX",
+      "score": 0.9987578988075256,
+      "box": [
+        117,
+        91,
+        390,
+        121
+      ]
+    },
+    {
+      "text": "FL, USA | +1-725-913-1189 | prescilla.cox@example.com",
+      "score": 0.9906284213066101,
+      "box": [
+        118,
+        152,
+        650,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9990537762641907,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Open Futures School, 2020.12—2023.01",
+      "score": 0.9957563281059265,
+      "box": [
+        115,
+        287,
+        835,
+        318
+      ]
+    },
+    {
+      "text": "- Designed curriculum frameworks for grade-level instruction",
+      "score": 0.9969197511672974,
+      "box": [
+        125,
+        314,
+        686,
+        342
+      ]
+    },
+    {
+      "text": "- Designed performance monitoring systems",
+      "score": 0.997136116027832,
+      "box": [
+        127,
+        339,
+        540,
+        369
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Discovery Minds School, 2018.10—2020.12",
+      "score": 0.9885244369506836,
+      "box": [
+        115,
+        379,
+        863,
+        411
+      ]
+    },
+    {
+      "text": "- Maintained classroom attendance and grading records",
+      "score": 0.9949458837509155,
+      "box": [
+        125,
+        406,
+        645,
+        436
+      ]
+    },
+    {
+      "text": "- Prepared lesson summaries",
+      "score": 0.9776371717453003,
+      "box": [
+        127,
+        430,
+        403,
+        461
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999343156814575,
+      "box": [
+        117,
+        494,
+        268,
+        521
+      ]
+    },
+    {
+      "text": "Bachelor's, Child Studies, Greenwood Ridge University, 2022",
+      "score": 0.9741784334182739,
+      "box": [
+        117,
+        542,
+        683,
+        566
+      ]
+    },
+    {
+      "text": "• Completed coursework in classroom communication techniques",
+      "score": 0.9915763735771179,
+      "box": [
+        131,
+        568,
+        737,
+        592
+      ]
+    },
+    {
+      "text": "•Studied foundational instructional design",
+      "score": 0.995894193649292,
+      "box": [
+        132,
+        590,
+        522,
+        617
+      ]
+    }
+  ],
+  "seconds": 2.5671534999273717,
+  "id": "14045",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

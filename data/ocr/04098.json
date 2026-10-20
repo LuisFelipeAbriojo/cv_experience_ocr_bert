@@ -1,0 +1,112 @@
+{
+  "lines": [
+    {
+      "text": "ARASELI CONLEY",
+      "score": 0.9761179089546204,
+      "box": [
+        116,
+        89,
+        414,
+        123
+      ]
+    },
+    {
+      "text": "CA, USA | +1-495-466-6535 | araseli.conley@example.com",
+      "score": 0.9875069856643677,
+      "box": [
+        117,
+        150,
+        669,
+        177
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9997113347053528,
+      "box": [
+        117,
+        243,
+        317,
+        270
+      ]
+    },
+    {
+      "text": "Software Developers, Cloudstack Digital, 2020.01—2023.01",
+      "score": 0.978499710559845,
+      "box": [
+        115,
+        287,
+        662,
+        315
+      ]
+    },
+    {
+      "text": "- Assisted with build automation",
+      "score": 0.9698197841644287,
+      "box": [
+        127,
+        316,
+        423,
+        339
+      ]
+    },
+    {
+      "text": "- Updated application dependencies",
+      "score": 0.9870033264160156,
+      "box": [
+        129,
+        340,
+        462,
+        367
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9998900890350342,
+      "box": [
+        116,
+        404,
+        268,
+        431
+      ]
+    },
+    {
+      "text": "Bachelor's, Lakeside University, 2020",
+      "score": 0.9994862675666809,
+      "box": [
+        116,
+        447,
+        466,
+        474
+      ]
+    },
+    {
+      "text": "Studied principles of graph algorithms",
+      "score": 0.9973740577697754,
+      "box": [
+        128,
+        472,
+        498,
+        500
+      ]
+    },
+    {
+      "text": "Studied principles of garbage collection",
+      "score": 0.9944854974746704,
+      "box": [
+        131,
+        497,
+        511,
+        526
+      ]
+    }
+  ],
+  "seconds": 1.9359828997403383,
+  "id": "04098",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

@@ -1,0 +1,202 @@
+{
+  "lines": [
+    {
+      "text": "NICOLE SUTTON",
+      "score": 0.9996876120567322,
+      "box": [
+        117,
+        91,
+        391,
+        122
+      ]
+    },
+    {
+      "text": "MA, USA | +1-469-407-8634 | nicole.sutton@example.com",
+      "score": 0.9951779246330261,
+      "box": [
+        115,
+        150,
+        660,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9991827607154846,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Little Valley School, 2018.10—2023.01",
+      "score": 0.9949967265129089,
+      "box": [
+        117,
+        290,
+        813,
+        317
+      ]
+    },
+    {
+      "text": "- Designed systemic intervention models",
+      "score": 0.9807726740837097,
+      "box": [
+        126,
+        316,
+        503,
+        340
+      ]
+    },
+    {
+      "text": "- Led curriculum integration projects",
+      "score": 0.9929186701774597,
+      "box": [
+        126,
+        339,
+        461,
+        369
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Kind Futures School, 2014.062018.10",
+      "score": 0.9907556772232056,
+      "box": [
+        117,
+        382,
+        827,
+        409
+      ]
+    },
+    {
+      "text": "- Established learning outcome benchmarks",
+      "score": 0.9817712306976318,
+      "box": [
+        125,
+        409,
+        534,
+        433
+      ]
+    },
+    {
+      "text": "- Directed instructional benchmarking",
+      "score": 0.9770644903182983,
+      "box": [
+        126,
+        431,
+        473,
+        459
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Little Path School, 2010.02—2014.06",
+      "score": 0.9892508387565613,
+      "box": [
+        117,
+        471,
+        801,
+        499
+      ]
+    },
+    {
+      "text": "- Designed reading intervention plans",
+      "score": 0.9968814253807068,
+      "box": [
+        128,
+        500,
+        475,
+        524
+      ]
+    },
+    {
+      "text": "- Implemented classroom improvement plans",
+      "score": 0.9923215508460999,
+      "box": [
+        128,
+        522,
+        546,
+        550
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Caring Field School, 2003.01-2007.05",
+      "score": 0.9863383173942566,
+      "box": [
+        118,
+        565,
+        818,
+        589
+      ]
+    },
+    {
+      "text": "- Provided math drill exercises",
+      "score": 0.9938936829566956,
+      "box": [
+        126,
+        590,
+        410,
+        616
+      ]
+    },
+    {
+      "text": "- Assisted with science experiments",
+      "score": 0.9890198707580566,
+      "box": [
+        127,
+        615,
+        459,
+        642
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999402165412903,
+      "box": [
+        117,
+        681,
+        266,
+        705
+      ]
+    },
+    {
+      "text": "Bachelor's, Learning Support Studies, Clearwood University, 2002",
+      "score": 0.9887019395828247,
+      "box": [
+        117,
+        725,
+        726,
+        748
+      ]
+    },
+    {
+      "text": "•Studied fundamentals of classroom engagement",
+      "score": 0.9910288453102112,
+      "box": [
+        129,
+        748,
+        598,
+        776
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of instructional feedback",
+      "score": 0.9856249690055847,
+      "box": [
+        132,
+        773,
+        582,
+        798
+      ]
+    }
+  ],
+  "seconds": 3.272079600021243,
+  "id": "25894",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

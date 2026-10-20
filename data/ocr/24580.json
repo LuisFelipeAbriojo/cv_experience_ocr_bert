@@ -1,0 +1,172 @@
+{
+  "lines": [
+    {
+      "text": "JAINE LEBLANC",
+      "score": 0.9997705221176147,
+      "box": [
+        116,
+        91,
+        385,
+        122
+      ]
+    },
+    {
+      "text": "MD, USA | +1-571-973-4216 | jaine.leblanc@example.com",
+      "score": 0.9798696041107178,
+      "box": [
+        116,
+        151,
+        659,
+        177
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9991641640663147,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, NewHands Care Center, 2019.10—2023.01",
+      "score": 0.9901987910270691,
+      "box": [
+        117,
+        289,
+        697,
+        316
+      ]
+    },
+    {
+      "text": "- Established nursing performance metrics",
+      "score": 0.9992505311965942,
+      "box": [
+        125,
+        314,
+        521,
+        342
+      ]
+    },
+    {
+      "text": "- Managed clinical data analysis",
+      "score": 0.9917650818824768,
+      "box": [
+        126,
+        339,
+        426,
+        369
+      ]
+    },
+    {
+      "text": "Registered Nurses, Compassion Hands Medical, 2016.072019.10",
+      "score": 0.9959627389907837,
+      "box": [
+        117,
+        382,
+        737,
+        409
+      ]
+    },
+    {
+      "text": "- Managed patient mobility programs",
+      "score": 0.9939267039299011,
+      "box": [
+        125,
+        406,
+        467,
+        435
+      ]
+    },
+    {
+      "text": "- Supervised clinical documentation",
+      "score": 0.9931051135063171,
+      "box": [
+        128,
+        434,
+        456,
+        457
+      ]
+    },
+    {
+      "text": "Registered Nurses, NewLife Care Center, 2011.05—2014.09",
+      "score": 0.9879836440086365,
+      "box": [
+        118,
+        473,
+        670,
+        497
+      ]
+    },
+    {
+      "text": "- Checked medication dosages",
+      "score": 0.9850993752479553,
+      "box": [
+        127,
+        497,
+        418,
+        524
+      ]
+    },
+    {
+      "text": "- Recorded patient weight and height",
+      "score": 0.9765393137931824,
+      "box": [
+        127,
+        521,
+        471,
+        549
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.99991774559021,
+      "box": [
+        117,
+        587,
+        267,
+        614
+      ]
+    },
+    {
+      "text": "Associate's degree, Geriatric Care, Bayside University, 2004",
+      "score": 0.9832811951637268,
+      "box": [
+        117,
+        632,
+        676,
+        659
+      ]
+    },
+    {
+      "text": "Completed coursework in medical terminology",
+      "score": 0.976376473903656,
+      "box": [
+        130,
+        656,
+        576,
+        685
+      ]
+    },
+    {
+      "text": "•Completed coursework in nursing leadership basics",
+      "score": 0.9790325164794922,
+      "box": [
+        132,
+        680,
+        625,
+        710
+      ]
+    }
+  ],
+  "seconds": 2.735257100313902,
+  "id": "24580",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

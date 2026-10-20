@@ -1,0 +1,142 @@
+{
+  "lines": [
+    {
+      "text": "KELLY WEEKS",
+      "score": 0.9774253368377686,
+      "box": [
+        117,
+        91,
+        359,
+        122
+      ]
+    },
+    {
+      "text": "MI, USA | +1-963-828-6545 | kelly.weeks@example.com",
+      "score": 0.9855642318725586,
+      "box": [
+        116,
+        150,
+        640,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9991362690925598,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Discovery Path School, 2020.01—2022.04",
+      "score": 0.9854875206947327,
+      "box": [
+        116,
+        288,
+        849,
+        318
+      ]
+    },
+    {
+      "text": "- Directed cross-grade curriculum alignment",
+      "score": 0.9827429056167603,
+      "box": [
+        125,
+        314,
+        537,
+        342
+      ]
+    },
+    {
+      "text": "- Developed long-term instructional strategies",
+      "score": 0.9940556883811951,
+      "box": [
+        127,
+        340,
+        550,
+        368
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Learning Path Academy, 2016.06—2018.09",
+      "score": 0.9899824857711792,
+      "box": [
+        115,
+        379,
+        861,
+        410
+      ]
+    },
+    {
+      "text": "- Supported standardized testing sessions",
+      "score": 0.9982198476791382,
+      "box": [
+        125,
+        407,
+        517,
+        433
+      ]
+    },
+    {
+      "text": "- Managed classroom supplies",
+      "score": 0.9883707165718079,
+      "box": [
+        125,
+        430,
+        414,
+        461
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999403357505798,
+      "box": [
+        117,
+        494,
+        267,
+        521
+      ]
+    },
+    {
+      "text": "Bachelor's, Child and Family Studies, Cedarfield University, 2015",
+      "score": 0.9868564605712891,
+      "box": [
+        115,
+        539,
+        720,
+        567
+      ]
+    },
+    {
+      "text": "• Completed coursework in academic content planning",
+      "score": 0.9775518774986267,
+      "box": [
+        131,
+        564,
+        637,
+        594
+      ]
+    },
+    {
+      "text": "• Completed coursework in lesson delivery techniques",
+      "score": 0.9929338693618774,
+      "box": [
+        132,
+        591,
+        633,
+        617
+      ]
+    }
+  ],
+  "seconds": 2.433345700148493,
+  "id": "27886",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

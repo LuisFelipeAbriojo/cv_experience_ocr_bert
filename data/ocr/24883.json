@@ -1,0 +1,162 @@
+{
+  "lines": [
+    {
+      "text": "MARK FLOYD",
+      "score": 0.9936628341674805,
+      "box": [
+        117,
+        91,
+        340,
+        121
+      ]
+    },
+    {
+      "text": "MD, USA | +1-300-537-8950 | mark.floyd@example.com",
+      "score": 0.970928430557251,
+      "box": [
+        116,
+        149,
+        639,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9990290999412537,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, SolidLine Contractors, 2020.122023.01",
+      "score": 0.9979231357574463,
+      "box": [
+        118,
+        290,
+        706,
+        314
+      ]
+    },
+    {
+      "text": "- Managed large-scale installations",
+      "score": 0.9863277077674866,
+      "box": [
+        126,
+        315,
+        452,
+        341
+      ]
+    },
+    {
+      "text": "- Reviewed site inspection reports",
+      "score": 0.9986088871955872,
+      "box": [
+        127,
+        339,
+        444,
+        368
+      ]
+    },
+    {
+      "text": "Construction Laborers, EverStrong Construction, 2018.11—2020.12",
+      "score": 0.9741308689117432,
+      "box": [
+        118,
+        383,
+        736,
+        407
+      ]
+    },
+    {
+      "text": "- Installed concrete reinforcements",
+      "score": 0.9995668530464172,
+      "box": [
+        126,
+        407,
+        449,
+        432
+      ]
+    },
+    {
+      "text": "- Performed structural repairs",
+      "score": 0.9816480278968811,
+      "box": [
+        128,
+        431,
+        402,
+        459
+      ]
+    },
+    {
+      "text": "Construction Laborers, FirmStep Builders, 2016.09—2018.11",
+      "score": 0.9911108016967773,
+      "box": [
+        117,
+        472,
+        673,
+        499
+      ]
+    },
+    {
+      "text": "- Transported waste materials",
+      "score": 0.9887263774871826,
+      "box": [
+        127,
+        499,
+        407,
+        522
+      ]
+    },
+    {
+      "text": "- Assisted with roofing material handling",
+      "score": 0.9874333739280701,
+      "box": [
+        126,
+        520,
+        498,
+        550
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999510645866394,
+      "box": [
+        118,
+        588,
+        266,
+        612
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Construction Workflow, Goldenwood High School, 2015",
+      "score": 0.9933673739433289,
+      "box": [
+        118,
+        633,
+        890,
+        657
+      ]
+    },
+    {
+      "text": "• Completed coursework in basic tile installation",
+      "score": 0.9826828241348267,
+      "box": [
+        133,
+        658,
+        576,
+        682
+      ]
+    }
+  ],
+  "seconds": 2.6275885002687573,
+  "id": "24883",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

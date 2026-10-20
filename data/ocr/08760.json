@@ -1,0 +1,172 @@
+{
+  "lines": [
+    {
+      "text": "AUSTIN MCDANIEL",
+      "score": 0.9787101745605469,
+      "box": [
+        117,
+        89,
+        427,
+        122
+      ]
+    },
+    {
+      "text": "CA, USA | +1-307-360-7187 | austin.mcdaniel@example.com",
+      "score": 0.963531494140625,
+      "box": [
+        118,
+        152,
+        685,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9987602233886719,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Netwave Tech, 2020.10—2023.01",
+      "score": 0.9864885807037354,
+      "box": [
+        116,
+        289,
+        629,
+        316
+      ]
+    },
+    {
+      "text": "- Built distributed systems",
+      "score": 0.9914454817771912,
+      "box": [
+        126,
+        313,
+        367,
+        343
+      ]
+    },
+    {
+      "text": "- Led technical roadmap planning",
+      "score": 0.9993727207183838,
+      "box": [
+        127,
+        338,
+        438,
+        369
+      ]
+    },
+    {
+      "text": "Software Developers, Openridge Technologies, 2017.072019.11",
+      "score": 0.9920759201049805,
+      "box": [
+        117,
+        382,
+        724,
+        409
+      ]
+    },
+    {
+      "text": "- Implemented feature flags",
+      "score": 0.99967360496521,
+      "box": [
+        124,
+        405,
+        385,
+        435
+      ]
+    },
+    {
+      "text": "- Wrote automated tests",
+      "score": 0.9995617270469666,
+      "box": [
+        126,
+        431,
+        353,
+        458
+      ]
+    },
+    {
+      "text": "Software Developers, Flowpath Digital, 2014.092017.01",
+      "score": 0.9797803163528442,
+      "box": [
+        117,
+        472,
+        644,
+        499
+      ]
+    },
+    {
+      "text": "- Configured development environments",
+      "score": 0.9957987070083618,
+      "box": [
+        128,
+        499,
+        501,
+        523
+      ]
+    },
+    {
+      "text": "- Monitored application logs",
+      "score": 0.9950560331344604,
+      "box": [
+        127,
+        521,
+        386,
+        551
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999463558197021,
+      "box": [
+        118,
+        588,
+        266,
+        612
+      ]
+    },
+    {
+      "text": "Some college (no degree), Stonehaven University, 2011",
+      "score": 0.9973949790000916,
+      "box": [
+        117,
+        632,
+        634,
+        659
+      ]
+    },
+    {
+      "text": "•Studied principles of mutexes and semaphores",
+      "score": 0.9933981895446777,
+      "box": [
+        130,
+        658,
+        583,
+        684
+      ]
+    },
+    {
+      "text": "•Studied principles of operating systems",
+      "score": 0.9863075017929077,
+      "box": [
+        130,
+        681,
+        512,
+        710
+      ]
+    }
+  ],
+  "seconds": 2.3342809001915157,
+  "id": "08760",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

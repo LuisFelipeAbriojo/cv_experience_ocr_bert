@@ -1,0 +1,172 @@
+{
+  "lines": [
+    {
+      "text": "ELIZABETH DURHAM",
+      "score": 0.9997727274894714,
+      "box": [
+        118,
+        92,
+        462,
+        122
+      ]
+    },
+    {
+      "text": "PA, USA | +1-873-343-9699 | elizabeth.durham@example.com",
+      "score": 0.9846237897872925,
+      "box": [
+        116,
+        150,
+        700,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9989033341407776,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Datafield Systems, 2020.09—2023.01",
+      "score": 0.9833532571792603,
+      "box": [
+        114,
+        288,
+        665,
+        319
+      ]
+    },
+    {
+      "text": "- Implemented long-term maintenance plans",
+      "score": 0.9968649744987488,
+      "box": [
+        128,
+        316,
+        537,
+        342
+      ]
+    },
+    {
+      "text": "- Built fault-tolerant systems",
+      "score": 0.9811387658119202,
+      "box": [
+        127,
+        338,
+        388,
+        369
+      ]
+    },
+    {
+      "text": "Software Developers, Flowstack Tech, 2016.042018.08",
+      "score": 0.9938474893569946,
+      "box": [
+        117,
+        383,
+        641,
+        407
+      ]
+    },
+    {
+      "text": "- Designed service interfaces",
+      "score": 0.9944832921028137,
+      "box": [
+        126,
+        409,
+        399,
+        433
+      ]
+    },
+    {
+      "text": "- Refactored legacy code",
+      "score": 0.9802501797676086,
+      "box": [
+        126,
+        431,
+        362,
+        459
+      ]
+    },
+    {
+      "text": "Software Developers, Brightstack Systems, 2013.032015.08",
+      "score": 0.9927096962928772,
+      "box": [
+        117,
+        472,
+        686,
+        499
+      ]
+    },
+    {
+      "text": "- Reviewed error reports",
+      "score": 0.9974562525749207,
+      "box": [
+        126,
+        498,
+        355,
+        524
+      ]
+    },
+    {
+      "text": "- Reviewed API documentation",
+      "score": 0.9577895998954773,
+      "box": [
+        127,
+        521,
+        416,
+        548
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9998568296432495,
+      "box": [
+        117,
+        587,
+        267,
+        614
+      ]
+    },
+    {
+      "text": "Associate's degree, Clearfield Ridge University, 2006",
+      "score": 0.9981766939163208,
+      "box": [
+        116,
+        631,
+        609,
+        659
+      ]
+    },
+    {
+      "text": "• Studied principles of caching strategies",
+      "score": 0.9774938225746155,
+      "box": [
+        130,
+        660,
+        510,
+        684
+      ]
+    },
+    {
+      "text": "•Studied principles of software reliability",
+      "score": 0.9813693761825562,
+      "box": [
+        129,
+        681,
+        506,
+        709
+      ]
+    }
+  ],
+  "seconds": 2.513474500272423,
+  "id": "45009",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

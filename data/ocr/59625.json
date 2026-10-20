@@ -1,0 +1,142 @@
+{
+  "lines": [
+    {
+      "text": "SHAWNTEE YU",
+      "score": 0.9996398687362671,
+      "box": [
+        117,
+        91,
+        365,
+        122
+      ]
+    },
+    {
+      "text": "WA, USA | +1-430-873-9662 | shawntee.yu@example.com",
+      "score": 0.9880703687667847,
+      "box": [
+        117,
+        150,
+        661,
+        177
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9991067051887512,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, CareBridge Health Services, 2019.012021.05",
+      "score": 0.9939819574356079,
+      "box": [
+        116,
+        288,
+        735,
+        318
+      ]
+    },
+    {
+      "text": "- Supervised multidisciplinary care teams",
+      "score": 0.9916698336601257,
+      "box": [
+        125,
+        314,
+        510,
+        343
+      ]
+    },
+    {
+      "text": "- Established care delivery standards",
+      "score": 0.9847685098648071,
+      "box": [
+        126,
+        338,
+        472,
+        368
+      ]
+    },
+    {
+      "text": "Registered Nurses, EverWay Nursing Services, 2016.012018.05",
+      "score": 0.9927831888198853,
+      "box": [
+        115,
+        379,
+        726,
+        410
+      ]
+    },
+    {
+      "text": "- Assisted with patient mobility",
+      "score": 0.9848589301109314,
+      "box": [
+        124,
+        405,
+        410,
+        435
+      ]
+    },
+    {
+      "text": "- Prepared patients for examinations",
+      "score": 0.9728412628173828,
+      "box": [
+        125,
+        430,
+        466,
+        460
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999068379402161,
+      "box": [
+        117,
+        494,
+        267,
+        521
+      ]
+    },
+    {
+      "text": "Bachelor's, Health Care Studies, Brookway University, 2006",
+      "score": 0.9841465950012207,
+      "box": [
+        115,
+        539,
+        671,
+        567
+      ]
+    },
+    {
+      "text": "•Studied principles of pain management",
+      "score": 0.9885140657424927,
+      "box": [
+        131,
+        567,
+        510,
+        591
+      ]
+    },
+    {
+      "text": "• Completed coursework in nutrition for health",
+      "score": 0.985451340675354,
+      "box": [
+        132,
+        592,
+        555,
+        616
+      ]
+    }
+  ],
+  "seconds": 2.366467900108546,
+  "id": "59625",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

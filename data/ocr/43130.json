@@ -1,0 +1,162 @@
+{
+  "lines": [
+    {
+      "text": "JAMES HOUSTON",
+      "score": 0.9671122431755066,
+      "box": [
+        116,
+        91,
+        410,
+        121
+      ]
+    },
+    {
+      "text": "OH, USA | +1-907-739-4805 | james.houston@example.com",
+      "score": 0.9921464920043945,
+      "box": [
+        118,
+        152,
+        678,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9991176128387451,
+      "box": [
+        118,
+        245,
+        314,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, Reliable Track Co., 2020.05—2023.01",
+      "score": 0.9849912524223328,
+      "box": [
+        118,
+        290,
+        678,
+        314
+      ]
+    },
+    {
+      "text": "- Managed construction schedules",
+      "score": 0.9858919978141785,
+      "box": [
+        127,
+        314,
+        448,
+        341
+      ]
+    },
+    {
+      "text": "- Implemented safety compliance strategies",
+      "score": 0.9944670796394348,
+      "box": [
+        127,
+        338,
+        532,
+        368
+      ]
+    },
+    {
+      "text": "Construction Laborers, SolidCraft Construction, 2016.022018.11",
+      "score": 0.9817565679550171,
+      "box": [
+        118,
+        383,
+        721,
+        407
+      ]
+    },
+    {
+      "text": "- Prepared construction schedules",
+      "score": 0.9950716495513916,
+      "box": [
+        125,
+        407,
+        446,
+        433
+      ]
+    },
+    {
+      "text": "- Laid flooring materials",
+      "score": 0.9836869835853577,
+      "box": [
+        127,
+        430,
+        347,
+        461
+      ]
+    },
+    {
+      "text": "Construction Laborers, AnchorBuild Co., 2012.112015.08",
+      "score": 0.9923440217971802,
+      "box": [
+        116,
+        471,
+        659,
+        499
+      ]
+    },
+    {
+      "text": "- Prepared tools and equipment for daily tasks",
+      "score": 0.9893379807472229,
+      "box": [
+        126,
+        498,
+        555,
+        523
+      ]
+    },
+    {
+      "text": "- Stacked and organized construction supplies",
+      "score": 0.9953334331512451,
+      "box": [
+        127,
+        521,
+        557,
+        550
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999425411224365,
+      "box": [
+        118,
+        588,
+        266,
+        612
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Concrete Technology, Stoneview High School, 1998",
+      "score": 0.9972764253616333,
+      "box": [
+        117,
+        632,
+        859,
+        659
+      ]
+    },
+    {
+      "text": "• Completed coursework in basic siding installation",
+      "score": 0.98610520362854,
+      "box": [
+        133,
+        659,
+        604,
+        683
+      ]
+    }
+  ],
+  "seconds": 2.580799499992281,
+  "id": "43130",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

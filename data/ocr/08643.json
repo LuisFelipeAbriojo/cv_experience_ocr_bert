@@ -1,0 +1,112 @@
+{
+  "lines": [
+    {
+      "text": "ELIZABETH LLOYD",
+      "score": 0.9998720288276672,
+      "box": [
+        118,
+        91,
+        428,
+        122
+      ]
+    },
+    {
+      "text": "CA, USA | +1-528-307-5972 | elizabeth.Iloyd@example.com",
+      "score": 0.9783808588981628,
+      "box": [
+        116,
+        150,
+        673,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9997300505638123,
+      "box": [
+        117,
+        243,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Precise Ledger Services, 2020.09—2022.04",
+      "score": 0.9924151301383972,
+      "box": [
+        116,
+        289,
+        727,
+        316
+      ]
+    },
+    {
+      "text": "- Reviewed expense classifications",
+      "score": 0.9873119592666626,
+      "box": [
+        126,
+        313,
+        454,
+        342
+      ]
+    },
+    {
+      "text": "- Processed accounts receivable transactions",
+      "score": 0.9845405220985413,
+      "box": [
+        127,
+        340,
+        549,
+        365
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999591112136841,
+      "box": [
+        116,
+        404,
+        268,
+        431
+      ]
+    },
+    {
+      "text": "Bachelor's, Accounting Practice, Fairfield University, 2006",
+      "score": 0.9809014797210693,
+      "box": [
+        116,
+        448,
+        652,
+        475
+      ]
+    },
+    {
+      "text": "•Completed coursework in data visualization basics",
+      "score": 0.9715091586112976,
+      "box": [
+        130,
+        475,
+        614,
+        499
+      ]
+    },
+    {
+      "text": "•Studied fundamentals of sustainability accounting basics",
+      "score": 0.9818610548973083,
+      "box": [
+        132,
+        497,
+        668,
+        524
+      ]
+    }
+  ],
+  "seconds": 1.9446460003964603,
+  "id": "08643",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

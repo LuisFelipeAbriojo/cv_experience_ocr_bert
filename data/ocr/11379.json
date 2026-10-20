@@ -1,0 +1,142 @@
+{
+  "lines": [
+    {
+      "text": "CONRAD YODER",
+      "score": 0.997915506362915,
+      "box": [
+        116,
+        87,
+        394,
+        123
+      ]
+    },
+    {
+      "text": "CT, USA | +1-968-585-7151 | conrad.yoder@example.com",
+      "score": 0.9952661991119385,
+      "box": [
+        117,
+        150,
+        661,
+        177
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9997446537017822,
+      "box": [
+        117,
+        243,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Software Developers, Flowfield Labs, 2020.072023.01",
+      "score": 0.9850171208381653,
+      "box": [
+        117,
+        290,
+        628,
+        314
+      ]
+    },
+    {
+      "text": "- Defined API governance models",
+      "score": 0.9851058721542358,
+      "box": [
+        127,
+        316,
+        442,
+        340
+      ]
+    },
+    {
+      "text": "- Built distributed systems",
+      "score": 0.979153037071228,
+      "box": [
+        127,
+        338,
+        368,
+        368
+      ]
+    },
+    {
+      "text": "Software Developers, Netwave Labs, 2017.122020.07",
+      "score": 0.9998970627784729,
+      "box": [
+        116,
+        381,
+        628,
+        408
+      ]
+    },
+    {
+      "text": "- Implemented logging features",
+      "score": 0.9751737117767334,
+      "box": [
+        125,
+        406,
+        419,
+        434
+      ]
+    },
+    {
+      "text": "- Assisted with database queries",
+      "score": 0.9835657477378845,
+      "box": [
+        127,
+        430,
+        431,
+        458
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9998915791511536,
+      "box": [
+        117,
+        494,
+        268,
+        521
+      ]
+    },
+    {
+      "text": "Some college (no degree), Oakway University, 2016",
+      "score": 0.995573103427887,
+      "box": [
+        116,
+        539,
+        602,
+        567
+      ]
+    },
+    {
+      "text": "• Completed coursework in project documentation",
+      "score": 0.9943634867668152,
+      "box": [
+        132,
+        566,
+        596,
+        591
+      ]
+    },
+    {
+      "text": "•Completed coursework in requirements engineering",
+      "score": 0.9840701222419739,
+      "box": [
+        131,
+        590,
+        626,
+        619
+      ]
+    }
+  ],
+  "seconds": 2.1393447001464665,
+  "id": "11379",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

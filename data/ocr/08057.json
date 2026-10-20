@@ -1,0 +1,142 @@
+{
+  "lines": [
+    {
+      "text": "WILLIAM ALLEN",
+      "score": 0.9988983869552612,
+      "box": [
+        117,
+        92,
+        382,
+        122
+      ]
+    },
+    {
+      "text": "CA, USA | +1-964-338-3419 | william.allen@example.com",
+      "score": 0.9756577014923096,
+      "box": [
+        118,
+        152,
+        652,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9990995526313782,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, ClearStone Construction, 2020.12—2023.01",
+      "score": 0.9936292171478271,
+      "box": [
+        118,
+        290,
+        734,
+        314
+      ]
+    },
+    {
+      "text": "- Designed construction staging plans",
+      "score": 0.9767876863479614,
+      "box": [
+        125,
+        314,
+        478,
+        342
+      ]
+    },
+    {
+      "text": "- Led cross-functional coordination",
+      "score": 0.9811139702796936,
+      "box": [
+        127,
+        339,
+        449,
+        365
+      ]
+    },
+    {
+      "text": "Construction Laborers, Unified Builders, 2018.112020.12",
+      "score": 0.9956691861152649,
+      "box": [
+        118,
+        383,
+        656,
+        406
+      ]
+    },
+    {
+      "text": "- Performed basic sanding and painting",
+      "score": 0.9944217801094055,
+      "box": [
+        126,
+        407,
+        491,
+        434
+      ]
+    },
+    {
+      "text": "- Assisted with equipment maintenance",
+      "score": 0.9959498047828674,
+      "box": [
+        129,
+        431,
+        492,
+        458
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999285936355591,
+      "box": [
+        117,
+        494,
+        268,
+        521
+      ]
+    },
+    {
+      "text": "Some college (no degree), Electrical Technology, Cedar Valley University, 2017",
+      "score": 0.9910051226615906,
+      "box": [
+        115,
+        538,
+        854,
+        569
+      ]
+    },
+    {
+      "text": "•Completed coursework in construction inspection reporting",
+      "score": 0.9751777648925781,
+      "box": [
+        130,
+        564,
+        690,
+        594
+      ]
+    },
+    {
+      "text": "• Completed coursework in construction fundamentals",
+      "score": 0.9922657608985901,
+      "box": [
+        133,
+        592,
+        633,
+        616
+      ]
+    }
+  ],
+  "seconds": 2.3623480000533164,
+  "id": "08057",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

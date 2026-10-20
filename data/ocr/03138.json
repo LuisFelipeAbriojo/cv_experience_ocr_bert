@@ -1,0 +1,142 @@
+{
+  "lines": [
+    {
+      "text": "JULIE AHMED",
+      "score": 0.9997110366821289,
+      "box": [
+        116,
+        91,
+        343,
+        122
+      ]
+    },
+    {
+      "text": "CA, USA | +1-529-408-6731 | julie.ahmed@example.com",
+      "score": 0.9920188188552856,
+      "box": [
+        118,
+        152,
+        647,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9997745156288147,
+      "box": [
+        117,
+        243,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Software Developers, Flowbyte Systems, 2020.02—2023.01",
+      "score": 0.9956128597259521,
+      "box": [
+        116,
+        289,
+        665,
+        316
+      ]
+    },
+    {
+      "text": "- Defined API governance models",
+      "score": 0.9843396544456482,
+      "box": [
+        129,
+        316,
+        442,
+        340
+      ]
+    },
+    {
+      "text": "- Led backend platform development",
+      "score": 0.9987664222717285,
+      "box": [
+        129,
+        339,
+        469,
+        367
+      ]
+    },
+    {
+      "text": "Software Developers, Flowstack Digital, 2017.02—2020.02",
+      "score": 0.9898465275764465,
+      "box": [
+        115,
+        380,
+        654,
+        408
+      ]
+    },
+    {
+      "text": "- Participated in code reviews",
+      "score": 0.9833466410636902,
+      "box": [
+        125,
+        407,
+        403,
+        432
+      ]
+    },
+    {
+      "text": "- Fixed software bugs identified through testing",
+      "score": 0.9746003746986389,
+      "box": [
+        126,
+        429,
+        562,
+        459
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999924898147583,
+      "box": [
+        117,
+        494,
+        267,
+        521
+      ]
+    },
+    {
+      "text": "Bachelor's, Brighton University, 2015",
+      "score": 0.9771385192871094,
+      "box": [
+        117,
+        542,
+        460,
+        566
+      ]
+    },
+    {
+      "text": "• Completed coursework in code review practices",
+      "score": 0.9733937978744507,
+      "box": [
+        131,
+        567,
+        590,
+        591
+      ]
+    },
+    {
+      "text": "•Studied fundamentals of client-side development",
+      "score": 0.9879924654960632,
+      "box": [
+        132,
+        590,
+        598,
+        616
+      ]
+    }
+  ],
+  "seconds": 2.3448072001338005,
+  "id": "03138",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

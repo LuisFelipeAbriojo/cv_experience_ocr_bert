@@ -1,0 +1,142 @@
+{
+  "lines": [
+    {
+      "text": "RACHEL SHORT",
+      "score": 0.999615490436554,
+      "box": [
+        118,
+        91,
+        384,
+        122
+      ]
+    },
+    {
+      "text": "AZ, USA | +1-878-948-3225 | rachel.short@example.com",
+      "score": 0.993558943271637,
+      "box": [
+        117,
+        150,
+        648,
+        177
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9997701048851013,
+      "box": [
+        117,
+        243,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Software Developers, Flowpath Systems, 2020.10—2023.01",
+      "score": 0.9871983528137207,
+      "box": [
+        117,
+        291,
+        665,
+        315
+      ]
+    },
+    {
+      "text": "- Led performance tuning initiatives",
+      "score": 0.9906139373779297,
+      "box": [
+        129,
+        317,
+        453,
+        341
+      ]
+    },
+    {
+      "text": "- Defined quality assurance frameworks",
+      "score": 0.9975703358650208,
+      "box": [
+        128,
+        339,
+        496,
+        367
+      ]
+    },
+    {
+      "text": "Software Developers, Dataframe Labs, 2018.072020.10",
+      "score": 0.9833230376243591,
+      "box": [
+        116,
+        380,
+        646,
+        408
+      ]
+    },
+    {
+      "text": "- Handled feature toggles",
+      "score": 0.9993098378181458,
+      "box": [
+        125,
+        406,
+        364,
+        433
+      ]
+    },
+    {
+      "text": "- Assisted with version control operations",
+      "score": 0.9868614673614502,
+      "box": [
+        128,
+        431,
+        508,
+        457
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999309182167053,
+      "box": [
+        117,
+        494,
+        268,
+        521
+      ]
+    },
+    {
+      "text": "Bachelor's, Clearway University, 2017",
+      "score": 0.9964414238929749,
+      "box": [
+        116,
+        540,
+        470,
+        567
+      ]
+    },
+    {
+      "text": "• Studied principles of dependency injection",
+      "score": 0.9778738021850586,
+      "box": [
+        131,
+        567,
+        538,
+        591
+      ]
+    },
+    {
+      "text": "Completed coursework in computer programming fundamentals",
+      "score": 0.9990066289901733,
+      "box": [
+        131,
+        591,
+        736,
+        618
+      ]
+    }
+  ],
+  "seconds": 2.456648400053382,
+  "id": "01716",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

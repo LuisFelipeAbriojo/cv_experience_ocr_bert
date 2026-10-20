@@ -1,0 +1,142 @@
+{
+  "lines": [
+    {
+      "text": "KAMERON JAMES",
+      "score": 0.9998470544815063,
+      "box": [
+        118,
+        91,
+        414,
+        122
+      ]
+    },
+    {
+      "text": "NC, USA | +1-723-271-2695 | kameron.james@example.com",
+      "score": 0.9936280250549316,
+      "box": [
+        117,
+        152,
+        684,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9981793761253357,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, FairBalance Group, 2021.02—2023.01",
+      "score": 0.9836330413818359,
+      "box": [
+        115,
+        288,
+        674,
+        316
+      ]
+    },
+    {
+      "text": "- Established financial quality controls",
+      "score": 0.9952775835990906,
+      "box": [
+        127,
+        313,
+        476,
+        342
+      ]
+    },
+    {
+      "text": "- Managed financial governance",
+      "score": 0.9793117046356201,
+      "box": [
+        127,
+        339,
+        428,
+        369
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Reliable Ledger Services, 2017.112019.11",
+      "score": 0.9877530336380005,
+      "box": [
+        116,
+        380,
+        732,
+        408
+      ]
+    },
+    {
+      "text": "- Reviewed billing statements",
+      "score": 0.9831991791725159,
+      "box": [
+        124,
+        406,
+        403,
+        434
+      ]
+    },
+    {
+      "text": "- Prepared journal entries",
+      "score": 0.9840247631072998,
+      "box": [
+        127,
+        430,
+        366,
+        461
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999182820320129,
+      "box": [
+        117,
+        494,
+        268,
+        521
+      ]
+    },
+    {
+      "text": "Bachelor's, International Business, Edgewood University, 2010",
+      "score": 0.9895028471946716,
+      "box": [
+        115,
+        539,
+        697,
+        567
+      ]
+    },
+    {
+      "text": "Completed coursework in capital budgeting",
+      "score": 0.9966658353805542,
+      "box": [
+        130,
+        563,
+        547,
+        595
+      ]
+    },
+    {
+      "text": "Studied principles of financial ratio analysis",
+      "score": 0.9809126853942871,
+      "box": [
+        130,
+        590,
+        546,
+        618
+      ]
+    }
+  ],
+  "seconds": 2.2219389001838863,
+  "id": "39539",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

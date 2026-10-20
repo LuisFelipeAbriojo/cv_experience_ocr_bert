@@ -1,0 +1,172 @@
+{
+  "lines": [
+    {
+      "text": "ASHLEY XIONG",
+      "score": 0.9754155278205872,
+      "box": [
+        117,
+        91,
+        369,
+        122
+      ]
+    },
+    {
+      "text": "CA, USA | +1-221-551-7722 | ashley.xiong@example.com",
+      "score": 0.9809672236442566,
+      "box": [
+        116,
+        150,
+        656,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9991941452026367,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Balanced Books Group, 2019.112023.01",
+      "score": 0.982265055179596,
+      "box": [
+        115,
+        288,
+        714,
+        317
+      ]
+    },
+    {
+      "text": "- Directed enterprise accounting platforms",
+      "score": 0.9789801239967346,
+      "box": [
+        126,
+        314,
+        518,
+        343
+      ]
+    },
+    {
+      "text": "- Designed financial documentation standards",
+      "score": 0.9889441132545471,
+      "box": [
+        128,
+        340,
+        553,
+        367
+      ]
+    },
+    {
+      "text": "Accountants Auditors, TrustCount Advisors, 2016.082019.11",
+      "score": 0.9985862374305725,
+      "box": [
+        118,
+        383,
+        688,
+        407
+      ]
+    },
+    {
+      "text": "- Prepared statutory filings",
+      "score": 0.9881581664085388,
+      "box": [
+        125,
+        408,
+        374,
+        434
+      ]
+    },
+    {
+      "text": "- Managed accounts receivable cycles",
+      "score": 0.9851876497268677,
+      "box": [
+        127,
+        433,
+        484,
+        459
+      ]
+    },
+    {
+      "text": "Accountants Auditors, CoreCount Financial, 2013.05—2016.08",
+      "score": 0.9781907796859741,
+      "box": [
+        118,
+        473,
+        690,
+        497
+      ]
+    },
+    {
+      "text": "- Processed expense reimbursements",
+      "score": 0.994242250919342,
+      "box": [
+        127,
+        499,
+        481,
+        523
+      ]
+    },
+    {
+      "text": "- Assisted with budget tracking",
+      "score": 0.9944022297859192,
+      "box": [
+        127,
+        521,
+        414,
+        550
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999527335166931,
+      "box": [
+        118,
+        588,
+        266,
+        612
+      ]
+    },
+    {
+      "text": "Bachelor's, Commerce, Sunfield University, 2011",
+      "score": 0.9773128628730774,
+      "box": [
+        116,
+        630,
+        570,
+        658
+      ]
+    },
+    {
+      "text": "Completed coursework in corporate governance",
+      "score": 0.9988273978233337,
+      "box": [
+        131,
+        656,
+        594,
+        686
+      ]
+    },
+    {
+      "text": "Completed coursework in supply chain accounting",
+      "score": 0.9989588260650635,
+      "box": [
+        132,
+        680,
+        613,
+        710
+      ]
+    }
+  ],
+  "seconds": 2.6183818001300097,
+  "id": "05868",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

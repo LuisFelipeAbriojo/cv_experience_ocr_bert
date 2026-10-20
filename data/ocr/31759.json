@@ -1,0 +1,202 @@
+{
+  "lines": [
+    {
+      "text": "AARON HUANG",
+      "score": 0.9997580051422119,
+      "box": [
+        117,
+        91,
+        372,
+        122
+      ]
+    },
+    {
+      "text": "NE, USA | +1-510-422-6475 | aaron.huang@example.com",
+      "score": 0.9845753312110901,
+      "box": [
+        116,
+        151,
+        657,
+        177
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9971685409545898,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Softpath Digital, 2019.122023.01",
+      "score": 0.9960796236991882,
+      "box": [
+        116,
+        290,
+        637,
+        317
+      ]
+    },
+    {
+      "text": "- Led system reliability programs",
+      "score": 0.9886865615844727,
+      "box": [
+        128,
+        316,
+        430,
+        342
+      ]
+    },
+    {
+      "text": "- Defined quality assurance frameworks",
+      "score": 0.9878270030021667,
+      "box": [
+        127,
+        340,
+        496,
+        368
+      ]
+    },
+    {
+      "text": "Software Developers, Netfield Technologies, 2016.112019.12",
+      "score": 0.9861143827438354,
+      "box": [
+        115,
+        381,
+        700,
+        411
+      ]
+    },
+    {
+      "text": "- Led database design efforts",
+      "score": 0.9978720545768738,
+      "box": [
+        129,
+        409,
+        400,
+        433
+      ]
+    },
+    {
+      "text": "- Designed caching infrastructures",
+      "score": 0.9974113702774048,
+      "box": [
+        127,
+        431,
+        447,
+        459
+      ]
+    },
+    {
+      "text": "Software Developers, Codecrest Tech, 2013.102016.11",
+      "score": 0.9842938184738159,
+      "box": [
+        117,
+        472,
+        643,
+        499
+      ]
+    },
+    {
+      "text": "- Implemented security controls",
+      "score": 0.9823964834213257,
+      "box": [
+        127,
+        499,
+        421,
+        523
+      ]
+    },
+    {
+      "text": "- Built reusable libraries",
+      "score": 0.9765303730964661,
+      "box": [
+        127,
+        521,
+        348,
+        549
+      ]
+    },
+    {
+      "text": "Software Developers, Brightcrest Software, 2010.09—2013.10",
+      "score": 0.9906944036483765,
+      "box": [
+        117,
+        566,
+        684,
+        590
+      ]
+    },
+    {
+      "text": "- Updated configuration files",
+      "score": 0.9964070320129395,
+      "box": [
+        129,
+        591,
+        389,
+        615
+      ]
+    },
+    {
+      "text": "- Updated routing logic",
+      "score": 0.9794703125953674,
+      "box": [
+        128,
+        614,
+        341,
+        643
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999920129776001,
+      "box": [
+        117,
+        681,
+        266,
+        705
+      ]
+    },
+    {
+      "text": "Bachelor's, Brookwood University, 2009",
+      "score": 0.9935989379882812,
+      "box": [
+        116,
+        724,
+        486,
+        750
+      ]
+    },
+    {
+      "text": "• Completed coursework in fault tolerance",
+      "score": 0.987462043762207,
+      "box": [
+        132,
+        750,
+        521,
+        774
+      ]
+    },
+    {
+      "text": "•Studied fundamentals of programming in Java",
+      "score": 0.9833055138587952,
+      "box": [
+        132,
+        772,
+        574,
+        801
+      ]
+    }
+  ],
+  "seconds": 2.615909700281918,
+  "id": "31759",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

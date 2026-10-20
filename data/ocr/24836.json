@@ -1,0 +1,202 @@
+{
+  "lines": [
+    {
+      "text": "BRITTANY REYES",
+      "score": 0.9996452331542969,
+      "box": [
+        118,
+        91,
+        409,
+        122
+      ]
+    },
+    {
+      "text": "MD, USA | +1-858-684-5309 | brittany.reyes@example.com",
+      "score": 0.9862631559371948,
+      "box": [
+        115,
+        150,
+        669,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9613265991210938,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Open Sky School, 2019.05—2023.01",
+      "score": 0.9926419854164124,
+      "box": [
+        116,
+        289,
+        799,
+        319
+      ]
+    },
+    {
+      "text": "- Developed long-term instructional strategies",
+      "score": 0.9966506958007812,
+      "box": [
+        126,
+        316,
+        549,
+        342
+      ]
+    },
+    {
+      "text": "- Designed systemic intervention models",
+      "score": 0.9980425834655762,
+      "box": [
+        127,
+        340,
+        505,
+        368
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Friendly Steps School, 2015.092019.05",
+      "score": 0.9997201561927795,
+      "box": [
+        117,
+        382,
+        841,
+        409
+      ]
+    },
+    {
+      "text": "- Developed learning progression models",
+      "score": 0.9991973638534546,
+      "box": [
+        126,
+        408,
+        509,
+        433
+      ]
+    },
+    {
+      "text": "- Implemented data analysis frameworks",
+      "score": 0.9899974465370178,
+      "box": [
+        128,
+        432,
+        504,
+        457
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, BrightStart Academy, 2012.012015.09",
+      "score": 0.9996753334999084,
+      "box": [
+        117,
+        473,
+        829,
+        500
+      ]
+    },
+    {
+      "text": "- Integrated educational technology tools",
+      "score": 0.999683678150177,
+      "box": [
+        125,
+        497,
+        506,
+        525
+      ]
+    },
+    {
+      "text": "- Analyzed assessment trends",
+      "score": 0.9852066040039062,
+      "box": [
+        127,
+        521,
+        411,
+        552
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Bright Star School, 2008.04—2012.01",
+      "score": 0.9852513074874878,
+      "box": [
+        117,
+        565,
+        805,
+        592
+      ]
+    },
+    {
+      "text": "- Maintained classroom attendance and grading records",
+      "score": 0.9876046180725098,
+      "box": [
+        128,
+        592,
+        645,
+        616
+      ]
+    },
+    {
+      "text": "- Conducted spelling practice",
+      "score": 0.9806104898452759,
+      "box": [
+        126,
+        614,
+        400,
+        644
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999229907989502,
+      "box": [
+        117,
+        681,
+        266,
+        705
+      ]
+    },
+    {
+      "text": "Bachelor's, Applied Child Studies, Forest Hill University, 2011",
+      "score": 0.9910136461257935,
+      "box": [
+        115,
+        723,
+        685,
+        750
+      ]
+    },
+    {
+      "text": "• Completed coursework in classroom routines",
+      "score": 0.9973545074462891,
+      "box": [
+        133,
+        751,
+        565,
+        775
+      ]
+    },
+    {
+      "text": "Studied principles of student participation",
+      "score": 0.9892419576644897,
+      "box": [
+        132,
+        772,
+        530,
+        802
+      ]
+    }
+  ],
+  "seconds": 3.274509500246495,
+  "id": "24836",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

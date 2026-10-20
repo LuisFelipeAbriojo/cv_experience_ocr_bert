@@ -1,0 +1,192 @@
+{
+  "lines": [
+    {
+      "text": "CORBAN CONRAD",
+      "score": 0.9991945028305054,
+      "box": [
+        117,
+        90,
+        420,
+        122
+      ]
+    },
+    {
+      "text": "TX, USA | +1-545-943-2812 | corban.conrad@example.com",
+      "score": 0.9918127059936523,
+      "box": [
+        118,
+        149,
+        671,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9989409446716309,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, HardFrame Builders, 2020.07—2023.01",
+      "score": 0.9862557649612427,
+      "box": [
+        118,
+        289,
+        692,
+        313
+      ]
+    },
+    {
+      "text": "- Designed site logistics frameworks",
+      "score": 0.9934595823287964,
+      "box": [
+        125,
+        314,
+        462,
+        342
+      ]
+    },
+    {
+      "text": "- Directed project execution strategies",
+      "score": 0.9849635362625122,
+      "box": [
+        127,
+        339,
+        480,
+        368
+      ]
+    },
+    {
+      "text": "Construction Laborers, SolidRise Construction, 2018.01—2020.07",
+      "score": 0.9894140958786011,
+      "box": [
+        118,
+        383,
+        719,
+        407
+      ]
+    },
+    {
+      "text": "- Reviewed workflow efficiency reports",
+      "score": 0.9951770305633545,
+      "box": [
+        125,
+        407,
+        484,
+        433
+      ]
+    },
+    {
+      "text": "- Directed equipment operations",
+      "score": 0.989457905292511,
+      "box": [
+        126,
+        431,
+        428,
+        459
+      ]
+    },
+    {
+      "text": "Construction Laborers, HardTrack Builders, 2014.06—2016.12",
+      "score": 0.9824531674385071,
+      "box": [
+        117,
+        472,
+        688,
+        497
+      ]
+    },
+    {
+      "text": "- Monitored safety compliance",
+      "score": 0.9944437146186829,
+      "box": [
+        125,
+        497,
+        409,
+        525
+      ]
+    },
+    {
+      "text": "- Installed drywall systems",
+      "score": 0.9851917624473572,
+      "box": [
+        127,
+        522,
+        374,
+        551
+      ]
+    },
+    {
+      "text": "Construction Laborers, Foundation Force, 2010.06—2013.01",
+      "score": 0.9900542497634888,
+      "box": [
+        117,
+        564,
+        670,
+        590
+      ]
+    },
+    {
+      "text": "- Helped position heavy materials",
+      "score": 0.9826709628105164,
+      "box": [
+        125,
+        589,
+        440,
+        617
+      ]
+    },
+    {
+      "text": "- Installed insulation materials",
+      "score": 0.9958089590072632,
+      "box": [
+        128,
+        614,
+        405,
+        642
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9998867511749268,
+      "box": [
+        117,
+        681,
+        266,
+        705
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Building Systems, Maplewood High School, 2006",
+      "score": 0.9858691692352295,
+      "box": [
+        115,
+        723,
+        831,
+        750
+      ]
+    },
+    {
+      "text": "•Studied fundamentals of power tool operation",
+      "score": 0.9861414432525635,
+      "box": [
+        130,
+        748,
+        569,
+        774
+      ]
+    }
+  ],
+  "seconds": 2.7492014998570085,
+  "id": "51605",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

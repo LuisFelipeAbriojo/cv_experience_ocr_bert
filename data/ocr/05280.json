@@ -1,0 +1,172 @@
+{
+  "lines": [
+    {
+      "text": "GAGE CHUNG",
+      "score": 0.9925227165222168,
+      "box": [
+        118,
+        91,
+        348,
+        122
+      ]
+    },
+    {
+      "text": "CA, USA | +1-521-622-6318 | gage.chung@example.com",
+      "score": 0.9869735240936279,
+      "box": [
+        118,
+        152,
+        648,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9989857077598572,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, ClearCount Group, 2020.10—2023.01",
+      "score": 0.9892017245292664,
+      "box": [
+        115,
+        288,
+        668,
+        316
+      ]
+    },
+    {
+      "text": "- Developed financial performance metrics",
+      "score": 0.9932799935340881,
+      "box": [
+        128,
+        315,
+        520,
+        341
+      ]
+    },
+    {
+      "text": "- Managed financial compliance programs",
+      "score": 0.9963801503181458,
+      "box": [
+        127,
+        339,
+        517,
+        369
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Reliable Balance Services, 2018.072020.10",
+      "score": 0.9921774864196777,
+      "box": [
+        117,
+        382,
+        744,
+        409
+      ]
+    },
+    {
+      "text": "- Developed financial policies",
+      "score": 0.9844608306884766,
+      "box": [
+        126,
+        407,
+        400,
+        433
+      ]
+    },
+    {
+      "text": "- Prepared statutory filings",
+      "score": 0.9917680025100708,
+      "box": [
+        127,
+        430,
+        374,
+        461
+      ]
+    },
+    {
+      "text": "Accountants Auditors, FairCount Advisors Group, 2013.06—2015.09",
+      "score": 0.9829472303390503,
+      "box": [
+        117,
+        472,
+        741,
+        499
+      ]
+    },
+    {
+      "text": "- Prepared trial balances",
+      "score": 0.9995179772377014,
+      "box": [
+        125,
+        496,
+        359,
+        525
+      ]
+    },
+    {
+      "text": "- Assisted with financial statement preparation",
+      "score": 0.9911044239997864,
+      "box": [
+        126,
+        520,
+        555,
+        549
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999020099639893,
+      "box": [
+        117,
+        587,
+        267,
+        614
+      ]
+    },
+    {
+      "text": "Bachelor's, Financial Planning, Willowhaven University, 2013",
+      "score": 0.9966116547584534,
+      "box": [
+        116,
+        630,
+        681,
+        659
+      ]
+    },
+    {
+      "text": "Completed coursework in audit risk modeling",
+      "score": 0.980989396572113,
+      "box": [
+        131,
+        656,
+        565,
+        685
+      ]
+    },
+    {
+      "text": "•Completed coursework in accounting controls testing",
+      "score": 0.9839060306549072,
+      "box": [
+        132,
+        680,
+        636,
+        711
+      ]
+    }
+  ],
+  "seconds": 2.4716063998639584,
+  "id": "05280",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

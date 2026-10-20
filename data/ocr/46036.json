@@ -1,0 +1,142 @@
+{
+  "lines": [
+    {
+      "text": "KANIN FORD",
+      "score": 0.9997733235359192,
+      "box": [
+        117,
+        90,
+        327,
+        121
+      ]
+    },
+    {
+      "text": "PA, USA | +1-237-501-4944 | kanin.ford@example.com",
+      "score": 0.9811047911643982,
+      "box": [
+        116,
+        151,
+        631,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9991175532341003,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Open Grove School, 2020.05—2023.01",
+      "score": 0.9847248196601868,
+      "box": [
+        116,
+        288,
+        821,
+        318
+      ]
+    },
+    {
+      "text": "- Implemented performance evaluation systems",
+      "score": 0.9991629123687744,
+      "box": [
+        125,
+        314,
+        570,
+        343
+      ]
+    },
+    {
+      "text": "- Established instructional best practices",
+      "score": 0.9755303263664246,
+      "box": [
+        127,
+        339,
+        501,
+        367
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Bright Field Academy, 2017.09—2020.05",
+      "score": 0.9949616193771362,
+      "box": [
+        117,
+        382,
+        835,
+        409
+      ]
+    },
+    {
+      "text": "- Organized classroom learning resources",
+      "score": 0.992999255657196,
+      "box": [
+        126,
+        408,
+        517,
+        433
+      ]
+    },
+    {
+      "text": "- Reviewed learning standards",
+      "score": 0.9850242137908936,
+      "box": [
+        126,
+        430,
+        412,
+        458
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999422430992126,
+      "box": [
+        117,
+        494,
+        267,
+        521
+      ]
+    },
+    {
+      "text": "Bachelor's, General Academic Studies, Brookfield University, 2020",
+      "score": 0.9932398796081543,
+      "box": [
+        116,
+        540,
+        731,
+        566
+      ]
+    },
+    {
+      "text": "• Completed coursework in instructional review methods",
+      "score": 0.9883038401603699,
+      "box": [
+        131,
+        566,
+        652,
+        591
+      ]
+    },
+    {
+      "text": "• Studied principles of student assessment",
+      "score": 0.9683247804641724,
+      "box": [
+        132,
+        592,
+        529,
+        616
+      ]
+    }
+  ],
+  "seconds": 2.703293099999428,
+  "id": "46036",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

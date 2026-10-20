@@ -1,0 +1,142 @@
+{
+  "lines": [
+    {
+      "text": "ERIN CHARLES",
+      "score": 0.9820621609687805,
+      "box": [
+        118,
+        91,
+        368,
+        121
+      ]
+    },
+    {
+      "text": "AL, USA | +1-386-648-2880 | erin.charles@example.com",
+      "score": 0.9688180685043335,
+      "box": [
+        118,
+        151,
+        643,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.999747097492218,
+      "box": [
+        117,
+        243,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Software Developers, Clearwave Systems, 2021.02—2023.01",
+      "score": 0.9908121824264526,
+      "box": [
+        115,
+        288,
+        680,
+        316
+      ]
+    },
+    {
+      "text": "- Defined engineering best practices",
+      "score": 0.980658233165741,
+      "box": [
+        126,
+        314,
+        464,
+        342
+      ]
+    },
+    {
+      "text": "- Implemented core frameworks",
+      "score": 0.9994422793388367,
+      "box": [
+        129,
+        340,
+        423,
+        365
+      ]
+    },
+    {
+      "text": "Software Developers, Cloudframe Software, 2016.06—2018.05",
+      "score": 0.9918223023414612,
+      "box": [
+        115,
+        380,
+        694,
+        408
+      ]
+    },
+    {
+      "text": "- Implemented error handling logic",
+      "score": 0.9910910129547119,
+      "box": [
+        124,
+        405,
+        447,
+        434
+      ]
+    },
+    {
+      "text": "- Resolved merge conflicts",
+      "score": 0.960739016532898,
+      "box": [
+        126,
+        430,
+        377,
+        460
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999226331710815,
+      "box": [
+        116,
+        494,
+        268,
+        521
+      ]
+    },
+    {
+      "text": "Bachelor's, Plainview University, 2006",
+      "score": 0.9865900278091431,
+      "box": [
+        116,
+        540,
+        469,
+        566
+      ]
+    },
+    {
+      "text": "•Studied principles of microservices architecture",
+      "score": 0.9793838262557983,
+      "box": [
+        131,
+        567,
+        585,
+        591
+      ]
+    },
+    {
+      "text": "• Completed coursework in database optimization",
+      "score": 0.9787958264350891,
+      "box": [
+        132,
+        591,
+        591,
+        615
+      ]
+    }
+  ],
+  "seconds": 2.5725493002682924,
+  "id": "00216",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

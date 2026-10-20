@@ -1,0 +1,162 @@
+{
+  "lines": [
+    {
+      "text": "ISSA HODGES",
+      "score": 0.9675634503364563,
+      "box": [
+        117,
+        91,
+        350,
+        122
+      ]
+    },
+    {
+      "text": "CT, USA| +1-525-560-8100 | issa.hodges@example.com",
+      "score": 0.9866030216217041,
+      "box": [
+        118,
+        152,
+        650,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9991835951805115,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Precise Ledger Services, 2020.07—2023.01",
+      "score": 0.97698974609375,
+      "box": [
+        116,
+        289,
+        725,
+        316
+      ]
+    },
+    {
+      "text": "- Led financial data standardization",
+      "score": 0.9896634221076965,
+      "box": [
+        127,
+        315,
+        453,
+        340
+      ]
+    },
+    {
+      "text": "- Established cost management systems",
+      "score": 0.9833759665489197,
+      "box": [
+        126,
+        338,
+        504,
+        369
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Precise Balance Financial Group, 2016.122019.06",
+      "score": 0.9780702590942383,
+      "box": [
+        116,
+        379,
+        804,
+        410
+      ]
+    },
+    {
+      "text": "- Analyzed financial trends",
+      "score": 0.9879589676856995,
+      "box": [
+        126,
+        408,
+        375,
+        432
+      ]
+    },
+    {
+      "text": "- Managed accounts receivable cycles",
+      "score": 0.9886350631713867,
+      "box": [
+        125,
+        431,
+        484,
+        458
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Accurate Ledger Services, 2013.09—2016.04",
+      "score": 0.9893290400505066,
+      "box": [
+        118,
+        473,
+        739,
+        497
+      ]
+    },
+    {
+      "text": "- Processed expense reimbursements",
+      "score": 0.9948955774307251,
+      "box": [
+        127,
+        499,
+        481,
+        523
+      ]
+    },
+    {
+      "text": "- Maintained chart of accounts",
+      "score": 0.9798561930656433,
+      "box": [
+        128,
+        521,
+        410,
+        547
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999924898147583,
+      "box": [
+        117,
+        586,
+        267,
+        613
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Commerce, Vista High School, 2009",
+      "score": 0.9875978231430054,
+      "box": [
+        116,
+        631,
+        713,
+        659
+      ]
+    },
+    {
+      "text": "• Studied principles of accounting policy analysis",
+      "score": 0.9831967949867249,
+      "box": [
+        131,
+        659,
+        583,
+        683
+      ]
+    }
+  ],
+  "seconds": 2.69141159998253,
+  "id": "11394",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

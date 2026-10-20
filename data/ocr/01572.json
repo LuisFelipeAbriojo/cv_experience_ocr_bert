@@ -1,0 +1,142 @@
+{
+  "lines": [
+    {
+      "text": "JOSEPH HAIL",
+      "score": 0.9998807907104492,
+      "box": [
+        116,
+        91,
+        341,
+        122
+      ]
+    },
+    {
+      "text": "AZ, USA | +1-885-534-1133 | joseph.hail@example.com",
+      "score": 0.9898431301116943,
+      "box": [
+        118,
+        152,
+        637,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9991509914398193,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, SunnySteps School, 2020.112023.01",
+      "score": 0.991161584854126,
+      "box": [
+        116,
+        287,
+        819,
+        317
+      ]
+    },
+    {
+      "text": "- Developed system-wide assessment tools",
+      "score": 0.9997032284736633,
+      "box": [
+        125,
+        314,
+        532,
+        342
+      ]
+    },
+    {
+      "text": "- Designed performance monitoring systems",
+      "score": 0.9985993504524231,
+      "box": [
+        127,
+        340,
+        539,
+        368
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Harmony Learning Center, 2016.08—2018.11",
+      "score": 0.9830318093299866,
+      "box": [
+        116,
+        381,
+        879,
+        411
+      ]
+    },
+    {
+      "text": "- Implemented lesson pacing guidelines",
+      "score": 0.9942765235900879,
+      "box": [
+        127,
+        409,
+        496,
+        433
+      ]
+    },
+    {
+      "text": "- Updated student performance logs",
+      "score": 0.9876722693443298,
+      "box": [
+        128,
+        431,
+        461,
+        460
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999552965164185,
+      "box": [
+        116,
+        494,
+        268,
+        521
+      ]
+    },
+    {
+      "text": "Bachelor's, Educational Assistance, Stonebrook University, 2014",
+      "score": 0.9889059662818909,
+      "box": [
+        117,
+        541,
+        715,
+        565
+      ]
+    },
+    {
+      "text": "•Studied fundamentals of learning assessment",
+      "score": 0.9837934374809265,
+      "box": [
+        130,
+        566,
+        573,
+        591
+      ]
+    },
+    {
+      "text": "• Completed coursework in academic monitoring strategies",
+      "score": 0.9850800633430481,
+      "box": [
+        132,
+        590,
+        677,
+        618
+      ]
+    }
+  ],
+  "seconds": 2.6417252998799086,
+  "id": "01572",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

@@ -1,0 +1,132 @@
+{
+  "lines": [
+    {
+      "text": "YVES HOGAN",
+      "score": 0.9843557476997375,
+      "box": [
+        118,
+        91,
+        342,
+        122
+      ]
+    },
+    {
+      "text": "GA, USA | +1-372-210-5050 | yves.hogan@example.com",
+      "score": 0.9974700808525085,
+      "box": [
+        116,
+        150,
+        648,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9991938471794128,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, Highmark Builders, 2021.022023.01",
+      "score": 0.9936088919639587,
+      "box": [
+        117,
+        289,
+        677,
+        316
+      ]
+    },
+    {
+      "text": "- Supervised large structural repairs",
+      "score": 0.9876257181167603,
+      "box": [
+        126,
+        314,
+        460,
+        342
+      ]
+    },
+    {
+      "text": "- Coordinated large-scale material logistics",
+      "score": 0.9762895703315735,
+      "box": [
+        128,
+        339,
+        524,
+        368
+      ]
+    },
+    {
+      "text": "Construction Laborers, AnchorPoint Builders, 2016.042018.04",
+      "score": 0.9842053055763245,
+      "box": [
+        116,
+        380,
+        704,
+        408
+      ]
+    },
+    {
+      "text": "- Assisted with concrete pouring",
+      "score": 0.9985995292663574,
+      "box": [
+        125,
+        405,
+        425,
+        434
+      ]
+    },
+    {
+      "text": "- Stacked and organized construction supplies",
+      "score": 0.9960769414901733,
+      "box": [
+        129,
+        434,
+        556,
+        457
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999310374259949,
+      "box": [
+        117,
+        494,
+        267,
+        521
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Building Construction, Golden Hills High School, 2006",
+      "score": 0.9848723411560059,
+      "box": [
+        117,
+        540,
+        874,
+        567
+      ]
+    },
+    {
+      "text": "•Studied principles of structural bracing",
+      "score": 0.9952113628387451,
+      "box": [
+        132,
+        565,
+        502,
+        594
+      ]
+    }
+  ],
+  "seconds": 2.334764600265771,
+  "id": "14959",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

@@ -1,0 +1,202 @@
+{
+  "lines": [
+    {
+      "text": "EDWIN CLEMENTS",
+      "score": 0.9959248304367065,
+      "box": [
+        117,
+        89,
+        422,
+        122
+      ]
+    },
+    {
+      "text": "AL, USA | +1-924-457-8223 | edwin.clements@example.com",
+      "score": 0.9840843677520752,
+      "box": [
+        118,
+        152,
+        680,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9988461136817932,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Softgrid Systems, 2019.09—2023.01",
+      "score": 0.9832733869552612,
+      "box": [
+        116,
+        290,
+        653,
+        317
+      ]
+    },
+    {
+      "text": "- Reviewed architectural proposals",
+      "score": 0.9785754084587097,
+      "box": [
+        125,
+        314,
+        450,
+        342
+      ]
+    },
+    {
+      "text": "- Designed CI/CD frameworks",
+      "score": 0.9954626560211182,
+      "box": [
+        127,
+        340,
+        407,
+        368
+      ]
+    },
+    {
+      "text": "Software Developers, Flowframe Labs, 2016.052019.09",
+      "score": 0.9870595932006836,
+      "box": [
+        116,
+        381,
+        646,
+        409
+      ]
+    },
+    {
+      "text": "- Led cross-team technical alignment",
+      "score": 0.9994345903396606,
+      "box": [
+        126,
+        409,
+        471,
+        433
+      ]
+    },
+    {
+      "text": "- Defined coding standards",
+      "score": 0.9742299318313599,
+      "box": [
+        126,
+        431,
+        380,
+        460
+      ]
+    },
+    {
+      "text": "Software Developers, Datastream Solutions, 2013.01—2016.05",
+      "score": 0.9876174926757812,
+      "box": [
+        116,
+        471,
+        697,
+        499
+      ]
+    },
+    {
+      "text": "- Designed application modules",
+      "score": 0.9970685839653015,
+      "box": [
+        127,
+        497,
+        423,
+        525
+      ]
+    },
+    {
+      "text": "- Improved build processes",
+      "score": 0.9989827871322632,
+      "box": [
+        128,
+        521,
+        382,
+        550
+      ]
+    },
+    {
+      "text": "Software Developers, Clearbyte Software, 2009.08—2013.01",
+      "score": 0.9860304594039917,
+      "box": [
+        115,
+        563,
+        672,
+        592
+      ]
+    },
+    {
+      "text": "- Implemented basic features in existing codebases",
+      "score": 0.9766684174537659,
+      "box": [
+        126,
+        589,
+        606,
+        618
+      ]
+    },
+    {
+      "text": "- Wrote unit tests for application modules",
+      "score": 0.9809112548828125,
+      "box": [
+        126,
+        613,
+        508,
+        643
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999163150787354,
+      "box": [
+        117,
+        681,
+        266,
+        705
+      ]
+    },
+    {
+      "text": "Bachelor's, Brightfield University, 2008",
+      "score": 0.9900916218757629,
+      "box": [
+        117,
+        726,
+        474,
+        749
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of software maintenance",
+      "score": 0.9780633449554443,
+      "box": [
+        130,
+        749,
+        583,
+        775
+      ]
+    },
+    {
+      "text": "• Studied principles of garbage collection",
+      "score": 0.9957364201545715,
+      "box": [
+        133,
+        775,
+        512,
+        799
+      ]
+    }
+  ],
+  "seconds": 2.8820616002194583,
+  "id": "00746",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

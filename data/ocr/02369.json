@@ -1,0 +1,202 @@
+{
+  "lines": [
+    {
+      "text": "NATALIE SPEARS",
+      "score": 0.9997881650924683,
+      "box": [
+        117,
+        91,
+        409,
+        122
+      ]
+    },
+    {
+      "text": "AR, USA | +1-770-498-6302 | natalie.spears@example.com",
+      "score": 0.9850505590438843,
+      "box": [
+        116,
+        150,
+        670,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9990050792694092,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, TrueWell Nursing, 2020.052023.01",
+      "score": 0.9929089546203613,
+      "box": [
+        115,
+        287,
+        637,
+        320
+      ]
+    },
+    {
+      "text": "- Managed clinical resource planning",
+      "score": 0.9996216297149658,
+      "box": [
+        125,
+        314,
+        469,
+        343
+      ]
+    },
+    {
+      "text": "- Led nursing process audits",
+      "score": 0.9939092397689819,
+      "box": [
+        127,
+        340,
+        392,
+        370
+      ]
+    },
+    {
+      "text": "Registered Nurses, SafeHarbor Nursing, 2017.09—2020.05",
+      "score": 0.9924308657646179,
+      "box": [
+        116,
+        381,
+        660,
+        409
+      ]
+    },
+    {
+      "text": "- Established care delivery standards",
+      "score": 0.972194254398346,
+      "box": [
+        125,
+        406,
+        471,
+        434
+      ]
+    },
+    {
+      "text": "- Designed clinical care protocols",
+      "score": 0.9984322786331177,
+      "box": [
+        127,
+        431,
+        436,
+        459
+      ]
+    },
+    {
+      "text": "Registered Nurses, GentleHands Nursing, 2014.122017.09",
+      "score": 0.9898250699043274,
+      "box": [
+        118,
+        474,
+        675,
+        498
+      ]
+    },
+    {
+      "text": "- Provided perioperative nursing care",
+      "score": 0.9864049553871155,
+      "box": [
+        125,
+        497,
+        472,
+        526
+      ]
+    },
+    {
+      "text": "- Conducted post-operative assessments",
+      "score": 0.9921219348907471,
+      "box": [
+        127,
+        522,
+        509,
+        550
+      ]
+    },
+    {
+      "text": "Registered Nurses, Caring Nest Nursing, 2012.032014.12",
+      "score": 0.9980490803718567,
+      "box": [
+        118,
+        566,
+        664,
+        590
+      ]
+    },
+    {
+      "text": "- Assisted with feeding patients",
+      "score": 0.9981130361557007,
+      "box": [
+        126,
+        590,
+        418,
+        617
+      ]
+    },
+    {
+      "text": "- Recorded shift handoff notes",
+      "score": 0.9864271283149719,
+      "box": [
+        125,
+        613,
+        410,
+        643
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9998919367790222,
+      "box": [
+        117,
+        681,
+        266,
+        705
+      ]
+    },
+    {
+      "text": "Bachelor's, Health Informatics, Plainview University, 2013",
+      "score": 0.9861598610877991,
+      "box": [
+        115,
+        723,
+        649,
+        751
+      ]
+    },
+    {
+      "text": "• Completed coursework in basic nursing principles",
+      "score": 0.9964088201522827,
+      "box": [
+        132,
+        751,
+        607,
+        775
+      ]
+    },
+    {
+      "text": "Studied fundamentals of pediatric nursing",
+      "score": 0.9978866577148438,
+      "box": [
+        132,
+        772,
+        533,
+        802
+      ]
+    }
+  ],
+  "seconds": 3.098421299830079,
+  "id": "02369",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

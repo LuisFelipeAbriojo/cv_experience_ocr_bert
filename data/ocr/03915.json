@@ -1,0 +1,112 @@
+{
+  "lines": [
+    {
+      "text": "ZACHARY NGUYEN",
+      "score": 0.9996646046638489,
+      "box": [
+        117,
+        91,
+        433,
+        122
+      ]
+    },
+    {
+      "text": "CA, USA | +1-377-420-5158 | zachary.nguyen@example.com",
+      "score": 0.9845300316810608,
+      "box": [
+        116,
+        149,
+        688,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9997665286064148,
+      "box": [
+        117,
+        243,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Software Developers, Brightscale Labs, 2020.112023.01",
+      "score": 0.9998179078102112,
+      "box": [
+        116,
+        288,
+        649,
+        315
+      ]
+    },
+    {
+      "text": "- Implemented REST endpoints",
+      "score": 0.9823761582374573,
+      "box": [
+        126,
+        312,
+        422,
+        342
+      ]
+    },
+    {
+      "text": "- Implemented logging features",
+      "score": 0.9984026551246643,
+      "box": [
+        127,
+        338,
+        418,
+        369
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999224543571472,
+      "box": [
+        116,
+        404,
+        268,
+        431
+      ]
+    },
+    {
+      "text": "Bachelor's, Sunrise University, 2018",
+      "score": 0.9820263385772705,
+      "box": [
+        115,
+        446,
+        453,
+        475
+      ]
+    },
+    {
+      "text": "•Studied principles of computational thinking",
+      "score": 0.985245943069458,
+      "box": [
+        128,
+        472,
+        550,
+        501
+      ]
+    },
+    {
+      "text": "•Studied principles of software usability",
+      "score": 0.9822553992271423,
+      "box": [
+        131,
+        497,
+        502,
+        527
+      ]
+    }
+  ],
+  "seconds": 1.7921694000251591,
+  "id": "03915",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

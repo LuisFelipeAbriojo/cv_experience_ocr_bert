@@ -1,0 +1,202 @@
+{
+  "lines": [
+    {
+      "text": "STEVEN STANLEY",
+      "score": 0.9996229410171509,
+      "box": [
+        116,
+        89,
+        417,
+        122
+      ]
+    },
+    {
+      "text": "GA, USA | +1-495-729-4341 | steven.stanley@example.com",
+      "score": 0.9914001226425171,
+      "box": [
+        116,
+        150,
+        675,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9964284896850586,
+      "box": [
+        117,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, PrimeBuild Group, 2019.04—2023.01",
+      "score": 0.9777640700340271,
+      "box": [
+        116,
+        288,
+        672,
+        316
+      ]
+    },
+    {
+      "text": "- Developed construction workflows",
+      "score": 0.9884318113327026,
+      "box": [
+        126,
+        315,
+        457,
+        341
+      ]
+    },
+    {
+      "text": "- Reviewed and approved project plans",
+      "score": 0.9955118298530579,
+      "box": [
+        127,
+        339,
+        491,
+        368
+      ]
+    },
+    {
+      "text": "Construction Laborers, TrueForm Construction, 2015.072019.04",
+      "score": 0.9927564263343811,
+      "box": [
+        118,
+        383,
+        723,
+        407
+      ]
+    },
+    {
+      "text": "- Managed construction schedules",
+      "score": 0.9958842992782593,
+      "box": [
+        125,
+        407,
+        447,
+        433
+      ]
+    },
+    {
+      "text": "- Managed workforce allocation",
+      "score": 0.9839293956756592,
+      "box": [
+        127,
+        431,
+        420,
+        457
+      ]
+    },
+    {
+      "text": "Construction Laborers, FirmBuild Services, 2011.10—2015.07",
+      "score": 0.9836052656173706,
+      "box": [
+        117,
+        472,
+        682,
+        497
+      ]
+    },
+    {
+      "text": "- Constructed temporary structures",
+      "score": 0.9873456358909607,
+      "box": [
+        125,
+        497,
+        453,
+        525
+      ]
+    },
+    {
+      "text": "- Documented daily work progress",
+      "score": 0.9950577020645142,
+      "box": [
+        127,
+        522,
+        446,
+        549
+      ]
+    },
+    {
+      "text": "Construction Laborers, Unified Build Services, 2007.122011.10",
+      "score": 0.977638840675354,
+      "box": [
+        118,
+        566,
+        712,
+        590
+      ]
+    },
+    {
+      "text": "- Loaded and unloaded construction materials",
+      "score": 0.9934580326080322,
+      "box": [
+        128,
+        591,
+        553,
+        614
+      ]
+    },
+    {
+      "text": "- Maintained tool storage areas",
+      "score": 0.9977942705154419,
+      "box": [
+        127,
+        614,
+        418,
+        643
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999316334724426,
+      "box": [
+        117,
+        681,
+        266,
+        705
+      ]
+    },
+    {
+      "text": "Bachelor's, Welding Technology, Lakeview University, 2011",
+      "score": 0.9886125922203064,
+      "box": [
+        117,
+        726,
+        667,
+        749
+      ]
+    },
+    {
+      "text": "Completed coursework in safety signage standards",
+      "score": 0.9904457926750183,
+      "box": [
+        130,
+        748,
+        623,
+        776
+      ]
+    },
+    {
+      "text": "•Studied fundamentals of foundation systems",
+      "score": 0.9912185072898865,
+      "box": [
+        132,
+        773,
+        559,
+        800
+      ]
+    }
+  ],
+  "seconds": 2.9175534998066723,
+  "id": "15911",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

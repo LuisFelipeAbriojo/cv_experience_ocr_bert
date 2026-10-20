@@ -1,0 +1,142 @@
+{
+  "lines": [
+    {
+      "text": "BRITTANY YANG",
+      "score": 0.9996994733810425,
+      "box": [
+        118,
+        91,
+        392,
+        122
+      ]
+    },
+    {
+      "text": "WA, USA | +1-917-206-6062 | brittany.yang@example.com",
+      "score": 0.9789130091667175,
+      "box": [
+        116,
+        150,
+        665,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9990885853767395,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Harmony Horizons Academy, 2020.02—2023.",
+      "score": 0.9918036460876465,
+      "box": [
+        115,
+        287,
+        880,
+        318
+      ]
+    },
+    {
+      "text": "- Established instructional review cycles",
+      "score": 0.9976667165756226,
+      "box": [
+        126,
+        315,
+        497,
+        341
+      ]
+    },
+    {
+      "text": "- Implemented learning system upgrades",
+      "score": 0.991478681564331,
+      "box": [
+        126,
+        339,
+        508,
+        369
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Future Minds Academy, 2015.08—2018.07",
+      "score": 0.9804229736328125,
+      "box": [
+        117,
+        382,
+        853,
+        409
+      ]
+    },
+    {
+      "text": "- Prepared daily lesson plans aligned with curriculum guidelines",
+      "score": 0.9876983165740967,
+      "box": [
+        124,
+        407,
+        717,
+        435
+      ]
+    },
+    {
+      "text": "- Reviewed curriculum content",
+      "score": 0.9937910437583923,
+      "box": [
+        126,
+        430,
+        412,
+        458
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999302625656128,
+      "box": [
+        117,
+        494,
+        268,
+        521
+      ]
+    },
+    {
+      "text": "Bachelor's, General Academic Studies, Stonebrook University, 2005",
+      "score": 0.9872530698776245,
+      "box": [
+        115,
+        539,
+        746,
+        567
+      ]
+    },
+    {
+      "text": "• Completed coursework in foundational pedagogy practices",
+      "score": 0.9933783411979675,
+      "box": [
+        132,
+        566,
+        689,
+        592
+      ]
+    },
+    {
+      "text": "Completed coursework in creative teaching strategies",
+      "score": 0.9939667582511902,
+      "box": [
+        131,
+        589,
+        644,
+        619
+      ]
+    }
+  ],
+  "seconds": 2.777655200101435,
+  "id": "58389",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

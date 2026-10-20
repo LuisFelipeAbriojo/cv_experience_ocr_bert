@@ -1,0 +1,172 @@
+{
+  "lines": [
+    {
+      "text": "SARAH RYAN",
+      "score": 0.9998761415481567,
+      "box": [
+        116,
+        89,
+        341,
+        122
+      ]
+    },
+    {
+      "text": "AR, USA | +1-945-803-5920 | sarah.ryan@example.com",
+      "score": 0.9823969006538391,
+      "box": [
+        117,
+        151,
+        639,
+        177
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9991481304168701,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Learning Bridge School, 2020.01-2023.01",
+      "score": 0.986273467540741,
+      "box": [
+        115,
+        287,
+        854,
+        318
+      ]
+    },
+    {
+      "text": "- Designed performance monitoring systems",
+      "score": 0.9881059527397156,
+      "box": [
+        125,
+        314,
+        540,
+        343
+      ]
+    },
+    {
+      "text": "- Led curriculum alignment initiatives",
+      "score": 0.9801910519599915,
+      "box": [
+        127,
+        340,
+        466,
+        367
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Growing Minds Academy, 2016.072019.07",
+      "score": 0.9922640323638916,
+      "box": [
+        117,
+        382,
+        870,
+        409
+      ]
+    },
+    {
+      "text": "- Implemented classroom routines",
+      "score": 0.9870297908782959,
+      "box": [
+        126,
+        408,
+        444,
+        433
+      ]
+    },
+    {
+      "text": "- Tracked long-term student progress",
+      "score": 0.990768313407898,
+      "box": [
+        126,
+        432,
+        472,
+        458
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Morning Star School, 2012.112015.11",
+      "score": 0.9902389645576477,
+      "box": [
+        118,
+        473,
+        825,
+        497
+      ]
+    },
+    {
+      "text": "- Maintained lesson documentation",
+      "score": 0.9959118962287903,
+      "box": [
+        126,
+        497,
+        453,
+        523
+      ]
+    },
+    {
+      "text": "- Implemented basic literacy lessons",
+      "score": 0.9792554378509521,
+      "box": [
+        128,
+        521,
+        466,
+        549
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999944806098938,
+      "box": [
+        118,
+        588,
+        266,
+        612
+      ]
+    },
+    {
+      "text": "Bachelor's, Foundations of Learning, Stonehaven University, 2002",
+      "score": 0.9959228038787842,
+      "box": [
+        116,
+        630,
+        730,
+        659
+      ]
+    },
+    {
+      "text": "Completed coursework in student-centered learning",
+      "score": 0.9910566210746765,
+      "box": [
+        131,
+        656,
+        626,
+        684
+      ]
+    },
+    {
+      "text": "•Completed coursework in student motivation concepts",
+      "score": 0.9902482628822327,
+      "box": [
+        132,
+        680,
+        648,
+        710
+      ]
+    }
+  ],
+  "seconds": 2.8146941997110844,
+  "id": "02198",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

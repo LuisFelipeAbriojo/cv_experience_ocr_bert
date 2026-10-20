@@ -1,0 +1,132 @@
+{
+  "lines": [
+    {
+      "text": "NICHOLAS CHASE",
+      "score": 0.99430912733078,
+      "box": [
+        117,
+        91,
+        418,
+        121
+      ]
+    },
+    {
+      "text": "FL, USA | +1-557-335-3605 | nicholas.chase@example.com",
+      "score": 0.9939965605735779,
+      "box": [
+        116,
+        149,
+        675,
+        177
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9997477531433105,
+      "box": [
+        117,
+        243,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Construction Laborers, AnchorBuild Co., 2020.05—2023.01",
+      "score": 0.9837973713874817,
+      "box": [
+        118,
+        290,
+        657,
+        314
+      ]
+    },
+    {
+      "text": "- Managed large-scale installations",
+      "score": 0.9834631681442261,
+      "box": [
+        126,
+        313,
+        452,
+        342
+      ]
+    },
+    {
+      "text": "- Led structural installation projects",
+      "score": 0.9987062215805054,
+      "box": [
+        128,
+        339,
+        452,
+        366
+      ]
+    },
+    {
+      "text": "Construction Laborers, StrongPoint Builders, 2017.09—2020.05",
+      "score": 0.9866014719009399,
+      "box": [
+        116,
+        380,
+        699,
+        408
+      ]
+    },
+    {
+      "text": "- Installed temporary site barriers",
+      "score": 0.9880825877189636,
+      "box": [
+        126,
+        407,
+        436,
+        433
+      ]
+    },
+    {
+      "text": "- Assisted with basic electrical conduit placement",
+      "score": 0.9895641803741455,
+      "box": [
+        129,
+        433,
+        582,
+        456
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999040961265564,
+      "box": [
+        117,
+        494,
+        267,
+        521
+      ]
+    },
+    {
+      "text": "High school graduate/GED, General Construction, Springdale High School, 2017",
+      "score": 0.999228298664093,
+      "box": [
+        118,
+        541,
+        862,
+        565
+      ]
+    },
+    {
+      "text": "•Studied principles of structural reinforcement",
+      "score": 0.9909741878509521,
+      "box": [
+        133,
+        566,
+        562,
+        590
+      ]
+    }
+  ],
+  "seconds": 2.4505880000069737,
+  "id": "13253",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

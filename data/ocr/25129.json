@@ -1,0 +1,182 @@
+{
+  "lines": [
+    {
+      "text": "SABRINA LAM",
+      "score": 0.9997425079345703,
+      "box": [
+        117,
+        91,
+        352,
+        122
+      ]
+    },
+    {
+      "text": "MA, USA | +1-582-884-7502 | sabrina.lam@example.com",
+      "score": 0.971752405166626,
+      "box": [
+        117,
+        152,
+        650,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9990899562835693,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Bright River Academy, 2021.01-2023.01",
+      "score": 0.9895648956298828,
+      "box": [
+        115,
+        287,
+        840,
+        318
+      ]
+    },
+    {
+      "text": "- Designed curriculum frameworks for grade-level instruction",
+      "score": 0.9901173710823059,
+      "box": [
+        125,
+        314,
+        686,
+        342
+      ]
+    },
+    {
+      "text": "- Led instructional leadership initiatives",
+      "score": 0.9925930500030518,
+      "box": [
+        126,
+        338,
+        489,
+        368
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Meadowbrook Academy, 2019.012021.01",
+      "score": 0.999163031578064,
+      "box": [
+        117,
+        382,
+        860,
+        409
+      ]
+    },
+    {
+      "text": "- Integrated educational technology tools",
+      "score": 0.9968187212944031,
+      "box": [
+        126,
+        409,
+        504,
+        433
+      ]
+    },
+    {
+      "text": "- Maintained academic records",
+      "score": 0.9993055462837219,
+      "box": [
+        126,
+        431,
+        414,
+        457
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Learning Steps Academy, 2017.012019.01",
+      "score": 0.997836709022522,
+      "box": [
+        118,
+        472,
+        870,
+        499
+      ]
+    },
+    {
+      "text": "- Recorded student feedback",
+      "score": 0.9872540831565857,
+      "box": [
+        126,
+        497,
+        399,
+        522
+      ]
+    },
+    {
+      "text": "- Delivered structured lectures",
+      "score": 0.983276903629303,
+      "box": [
+        127,
+        521,
+        409,
+        548
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999940037727356,
+      "box": [
+        118,
+        588,
+        266,
+        612
+      ]
+    },
+    {
+      "text": "Master's, Instructional Studies, Brookwood University, 2015",
+      "score": 0.9874159097671509,
+      "box": [
+        117,
+        632,
+        666,
+        656
+      ]
+    },
+    {
+      "text": "Bachelor's, Youth Studies, Aspen Grove University, 2013",
+      "score": 0.9938128590583801,
+      "box": [
+        116,
+        657,
+        645,
+        684
+      ]
+    },
+    {
+      "text": "• Completed coursework in basic tutoring methods",
+      "score": 0.989886462688446,
+      "box": [
+        133,
+        684,
+        600,
+        708
+      ]
+    },
+    {
+      "text": "•Studied principles of differentiated instruction",
+      "score": 0.9910341501235962,
+      "box": [
+        132,
+        706,
+        565,
+        734
+      ]
+    }
+  ],
+  "seconds": 2.8611665996722877,
+  "id": "25129",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

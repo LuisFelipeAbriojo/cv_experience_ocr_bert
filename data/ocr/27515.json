@@ -1,0 +1,142 @@
+{
+  "lines": [
+    {
+      "text": "RASHARD SIMPSON",
+      "score": 0.9919924139976501,
+      "box": [
+        118,
+        91,
+        449,
+        121
+      ]
+    },
+    {
+      "text": "MI, USA | +1-437-901-3826 | rashard.simpson@example.com",
+      "score": 0.9873935580253601,
+      "box": [
+        115,
+        149,
+        689,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9991254806518555,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Morning Star School, 2020.05—2023.01",
+      "score": 0.9909237027168274,
+      "box": [
+        117,
+        289,
+        825,
+        316
+      ]
+    },
+    {
+      "text": "- Established academic quality controls",
+      "score": 0.9888821244239807,
+      "box": [
+        125,
+        314,
+        490,
+        342
+      ]
+    },
+    {
+      "text": "- Designed learning analytics frameworks",
+      "score": 0.985397458076477,
+      "box": [
+        126,
+        339,
+        511,
+        367
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Learning Star Academy, 2017.08—2020.05",
+      "score": 0.9936329126358032,
+      "box": [
+        115,
+        379,
+        857,
+        410
+      ]
+    },
+    {
+      "text": "- Reviewed homework assignments",
+      "score": 0.9889091849327087,
+      "box": [
+        125,
+        407,
+        458,
+        433
+      ]
+    },
+    {
+      "text": "- Recorded student progress data",
+      "score": 0.9878368377685547,
+      "box": [
+        126,
+        430,
+        441,
+        458
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999154210090637,
+      "box": [
+        117,
+        494,
+        267,
+        521
+      ]
+    },
+    {
+      "text": "Bachelor's, Education Services, Brighton University, 2017",
+      "score": 0.9893437027931213,
+      "box": [
+        115,
+        539,
+        649,
+        567
+      ]
+    },
+    {
+      "text": "• Completed coursework in basic teaching ethics",
+      "score": 0.9832382798194885,
+      "box": [
+        132,
+        566,
+        584,
+        591
+      ]
+    },
+    {
+      "text": "•Completed coursework in academic content planning",
+      "score": 0.9821916222572327,
+      "box": [
+        131,
+        589,
+        637,
+        619
+      ]
+    }
+  ],
+  "seconds": 2.5495591000653803,
+  "id": "27515",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

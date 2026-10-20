@@ -1,0 +1,112 @@
+{
+  "lines": [
+    {
+      "text": "ROBIN LINDSEY",
+      "score": 0.9941607713699341,
+      "box": [
+        117,
+        91,
+        379,
+        122
+      ]
+    },
+    {
+      "text": "MI, USA | +1-690-976-6543 | robin.lindsey@example.com",
+      "score": 0.9902045130729675,
+      "box": [
+        115,
+        149,
+        652,
+        177
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9994722008705139,
+      "box": [
+        116,
+        243,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Registered Nurses, Caring Path Nursing, 2021.092021.11",
+      "score": 0.9878009557723999,
+      "box": [
+        116,
+        289,
+        663,
+        316
+      ]
+    },
+    {
+      "text": "- Assisted with emergency procedures",
+      "score": 0.986750066280365,
+      "box": [
+        124,
+        313,
+        484,
+        343
+      ]
+    },
+    {
+      "text": "- Provided post-procedure care",
+      "score": 0.9856688976287842,
+      "box": [
+        127,
+        340,
+        418,
+        366
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999324083328247,
+      "box": [
+        116,
+        404,
+        268,
+        431
+      ]
+    },
+    {
+      "text": "Bachelor's, Community Health, Prairie View University, 2006",
+      "score": 0.9803446531295776,
+      "box": [
+        116,
+        448,
+        676,
+        475
+      ]
+    },
+    {
+      "text": "Completed coursework in perioperative care",
+      "score": 0.9864617586135864,
+      "box": [
+        130,
+        472,
+        557,
+        501
+      ]
+    },
+    {
+      "text": "Studied principles of patient identification",
+      "score": 0.9935691952705383,
+      "box": [
+        132,
+        497,
+        528,
+        525
+      ]
+    }
+  ],
+  "seconds": 2.0700310999527574,
+  "id": "27332",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

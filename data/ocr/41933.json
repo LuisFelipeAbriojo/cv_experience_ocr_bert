@@ -1,0 +1,112 @@
+{
+  "lines": [
+    {
+      "text": "JAMES GOLDEN",
+      "score": 0.999653160572052,
+      "box": [
+        114,
+        87,
+        387,
+        123
+      ]
+    },
+    {
+      "text": "OH, USA | +1-790-914-3341 | james.golden@example.com",
+      "score": 0.9827176332473755,
+      "box": [
+        116,
+        149,
+        668,
+        177
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9997445940971375,
+      "box": [
+        117,
+        243,
+        317,
+        270
+      ]
+    },
+    {
+      "text": "Accountants Auditors, SolidBalance Advisors, 2018.08—2021.06",
+      "score": 0.9896095395088196,
+      "box": [
+        116,
+        288,
+        707,
+        313
+      ]
+    },
+    {
+      "text": "- Assisted with tax form preparation",
+      "score": 0.999225914478302,
+      "box": [
+        126,
+        316,
+        456,
+        340
+      ]
+    },
+    {
+      "text": "- Reconciled subsidiary ledgers",
+      "score": 0.9747616052627563,
+      "box": [
+        126,
+        339,
+        421,
+        368
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999268651008606,
+      "box": [
+        116,
+        404,
+        268,
+        431
+      ]
+    },
+    {
+      "text": "Bachelor's, Business Economics, Brookhaven University, 2014",
+      "score": 0.9875227212905884,
+      "box": [
+        116,
+        447,
+        698,
+        474
+      ]
+    },
+    {
+      "text": "Studied principles of business strategy",
+      "score": 0.9986053109169006,
+      "box": [
+        128,
+        472,
+        505,
+        501
+      ]
+    },
+    {
+      "text": "•Studied principles of managerial accounting",
+      "score": 0.9884052872657776,
+      "box": [
+        131,
+        497,
+        552,
+        526
+      ]
+    }
+  ],
+  "seconds": 2.135288399644196,
+  "id": "41933",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

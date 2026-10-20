@@ -1,0 +1,102 @@
+{
+  "lines": [
+    {
+      "text": "BRANDON SHAW",
+      "score": 0.972287118434906,
+      "box": [
+        117,
+        89,
+        401,
+        123
+      ]
+    },
+    {
+      "text": "OK, USA | +1-953-640-6802 | brandon.shaw@example.com",
+      "score": 0.9891335368156433,
+      "box": [
+        118,
+        150,
+        673,
+        177
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9993839859962463,
+      "box": [
+        116,
+        243,
+        317,
+        270
+      ]
+    },
+    {
+      "text": "Construction Laborers, PrimeStone Co., 2021.02—2021.09",
+      "score": 0.9833152890205383,
+      "box": [
+        116,
+        287,
+        656,
+        315
+      ]
+    },
+    {
+      "text": "- Installed basic formwork",
+      "score": 0.9879780411720276,
+      "box": [
+        127,
+        315,
+        368,
+        339
+      ]
+    },
+    {
+      "text": "- Installed temporary site barriers",
+      "score": 0.9898012280464172,
+      "box": [
+        128,
+        340,
+        435,
+        367
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999471306800842,
+      "box": [
+        116,
+        404,
+        268,
+        431
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Facilities Maintenance, Windridge High School, 2007",
+      "score": 0.9907838106155396,
+      "box": [
+        116,
+        446,
+        865,
+        475
+      ]
+    },
+    {
+      "text": "Completed coursework in surveying basics",
+      "score": 0.9891389608383179,
+      "box": [
+        132,
+        473,
+        544,
+        499
+      ]
+    }
+  ],
+  "seconds": 1.8788605001755059,
+  "id": "43549",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

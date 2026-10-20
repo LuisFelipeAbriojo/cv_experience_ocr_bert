@@ -1,0 +1,212 @@
+{
+  "lines": [
+    {
+      "text": "JOHNNA ZIMMERMAN",
+      "score": 0.9998664855957031,
+      "box": [
+        116,
+        92,
+        476,
+        122
+      ]
+    },
+    {
+      "text": "GA, USA | +1-642-385-7623 | johnna.zimmerman@example.com",
+      "score": 0.9897293448448181,
+      "box": [
+        116,
+        150,
+        720,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9680922627449036,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Integrity Count Co., 2019.11—2023.01",
+      "score": 0.9910204410552979,
+      "box": [
+        115,
+        289,
+        673,
+        317
+      ]
+    },
+    {
+      "text": "- Directed accounting system implementations",
+      "score": 0.9819899201393127,
+      "box": [
+        127,
+        317,
+        557,
+        341
+      ]
+    },
+    {
+      "text": "- Developed long-term financial strategies",
+      "score": 0.9938271641731262,
+      "box": [
+        127,
+        340,
+        515,
+        368
+      ]
+    },
+    {
+      "text": "Accountants Auditors, ClearBalance Financial, 2016.082019.11",
+      "score": 0.9990072846412659,
+      "box": [
+        118,
+        383,
+        714,
+        407
+      ]
+    },
+    {
+      "text": "- Designed financial documentation standards",
+      "score": 0.9835129380226135,
+      "box": [
+        126,
+        409,
+        551,
+        433
+      ]
+    },
+    {
+      "text": "- Developed long-term financial strategies",
+      "score": 0.9915112853050232,
+      "box": [
+        127,
+        431,
+        514,
+        460
+      ]
+    },
+    {
+      "text": "Accountants Auditors, EverCount Financial, 2013.05—2016.08",
+      "score": 0.9806213974952698,
+      "box": [
+        117,
+        474,
+        687,
+        497
+      ]
+    },
+    {
+      "text": "- Conducted account reconciliations",
+      "score": 0.9964981079101562,
+      "box": [
+        126,
+        498,
+        460,
+        524
+      ]
+    },
+    {
+      "text": "- Prepared regulatory reports",
+      "score": 0.9963091611862183,
+      "box": [
+        128,
+        521,
+        398,
+        552
+      ]
+    },
+    {
+      "text": "Accountants Auditors, TrueLedger Advisors, 2010.02—2013.05",
+      "score": 0.9816269874572754,
+      "box": [
+        117,
+        565,
+        693,
+        589
+      ]
+    },
+    {
+      "text": "- Assisted with compliance documentation",
+      "score": 0.9963392019271851,
+      "box": [
+        126,
+        591,
+        518,
+        616
+      ]
+    },
+    {
+      "text": "- Assisted with monthly close procedures",
+      "score": 0.9908441305160522,
+      "box": [
+        127,
+        614,
+        508,
+        643
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999446868896484,
+      "box": [
+        117,
+        681,
+        266,
+        705
+      ]
+    },
+    {
+      "text": "Master's, Operations Management, Silver Ridge University, 2011",
+      "score": 0.9969572424888611,
+      "box": [
+        115,
+        723,
+        716,
+        750
+      ]
+    },
+    {
+      "text": "Bachelor's, Quantitative Finance, Sunset Ridge University, 2009",
+      "score": 0.9953444600105286,
+      "box": [
+        116,
+        749,
+        710,
+        776
+      ]
+    },
+    {
+      "text": "• Studied principles of professional responsibility",
+      "score": 0.9804405570030212,
+      "box": [
+        131,
+        776,
+        580,
+        800
+      ]
+    },
+    {
+      "text": "Completed coursework in accounting theory",
+      "score": 0.9991393685340881,
+      "box": [
+        130,
+        797,
+        555,
+        830
+      ]
+    }
+  ],
+  "seconds": 3.068908699788153,
+  "id": "15644",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

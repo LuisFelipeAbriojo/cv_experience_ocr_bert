@@ -1,0 +1,102 @@
+{
+  "lines": [
+    {
+      "text": "AUSTIN GILES",
+      "score": 0.9994113445281982,
+      "box": [
+        117,
+        91,
+        350,
+        122
+      ]
+    },
+    {
+      "text": "MO, USA | +1-758-701-3887 | austin.giles@example.com",
+      "score": 0.9865242838859558,
+      "box": [
+        115,
+        149,
+        649,
+        177
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9996874332427979,
+      "box": [
+        117,
+        243,
+        317,
+        270
+      ]
+    },
+    {
+      "text": "Construction Laborers, Reliable Stone Co., 2020.04—2022.05",
+      "score": 0.9933456182479858,
+      "box": [
+        118,
+        289,
+        682,
+        313
+      ]
+    },
+    {
+      "text": "- Assisted with framing support",
+      "score": 0.9854277968406677,
+      "box": [
+        125,
+        314,
+        417,
+        340
+      ]
+    },
+    {
+      "text": "- Secured site fencing",
+      "score": 0.9985153079032898,
+      "box": [
+        125,
+        336,
+        333,
+        368
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999533891677856,
+      "box": [
+        116,
+        404,
+        268,
+        431
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Construction Inspection, Rolling Hills High School, 2017",
+      "score": 0.9982662796974182,
+      "box": [
+        116,
+        446,
+        892,
+        475
+      ]
+    },
+    {
+      "text": "• Completed coursework in basic structural demolition",
+      "score": 0.9726865291595459,
+      "box": [
+        133,
+        474,
+        631,
+        498
+      ]
+    }
+  ],
+  "seconds": 2.0338252000510693,
+  "id": "30098",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

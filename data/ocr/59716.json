@@ -1,0 +1,142 @@
+{
+  "lines": [
+    {
+      "text": "ERIK KELLY",
+      "score": 0.9996129870414734,
+      "box": [
+        117,
+        91,
+        316,
+        122
+      ]
+    },
+    {
+      "text": "WA, USA | +1-491-443-7199 | erik.kelly@example.com",
+      "score": 0.9823840260505676,
+      "box": [
+        116,
+        149,
+        627,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9997398853302002,
+      "box": [
+        117,
+        243,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Software Developers, Flowline Tech, 2020.072023.01",
+      "score": 0.9950230121612549,
+      "box": [
+        117,
+        290,
+        623,
+        314
+      ]
+    },
+    {
+      "text": "- Defined scalability roadmaps",
+      "score": 0.9812068939208984,
+      "box": [
+        125,
+        313,
+        411,
+        343
+      ]
+    },
+    {
+      "text": "- Developed system monitoring strategies",
+      "score": 0.9779661297798157,
+      "box": [
+        128,
+        339,
+        513,
+        368
+      ]
+    },
+    {
+      "text": "Software Developers, Flowstack Solutions, 2017.12—2020.07",
+      "score": 0.9910719394683838,
+      "box": [
+        115,
+        380,
+        681,
+        408
+      ]
+    },
+    {
+      "text": "- Updated frontend stylesheets",
+      "score": 0.9796783328056335,
+      "box": [
+        127,
+        408,
+        414,
+        432
+      ]
+    },
+    {
+      "text": "- Resolved merge conflicts",
+      "score": 0.993662416934967,
+      "box": [
+        128,
+        433,
+        375,
+        456
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999158382415771,
+      "box": [
+        116,
+        494,
+        266,
+        521
+      ]
+    },
+    {
+      "text": "Bachelor's, Skyview University, 2019",
+      "score": 0.9956254959106445,
+      "box": [
+        116,
+        540,
+        458,
+        566
+      ]
+    },
+    {
+      "text": "• Completed coursework in configuration management",
+      "score": 0.9837145209312439,
+      "box": [
+        131,
+        567,
+        636,
+        591
+      ]
+    },
+    {
+      "text": "•Studied fundamentals of programming in Java",
+      "score": 0.9710334539413452,
+      "box": [
+        131,
+        589,
+        576,
+        618
+      ]
+    }
+  ],
+  "seconds": 2.193515900056809,
+  "id": "59716",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

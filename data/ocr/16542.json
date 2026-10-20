@@ -1,0 +1,172 @@
+{
+  "lines": [
+    {
+      "text": "CRYSTAL SHERMAN",
+      "score": 0.9998746514320374,
+      "box": [
+        118,
+        92,
+        453,
+        122
+      ]
+    },
+    {
+      "text": "GA, USA | +1-652-507-7780 | crystal.sherman@example.com",
+      "score": 0.9938248991966248,
+      "box": [
+        116,
+        150,
+        689,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9991269111633301,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, NewSpring Health Services, 2020.08—2023.01",
+      "score": 0.9821445345878601,
+      "box": [
+        115,
+        287,
+        730,
+        318
+      ]
+    },
+    {
+      "text": "- Directed interdisciplinary workflow alignment",
+      "score": 0.990412175655365,
+      "box": [
+        125,
+        314,
+        555,
+        342
+      ]
+    },
+    {
+      "text": "- Led nursing workflow optimization",
+      "score": 0.9738222360610962,
+      "box": [
+        127,
+        340,
+        456,
+        369
+      ]
+    },
+    {
+      "text": "Registered Nurses, KindHands Care Center, 2018.022020.08",
+      "score": 0.9924108386039734,
+      "box": [
+        118,
+        383,
+        697,
+        407
+      ]
+    },
+    {
+      "text": "- Provided pediatric nursing care",
+      "score": 0.9883908629417419,
+      "box": [
+        124,
+        406,
+        431,
+        435
+      ]
+    },
+    {
+      "text": "- Supervised clinical documentation",
+      "score": 0.9989266395568848,
+      "box": [
+        129,
+        434,
+        457,
+        457
+      ]
+    },
+    {
+      "text": "Registered Nurses, Caring Touch Health, 2015.082018.02",
+      "score": 0.9845502376556396,
+      "box": [
+        118,
+        474,
+        668,
+        498
+      ]
+    },
+    {
+      "text": "- Prepared medical equipment for use",
+      "score": 0.971808135509491,
+      "box": [
+        126,
+        496,
+        479,
+        526
+      ]
+    },
+    {
+      "text": "- Collected patient health histories",
+      "score": 0.9885978698730469,
+      "box": [
+        128,
+        521,
+        445,
+        549
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999139308929443,
+      "box": [
+        117,
+        587,
+        267,
+        614
+      ]
+    },
+    {
+      "text": "Bachelor's, Medical Sciences, Clearwater University, 2019",
+      "score": 0.9954191446304321,
+      "box": [
+        118,
+        633,
+        656,
+        657
+      ]
+    },
+    {
+      "text": "•Studied principles of continuity of care",
+      "score": 0.9711275100708008,
+      "box": [
+        129,
+        658,
+        501,
+        685
+      ]
+    },
+    {
+      "text": "•Studied fundamentals of patient mobility",
+      "score": 0.9789956212043762,
+      "box": [
+        129,
+        681,
+        518,
+        709
+      ]
+    }
+  ],
+  "seconds": 2.641218200325966,
+  "id": "16542",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

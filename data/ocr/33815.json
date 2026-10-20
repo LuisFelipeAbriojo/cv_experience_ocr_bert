@@ -1,0 +1,202 @@
+{
+  "lines": [
+    {
+      "text": "DARRICK GOODWIN",
+      "score": 0.9987923502922058,
+      "box": [
+        117,
+        90,
+        449,
+        122
+      ]
+    },
+    {
+      "text": "NJ, USA | +1-227-361-4864 | darrick.goodwin@example.com",
+      "score": 0.9916322231292725,
+      "box": [
+        115,
+        150,
+        683,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9981793761253357,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, SteadyLedger Financial Group, 2018.12—2023.01",
+      "score": 0.9846222996711731,
+      "box": [
+        114,
+        287,
+        783,
+        318
+      ]
+    },
+    {
+      "text": "- Directed financial reporting processes",
+      "score": 0.9950510859489441,
+      "box": [
+        125,
+        314,
+        492,
+        344
+      ]
+    },
+    {
+      "text": "- Established cost management systems",
+      "score": 0.9853906631469727,
+      "box": [
+        126,
+        339,
+        505,
+        369
+      ]
+    },
+    {
+      "text": "Accountants Auditors, OpenPath Advisors, 2014.112018.12",
+      "score": 0.9994798898696899,
+      "box": [
+        118,
+        383,
+        681,
+        407
+      ]
+    },
+    {
+      "text": "- Directed revenue recognition policies",
+      "score": 0.9878216981887817,
+      "box": [
+        126,
+        408,
+        484,
+        433
+      ]
+    },
+    {
+      "text": "- Led audit planning governance",
+      "score": 0.9834545850753784,
+      "box": [
+        127,
+        431,
+        429,
+        462
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Reliable Balance Advisors, 2010.10—2014.11",
+      "score": 0.9818370938301086,
+      "box": [
+        117,
+        472,
+        741,
+        497
+      ]
+    },
+    {
+      "text": "- Prepared working capital analysis",
+      "score": 0.9867677688598633,
+      "box": [
+        125,
+        497,
+        454,
+        525
+      ]
+    },
+    {
+      "text": "- Reviewed budget performance",
+      "score": 0.9984614849090576,
+      "box": [
+        127,
+        521,
+        427,
+        551
+      ]
+    },
+    {
+      "text": "Accountants Auditors, CoreLedger Financial Group, 2004.05—2008.06",
+      "score": 0.993381679058075,
+      "box": [
+        118,
+        566,
+        763,
+        590
+      ]
+    },
+    {
+      "text": "- Processed accounts payable invoices",
+      "score": 0.9832985401153564,
+      "box": [
+        127,
+        592,
+        490,
+        616
+      ]
+    },
+    {
+      "text": "- Assisted with regulatory filings",
+      "score": 0.9835067987442017,
+      "box": [
+        127,
+        614,
+        423,
+        644
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999227523803711,
+      "box": [
+        117,
+        681,
+        266,
+        705
+      ]
+    },
+    {
+      "text": "Bachelor's, Accounting and Finance, Rolling Hills University, 2002",
+      "score": 0.9750922322273254,
+      "box": [
+        117,
+        726,
+        725,
+        749
+      ]
+    },
+    {
+      "text": "• Completed coursework in environmental accounting basics",
+      "score": 0.9901690483093262,
+      "box": [
+        132,
+        748,
+        693,
+        776
+      ]
+    },
+    {
+      "text": "Completed coursework in risk assessment",
+      "score": 0.9997535943984985,
+      "box": [
+        132,
+        772,
+        542,
+        800
+      ]
+    }
+  ],
+  "seconds": 3.0287903998978436,
+  "id": "33815",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

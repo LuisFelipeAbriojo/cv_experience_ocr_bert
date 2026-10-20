@@ -1,0 +1,202 @@
+{
+  "lines": [
+    {
+      "text": "AARON FRAZIER",
+      "score": 0.9996792674064636,
+      "box": [
+        117,
+        91,
+        395,
+        122
+      ]
+    },
+    {
+      "text": "MS, USA | +1-206-562-2076 |aaron.frazier@example.com",
+      "score": 0.9915260076522827,
+      "box": [
+        116,
+        150,
+        660,
+        177
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9946651458740234,
+      "box": [
+        117,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, HardTrack Builders, 2020.03—2023.01",
+      "score": 0.9895288348197937,
+      "box": [
+        117,
+        289,
+        685,
+        314
+      ]
+    },
+    {
+      "text": "- Supervised foundation installations",
+      "score": 0.9870630502700806,
+      "box": [
+        126,
+        315,
+        465,
+        341
+      ]
+    },
+    {
+      "text": "- Directed installation methodologies",
+      "score": 0.9826383590698242,
+      "box": [
+        126,
+        338,
+        465,
+        368
+      ]
+    },
+    {
+      "text": "Construction Laborers, Foundation Force, 2017.052020.03",
+      "score": 0.9955890774726868,
+      "box": [
+        118,
+        383,
+        672,
+        407
+      ]
+    },
+    {
+      "text": "- Led structural installation projects",
+      "score": 0.9933873414993286,
+      "box": [
+        126,
+        407,
+        452,
+        433
+      ]
+    },
+    {
+      "text": "- Developed construction workflows",
+      "score": 0.9960018396377563,
+      "box": [
+        129,
+        434,
+        457,
+        457
+      ]
+    },
+    {
+      "text": "Construction Laborers, FirmBase Builders, 2013.062016.04",
+      "score": 0.9918263554573059,
+      "box": [
+        118,
+        473,
+        679,
+        497
+      ]
+    },
+    {
+      "text": "- Performed structural repairs",
+      "score": 0.9923800230026245,
+      "box": [
+        127,
+        499,
+        402,
+        523
+      ]
+    },
+    {
+      "text": "- Aligned structural components",
+      "score": 0.9993438124656677,
+      "box": [
+        128,
+        521,
+        424,
+        550
+      ]
+    },
+    {
+      "text": "Construction Laborers, FirmFrame Builders, 2009.05—2012.03",
+      "score": 0.9862697124481201,
+      "box": [
+        118,
+        566,
+        691,
+        589
+      ]
+    },
+    {
+      "text": "- Maintained cleanliness of work areas",
+      "score": 0.983799397945404,
+      "box": [
+        126,
+        590,
+        485,
+        615
+      ]
+    },
+    {
+      "text": "- Installed basic formwork",
+      "score": 0.9983259439468384,
+      "box": [
+        128,
+        614,
+        368,
+        639
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9998889565467834,
+      "box": [
+        117,
+        681,
+        266,
+        705
+      ]
+    },
+    {
+      "text": "Some college (no degree), Construction Inspection, Cedarfield University, 2006",
+      "score": 0.9839274287223816,
+      "box": [
+        116,
+        724,
+        849,
+        750
+      ]
+    },
+    {
+      "text": "•Studied fundamentals of job site documentation",
+      "score": 0.9966706037521362,
+      "box": [
+        131,
+        749,
+        590,
+        774
+      ]
+    },
+    {
+      "text": "•Completed coursework in equipment maintenance basics",
+      "score": 0.9823671579360962,
+      "box": [
+        132,
+        772,
+        678,
+        800
+      ]
+    }
+  ],
+  "seconds": 3.109979399945587,
+  "id": "29890",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

@@ -1,0 +1,202 @@
+{
+  "lines": [
+    {
+      "text": "RASHELLE THORNTON",
+      "score": 0.999704122543335,
+      "box": [
+        117,
+        92,
+        497,
+        122
+      ]
+    },
+    {
+      "text": "AR, USA | +1-395-259-9126 | rashelle.thornton@example.com",
+      "score": 0.980481743812561,
+      "box": [
+        116,
+        150,
+        696,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9995512962341309,
+      "box": [
+        117,
+        244,
+        316,
+        271
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Kind Futures School, 2018.05—2023.01",
+      "score": 0.992581307888031,
+      "box": [
+        116,
+        288,
+        824,
+        317
+      ]
+    },
+    {
+      "text": "- Directed assessment development efforts",
+      "score": 0.999642550945282,
+      "box": [
+        125,
+        314,
+        527,
+        342
+      ]
+    },
+    {
+      "text": "- Designed performance monitoring systems",
+      "score": 0.9944137930870056,
+      "box": [
+        126,
+        340,
+        539,
+        369
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Learning Futures School, 2013.09—2018.05",
+      "score": 0.976309597492218,
+      "box": [
+        116,
+        381,
+        867,
+        411
+      ]
+    },
+    {
+      "text": "- Directed academic intervention strategies",
+      "score": 0.9945680499076843,
+      "box": [
+        126,
+        408,
+        524,
+        434
+      ]
+    },
+    {
+      "text": "- Developed learning progression models",
+      "score": 0.9789279103279114,
+      "box": [
+        126,
+        431,
+        510,
+        459
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, New Leaf Learning, 2009.01—2013.09",
+      "score": 0.989965558052063,
+      "box": [
+        118,
+        473,
+        813,
+        500
+      ]
+    },
+    {
+      "text": "- Evaluated student portfolios",
+      "score": 0.999661386013031,
+      "box": [
+        126,
+        498,
+        401,
+        524
+      ]
+    },
+    {
+      "text": "- Prepared differentiated worksheets",
+      "score": 0.9738621115684509,
+      "box": [
+        127,
+        521,
+        465,
+        550
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Bright Hills Academy, 2004.04—2009.01",
+      "score": 0.981291651725769,
+      "box": [
+        117,
+        565,
+        828,
+        592
+      ]
+    },
+    {
+      "text": "- Implemented basic literacy lessons",
+      "score": 0.995087206363678,
+      "box": [
+        127,
+        592,
+        466,
+        616
+      ]
+    },
+    {
+      "text": "- Maintained classroom attendance and grading records",
+      "score": 0.9809817671775818,
+      "box": [
+        125,
+        612,
+        646,
+        644
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999198913574219,
+      "box": [
+        117,
+        681,
+        266,
+        705
+      ]
+    },
+    {
+      "text": "Bachelor's, Educational Assistance, Riverwood University, 2010",
+      "score": 0.9859606027603149,
+      "box": [
+        117,
+        725,
+        706,
+        748
+      ]
+    },
+    {
+      "text": "•Completed coursework in academic skill development",
+      "score": 0.992864191532135,
+      "box": [
+        132,
+        748,
+        647,
+        776
+      ]
+    },
+    {
+      "text": "•Completed coursework in academic differentiation basics",
+      "score": 0.992080569267273,
+      "box": [
+        132,
+        772,
+        674,
+        801
+      ]
+    }
+  ],
+  "seconds": 3.6964443996548653,
+  "id": "02225",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

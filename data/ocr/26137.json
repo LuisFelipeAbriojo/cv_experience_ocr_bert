@@ -1,0 +1,192 @@
+{
+  "lines": [
+    {
+      "text": "HOLLY GREEN",
+      "score": 0.982706606388092,
+      "box": [
+        116,
+        91,
+        360,
+        121
+      ]
+    },
+    {
+      "text": "MA, USA | +1-281-737-6318 | holly.green@example.com",
+      "score": 0.9876297116279602,
+      "box": [
+        116,
+        152,
+        644,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9990448951721191,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Datastream Digital, 2020.12—2023.01",
+      "score": 0.9875157475471497,
+      "box": [
+        115,
+        288,
+        667,
+        316
+      ]
+    },
+    {
+      "text": "- Designed Cl/CD frameworks",
+      "score": 0.9624653458595276,
+      "box": [
+        127,
+        316,
+        407,
+        339
+      ]
+    },
+    {
+      "text": "- Built core libraries",
+      "score": 0.9723819494247437,
+      "box": [
+        127,
+        338,
+        309,
+        365
+      ]
+    },
+    {
+      "text": "Software Developers, Softbridge Digital, 2018.102020.12",
+      "score": 0.9958956837654114,
+      "box": [
+        116,
+        382,
+        656,
+        408
+      ]
+    },
+    {
+      "text": "- Built feature management systems",
+      "score": 0.9789637327194214,
+      "box": [
+        125,
+        407,
+        463,
+        434
+      ]
+    },
+    {
+      "text": "- Built containerized services",
+      "score": 0.9975032210350037,
+      "box": [
+        126,
+        430,
+        396,
+        458
+      ]
+    },
+    {
+      "text": "Software Developers, Stonefield Software, 2016.082018.10",
+      "score": 0.9994956254959106,
+      "box": [
+        118,
+        473,
+        677,
+        497
+      ]
+    },
+    {
+      "text": "- Wrote configuration parsers",
+      "score": 0.9938238859176636,
+      "box": [
+        125,
+        497,
+        401,
+        525
+      ]
+    },
+    {
+      "text": "- Handled basic deployment tasks",
+      "score": 0.9957805871963501,
+      "box": [
+        126,
+        521,
+        443,
+        549
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999096393585205,
+      "box": [
+        117,
+        586,
+        267,
+        613
+      ]
+    },
+    {
+      "text": "Doctorate, Highland University, 2017",
+      "score": 0.9904624223709106,
+      "box": [
+        116,
+        630,
+        458,
+        658
+      ]
+    },
+    {
+      "text": "Bachelor's, Stonefield University, 2012",
+      "score": 0.9739653468132019,
+      "box": [
+        117,
+        658,
+        474,
+        682
+      ]
+    },
+    {
+      "text": "• Completed coursework in frontend frameworks basics",
+      "score": 0.9892056584358215,
+      "box": [
+        132,
+        683,
+        644,
+        707
+      ]
+    },
+    {
+      "text": "•Completed coursework in RESTful services",
+      "score": 0.9894897937774658,
+      "box": [
+        132,
+        705,
+        551,
+        734
+      ]
+    },
+    {
+      "text": "Completed coursework in distributed databases",
+      "score": 0.9851624965667725,
+      "box": [
+        133,
+        729,
+        590,
+        758
+      ]
+    }
+  ],
+  "seconds": 2.883057000115514,
+  "id": "26137",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

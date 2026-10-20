@@ -1,0 +1,202 @@
+{
+  "lines": [
+    {
+      "text": "STEPHANIE BERG",
+      "score": 0.9955417513847351,
+      "box": [
+        117,
+        91,
+        414,
+        122
+      ]
+    },
+    {
+      "text": "WV, USA | +1-333-782-7672 | stephanie.berg@example.com",
+      "score": 0.9788281321525574,
+      "box": [
+        116,
+        150,
+        682,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9988461136817932,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, Caring Bridge Care, 2019.09—2023.01",
+      "score": 0.9877201318740845,
+      "box": [
+        117,
+        290,
+        653,
+        317
+      ]
+    },
+    {
+      "text": "- Developed nursing training programs",
+      "score": 0.9997861981391907,
+      "box": [
+        125,
+        314,
+        485,
+        344
+      ]
+    },
+    {
+      "text": "- Managed long-term care strategies",
+      "score": 0.9836663603782654,
+      "box": [
+        127,
+        338,
+        466,
+        371
+      ]
+    },
+    {
+      "text": "Registered Nurses, NewSpring Health Services, 2016.05—2019.09",
+      "score": 0.9876788854598999,
+      "box": [
+        116,
+        381,
+        730,
+        409
+      ]
+    },
+    {
+      "text": "- Directed interdisciplinary workflow alignment",
+      "score": 0.9948012828826904,
+      "box": [
+        125,
+        406,
+        555,
+        434
+      ]
+    },
+    {
+      "text": "- Led nursing process audits",
+      "score": 0.9769622683525085,
+      "box": [
+        127,
+        431,
+        392,
+        460
+      ]
+    },
+    {
+      "text": "Registered Nurses, SafeHands Care Center, 2013.01—2016.05",
+      "score": 0.9912533760070801,
+      "box": [
+        116,
+        471,
+        699,
+        499
+      ]
+    },
+    {
+      "text": "- Coordinated interdisciplinary care",
+      "score": 0.976470947265625,
+      "box": [
+        126,
+        496,
+        453,
+        525
+      ]
+    },
+    {
+      "text": "- Managed intravenous therapy",
+      "score": 0.977979838848114,
+      "box": [
+        127,
+        521,
+        418,
+        552
+      ]
+    },
+    {
+      "text": "Registered Nurses, OpenHands Care Services, 2007.05—2010.10",
+      "score": 0.9877554178237915,
+      "box": [
+        116,
+        563,
+        725,
+        591
+      ]
+    },
+    {
+      "text": "- Maintained infection control protocols",
+      "score": 0.9992910623550415,
+      "box": [
+        126,
+        590,
+        487,
+        615
+      ]
+    },
+    {
+      "text": "- Monitored patient alarms",
+      "score": 0.9791628122329712,
+      "box": [
+        125,
+        613,
+        374,
+        643
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999163150787354,
+      "box": [
+        117,
+        681,
+        266,
+        705
+      ]
+    },
+    {
+      "text": "Some college (no degree), Health and Human Services, Pinecrest University, 2001",
+      "score": 0.992175817489624,
+      "box": [
+        116,
+        724,
+        881,
+        750
+      ]
+    },
+    {
+      "text": "•Studied fundamentals of patient mobility",
+      "score": 0.9731882810592651,
+      "box": [
+        130,
+        749,
+        517,
+        774
+      ]
+    },
+    {
+      "text": "Studied principles of fall prevention",
+      "score": 0.9935904741287231,
+      "box": [
+        131,
+        772,
+        473,
+        800
+      ]
+    }
+  ],
+  "seconds": 5.914744699839503,
+  "id": "60035",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

@@ -1,0 +1,192 @@
+{
+  "lines": [
+    {
+      "text": "MICHAEL LEACH",
+      "score": 0.9997729659080505,
+      "box": [
+        118,
+        92,
+        394,
+        122
+      ]
+    },
+    {
+      "text": "FL, USA | +1-835-383-4838 | michael.leach@example.com",
+      "score": 0.9859102368354797,
+      "box": [
+        117,
+        150,
+        663,
+        177
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9935743808746338,
+      "box": [
+        117,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, Reliable Stone Co., 2020.04—2023.01",
+      "score": 0.9890282154083252,
+      "box": [
+        116,
+        288,
+        681,
+        316
+      ]
+    },
+    {
+      "text": "- Reviewed material specifications",
+      "score": 0.9982525110244751,
+      "box": [
+        126,
+        315,
+        446,
+        341
+      ]
+    },
+    {
+      "text": "- Reviewed workflow efficiency reports",
+      "score": 0.9996477365493774,
+      "box": [
+        127,
+        340,
+        484,
+        366
+      ]
+    },
+    {
+      "text": "Construction Laborers, Unified Track Builders, 2017.062020.04",
+      "score": 0.9888415932655334,
+      "box": [
+        118,
+        383,
+        712,
+        407
+      ]
+    },
+    {
+      "text": "- Developed construction standards",
+      "score": 0.9995713829994202,
+      "box": [
+        127,
+        409,
+        457,
+        432
+      ]
+    },
+    {
+      "text": "- Directed construction audits",
+      "score": 0.9997627139091492,
+      "box": [
+        127,
+        434,
+        400,
+        456
+      ]
+    },
+    {
+      "text": "Construction Laborers, Reliable Frame Co., 2014.08—2017.06",
+      "score": 0.9827969670295715,
+      "box": [
+        117,
+        472,
+        688,
+        497
+      ]
+    },
+    {
+      "text": "- Installed insulation systems",
+      "score": 0.9791308641433716,
+      "box": [
+        126,
+        497,
+        397,
+        526
+      ]
+    },
+    {
+      "text": "- Reviewed installation quality",
+      "score": 0.985087513923645,
+      "box": [
+        126,
+        521,
+        404,
+        550
+      ]
+    },
+    {
+      "text": "Construction Laborers, SureStep Builders, 2011.102014.08",
+      "score": 0.9887663125991821,
+      "box": [
+        118,
+        566,
+        676,
+        590
+      ]
+    },
+    {
+      "text": "- Installed basic formwork",
+      "score": 0.9995304346084595,
+      "box": [
+        126,
+        590,
+        369,
+        615
+      ]
+    },
+    {
+      "text": "- Handled power tools under supervision",
+      "score": 0.9901963472366333,
+      "box": [
+        126,
+        613,
+        503,
+        643
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9998728632926941,
+      "box": [
+        117,
+        681,
+        266,
+        705
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Construction Fundamentals, Willowfield High School, 2011",
+      "score": 0.9910295009613037,
+      "box": [
+        116,
+        724,
+        918,
+        750
+      ]
+    },
+    {
+      "text": "• Studied principles of structural support systems",
+      "score": 0.9678645133972168,
+      "box": [
+        131,
+        750,
+        586,
+        774
+      ]
+    }
+  ],
+  "seconds": 2.9148690002039075,
+  "id": "11886",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

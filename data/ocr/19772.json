@@ -1,0 +1,112 @@
+{
+  "lines": [
+    {
+      "text": "TIFFANY REED",
+      "score": 0.9699986577033997,
+      "box": [
+        117,
+        90,
+        361,
+        121
+      ]
+    },
+    {
+      "text": "IN, USA | +1-927-484-4435 | tiffany.reed@example.com",
+      "score": 0.9894701242446899,
+      "box": [
+        116,
+        149,
+        636,
+        177
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9994077086448669,
+      "box": [
+        116,
+        243,
+        317,
+        270
+      ]
+    },
+    {
+      "text": "Construction Laborers, TrueCraft Builders, 2018.06—2020.08",
+      "score": 0.9870002865791321,
+      "box": [
+        118,
+        289,
+        677,
+        313
+      ]
+    },
+    {
+      "text": "- Assisted with basic electrical conduit placement",
+      "score": 0.9885613918304443,
+      "box": [
+        125,
+        314,
+        583,
+        337
+      ]
+    },
+    {
+      "text": "- Performed basic demolition tasks",
+      "score": 0.989560604095459,
+      "box": [
+        127,
+        339,
+        449,
+        364
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999351501464844,
+      "box": [
+        115,
+        401,
+        270,
+        431
+      ]
+    },
+    {
+      "text": "Some college (no degree), Building Technology, Wilow Creek University, 2009",
+      "score": 0.9884198904037476,
+      "box": [
+        117,
+        447,
+        846,
+        474
+      ]
+    },
+    {
+      "text": "Studied fundamentals of site fencing",
+      "score": 0.9997454881668091,
+      "box": [
+        128,
+        471,
+        486,
+        501
+      ]
+    },
+    {
+      "text": "•Studied fundamentals of wall systems",
+      "score": 0.9773145914077759,
+      "box": [
+        131,
+        497,
+        497,
+        524
+      ]
+    }
+  ],
+  "seconds": 2.0979659003205597,
+  "id": "19772",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

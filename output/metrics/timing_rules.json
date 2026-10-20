@@ -1,0 +1,5 @@
+{
+  "train_seconds": 0.0,
+  "infer_seconds_per_cv": 1.3677000533789396e-05,
+  "test_cvs_without_dates": 0
+}

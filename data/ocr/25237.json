@@ -1,0 +1,112 @@
+{
+  "lines": [
+    {
+      "text": "SEAN PETERSEN",
+      "score": 0.9935857057571411,
+      "box": [
+        116,
+        89,
+        402,
+        122
+      ]
+    },
+    {
+      "text": "MA, USA | +1-984-313-1144 | sean.petersen@example.com",
+      "score": 0.9822788834571838,
+      "box": [
+        115,
+        149,
+        675,
+        177
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9997578263282776,
+      "box": [
+        117,
+        243,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Construction Laborers, NextStep Construction, 2020.02—2023.01",
+      "score": 0.9877752065658569,
+      "box": [
+        116,
+        287,
+        716,
+        316
+      ]
+    },
+    {
+      "text": "- Handled power tools under supervision",
+      "score": 0.9970321655273438,
+      "box": [
+        126,
+        314,
+        503,
+        340
+      ]
+    },
+    {
+      "text": "- Moved equipment between work zones",
+      "score": 0.9987700581550598,
+      "box": [
+        128,
+        340,
+        504,
+        365
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999421238899231,
+      "box": [
+        116,
+        404,
+        268,
+        431
+      ]
+    },
+    {
+      "text": "Some college (no degree), Construction Site Management, Windridge University, 2022",
+      "score": 0.9935421943664551,
+      "box": [
+        115,
+        445,
+        918,
+        476
+      ]
+    },
+    {
+      "text": "Completed coursework in basic carpentry",
+      "score": 0.9973941445350647,
+      "box": [
+        130,
+        472,
+        531,
+        501
+      ]
+    },
+    {
+      "text": "Studied principles of site preparation",
+      "score": 0.9988301992416382,
+      "box": [
+        132,
+        497,
+        487,
+        525
+      ]
+    }
+  ],
+  "seconds": 2.0409626998007298,
+  "id": "25237",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

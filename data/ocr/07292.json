@@ -1,0 +1,202 @@
+{
+  "lines": [
+    {
+      "text": "KIRBY ZHANG",
+      "score": 0.9914590716362,
+      "box": [
+        117,
+        91,
+        349,
+        122
+      ]
+    },
+    {
+      "text": "CA, USA | +1-642-729-4248 | kirby.zhang@example.com",
+      "score": 0.9827960133552551,
+      "box": [
+        116,
+        150,
+        647,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9988656044006348,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, CoreBooks Financial Group, 2020.02—2023.01",
+      "score": 0.9844560027122498,
+      "box": [
+        115,
+        288,
+        756,
+        316
+      ]
+    },
+    {
+      "text": "- Established reporting automation systems",
+      "score": 0.9991418123245239,
+      "box": [
+        125,
+        315,
+        530,
+        343
+      ]
+    },
+    {
+      "text": "- Directed financial reporting processes",
+      "score": 0.9810466766357422,
+      "box": [
+        128,
+        341,
+        491,
+        368
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Integrity Books Co., 2017.032020.02",
+      "score": 0.9953812956809998,
+      "box": [
+        118,
+        383,
+        675,
+        407
+      ]
+    },
+    {
+      "text": "- Directed accounting leadership initiatives",
+      "score": 0.9988380670547485,
+      "box": [
+        126,
+        408,
+        521,
+        434
+      ]
+    },
+    {
+      "text": "- Led audit planning governance",
+      "score": 0.9899144172668457,
+      "box": [
+        126,
+        431,
+        429,
+        462
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Precise Ledger Financial, 2014.04—2017.03",
+      "score": 0.9870606064796448,
+      "box": [
+        118,
+        474,
+        729,
+        498
+      ]
+    },
+    {
+      "text": "- Managed monthly close processes",
+      "score": 0.9844251871109009,
+      "box": [
+        125,
+        497,
+        465,
+        526
+      ]
+    },
+    {
+      "text": "- Prepared tax compliance filings",
+      "score": 0.9931671619415283,
+      "box": [
+        127,
+        521,
+        432,
+        551
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Balanced Books Group, 2011.042014.04",
+      "score": 0.9895023703575134,
+      "box": [
+        117,
+        566,
+        715,
+        590
+      ]
+    },
+    {
+      "text": "- Reviewed vendor payments",
+      "score": 0.9991711378097534,
+      "box": [
+        125,
+        589,
+        401,
+        617
+      ]
+    },
+    {
+      "text": "- Prepared aging reports",
+      "score": 0.9862337112426758,
+      "box": [
+        127,
+        614,
+        357,
+        644
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9998813271522522,
+      "box": [
+        117,
+        681,
+        266,
+        705
+      ]
+    },
+    {
+      "text": "Bachelor's, Financial Services, Cedarfield University, 2013",
+      "score": 0.9919877052307129,
+      "box": [
+        116,
+        724,
+        657,
+        749
+      ]
+    },
+    {
+      "text": "•Completed coursework in accounting controls testing",
+      "score": 0.9757839441299438,
+      "box": [
+        130,
+        747,
+        637,
+        777
+      ]
+    },
+    {
+      "text": "•Studied fundamentals of professional writing",
+      "score": 0.9944661259651184,
+      "box": [
+        132,
+        773,
+        557,
+        800
+      ]
+    }
+  ],
+  "seconds": 2.871270200237632,
+  "id": "07292",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

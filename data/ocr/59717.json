@@ -1,0 +1,122 @@
+{
+  "lines": [
+    {
+      "text": "ADRIAN KHAN",
+      "score": 0.9864283204078674,
+      "box": [
+        117,
+        91,
+        354,
+        122
+      ]
+    },
+    {
+      "text": "WA, USA | +1-784-209-4792 | adrian.khan@example.com",
+      "score": 0.9916830658912659,
+      "box": [
+        115,
+        149,
+        655,
+        177
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9994680881500244,
+      "box": [
+        116,
+        243,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Software Developers, Openwave Solutions, 2019.092020.08",
+      "score": 0.9997681379318237,
+      "box": [
+        116,
+        289,
+        688,
+        316
+      ]
+    },
+    {
+      "text": "- Updated frontend stylesheets",
+      "score": 0.9996756315231323,
+      "box": [
+        129,
+        316,
+        414,
+        340
+      ]
+    },
+    {
+      "text": "- Refactored simple functions for readability",
+      "score": 0.9925941228866577,
+      "box": [
+        129,
+        339,
+        529,
+        366
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999943196773529,
+      "box": [
+        116,
+        404,
+        268,
+        431
+      ]
+    },
+    {
+      "text": "Master's, Sunrise University, 2012",
+      "score": 0.9898423552513123,
+      "box": [
+        115,
+        447,
+        436,
+        474
+      ]
+    },
+    {
+      "text": "Bachelor's, Summit Ridge University, 2010",
+      "score": 0.9731792211532593,
+      "box": [
+        116,
+        474,
+        513,
+        498
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of game development",
+      "score": 0.9752575755119324,
+      "box": [
+        129,
+        500,
+        556,
+        524
+      ]
+    },
+    {
+      "text": "• Studied principles of mutexes and semaphores",
+      "score": 0.9811797738075256,
+      "box": [
+        133,
+        523,
+        580,
+        547
+      ]
+    }
+  ],
+  "seconds": 2.0190774998627603,
+  "id": "59717",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

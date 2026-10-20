@@ -1,0 +1,112 @@
+{
+  "lines": [
+    {
+      "text": "JESSICA REED",
+      "score": 0.9998669028282166,
+      "box": [
+        114,
+        87,
+        363,
+        123
+      ]
+    },
+    {
+      "text": "VA, USA | +1-640-219-1206 | jessica.reed@example.com",
+      "score": 0.9834338426589966,
+      "box": [
+        118,
+        152,
+        650,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9997507929801941,
+      "box": [
+        117,
+        243,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Bright Start School, 2018.072021.02",
+      "score": 0.9931845664978027,
+      "box": [
+        117,
+        289,
+        812,
+        316
+      ]
+    },
+    {
+      "text": "- Updated student performance logs",
+      "score": 0.9955120086669922,
+      "box": [
+        125,
+        312,
+        462,
+        343
+      ]
+    },
+    {
+      "text": "- Recorded behavioral observations",
+      "score": 0.9937931299209595,
+      "box": [
+        127,
+        339,
+        458,
+        365
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999486207962036,
+      "box": [
+        116,
+        404,
+        268,
+        431
+      ]
+    },
+    {
+      "text": "Bachelor's, Community Education, Forest Ridge University, 2002",
+      "score": 0.990497350692749,
+      "box": [
+        117,
+        449,
+        715,
+        473
+      ]
+    },
+    {
+      "text": "Studied fundamentals of instructional goal setting",
+      "score": 0.9912970066070557,
+      "box": [
+        129,
+        471,
+        604,
+        501
+      ]
+    },
+    {
+      "text": "• Completed coursework in instructional review methods",
+      "score": 0.9785951972007751,
+      "box": [
+        133,
+        499,
+        650,
+        523
+      ]
+    }
+  ],
+  "seconds": 2.2621285999193788,
+  "id": "56273",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

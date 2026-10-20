@@ -1,0 +1,132 @@
+{
+  "lines": [
+    {
+      "text": "SHANE HARMON",
+      "score": 0.9996230006217957,
+      "box": [
+        117,
+        91,
+        394,
+        122
+      ]
+    },
+    {
+      "text": "IL, USA | +1-621-220-1667 | shane.harmon@example.com",
+      "score": 0.9721136093139648,
+      "box": [
+        118,
+        152,
+        662,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9997704029083252,
+      "box": [
+        117,
+        243,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Construction Laborers, IronFrame Contractors, 2019.09—2022.07",
+      "score": 0.9954887628555298,
+      "box": [
+        118,
+        290,
+        717,
+        314
+      ]
+    },
+    {
+      "text": "- Supervised multiple work crews",
+      "score": 0.990471601486206,
+      "box": [
+        126,
+        315,
+        435,
+        340
+      ]
+    },
+    {
+      "text": "- Reviewed workflow efficiency reports",
+      "score": 0.9787735939025879,
+      "box": [
+        126,
+        338,
+        485,
+        367
+      ]
+    },
+    {
+      "text": "Construction Laborers, Ironclad Builders, 2015.05—2018.04",
+      "score": 0.9850856065750122,
+      "box": [
+        117,
+        381,
+        664,
+        406
+      ]
+    },
+    {
+      "text": "- Mixed concrete and mortar",
+      "score": 0.9966758489608765,
+      "box": [
+        125,
+        407,
+        392,
+        432
+      ]
+    },
+    {
+      "text": "- Followed safety procedures on site",
+      "score": 0.9982512593269348,
+      "box": [
+        127,
+        430,
+        465,
+        458
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999264478683472,
+      "box": [
+        117,
+        494,
+        267,
+        521
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Carpentry, Willow Creek High School, 1999",
+      "score": 0.9950462579727173,
+      "box": [
+        116,
+        540,
+        778,
+        567
+      ]
+    },
+    {
+      "text": "• Studied principles of structural load paths",
+      "score": 0.984900176525116,
+      "box": [
+        134,
+        567,
+        530,
+        591
+      ]
+    }
+  ],
+  "seconds": 2.0473440000787377,
+  "id": "18298",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

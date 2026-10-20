@@ -1,0 +1,172 @@
+{
+  "lines": [
+    {
+      "text": "KAITLYN YU",
+      "score": 0.9996817708015442,
+      "box": [
+        117,
+        91,
+        319,
+        122
+      ]
+    },
+    {
+      "text": "TX, USA | +1-310-841-6284 | kaitlyn.yu@example.com",
+      "score": 0.9962741136550903,
+      "box": [
+        117,
+        151,
+        625,
+        177
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9988835453987122,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Corewave Software, 2020.04—2023.01",
+      "score": 0.9875684976577759,
+      "box": [
+        115,
+        288,
+        678,
+        316
+      ]
+    },
+    {
+      "text": "- Defined API governance models",
+      "score": 0.986070454120636,
+      "box": [
+        127,
+        314,
+        443,
+        342
+      ]
+    },
+    {
+      "text": "- Designed configuration management systems",
+      "score": 0.9979124665260315,
+      "box": [
+        128,
+        340,
+        566,
+        368
+      ]
+    },
+    {
+      "text": "Software Developers, Codefield Software, 2017.062020.04",
+      "score": 0.9998895525932312,
+      "box": [
+        116,
+        382,
+        673,
+        409
+      ]
+    },
+    {
+      "text": "- Handled load testing",
+      "score": 0.9723384976387024,
+      "box": [
+        125,
+        402,
+        334,
+        436
+      ]
+    },
+    {
+      "text": "- Integrated monitoring tools",
+      "score": 0.9939409494400024,
+      "box": [
+        127,
+        433,
+        390,
+        459
+      ]
+    },
+    {
+      "text": "Software Developers, Greenline Tech, 2014.082017.06",
+      "score": 0.9875430464744568,
+      "box": [
+        117,
+        472,
+        641,
+        499
+      ]
+    },
+    {
+      "text": "- Participated in code reviews",
+      "score": 0.9996828436851501,
+      "box": [
+        126,
+        499,
+        402,
+        523
+      ]
+    },
+    {
+      "text": "- Reviewed test coverage reports",
+      "score": 0.9816694855690002,
+      "box": [
+        126,
+        520,
+        436,
+        551
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9998629689216614,
+      "box": [
+        117,
+        587,
+        267,
+        614
+      ]
+    },
+    {
+      "text": "Bachelor's, Northfield University, 2015",
+      "score": 0.9951942563056946,
+      "box": [
+        118,
+        633,
+        471,
+        657
+      ]
+    },
+    {
+      "text": "Studied principles of system design",
+      "score": 0.9874513745307922,
+      "box": [
+        129,
+        657,
+        477,
+        685
+      ]
+    },
+    {
+      "text": "Studied principles of dependency management",
+      "score": 0.995477557182312,
+      "box": [
+        129,
+        681,
+        585,
+        710
+      ]
+    }
+  ],
+  "seconds": 2.5976428003050387,
+  "id": "51462",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

@@ -1,0 +1,212 @@
+{
+  "lines": [
+    {
+      "text": "DUSTIN CHOI",
+      "score": 0.9995178580284119,
+      "box": [
+        117,
+        91,
+        336,
+        122
+      ]
+    },
+    {
+      "text": "WA, USA | +1-304-420-9573 | dustin.choi@example.com",
+      "score": 0.9859883189201355,
+      "box": [
+        117,
+        152,
+        644,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9971685409545898,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Openfield Tech, 2019.05—2023.01",
+      "score": 0.9881652593612671,
+      "box": [
+        114,
+        287,
+        638,
+        318
+      ]
+    },
+    {
+      "text": "- Defined coding standards",
+      "score": 0.9797493815422058,
+      "box": [
+        129,
+        317,
+        379,
+        341
+      ]
+    },
+    {
+      "text": "- Defined data governance policies",
+      "score": 0.983553946018219,
+      "box": [
+        127,
+        340,
+        451,
+        369
+      ]
+    },
+    {
+      "text": "Software Developers, Cloudpath Digital, 2015.082019.05",
+      "score": 0.9991512298583984,
+      "box": [
+        115,
+        381,
+        656,
+        409
+      ]
+    },
+    {
+      "text": "- Defined scalability roadmaps",
+      "score": 0.980524480342865,
+      "box": [
+        126,
+        407,
+        410,
+        434
+      ]
+    },
+    {
+      "text": "- Implemented release management strategies",
+      "score": 0.9973828792572021,
+      "box": [
+        127,
+        432,
+        561,
+        459
+      ]
+    },
+    {
+      "text": "Software Developers, Skybridge Software, 2011.112015.08",
+      "score": 0.9836279153823853,
+      "box": [
+        117,
+        472,
+        678,
+        499
+      ]
+    },
+    {
+      "text": "- Implemented feature flags",
+      "score": 0.9881282448768616,
+      "box": [
+        125,
+        497,
+        385,
+        526
+      ]
+    },
+    {
+      "text": "- Developed access control logic",
+      "score": 0.9859229326248169,
+      "box": [
+        127,
+        521,
+        430,
+        552
+      ]
+    },
+    {
+      "text": "Software Developers, Skyfield Tech, 2008.022011.11",
+      "score": 0.9956326484680176,
+      "box": [
+        117,
+        566,
+        620,
+        590
+      ]
+    },
+    {
+      "text": "- Assisted with system documentation",
+      "score": 0.9963296055793762,
+      "box": [
+        128,
+        591,
+        478,
+        616
+      ]
+    },
+    {
+      "text": "- Logged and tracked software defects",
+      "score": 0.9972572326660156,
+      "box": [
+        128,
+        614,
+        485,
+        642
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999920129776001,
+      "box": [
+        117,
+        681,
+        266,
+        705
+      ]
+    },
+    {
+      "text": "Master's, Forestview University, 2009",
+      "score": 0.9988996386528015,
+      "box": [
+        116,
+        724,
+        465,
+        750
+      ]
+    },
+    {
+      "text": "Bachelor's, Briarwood University, 2007",
+      "score": 0.9911150932312012,
+      "box": [
+        115,
+        747,
+        477,
+        775
+      ]
+    },
+    {
+      "text": "• Completed coursework in logging and monitoring",
+      "score": 0.9792682528495789,
+      "box": [
+        130,
+        775,
+        601,
+        802
+      ]
+    },
+    {
+      "text": "Studied principles of software reliability",
+      "score": 0.983075737953186,
+      "box": [
+        131,
+        798,
+        507,
+        827
+      ]
+    }
+  ],
+  "seconds": 2.615395499859005,
+  "id": "59577",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

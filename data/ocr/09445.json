@@ -1,0 +1,172 @@
+{
+  "lines": [
+    {
+      "text": "LUCIA GARRISON",
+      "score": 0.9998219609260559,
+      "box": [
+        117,
+        90,
+        410,
+        122
+      ]
+    },
+    {
+      "text": "CA, USA | +1-358-879-9139 | lucia.garrison@example.com",
+      "score": 0.9937857389450073,
+      "box": [
+        116,
+        150,
+        665,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.998986005783081,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Netline Digital, 2020.01—2023.01",
+      "score": 0.9942400455474854,
+      "box": [
+        115,
+        288,
+        624,
+        316
+      ]
+    },
+    {
+      "text": "- Designed caching infrastructures",
+      "score": 0.9905550479888916,
+      "box": [
+        125,
+        314,
+        448,
+        343
+      ]
+    },
+    {
+      "text": "- Defined engineering best practices",
+      "score": 0.9956471920013428,
+      "box": [
+        127,
+        340,
+        464,
+        368
+      ]
+    },
+    {
+      "text": "Software Developers, Codepoint Labs, 2016.12—2020.01",
+      "score": 0.9914984107017517,
+      "box": [
+        116,
+        382,
+        642,
+        409
+      ]
+    },
+    {
+      "text": "- Improved memory usage",
+      "score": 0.999433159828186,
+      "box": [
+        126,
+        408,
+        376,
+        434
+      ]
+    },
+    {
+      "text": "- Improved system reliability",
+      "score": 0.9981148838996887,
+      "box": [
+        127,
+        431,
+        388,
+        460
+      ]
+    },
+    {
+      "text": "Software Developers, Openbyte Systems, 2013.112016.12",
+      "score": 0.9860424399375916,
+      "box": [
+        117,
+        472,
+        673,
+        499
+      ]
+    },
+    {
+      "text": "- Assisted with database queries",
+      "score": 0.9993237257003784,
+      "box": [
+        126,
+        497,
+        431,
+        524
+      ]
+    },
+    {
+      "text": "- Configured development environments",
+      "score": 0.9994381070137024,
+      "box": [
+        128,
+        521,
+        501,
+        550
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999938428401947,
+      "box": [
+        118,
+        588,
+        266,
+        612
+      ]
+    },
+    {
+      "text": "Bachelor's, Clearwood University, 2013",
+      "score": 0.9880821108818054,
+      "box": [
+        117,
+        630,
+        482,
+        657
+      ]
+    },
+    {
+      "text": "Completed coursework in software design patterns",
+      "score": 0.9937787652015686,
+      "box": [
+        130,
+        656,
+        618,
+        684
+      ]
+    },
+    {
+      "text": "Completed coursework in technical writing",
+      "score": 0.9892449975013733,
+      "box": [
+        132,
+        680,
+        539,
+        710
+      ]
+    }
+  ],
+  "seconds": 2.3105045999400318,
+  "id": "09445",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

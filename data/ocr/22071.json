@@ -1,0 +1,132 @@
+{
+  "lines": [
+    {
+      "text": "CHRISTOPHER NORRIS",
+      "score": 0.9996132254600525,
+      "box": [
+        117,
+        90,
+        499,
+        122
+      ]
+    },
+    {
+      "text": "KY, USA | +1-930-523-4789 | christopher.norris@example.com",
+      "score": 0.9707474708557129,
+      "box": [
+        117,
+        152,
+        700,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9991250038146973,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, Precision Structures, 2021.04—2023.01",
+      "score": 0.9839521646499634,
+      "box": [
+        118,
+        290,
+        693,
+        314
+      ]
+    },
+    {
+      "text": "- Designed site logistics frameworks",
+      "score": 0.9935587644577026,
+      "box": [
+        125,
+        313,
+        462,
+        343
+      ]
+    },
+    {
+      "text": "- Supervised foundation installations",
+      "score": 0.9944402575492859,
+      "box": [
+        128,
+        340,
+        464,
+        366
+      ]
+    },
+    {
+      "text": "Construction Laborers, Allied Structures, 2018.072020.04",
+      "score": 0.9826673865318298,
+      "box": [
+        116,
+        380,
+        661,
+        408
+      ]
+    },
+    {
+      "text": "- Dug trenches for utility lines",
+      "score": 0.9997562766075134,
+      "box": [
+        126,
+        409,
+        399,
+        433
+      ]
+    },
+    {
+      "text": "- Carried materials to designated work areas",
+      "score": 0.9880822896957397,
+      "box": [
+        127,
+        429,
+        541,
+        459
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999166131019592,
+      "box": [
+        117,
+        494,
+        267,
+        521
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Structural Technology, Rosewood High School, 2005",
+      "score": 0.9902584552764893,
+      "box": [
+        117,
+        540,
+        866,
+        567
+      ]
+    },
+    {
+      "text": "• Completed coursework in concrete curing methods",
+      "score": 0.9982821345329285,
+      "box": [
+        135,
+        567,
+        618,
+        591
+      ]
+    }
+  ],
+  "seconds": 2.2848447002470493,
+  "id": "22071",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

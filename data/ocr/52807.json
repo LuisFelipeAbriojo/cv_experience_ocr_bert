@@ -1,0 +1,112 @@
+{
+  "lines": [
+    {
+      "text": "HAYDEN BAILEY",
+      "score": 0.9997809529304504,
+      "box": [
+        117,
+        91,
+        391,
+        122
+      ]
+    },
+    {
+      "text": "TX, USA | +1-299-710-4048 | hayden.bailey@example.com",
+      "score": 0.9984539747238159,
+      "box": [
+        117,
+        149,
+        667,
+        177
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9993416666984558,
+      "box": [
+        116,
+        243,
+        317,
+        270
+      ]
+    },
+    {
+      "text": "Construction Laborers, Allied Craft Co., 2019.08—2022.07",
+      "score": 0.9885268211364746,
+      "box": [
+        118,
+        289,
+        648,
+        313
+      ]
+    },
+    {
+      "text": "- Installed temporary supports",
+      "score": 0.9721956253051758,
+      "box": [
+        125,
+        313,
+        407,
+        343
+      ]
+    },
+    {
+      "text": "- Installed basic flooring materials",
+      "score": 0.98924720287323,
+      "box": [
+        127,
+        340,
+        438,
+        364
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999246597290039,
+      "box": [
+        116,
+        404,
+        268,
+        431
+      ]
+    },
+    {
+      "text": "Some college (no degree), Concrete Technology, Elm Valley University, 2016",
+      "score": 0.9672029614448547,
+      "box": [
+        117,
+        447,
+        833,
+        474
+      ]
+    },
+    {
+      "text": "•Studied fundamentals of scaffold safety",
+      "score": 0.9819623827934265,
+      "box": [
+        130,
+        472,
+        512,
+        499
+      ]
+    },
+    {
+      "text": "• Completed coursework in construction time management",
+      "score": 0.9869429469108582,
+      "box": [
+        134,
+        499,
+        675,
+        523
+      ]
+    }
+  ],
+  "seconds": 2.0271999002434313,
+  "id": "52807",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

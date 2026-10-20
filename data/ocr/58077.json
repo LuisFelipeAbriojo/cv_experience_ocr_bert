@@ -1,0 +1,152 @@
+{
+  "lines": [
+    {
+      "text": "TANYA GILMORE",
+      "score": 0.9998487830162048,
+      "box": [
+        117,
+        91,
+        398,
+        122
+      ]
+    },
+    {
+      "text": "WA, USA | +1-486-865-5527 | tanya.gilmore@example.com",
+      "score": 0.988867998123169,
+      "box": [
+        117,
+        152,
+        670,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9991068840026855,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Golden Start Academy, 2021.072023.01",
+      "score": 0.9907745718955994,
+      "box": [
+        116,
+        288,
+        846,
+        317
+      ]
+    },
+    {
+      "text": "- Established learning outcome benchmarks",
+      "score": 0.9994583129882812,
+      "box": [
+        125,
+        314,
+        535,
+        342
+      ]
+    },
+    {
+      "text": "- Designed curriculum frameworks for grade-level instruction",
+      "score": 0.9853502511978149,
+      "box": [
+        126,
+        339,
+        685,
+        367
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Bright Steps Academy, 2017.052018.11",
+      "score": 0.9942883849143982,
+      "box": [
+        115,
+        380,
+        845,
+        411
+      ]
+    },
+    {
+      "text": "- Implemented basic classroom management procedures",
+      "score": 0.9900016188621521,
+      "box": [
+        126,
+        408,
+        655,
+        434
+      ]
+    },
+    {
+      "text": "- Supported standardized testing sessions",
+      "score": 0.9881742596626282,
+      "box": [
+        128,
+        432,
+        517,
+        457
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999592304229736,
+      "box": [
+        116,
+        494,
+        268,
+        521
+      ]
+    },
+    {
+      "text": "Master's, General Academic Studies, Pine Valley University, 2009",
+      "score": 0.9980398416519165,
+      "box": [
+        114,
+        539,
+        725,
+        568
+      ]
+    },
+    {
+      "text": "Bachelor's, Applied Child Studies, Heritage University, 2007",
+      "score": 0.9765568375587463,
+      "box": [
+        116,
+        565,
+        669,
+        592
+      ]
+    },
+    {
+      "text": "• Completed coursework in classroom discipline strategies",
+      "score": 0.9778686165809631,
+      "box": [
+        131,
+        593,
+        671,
+        617
+      ]
+    },
+    {
+      "text": "•Studied principles of lesson coherence",
+      "score": 0.9845056533813477,
+      "box": [
+        131,
+        615,
+        507,
+        644
+      ]
+    }
+  ],
+  "seconds": 2.74762859987095,
+  "id": "58077",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

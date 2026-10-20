@@ -1,0 +1,102 @@
+{
+  "lines": [
+    {
+      "text": "JASON STEWART",
+      "score": 0.999728262424469,
+      "box": [
+        115,
+        89,
+        408,
+        123
+      ]
+    },
+    {
+      "text": "GA, USA | +1-955-516-2988 | jason.stewart@example.com",
+      "score": 0.9680827856063843,
+      "box": [
+        118,
+        152,
+        664,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9997391700744629,
+      "box": [
+        117,
+        243,
+        317,
+        270
+      ]
+    },
+    {
+      "text": "Construction Laborers, Reliable Structures, 2018.08—2021.06",
+      "score": 0.9875028729438782,
+      "box": [
+        116,
+        287,
+        685,
+        315
+      ]
+    },
+    {
+      "text": "- Marked measurements on materials",
+      "score": 0.9973617792129517,
+      "box": [
+        126,
+        314,
+        475,
+        339
+      ]
+    },
+    {
+      "text": "- Helped position heavy materials",
+      "score": 0.9968011975288391,
+      "box": [
+        128,
+        339,
+        439,
+        367
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999380111694336,
+      "box": [
+        116,
+        404,
+        268,
+        431
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Construction Design, Wildflower High School, 2015",
+      "score": 0.9953974485397339,
+      "box": [
+        116,
+        446,
+        850,
+        475
+      ]
+    },
+    {
+      "text": "Completed coursework in surveying basics",
+      "score": 0.9979084730148315,
+      "box": [
+        131,
+        472,
+        545,
+        500
+      ]
+    }
+  ],
+  "seconds": 2.202697300352156,
+  "id": "15317",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

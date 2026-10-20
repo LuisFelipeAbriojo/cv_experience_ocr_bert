@@ -1,0 +1,112 @@
+{
+  "lines": [
+    {
+      "text": "HAYDEN VU",
+      "score": 0.9986184239387512,
+      "box": [
+        116,
+        91,
+        315,
+        122
+      ]
+    },
+    {
+      "text": "CA, USA | +1-239-485-4853 | hayden.vu@example.com",
+      "score": 0.9839329123497009,
+      "box": [
+        116,
+        149,
+        637,
+        177
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9993965029716492,
+      "box": [
+        116,
+        243,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Software Developers, Bluefield Technologies, 2021.05—2021.12",
+      "score": 0.9949144124984741,
+      "box": [
+        114,
+        287,
+        708,
+        315
+      ]
+    },
+    {
+      "text": "- Updated localization files",
+      "score": 0.9990643858909607,
+      "box": [
+        126,
+        315,
+        373,
+        339
+      ]
+    },
+    {
+      "text": "- Maintained code repositories",
+      "score": 0.9859926700592041,
+      "box": [
+        126,
+        338,
+        410,
+        366
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999051690101624,
+      "box": [
+        116,
+        404,
+        268,
+        431
+      ]
+    },
+    {
+      "text": "Bachelor's, Cedarview University, 2018",
+      "score": 0.9977278709411621,
+      "box": [
+        116,
+        446,
+        481,
+        474
+      ]
+    },
+    {
+      "text": "•Studied fundamentals of cybersecurity",
+      "score": 0.9872055053710938,
+      "box": [
+        128,
+        472,
+        502,
+        500
+      ]
+    },
+    {
+      "text": "• Studied principles of backend frameworks",
+      "score": 0.9754553437232971,
+      "box": [
+        132,
+        498,
+        535,
+        525
+      ]
+    }
+  ],
+  "seconds": 1.951136200223118,
+  "id": "03661",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

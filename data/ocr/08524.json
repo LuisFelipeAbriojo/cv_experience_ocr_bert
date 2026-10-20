@@ -1,0 +1,182 @@
+{
+  "lines": [
+    {
+      "text": "TANYA DENNIS",
+      "score": 0.9880720973014832,
+      "box": [
+        117,
+        91,
+        368,
+        121
+      ]
+    },
+    {
+      "text": "CA, USA | +1-942-652-5962 | tanya.dennis@example.com",
+      "score": 0.9930347800254822,
+      "box": [
+        116,
+        150,
+        659,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9990995526313782,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, SolidCount Financial, 2020.06—2023.01",
+      "score": 0.9984848499298096,
+      "box": [
+        116,
+        289,
+        689,
+        314
+      ]
+    },
+    {
+      "text": "- Developed internal control systems",
+      "score": 0.9815628528594971,
+      "box": [
+        126,
+        314,
+        467,
+        343
+      ]
+    },
+    {
+      "text": "- Developed long-term financial strategies",
+      "score": 0.9973374605178833,
+      "box": [
+        128,
+        340,
+        514,
+        368
+      ]
+    },
+    {
+      "text": "Accountants Auditors, TrustLedger Financial, 2017.052019.12",
+      "score": 0.991117537021637,
+      "box": [
+        117,
+        382,
+        704,
+        409
+      ]
+    },
+    {
+      "text": "- Managed fixed asset accounting",
+      "score": 0.9947915077209473,
+      "box": [
+        124,
+        406,
+        442,
+        435
+      ]
+    },
+    {
+      "text": "- Reviewed accounting estimates",
+      "score": 0.9991169571876526,
+      "box": [
+        127,
+        431,
+        437,
+        457
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Fairview Financial Services, 2014.032016.10",
+      "score": 0.9981610774993896,
+      "box": [
+        118,
+        473,
+        752,
+        497
+      ]
+    },
+    {
+      "text": "- Performed data validation checks",
+      "score": 0.9983317255973816,
+      "box": [
+        126,
+        497,
+        451,
+        522
+      ]
+    },
+    {
+      "text": "- Maintained vendor records",
+      "score": 0.9795413613319397,
+      "box": [
+        128,
+        521,
+        390,
+        547
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9998828172683716,
+      "box": [
+        117,
+        587,
+        267,
+        614
+      ]
+    },
+    {
+      "text": "Master's, Managerial Accounting, Golden Meadow University, 2007",
+      "score": 0.9993153214454651,
+      "box": [
+        117,
+        632,
+        738,
+        659
+      ]
+    },
+    {
+      "text": "Bachelor's, Administrative Studies, Riverhaven University, 2005",
+      "score": 0.9951063394546509,
+      "box": [
+        115,
+        656,
+        706,
+        684
+      ]
+    },
+    {
+      "text": "• Studied principles of inventory valuation",
+      "score": 0.9970350861549377,
+      "box": [
+        132,
+        684,
+        517,
+        708
+      ]
+    },
+    {
+      "text": "•Completed coursework in cost accounting",
+      "score": 0.9743753671646118,
+      "box": [
+        131,
+        706,
+        535,
+        735
+      ]
+    }
+  ],
+  "seconds": 2.7855827999301255,
+  "id": "08524",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

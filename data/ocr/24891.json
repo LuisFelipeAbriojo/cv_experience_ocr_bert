@@ -1,0 +1,182 @@
+{
+  "lines": [
+    {
+      "text": "KATIE PHAM",
+      "score": 0.9995959401130676,
+      "box": [
+        118,
+        92,
+        325,
+        120
+      ]
+    },
+    {
+      "text": "MD, USA | +1-781-898-6691 | katie.pham@example.com",
+      "score": 0.9868139028549194,
+      "box": [
+        115,
+        149,
+        646,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9968608021736145,
+      "box": [
+        117,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, GentleHands Nursing, 2020.09—2023.01",
+      "score": 0.9908159971237183,
+      "box": [
+        115,
+        287,
+        675,
+        318
+      ]
+    },
+    {
+      "text": "- Developed medication management policies",
+      "score": 0.9667384624481201,
+      "box": [
+        125,
+        313,
+        552,
+        344
+      ]
+    },
+    {
+      "text": "- Directed care coordination strategies",
+      "score": 0.9882203936576843,
+      "box": [
+        126,
+        338,
+        482,
+        368
+      ]
+    },
+    {
+      "text": "Registered Nurses, Caring Nest Nursing, 2018.042020.09",
+      "score": 0.9934460520744324,
+      "box": [
+        116,
+        381,
+        664,
+        409
+      ]
+    },
+    {
+      "text": "- Provided catheter and ostomy care",
+      "score": 0.9744617938995361,
+      "box": [
+        126,
+        407,
+        466,
+        434
+      ]
+    },
+    {
+      "text": "- Implemented patient education programs",
+      "score": 0.9991436004638672,
+      "box": [
+        128,
+        431,
+        521,
+        460
+      ]
+    },
+    {
+      "text": "Registered Nurses, NewBridge Care Center, 2015.112018.04",
+      "score": 0.997746467590332,
+      "box": [
+        117,
+        472,
+        698,
+        499
+      ]
+    },
+    {
+      "text": "- Prepared medical equipment for use",
+      "score": 0.9851307272911072,
+      "box": [
+        126,
+        497,
+        479,
+        525
+      ]
+    },
+    {
+      "text": "- Assisted with diagnostic procedures",
+      "score": 0.9967767000198364,
+      "box": [
+        128,
+        521,
+        474,
+        550
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999433159828186,
+      "box": [
+        118,
+        588,
+        266,
+        612
+      ]
+    },
+    {
+      "text": "Master's, Patient Services, Oakwood University, 2014",
+      "score": 0.9877077341079712,
+      "box": [
+        117,
+        633,
+        614,
+        657
+      ]
+    },
+    {
+      "text": "Bachelor's, Human Biology, Bayside University, 2012",
+      "score": 0.9806786179542542,
+      "box": [
+        115,
+        656,
+        611,
+        684
+      ]
+    },
+    {
+      "text": "•Studied fundamentals of musculoskeletal nursing",
+      "score": 0.9877817034721375,
+      "box": [
+        129,
+        680,
+        603,
+        710
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of conflict resolution basics",
+      "score": 0.9810505509376526,
+      "box": [
+        132,
+        707,
+        605,
+        732
+      ]
+    }
+  ],
+  "seconds": 4.1052566999569535,
+  "id": "24891",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

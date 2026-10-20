@@ -1,0 +1,142 @@
+{
+  "lines": [
+    {
+      "text": "CURTIS ARMSTRONG",
+      "score": 0.9883641004562378,
+      "box": [
+        118,
+        91,
+        469,
+        122
+      ]
+    },
+    {
+      "text": "MA, USA | +1-517-512-8743 | curtis.armstrong@example.com",
+      "score": 0.9837093353271484,
+      "box": [
+        115,
+        150,
+        693,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9997738003730774,
+      "box": [
+        117,
+        243,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Software Developers, Clearline Systems, 2021.05—2023.01",
+      "score": 0.983397901058197,
+      "box": [
+        115,
+        288,
+        664,
+        316
+      ]
+    },
+    {
+      "text": "- Designed microservice architectures",
+      "score": 0.9818239808082581,
+      "box": [
+        127,
+        315,
+        478,
+        341
+      ]
+    },
+    {
+      "text": "- Designed event-driven architectures",
+      "score": 0.9796098470687866,
+      "box": [
+        128,
+        339,
+        477,
+        368
+      ]
+    },
+    {
+      "text": "Software Developers, Stonepath Digital, 2017.072019.04",
+      "score": 0.9902251362800598,
+      "box": [
+        115,
+        379,
+        657,
+        410
+      ]
+    },
+    {
+      "text": "- Updated monitoring dashboards",
+      "score": 0.9996718764305115,
+      "box": [
+        127,
+        409,
+        440,
+        432
+      ]
+    },
+    {
+      "text": "- Wrote utility scripts",
+      "score": 0.9664397835731506,
+      "box": [
+        126,
+        430,
+        318,
+        460
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9676497578620911,
+      "box": [
+        116,
+        494,
+        267,
+        521
+      ]
+    },
+    {
+      "text": "Bachelor's, Oakview University, 2010",
+      "score": 0.9764153361320496,
+      "box": [
+        116,
+        539,
+        461,
+        566
+      ]
+    },
+    {
+      "text": "•Studied fundamentals of deployment pipelines",
+      "score": 0.9783700108528137,
+      "box": [
+        130,
+        566,
+        573,
+        590
+      ]
+    },
+    {
+      "text": "•Completed coursework in scripting languages",
+      "score": 0.9812154173851013,
+      "box": [
+        131,
+        591,
+        569,
+        617
+      ]
+    }
+  ],
+  "seconds": 2.395516199991107,
+  "id": "25926",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

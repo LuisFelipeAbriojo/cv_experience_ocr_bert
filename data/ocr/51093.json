@@ -1,0 +1,182 @@
+{
+  "lines": [
+    {
+      "text": "ALISHIA PATEL",
+      "score": 0.9996722936630249,
+      "box": [
+        118,
+        91,
+        370,
+        122
+      ]
+    },
+    {
+      "text": "TX, USA | +1-794-862-1840 | alishia.patel@example.com",
+      "score": 0.996170699596405,
+      "box": [
+        116,
+        150,
+        648,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9955145716667175,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Stonebyte Solutions, 2020.11—2023.01",
+      "score": 0.9929764270782471,
+      "box": [
+        115,
+        288,
+        681,
+        316
+      ]
+    },
+    {
+      "text": "- Designed system architectures",
+      "score": 0.9986578226089478,
+      "box": [
+        127,
+        314,
+        429,
+        343
+      ]
+    },
+    {
+      "text": "- Reviewed system design documents",
+      "score": 0.9976398348808289,
+      "box": [
+        127,
+        340,
+        481,
+        368
+      ]
+    },
+    {
+      "text": "Software Developers, Datastream Labs, 2018.08—2020.11",
+      "score": 0.9917779564857483,
+      "box": [
+        116,
+        382,
+        655,
+        409
+      ]
+    },
+    {
+      "text": "- Designed UI workflows",
+      "score": 0.9771246910095215,
+      "box": [
+        127,
+        409,
+        355,
+        433
+      ]
+    },
+    {
+      "text": "- Integrated analytics services",
+      "score": 0.9838579297065735,
+      "box": [
+        127,
+        431,
+        406,
+        459
+      ]
+    },
+    {
+      "text": "Software Developers, Ironleaf Tech, 2014.012016.04",
+      "score": 0.9894613027572632,
+      "box": [
+        117,
+        472,
+        620,
+        499
+      ]
+    },
+    {
+      "text": "- Updated localization files",
+      "score": 0.9809809923171997,
+      "box": [
+        128,
+        499,
+        375,
+        523
+      ]
+    },
+    {
+      "text": "- Monitored application logs",
+      "score": 0.9989001154899597,
+      "box": [
+        127,
+        521,
+        385,
+        551
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9998500347137451,
+      "box": [
+        117,
+        587,
+        267,
+        614
+      ]
+    },
+    {
+      "text": "Master's, Meadowridge University, 2006",
+      "score": 0.9979020357131958,
+      "box": [
+        116,
+        632,
+        489,
+        659
+      ]
+    },
+    {
+      "text": "Bachelor's, Hillside University, 2004",
+      "score": 0.9957412481307983,
+      "box": [
+        117,
+        659,
+        449,
+        683
+      ]
+    },
+    {
+      "text": "•Studied principles of image processing",
+      "score": 0.9800349473953247,
+      "box": [
+        130,
+        682,
+        506,
+        711
+      ]
+    },
+    {
+      "text": "Completed coursework in data structures implementation",
+      "score": 0.9827196598052979,
+      "box": [
+        131,
+        705,
+        676,
+        736
+      ]
+    }
+  ],
+  "seconds": 2.298888400197029,
+  "id": "51093",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

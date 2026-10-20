@@ -1,0 +1,102 @@
+{
+  "lines": [
+    {
+      "text": "ADEN COMBS",
+      "score": 0.9941645860671997,
+      "box": [
+        116,
+        89,
+        347,
+        123
+      ]
+    },
+    {
+      "text": "PA, USA | +1-311-468-5833 | aden.combs@example.com",
+      "score": 0.9804314970970154,
+      "box": [
+        115,
+        149,
+        654,
+        177
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9993802905082703,
+      "box": [
+        116,
+        243,
+        317,
+        270
+      ]
+    },
+    {
+      "text": "Construction Laborers, TrueLine Builders, 2021.06—2023.01",
+      "score": 0.991666853427887,
+      "box": [
+        118,
+        289,
+        670,
+        313
+      ]
+    },
+    {
+      "text": "- Helped position heavy materials",
+      "score": 0.9922266006469727,
+      "box": [
+        126,
+        316,
+        439,
+        340
+      ]
+    },
+    {
+      "text": "- Maintained tool storage areas",
+      "score": 0.9983481764793396,
+      "box": [
+        126,
+        339,
+        418,
+        366
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999494552612305,
+      "box": [
+        116,
+        404,
+        268,
+        431
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Construction Quality Control, Stonehaven High School, 2021",
+      "score": 0.9965518116950989,
+      "box": [
+        116,
+        446,
+        935,
+        474
+      ]
+    },
+    {
+      "text": "Completed coursework in basic HVAC concepts",
+      "score": 0.9912997484207153,
+      "box": [
+        131,
+        472,
+        592,
+        500
+      ]
+    }
+  ],
+  "seconds": 2.191851200070232,
+  "id": "44681",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

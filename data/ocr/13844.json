@@ -1,0 +1,142 @@
+{
+  "lines": [
+    {
+      "text": "NORMA MASON",
+      "score": 0.9997134804725647,
+      "box": [
+        117,
+        91,
+        377,
+        121
+      ]
+    },
+    {
+      "text": "FL, USA | +1-978-240-9135 | norma.mason@example.com",
+      "score": 0.985953152179718,
+      "box": [
+        116,
+        149,
+        664,
+        177
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9991436004638672,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, BrightCare Nursing, 2021.04—2023.01",
+      "score": 0.9798803925514221,
+      "box": [
+        115,
+        287,
+        653,
+        318
+      ]
+    },
+    {
+      "text": "- Led nursing workflow optimization",
+      "score": 0.9913626313209534,
+      "box": [
+        126,
+        315,
+        455,
+        341
+      ]
+    },
+    {
+      "text": "- Established clinical evaluation protocols",
+      "score": 0.990062952041626,
+      "box": [
+        125,
+        338,
+        510,
+        367
+      ]
+    },
+    {
+      "text": "Registered Nurses, EverPath Nursing Services, 2019.07—2021.04",
+      "score": 0.9898946285247803,
+      "box": [
+        116,
+        380,
+        726,
+        408
+      ]
+    },
+    {
+      "text": "- Collected patient health histories",
+      "score": 0.9987053275108337,
+      "box": [
+        126,
+        407,
+        444,
+        433
+      ]
+    },
+    {
+      "text": "- Updated patient medical records",
+      "score": 0.9990478157997131,
+      "box": [
+        130,
+        434,
+        442,
+        457
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999908447265625,
+      "box": [
+        117,
+        494,
+        267,
+        521
+      ]
+    },
+    {
+      "text": "Bachelor's, Health Support Services, Bright Ridge University, 2021",
+      "score": 0.9861811995506287,
+      "box": [
+        117,
+        542,
+        729,
+        566
+      ]
+    },
+    {
+      "text": "•Studied fundamentals of quality assurance in care",
+      "score": 0.9733413457870483,
+      "box": [
+        129,
+        566,
+        611,
+        592
+      ]
+    },
+    {
+      "text": "•Studied fundamentals of stress management in care",
+      "score": 0.989576518535614,
+      "box": [
+        130,
+        588,
+        631,
+        619
+      ]
+    }
+  ],
+  "seconds": 2.783588900230825,
+  "id": "13844",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

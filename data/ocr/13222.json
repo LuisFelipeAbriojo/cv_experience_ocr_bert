@@ -1,0 +1,142 @@
+{
+  "lines": [
+    {
+      "text": "LISA PADILLA",
+      "score": 0.9996088147163391,
+      "box": [
+        117,
+        91,
+        346,
+        122
+      ]
+    },
+    {
+      "text": "FL, USA | +1-825-536-8597 | lisa.padilla@example.com",
+      "score": 0.9853734970092773,
+      "box": [
+        116,
+        149,
+        633,
+        177
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9995389580726624,
+      "box": [
+        116,
+        243,
+        315,
+        270
+      ]
+    },
+    {
+      "text": "Construction Laborers, BuildWell Contractors, 2019.06—2021.06",
+      "score": 0.9922628998756409,
+      "box": [
+        118,
+        289,
+        707,
+        313
+      ]
+    },
+    {
+      "text": "- Led operational planning",
+      "score": 0.9992037415504456,
+      "box": [
+        125,
+        312,
+        372,
+        343
+      ]
+    },
+    {
+      "text": "- Managed multi-phase projects",
+      "score": 0.9919121861457825,
+      "box": [
+        126,
+        338,
+        422,
+        368
+      ]
+    },
+    {
+      "text": "Construction Laborers, TrueCraft Builders, 2016.09—2018.09",
+      "score": 0.976332426071167,
+      "box": [
+        117,
+        381,
+        677,
+        406
+      ]
+    },
+    {
+      "text": "- Secured materials with fasteners",
+      "score": 0.9917207360267639,
+      "box": [
+        125,
+        406,
+        446,
+        432
+      ]
+    },
+    {
+      "text": "- Set up workstations for crews",
+      "score": 0.9767400026321411,
+      "box": [
+        127,
+        431,
+        415,
+        457
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999039173126221,
+      "box": [
+        117,
+        494,
+        268,
+        521
+      ]
+    },
+    {
+      "text": "Bachelor's, Construction Methods, Greenridge University, 2016",
+      "score": 0.9938941597938538,
+      "box": [
+        116,
+        540,
+        699,
+        566
+      ]
+    },
+    {
+      "text": "• Completed coursework in construction ergonomics",
+      "score": 0.9789499640464783,
+      "box": [
+        132,
+        566,
+        616,
+        591
+      ]
+    },
+    {
+      "text": "Completed coursework in material handling",
+      "score": 0.9921060800552368,
+      "box": [
+        131,
+        589,
+        549,
+        618
+      ]
+    }
+  ],
+  "seconds": 2.505481299944222,
+  "id": "13222",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

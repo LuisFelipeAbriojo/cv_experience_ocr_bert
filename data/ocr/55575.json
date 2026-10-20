@@ -1,0 +1,102 @@
+{
+  "lines": [
+    {
+      "text": "ANDRE MOODY",
+      "score": 0.9926924109458923,
+      "box": [
+        116,
+        89,
+        373,
+        123
+      ]
+    },
+    {
+      "text": "UT, USA | +1-988-258-5169 | andre.moody@example.com",
+      "score": 0.9929227828979492,
+      "box": [
+        117,
+        149,
+        661,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9993181824684143,
+      "box": [
+        116,
+        243,
+        317,
+        270
+      ]
+    },
+    {
+      "text": "Construction Laborers, SafeRise Construction, 2020.09—2023.01",
+      "score": 0.994921088218689,
+      "box": [
+        118,
+        289,
+        714,
+        313
+      ]
+    },
+    {
+      "text": "- Set up ladders and basic scaffolding",
+      "score": 0.9786928296089172,
+      "box": [
+        124,
+        312,
+        478,
+        342
+      ]
+    },
+    {
+      "text": "- Secured materials with fasteners",
+      "score": 0.9909476041793823,
+      "box": [
+        127,
+        339,
+        446,
+        365
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999602437019348,
+      "box": [
+        116,
+        404,
+        268,
+        431
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Civil Technology, Amber Hills High School, 2021",
+      "score": 0.9946297407150269,
+      "box": [
+        116,
+        447,
+        823,
+        474
+      ]
+    },
+    {
+      "text": "• Studied principles of construction workflow analysis",
+      "score": 0.9765868186950684,
+      "box": [
+        131,
+        475,
+        621,
+        499
+      ]
+    }
+  ],
+  "seconds": 1.968474400229752,
+  "id": "55575",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

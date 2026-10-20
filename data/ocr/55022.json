@@ -1,0 +1,102 @@
+{
+  "lines": [
+    {
+      "text": "JADEN MENDOZA",
+      "score": 0.9763806462287903,
+      "box": [
+        116,
+        91,
+        409,
+        122
+      ]
+    },
+    {
+      "text": "TX, USA | +1-428-716-2468 | jaden.mendoza@example.com",
+      "score": 0.9936954379081726,
+      "box": [
+        117,
+        149,
+        681,
+        177
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9997140765190125,
+      "box": [
+        117,
+        243,
+        317,
+        270
+      ]
+    },
+    {
+      "text": "Construction Laborers, AnchorBuild Services, 2021.04—2023.01",
+      "score": 0.9801279902458191,
+      "box": [
+        116,
+        287,
+        705,
+        315
+      ]
+    },
+    {
+      "text": "- Assisted with framing support",
+      "score": 0.9984335899353027,
+      "box": [
+        125,
+        314,
+        417,
+        341
+      ]
+    },
+    {
+      "text": "- Supported crew leaders during tasks",
+      "score": 0.9845534563064575,
+      "box": [
+        127,
+        339,
+        481,
+        367
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999006986618042,
+      "box": [
+        116,
+        404,
+        268,
+        431
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Construction Drafting, Oakview High School, 2022",
+      "score": 0.9889246821403503,
+      "box": [
+        115,
+        446,
+        841,
+        474
+      ]
+    },
+    {
+      "text": "Studied fundamentals of tool usage",
+      "score": 0.9930628538131714,
+      "box": [
+        128,
+        471,
+        476,
+        501
+      ]
+    }
+  ],
+  "seconds": 1.9789431998506188,
+  "id": "55022",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

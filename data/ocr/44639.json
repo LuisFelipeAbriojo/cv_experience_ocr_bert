@@ -1,0 +1,192 @@
+{
+  "lines": [
+    {
+      "text": "KEENAN WILSON",
+      "score": 0.9996691942214966,
+      "box": [
+        117,
+        91,
+        403,
+        121
+      ]
+    },
+    {
+      "text": "PA, USA | +1-827-590-3137 | keenan.wilson@example.com",
+      "score": 0.9797855615615845,
+      "box": [
+        115,
+        150,
+        672,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9861333966255188,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, Stronghold Construction, 2018.12—2023.01",
+      "score": 0.9854922890663147,
+      "box": [
+        116,
+        288,
+        731,
+        316
+      ]
+    },
+    {
+      "text": "- Directed site safety audits",
+      "score": 0.9925420880317688,
+      "box": [
+        125,
+        314,
+        383,
+        343
+      ]
+    },
+    {
+      "text": "- Supervised large structural repairs",
+      "score": 0.9846705794334412,
+      "box": [
+        127,
+        340,
+        460,
+        368
+      ]
+    },
+    {
+      "text": "Construction Laborers, MasterBuild Services, 2014.112018.12",
+      "score": 0.9957488775253296,
+      "box": [
+        118,
+        383,
+        704,
+        407
+      ]
+    },
+    {
+      "text": "- Reviewed structural integrity assessments",
+      "score": 0.9961238503456116,
+      "box": [
+        125,
+        407,
+        531,
+        433
+      ]
+    },
+    {
+      "text": "- Established construction benchmarks",
+      "score": 0.9748345613479614,
+      "box": [
+        127,
+        431,
+        487,
+        457
+      ]
+    },
+    {
+      "text": "Construction Laborers, BuildWell Contractors, 2009.08—2013.10",
+      "score": 0.9898420572280884,
+      "box": [
+        116,
+        471,
+        710,
+        499
+      ]
+    },
+    {
+      "text": "- Performed quality checks on installations",
+      "score": 0.9929820895195007,
+      "box": [
+        129,
+        500,
+        520,
+        524
+      ]
+    },
+    {
+      "text": "- Installed drainage systems",
+      "score": 0.9946684837341309,
+      "box": [
+        127,
+        522,
+        390,
+        551
+      ]
+    },
+    {
+      "text": "Construction Laborers, CornerWay Construction, 2004.082008.10",
+      "score": 0.989612340927124,
+      "box": [
+        118,
+        566,
+        736,
+        590
+      ]
+    },
+    {
+      "text": "- Secured site fencing",
+      "score": 0.9974626302719116,
+      "box": [
+        126,
+        589,
+        332,
+        617
+      ]
+    },
+    {
+      "text": "- Assisted with site cleanup and debris removal",
+      "score": 0.9850060343742371,
+      "box": [
+        125,
+        613,
+        566,
+        642
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9998690485954285,
+      "box": [
+        117,
+        681,
+        266,
+        705
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Construction Technology, Granite Hill High School, 1997",
+      "score": 0.9962821006774902,
+      "box": [
+        117,
+        723,
+        898,
+        749
+      ]
+    },
+    {
+      "text": "•Completed coursework in basic welding concepts",
+      "score": 0.9788421392440796,
+      "box": [
+        132,
+        749,
+        606,
+        776
+      ]
+    }
+  ],
+  "seconds": 2.771716999821365,
+  "id": "44639",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

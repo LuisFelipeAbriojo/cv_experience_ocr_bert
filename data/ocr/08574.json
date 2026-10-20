@@ -1,0 +1,212 @@
+{
+  "lines": [
+    {
+      "text": "DONALD NEWMAN",
+      "score": 0.9784196615219116,
+      "box": [
+        118,
+        91,
+        425,
+        121
+      ]
+    },
+    {
+      "text": "CA, USA | +1-609-851-3701 | donald.newman@example.com",
+      "score": 0.9909600019454956,
+      "box": [
+        116,
+        150,
+        688,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9983651638031006,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Corestack Digital, 2019.09—2023.01",
+      "score": 0.9894586801528931,
+      "box": [
+        117,
+        290,
+        651,
+        314
+      ]
+    },
+    {
+      "text": "- Designed microservice architectures",
+      "score": 0.9936075806617737,
+      "box": [
+        126,
+        315,
+        478,
+        341
+      ]
+    },
+    {
+      "text": "- Built core libraries",
+      "score": 0.9782409071922302,
+      "box": [
+        127,
+        339,
+        309,
+        366
+      ]
+    },
+    {
+      "text": "Software Developers, Cloudpath Labs, 2016.052019.09",
+      "score": 0.9987217783927917,
+      "box": [
+        115,
+        381,
+        644,
+        409
+      ]
+    },
+    {
+      "text": "- Led backend platform development",
+      "score": 0.9886428713798523,
+      "box": [
+        129,
+        409,
+        469,
+        433
+      ]
+    },
+    {
+      "text": "- Led refactoring initiatives",
+      "score": 0.9981804490089417,
+      "box": [
+        128,
+        432,
+        373,
+        458
+      ]
+    },
+    {
+      "text": "Software Developers, Stonegrid Labs, 2013.012016.05",
+      "score": 0.9817839860916138,
+      "box": [
+        115,
+        471,
+        637,
+        499
+      ]
+    },
+    {
+      "text": "- Implemented backend services",
+      "score": 0.9991579651832581,
+      "box": [
+        128,
+        499,
+        430,
+        523
+      ]
+    },
+    {
+      "text": "- Improved API performance",
+      "score": 0.9939771294593811,
+      "box": [
+        128,
+        521,
+        393,
+        550
+      ]
+    },
+    {
+      "text": "Software Developers, Openstack Digital, 2007.052010.10",
+      "score": 0.9979873895645142,
+      "box": [
+        114,
+        562,
+        662,
+        593
+      ]
+    },
+    {
+      "text": "- Implemented validation logic",
+      "score": 0.9881604313850403,
+      "box": [
+        128,
+        592,
+        406,
+        616
+      ]
+    },
+    {
+      "text": "- Monitored application logs",
+      "score": 0.9982306361198425,
+      "box": [
+        127,
+        613,
+        386,
+        644
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9998644590377808,
+      "box": [
+        117,
+        681,
+        266,
+        705
+      ]
+    },
+    {
+      "text": "Master's, Willowview University, 2004",
+      "score": 0.9873111844062805,
+      "box": [
+        116,
+        723,
+        464,
+        749
+      ]
+    },
+    {
+      "text": "Bachelor's, Skyview University, 2002",
+      "score": 0.9841458797454834,
+      "box": [
+        117,
+        750,
+        459,
+        774
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of client-side development",
+      "score": 0.983046293258667,
+      "box": [
+        131,
+        775,
+        599,
+        799
+      ]
+    },
+    {
+      "text": "•Completed coursework in quality assurance",
+      "score": 0.9720228910446167,
+      "box": [
+        131,
+        798,
+        553,
+        826
+      ]
+    }
+  ],
+  "seconds": 2.6258239997550845,
+  "id": "08574",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

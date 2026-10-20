@@ -1,0 +1,142 @@
+{
+  "lines": [
+    {
+      "text": "KERI PETERSEN",
+      "score": 0.9993588328361511,
+      "box": [
+        117,
+        91,
+        387,
+        121
+      ]
+    },
+    {
+      "text": "WA, USA | +1-327-237-1444 | keri.petersen@example.com",
+      "score": 0.9792768955230713,
+      "box": [
+        118,
+        152,
+        665,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9991574287414551,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Sunny Minds School, 2020.12—2023.01",
+      "score": 0.9902727603912354,
+      "box": [
+        117,
+        289,
+        827,
+        316
+      ]
+    },
+    {
+      "text": "- Established academic quality controls",
+      "score": 0.9850062131881714,
+      "box": [
+        125,
+        314,
+        491,
+        342
+      ]
+    },
+    {
+      "text": "- Directed academic intervention strategies",
+      "score": 0.994041383266449,
+      "box": [
+        125,
+        338,
+        525,
+        368
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Caring Minds School, 2016.022018.04",
+      "score": 0.9943807125091553,
+      "box": [
+        117,
+        382,
+        832,
+        409
+      ]
+    },
+    {
+      "text": "- Updated student performance logs",
+      "score": 0.9798902869224548,
+      "box": [
+        126,
+        406,
+        462,
+        436
+      ]
+    },
+    {
+      "text": "- Prepared daily instructional agendas",
+      "score": 0.9905937314033508,
+      "box": [
+        129,
+        434,
+        478,
+        457
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999305009841919,
+      "box": [
+        117,
+        494,
+        266,
+        521
+      ]
+    },
+    {
+      "text": "Bachelor's, Basic Child Development, Lakeside University, 2007",
+      "score": 0.9945451617240906,
+      "box": [
+        115,
+        539,
+        709,
+        567
+      ]
+    },
+    {
+      "text": "•Completed coursework in basic curriculum planning",
+      "score": 0.9860739707946777,
+      "box": [
+        130,
+        564,
+        626,
+        594
+      ]
+    },
+    {
+      "text": "•Studied principles of student engagement",
+      "score": 0.9877211451530457,
+      "box": [
+        130,
+        590,
+        534,
+        618
+      ]
+    }
+  ],
+  "seconds": 2.7872219998389482,
+  "id": "58032",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

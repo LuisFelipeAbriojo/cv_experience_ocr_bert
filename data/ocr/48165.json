@@ -1,0 +1,132 @@
+{
+  "lines": [
+    {
+      "text": "CHELSEA POOLE",
+      "score": 0.9997948408126831,
+      "box": [
+        116,
+        87,
+        404,
+        123
+      ]
+    },
+    {
+      "text": "SD, USA | +1-389-544-2154 | chelsea.poole@example.com",
+      "score": 0.9765217900276184,
+      "box": [
+        118,
+        152,
+        668,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9991125464439392,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, Compassion Spring Medical, 2021.032023.01",
+      "score": 0.9910687804222107,
+      "box": [
+        116,
+        287,
+        735,
+        317
+      ]
+    },
+    {
+      "text": "- Developed nursing policy frameworks",
+      "score": 0.9928731322288513,
+      "box": [
+        126,
+        313,
+        489,
+        343
+      ]
+    },
+    {
+      "text": "- Implemented care pathway frameworks",
+      "score": 0.9893821477890015,
+      "box": [
+        127,
+        339,
+        506,
+        368
+      ]
+    },
+    {
+      "text": "Registered Nurses, Harmony Life Care, 2017.09—2019.08",
+      "score": 0.9828699231147766,
+      "box": [
+        115,
+        379,
+        653,
+        410
+      ]
+    },
+    {
+      "text": "- Assisted with patient positioning",
+      "score": 0.9966204166412354,
+      "box": [
+        124,
+        406,
+        439,
+        435
+      ]
+    },
+    {
+      "text": "- Assisted with surgical prep",
+      "score": 0.9769177436828613,
+      "box": [
+        126,
+        429,
+        391,
+        461
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999081492424011,
+      "box": [
+        117,
+        494,
+        267,
+        521
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Pediatric Care, Ridgeway High School, 2012",
+      "score": 0.9997414946556091,
+      "box": [
+        117,
+        539,
+        789,
+        566
+      ]
+    },
+    {
+      "text": "•Completed coursework in suctioning techniques",
+      "score": 0.9904378056526184,
+      "box": [
+        133,
+        565,
+        591,
+        593
+      ]
+    }
+  ],
+  "seconds": 3.061753699555993,
+  "id": "48165",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

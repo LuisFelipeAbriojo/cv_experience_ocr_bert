@@ -1,0 +1,152 @@
+{
+  "lines": [
+    {
+      "text": "KARA LANG",
+      "score": 0.9980858564376831,
+      "box": [
+        117,
+        91,
+        318,
+        122
+      ]
+    },
+    {
+      "text": "RI, USA | +1-910-851-7479 | kara.lang@example.com",
+      "score": 0.9805841445922852,
+      "box": [
+        117,
+        151,
+        618,
+        177
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9991476535797119,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Open Path School, 2018.042020.11",
+      "score": 0.9942794442176819,
+      "box": [
+        117,
+        289,
+        807,
+        316
+      ]
+    },
+    {
+      "text": "- Developed student performance metrics",
+      "score": 0.9806683659553528,
+      "box": [
+        126,
+        315,
+        512,
+        340
+      ]
+    },
+    {
+      "text": "- Led academic improvement programs",
+      "score": 0.9798676371574402,
+      "box": [
+        127,
+        339,
+        492,
+        369
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Discovery Path Academy, 2015.012017.08",
+      "score": 0.994347870349884,
+      "box": [
+        116,
+        381,
+        872,
+        411
+      ]
+    },
+    {
+      "text": "- Collected permission forms",
+      "score": 0.9946609139442444,
+      "box": [
+        125,
+        406,
+        395,
+        435
+      ]
+    },
+    {
+      "text": "- Prepared lesson summaries",
+      "score": 0.9917449951171875,
+      "box": [
+        127,
+        430,
+        402,
+        462
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999110102653503,
+      "box": [
+        117,
+        494,
+        267,
+        521
+      ]
+    },
+    {
+      "text": "Master's, Learning Skills, Parkview University, 2009",
+      "score": 0.9879387617111206,
+      "box": [
+        116,
+        542,
+        595,
+        566
+      ]
+    },
+    {
+      "text": "Bachelor's, General Learning Studies, Clearhaven University, 2007",
+      "score": 0.9973178505897522,
+      "box": [
+        117,
+        567,
+        735,
+        591
+      ]
+    },
+    {
+      "text": "• Completed coursework in foundational assessment tools",
+      "score": 0.9926019310951233,
+      "box": [
+        131,
+        593,
+        671,
+        616
+      ]
+    },
+    {
+      "text": "•Studied principles of student comprehension",
+      "score": 0.975286066532135,
+      "box": [
+        131,
+        614,
+        561,
+        644
+      ]
+    }
+  ],
+  "seconds": 2.6875288002192974,
+  "id": "47176",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

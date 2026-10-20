@@ -1,0 +1,112 @@
+{
+  "lines": [
+    {
+      "text": "SIANNA EATON",
+      "score": 0.9994115829467773,
+      "box": [
+        117,
+        91,
+        373,
+        122
+      ]
+    },
+    {
+      "text": "PA, USA | +1-205-919-3440 | sianna.eaton@example.com",
+      "score": 0.9698141813278198,
+      "box": [
+        117,
+        152,
+        659,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9997254014015198,
+      "box": [
+        117,
+        243,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Bright Start School, 2021.10—2023.01",
+      "score": 0.9872069954872131,
+      "box": [
+        116,
+        288,
+        812,
+        318
+      ]
+    },
+    {
+      "text": "- Organized classroom learning resources",
+      "score": 0.9972795248031616,
+      "box": [
+        125,
+        314,
+        518,
+        343
+      ]
+    },
+    {
+      "text": "- Administered learning games",
+      "score": 0.9900454878807068,
+      "box": [
+        126,
+        338,
+        414,
+        369
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999464750289917,
+      "box": [
+        116,
+        404,
+        268,
+        431
+      ]
+    },
+    {
+      "text": "Bachelor's, Applied Education, Golden Meadow University, 2021",
+      "score": 0.9981215596199036,
+      "box": [
+        116,
+        448,
+        712,
+        475
+      ]
+    },
+    {
+      "text": "Completed introductory coursework in educational psychology",
+      "score": 0.9817243218421936,
+      "box": [
+        129,
+        472,
+        721,
+        502
+      ]
+    },
+    {
+      "text": "Studied principles of learning outcomes assessment",
+      "score": 0.9968256950378418,
+      "box": [
+        132,
+        497,
+        631,
+        526
+      ]
+    }
+  ],
+  "seconds": 2.0626557995565236,
+  "id": "46030",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

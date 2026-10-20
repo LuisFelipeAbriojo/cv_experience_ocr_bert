@@ -1,0 +1,212 @@
+{
+  "lines": [
+    {
+      "text": "JESSICA WILKERSON",
+      "score": 0.9988898038864136,
+      "box": [
+        116,
+        92,
+        473,
+        122
+      ]
+    },
+    {
+      "text": "SC, USA | +1-212-406-4689 | jessica.wilkerson@example.com",
+      "score": 0.9872416853904724,
+      "box": [
+        116,
+        150,
+        697,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9990715980529785,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Discovery Meadow School, 2019.08—2023.01",
+      "score": 0.9952497482299805,
+      "box": [
+        116,
+        289,
+        884,
+        319
+      ]
+    },
+    {
+      "text": "- Designed instructional accountability systems",
+      "score": 0.9940366744995117,
+      "box": [
+        125,
+        314,
+        563,
+        343
+      ]
+    },
+    {
+      "text": "- Implemented learning system upgrades",
+      "score": 0.9953077435493469,
+      "box": [
+        125,
+        338,
+        509,
+        370
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Bright Start Academy, 2016.032019.08",
+      "score": 0.9924177527427673,
+      "box": [
+        116,
+        381,
+        836,
+        411
+      ]
+    },
+    {
+      "text": "- Established instructional review cycles",
+      "score": 0.9947836995124817,
+      "box": [
+        127,
+        409,
+        496,
+        433
+      ]
+    },
+    {
+      "text": "- Implemented learning system upgrades",
+      "score": 0.9847865700721741,
+      "box": [
+        127,
+        431,
+        508,
+        459
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Sunny Meadow Academy, 2012.09—2016.03",
+      "score": 0.9861159920692444,
+      "box": [
+        118,
+        474,
+        873,
+        498
+      ]
+    },
+    {
+      "text": "- Prepared remediation materials",
+      "score": 0.9926637411117554,
+      "box": [
+        125,
+        497,
+        435,
+        525
+      ]
+    },
+    {
+      "text": "- Designed student support plans",
+      "score": 0.9991269111633301,
+      "box": [
+        127,
+        521,
+        436,
+        552
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Learning Roots Academy, 2009.03—2012.09",
+      "score": 0.9821158647537231,
+      "box": [
+        117,
+        565,
+        872,
+        592
+      ]
+    },
+    {
+      "text": "- Scheduled instructional activities",
+      "score": 0.9784817099571228,
+      "box": [
+        126,
+        590,
+        445,
+        615
+      ]
+    },
+    {
+      "text": "- Recorded student feedback",
+      "score": 0.9995172023773193,
+      "box": [
+        126,
+        614,
+        399,
+        642
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999258518218994,
+      "box": [
+        117,
+        681,
+        266,
+        705
+      ]
+    },
+    {
+      "text": "Master's, Teaching Studies, Clearstone University, 2007",
+      "score": 0.9994897842407227,
+      "box": [
+        116,
+        724,
+        637,
+        750
+      ]
+    },
+    {
+      "text": "Bachelor's, Instructional Support, Sagewood University, 2005",
+      "score": 0.9908083081245422,
+      "box": [
+        115,
+        746,
+        684,
+        777
+      ]
+    },
+    {
+      "text": "•Completed coursework in reading instruction",
+      "score": 0.9827365279197693,
+      "box": [
+        129,
+        773,
+        562,
+        801
+      ]
+    },
+    {
+      "text": "•Completed coursework in basic education law concepts",
+      "score": 0.9759855270385742,
+      "box": [
+        131,
+        797,
+        660,
+        828
+      ]
+    }
+  ],
+  "seconds": 3.4126241002231836,
+  "id": "47865",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

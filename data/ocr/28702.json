@@ -1,0 +1,142 @@
+{
+  "lines": [
+    {
+      "text": "JAMES PITTS",
+      "score": 0.9999076724052429,
+      "box": [
+        116,
+        91,
+        336,
+        122
+      ]
+    },
+    {
+      "text": "MN, USA | +1-262-550-3132 | james.pitts@example.com",
+      "score": 0.9843435287475586,
+      "box": [
+        115,
+        149,
+        644,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9997725486755371,
+      "box": [
+        117,
+        243,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Software Developers, Brightstack Systems, 2019.022021.01",
+      "score": 0.9985931515693665,
+      "box": [
+        116,
+        289,
+        684,
+        316
+      ]
+    },
+    {
+      "text": "- Implemented access control frameworks",
+      "score": 0.9992839097976685,
+      "box": [
+        129,
+        316,
+        515,
+        340
+      ]
+    },
+    {
+      "text": "- Implemented disaster recovery plans",
+      "score": 0.9980118274688721,
+      "box": [
+        128,
+        338,
+        484,
+        370
+      ]
+    },
+    {
+      "text": "Software Developers, Codepath Digital, 2016.022018.02",
+      "score": 0.9964383840560913,
+      "box": [
+        114,
+        379,
+        653,
+        410
+      ]
+    },
+    {
+      "text": "- Implemented basic authentication logic",
+      "score": 0.995232105255127,
+      "box": [
+        127,
+        409,
+        502,
+        433
+      ]
+    },
+    {
+      "text": "- Performed basic APl integrations",
+      "score": 0.961449921131134,
+      "box": [
+        127,
+        430,
+        448,
+        458
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999322891235352,
+      "box": [
+        117,
+        494,
+        268,
+        521
+      ]
+    },
+    {
+      "text": "Bachelor's, Edgewood University, 2008",
+      "score": 0.9915959239006042,
+      "box": [
+        115,
+        539,
+        481,
+        567
+      ]
+    },
+    {
+      "text": "•Studied fundamentals of game development",
+      "score": 0.9909588694572449,
+      "box": [
+        130,
+        567,
+        557,
+        591
+      ]
+    },
+    {
+      "text": "•Studied principles of distributed systems",
+      "score": 0.9856953620910645,
+      "box": [
+        132,
+        592,
+        520,
+        616
+      ]
+    }
+  ],
+  "seconds": 2.305823600385338,
+  "id": "28702",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

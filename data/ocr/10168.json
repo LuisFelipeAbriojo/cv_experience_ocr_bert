@@ -1,0 +1,132 @@
+{
+  "lines": [
+    {
+      "text": "DAVID CARLSON",
+      "score": 0.9964975118637085,
+      "box": [
+        118,
+        91,
+        397,
+        122
+      ]
+    },
+    {
+      "text": "CO, USA | +1-719-792-1319 | david.carlson@example.com",
+      "score": 0.9804440140724182,
+      "box": [
+        118,
+        152,
+        665,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9997446537017822,
+      "box": [
+        117,
+        243,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Construction Laborers, PrimeWay Construction, 2020.12—2023.01",
+      "score": 0.9845783710479736,
+      "box": [
+        117,
+        289,
+        726,
+        316
+      ]
+    },
+    {
+      "text": "- Managed multi-phase projects",
+      "score": 0.9993975162506104,
+      "box": [
+        125,
+        313,
+        423,
+        343
+      ]
+    },
+    {
+      "text": "- Reviewed site inspection reports",
+      "score": 0.9988585114479065,
+      "box": [
+        127,
+        339,
+        443,
+        368
+      ]
+    },
+    {
+      "text": "Construction Laborers, AnchorLine Contractors, 2018.10—2020.12",
+      "score": 0.9799606204032898,
+      "box": [
+        116,
+        380,
+        729,
+        408
+      ]
+    },
+    {
+      "text": "- Mixed concrete and mortar",
+      "score": 0.9969860315322876,
+      "box": [
+        125,
+        404,
+        392,
+        434
+      ]
+    },
+    {
+      "text": "- Transported waste materials",
+      "score": 0.9989471435546875,
+      "box": [
+        127,
+        433,
+        405,
+        456
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9998915791511536,
+      "box": [
+        117,
+        494,
+        268,
+        521
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Structural Technology, High Meadow High School, 2017",
+      "score": 0.9951798915863037,
+      "box": [
+        116,
+        539,
+        896,
+        567
+      ]
+    },
+    {
+      "text": "• Completed coursework in construction materials storage",
+      "score": 0.9916075468063354,
+      "box": [
+        132,
+        565,
+        669,
+        593
+      ]
+    }
+  ],
+  "seconds": 2.313816800247878,
+  "id": "10168",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

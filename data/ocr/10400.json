@@ -1,0 +1,212 @@
+{
+  "lines": [
+    {
+      "text": "ALLISON WOODWARD",
+      "score": 0.9998111128807068,
+      "box": [
+        117,
+        90,
+        484,
+        122
+      ]
+    },
+    {
+      "text": "CO, USA | +1-945-825-5068 | allison.woodward@example.com",
+      "score": 0.9907485842704773,
+      "box": [
+        116,
+        150,
+        704,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9990525245666504,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Cloudpath Digital, 2019.09—2023.01",
+      "score": 0.9860915541648865,
+      "box": [
+        117,
+        291,
+        653,
+        315
+      ]
+    },
+    {
+      "text": "- Designed system architectures",
+      "score": 0.9832496643066406,
+      "box": [
+        129,
+        317,
+        428,
+        341
+      ]
+    },
+    {
+      "text": "- Defined data governance policies",
+      "score": 0.9978533387184143,
+      "box": [
+        127,
+        340,
+        451,
+        368
+      ]
+    },
+    {
+      "text": "Software Developers, Cloudfield Digital, 2016.052019.09",
+      "score": 0.9984902143478394,
+      "box": [
+        116,
+        381,
+        654,
+        410
+      ]
+    },
+    {
+      "text": "- Designed software development workflows",
+      "score": 0.9975313544273376,
+      "box": [
+        125,
+        407,
+        538,
+        435
+      ]
+    },
+    {
+      "text": "- Defined code review processes",
+      "score": 0.9988557696342468,
+      "box": [
+        126,
+        432,
+        433,
+        458
+      ]
+    },
+    {
+      "text": "Software Developers, Softframe Labs, 2012.122016.05",
+      "score": 0.9981348514556885,
+      "box": [
+        118,
+        474,
+        637,
+        498
+      ]
+    },
+    {
+      "text": "- Developed configuration management tools",
+      "score": 0.9848450422286987,
+      "box": [
+        129,
+        500,
+        545,
+        524
+      ]
+    },
+    {
+      "text": "- Built frontend components",
+      "score": 0.9936984777450562,
+      "box": [
+        126,
+        521,
+        387,
+        551
+      ]
+    },
+    {
+      "text": "Software Developers, Flowline Tech, 2009.072012.12",
+      "score": 0.9947799444198608,
+      "box": [
+        117,
+        566,
+        626,
+        590
+      ]
+    },
+    {
+      "text": "- Performed basic APl integrations",
+      "score": 0.9769917726516724,
+      "box": [
+        125,
+        589,
+        449,
+        617
+      ]
+    },
+    {
+      "text": "- Reviewed test coverage reports",
+      "score": 0.9791337251663208,
+      "box": [
+        125,
+        612,
+        437,
+        645
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999902069568634,
+      "box": [
+        117,
+        681,
+        266,
+        705
+      ]
+    },
+    {
+      "text": "Master's, Clearbrook University, 2013",
+      "score": 0.9998756647109985,
+      "box": [
+        116,
+        724,
+        466,
+        750
+      ]
+    },
+    {
+      "text": "Bachelor's, Harvest University, 2011",
+      "score": 0.9877772927284241,
+      "box": [
+        116,
+        749,
+        454,
+        776
+      ]
+    },
+    {
+      "text": "• Completed coursework in thread synchronization",
+      "score": 0.9846784472465515,
+      "box": [
+        131,
+        775,
+        600,
+        799
+      ]
+    },
+    {
+      "text": "Studied principles of software usability",
+      "score": 0.9741731882095337,
+      "box": [
+        131,
+        798,
+        501,
+        827
+      ]
+    }
+  ],
+  "seconds": 2.6484442995861173,
+  "id": "10400",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

@@ -1,0 +1,172 @@
+{
+  "lines": [
+    {
+      "text": "GENNIFER CHOI",
+      "score": 0.9989681243896484,
+      "box": [
+        117,
+        89,
+        384,
+        122
+      ]
+    },
+    {
+      "text": "NY, USA | +1-223-687-3443 | gennifer.choi@example.com",
+      "score": 0.9925882816314697,
+      "box": [
+        116,
+        151,
+        659,
+        177
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9991295337677002,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, CoreBalance Financial, 2020.04—2023.01",
+      "score": 0.9922046661376953,
+      "box": [
+        116,
+        289,
+        708,
+        314
+      ]
+    },
+    {
+      "text": "- Established cost management systems",
+      "score": 0.998709499835968,
+      "box": [
+        126,
+        315,
+        503,
+        342
+      ]
+    },
+    {
+      "text": "- Directed strategic accounting initiatives",
+      "score": 0.9981032013893127,
+      "box": [
+        128,
+        341,
+        502,
+        367
+      ]
+    },
+    {
+      "text": "Accountants Auditors, AccuCount Solutions, 2017.06—2020.04",
+      "score": 0.9911127686500549,
+      "box": [
+        118,
+        383,
+        694,
+        407
+      ]
+    },
+    {
+      "text": "- Conducted variance investigations",
+      "score": 0.9991410374641418,
+      "box": [
+        125,
+        408,
+        459,
+        433
+      ]
+    },
+    {
+      "text": "- Reviewed budget performance",
+      "score": 0.9995042681694031,
+      "box": [
+        126,
+        431,
+        426,
+        459
+      ]
+    },
+    {
+      "text": "Accountants Auditors, EverTrust Accounting, 2014.08—2017.06",
+      "score": 0.9893633127212524,
+      "box": [
+        116,
+        471,
+        700,
+        499
+      ]
+    },
+    {
+      "text": "- Prepared account reconciliations",
+      "score": 0.9913263916969299,
+      "box": [
+        127,
+        499,
+        445,
+        523
+      ]
+    },
+    {
+      "text": "- Recorded cash receipts",
+      "score": 0.9821694493293762,
+      "box": [
+        127,
+        520,
+        362,
+        551
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9998812079429626,
+      "box": [
+        117,
+        587,
+        267,
+        614
+      ]
+    },
+    {
+      "text": "Bachelor's, Enterprise Management, Elm Ridge University, 2015",
+      "score": 0.9889895915985107,
+      "box": [
+        117,
+        632,
+        713,
+        659
+      ]
+    },
+    {
+      "text": "• Completed coursework in financial disclosure",
+      "score": 0.9961278438568115,
+      "box": [
+        132,
+        659,
+        566,
+        683
+      ]
+    },
+    {
+      "text": "Completed coursework in ethics in business",
+      "score": 0.9997678399085999,
+      "box": [
+        132,
+        680,
+        555,
+        709
+      ]
+    }
+  ],
+  "seconds": 2.896777800284326,
+  "id": "37528",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

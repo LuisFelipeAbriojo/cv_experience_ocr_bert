@@ -1,0 +1,182 @@
+{
+  "lines": [
+    {
+      "text": "WILLIAM POTTER",
+      "score": 0.9997543096542358,
+      "box": [
+        118,
+        92,
+        406,
+        122
+      ]
+    },
+    {
+      "text": "NY, USA | +1-871-771-9439 | william.potter@example.com",
+      "score": 0.9902991056442261,
+      "box": [
+        115,
+        149,
+        662,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9991946816444397,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, ClearBalance Advisors, 2020.04—2023.01",
+      "score": 0.9951421022415161,
+      "box": [
+        116,
+        289,
+        709,
+        314
+      ]
+    },
+    {
+      "text": "- Designed financial accountability systems",
+      "score": 0.9855651259422302,
+      "box": [
+        128,
+        315,
+        526,
+        341
+      ]
+    },
+    {
+      "text": "- Designed financial policy frameworks",
+      "score": 0.9980114102363586,
+      "box": [
+        127,
+        339,
+        485,
+        368
+      ]
+    },
+    {
+      "text": "Accountants Auditors, CoreLedger Advisors, 2017.06—2020.04",
+      "score": 0.9926106929779053,
+      "box": [
+        117,
+        382,
+        697,
+        409
+      ]
+    },
+    {
+      "text": "- Conducted account reconciliations",
+      "score": 0.9989075660705566,
+      "box": [
+        125,
+        407,
+        460,
+        433
+      ]
+    },
+    {
+      "text": "- Managed general ledger maintenance",
+      "score": 0.9856285452842712,
+      "box": [
+        128,
+        432,
+        493,
+        458
+      ]
+    },
+    {
+      "text": "Accountants Auditors, ClearLedger Services, 2013.012015.11",
+      "score": 0.9853084087371826,
+      "box": [
+        117,
+        472,
+        700,
+        499
+      ]
+    },
+    {
+      "text": "- Processed accounts payable invoices",
+      "score": 0.9995912313461304,
+      "box": [
+        125,
+        497,
+        491,
+        525
+      ]
+    },
+    {
+      "text": "- Reconciled subsidiary ledgers",
+      "score": 0.9841333031654358,
+      "box": [
+        127,
+        520,
+        421,
+        551
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999531507492065,
+      "box": [
+        118,
+        588,
+        266,
+        612
+      ]
+    },
+    {
+      "text": "Master's, Business Analytics, Northview University, 2005",
+      "score": 0.9906735420227051,
+      "box": [
+        117,
+        632,
+        639,
+        656
+      ]
+    },
+    {
+      "text": "Bachelor's, Auditing, Elm Ridge University, 2003",
+      "score": 0.9859916567802429,
+      "box": [
+        117,
+        659,
+        565,
+        683
+      ]
+    },
+    {
+      "text": "•Completed coursework in contribution margin analysis",
+      "score": 0.9776982665061951,
+      "box": [
+        132,
+        681,
+        649,
+        709
+      ]
+    },
+    {
+      "text": "•Completed coursework in payroll accounting",
+      "score": 0.9890681505203247,
+      "box": [
+        132,
+        706,
+        558,
+        736
+      ]
+    }
+  ],
+  "seconds": 2.5958775002509356,
+  "id": "38438",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

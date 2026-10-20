@@ -1,0 +1,112 @@
+{
+  "lines": [
+    {
+      "text": "ZARED TRAN",
+      "score": 0.9998084902763367,
+      "box": [
+        114,
+        87,
+        336,
+        123
+      ]
+    },
+    {
+      "text": "CA, USA | +1-349-875-9697 | zared.tran@example.com",
+      "score": 0.9789164066314697,
+      "box": [
+        116,
+        149,
+        635,
+        177
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9993512034416199,
+      "box": [
+        116,
+        243,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Accountants Auditors, FairBalance Advisors, 2018.04—2020.12",
+      "score": 0.9939463138580322,
+      "box": [
+        115,
+        288,
+        698,
+        313
+      ]
+    },
+    {
+      "text": "- Updated fixed asset registers",
+      "score": 0.9907863140106201,
+      "box": [
+        125,
+        313,
+        414,
+        342
+      ]
+    },
+    {
+      "text": "- Recorded cash receipts",
+      "score": 0.983521044254303,
+      "box": [
+        128,
+        338,
+        362,
+        367
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999496936798096,
+      "box": [
+        116,
+        404,
+        268,
+        431
+      ]
+    },
+    {
+      "text": "Bachelor's, Financial Management, Clear Ridge University, 2014",
+      "score": 0.9890135526657104,
+      "box": [
+        115,
+        446,
+        716,
+        475
+      ]
+    },
+    {
+      "text": "•Completed coursework in pension accounting basics",
+      "score": 0.9862880110740662,
+      "box": [
+        130,
+        472,
+        633,
+        500
+      ]
+    },
+    {
+      "text": "•Studied fundamentals of sustainability accounting basics",
+      "score": 0.980684220790863,
+      "box": [
+        131,
+        496,
+        669,
+        525
+      ]
+    }
+  ],
+  "seconds": 2.1099151000380516,
+  "id": "06825",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

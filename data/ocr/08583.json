@@ -1,0 +1,172 @@
+{
+  "lines": [
+    {
+      "text": "THOMAS HUDSON",
+      "score": 0.995401918888092,
+      "box": [
+        117,
+        91,
+        418,
+        121
+      ]
+    },
+    {
+      "text": "CA, USA | +1-547-422-8042 | thomas.hudson@example.com",
+      "score": 0.9938002824783325,
+      "box": [
+        118,
+        152,
+        683,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9658131003379822,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Skyline Tech, 2020.042023.01",
+      "score": 0.9870507121086121,
+      "box": [
+        117,
+        291,
+        615,
+        315
+      ]
+    },
+    {
+      "text": "- Led platform migrations",
+      "score": 0.996431291103363,
+      "box": [
+        127,
+        317,
+        361,
+        341
+      ]
+    },
+    {
+      "text": "- Designed CI/CD frameworks",
+      "score": 0.9826986789703369,
+      "box": [
+        127,
+        339,
+        407,
+        367
+      ]
+    },
+    {
+      "text": "Software Developers, Skyfield Tech, 2017.072020.04",
+      "score": 0.9855128526687622,
+      "box": [
+        117,
+        382,
+        623,
+        409
+      ]
+    },
+    {
+      "text": "- Built feature management systems",
+      "score": 0.9861047267913818,
+      "box": [
+        125,
+        408,
+        463,
+        433
+      ]
+    },
+    {
+      "text": "- Built notification systems",
+      "score": 0.9971283674240112,
+      "box": [
+        125,
+        429,
+        371,
+        461
+      ]
+    },
+    {
+      "text": "Software Developers, Datagrid Labs, 2014.092017.07",
+      "score": 0.9901716709136963,
+      "box": [
+        117,
+        472,
+        627,
+        499
+      ]
+    },
+    {
+      "text": "- Debugged runtime errors",
+      "score": 0.9707246422767639,
+      "box": [
+        126,
+        499,
+        375,
+        523
+      ]
+    },
+    {
+      "text": "- Assisted with Cl pipeline tasks",
+      "score": 0.9788293838500977,
+      "box": [
+        127,
+        521,
+        424,
+        549
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.99989914894104,
+      "box": [
+        117,
+        587,
+        267,
+        614
+      ]
+    },
+    {
+      "text": "Bachelor's, Northwood University, 2014",
+      "score": 0.9959489107131958,
+      "box": [
+        116,
+        631,
+        483,
+        657
+      ]
+    },
+    {
+      "text": "Studied fundamentals of compiler design",
+      "score": 0.9996953010559082,
+      "box": [
+        128,
+        655,
+        526,
+        685
+      ]
+    },
+    {
+      "text": "Completed coursework in schema design",
+      "score": 0.9997394680976868,
+      "box": [
+        132,
+        680,
+        529,
+        710
+      ]
+    }
+  ],
+  "seconds": 2.218731200322509,
+  "id": "08583",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

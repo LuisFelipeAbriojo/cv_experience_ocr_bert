@@ -1,0 +1,172 @@
+{
+  "lines": [
+    {
+      "text": "SARAI STOKES",
+      "score": 0.999621570110321,
+      "box": [
+        117,
+        91,
+        367,
+        122
+      ]
+    },
+    {
+      "text": "TX, USA | +1-248-255-5862 | sarai.stokes@example.com",
+      "score": 0.9781842827796936,
+      "box": [
+        119,
+        152,
+        648,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9955145716667175,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Datastream Labs, 2021.012023.01",
+      "score": 0.9946304559707642,
+      "box": [
+        115,
+        288,
+        654,
+        316
+      ]
+    },
+    {
+      "text": "- Reviewed system design documents",
+      "score": 0.9945371150970459,
+      "box": [
+        126,
+        315,
+        480,
+        341
+      ]
+    },
+    {
+      "text": "- Defined technical documentation standards",
+      "score": 0.9730362892150879,
+      "box": [
+        128,
+        340,
+        541,
+        365
+      ]
+    },
+    {
+      "text": "Software Developers, Flowstack Digital, 2017.042019.04",
+      "score": 0.9973548650741577,
+      "box": [
+        116,
+        382,
+        654,
+        409
+      ]
+    },
+    {
+      "text": "- Improved memory usage",
+      "score": 0.9857658743858337,
+      "box": [
+        126,
+        405,
+        375,
+        435
+      ]
+    },
+    {
+      "text": "- Implemented authentication workflows",
+      "score": 0.9783872365951538,
+      "box": [
+        128,
+        432,
+        496,
+        457
+      ]
+    },
+    {
+      "text": "Software Developers, Brightcrest Systems, 2014.042016.05",
+      "score": 0.9923005104064941,
+      "box": [
+        116,
+        471,
+        683,
+        499
+      ]
+    },
+    {
+      "text": "- Updated localization files",
+      "score": 0.9880415201187134,
+      "box": [
+        128,
+        499,
+        375,
+        523
+      ]
+    },
+    {
+      "text": "- Reviewed error reports",
+      "score": 0.9878588318824768,
+      "box": [
+        127,
+        520,
+        355,
+        551
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9998500347137451,
+      "box": [
+        117,
+        587,
+        267,
+        614
+      ]
+    },
+    {
+      "text": "Bachelor's, Willowview University, 2006",
+      "score": 0.9970458745956421,
+      "box": [
+        118,
+        633,
+        482,
+        657
+      ]
+    },
+    {
+      "text": "•Studied principles of linear algebra",
+      "score": 0.9818279147148132,
+      "box": [
+        130,
+        659,
+        469,
+        683
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of software metrics",
+      "score": 0.9877499938011169,
+      "box": [
+        131,
+        683,
+        531,
+        706
+      ]
+    }
+  ],
+  "seconds": 2.3022805000655353,
+  "id": "50281",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

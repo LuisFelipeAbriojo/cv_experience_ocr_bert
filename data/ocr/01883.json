@@ -1,0 +1,172 @@
+{
+  "lines": [
+    {
+      "text": "KODY FULLER",
+      "score": 0.9998205304145813,
+      "box": [
+        117,
+        91,
+        354,
+        121
+      ]
+    },
+    {
+      "text": "AZ, USA | +1-394-515-1765 |kody.fuller@example.com",
+      "score": 0.9763192534446716,
+      "box": [
+        118,
+        151,
+        631,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9991675019264221,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Stonegrid Labs, 2020.09—2023.01",
+      "score": 0.9927217960357666,
+      "box": [
+        117,
+        291,
+        635,
+        315
+      ]
+    },
+    {
+      "text": "- Led technical roadmap planning",
+      "score": 0.9822936058044434,
+      "box": [
+        128,
+        315,
+        438,
+        342
+      ]
+    },
+    {
+      "text": "- Implemented access control frameworks",
+      "score": 0.9967769980430603,
+      "box": [
+        129,
+        340,
+        515,
+        365
+      ]
+    },
+    {
+      "text": "Software Developers, Openfield Tech, 2018.052020.09",
+      "score": 0.9934768080711365,
+      "box": [
+        117,
+        382,
+        639,
+        409
+      ]
+    },
+    {
+      "text": "- Designed documentation templates",
+      "score": 0.9847168922424316,
+      "box": [
+        125,
+        406,
+        469,
+        435
+      ]
+    },
+    {
+      "text": "- Developed access control logic",
+      "score": 0.9952011108398438,
+      "box": [
+        126,
+        430,
+        431,
+        462
+      ]
+    },
+    {
+      "text": "Software Developers, Corecrest Labs, 2015.12—2018.05",
+      "score": 0.990885317325592,
+      "box": [
+        115,
+        469,
+        640,
+        500
+      ]
+    },
+    {
+      "text": "- Implemented REST endpoints",
+      "score": 0.9951146841049194,
+      "box": [
+        127,
+        495,
+        421,
+        525
+      ]
+    },
+    {
+      "text": "- Assisted with system documentation",
+      "score": 0.9901248216629028,
+      "box": [
+        128,
+        521,
+        478,
+        549
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999514818191528,
+      "box": [
+        118,
+        588,
+        266,
+        612
+      ]
+    },
+    {
+      "text": "Bachelor's, Sunnyside University, 2019",
+      "score": 0.9973266124725342,
+      "box": [
+        117,
+        632,
+        481,
+        659
+      ]
+    },
+    {
+      "text": "•Studied principles of test-driven development",
+      "score": 0.9808096885681152,
+      "box": [
+        130,
+        659,
+        565,
+        683
+      ]
+    },
+    {
+      "text": "•Studied principles of graph algorithms",
+      "score": 0.9794493317604065,
+      "box": [
+        129,
+        681,
+        498,
+        709
+      ]
+    }
+  ],
+  "seconds": 2.3908147998154163,
+  "id": "01883",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

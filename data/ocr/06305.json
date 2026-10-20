@@ -1,0 +1,152 @@
+{
+  "lines": [
+    {
+      "text": "DEON HOOVER",
+      "score": 0.9997532367706299,
+      "box": [
+        118,
+        91,
+        369,
+        122
+      ]
+    },
+    {
+      "text": "CA, USA | +1-930-699-3822 | deon.hoover@example.com",
+      "score": 0.9804743528366089,
+      "box": [
+        116,
+        150,
+        656,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9991574287414551,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, OpenLedger Financial, 2021.07-2023.01",
+      "score": 0.9851563572883606,
+      "box": [
+        114,
+        287,
+        706,
+        318
+      ]
+    },
+    {
+      "text": "- Established financial data governance",
+      "score": 0.9638066291809082,
+      "box": [
+        126,
+        315,
+        493,
+        342
+      ]
+    },
+    {
+      "text": "- Directed accounting leadership initiatives",
+      "score": 0.9921606183052063,
+      "box": [
+        127,
+        339,
+        521,
+        368
+      ]
+    },
+    {
+      "text": "Accountants Auditors, OpenLedger Accounting, 2019.12—2021.07",
+      "score": 0.9807093143463135,
+      "box": [
+        118,
+        383,
+        723,
+        407
+      ]
+    },
+    {
+      "text": "- Maintained vendor records",
+      "score": 0.9804626107215881,
+      "box": [
+        125,
+        407,
+        390,
+        432
+      ]
+    },
+    {
+      "text": "- Reviewed timesheets for payroll",
+      "score": 0.9852308630943298,
+      "box": [
+        126,
+        429,
+        439,
+        458
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999531507492065,
+      "box": [
+        116,
+        494,
+        268,
+        521
+      ]
+    },
+    {
+      "text": "Master's, Accounting, Westview University, 2017",
+      "score": 0.9920942187309265,
+      "box": [
+        117,
+        542,
+        567,
+        566
+      ]
+    },
+    {
+      "text": "Bachelor's, Applied Finance, Brookfield University, 2015",
+      "score": 0.9731106758117676,
+      "box": [
+        117,
+        566,
+        635,
+        590
+      ]
+    },
+    {
+      "text": "• Completed coursework in pension accounting basics",
+      "score": 0.9924965500831604,
+      "box": [
+        131,
+        593,
+        634,
+        617
+      ]
+    },
+    {
+      "text": "Completed coursework in performance measurement",
+      "score": 0.9883362054824829,
+      "box": [
+        130,
+        613,
+        641,
+        645
+      ]
+    }
+  ],
+  "seconds": 2.6395228998735547,
+  "id": "06305",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

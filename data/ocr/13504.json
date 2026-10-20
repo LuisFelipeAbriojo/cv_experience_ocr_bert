@@ -1,0 +1,202 @@
+{
+  "lines": [
+    {
+      "text": "MEGHAN PETERSEN",
+      "score": 0.9981376528739929,
+      "box": [
+        117,
+        92,
+        455,
+        122
+      ]
+    },
+    {
+      "text": "FL, USA | +1-565-335-6037 | meghan.petersen@example.com",
+      "score": 0.9830775260925293,
+      "box": [
+        116,
+        150,
+        698,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9989557266235352,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, CoreLedger Group, 2020.04—2023.01",
+      "score": 0.9855751991271973,
+      "box": [
+        115,
+        289,
+        673,
+        317
+      ]
+    },
+    {
+      "text": "- Led regulatory compliance initiatives",
+      "score": 0.9819302558898926,
+      "box": [
+        127,
+        315,
+        480,
+        343
+      ]
+    },
+    {
+      "text": "- Designed financial accountability systems",
+      "score": 0.9963542222976685,
+      "box": [
+        127,
+        340,
+        528,
+        368
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Reliable Accounts Advisors, 2017.072020.04",
+      "score": 0.993010401725769,
+      "box": [
+        117,
+        382,
+        754,
+        409
+      ]
+    },
+    {
+      "text": "- Developed accounting innovation plans",
+      "score": 0.9868543744087219,
+      "box": [
+        127,
+        409,
+        505,
+        433
+      ]
+    },
+    {
+      "text": "- Established compliance monitoring systems",
+      "score": 0.9839887619018555,
+      "box": [
+        127,
+        432,
+        546,
+        458
+      ]
+    },
+    {
+      "text": "Accountants Auditors, EverBalance Services, 2014.102017.07",
+      "score": 0.9989427328109741,
+      "box": [
+        117,
+        474,
+        704,
+        498
+      ]
+    },
+    {
+      "text": "- Managed accounts payable cycles",
+      "score": 0.9835798144340515,
+      "box": [
+        126,
+        499,
+        462,
+        526
+      ]
+    },
+    {
+      "text": "- Analyzed financial variances",
+      "score": 0.9937983155250549,
+      "box": [
+        127,
+        521,
+        407,
+        551
+      ]
+    },
+    {
+      "text": "Accountants Auditors, SolidCount Advisors, 2009.032011.12",
+      "score": 0.9953206181526184,
+      "box": [
+        117,
+        566,
+        688,
+        590
+      ]
+    },
+    {
+      "text": "- Prepared expense reports",
+      "score": 0.9992306232452393,
+      "box": [
+        125,
+        590,
+        385,
+        619
+      ]
+    },
+    {
+      "text": "- Filed financial documents",
+      "score": 0.9988471269607544,
+      "box": [
+        125,
+        614,
+        379,
+        643
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999205470085144,
+      "box": [
+        117,
+        681,
+        266,
+        705
+      ]
+    },
+    {
+      "text": "Bachelor's, Business Management, Brighton University, 2009",
+      "score": 0.9902762174606323,
+      "box": [
+        117,
+        726,
+        682,
+        749
+      ]
+    },
+    {
+      "text": "• Completed coursework in international taxation basics",
+      "score": 0.9794366955757141,
+      "box": [
+        133,
+        751,
+        647,
+        775
+      ]
+    },
+    {
+      "text": "Studied principles of financial regulations",
+      "score": 0.9868687391281128,
+      "box": [
+        132,
+        772,
+        528,
+        802
+      ]
+    }
+  ],
+  "seconds": 2.932401299942285,
+  "id": "13504",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

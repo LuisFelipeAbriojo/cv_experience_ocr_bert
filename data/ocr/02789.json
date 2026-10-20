@@ -1,0 +1,162 @@
+{
+  "lines": [
+    {
+      "text": "LILYANN FRYE",
+      "score": 0.998713493347168,
+      "box": [
+        118,
+        91,
+        362,
+        122
+      ]
+    },
+    {
+      "text": "CA, USA | +1-971-258-3859 | lilyann.frye@example.com",
+      "score": 0.9899196624755859,
+      "box": [
+        116,
+        150,
+        640,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9987999796867371,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, OpenLife Care Services, 2020.04—2023.01",
+      "score": 0.9744337201118469,
+      "box": [
+        116,
+        288,
+        697,
+        318
+      ]
+    },
+    {
+      "text": "- Managed long-term care strategies",
+      "score": 0.9988157153129578,
+      "box": [
+        125,
+        314,
+        466,
+        343
+      ]
+    },
+    {
+      "text": "- Developed clinical performance dashboards",
+      "score": 0.9923285841941833,
+      "box": [
+        129,
+        341,
+        548,
+        365
+      ]
+    },
+    {
+      "text": "Registered Nurses, GentleHands Nursing, 2017.062020.04",
+      "score": 0.9996403455734253,
+      "box": [
+        117,
+        382,
+        675,
+        409
+      ]
+    },
+    {
+      "text": "- Managed geriatric care plans",
+      "score": 0.9960415363311768,
+      "box": [
+        124,
+        406,
+        413,
+        434
+      ]
+    },
+    {
+      "text": "- Developed patient care plans",
+      "score": 0.9891738891601562,
+      "box": [
+        126,
+        430,
+        414,
+        459
+      ]
+    },
+    {
+      "text": "Registered Nurses, Helping Bridge Nursing, 2011.092014.07",
+      "score": 0.9894846677780151,
+      "box": [
+        117,
+        472,
+        690,
+        499
+      ]
+    },
+    {
+      "text": "- Assisted with physical therapy exercises",
+      "score": 0.999651312828064,
+      "box": [
+        127,
+        497,
+        515,
+        525
+      ]
+    },
+    {
+      "text": "- Prepared intravenous solutions",
+      "score": 0.9954183101654053,
+      "box": [
+        128,
+        520,
+        432,
+        552
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9998762607574463,
+      "box": [
+        117,
+        586,
+        267,
+        613
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Nursing, Westbrook High School, 2006",
+      "score": 0.9884282946586609,
+      "box": [
+        117,
+        632,
+        737,
+        659
+      ]
+    },
+    {
+      "text": "• Studied principles of disease prevention",
+      "score": 0.9712168574333191,
+      "box": [
+        131,
+        659,
+        518,
+        683
+      ]
+    }
+  ],
+  "seconds": 2.604561500251293,
+  "id": "02789",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

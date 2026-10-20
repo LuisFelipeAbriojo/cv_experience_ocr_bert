@@ -1,0 +1,152 @@
+{
+  "lines": [
+    {
+      "text": "JESSICA BLACKBURN",
+      "score": 0.9945670962333679,
+      "box": [
+        115,
+        89,
+        483,
+        122
+      ]
+    },
+    {
+      "text": "TN, USA | +1-690-458-8991 | jessica.blackburn@example.com",
+      "score": 0.9905295968055725,
+      "box": [
+        119,
+        152,
+        699,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9906715750694275,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Caring Path School, 2020.08—2023.01",
+      "score": 0.9845044016838074,
+      "box": [
+        117,
+        289,
+        816,
+        316
+      ]
+    },
+    {
+      "text": "- Led instructional technology integration",
+      "score": 0.9994416832923889,
+      "box": [
+        126,
+        315,
+        504,
+        341
+      ]
+    },
+    {
+      "text": "- Led academic improvement programs",
+      "score": 0.9974451065063477,
+      "box": [
+        127,
+        339,
+        493,
+        369
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Future Grove Academy, 2018.02—2020.08",
+      "score": 0.9785668849945068,
+      "box": [
+        117,
+        382,
+        853,
+        409
+      ]
+    },
+    {
+      "text": "- Supported individual student learning activities",
+      "score": 0.9896509051322937,
+      "box": [
+        126,
+        409,
+        571,
+        433
+      ]
+    },
+    {
+      "text": "- Provided math drill exercises",
+      "score": 0.9872137308120728,
+      "box": [
+        127,
+        430,
+        410,
+        456
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999397993087769,
+      "box": [
+        116,
+        494,
+        267,
+        521
+      ]
+    },
+    {
+      "text": "Master's, Education Preparation, Clearwater University, 2016",
+      "score": 0.9914563894271851,
+      "box": [
+        116,
+        541,
+        683,
+        568
+      ]
+    },
+    {
+      "text": "Bachelor's, Learning Support Studies, Stonefield University, 2014",
+      "score": 0.983630895614624,
+      "box": [
+        117,
+        567,
+        721,
+        591
+      ]
+    },
+    {
+      "text": "• Completed coursework in mathematics education basics",
+      "score": 0.997267484664917,
+      "box": [
+        131,
+        593,
+        669,
+        616
+      ]
+    },
+    {
+      "text": "Studied principles of student participation",
+      "score": 0.9770228266716003,
+      "box": [
+        131,
+        615,
+        530,
+        644
+      ]
+    }
+  ],
+  "seconds": 2.8894734997302294,
+  "id": "48429",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

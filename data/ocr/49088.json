@@ -1,0 +1,142 @@
+{
+  "lines": [
+    {
+      "text": "AUTUMN ANDERSEN",
+      "score": 0.9997655749320984,
+      "box": [
+        117,
+        89,
+        458,
+        122
+      ]
+    },
+    {
+      "text": "TN, USA | +1-867-566-7776 | autumn.andersen@example.com",
+      "score": 0.9883663654327393,
+      "box": [
+        117,
+        149,
+        703,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9991157650947571,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, TrueSpring Nursing, 2020.06—2023.01",
+      "score": 0.9792945384979248,
+      "box": [
+        115,
+        287,
+        657,
+        318
+      ]
+    },
+    {
+      "text": "- Managed clinical risk assessments",
+      "score": 0.9775046110153198,
+      "box": [
+        126,
+        314,
+        463,
+        341
+      ]
+    },
+    {
+      "text": "- Led nursing audit programs",
+      "score": 0.9598187208175659,
+      "box": [
+        127,
+        339,
+        397,
+        369
+      ]
+    },
+    {
+      "text": "Registered Nurses, NewSpring Care Center, 2017.112020.06",
+      "score": 0.9929299354553223,
+      "box": [
+        115,
+        379,
+        698,
+        410
+      ]
+    },
+    {
+      "text": "- Assisted with feeding patients",
+      "score": 0.9707640409469604,
+      "box": [
+        124,
+        406,
+        418,
+        433
+      ]
+    },
+    {
+      "text": "- Monitored intravenous lines",
+      "score": 0.9775151014328003,
+      "box": [
+        126,
+        430,
+        398,
+        456
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999399185180664,
+      "box": [
+        116,
+        494,
+        267,
+        521
+      ]
+    },
+    {
+      "text": "Bachelor's, Health Education, Stonebrook University, 2015",
+      "score": 0.9891852140426636,
+      "box": [
+        116,
+        540,
+        659,
+        566
+      ]
+    },
+    {
+      "text": "•Studied fundamentals of clinical supervision",
+      "score": 0.9884137511253357,
+      "box": [
+        130,
+        566,
+        552,
+        591
+      ]
+    },
+    {
+      "text": "• Completed coursework in health promotion",
+      "score": 0.9781630635261536,
+      "box": [
+        132,
+        591,
+        545,
+        616
+      ]
+    }
+  ],
+  "seconds": 3.8828383996151388,
+  "id": "49088",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

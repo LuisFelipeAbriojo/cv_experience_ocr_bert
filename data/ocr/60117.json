@@ -1,0 +1,202 @@
+{
+  "lines": [
+    {
+      "text": "REBECCA SULLIVAN",
+      "score": 0.9998736381530762,
+      "box": [
+        116,
+        89,
+        459,
+        122
+      ]
+    },
+    {
+      "text": "WV, USA | +1-579-211-8029 | rebecca.sullivan@example.com",
+      "score": 0.995618999004364,
+      "box": [
+        115,
+        150,
+        696,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9989409446716309,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Reliable Accounts Co., 2018.09—2023.01",
+      "score": 0.9811564683914185,
+      "box": [
+        115,
+        288,
+        705,
+        316
+      ]
+    },
+    {
+      "text": "- Established tax compliance frameworks",
+      "score": 0.9853585958480835,
+      "box": [
+        127,
+        317,
+        508,
+        341
+      ]
+    },
+    {
+      "text": "- Directed enterprise accounting platforms",
+      "score": 0.9775378704071045,
+      "box": [
+        127,
+        340,
+        517,
+        369
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Balanced Path Financial, 2014.042018.09",
+      "score": 0.9931628108024597,
+      "box": [
+        117,
+        382,
+        725,
+        407
+      ]
+    },
+    {
+      "text": "- Designed audit methodologies",
+      "score": 0.9972863793373108,
+      "box": [
+        125,
+        407,
+        425,
+        435
+      ]
+    },
+    {
+      "text": "- Established financial data governance",
+      "score": 0.9977717995643616,
+      "box": [
+        126,
+        431,
+        493,
+        458
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Accurate Balance Advisors, 2008.03—2012.08",
+      "score": 0.9916437268257141,
+      "box": [
+        115,
+        471,
+        750,
+        499
+      ]
+    },
+    {
+      "text": "- Managed monthly close processes",
+      "score": 0.98520427942276,
+      "box": [
+        125,
+        498,
+        465,
+        526
+      ]
+    },
+    {
+      "text": "- Analyzed financial trends",
+      "score": 0.9967026114463806,
+      "box": [
+        127,
+        521,
+        375,
+        550
+      ]
+    },
+    {
+      "text": "Accountants Auditors, CoreCount Services, 2003.04—2007.09",
+      "score": 0.9910596013069153,
+      "box": [
+        117,
+        566,
+        686,
+        590
+      ]
+    },
+    {
+      "text": "- Maintained chart of accounts",
+      "score": 0.975091278553009,
+      "box": [
+        127,
+        592,
+        410,
+        615
+      ]
+    },
+    {
+      "text": "- Processed journal corrections",
+      "score": 0.9908093810081482,
+      "box": [
+        126,
+        614,
+        418,
+        644
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9998867511749268,
+      "box": [
+        117,
+        681,
+        266,
+        705
+      ]
+    },
+    {
+      "text": "Bachelor's, Enterprise Management, Meadowfield University, 2002",
+      "score": 0.9938523173332214,
+      "box": [
+        117,
+        726,
+        732,
+        749
+      ]
+    },
+    {
+      "text": "•Studied fundamentals of employee benefit accounting",
+      "score": 0.9864429831504822,
+      "box": [
+        130,
+        748,
+        645,
+        777
+      ]
+    },
+    {
+      "text": "Completed coursework in financial controls",
+      "score": 0.9996979236602783,
+      "box": [
+        132,
+        772,
+        546,
+        800
+      ]
+    }
+  ],
+  "seconds": 2.934096199925989,
+  "id": "60117",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

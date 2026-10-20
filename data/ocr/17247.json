@@ -1,0 +1,142 @@
+{
+  "lines": [
+    {
+      "text": "LIDIA OBRIEN",
+      "score": 0.9994891285896301,
+      "box": [
+        117,
+        90,
+        345,
+        122
+      ]
+    },
+    {
+      "text": "IL, USA | +1-972-252-7225 | lidia.obrien@example.com",
+      "score": 0.973164975643158,
+      "box": [
+        118,
+        152,
+        629,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9991734027862549,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Integrity Ledger Financial, 2021.072023.01",
+      "score": 0.9799565076828003,
+      "box": [
+        115,
+        288,
+        734,
+        318
+      ]
+    },
+    {
+      "text": "- Designed financial control environments",
+      "score": 0.9977576732635498,
+      "box": [
+        126,
+        315,
+        512,
+        340
+      ]
+    },
+    {
+      "text": "- Established financial data governance",
+      "score": 0.9964414834976196,
+      "box": [
+        127,
+        339,
+        493,
+        367
+      ]
+    },
+    {
+      "text": "Accountants Auditors, OpenBooks Financial Group, 2020.01—2021.07",
+      "score": 0.9908881187438965,
+      "box": [
+        115,
+        379,
+        764,
+        410
+      ]
+    },
+    {
+      "text": "- Matched invoices to purchase orders",
+      "score": 0.9820282459259033,
+      "box": [
+        125,
+        407,
+        483,
+        433
+      ]
+    },
+    {
+      "text": "- Assisted with forecasting data",
+      "score": 0.9911985397338867,
+      "box": [
+        127,
+        430,
+        420,
+        458
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999361038208008,
+      "box": [
+        117,
+        494,
+        267,
+        521
+      ]
+    },
+    {
+      "text": "Bachelor's, Government Accounting, Stoneview University, 2020",
+      "score": 0.9981018304824829,
+      "box": [
+        115,
+        539,
+        712,
+        567
+      ]
+    },
+    {
+      "text": "Studied principles of business strategy",
+      "score": 0.9991496205329895,
+      "box": [
+        128,
+        563,
+        505,
+        595
+      ]
+    },
+    {
+      "text": "Studied principles of financial forecasting",
+      "score": 0.9892009496688843,
+      "box": [
+        130,
+        589,
+        526,
+        619
+      ]
+    }
+  ],
+  "seconds": 2.399408099707216,
+  "id": "17247",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

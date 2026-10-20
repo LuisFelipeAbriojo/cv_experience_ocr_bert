@@ -1,0 +1,202 @@
+{
+  "lines": [
+    {
+      "text": "ISAIAH SHAH",
+      "score": 0.9976403713226318,
+      "box": [
+        117,
+        91,
+        335,
+        122
+      ]
+    },
+    {
+      "text": "WA, USA | +1-576-502-4762 | isaiah.shah@example.com",
+      "score": 0.9864323139190674,
+      "box": [
+        117,
+        152,
+        650,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9991553425788879,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, TrueWay Contractors, 2020.05—2023.01",
+      "score": 0.9871828556060791,
+      "box": [
+        116,
+        288,
+        705,
+        316
+      ]
+    },
+    {
+      "text": "- Directed installation methodologies",
+      "score": 0.9995214939117432,
+      "box": [
+        126,
+        315,
+        465,
+        341
+      ]
+    },
+    {
+      "text": "- Developed construction standards",
+      "score": 0.9823519587516785,
+      "box": [
+        129,
+        341,
+        457,
+        365
+      ]
+    },
+    {
+      "text": "Construction Laborers, CornerLine Contractors, 2017.082020.05",
+      "score": 0.9979933500289917,
+      "box": [
+        118,
+        383,
+        725,
+        407
+      ]
+    },
+    {
+      "text": "- Reviewed material specifications",
+      "score": 0.9909273982048035,
+      "box": [
+        125,
+        407,
+        446,
+        433
+      ]
+    },
+    {
+      "text": "- Directed quality assurance programs",
+      "score": 0.9754538536071777,
+      "box": [
+        127,
+        431,
+        481,
+        460
+      ]
+    },
+    {
+      "text": "Construction Laborers, ClearLine Builders, 2014.112017.08",
+      "score": 0.9907923340797424,
+      "box": [
+        116,
+        471,
+        680,
+        499
+      ]
+    },
+    {
+      "text": "- Supervised junior laborers",
+      "score": 0.9839954376220703,
+      "box": [
+        127,
+        500,
+        386,
+        524
+      ]
+    },
+    {
+      "text": "- Installed support beams",
+      "score": 0.9946177005767822,
+      "box": [
+        127,
+        521,
+        364,
+        551
+      ]
+    },
+    {
+      "text": "Construction Laborers, PrimeRise Builders, 2009.05—2012.02",
+      "score": 0.9828797578811646,
+      "box": [
+        118,
+        566,
+        686,
+        590
+      ]
+    },
+    {
+      "text": "- Carried materials to designated work areas",
+      "score": 0.9958999752998352,
+      "box": [
+        128,
+        592,
+        541,
+        616
+      ]
+    },
+    {
+      "text": "- Assisted with drywall installation",
+      "score": 0.9979032874107361,
+      "box": [
+        128,
+        615,
+        440,
+        640
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999353885650635,
+      "box": [
+        117,
+        681,
+        266,
+        705
+      ]
+    },
+    {
+      "text": "Some college (no degree), Building Systems, Oakview University, 2006",
+      "score": 0.9986189603805542,
+      "box": [
+        116,
+        723,
+        777,
+        750
+      ]
+    },
+    {
+      "text": "•Completed coursework in construction materials handling",
+      "score": 0.982826828956604,
+      "box": [
+        131,
+        748,
+        678,
+        776
+      ]
+    },
+    {
+      "text": "Studied principles of building permits overview",
+      "score": 0.9973788261413574,
+      "box": [
+        131,
+        772,
+        578,
+        801
+      ]
+    }
+  ],
+  "seconds": 3.2413409003056586,
+  "id": "58649",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

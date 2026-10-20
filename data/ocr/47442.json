@@ -1,0 +1,112 @@
+{
+  "lines": [
+    {
+      "text": "JOSHUA DANIEL",
+      "score": 0.9832201600074768,
+      "box": [
+        116,
+        91,
+        391,
+        122
+      ]
+    },
+    {
+      "text": "SC, USA | +1-513-481-9127 | joshua.daniel@example.com",
+      "score": 0.9858289957046509,
+      "box": [
+        118,
+        152,
+        663,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9997565150260925,
+      "box": [
+        117,
+        243,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Clear Path Academy, 2021.06—2023.01",
+      "score": 0.9798110723495483,
+      "box": [
+        117,
+        289,
+        827,
+        316
+      ]
+    },
+    {
+      "text": "- Monitored independent work sessions",
+      "score": 0.9958797097206116,
+      "box": [
+        126,
+        315,
+        492,
+        341
+      ]
+    },
+    {
+      "text": "- Conducted reading practice sessions",
+      "score": 0.9882625937461853,
+      "box": [
+        128,
+        339,
+        485,
+        368
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999943196773529,
+      "box": [
+        116,
+        404,
+        268,
+        431
+      ]
+    },
+    {
+      "text": "Bachelor's, Instructional Support, Silverton University, 2023",
+      "score": 0.9840220212936401,
+      "box": [
+        115,
+        446,
+        665,
+        475
+      ]
+    },
+    {
+      "text": "Completed coursework in basic instructional coaching",
+      "score": 0.9978851079940796,
+      "box": [
+        131,
+        471,
+        645,
+        501
+      ]
+    },
+    {
+      "text": "Completed coursework in student-centered learning",
+      "score": 0.9835421442985535,
+      "box": [
+        132,
+        495,
+        627,
+        528
+      ]
+    }
+  ],
+  "seconds": 2.585174299776554,
+  "id": "47442",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

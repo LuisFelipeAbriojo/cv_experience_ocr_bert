@@ -1,0 +1,112 @@
+{
+  "lines": [
+    {
+      "text": "RONNIE RHODES",
+      "score": 0.9780600666999817,
+      "box": [
+        116,
+        89,
+        401,
+        123
+      ]
+    },
+    {
+      "text": "CO, USA | +1-521-336-3724 | ronnie.rhodes@example.com",
+      "score": 0.9898577928543091,
+      "box": [
+        117,
+        150,
+        671,
+        177
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9997641444206238,
+      "box": [
+        117,
+        243,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Accountants Auditors, ClearLedger Group, 2020.122023.01",
+      "score": 0.9968227744102478,
+      "box": [
+        117,
+        290,
+        676,
+        314
+      ]
+    },
+    {
+      "text": "- Prepared supporting schedules",
+      "score": 0.9912498593330383,
+      "box": [
+        127,
+        314,
+        432,
+        342
+      ]
+    },
+    {
+      "text": "- Updated general ledger records",
+      "score": 0.9879984855651855,
+      "box": [
+        128,
+        339,
+        436,
+        367
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999136328697205,
+      "box": [
+        116,
+        404,
+        268,
+        431
+      ]
+    },
+    {
+      "text": "Bachelor's, Corporate Finance, Stonebridge University, 2023",
+      "score": 0.9896440505981445,
+      "box": [
+        116,
+        448,
+        678,
+        475
+      ]
+    },
+    {
+      "text": "Completed coursework in intermediate accounting",
+      "score": 0.9894852042198181,
+      "box": [
+        129,
+        472,
+        612,
+        501
+      ]
+    },
+    {
+      "text": "Studied fundamentals of auditing",
+      "score": 0.9847536087036133,
+      "box": [
+        131,
+        494,
+        454,
+        526
+      ]
+    }
+  ],
+  "seconds": 1.9172561997547746,
+  "id": "10568",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

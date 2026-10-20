@@ -1,0 +1,202 @@
+{
+  "lines": [
+    {
+      "text": "ERIN LIVINGSTON",
+      "score": 0.9951736330986023,
+      "box": [
+        118,
+        92,
+        411,
+        122
+      ]
+    },
+    {
+      "text": "CA, USA | +1-921-473-9977 | erin.livingston@example.com",
+      "score": 0.9753985404968262,
+      "box": [
+        116,
+        150,
+        668,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9988835453987122,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Integrity Books Financial, 2019.05—2023.01",
+      "score": 0.9800981283187866,
+      "box": [
+        114,
+        287,
+        728,
+        318
+      ]
+    },
+    {
+      "text": "- Led internal audit functions",
+      "score": 0.9789761900901794,
+      "box": [
+        128,
+        315,
+        392,
+        340
+      ]
+    },
+    {
+      "text": "- Designed budgeting methodologies",
+      "score": 0.9972741603851318,
+      "box": [
+        127,
+        340,
+        469,
+        368
+      ]
+    },
+    {
+      "text": "Accountants Auditors, SteadyCount Advisors, 2015.092019.05",
+      "score": 0.9956411123275757,
+      "box": [
+        117,
+        382,
+        708,
+        409
+      ]
+    },
+    {
+      "text": "- Developed internal control systems",
+      "score": 0.9700583219528198,
+      "box": [
+        127,
+        409,
+        466,
+        433
+      ]
+    },
+    {
+      "text": "- Developed audit quality standards",
+      "score": 0.9980570077896118,
+      "box": [
+        129,
+        434,
+        456,
+        457
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Integrity Count Financial, 2011.072015.03",
+      "score": 0.9928812980651855,
+      "box": [
+        117,
+        472,
+        726,
+        499
+      ]
+    },
+    {
+      "text": "- Prepared audit reports",
+      "score": 0.9993297457695007,
+      "box": [
+        125,
+        497,
+        351,
+        526
+      ]
+    },
+    {
+      "text": "- Prepared cash flow statements",
+      "score": 0.980756402015686,
+      "box": [
+        127,
+        521,
+        430,
+        549
+      ]
+    },
+    {
+      "text": "Accountants Auditors, CoreLedger Financial, 2007.042010.12",
+      "score": 0.9992581605911255,
+      "box": [
+        118,
+        566,
+        700,
+        590
+      ]
+    },
+    {
+      "text": "- Reviewed ledger postings",
+      "score": 0.9996005296707153,
+      "box": [
+        125,
+        589,
+        384,
+        618
+      ]
+    },
+    {
+      "text": "- Processed accounts payable invoices",
+      "score": 0.9973912835121155,
+      "box": [
+        127,
+        614,
+        490,
+        643
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9998889565467834,
+      "box": [
+        117,
+        681,
+        266,
+        705
+      ]
+    },
+    {
+      "text": "Bachelor's, Information Systems, Windridge University, 2002",
+      "score": 0.986175537109375,
+      "box": [
+        117,
+        726,
+        676,
+        749
+      ]
+    },
+    {
+      "text": "• Completed coursework in accounting analytics basics",
+      "score": 0.9936670064926147,
+      "box": [
+        132,
+        749,
+        642,
+        775
+      ]
+    },
+    {
+      "text": "Studied principles of transfer pricing",
+      "score": 0.9997326731681824,
+      "box": [
+        132,
+        772,
+        481,
+        802
+      ]
+    }
+  ],
+  "seconds": 2.905212299898267,
+  "id": "03839",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

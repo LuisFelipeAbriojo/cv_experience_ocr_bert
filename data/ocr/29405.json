@@ -1,0 +1,102 @@
+{
+  "lines": [
+    {
+      "text": "DONOVAN FISCHER",
+      "score": 0.9926110506057739,
+      "box": [
+        117,
+        89,
+        445,
+        123
+      ]
+    },
+    {
+      "text": "MN, USA | +1-233-473-6227 | donovan.fischer@example.com",
+      "score": 0.9806394577026367,
+      "box": [
+        115,
+        149,
+        692,
+        177
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9997454285621643,
+      "box": [
+        117,
+        243,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Construction Laborers, ClearWay Construction, 2017.122020.07",
+      "score": 0.9889970421791077,
+      "box": [
+        118,
+        290,
+        722,
+        314
+      ]
+    },
+    {
+      "text": "- Assisted with excavation tasks",
+      "score": 0.9930444359779358,
+      "box": [
+        126,
+        316,
+        424,
+        339
+      ]
+    },
+    {
+      "text": "- Maintained tool storage areas",
+      "score": 0.9826414585113525,
+      "box": [
+        127,
+        339,
+        418,
+        366
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.99992436170578,
+      "box": [
+        116,
+        404,
+        268,
+        431
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Construction Site Management, Skycrest High School, 2017",
+      "score": 0.9859907627105713,
+      "box": [
+        117,
+        448,
+        932,
+        475
+      ]
+    },
+    {
+      "text": "Completed coursework in basic painting techniques",
+      "score": 0.9754042625427246,
+      "box": [
+        130,
+        470,
+        626,
+        503
+      ]
+    }
+  ],
+  "seconds": 2.0443103997968137,
+  "id": "29405",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

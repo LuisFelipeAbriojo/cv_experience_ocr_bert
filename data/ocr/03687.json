@@ -1,0 +1,192 @@
+{
+  "lines": [
+    {
+      "text": "WILLIAM FLYNN",
+      "score": 0.9995257258415222,
+      "box": [
+        117,
+        91,
+        381,
+        122
+      ]
+    },
+    {
+      "text": "CA, USA | +1-255-661-7704 | william.flynn@example.com",
+      "score": 0.97795569896698,
+      "box": [
+        116,
+        150,
+        653,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9990952610969543,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, SolidBuild Group, 2017.09—2023.01",
+      "score": 0.9820424318313599,
+      "box": [
+        116,
+        288,
+        664,
+        316
+      ]
+    },
+    {
+      "text": "- Developed construction workflows",
+      "score": 0.9880346655845642,
+      "box": [
+        126,
+        315,
+        457,
+        341
+      ]
+    },
+    {
+      "text": "- Managed large-scale installations",
+      "score": 0.9765352606773376,
+      "box": [
+        127,
+        339,
+        453,
+        368
+      ]
+    },
+    {
+      "text": "Construction Laborers, MasterCraft Builders, 2012.052017.09",
+      "score": 0.9918350577354431,
+      "box": [
+        118,
+        383,
+        698,
+        407
+      ]
+    },
+    {
+      "text": "- Designed site safety protocols",
+      "score": 0.9876518249511719,
+      "box": [
+        127,
+        409,
+        421,
+        433
+      ]
+    },
+    {
+      "text": "- Established site layout plans",
+      "score": 0.9732121229171753,
+      "box": [
+        127,
+        431,
+        405,
+        459
+      ]
+    },
+    {
+      "text": "Construction Laborers, WorkLine Contractors, 2007.012012.05",
+      "score": 0.9891558885574341,
+      "box": [
+        118,
+        473,
+        710,
+        497
+      ]
+    },
+    {
+      "text": "- Led small work crews",
+      "score": 0.9996188879013062,
+      "box": [
+        126,
+        497,
+        343,
+        523
+      ]
+    },
+    {
+      "text": "- Supervised junior laborers",
+      "score": 0.988498866558075,
+      "box": [
+        127,
+        521,
+        386,
+        550
+      ]
+    },
+    {
+      "text": "Construction Laborers, AnchorPoint Builders, 2000.08—2006.01",
+      "score": 0.9858888387680054,
+      "box": [
+        118,
+        566,
+        701,
+        590
+      ]
+    },
+    {
+      "text": "- Measured and cut basic building materials",
+      "score": 0.9962093234062195,
+      "box": [
+        125,
+        589,
+        533,
+        617
+      ]
+    },
+    {
+      "text": "- Operated hand tools for assembly tasks",
+      "score": 0.9791916012763977,
+      "box": [
+        126,
+        614,
+        510,
+        642
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999271035194397,
+      "box": [
+        117,
+        681,
+        266,
+        705
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Masonry, Greenwood Ridge High School, 1998",
+      "score": 0.9965413212776184,
+      "box": [
+        116,
+        724,
+        813,
+        750
+      ]
+    },
+    {
+      "text": "• Studied principles of construction documentation",
+      "score": 0.9754368662834167,
+      "box": [
+        131,
+        750,
+        598,
+        773
+      ]
+    }
+  ],
+  "seconds": 2.799594799987972,
+  "id": "03687",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

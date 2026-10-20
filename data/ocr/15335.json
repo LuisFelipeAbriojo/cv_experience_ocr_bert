@@ -1,0 +1,202 @@
+{
+  "lines": [
+    {
+      "text": "LEA ESTES",
+      "score": 0.9507863521575928,
+      "box": [
+        116,
+        91,
+        302,
+        122
+      ]
+    },
+    {
+      "text": "GA, USA | +1-296-457-5614 | lea.estes@example.com",
+      "score": 0.9848106503486633,
+      "box": [
+        116,
+        150,
+        625,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9990290999412537,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, SunWay Care Group, 2020.06—2023.01",
+      "score": 0.9758467674255371,
+      "box": [
+        115,
+        287,
+        669,
+        318
+      ]
+    },
+    {
+      "text": "- Established clinical best practices",
+      "score": 0.9959877729415894,
+      "box": [
+        125,
+        313,
+        455,
+        344
+      ]
+    },
+    {
+      "text": "- Implemented evidence-based practice models",
+      "score": 0.9969615936279297,
+      "box": [
+        126,
+        337,
+        569,
+        369
+      ]
+    },
+    {
+      "text": "Registered Nurses, TrueBridge Nursing, 2017.112020.06",
+      "score": 0.9966961741447449,
+      "box": [
+        116,
+        381,
+        657,
+        410
+      ]
+    },
+    {
+      "text": "- Directed emergency response planning",
+      "score": 0.9986796379089355,
+      "box": [
+        124,
+        406,
+        505,
+        436
+      ]
+    },
+    {
+      "text": "- Established quality assurance systems",
+      "score": 0.9995372295379639,
+      "box": [
+        126,
+        432,
+        500,
+        458
+      ]
+    },
+    {
+      "text": "Registered Nurses, SunWay Nursing, 2013.112016.06",
+      "score": 0.9830079078674316,
+      "box": [
+        118,
+        474,
+        632,
+        498
+      ]
+    },
+    {
+      "text": "- Interpreted laboratory results",
+      "score": 0.9985692501068115,
+      "box": [
+        126,
+        498,
+        409,
+        524
+      ]
+    },
+    {
+      "text": "- Provided end-of-life care",
+      "score": 0.9970192909240723,
+      "box": [
+        127,
+        521,
+        370,
+        549
+      ]
+    },
+    {
+      "text": "Registered Nurses, Compassion Bridge Medical, 2010.042012.11",
+      "score": 0.9977529644966125,
+      "box": [
+        117,
+        565,
+        736,
+        592
+      ]
+    },
+    {
+      "text": "- Assisted with physical therapy exercises",
+      "score": 0.9892758131027222,
+      "box": [
+        125,
+        589,
+        515,
+        618
+      ]
+    },
+    {
+      "text": "- Recorded medication administration times",
+      "score": 0.9877671599388123,
+      "box": [
+        125,
+        613,
+        531,
+        642
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999299645423889,
+      "box": [
+        117,
+        681,
+        266,
+        705
+      ]
+    },
+    {
+      "text": "Bachelor's, Health Services, Forest Ridge University, 2002",
+      "score": 0.9901974201202393,
+      "box": [
+        115,
+        723,
+        658,
+        751
+      ]
+    },
+    {
+      "text": "• Completed coursework in basic nursing principles",
+      "score": 0.9658066630363464,
+      "box": [
+        132,
+        749,
+        607,
+        775
+      ]
+    },
+    {
+      "text": "Studied principles of oxygen therapy",
+      "score": 0.9994745254516602,
+      "box": [
+        132,
+        772,
+        485,
+        802
+      ]
+    }
+  ],
+  "seconds": 4.841339999809861,
+  "id": "15335",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

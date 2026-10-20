@@ -1,0 +1,162 @@
+{
+  "lines": [
+    {
+      "text": "HUNTER PHILLIPS",
+      "score": 0.9993141293525696,
+      "box": [
+        116,
+        89,
+        416,
+        122
+      ]
+    },
+    {
+      "text": "MI, USA | +1-883-591-6094 | hunter.phillips@example.com",
+      "score": 0.9936913847923279,
+      "box": [
+        115,
+        150,
+        664,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9990910887718201,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, SolidEdge Construction, 2020.08—2023.01",
+      "score": 0.9898210167884827,
+      "box": [
+        117,
+        289,
+        725,
+        316
+      ]
+    },
+    {
+      "text": "- Designed site logistics frameworks",
+      "score": 0.9780491590499878,
+      "box": [
+        126,
+        314,
+        463,
+        342
+      ]
+    },
+    {
+      "text": "- Designed construction staging plans",
+      "score": 0.998691737651825,
+      "box": [
+        127,
+        339,
+        478,
+        369
+      ]
+    },
+    {
+      "text": "Construction Laborers, BuildStone Group, 2018.02—2020.08",
+      "score": 0.9833254218101501,
+      "box": [
+        117,
+        382,
+        672,
+        407
+      ]
+    },
+    {
+      "text": "- Managed waste disposal operations",
+      "score": 0.9992431402206421,
+      "box": [
+        125,
+        406,
+        475,
+        434
+      ]
+    },
+    {
+      "text": "- Performed site leveling tasks",
+      "score": 0.9879339933395386,
+      "box": [
+        127,
+        430,
+        410,
+        458
+      ]
+    },
+    {
+      "text": "Construction Laborers, FirmLine Builders, 2015.08—2018.02",
+      "score": 0.9879679083824158,
+      "box": [
+        117,
+        472,
+        670,
+        497
+      ]
+    },
+    {
+      "text": "- Set up workstations for crews",
+      "score": 0.9879977703094482,
+      "box": [
+        127,
+        499,
+        416,
+        523
+      ]
+    },
+    {
+      "text": "- Assembled prefabricated components",
+      "score": 0.9942883253097534,
+      "box": [
+        127,
+        520,
+        492,
+        550
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9998807907104492,
+      "box": [
+        117,
+        587,
+        267,
+        614
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Construction Services, Riverview High School, 2015",
+      "score": 0.9976834654808044,
+      "box": [
+        118,
+        633,
+        858,
+        657
+      ]
+    },
+    {
+      "text": "• Completed coursework in basic plastering",
+      "score": 0.9772940278053284,
+      "box": [
+        131,
+        657,
+        535,
+        685
+      ]
+    }
+  ],
+  "seconds": 2.561460600234568,
+  "id": "27558",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

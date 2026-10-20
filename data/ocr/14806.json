@@ -1,0 +1,122 @@
+{
+  "lines": [
+    {
+      "text": "MICHELLE DURHAM",
+      "score": 0.9914170503616333,
+      "box": [
+        118,
+        92,
+        445,
+        122
+      ]
+    },
+    {
+      "text": "GA, USA | +1-755-990-2446 | michelle.durham@example.com",
+      "score": 0.9726738929748535,
+      "box": [
+        118,
+        152,
+        695,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.999110221862793,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Learning Path Academy, 2022.08—2023.01",
+      "score": 0.9966391921043396,
+      "box": [
+        116,
+        288,
+        859,
+        316
+      ]
+    },
+    {
+      "text": "- Updated student performance logs",
+      "score": 0.979854941368103,
+      "box": [
+        126,
+        314,
+        462,
+        343
+      ]
+    },
+    {
+      "text": "- Collected student assignments",
+      "score": 0.9976009726524353,
+      "box": [
+        128,
+        340,
+        427,
+        366
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999443888664246,
+      "box": [
+        116,
+        404,
+        268,
+        431
+      ]
+    },
+    {
+      "text": "Professional degree, General Learning Studies, Brookhaven University, 2020",
+      "score": 0.9996563792228699,
+      "box": [
+        116,
+        448,
+        829,
+        475
+      ]
+    },
+    {
+      "text": "Bachelor's, Learning and Development, Woodcrest University, 2016",
+      "score": 0.9965255260467529,
+      "box": [
+        117,
+        475,
+        744,
+        499
+      ]
+    },
+    {
+      "text": "• Studied principles of teaching effectiveness",
+      "score": 0.990807056427002,
+      "box": [
+        131,
+        501,
+        549,
+        525
+      ]
+    },
+    {
+      "text": "Completed coursework in classroom routines",
+      "score": 0.9996868371963501,
+      "box": [
+        132,
+        522,
+        565,
+        550
+      ]
+    }
+  ],
+  "seconds": 2.3411666001193225,
+  "id": "14806",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

@@ -1,0 +1,142 @@
+{
+  "lines": [
+    {
+      "text": "BRAYDEN ESTES",
+      "score": 0.9816277623176575,
+      "box": [
+        118,
+        91,
+        401,
+        121
+      ]
+    },
+    {
+      "text": "CT, USA | +1-280-946-2127 | brayden.estes@example.com",
+      "score": 0.9868098497390747,
+      "box": [
+        118,
+        152,
+        670,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9997827410697937,
+      "box": [
+        117,
+        243,
+        315,
+        270
+      ]
+    },
+    {
+      "text": "Construction Laborers, Unified Track Builders, 2021.012023.01",
+      "score": 0.997283935546875,
+      "box": [
+        117,
+        289,
+        712,
+        316
+      ]
+    },
+    {
+      "text": "- Managed large-scale installations",
+      "score": 0.9823023080825806,
+      "box": [
+        126,
+        313,
+        453,
+        342
+      ]
+    },
+    {
+      "text": "- Coordinated large-scale material logistics",
+      "score": 0.9954524636268616,
+      "box": [
+        128,
+        339,
+        524,
+        368
+      ]
+    },
+    {
+      "text": "Construction Laborers, FirmWay Construction, 2018.12—2021.01",
+      "score": 0.987568736076355,
+      "box": [
+        116,
+        380,
+        713,
+        408
+      ]
+    },
+    {
+      "text": "- Carried materials to designated work areas",
+      "score": 0.9894251227378845,
+      "box": [
+        125,
+        407,
+        541,
+        433
+      ]
+    },
+    {
+      "text": "- Transported waste materials",
+      "score": 0.9981914758682251,
+      "box": [
+        126,
+        431,
+        406,
+        456
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999507069587708,
+      "box": [
+        118,
+        495,
+        267,
+        519
+      ]
+    },
+    {
+      "text": "Some college (no degree), Construction Logistics, Sunfield University, 2023",
+      "score": 0.996518075466156,
+      "box": [
+        117,
+        540,
+        815,
+        567
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of temporary structures",
+      "score": 0.9761568307876587,
+      "box": [
+        130,
+        566,
+        571,
+        591
+      ]
+    },
+    {
+      "text": "• Completed coursework in basic formwork",
+      "score": 0.9872649312019348,
+      "box": [
+        132,
+        592,
+        531,
+        616
+      ]
+    }
+  ],
+  "seconds": 2.548216999974102,
+  "id": "10791",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

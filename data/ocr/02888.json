@@ -1,0 +1,202 @@
+{
+  "lines": [
+    {
+      "text": "BRANDON LAM",
+      "score": 0.9716527462005615,
+      "box": [
+        118,
+        91,
+        371,
+        121
+      ]
+    },
+    {
+      "text": "CA, USA | +1-392-963-3503 | brandon.lam@example.com",
+      "score": 0.9777012467384338,
+      "box": [
+        116,
+        150,
+        657,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9712291359901428,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Flowcrest Tech, 2020.06—2023.01",
+      "score": 0.9835530519485474,
+      "box": [
+        117,
+        290,
+        636,
+        314
+      ]
+    },
+    {
+      "text": "- Led technical audits",
+      "score": 0.9783620238304138,
+      "box": [
+        127,
+        316,
+        327,
+        340
+      ]
+    },
+    {
+      "text": "- Led database design efforts",
+      "score": 0.9980965256690979,
+      "box": [
+        127,
+        339,
+        401,
+        368
+      ]
+    },
+    {
+      "text": "Software Developers, Flowstack Solutions, 2017.112020.06",
+      "score": 0.9808002710342407,
+      "box": [
+        117,
+        382,
+        680,
+        409
+      ]
+    },
+    {
+      "text": "- Designed scalable services",
+      "score": 0.9950075745582581,
+      "box": [
+        126,
+        409,
+        396,
+        433
+      ]
+    },
+    {
+      "text": "- Defined engineering best practices",
+      "score": 0.9933226108551025,
+      "box": [
+        128,
+        434,
+        463,
+        457
+      ]
+    },
+    {
+      "text": "Software Developers, Cloudstone Software, 2015.032017.11",
+      "score": 0.9917476773262024,
+      "box": [
+        117,
+        472,
+        690,
+        499
+      ]
+    },
+    {
+      "text": "- Implemented error handling frameworks",
+      "score": 0.9858416318893433,
+      "box": [
+        126,
+        497,
+        512,
+        525
+      ]
+    },
+    {
+      "text": "- Implemented security controls",
+      "score": 0.9845713376998901,
+      "box": [
+        128,
+        521,
+        421,
+        551
+      ]
+    },
+    {
+      "text": "Software Developers, Corecrest Labs, 2009.08—2012.04",
+      "score": 0.9746130704879761,
+      "box": [
+        117,
+        566,
+        638,
+        590
+      ]
+    },
+    {
+      "text": "- Reviewed error reports",
+      "score": 0.9981260895729065,
+      "box": [
+        126,
+        590,
+        355,
+        616
+      ]
+    },
+    {
+      "text": "- Handled input sanitization",
+      "score": 0.9809099435806274,
+      "box": [
+        126,
+        614,
+        382,
+        643
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9998667240142822,
+      "box": [
+        117,
+        681,
+        266,
+        705
+      ]
+    },
+    {
+      "text": "Bachelor's, Riverbend University, 2006",
+      "score": 0.9985741972923279,
+      "box": [
+        116,
+        724,
+        477,
+        750
+      ]
+    },
+    {
+      "text": "• Completed coursework in sorting and searching algorithms",
+      "score": 0.9852977395057678,
+      "box": [
+        133,
+        749,
+        690,
+        776
+      ]
+    },
+    {
+      "text": "Completed coursework in scripting languages",
+      "score": 0.9986673593521118,
+      "box": [
+        132,
+        772,
+        571,
+        802
+      ]
+    }
+  ],
+  "seconds": 2.8214769000187516,
+  "id": "02888",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

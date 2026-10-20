@@ -1,0 +1,202 @@
+{
+  "lines": [
+    {
+      "text": "REBECCA MCDONALD",
+      "score": 0.9997515678405762,
+      "box": [
+        118,
+        91,
+        485,
+        122
+      ]
+    },
+    {
+      "text": "UT, USA | +1-903-834-6379 | rebecca.mcdonald@example.com",
+      "score": 0.9820002913475037,
+      "box": [
+        116,
+        150,
+        710,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9993252158164978,
+      "box": [
+        116,
+        242,
+        316,
+        271
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Open Sky School, 2020.01—2023.01",
+      "score": 0.9733736515045166,
+      "box": [
+        117,
+        290,
+        798,
+        317
+      ]
+    },
+    {
+      "text": "- Led instructional technology integration",
+      "score": 0.9858810901641846,
+      "box": [
+        126,
+        314,
+        505,
+        343
+      ]
+    },
+    {
+      "text": "- Led curriculum transformation initiatives",
+      "score": 0.9758360981941223,
+      "box": [
+        127,
+        340,
+        509,
+        365
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Sunny Futures School, 2017.012020.01",
+      "score": 0.9920548796653748,
+      "box": [
+        116,
+        381,
+        843,
+        411
+      ]
+    },
+    {
+      "text": "- Designed performance monitoring systems",
+      "score": 0.9859951138496399,
+      "box": [
+        125,
+        407,
+        540,
+        435
+      ]
+    },
+    {
+      "text": "- Implemented instructional improvement programs",
+      "score": 0.9854862689971924,
+      "box": [
+        127,
+        431,
+        601,
+        460
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Growing Horizons School, 2014.012017.01",
+      "score": 0.992558479309082,
+      "box": [
+        116,
+        471,
+        872,
+        500
+      ]
+    },
+    {
+      "text": "- Prepared test review sessions",
+      "score": 0.995285153388977,
+      "box": [
+        125,
+        497,
+        422,
+        526
+      ]
+    },
+    {
+      "text": "- Designed math assessments",
+      "score": 0.9971304535865784,
+      "box": [
+        127,
+        521,
+        410,
+        552
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Learning Way Academy, 2008.01—2011.01",
+      "score": 0.9905683994293213,
+      "box": [
+        117,
+        564,
+        858,
+        591
+      ]
+    },
+    {
+      "text": "- Reviewed curriculum content",
+      "score": 0.99661785364151,
+      "box": [
+        126,
+        590,
+        412,
+        616
+      ]
+    },
+    {
+      "text": "- Recorded student progress data",
+      "score": 0.9694362878799438,
+      "box": [
+        125,
+        613,
+        441,
+        644
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999275207519531,
+      "box": [
+        117,
+        681,
+        266,
+        705
+      ]
+    },
+    {
+      "text": "Bachelor's, Developmental Studies, Hillview University, 2005",
+      "score": 0.9940693974494934,
+      "box": [
+        117,
+        726,
+        677,
+        749
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of instructional objectives",
+      "score": 0.9941105842590332,
+      "box": [
+        132,
+        749,
+        590,
+        775
+      ]
+    },
+    {
+      "text": "•Completed coursework in academic differentiation basics",
+      "score": 0.98811274766922,
+      "box": [
+        132,
+        772,
+        675,
+        801
+      ]
+    }
+  ],
+  "seconds": 3.233530799858272,
+  "id": "55756",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

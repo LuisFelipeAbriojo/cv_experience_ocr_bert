@@ -1,0 +1,132 @@
+{
+  "lines": [
+    {
+      "text": "CJ NORRIS",
+      "score": 0.9984268546104431,
+      "box": [
+        117,
+        89,
+        301,
+        123
+      ]
+    },
+    {
+      "text": "MI, USA | +1-849-879-1808 | cj.norris@example.com",
+      "score": 0.9922160506248474,
+      "box": [
+        115,
+        149,
+        609,
+        177
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9994587302207947,
+      "box": [
+        116,
+        243,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Registered Nurses, Helping Way Medical, 2020.05—2023.01",
+      "score": 0.9856100678443909,
+      "box": [
+        114,
+        286,
+        671,
+        317
+      ]
+    },
+    {
+      "text": "- Provided patient education materials",
+      "score": 0.9865107536315918,
+      "box": [
+        125,
+        312,
+        481,
+        341
+      ]
+    },
+    {
+      "text": "- Monitored patient alarms",
+      "score": 0.9800724387168884,
+      "box": [
+        127,
+        338,
+        372,
+        366
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999467134475708,
+      "box": [
+        116,
+        404,
+        268,
+        431
+      ]
+    },
+    {
+      "text": "Doctorate, Clinical Studies, Willowgate University, 2023",
+      "score": 0.988601803779602,
+      "box": [
+        117,
+        449,
+        629,
+        473
+      ]
+    },
+    {
+      "text": "Bachelor's, Nursing Foundations, Windridge University, 2018",
+      "score": 0.9941628575325012,
+      "box": [
+        115,
+        472,
+        681,
+        500
+      ]
+    },
+    {
+      "text": "•Studied principles of chronic disease management",
+      "score": 0.9870438575744629,
+      "box": [
+        130,
+        500,
+        617,
+        524
+      ]
+    },
+    {
+      "text": "•Studied fundamentals of sleep management in care",
+      "score": 0.986206591129303,
+      "box": [
+        131,
+        523,
+        625,
+        550
+      ]
+    },
+    {
+      "text": "Studied principles of time management in care",
+      "score": 0.9928544759750366,
+      "box": [
+        131,
+        547,
+        580,
+        576
+      ]
+    }
+  ],
+  "seconds": 2.7463450003415346,
+  "id": "27758",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

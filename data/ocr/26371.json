@@ -1,0 +1,142 @@
+{
+  "lines": [
+    {
+      "text": "AMANI MCINTOSH",
+      "score": 0.9991872906684875,
+      "box": [
+        118,
+        91,
+        415,
+        122
+      ]
+    },
+    {
+      "text": "MA, USA | +1-497-635-6114 |amani.mcintosh@example.com",
+      "score": 0.982494592666626,
+      "box": [
+        117,
+        151,
+        687,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.999755859375,
+      "box": [
+        117,
+        243,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Software Developers, Datacore Labs, 2019.05—2021.06",
+      "score": 0.9908754229545593,
+      "box": [
+        116,
+        289,
+        633,
+        316
+      ]
+    },
+    {
+      "text": "- Designed CI/CD frameworks",
+      "score": 0.9711006283760071,
+      "box": [
+        126,
+        315,
+        406,
+        339
+      ]
+    },
+    {
+      "text": "- Led architectural reviews",
+      "score": 0.997527539730072,
+      "box": [
+        128,
+        339,
+        374,
+        366
+      ]
+    },
+    {
+      "text": "Software Developers, Softstack Digital, 2016.032018.05",
+      "score": 0.9914973974227905,
+      "box": [
+        116,
+        380,
+        647,
+        408
+      ]
+    },
+    {
+      "text": "- Reviewed error reports",
+      "score": 0.9882397651672363,
+      "box": [
+        127,
+        408,
+        355,
+        432
+      ]
+    },
+    {
+      "text": "- Assisted with system documentation",
+      "score": 0.996856689453125,
+      "box": [
+        129,
+        434,
+        477,
+        457
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999201893806458,
+      "box": [
+        117,
+        494,
+        267,
+        521
+      ]
+    },
+    {
+      "text": "Bachelor's, Willowstone University, 2011",
+      "score": 0.9833029508590698,
+      "box": [
+        116,
+        540,
+        491,
+        566
+      ]
+    },
+    {
+      "text": "• Completed coursework in system programming",
+      "score": 0.9960260987281799,
+      "box": [
+        132,
+        566,
+        584,
+        593
+      ]
+    },
+    {
+      "text": "• Completed coursework in database optimization",
+      "score": 0.9825019836425781,
+      "box": [
+        132,
+        591,
+        592,
+        616
+      ]
+    }
+  ],
+  "seconds": 2.1114167999476194,
+  "id": "26371",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

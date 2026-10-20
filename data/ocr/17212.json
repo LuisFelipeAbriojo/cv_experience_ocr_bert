@@ -1,0 +1,202 @@
+{
+  "lines": [
+    {
+      "text": "ROBERT ZHANG",
+      "score": 0.9993874430656433,
+      "box": [
+        117,
+        91,
+        386,
+        122
+      ]
+    },
+    {
+      "text": "IL, USA | +1-222-523-5375 | robert.zhang@example.com",
+      "score": 0.9898977875709534,
+      "box": [
+        116,
+        150,
+        646,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9991157650947571,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, SolidCount Advisors, 2019.10—2023.01",
+      "score": 0.9732376337051392,
+      "box": [
+        117,
+        291,
+        686,
+        314
+      ]
+    },
+    {
+      "text": "- Led accounting transformation projects",
+      "score": 0.9859340786933899,
+      "box": [
+        129,
+        317,
+        501,
+        341
+      ]
+    },
+    {
+      "text": "- Managed consolidation processes",
+      "score": 0.9811557531356812,
+      "box": [
+        127,
+        339,
+        459,
+        370
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Balanced Books Co., 2016.072019.10",
+      "score": 0.9968357086181641,
+      "box": [
+        118,
+        383,
+        689,
+        407
+      ]
+    },
+    {
+      "text": "- Established financial reporting standards",
+      "score": 0.9983869791030884,
+      "box": [
+        125,
+        408,
+        517,
+        433
+      ]
+    },
+    {
+      "text": "- Established cost management systems",
+      "score": 0.9947447776794434,
+      "box": [
+        126,
+        432,
+        503,
+        458
+      ]
+    },
+    {
+      "text": "Accountants Auditors, ClearLedger Financial, 2012.06—2015.10",
+      "score": 0.9892510771751404,
+      "box": [
+        118,
+        473,
+        705,
+        497
+      ]
+    },
+    {
+      "text": "- Reviewed financial systems data",
+      "score": 0.9993555545806885,
+      "box": [
+        126,
+        498,
+        446,
+        523
+      ]
+    },
+    {
+      "text": "- Conducted internal audits",
+      "score": 0.9803559184074402,
+      "box": [
+        127,
+        522,
+        379,
+        547
+      ]
+    },
+    {
+      "text": "Accountants Auditors, EverBalance Financial, 2008.08—2011.12",
+      "score": 0.9936863780021667,
+      "box": [
+        117,
+        566,
+        709,
+        590
+      ]
+    },
+    {
+      "text": "- Assisted with monthly close procedures",
+      "score": 0.9779483675956726,
+      "box": [
+        128,
+        591,
+        508,
+        616
+      ]
+    },
+    {
+      "text": "- Reviewed billing statements",
+      "score": 0.9827163219451904,
+      "box": [
+        125,
+        614,
+        403,
+        642
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.99992835521698,
+      "box": [
+        117,
+        681,
+        266,
+        705
+      ]
+    },
+    {
+      "text": "Bachelor's, Business Technology, Forest Ridge University, 2003",
+      "score": 0.9805921316146851,
+      "box": [
+        115,
+        723,
+        710,
+        750
+      ]
+    },
+    {
+      "text": "•Studied fundamentals of working capital management",
+      "score": 0.9856071472167969,
+      "box": [
+        129,
+        748,
+        647,
+        776
+      ]
+    },
+    {
+      "text": "Studied principles of financial statement analysis",
+      "score": 0.992103636264801,
+      "box": [
+        130,
+        772,
+        598,
+        800
+      ]
+    }
+  ],
+  "seconds": 2.8736893995665014,
+  "id": "17212",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

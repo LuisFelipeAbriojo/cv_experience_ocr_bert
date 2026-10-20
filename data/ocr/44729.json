@@ -1,0 +1,172 @@
+{
+  "lines": [
+    {
+      "text": "QUINTON COLE",
+      "score": 0.999692976474762,
+      "box": [
+        118,
+        91,
+        374,
+        121
+      ]
+    },
+    {
+      "text": "PA, USA | +1-524-387-4368 | quinton.cole@example.com",
+      "score": 0.9735761880874634,
+      "box": [
+        117,
+        152,
+        651,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9968428611755371,
+      "box": [
+        117,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, NextStone Contractors, 2020.10—2023.01",
+      "score": 0.9826568365097046,
+      "box": [
+        116,
+        288,
+        719,
+        316
+      ]
+    },
+    {
+      "text": "- Supervised large structural repairs",
+      "score": 0.9870936274528503,
+      "box": [
+        127,
+        317,
+        459,
+        341
+      ]
+    },
+    {
+      "text": "- Directed training programs for crews",
+      "score": 0.9946557283401489,
+      "box": [
+        127,
+        340,
+        478,
+        369
+      ]
+    },
+    {
+      "text": "Construction Laborers, SafeRise Construction, 2018.072020.10",
+      "score": 0.9899860620498657,
+      "box": [
+        118,
+        383,
+        716,
+        407
+      ]
+    },
+    {
+      "text": "- Assembled structural frameworks",
+      "score": 0.9920240640640259,
+      "box": [
+        126,
+        409,
+        450,
+        432
+      ]
+    },
+    {
+      "text": "- Performed structural repairs",
+      "score": 0.9989950656890869,
+      "box": [
+        127,
+        431,
+        402,
+        459
+      ]
+    },
+    {
+      "text": "Construction Laborers, Workline Builders, 2016.03—2018.07",
+      "score": 0.985531747341156,
+      "box": [
+        116,
+        470,
+        670,
+        499
+      ]
+    },
+    {
+      "text": "- Assisted with basic electrical conduit placement",
+      "score": 0.9930245280265808,
+      "box": [
+        126,
+        497,
+        584,
+        522
+      ]
+    },
+    {
+      "text": "- Prepared surfaces for construction work",
+      "score": 0.9856356382369995,
+      "box": [
+        128,
+        520,
+        513,
+        549
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999419450759888,
+      "box": [
+        118,
+        588,
+        267,
+        612
+      ]
+    },
+    {
+      "text": "Some college (no degree), Construction Operations, Lakewood University, 2019",
+      "score": 0.9930007457733154,
+      "box": [
+        117,
+        632,
+        857,
+        659
+      ]
+    },
+    {
+      "text": "• Completed coursework in basic concrete reinforcement",
+      "score": 0.9910760521888733,
+      "box": [
+        132,
+        659,
+        659,
+        683
+      ]
+    },
+    {
+      "text": "•Completed coursework in basic waterproofing",
+      "score": 0.982007622718811,
+      "box": [
+        132,
+        680,
+        571,
+        710
+      ]
+    }
+  ],
+  "seconds": 2.5829778001643717,
+  "id": "44729",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

@@ -1,0 +1,142 @@
+{
+  "lines": [
+    {
+      "text": "ALYSSA CHANG",
+      "score": 0.9909328818321228,
+      "box": [
+        118,
+        91,
+        384,
+        122
+      ]
+    },
+    {
+      "text": "AZ, USA | +1-567-738-9315 | alyssa.chang@example.com",
+      "score": 0.9822661280632019,
+      "box": [
+        116,
+        150,
+        660,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.999126136302948,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Kind Hearts Academy, 2021.04—2023.01",
+      "score": 0.9882804155349731,
+      "box": [
+        116,
+        288,
+        839,
+        318
+      ]
+    },
+    {
+      "text": "- Led instructional leadership initiatives",
+      "score": 0.9912431836128235,
+      "box": [
+        127,
+        315,
+        488,
+        340
+      ]
+    },
+    {
+      "text": "- Implemented instructional improvement programs",
+      "score": 0.9938570857048035,
+      "box": [
+        126,
+        338,
+        601,
+        369
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Growing Tree Academy, 2019.06—2021.04",
+      "score": 0.9870489835739136,
+      "box": [
+        115,
+        379,
+        858,
+        410
+      ]
+    },
+    {
+      "text": "- Recorded behavioral observations",
+      "score": 0.999454140663147,
+      "box": [
+        126,
+        407,
+        459,
+        433
+      ]
+    },
+    {
+      "text": "- Implemented lesson pacing guidelines",
+      "score": 0.9959219098091125,
+      "box": [
+        128,
+        431,
+        497,
+        459
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999237060546875,
+      "box": [
+        117,
+        494,
+        267,
+        521
+      ]
+    },
+    {
+      "text": "Bachelor's, Educational Support, Briarwood University, 2017",
+      "score": 0.9945253133773804,
+      "box": [
+        115,
+        539,
+        676,
+        567
+      ]
+    },
+    {
+      "text": "• Completed coursework in classroom workflow organization",
+      "score": 0.9994971752166748,
+      "box": [
+        132,
+        568,
+        691,
+        591
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of lesson evaluation",
+      "score": 0.9818554520606995,
+      "box": [
+        132,
+        590,
+        541,
+        615
+      ]
+    }
+  ],
+  "seconds": 2.699932800140232,
+  "id": "01640",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

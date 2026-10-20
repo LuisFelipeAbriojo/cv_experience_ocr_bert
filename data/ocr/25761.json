@@ -1,0 +1,122 @@
+{
+  "lines": [
+    {
+      "text": "HALEY PATEL",
+      "score": 0.9855427145957947,
+      "box": [
+        115,
+        90,
+        350,
+        122
+      ]
+    },
+    {
+      "text": "MA, USA | +1-564-689-8273 | haley.patel@example.com",
+      "score": 0.9883742332458496,
+      "box": [
+        115,
+        149,
+        644,
+        177
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.999767005443573,
+      "box": [
+        117,
+        243,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Software Developers, Dataforge Systems, 2017.122020.05",
+      "score": 0.9954367876052856,
+      "box": [
+        116,
+        289,
+        675,
+        316
+      ]
+    },
+    {
+      "text": "- Logged and tracked software defects",
+      "score": 0.9786174893379211,
+      "box": [
+        129,
+        316,
+        485,
+        340
+      ]
+    },
+    {
+      "text": "- Updated frontend stylesheets",
+      "score": 0.9867876172065735,
+      "box": [
+        128,
+        338,
+        415,
+        367
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.99992835521698,
+      "box": [
+        116,
+        404,
+        268,
+        431
+      ]
+    },
+    {
+      "text": "Master's, Pineview University, 2012",
+      "score": 0.9854637980461121,
+      "box": [
+        114,
+        446,
+        449,
+        474
+      ]
+    },
+    {
+      "text": "Bachelor's, Shoreline University, 2010",
+      "score": 0.9985392689704895,
+      "box": [
+        117,
+        474,
+        469,
+        498
+      ]
+    },
+    {
+      "text": "Completed coursework in parallel computing",
+      "score": 0.9904179573059082,
+      "box": [
+        129,
+        497,
+        560,
+        526
+      ]
+    },
+    {
+      "text": "•Studied fundamentals of recursion techniques",
+      "score": 0.9934538006782532,
+      "box": [
+        132,
+        522,
+        572,
+        549
+      ]
+    }
+  ],
+  "seconds": 1.9196414998732507,
+  "id": "25761",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

@@ -1,0 +1,172 @@
+{
+  "lines": [
+    {
+      "text": "CHRISTOPHER MANN",
+      "score": 0.9997156262397766,
+      "box": [
+        117,
+        89,
+        469,
+        122
+      ]
+    },
+    {
+      "text": "IL, USA | +1-587-488-5938 | christopher.mann@example.com",
+      "score": 0.9880048632621765,
+      "box": [
+        116,
+        150,
+        691,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9991876482963562,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, SolidForm Contractors, 2019.11—2023.01",
+      "score": 0.9884632229804993,
+      "box": [
+        118,
+        289,
+        715,
+        313
+      ]
+    },
+    {
+      "text": "- Directed training programs for crews",
+      "score": 0.9819161295890808,
+      "box": [
+        126,
+        314,
+        478,
+        343
+      ]
+    },
+    {
+      "text": "- Reviewed material quality standards",
+      "score": 0.9970228672027588,
+      "box": [
+        127,
+        339,
+        476,
+        367
+      ]
+    },
+    {
+      "text": "Construction Laborers, CornerCraft Builders, 2016.082019.11",
+      "score": 0.985060453414917,
+      "box": [
+        118,
+        383,
+        697,
+        407
+      ]
+    },
+    {
+      "text": "- Prepared scaffolding inspections",
+      "score": 0.9868766665458679,
+      "box": [
+        125,
+        407,
+        444,
+        433
+      ]
+    },
+    {
+      "text": "- Operated heavy equipment",
+      "score": 0.9823019504547119,
+      "box": [
+        128,
+        433,
+        396,
+        459
+      ]
+    },
+    {
+      "text": "Construction Laborers, BuildPoint Co., 2013.05—2016.08",
+      "score": 0.978277862071991,
+      "box": [
+        116,
+        470,
+        640,
+        499
+      ]
+    },
+    {
+      "text": "- Assisted with basic electrical conduit placement",
+      "score": 0.9923227429389954,
+      "box": [
+        127,
+        499,
+        583,
+        523
+      ]
+    },
+    {
+      "text": "- Stacked and organized construction supplies",
+      "score": 0.9956359267234802,
+      "box": [
+        127,
+        521,
+        557,
+        550
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999196529388428,
+      "box": [
+        117,
+        586,
+        267,
+        613
+      ]
+    },
+    {
+      "text": "Some college (no degree), Construction Design, Brookway University, 2011",
+      "score": 0.9906936287879944,
+      "box": [
+        118,
+        632,
+        812,
+        656
+      ]
+    },
+    {
+      "text": "•Studied fundamentals of door installation",
+      "score": 0.9838113188743591,
+      "box": [
+        128,
+        657,
+        526,
+        682
+      ]
+    },
+    {
+      "text": "•Studied fundamentals of tool usage",
+      "score": 0.9935480356216431,
+      "box": [
+        131,
+        681,
+        475,
+        708
+      ]
+    }
+  ],
+  "seconds": 2.460921900346875,
+  "id": "17196",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

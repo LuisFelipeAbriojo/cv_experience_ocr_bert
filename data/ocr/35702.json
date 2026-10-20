@@ -1,0 +1,112 @@
+{
+  "lines": [
+    {
+      "text": "COLE VO",
+      "score": 0.9994139671325684,
+      "box": [
+        116,
+        88,
+        269,
+        123
+      ]
+    },
+    {
+      "text": "NY, USA | +1-348-869-7103 | cole.vo@example.com",
+      "score": 0.9929908514022827,
+      "box": [
+        115,
+        149,
+        608,
+        177
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9997589588165283,
+      "box": [
+        117,
+        243,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Accountants Auditors, TrueLedger Advisors, 2021.04—2023.01",
+      "score": 0.9885292053222656,
+      "box": [
+        115,
+        287,
+        693,
+        315
+      ]
+    },
+    {
+      "text": "- Assisted with budget tracking",
+      "score": 0.9953799843788147,
+      "box": [
+        125,
+        311,
+        414,
+        343
+      ]
+    },
+    {
+      "text": "- Prepared supporting schedules",
+      "score": 0.987196683883667,
+      "box": [
+        127,
+        339,
+        432,
+        367
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999411106109619,
+      "box": [
+        116,
+        404,
+        268,
+        431
+      ]
+    },
+    {
+      "text": "Bachelor's, Accounting Information Systems, Seabreeze University, 2021",
+      "score": 0.9986282587051392,
+      "box": [
+        116,
+        447,
+        792,
+        474
+      ]
+    },
+    {
+      "text": "• Completed coursework in risk assessment",
+      "score": 0.9811933636665344,
+      "box": [
+        131,
+        474,
+        541,
+        498
+      ]
+    },
+    {
+      "text": "Studied principles of managerial accounting",
+      "score": 0.9890497922897339,
+      "box": [
+        132,
+        497,
+        552,
+        526
+      ]
+    }
+  ],
+  "seconds": 1.960941500030458,
+  "id": "35702",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

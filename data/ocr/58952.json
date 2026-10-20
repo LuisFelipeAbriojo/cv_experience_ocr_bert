@@ -1,0 +1,152 @@
+{
+  "lines": [
+    {
+      "text": "MATTHEW MILES",
+      "score": 0.9677816033363342,
+      "box": [
+        117,
+        91,
+        400,
+        121
+      ]
+    },
+    {
+      "text": "WA, USA | +1-350-883-7582 | matthew.miles@example.com",
+      "score": 0.9823637008666992,
+      "box": [
+        117,
+        151,
+        678,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9906715750694275,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Discovery Grove School, 2021.01-2023.01",
+      "score": 0.9907950162887573,
+      "box": [
+        116,
+        288,
+        862,
+        318
+      ]
+    },
+    {
+      "text": "- Designed learning analytics frameworks",
+      "score": 0.982133686542511,
+      "box": [
+        125,
+        314,
+        510,
+        342
+      ]
+    },
+    {
+      "text": "- Designed systemic intervention models",
+      "score": 0.9963412880897522,
+      "box": [
+        129,
+        342,
+        504,
+        366
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Growing Horizons School, 2017.102019.11",
+      "score": 0.9970988631248474,
+      "box": [
+        116,
+        379,
+        873,
+        410
+      ]
+    },
+    {
+      "text": "- Scheduled instructional activities",
+      "score": 0.9871149063110352,
+      "box": [
+        125,
+        407,
+        444,
+        433
+      ]
+    },
+    {
+      "text": "- Maintained student folders",
+      "score": 0.9968734979629517,
+      "box": [
+        126,
+        431,
+        388,
+        456
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999397993087769,
+      "box": [
+        116,
+        494,
+        267,
+        521
+      ]
+    },
+    {
+      "text": "Master's, Liberal Arts, High Meadow University, 2007",
+      "score": 0.9845889806747437,
+      "box": [
+        114,
+        539,
+        608,
+        567
+      ]
+    },
+    {
+      "text": "Bachelor's, Child Development, Riverwood University, 2005",
+      "score": 0.9895404577255249,
+      "box": [
+        117,
+        567,
+        667,
+        591
+      ]
+    },
+    {
+      "text": "• Studied principles of learner assessment",
+      "score": 0.9859870076179504,
+      "box": [
+        129,
+        592,
+        526,
+        617
+      ]
+    },
+    {
+      "text": "• Completed coursework in classroom facilitation",
+      "score": 0.9848938584327698,
+      "box": [
+        133,
+        617,
+        584,
+        641
+      ]
+    }
+  ],
+  "seconds": 2.6070554996840656,
+  "id": "58952",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

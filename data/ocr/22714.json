@@ -1,0 +1,142 @@
+{
+  "lines": [
+    {
+      "text": "TYQUON REYNOLDS",
+      "score": 0.9979485273361206,
+      "box": [
+        116,
+        89,
+        454,
+        122
+      ]
+    },
+    {
+      "text": "KY, USA | +1-741-746-4015 | tyquon.reynolds@example.com",
+      "score": 0.9895520210266113,
+      "box": [
+        115,
+        150,
+        687,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9991068840026855,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, HardRock Construction, 2021.042023.01",
+      "score": 0.998475968837738,
+      "box": [
+        118,
+        290,
+        722,
+        314
+      ]
+    },
+    {
+      "text": "- Supervised multiple work crews",
+      "score": 0.9804015755653381,
+      "box": [
+        126,
+        315,
+        435,
+        341
+      ]
+    },
+    {
+      "text": "- Directed site optimization initiatives",
+      "score": 0.979622483253479,
+      "box": [
+        127,
+        339,
+        467,
+        367
+      ]
+    },
+    {
+      "text": "Construction Laborers, FirmCraft Construction, 2019.06—2021.04",
+      "score": 0.9850561022758484,
+      "box": [
+        118,
+        383,
+        718,
+        407
+      ]
+    },
+    {
+      "text": "- Prepared tools and equipment for daily tasks",
+      "score": 0.9909415245056152,
+      "box": [
+        126,
+        407,
+        554,
+        432
+      ]
+    },
+    {
+      "text": "- Loaded and unloaded construction materials",
+      "score": 0.996477484703064,
+      "box": [
+        128,
+        432,
+        553,
+        456
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999372959136963,
+      "box": [
+        117,
+        494,
+        266,
+        521
+      ]
+    },
+    {
+      "text": "Associate's degree, Construction Services, Willow Creek University, 2021",
+      "score": 0.9959937334060669,
+      "box": [
+        116,
+        539,
+        795,
+        567
+      ]
+    },
+    {
+      "text": "•Completed coursework in building layout techniques",
+      "score": 0.9862129092216492,
+      "box": [
+        130,
+        566,
+        629,
+        592
+      ]
+    },
+    {
+      "text": "•Studied fundamentals of scaffolding assembly",
+      "score": 0.9887886047363281,
+      "box": [
+        132,
+        589,
+        572,
+        618
+      ]
+    }
+  ],
+  "seconds": 2.5215481999330223,
+  "id": "22714",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

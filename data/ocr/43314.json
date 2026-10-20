@@ -1,0 +1,142 @@
+{
+  "lines": [
+    {
+      "text": "FRANK KERR",
+      "score": 0.9997807741165161,
+      "box": [
+        117,
+        91,
+        339,
+        122
+      ]
+    },
+    {
+      "text": "OH, USA | +1-452-692-7879 | frank.kerr@example.com",
+      "score": 0.9882056713104248,
+      "box": [
+        118,
+        152,
+        631,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.998986005783081,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, SteadyCount Group, 2019.12—2022.06",
+      "score": 0.995755136013031,
+      "box": [
+        115,
+        288,
+        684,
+        316
+      ]
+    },
+    {
+      "text": "- Established financial data governance",
+      "score": 0.9851731657981873,
+      "box": [
+        126,
+        314,
+        494,
+        341
+      ]
+    },
+    {
+      "text": "- Led internal audit functions",
+      "score": 0.9769162535667419,
+      "box": [
+        128,
+        339,
+        393,
+        365
+      ]
+    },
+    {
+      "text": "Accountants Auditors, FairCount Financial, 2016.11—2019.06",
+      "score": 0.9762375950813293,
+      "box": [
+        117,
+        381,
+        681,
+        406
+      ]
+    },
+    {
+      "text": "- Reviewed vendor payments",
+      "score": 0.9803886413574219,
+      "box": [
+        125,
+        407,
+        400,
+        433
+      ]
+    },
+    {
+      "text": "- Tracked budget expenditures",
+      "score": 0.9862993359565735,
+      "box": [
+        125,
+        430,
+        414,
+        458
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9998786449432373,
+      "box": [
+        117,
+        494,
+        268,
+        521
+      ]
+    },
+    {
+      "text": "Bachelor's, Auditing, Clearstone University, 2014",
+      "score": 0.9890102744102478,
+      "box": [
+        117,
+        541,
+        570,
+        565
+      ]
+    },
+    {
+      "text": "•Completed coursework in budgeting techniques",
+      "score": 0.9962586164474487,
+      "box": [
+        131,
+        566,
+        588,
+        592
+      ]
+    },
+    {
+      "text": "Studied fundamentals of revenue cycle management",
+      "score": 0.9940648078918457,
+      "box": [
+        131,
+        589,
+        636,
+        618
+      ]
+    }
+  ],
+  "seconds": 2.1975110000930727,
+  "id": "43314",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

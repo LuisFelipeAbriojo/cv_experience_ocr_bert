@@ -1,0 +1,172 @@
+{
+  "lines": [
+    {
+      "text": "RHIANNA BAILEY",
+      "score": 0.9996852278709412,
+      "box": [
+        118,
+        91,
+        403,
+        121
+      ]
+    },
+    {
+      "text": "CA, USA | +1-638-635-7691 | rhianna.bailey@example.com",
+      "score": 0.9847273230552673,
+      "box": [
+        118,
+        152,
+        670,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9990541934967041,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, PrimeBalance Accounting, 2020.07—2023.01",
+      "score": 0.982190728187561,
+      "box": [
+        115,
+        287,
+        737,
+        318
+      ]
+    },
+    {
+      "text": "- Developed financial risk models",
+      "score": 0.9926092028617859,
+      "box": [
+        128,
+        315,
+        436,
+        341
+      ]
+    },
+    {
+      "text": "- Designed financial accountability systems",
+      "score": 0.9959858655929565,
+      "box": [
+        127,
+        339,
+        528,
+        369
+      ]
+    },
+    {
+      "text": "Accountants Auditors, ClearLedger Financial, 2018.012020.07",
+      "score": 0.9945375919342041,
+      "box": [
+        117,
+        383,
+        704,
+        407
+      ]
+    },
+    {
+      "text": "- Coordinated audit schedules",
+      "score": 0.9847714900970459,
+      "box": [
+        126,
+        409,
+        407,
+        432
+      ]
+    },
+    {
+      "text": "- Reviewed payroll reconciliations",
+      "score": 0.9817892909049988,
+      "box": [
+        126,
+        430,
+        441,
+        458
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Integrity Accounts, 2013.092016.04",
+      "score": 0.9977903962135315,
+      "box": [
+        117,
+        473,
+        666,
+        497
+      ]
+    },
+    {
+      "text": "- Reconciled bank statements",
+      "score": 0.9993003010749817,
+      "box": [
+        126,
+        497,
+        405,
+        522
+      ]
+    },
+    {
+      "text": "- Assisted with audit fieldwork",
+      "score": 0.9713550806045532,
+      "box": [
+        128,
+        521,
+        405,
+        546
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.99993896484375,
+      "box": [
+        118,
+        588,
+        266,
+        612
+      ]
+    },
+    {
+      "text": "Bachelor's, Business Operations, Windcrest University, 2009",
+      "score": 0.981633186340332,
+      "box": [
+        118,
+        633,
+        677,
+        657
+      ]
+    },
+    {
+      "text": "• Studied principles of managerial accounting",
+      "score": 0.9907419085502625,
+      "box": [
+        130,
+        659,
+        551,
+        684
+      ]
+    },
+    {
+      "text": "•Studied principles of financial ratio analysis",
+      "score": 0.9788728952407837,
+      "box": [
+        130,
+        682,
+        546,
+        708
+      ]
+    }
+  ],
+  "seconds": 2.639222299680114,
+  "id": "06950",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

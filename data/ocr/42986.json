@@ -1,0 +1,162 @@
+{
+  "lines": [
+    {
+      "text": "JOHNATHAN BUCHANAN",
+      "score": 0.999924898147583,
+      "box": [
+        116,
+        92,
+        529,
+        122
+      ]
+    },
+    {
+      "text": "OH, USA | +1-945-837-9633 | johnathan.buchanan@example.com",
+      "score": 0.98307204246521,
+      "box": [
+        116,
+        150,
+        733,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9991443157196045,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, Unified Build Group, 2021.01—2023.01",
+      "score": 0.9836091995239258,
+      "box": [
+        116,
+        288,
+        688,
+        316
+      ]
+    },
+    {
+      "text": "- Supervised high-risk operations",
+      "score": 0.9823665022850037,
+      "box": [
+        127,
+        317,
+        435,
+        341
+      ]
+    },
+    {
+      "text": "- Directed site construction operations",
+      "score": 0.9871844053268433,
+      "box": [
+        128,
+        340,
+        479,
+        367
+      ]
+    },
+    {
+      "text": "Construction Laborers, Allied Build Group, 2018.062020.06",
+      "score": 0.989425778388977,
+      "box": [
+        118,
+        383,
+        675,
+        407
+      ]
+    },
+    {
+      "text": "- Reviewed construction drawings",
+      "score": 0.9897104501724243,
+      "box": [
+        124,
+        405,
+        443,
+        435
+      ]
+    },
+    {
+      "text": "- Installed foundation elements",
+      "score": 0.9852043986320496,
+      "box": [
+        127,
+        431,
+        414,
+        457
+      ]
+    },
+    {
+      "text": "Construction Laborers, Precision Line Contractors, 2015.022017.02",
+      "score": 0.9982581734657288,
+      "box": [
+        118,
+        473,
+        753,
+        497
+      ]
+    },
+    {
+      "text": "- Performed basic carpentry tasks",
+      "score": 0.9938870072364807,
+      "box": [
+        127,
+        499,
+        442,
+        523
+      ]
+    },
+    {
+      "text": "- Secured site fencing",
+      "score": 0.9854339361190796,
+      "box": [
+        127,
+        521,
+        331,
+        549
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999152421951294,
+      "box": [
+        117,
+        587,
+        267,
+        614
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Construction Supervision, Clear Ridge High School, 2014",
+      "score": 0.9957221746444702,
+      "box": [
+        117,
+        632,
+        907,
+        659
+      ]
+    },
+    {
+      "text": "Completed coursework in construction site cleanup",
+      "score": 0.9969508051872253,
+      "box": [
+        131,
+        656,
+        620,
+        685
+      ]
+    }
+  ],
+  "seconds": 2.5058296998031437,
+  "id": "42986",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

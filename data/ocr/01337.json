@@ -1,0 +1,182 @@
+{
+  "lines": [
+    {
+      "text": "XAVIER LEON",
+      "score": 0.988656222820282,
+      "box": [
+        117,
+        91,
+        345,
+        121
+      ]
+    },
+    {
+      "text": "AZ, USA | +1-654-915-1480 |xavier.leon@example.com",
+      "score": 0.990529477596283,
+      "box": [
+        118,
+        152,
+        639,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9989409446716309,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, FairBalance Accounting, 2020.05—2023.01",
+      "score": 0.9865967631340027,
+      "box": [
+        115,
+        288,
+        719,
+        316
+      ]
+    },
+    {
+      "text": "- Designed financial oversight systems",
+      "score": 0.9901136159896851,
+      "box": [
+        126,
+        315,
+        485,
+        341
+      ]
+    },
+    {
+      "text": "- Directed accounting operations planning",
+      "score": 0.9910145998001099,
+      "box": [
+        127,
+        339,
+        514,
+        369
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Integrity Ledger Financial, 2017.08—2020.05",
+      "score": 0.9895086288452148,
+      "box": [
+        117,
+        382,
+        735,
+        409
+      ]
+    },
+    {
+      "text": "- Analyzed financial variances",
+      "score": 0.9965623021125793,
+      "box": [
+        125,
+        407,
+        406,
+        433
+      ]
+    },
+    {
+      "text": "- Prepared audit reports",
+      "score": 0.9992238879203796,
+      "box": [
+        125,
+        431,
+        351,
+        461
+      ]
+    },
+    {
+      "text": "Accountants Auditors, BrightPath Accounting Services, 2014.112017.08",
+      "score": 0.9934334754943848,
+      "box": [
+        117,
+        472,
+        793,
+        499
+      ]
+    },
+    {
+      "text": "- Reviewed ledger postings",
+      "score": 0.9927703142166138,
+      "box": [
+        125,
+        497,
+        383,
+        525
+      ]
+    },
+    {
+      "text": "- Reviewed timesheets for payroll",
+      "score": 0.9954943656921387,
+      "box": [
+        127,
+        520,
+        439,
+        549
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999365210533142,
+      "box": [
+        118,
+        588,
+        266,
+        612
+      ]
+    },
+    {
+      "text": "Master's, Financial Accounting, Oakridge Valley University, 2014",
+      "score": 0.9770183563232422,
+      "box": [
+        116,
+        632,
+        716,
+        659
+      ]
+    },
+    {
+      "text": "Bachelor's, Professional Accounting, Forest Ridge University, 2012",
+      "score": 0.9968538284301758,
+      "box": [
+        115,
+        656,
+        738,
+        686
+      ]
+    },
+    {
+      "text": "• Completed coursework in financial controls",
+      "score": 0.9930266737937927,
+      "box": [
+        132,
+        684,
+        546,
+        707
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of documentation standards",
+      "score": 0.9845007061958313,
+      "box": [
+        132,
+        706,
+        613,
+        732
+      ]
+    }
+  ],
+  "seconds": 2.6824503000825644,
+  "id": "01337",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

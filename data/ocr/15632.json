@@ -1,0 +1,172 @@
+{
+  "lines": [
+    {
+      "text": "ADAM HARRINGTON",
+      "score": 0.999905526638031,
+      "box": [
+        118,
+        92,
+        453,
+        122
+      ]
+    },
+    {
+      "text": "GA, USA | +1-396-753-7970 | adam.harrington@example.com",
+      "score": 0.9905720949172974,
+      "box": [
+        116,
+        150,
+        694,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9907054305076599,
+      "box": [
+        118,
+        245,
+        314,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, TrueCraft Builders, 2020.03—2023.01",
+      "score": 0.9866950511932373,
+      "box": [
+        118,
+        290,
+        675,
+        314
+      ]
+    },
+    {
+      "text": "- Directed project execution strategies",
+      "score": 0.9869264364242554,
+      "box": [
+        125,
+        314,
+        479,
+        343
+      ]
+    },
+    {
+      "text": "- Supervised large structural repairs",
+      "score": 0.9852129817008972,
+      "box": [
+        127,
+        340,
+        460,
+        368
+      ]
+    },
+    {
+      "text": "Construction Laborers, SolidRise Contractors, 2017.05—2020.03",
+      "score": 0.982911229133606,
+      "box": [
+        116,
+        380,
+        710,
+        408
+      ]
+    },
+    {
+      "text": "- Installed foundation elements",
+      "score": 0.9992588758468628,
+      "box": [
+        125,
+        407,
+        414,
+        432
+      ]
+    },
+    {
+      "text": "- Operated heavy equipment",
+      "score": 0.9896694421768188,
+      "box": [
+        127,
+        431,
+        396,
+        460
+      ]
+    },
+    {
+      "text": "Construction Laborers, SolidBuild Group, 2014.072017.05",
+      "score": 0.9940608739852905,
+      "box": [
+        116,
+        471,
+        665,
+        499
+      ]
+    },
+    {
+      "text": "- Installed temporary supports",
+      "score": 0.9873044490814209,
+      "box": [
+        125,
+        497,
+        407,
+        525
+      ]
+    },
+    {
+      "text": "- Secured site fencing",
+      "score": 0.98531174659729,
+      "box": [
+        127,
+        521,
+        331,
+        549
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999489188194275,
+      "box": [
+        118,
+        588,
+        266,
+        612
+      ]
+    },
+    {
+      "text": "Some college (no degree), Building Trades, Pinecrest University, 2012",
+      "score": 0.9937505125999451,
+      "box": [
+        117,
+        632,
+        770,
+        659
+      ]
+    },
+    {
+      "text": "•Studied fundamentals of job site coordination",
+      "score": 0.9944362640380859,
+      "box": [
+        130,
+        659,
+        565,
+        683
+      ]
+    },
+    {
+      "text": "•Studied principles of site preparation",
+      "score": 0.9879552125930786,
+      "box": [
+        130,
+        681,
+        487,
+        709
+      ]
+    }
+  ],
+  "seconds": 2.4794660001061857,
+  "id": "15632",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

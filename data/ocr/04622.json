@@ -1,0 +1,182 @@
+{
+  "lines": [
+    {
+      "text": "JULIE FISCHER",
+      "score": 0.9990699291229248,
+      "box": [
+        116,
+        91,
+        369,
+        122
+      ]
+    },
+    {
+      "text": "CA, USA | +1-835-421-4946 | julie.fischer@example.com",
+      "score": 0.9917387962341309,
+      "box": [
+        118,
+        152,
+        644,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9680922627449036,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Growing Minds Academy, 2019.11-2023.01",
+      "score": 0.9829198718070984,
+      "box": [
+        115,
+        287,
+        869,
+        318
+      ]
+    },
+    {
+      "text": "- Led instructional technology integration",
+      "score": 0.9978901147842407,
+      "box": [
+        126,
+        315,
+        505,
+        341
+      ]
+    },
+    {
+      "text": "- Led curriculum transformation initiatives",
+      "score": 0.9753434658050537,
+      "box": [
+        127,
+        340,
+        509,
+        365
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Open Grove School, 2016.092019.11",
+      "score": 0.9833199977874756,
+      "box": [
+        117,
+        382,
+        821,
+        409
+      ]
+    },
+    {
+      "text": "- Reviewed instructional content",
+      "score": 0.9994038343429565,
+      "box": [
+        126,
+        407,
+        427,
+        433
+      ]
+    },
+    {
+      "text": "- Prepared differentiated worksheets",
+      "score": 0.9760594964027405,
+      "box": [
+        127,
+        432,
+        464,
+        457
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Bright River Academy, 2011.042014.06",
+      "score": 0.9959543943405151,
+      "box": [
+        118,
+        472,
+        840,
+        499
+      ]
+    },
+    {
+      "text": "- Supported standardized testing sessions",
+      "score": 0.9926406145095825,
+      "box": [
+        125,
+        497,
+        519,
+        525
+      ]
+    },
+    {
+      "text": "- Tracked student participation",
+      "score": 0.9967422485351562,
+      "box": [
+        127,
+        521,
+        411,
+        551
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999294281005859,
+      "box": [
+        117,
+        587,
+        267,
+        614
+      ]
+    },
+    {
+      "text": "Master's, Introductory Education, Northway University, 2004",
+      "score": 0.9783369302749634,
+      "box": [
+        116,
+        632,
+        671,
+        659
+      ]
+    },
+    {
+      "text": "Bachelor's, Educational Support, Ironwood University, 2002",
+      "score": 0.9973335266113281,
+      "box": [
+        114,
+        655,
+        669,
+        686
+      ]
+    },
+    {
+      "text": "• Completed coursework in lesson effectiveness analysis",
+      "score": 0.9843295812606812,
+      "box": [
+        132,
+        684,
+        658,
+        708
+      ]
+    },
+    {
+      "text": "•Studied foundational pedagogy concepts",
+      "score": 0.9921220541000366,
+      "box": [
+        131,
+        706,
+        526,
+        735
+      ]
+    }
+  ],
+  "seconds": 2.8508283998817205,
+  "id": "04622",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

@@ -1,0 +1,132 @@
+{
+  "lines": [
+    {
+      "text": "JOSHUA WARREN",
+      "score": 0.9858818650245667,
+      "box": [
+        116,
+        91,
+        417,
+        121
+      ]
+    },
+    {
+      "text": "WV, USA | +1-705-972-5520 | joshua.warren@example.com",
+      "score": 0.977896511554718,
+      "box": [
+        117,
+        152,
+        675,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9997573494911194,
+      "box": [
+        117,
+        243,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Construction Laborers, ClearForm Builders, 2020.10—2022.05",
+      "score": 0.9898718595504761,
+      "box": [
+        118,
+        290,
+        687,
+        314
+      ]
+    },
+    {
+      "text": "- Reviewed material quality standards",
+      "score": 0.9992968440055847,
+      "box": [
+        125,
+        313,
+        477,
+        341
+      ]
+    },
+    {
+      "text": "- Led complex demolition projects",
+      "score": 0.9882327914237976,
+      "box": [
+        128,
+        340,
+        441,
+        367
+      ]
+    },
+    {
+      "text": "Construction Laborers, PrimeStone Co., 2018.05—2020.01",
+      "score": 0.9825547337532043,
+      "box": [
+        117,
+        381,
+        653,
+        406
+      ]
+    },
+    {
+      "text": "- Carried materials to designated work areas",
+      "score": 0.9870092272758484,
+      "box": [
+        126,
+        407,
+        540,
+        433
+      ]
+    },
+    {
+      "text": "- Helped position heavy materials",
+      "score": 0.9983466267585754,
+      "box": [
+        127,
+        430,
+        439,
+        458
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999070763587952,
+      "box": [
+        117,
+        494,
+        267,
+        521
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Construction Safety, Meadowridge High School, 2003",
+      "score": 0.989385187625885,
+      "box": [
+        117,
+        540,
+        871,
+        567
+      ]
+    },
+    {
+      "text": "• Completed coursework in structural layout",
+      "score": 0.9826918244361877,
+      "box": [
+        134,
+        567,
+        538,
+        591
+      ]
+    }
+  ],
+  "seconds": 2.215265499893576,
+  "id": "60153",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

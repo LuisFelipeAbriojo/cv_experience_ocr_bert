@@ -1,0 +1,142 @@
+{
+  "lines": [
+    {
+      "text": "ELIZABETH BARRON",
+      "score": 0.999815821647644,
+      "box": [
+        117,
+        90,
+        461,
+        122
+      ]
+    },
+    {
+      "text": "AL, USA | +1-981-746-2142 | elizabeth.barron@example.com",
+      "score": 0.9983964562416077,
+      "box": [
+        116,
+        150,
+        688,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.998771607875824,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, NewHope Care Center, 2021.02—2023.01",
+      "score": 0.9701637029647827,
+      "box": [
+        115,
+        287,
+        687,
+        318
+      ]
+    },
+    {
+      "text": "- Designed clinical documentation standards",
+      "score": 0.9993364214897156,
+      "box": [
+        129,
+        316,
+        538,
+        340
+      ]
+    },
+    {
+      "text": "- Led patient experience improvement programs",
+      "score": 0.9980732202529907,
+      "box": [
+        128,
+        340,
+        574,
+        369
+      ]
+    },
+    {
+      "text": "Registered Nurses, OpenBridge Care Services, 2016.102018.09",
+      "score": 0.9998318552970886,
+      "box": [
+        117,
+        382,
+        725,
+        409
+      ]
+    },
+    {
+      "text": "- Checked medication dosages",
+      "score": 0.9969798922538757,
+      "box": [
+        125,
+        405,
+        417,
+        435
+      ]
+    },
+    {
+      "text": "- Recorded medication administration times",
+      "score": 0.9887827634811401,
+      "box": [
+        127,
+        431,
+        530,
+        457
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999940037727356,
+      "box": [
+        116,
+        494,
+        267,
+        521
+      ]
+    },
+    {
+      "text": "Bachelor's, Health Care Management, Stonehaven University, 2008",
+      "score": 0.9973945617675781,
+      "box": [
+        114,
+        538,
+        745,
+        569
+      ]
+    },
+    {
+      "text": "•Studied principles of ostomy care",
+      "score": 0.9875035285949707,
+      "box": [
+        130,
+        568,
+        456,
+        592
+      ]
+    },
+    {
+      "text": "Studied fundamentals of pediatric nursing",
+      "score": 0.9840371608734131,
+      "box": [
+        130,
+        588,
+        532,
+        620
+      ]
+    }
+  ],
+  "seconds": 2.4801594000309706,
+  "id": "00441",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

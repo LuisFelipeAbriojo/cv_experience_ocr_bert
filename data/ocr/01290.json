@@ -1,0 +1,212 @@
+{
+  "lines": [
+    {
+      "text": "JAMIE SHEPHERD",
+      "score": 0.9995648264884949,
+      "box": [
+        116,
+        92,
+        414,
+        122
+      ]
+    },
+    {
+      "text": "AZ, USA | +1-545-811-3295 | jamie.shepherd@example.com",
+      "score": 0.9864891171455383,
+      "box": [
+        116,
+        150,
+        681,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9993634223937988,
+      "box": [
+        116,
+        242,
+        316,
+        271
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Sunny Horizons School, 2019.10—2023.01",
+      "score": 0.9891481995582581,
+      "box": [
+        117,
+        290,
+        853,
+        317
+      ]
+    },
+    {
+      "text": "- Established instructional best practices",
+      "score": 0.9967167973518372,
+      "box": [
+        126,
+        316,
+        501,
+        341
+      ]
+    },
+    {
+      "text": "- Designed instructional governance models",
+      "score": 0.9986308813095093,
+      "box": [
+        127,
+        341,
+        536,
+        368
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Future Futures Academy, 2016.072019.10",
+      "score": 0.9879170060157776,
+      "box": [
+        116,
+        381,
+        869,
+        411
+      ]
+    },
+    {
+      "text": "- Led curriculum alignment initiatives",
+      "score": 0.9696348309516907,
+      "box": [
+        129,
+        409,
+        467,
+        433
+      ]
+    },
+    {
+      "text": "- Designed curriculum frameworks for grade-level instruction",
+      "score": 0.9938993453979492,
+      "box": [
+        128,
+        433,
+        686,
+        459
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Kind Minds Academy, 2013.042016.07",
+      "score": 0.9992126226425171,
+      "box": [
+        119,
+        474,
+        833,
+        498
+      ]
+    },
+    {
+      "text": "- Reviewed and updated curriculum materials",
+      "score": 0.9769580960273743,
+      "box": [
+        126,
+        500,
+        548,
+        524
+      ]
+    },
+    {
+      "text": "- Coordinated group learning activities",
+      "score": 0.9924827814102173,
+      "box": [
+        127,
+        522,
+        481,
+        550
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Bright Steps Academy, 2009.12—2013.04",
+      "score": 0.9833961129188538,
+      "box": [
+        117,
+        565,
+        844,
+        592
+      ]
+    },
+    {
+      "text": "- Prepared daily instructional agendas",
+      "score": 0.9952117800712585,
+      "box": [
+        125,
+        590,
+        481,
+        618
+      ]
+    },
+    {
+      "text": "- Distributed assessment rubrics",
+      "score": 0.9716244339942932,
+      "box": [
+        126,
+        614,
+        429,
+        644
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999147057533264,
+      "box": [
+        117,
+        681,
+        266,
+        705
+      ]
+    },
+    {
+      "text": "Master's, Applied Education, Woodview University, 2007",
+      "score": 0.9980544447898865,
+      "box": [
+        115,
+        723,
+        639,
+        750
+      ]
+    },
+    {
+      "text": "Bachelor's, Educational Foundations, Hillside University, 2005",
+      "score": 0.9706143140792847,
+      "box": [
+        117,
+        749,
+        688,
+        773
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of science education",
+      "score": 0.9815467000007629,
+      "box": [
+        130,
+        776,
+        547,
+        799
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of group learning dynamics",
+      "score": 0.9907287359237671,
+      "box": [
+        132,
+        801,
+        605,
+        825
+      ]
+    }
+  ],
+  "seconds": 3.4141055000945926,
+  "id": "01290",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

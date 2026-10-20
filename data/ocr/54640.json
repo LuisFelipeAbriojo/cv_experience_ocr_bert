@@ -1,0 +1,142 @@
+{
+  "lines": [
+    {
+      "text": "KATHLEEN CONLEY",
+      "score": 0.9996472001075745,
+      "box": [
+        116,
+        90,
+        448,
+        122
+      ]
+    },
+    {
+      "text": "TX, USA | +1-557-544-1517 | kathleen.conley@example.com",
+      "score": 0.9874593615531921,
+      "box": [
+        119,
+        152,
+        682,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9997477531433105,
+      "box": [
+        117,
+        243,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Construction Laborers, SolidWorks Builders, 2021.01—2023.01",
+      "score": 0.9812081456184387,
+      "box": [
+        118,
+        289,
+        692,
+        313
+      ]
+    },
+    {
+      "text": "- Managed workforce allocation",
+      "score": 0.9989520311355591,
+      "box": [
+        125,
+        313,
+        421,
+        341
+      ]
+    },
+    {
+      "text": "- Developed site performance metrics",
+      "score": 0.9839004874229431,
+      "box": [
+        127,
+        339,
+        476,
+        368
+      ]
+    },
+    {
+      "text": "Construction Laborers, AnchorLine Contractors, 2018.122021.01",
+      "score": 0.9952489733695984,
+      "box": [
+        117,
+        381,
+        727,
+        408
+      ]
+    },
+    {
+      "text": "- Sorted building materials",
+      "score": 0.9985724091529846,
+      "box": [
+        126,
+        408,
+        373,
+        432
+      ]
+    },
+    {
+      "text": "- Prepared tools and equipment for daily tasks",
+      "score": 0.9842172861099243,
+      "box": [
+        127,
+        431,
+        555,
+        458
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9998945593833923,
+      "box": [
+        117,
+        494,
+        266,
+        521
+      ]
+    },
+    {
+      "text": "Associate's degree, Construction Logistics, Willowview University, 2016",
+      "score": 0.9911130666732788,
+      "box": [
+        117,
+        539,
+        777,
+        566
+      ]
+    },
+    {
+      "text": "Studied principles of load handling",
+      "score": 0.9961422681808472,
+      "box": [
+        129,
+        565,
+        466,
+        593
+      ]
+    },
+    {
+      "text": "Completed coursework in basic plastering",
+      "score": 0.9939869046211243,
+      "box": [
+        130,
+        589,
+        534,
+        619
+      ]
+    }
+  ],
+  "seconds": 2.333226799964905,
+  "id": "54640",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

@@ -1,0 +1,172 @@
+{
+  "lines": [
+    {
+      "text": "DAKOTA HEBERT",
+      "score": 0.984375536441803,
+      "box": [
+        116,
+        89,
+        408,
+        122
+      ]
+    },
+    {
+      "text": "AZ, USA | +1-691-561-4113 | dakota.hebert@example.com",
+      "score": 0.9907797574996948,
+      "box": [
+        118,
+        152,
+        665,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9991477131843567,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, BrightStart Academy, 2020.11—2023.01",
+      "score": 0.9892756342887878,
+      "box": [
+        115,
+        287,
+        829,
+        318
+      ]
+    },
+    {
+      "text": "- Directed assessment development efforts",
+      "score": 0.9993732571601868,
+      "box": [
+        125,
+        314,
+        526,
+        342
+      ]
+    },
+    {
+      "text": "- Developed teacher training modules",
+      "score": 0.9894083738327026,
+      "box": [
+        126,
+        339,
+        477,
+        369
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Open Start School, 2018.092020.11",
+      "score": 0.9773924350738525,
+      "box": [
+        117,
+        382,
+        808,
+        409
+      ]
+    },
+    {
+      "text": "- Implemented instructional modifications",
+      "score": 0.9993842244148254,
+      "box": [
+        126,
+        408,
+        508,
+        433
+      ]
+    },
+    {
+      "text": "- Maintained academic records",
+      "score": 0.9993451237678528,
+      "box": [
+        126,
+        431,
+        415,
+        457
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Bright Hills Academy, 2016.062018.09",
+      "score": 0.9961328506469727,
+      "box": [
+        118,
+        472,
+        831,
+        499
+      ]
+    },
+    {
+      "text": "- Recorded student progress data",
+      "score": 0.9908030033111572,
+      "box": [
+        125,
+        497,
+        442,
+        525
+      ]
+    },
+    {
+      "text": "- Collected student assignments",
+      "score": 0.9786821007728577,
+      "box": [
+        128,
+        522,
+        426,
+        549
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999111890792847,
+      "box": [
+        117,
+        587,
+        267,
+        614
+      ]
+    },
+    {
+      "text": "Bachelor's, General Education, Elmwood University, 2017",
+      "score": 0.983279824256897,
+      "box": [
+        118,
+        633,
+        652,
+        657
+      ]
+    },
+    {
+      "text": "• Studied principles of learning outcomes assessment",
+      "score": 0.9894270300865173,
+      "box": [
+        131,
+        660,
+        630,
+        684
+      ]
+    },
+    {
+      "text": "•Studied principles of academic progress tracking",
+      "score": 0.9777064323425293,
+      "box": [
+        129,
+        681,
+        598,
+        710
+      ]
+    }
+  ],
+  "seconds": 2.496738300193101,
+  "id": "01519",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

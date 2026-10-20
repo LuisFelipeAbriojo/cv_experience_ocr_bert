@@ -1,0 +1,142 @@
+{
+  "lines": [
+    {
+      "text": "WILLIAM ENGLISH",
+      "score": 0.9960314631462097,
+      "box": [
+        117,
+        89,
+        419,
+        122
+      ]
+    },
+    {
+      "text": "CO, USA | +1-234-374-3396 | william.english@example.com",
+      "score": 0.9906387329101562,
+      "box": [
+        116,
+        150,
+        677,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9997386932373047,
+      "box": [
+        117,
+        243,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Software Developers, Northstar Software, 2021.02—2023.01",
+      "score": 0.9955267310142517,
+      "box": [
+        116,
+        288,
+        669,
+        315
+      ]
+    },
+    {
+      "text": "- Defined scalability roadmaps",
+      "score": 0.9836316704750061,
+      "box": [
+        125,
+        313,
+        410,
+        343
+      ]
+    },
+    {
+      "text": "- Led refactoring initiatives",
+      "score": 0.976675271987915,
+      "box": [
+        128,
+        339,
+        374,
+        369
+      ]
+    },
+    {
+      "text": "Software Developers, Netbridge Tech, 2019.03—2021.02",
+      "score": 0.9868773818016052,
+      "box": [
+        115,
+        380,
+        641,
+        408
+      ]
+    },
+    {
+      "text": "- Logged and tracked software defects",
+      "score": 0.9777249693870544,
+      "box": [
+        129,
+        409,
+        485,
+        433
+      ]
+    },
+    {
+      "text": "- Assisted with CI pipeline tasks",
+      "score": 0.968275249004364,
+      "box": [
+        128,
+        430,
+        424,
+        458
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9998805522918701,
+      "box": [
+        117,
+        494,
+        268,
+        521
+      ]
+    },
+    {
+      "text": "Bachelor's, Willowstone University, 2023",
+      "score": 0.9960993528366089,
+      "box": [
+        115,
+        539,
+        493,
+        567
+      ]
+    },
+    {
+      "text": "•Studied fundamentals of programming paradigms",
+      "score": 0.9848156571388245,
+      "box": [
+        129,
+        565,
+        606,
+        593
+      ]
+    },
+    {
+      "text": "•Completed coursework in message queues",
+      "score": 0.9874162673950195,
+      "box": [
+        131,
+        591,
+        549,
+        617
+      ]
+    }
+  ],
+  "seconds": 2.1452231002040207,
+  "id": "10223",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

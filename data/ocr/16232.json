@@ -1,0 +1,142 @@
+{
+  "lines": [
+    {
+      "text": "KIMBERLY FROST",
+      "score": 0.9996340870857239,
+      "box": [
+        118,
+        91,
+        416,
+        121
+      ]
+    },
+    {
+      "text": "GA, USA | +1-599-307-5668 | kimberly.frost@example.com",
+      "score": 0.9808984398841858,
+      "box": [
+        118,
+        152,
+        665,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9991812109947205,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, Compassion Spring Medical, 2021.01-2023.01",
+      "score": 0.9821573495864868,
+      "box": [
+        116,
+        287,
+        735,
+        317
+      ]
+    },
+    {
+      "text": "- Developed clinical performance dashboards",
+      "score": 0.9996076226234436,
+      "box": [
+        125,
+        313,
+        549,
+        342
+      ]
+    },
+    {
+      "text": "- Directed nursing operations planning",
+      "score": 0.9916927814483643,
+      "box": [
+        127,
+        339,
+        482,
+        369
+      ]
+    },
+    {
+      "text": "Registered Nurses, LifePath Nursing Services, 2016.112018.11",
+      "score": 0.998115599155426,
+      "box": [
+        117,
+        382,
+        716,
+        409
+      ]
+    },
+    {
+      "text": "- Maintained supply inventory",
+      "score": 0.984578013420105,
+      "box": [
+        125,
+        405,
+        403,
+        435
+      ]
+    },
+    {
+      "text": "- Assisted with diagnostic procedures",
+      "score": 0.9899160265922546,
+      "box": [
+        127,
+        430,
+        473,
+        459
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999297261238098,
+      "box": [
+        117,
+        494,
+        267,
+        521
+      ]
+    },
+    {
+      "text": "Associate's degree, Patient Services, Brookway University, 2013",
+      "score": 0.9961073398590088,
+      "box": [
+        118,
+        542,
+        714,
+        566
+      ]
+    },
+    {
+      "text": "Studied principles of infection surveillance",
+      "score": 0.9992995858192444,
+      "box": [
+        128,
+        565,
+        537,
+        593
+      ]
+    },
+    {
+      "text": "• Studied principles of safety protocols",
+      "score": 0.9815654754638672,
+      "box": [
+        132,
+        592,
+        488,
+        616
+      ]
+    }
+  ],
+  "seconds": 2.3876653001643717,
+  "id": "16232",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

@@ -1,0 +1,112 @@
+{
+  "lines": [
+    {
+      "text": "TARYN LEE",
+      "score": 0.9990931749343872,
+      "box": [
+        115,
+        89,
+        309,
+        123
+      ]
+    },
+    {
+      "text": "PA, USA | +1-518-820-1874 | taryn.lee@example.com",
+      "score": 0.9790223836898804,
+      "box": [
+        115,
+        149,
+        621,
+        177
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9994053840637207,
+      "box": [
+        116,
+        243,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Software Developers, Coreline Labs, 2017.08—2020.04",
+      "score": 0.9877516627311707,
+      "box": [
+        117,
+        290,
+        625,
+        314
+      ]
+    },
+    {
+      "text": "- Assisted with version control operations",
+      "score": 0.9905359148979187,
+      "box": [
+        126,
+        316,
+        509,
+        340
+      ]
+    },
+    {
+      "text": "- Participated in code reviews",
+      "score": 0.995985209941864,
+      "box": [
+        127,
+        339,
+        403,
+        365
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999134540557861,
+      "box": [
+        116,
+        404,
+        269,
+        431
+      ]
+    },
+    {
+      "text": "Bachelor's, Vista University, 2013",
+      "score": 0.999191164970398,
+      "box": [
+        116,
+        447,
+        429,
+        473
+      ]
+    },
+    {
+      "text": "•Studied fundamentals of user interface development",
+      "score": 0.9891731142997742,
+      "box": [
+        130,
+        474,
+        631,
+        498
+      ]
+    },
+    {
+      "text": "•Studied fundamentals of discrete mathematics",
+      "score": 0.9814909100532532,
+      "box": [
+        131,
+        497,
+        578,
+        523
+      ]
+    }
+  ],
+  "seconds": 1.8378129000775516,
+  "id": "45016",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

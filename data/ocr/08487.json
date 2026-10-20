@@ -1,0 +1,152 @@
+{
+  "lines": [
+    {
+      "text": "WILLIAM HUANG",
+      "score": 0.999688982963562,
+      "box": [
+        118,
+        91,
+        392,
+        122
+      ]
+    },
+    {
+      "text": "CA, USA | +1-730-974-2992 | william.huang@example.com",
+      "score": 0.988773763179779,
+      "box": [
+        116,
+        150,
+        667,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9607617855072021,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Brightgrid Software, 2020.06—2023.01",
+      "score": 0.9942525625228882,
+      "box": [
+        116,
+        289,
+        673,
+        316
+      ]
+    },
+    {
+      "text": "- Defined API standards",
+      "score": 0.9848795533180237,
+      "box": [
+        126,
+        314,
+        351,
+        340
+      ]
+    },
+    {
+      "text": "- Designed microservice architectures",
+      "score": 0.9981507062911987,
+      "box": [
+        127,
+        339,
+        479,
+        367
+      ]
+    },
+    {
+      "text": "Software Developers, Coreline Labs, 2017.10—2020.06",
+      "score": 0.9829925894737244,
+      "box": [
+        115,
+        380,
+        626,
+        408
+      ]
+    },
+    {
+      "text": "- Performed code formatting",
+      "score": 0.9906521439552307,
+      "box": [
+        125,
+        403,
+        391,
+        435
+      ]
+    },
+    {
+      "text": "- Updated localization files",
+      "score": 0.9926992058753967,
+      "box": [
+        128,
+        430,
+        375,
+        460
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999310374259949,
+      "box": [
+        116,
+        494,
+        268,
+        521
+      ]
+    },
+    {
+      "text": "Master's, Parkview University, 2021",
+      "score": 0.9905638694763184,
+      "box": [
+        115,
+        540,
+        445,
+        566
+      ]
+    },
+    {
+      "text": "Bachelor's, Willowbrook University, 2019",
+      "score": 0.9862176179885864,
+      "box": [
+        117,
+        567,
+        494,
+        591
+      ]
+    },
+    {
+      "text": "•Completed coursework in schema design",
+      "score": 0.99344402551651,
+      "box": [
+        130,
+        592,
+        530,
+        617
+      ]
+    },
+    {
+      "text": "Studied principles of computational thinking",
+      "score": 0.9970773458480835,
+      "box": [
+        131,
+        614,
+        550,
+        644
+      ]
+    }
+  ],
+  "seconds": 2.245086899958551,
+  "id": "08487",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

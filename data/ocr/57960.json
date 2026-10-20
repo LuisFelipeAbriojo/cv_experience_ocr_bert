@@ -1,0 +1,202 @@
+{
+  "lines": [
+    {
+      "text": "REBECCA LANE",
+      "score": 0.9800726771354675,
+      "box": [
+        117,
+        91,
+        383,
+        121
+      ]
+    },
+    {
+      "text": "WA, USA | +1-277-565-4842 | rebecca.lane@example.com",
+      "score": 0.9978709816932678,
+      "box": [
+        115,
+        150,
+        665,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9991067051887512,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Sunny Meadow School, 2018.112023.01",
+      "score": 0.9981302618980408,
+      "box": [
+        117,
+        290,
+        850,
+        317
+      ]
+    },
+    {
+      "text": "- Led instructional technology integration",
+      "score": 0.9822205901145935,
+      "box": [
+        125,
+        315,
+        506,
+        343
+      ]
+    },
+    {
+      "text": "- Established curriculum evaluation protocols",
+      "score": 0.9869605898857117,
+      "box": [
+        126,
+        339,
+        544,
+        367
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Learning Way Academy, 2014.09—2018.11",
+      "score": 0.9823782444000244,
+      "box": [
+        116,
+        381,
+        860,
+        411
+      ]
+    },
+    {
+      "text": "- Established learning outcome benchmarks",
+      "score": 0.9963780641555786,
+      "box": [
+        126,
+        408,
+        535,
+        433
+      ]
+    },
+    {
+      "text": "- Designed curriculum frameworks for grade-level instruction",
+      "score": 0.9894070029258728,
+      "box": [
+        127,
+        434,
+        686,
+        457
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Golden Grove Academy, 2010.072014.09",
+      "score": 0.980945885181427,
+      "box": [
+        119,
+        474,
+        860,
+        498
+      ]
+    },
+    {
+      "text": "- Reviewed and updated curriculum materials",
+      "score": 0.9979314804077148,
+      "box": [
+        126,
+        498,
+        549,
+        523
+      ]
+    },
+    {
+      "text": "- Analyzed student performance data",
+      "score": 0.9808957576751709,
+      "box": [
+        127,
+        521,
+        473,
+        550
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Caring Hills School, 2006.04—2010.07",
+      "score": 0.9842869639396667,
+      "box": [
+        118,
+        565,
+        813,
+        589
+      ]
+    },
+    {
+      "text": "- Administered learning games",
+      "score": 0.9948573112487793,
+      "box": [
+        125,
+        590,
+        414,
+        618
+      ]
+    },
+    {
+      "text": "- Collected permission forms",
+      "score": 0.9831199049949646,
+      "box": [
+        126,
+        614,
+        394,
+        643
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999116063117981,
+      "box": [
+        117,
+        681,
+        266,
+        705
+      ]
+    },
+    {
+      "text": "Bachelor's, Education Basics, Lakeside University, 2010",
+      "score": 0.9825730323791504,
+      "box": [
+        116,
+        724,
+        636,
+        749
+      ]
+    },
+    {
+      "text": "• Completed coursework in writing instruction",
+      "score": 0.9866623878479004,
+      "box": [
+        133,
+        750,
+        551,
+        774
+      ]
+    },
+    {
+      "text": "Studied principles of academic scaffolding",
+      "score": 0.9991888999938965,
+      "box": [
+        132,
+        772,
+        537,
+        801
+      ]
+    }
+  ],
+  "seconds": 3.195888599846512,
+  "id": "57960",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

@@ -1,0 +1,102 @@
+{
+  "lines": [
+    {
+      "text": "LUKAS WILLIAMS",
+      "score": 0.9924712181091309,
+      "box": [
+        118,
+        91,
+        406,
+        122
+      ]
+    },
+    {
+      "text": "IA, USA | +1-702-283-4861 | lukas.williams@example.com",
+      "score": 0.9948427677154541,
+      "box": [
+        117,
+        150,
+        659,
+        177
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9997143149375916,
+      "box": [
+        117,
+        243,
+        317,
+        270
+      ]
+    },
+    {
+      "text": "Construction Laborers, SolidCraft Contractors, 2021.01—2023.01",
+      "score": 0.980293869972229,
+      "box": [
+        116,
+        287,
+        712,
+        315
+      ]
+    },
+    {
+      "text": "- Assisted with equipment maintenance",
+      "score": 0.9886837601661682,
+      "box": [
+        125,
+        314,
+        493,
+        340
+      ]
+    },
+    {
+      "text": "- Prepared surfaces for construction work",
+      "score": 0.9981684684753418,
+      "box": [
+        128,
+        341,
+        512,
+        365
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999291300773621,
+      "box": [
+        116,
+        404,
+        268,
+        431
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Structural Technology, Meadowridge Valley High School, 2020",
+      "score": 0.9939187169075012,
+      "box": [
+        116,
+        446,
+        956,
+        475
+      ]
+    },
+    {
+      "text": "Completed coursework in structural anchoring",
+      "score": 0.9890943765640259,
+      "box": [
+        131,
+        472,
+        574,
+        501
+      ]
+    }
+  ],
+  "seconds": 1.9254450001753867,
+  "id": "21483",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

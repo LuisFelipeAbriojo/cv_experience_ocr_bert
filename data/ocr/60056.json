@@ -1,0 +1,142 @@
+{
+  "lines": [
+    {
+      "text": "STEPHANIE CANTRELL",
+      "score": 0.9997628331184387,
+      "box": [
+        117,
+        92,
+        497,
+        122
+      ]
+    },
+    {
+      "text": "WV, USA | +1-357-878-2305 | stephanie.cantrell@example.com",
+      "score": 0.9862872958183289,
+      "box": [
+        118,
+        152,
+        708,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9991436004638672,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Future Horizons Academy, 2020.04—2021.11",
+      "score": 0.9897695779800415,
+      "box": [
+        116,
+        288,
+        879,
+        316
+      ]
+    },
+    {
+      "text": "- Directed academic intervention strategies",
+      "score": 0.999180018901825,
+      "box": [
+        126,
+        315,
+        524,
+        342
+      ]
+    },
+    {
+      "text": "- Implemented long-term academic plans",
+      "score": 0.9970242381095886,
+      "box": [
+        127,
+        339,
+        508,
+        369
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Growing Tree Academy, 2017.122019.07",
+      "score": 0.9915550947189331,
+      "box": [
+        116,
+        381,
+        857,
+        411
+      ]
+    },
+    {
+      "text": "- Provided math drill exercises",
+      "score": 0.9933120012283325,
+      "box": [
+        126,
+        407,
+        410,
+        433
+      ]
+    },
+    {
+      "text": "- Collected student assignments",
+      "score": 0.9979690909385681,
+      "box": [
+        128,
+        431,
+        426,
+        458
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.99991375207901,
+      "box": [
+        117,
+        494,
+        268,
+        521
+      ]
+    },
+    {
+      "text": "Bachelor's, Education Services, Sunfield University, 2010",
+      "score": 0.9908272624015808,
+      "box": [
+        115,
+        539,
+        648,
+        567
+      ]
+    },
+    {
+      "text": "•Completed coursework in basic instructional coaching",
+      "score": 0.9855146408081055,
+      "box": [
+        130,
+        565,
+        644,
+        594
+      ]
+    },
+    {
+      "text": "•Studied principles of lesson planning",
+      "score": 0.9704510569572449,
+      "box": [
+        131,
+        590,
+        487,
+        619
+      ]
+    }
+  ],
+  "seconds": 2.629844999872148,
+  "id": "60056",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

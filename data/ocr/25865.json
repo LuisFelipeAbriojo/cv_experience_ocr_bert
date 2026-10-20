@@ -1,0 +1,142 @@
+{
+  "lines": [
+    {
+      "text": "MICHAEL NORTON",
+      "score": 0.9996122717857361,
+      "box": [
+        117,
+        90,
+        425,
+        122
+      ]
+    },
+    {
+      "text": "MA, USA | +1-285-934-2436 | michael.norton@example.com",
+      "score": 0.9912087917327881,
+      "box": [
+        117,
+        152,
+        679,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9991876482963562,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Openline Digital, 2021.062023.01",
+      "score": 0.9886959791183472,
+      "box": [
+        117,
+        291,
+        641,
+        315
+      ]
+    },
+    {
+      "text": "- Led platform migrations",
+      "score": 0.9612075686454773,
+      "box": [
+        128,
+        316,
+        360,
+        340
+      ]
+    },
+    {
+      "text": "- Designed event-driven architectures",
+      "score": 0.9978955984115601,
+      "box": [
+        128,
+        339,
+        477,
+        367
+      ]
+    },
+    {
+      "text": "Software Developers, Corefield Software, 2018.072020.03",
+      "score": 0.9792875051498413,
+      "box": [
+        115,
+        379,
+        669,
+        410
+      ]
+    },
+    {
+      "text": "- Assisted with system documentation",
+      "score": 0.9899440407752991,
+      "box": [
+        126,
+        409,
+        478,
+        433
+      ]
+    },
+    {
+      "text": "- Assisted with database queries",
+      "score": 0.9830328822135925,
+      "box": [
+        128,
+        434,
+        429,
+        457
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999268054962158,
+      "box": [
+        117,
+        494,
+        267,
+        521
+      ]
+    },
+    {
+      "text": "Bachelor's, Lakewood University, 2015",
+      "score": 0.9952992796897888,
+      "box": [
+        116,
+        540,
+        477,
+        566
+      ]
+    },
+    {
+      "text": "•Completed coursework in calculus for computing",
+      "score": 0.9874649047851562,
+      "box": [
+        131,
+        564,
+        598,
+        594
+      ]
+    },
+    {
+      "text": "• Completed coursework in pointer arithmetic basics",
+      "score": 0.9819068908691406,
+      "box": [
+        132,
+        591,
+        614,
+        617
+      ]
+    }
+  ],
+  "seconds": 2.279372500255704,
+  "id": "25865",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

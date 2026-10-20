@@ -1,0 +1,112 @@
+{
+  "lines": [
+    {
+      "text": "GIBSON SCHULTZ",
+      "score": 0.9998878240585327,
+      "box": [
+        117,
+        89,
+        416,
+        123
+      ]
+    },
+    {
+      "text": "IN, USA | +1-219-487-8637 | gibson.schultz@example.com",
+      "score": 0.9983378648757935,
+      "box": [
+        116,
+        149,
+        665,
+        177
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9996891021728516,
+      "box": [
+        117,
+        243,
+        317,
+        270
+      ]
+    },
+    {
+      "text": "Construction Laborers, BuildStone Group, 2021.02—2023.01",
+      "score": 0.9906395673751831,
+      "box": [
+        116,
+        287,
+        672,
+        315
+      ]
+    },
+    {
+      "text": "- Prepared scaffolding platforms",
+      "score": 0.999610424041748,
+      "box": [
+        125,
+        313,
+        427,
+        342
+      ]
+    },
+    {
+      "text": "- Assisted with site cleanup and debris removal",
+      "score": 0.9977719783782959,
+      "box": [
+        127,
+        338,
+        566,
+        366
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999460577964783,
+      "box": [
+        116,
+        404,
+        268,
+        431
+      ]
+    },
+    {
+      "text": "Bachelor's, Construction Services, Lakewood University, 2023",
+      "score": 0.9836381077766418,
+      "box": [
+        115,
+        446,
+        691,
+        474
+      ]
+    },
+    {
+      "text": "•Completed coursework in basic tile installation",
+      "score": 0.9767925143241882,
+      "box": [
+        132,
+        473,
+        576,
+        498
+      ]
+    },
+    {
+      "text": "Completed coursework in construction inspection reporting",
+      "score": 0.9997124075889587,
+      "box": [
+        132,
+        496,
+        689,
+        527
+      ]
+    }
+  ],
+  "seconds": 2.033037200104445,
+  "id": "20683",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

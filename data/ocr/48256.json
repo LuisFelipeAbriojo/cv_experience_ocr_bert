@@ -1,0 +1,142 @@
+{
+  "lines": [
+    {
+      "text": "DAVID GOOD",
+      "score": 0.9796643257141113,
+      "box": [
+        117,
+        90,
+        333,
+        121
+      ]
+    },
+    {
+      "text": "SD, USA | +1-434-725-7479 | david.good@example.com",
+      "score": 0.9840604662895203,
+      "box": [
+        116,
+        149,
+        643,
+        177
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9995506405830383,
+      "box": [
+        116,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Construction Laborers, SolidForm Construction, 2020.04—2023.01",
+      "score": 0.9920654892921448,
+      "box": [
+        118,
+        290,
+        724,
+        314
+      ]
+    },
+    {
+      "text": "- Directed site optimization initiatives",
+      "score": 0.9874963760375977,
+      "box": [
+        126,
+        313,
+        467,
+        342
+      ]
+    },
+    {
+      "text": "- Implemented quality control systems",
+      "score": 0.9793660044670105,
+      "box": [
+        127,
+        339,
+        479,
+        367
+      ]
+    },
+    {
+      "text": "Construction Laborers, NextBuild Contractors, 2015.11—2018.09",
+      "score": 0.9782248735427856,
+      "box": [
+        117,
+        381,
+        712,
+        406
+      ]
+    },
+    {
+      "text": "- Monitored material usage",
+      "score": 0.9915377497673035,
+      "box": [
+        125,
+        404,
+        379,
+        434
+      ]
+    },
+    {
+      "text": "- Handled power tools under supervision",
+      "score": 0.9927162528038025,
+      "box": [
+        126,
+        430,
+        503,
+        457
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999325275421143,
+      "box": [
+        118,
+        495,
+        267,
+        519
+      ]
+    },
+    {
+      "text": "Some college (no degree), Construction Supervision, Autumn Ridge University, 2011",
+      "score": 0.9881829023361206,
+      "box": [
+        117,
+        540,
+        899,
+        567
+      ]
+    },
+    {
+      "text": "•Completed coursework in construction time management",
+      "score": 0.9869791269302368,
+      "box": [
+        130,
+        566,
+        676,
+        591
+      ]
+    },
+    {
+      "text": "Studied fundamentals of flooring installation",
+      "score": 0.9834887981414795,
+      "box": [
+        131,
+        589,
+        553,
+        617
+      ]
+    }
+  ],
+  "seconds": 2.604104600381106,
+  "id": "48256",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

@@ -1,0 +1,142 @@
+{
+  "lines": [
+    {
+      "text": "MALIK GARNER",
+      "score": 0.9626139998435974,
+      "box": [
+        117,
+        91,
+        377,
+        121
+      ]
+    },
+    {
+      "text": "KS, USA | +1-826-997-5375 | malik.garner@example.com",
+      "score": 0.9884313344955444,
+      "box": [
+        116,
+        149,
+        654,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9997491240501404,
+      "box": [
+        117,
+        243,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Construction Laborers, Precision Frame Builders, 2020.12—2023.01",
+      "score": 0.9964755773544312,
+      "box": [
+        118,
+        290,
+        739,
+        314
+      ]
+    },
+    {
+      "text": "- Led cross-functional coordination",
+      "score": 0.9997565150260925,
+      "box": [
+        126,
+        314,
+        449,
+        340
+      ]
+    },
+    {
+      "text": "- Directed project scheduling",
+      "score": 0.989001452922821,
+      "box": [
+        126,
+        338,
+        395,
+        368
+      ]
+    },
+    {
+      "text": "Construction Laborers, WorkFrame Builders, 2018.11—2020.12",
+      "score": 0.9796643853187561,
+      "box": [
+        117,
+        381,
+        700,
+        406
+      ]
+    },
+    {
+      "text": "- Performed basic sanding and painting",
+      "score": 0.9969128966331482,
+      "box": [
+        124,
+        405,
+        493,
+        435
+      ]
+    },
+    {
+      "text": "- Set up workstations for crews",
+      "score": 0.9859352707862854,
+      "box": [
+        127,
+        431,
+        415,
+        457
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9994057416915894,
+      "box": [
+        118,
+        495,
+        267,
+        519
+      ]
+    },
+    {
+      "text": "Some college (no degree), Construction Design, Harvest University, 2022",
+      "score": 0.9912533760070801,
+      "box": [
+        117,
+        540,
+        796,
+        567
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of structural stability",
+      "score": 0.9819009900093079,
+      "box": [
+        129,
+        566,
+        540,
+        591
+      ]
+    },
+    {
+      "text": "•Studied fundamentals of job site inspections",
+      "score": 0.9798238277435303,
+      "box": [
+        131,
+        590,
+        554,
+        616
+      ]
+    }
+  ],
+  "seconds": 2.403017000295222,
+  "id": "21688",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

@@ -1,0 +1,212 @@
+{
+  "lines": [
+    {
+      "text": "CARLA PACHECO",
+      "score": 0.9998344779014587,
+      "box": [
+        118,
+        91,
+        410,
+        122
+      ]
+    },
+    {
+      "text": "CA, USA | +1-648-531-8428 | carla.pacheco@example.com",
+      "score": 0.9724164009094238,
+      "box": [
+        116,
+        150,
+        670,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9991553425788879,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, BrightWay School, 2020.06—2023.01",
+      "score": 0.9939319491386414,
+      "box": [
+        115,
+        287,
+        804,
+        319
+      ]
+    },
+    {
+      "text": "- Established instructional best practices",
+      "score": 0.9883726239204407,
+      "box": [
+        126,
+        315,
+        501,
+        342
+      ]
+    },
+    {
+      "text": "- Developed teacher training modules",
+      "score": 0.9734326601028442,
+      "box": [
+        126,
+        339,
+        477,
+        369
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Harmony Academy, 2017.112020.06",
+      "score": 0.9940122961997986,
+      "box": [
+        116,
+        381,
+        816,
+        411
+      ]
+    },
+    {
+      "text": "- Led strategic curriculum planning",
+      "score": 0.9871015548706055,
+      "box": [
+        127,
+        406,
+        450,
+        436
+      ]
+    },
+    {
+      "text": "- Implemented learning system upgrades",
+      "score": 0.9844532012939453,
+      "box": [
+        127,
+        431,
+        508,
+        459
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Kind Hearts Academy, 2014.052016.12",
+      "score": 0.9901699423789978,
+      "box": [
+        117,
+        472,
+        841,
+        499
+      ]
+    },
+    {
+      "text": "- Developed progress monitoring tools",
+      "score": 0.9933768510818481,
+      "box": [
+        125,
+        497,
+        484,
+        525
+      ]
+    },
+    {
+      "text": "- Implemented formative assessment strategies",
+      "score": 0.9918172955513,
+      "box": [
+        127,
+        521,
+        568,
+        551
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Open Door School, 2011.012013.08",
+      "score": 0.9876809120178223,
+      "box": [
+        118,
+        566,
+        809,
+        590
+      ]
+    },
+    {
+      "text": "- Delivered structured lessons in reading and mathematics",
+      "score": 0.9881536364555359,
+      "box": [
+        125,
+        589,
+        668,
+        617
+      ]
+    },
+    {
+      "text": "- Recorded test results",
+      "score": 0.9863291382789612,
+      "box": [
+        126,
+        614,
+        339,
+        642
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999353885650635,
+      "box": [
+        117,
+        681,
+        266,
+        705
+      ]
+    },
+    {
+      "text": "Master's, Academic Support Studies, Riverway University, 2008",
+      "score": 0.9915786385536194,
+      "box": [
+        115,
+        723,
+        706,
+        750
+      ]
+    },
+    {
+      "text": "Bachelor's, Education Services, Morningstar University, 2006",
+      "score": 0.9918794631958008,
+      "box": [
+        116,
+        749,
+        682,
+        776
+      ]
+    },
+    {
+      "text": "•Completed coursework in introductory child psychology",
+      "score": 0.9835239052772522,
+      "box": [
+        129,
+        773,
+        657,
+        802
+      ]
+    },
+    {
+      "text": "•Studied fundamentals of group learning dynamics",
+      "score": 0.987358570098877,
+      "box": [
+        131,
+        798,
+        606,
+        826
+      ]
+    }
+  ],
+  "seconds": 3.2373013999313116,
+  "id": "03683",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

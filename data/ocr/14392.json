@@ -1,0 +1,142 @@
+{
+  "lines": [
+    {
+      "text": "COLTON SHAFFER",
+      "score": 0.9997934103012085,
+      "box": [
+        117,
+        90,
+        426,
+        122
+      ]
+    },
+    {
+      "text": "FL, USA | +1-991-222-2655 | colton.shaffer@example.com",
+      "score": 0.9886882901191711,
+      "box": [
+        117,
+        149,
+        661,
+        177
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9997578263282776,
+      "box": [
+        117,
+        243,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Construction Laborers, PrimeBuild Group, 2021.03—2023.01",
+      "score": 0.9886067509651184,
+      "box": [
+        116,
+        288,
+        672,
+        316
+      ]
+    },
+    {
+      "text": "- Managed subcontractor coordination",
+      "score": 0.99949711561203,
+      "box": [
+        125,
+        313,
+        481,
+        342
+      ]
+    },
+    {
+      "text": "- Supervised high-risk operations",
+      "score": 0.9916697144508362,
+      "box": [
+        128,
+        340,
+        435,
+        368
+      ]
+    },
+    {
+      "text": "Construction Laborers, Allied Build Services, 2017.042019.03",
+      "score": 0.9818236827850342,
+      "box": [
+        116,
+        380,
+        698,
+        408
+      ]
+    },
+    {
+      "text": "- Moved equipment between work zones",
+      "score": 0.9907286763191223,
+      "box": [
+        125,
+        405,
+        505,
+        435
+      ]
+    },
+    {
+      "text": "- Prepared scaffolding platforms",
+      "score": 0.9897732734680176,
+      "box": [
+        127,
+        430,
+        426,
+        458
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999908447265625,
+      "box": [
+        117,
+        494,
+        267,
+        521
+      ]
+    },
+    {
+      "text": "Some college (no degree), Mechanical Technology, Elmwood Ridge University, 2007",
+      "score": 0.9911115765571594,
+      "box": [
+        116,
+        539,
+        902,
+        569
+      ]
+    },
+    {
+      "text": "•Completed coursework in basic site surveying",
+      "score": 0.9693344235420227,
+      "box": [
+        129,
+        564,
+        573,
+        594
+      ]
+    },
+    {
+      "text": "•Studied fundamentals of construction site coordination",
+      "score": 0.9952922463417053,
+      "box": [
+        132,
+        590,
+        648,
+        615
+      ]
+    }
+  ],
+  "seconds": 2.3286409000866115,
+  "id": "14392",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

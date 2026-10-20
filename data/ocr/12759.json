@@ -1,0 +1,132 @@
+{
+  "lines": [
+    {
+      "text": "JESSE BEST",
+      "score": 0.9997514486312866,
+      "box": [
+        116,
+        90,
+        326,
+        121
+      ]
+    },
+    {
+      "text": "FL, USA | +1-549-864-5463 | jesse.best@example.com",
+      "score": 0.9955204725265503,
+      "box": [
+        116,
+        149,
+        630,
+        177
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9991037249565125,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, PrimeBuild Services, 2019.05—2022.04",
+      "score": 0.9857816100120544,
+      "box": [
+        118,
+        290,
+        695,
+        314
+      ]
+    },
+    {
+      "text": "- Directed quality assurance programs",
+      "score": 0.9941985607147217,
+      "box": [
+        125,
+        313,
+        483,
+        345
+      ]
+    },
+    {
+      "text": "- Developed project risk assessments",
+      "score": 0.9921343922615051,
+      "box": [
+        127,
+        339,
+        477,
+        367
+      ]
+    },
+    {
+      "text": "Construction Laborers, CornerBuild Group, 2015.032018.02",
+      "score": 0.9900602102279663,
+      "box": [
+        116,
+        380,
+        683,
+        408
+      ]
+    },
+    {
+      "text": "- Maintained cleanliness of work areas",
+      "score": 0.978080153465271,
+      "box": [
+        125,
+        407,
+        484,
+        433
+      ]
+    },
+    {
+      "text": "- Stacked and organized construction supplies",
+      "score": 0.9945873022079468,
+      "box": [
+        129,
+        434,
+        556,
+        457
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999234080314636,
+      "box": [
+        117,
+        494,
+        267,
+        521
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Surveying Technology, Clearview High School, 1999",
+      "score": 0.9921022653579712,
+      "box": [
+        116,
+        539,
+        863,
+        567
+      ]
+    },
+    {
+      "text": "• Completed coursework in basic formwork",
+      "score": 0.9925786256790161,
+      "box": [
+        134,
+        567,
+        531,
+        591
+      ]
+    }
+  ],
+  "seconds": 2.2043363000266254,
+  "id": "12759",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

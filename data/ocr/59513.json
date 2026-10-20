@@ -1,0 +1,142 @@
+{
+  "lines": [
+    {
+      "text": "JESSICA GARCIA",
+      "score": 0.9989804625511169,
+      "box": [
+        116,
+        91,
+        402,
+        122
+      ]
+    },
+    {
+      "text": "WA, USA | +1-538-317-9328 | jessica.garcia@example.com",
+      "score": 0.9943822026252747,
+      "box": [
+        115,
+        150,
+        672,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9997689723968506,
+      "box": [
+        117,
+        243,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Registered Nurses, TrueLife Care Group, 2020.08—2023.01",
+      "score": 0.9851202964782715,
+      "box": [
+        115,
+        287,
+        667,
+        318
+      ]
+    },
+    {
+      "text": "- Implemented clinical decision support systems",
+      "score": 0.9853381514549255,
+      "box": [
+        126,
+        313,
+        572,
+        344
+      ]
+    },
+    {
+      "text": "- Supervised multidisciplinary care teams",
+      "score": 0.9785884022712708,
+      "box": [
+        127,
+        338,
+        509,
+        369
+      ]
+    },
+    {
+      "text": "Registered Nurses, KindLife Care Center, 2015.06—2017.11",
+      "score": 0.9907668828964233,
+      "box": [
+        116,
+        380,
+        670,
+        408
+      ]
+    },
+    {
+      "text": "- Collected patient health histories",
+      "score": 0.9946524500846863,
+      "box": [
+        124,
+        405,
+        445,
+        434
+      ]
+    },
+    {
+      "text": "- Recorded shift handoff notes",
+      "score": 0.9928551912307739,
+      "box": [
+        126,
+        430,
+        409,
+        456
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999339580535889,
+      "box": [
+        117,
+        494,
+        268,
+        521
+      ]
+    },
+    {
+      "text": "Bachelor's, Allied Health, Westfield University, 2008",
+      "score": 0.9954403638839722,
+      "box": [
+        116,
+        540,
+        596,
+        566
+      ]
+    },
+    {
+      "text": "• Completed coursework in palliative care basics",
+      "score": 0.9784873127937317,
+      "box": [
+        132,
+        566,
+        582,
+        591
+      ]
+    },
+    {
+      "text": "Completed coursework in patient positioning",
+      "score": 0.9864963293075562,
+      "box": [
+        131,
+        589,
+        558,
+        619
+      ]
+    }
+  ],
+  "seconds": 2.313449200242758,
+  "id": "59513",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

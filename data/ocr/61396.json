@@ -1,0 +1,202 @@
+{
+  "lines": [
+    {
+      "text": "MACHELLE SKINNER",
+      "score": 0.9997028708457947,
+      "box": [
+        117,
+        92,
+        462,
+        122
+      ]
+    },
+    {
+      "text": "WI, USA | +1-270-834-4566 | machelle.skinner@example.com",
+      "score": 0.9935216307640076,
+      "box": [
+        116,
+        150,
+        694,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9995768666267395,
+      "box": [
+        117,
+        244,
+        316,
+        271
+      ]
+    },
+    {
+      "text": "Registered Nurses, KindLife Care Center, 2019.02—2023.01",
+      "score": 0.9954639673233032,
+      "box": [
+        117,
+        290,
+        670,
+        317
+      ]
+    },
+    {
+      "text": "- Managed patient outcome evaluation systems",
+      "score": 0.9939873218536377,
+      "box": [
+        125,
+        314,
+        567,
+        343
+      ]
+    },
+    {
+      "text": "- Developed patient safety metrics",
+      "score": 0.9862097501754761,
+      "box": [
+        127,
+        340,
+        446,
+        368
+      ]
+    },
+    {
+      "text": "Registered Nurses, Compassion Path Medical, 2015.02—2019.02",
+      "score": 0.9900937080383301,
+      "box": [
+        116,
+        381,
+        719,
+        409
+      ]
+    },
+    {
+      "text": "- Managed patient safety reporting systems",
+      "score": 0.9995696544647217,
+      "box": [
+        125,
+        406,
+        530,
+        435
+      ]
+    },
+    {
+      "text": "- Designed clinical documentation standards",
+      "score": 0.9955658316612244,
+      "box": [
+        127,
+        433,
+        538,
+        459
+      ]
+    },
+    {
+      "text": "Registered Nurses, LifePath Health Services, 2010.02—2014.02",
+      "score": 0.987174928188324,
+      "box": [
+        118,
+        474,
+        703,
+        498
+      ]
+    },
+    {
+      "text": "- Implemented patient education programs",
+      "score": 0.9965881109237671,
+      "box": [
+        127,
+        497,
+        522,
+        526
+      ]
+    },
+    {
+      "text": "- Managed patient fall prevention measures",
+      "score": 0.9994813203811646,
+      "box": [
+        127,
+        521,
+        531,
+        552
+      ]
+    },
+    {
+      "text": "Registered Nurses, WellBridge Health Group, 2004.102008.10",
+      "score": 0.9886212348937988,
+      "box": [
+        116,
+        564,
+        708,
+        592
+      ]
+    },
+    {
+      "text": "- Recorded patient weight and height",
+      "score": 0.9996535778045654,
+      "box": [
+        125,
+        589,
+        473,
+        617
+      ]
+    },
+    {
+      "text": "- Recorded shift handoff notes",
+      "score": 0.9995179772377014,
+      "box": [
+        125,
+        613,
+        411,
+        643
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999110698699951,
+      "box": [
+        117,
+        681,
+        266,
+        705
+      ]
+    },
+    {
+      "text": "Bachelor's, Human Biology, Goldenbrook University, 2002",
+      "score": 0.9768192768096924,
+      "box": [
+        117,
+        725,
+        652,
+        748
+      ]
+    },
+    {
+      "text": "•Studied fundamentals of skin integrity maintenance",
+      "score": 0.9718451499938965,
+      "box": [
+        129,
+        748,
+        622,
+        776
+      ]
+    },
+    {
+      "text": "• Studied principles of patient identification",
+      "score": 0.9808157086372375,
+      "box": [
+        132,
+        775,
+        525,
+        799
+      ]
+    }
+  ],
+  "seconds": 5.021461499854922,
+  "id": "61396",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

@@ -1,0 +1,112 @@
+{
+  "lines": [
+    {
+      "text": "DESTINY POLLARD",
+      "score": 0.9971621036529541,
+      "box": [
+        118,
+        90,
+        434,
+        121
+      ]
+    },
+    {
+      "text": "NY, USA | +1-320-563-7215 | destiny.pollard@example.com",
+      "score": 0.9784977436065674,
+      "box": [
+        115,
+        149,
+        675,
+        177
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9993998408317566,
+      "box": [
+        116,
+        243,
+        317,
+        270
+      ]
+    },
+    {
+      "text": "Accountants Auditors, CoreBalance Services, 2020.09—2021.09",
+      "score": 0.9952372312545776,
+      "box": [
+        116,
+        288,
+        706,
+        313
+      ]
+    },
+    {
+      "text": "- Maintained chart of accounts",
+      "score": 0.9843416810035706,
+      "box": [
+        126,
+        314,
+        410,
+        339
+      ]
+    },
+    {
+      "text": "- Assisted with forecasting data",
+      "score": 0.982043981552124,
+      "box": [
+        128,
+        339,
+        418,
+        366
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999399185180664,
+      "box": [
+        116,
+        404,
+        268,
+        431
+      ]
+    },
+    {
+      "text": "Bachelor's, Applied Accounting, Stoneview University, 2015",
+      "score": 0.9891695380210876,
+      "box": [
+        115,
+        446,
+        670,
+        476
+      ]
+    },
+    {
+      "text": "Completed coursework in lease accounting",
+      "score": 0.9866954684257507,
+      "box": [
+        130,
+        472,
+        546,
+        501
+      ]
+    },
+    {
+      "text": "•Studied fundamentals of financial management",
+      "score": 0.9758866429328918,
+      "box": [
+        131,
+        496,
+        585,
+        525
+      ]
+    }
+  ],
+  "seconds": 1.9066377999261022,
+  "id": "38457",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

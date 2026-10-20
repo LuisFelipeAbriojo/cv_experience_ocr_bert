@@ -1,0 +1,142 @@
+{
+  "lines": [
+    {
+      "text": "ROBERT WISE",
+      "score": 0.9900314211845398,
+      "box": [
+        117,
+        90,
+        353,
+        121
+      ]
+    },
+    {
+      "text": "CO, USA | +1-757-251-7337 | robert.wise@example.com",
+      "score": 0.989046037197113,
+      "box": [
+        117,
+        150,
+        645,
+        177
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.999752938747406,
+      "box": [
+        117,
+        243,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Reliable Ledger Advisors, 2019.072021.07",
+      "score": 0.9916054606437683,
+      "box": [
+        116,
+        289,
+        732,
+        316
+      ]
+    },
+    {
+      "text": "- Managed consolidation processes",
+      "score": 0.9965115189552307,
+      "box": [
+        126,
+        313,
+        460,
+        343
+      ]
+    },
+    {
+      "text": "- Designed audit methodologies",
+      "score": 0.9981313943862915,
+      "box": [
+        128,
+        339,
+        424,
+        368
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Integrity Accounts, 2016.082018.09",
+      "score": 0.9978479146957397,
+      "box": [
+        116,
+        380,
+        666,
+        408
+      ]
+    },
+    {
+      "text": "- Prepared basic financial reports",
+      "score": 0.9771966338157654,
+      "box": [
+        126,
+        408,
+        437,
+        432
+      ]
+    },
+    {
+      "text": "- Reviewed account balances",
+      "score": 0.9951739311218262,
+      "box": [
+        126,
+        430,
+        403,
+        456
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999902069568634,
+      "box": [
+        117,
+        494,
+        268,
+        521
+      ]
+    },
+    {
+      "text": "Bachelor's, Cost Accounting, Goldenridge University, 2013",
+      "score": 0.97251296043396,
+      "box": [
+        115,
+        539,
+        660,
+        567
+      ]
+    },
+    {
+      "text": "Studied principles of compliance auditing",
+      "score": 0.9826033711433411,
+      "box": [
+        129,
+        564,
+        527,
+        594
+      ]
+    },
+    {
+      "text": "•Completed coursework in accounting process improvement",
+      "score": 0.9781371355056763,
+      "box": [
+        130,
+        590,
+        697,
+        618
+      ]
+    }
+  ],
+  "seconds": 2.471307000145316,
+  "id": "10195",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

@@ -1,0 +1,142 @@
+{
+  "lines": [
+    {
+      "text": "JOHNATHAN NEAL",
+      "score": 0.9998919367790222,
+      "box": [
+        116,
+        92,
+        427,
+        122
+      ]
+    },
+    {
+      "text": "MI, USA | +1-211-677-9900 | johnathan.neal@example.com",
+      "score": 0.9840476512908936,
+      "box": [
+        115,
+        150,
+        672,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9991324543952942,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Little Oak Learning, 2020.07—2023.01",
+      "score": 0.9812434911727905,
+      "box": [
+        115,
+        287,
+        812,
+        318
+      ]
+    },
+    {
+      "text": "- Designed performance monitoring systems",
+      "score": 0.9889448881149292,
+      "box": [
+        125,
+        314,
+        539,
+        343
+      ]
+    },
+    {
+      "text": "- Designed systemic intervention models",
+      "score": 0.9995940923690796,
+      "box": [
+        128,
+        341,
+        505,
+        368
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Discovery Meadow School, 2017.12—2020.07",
+      "score": 0.9932648539543152,
+      "box": [
+        116,
+        381,
+        885,
+        411
+      ]
+    },
+    {
+      "text": "- Administered quizzes and short assessments",
+      "score": 0.9987033605575562,
+      "box": [
+        126,
+        408,
+        561,
+        433
+      ]
+    },
+    {
+      "text": "- Collected student assignments",
+      "score": 0.9966362714767456,
+      "box": [
+        127,
+        431,
+        426,
+        457
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9976096749305725,
+      "box": [
+        116,
+        494,
+        267,
+        521
+      ]
+    },
+    {
+      "text": "Bachelor's, Child and Family Studies, Vista University, 2015",
+      "score": 0.9754449129104614,
+      "box": [
+        117,
+        542,
+        670,
+        566
+      ]
+    },
+    {
+      "text": "• Studied principles of early childhood education",
+      "score": 0.9850640296936035,
+      "box": [
+        131,
+        568,
+        578,
+        591
+      ]
+    },
+    {
+      "text": "Studied foundational pedagogy concepts",
+      "score": 0.9669018983840942,
+      "box": [
+        130,
+        589,
+        525,
+        619
+      ]
+    }
+  ],
+  "seconds": 2.523709900211543,
+  "id": "26942",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

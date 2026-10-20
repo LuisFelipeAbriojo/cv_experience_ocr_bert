@@ -1,0 +1,172 @@
+{
+  "lines": [
+    {
+      "text": "MACKENZIE TODD",
+      "score": 0.9948306083679199,
+      "box": [
+        117,
+        91,
+        420,
+        121
+      ]
+    },
+    {
+      "text": "SC, USA | +1-370-953-7997 | mackenzie.todd@example.com",
+      "score": 0.9775591492652893,
+      "box": [
+        118,
+        152,
+        687,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.999103844165802,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, KindHands Care Center, 2019.122023.01",
+      "score": 0.989909827709198,
+      "box": [
+        118,
+        290,
+        695,
+        314
+      ]
+    },
+    {
+      "text": "- Directed emergency response planning",
+      "score": 0.9916305541992188,
+      "box": [
+        125,
+        313,
+        505,
+        344
+      ]
+    },
+    {
+      "text": "- Implemented care pathway frameworks",
+      "score": 0.9885097146034241,
+      "box": [
+        126,
+        339,
+        506,
+        369
+      ]
+    },
+    {
+      "text": "Registered Nurses, WellWay Medical Group, 2016.112019.12",
+      "score": 0.9891743063926697,
+      "box": [
+        117,
+        382,
+        701,
+        409
+      ]
+    },
+    {
+      "text": "- Provided pediatric nursing care",
+      "score": 0.9876314997673035,
+      "box": [
+        125,
+        407,
+        430,
+        434
+      ]
+    },
+    {
+      "text": "- Managed pain control plans",
+      "score": 0.9951000213623047,
+      "box": [
+        126,
+        430,
+        400,
+        462
+      ]
+    },
+    {
+      "text": "Registered Nurses, SafePath Health Services, 2013.102016.11",
+      "score": 0.9856271743774414,
+      "box": [
+        118,
+        473,
+        712,
+        497
+      ]
+    },
+    {
+      "text": "- Administered injections under supervision",
+      "score": 0.9940366744995117,
+      "box": [
+        126,
+        499,
+        526,
+        523
+      ]
+    },
+    {
+      "text": "- Recorded patient vital signs",
+      "score": 0.9913399815559387,
+      "box": [
+        127,
+        521,
+        400,
+        551
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9998750686645508,
+      "box": [
+        117,
+        587,
+        267,
+        614
+      ]
+    },
+    {
+      "text": "Associate's degree, Practical Nursing, Windridge University, 2012",
+      "score": 0.9872011542320251,
+      "box": [
+        116,
+        631,
+        725,
+        659
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of sleep management in care",
+      "score": 0.983994722366333,
+      "box": [
+        129,
+        657,
+        626,
+        684
+      ]
+    },
+    {
+      "text": "Completed coursework in palliative care basics",
+      "score": 0.994141697883606,
+      "box": [
+        132,
+        681,
+        583,
+        709
+      ]
+    }
+  ],
+  "seconds": 2.6816872996278107,
+  "id": "47479",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

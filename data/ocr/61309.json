@@ -1,0 +1,112 @@
+{
+  "lines": [
+    {
+      "text": "ASHLEY EVANS",
+      "score": 0.9964132308959961,
+      "box": [
+        116,
+        89,
+        379,
+        123
+      ]
+    },
+    {
+      "text": "WI, USA | +1-215-593-3331 | ashley.evans@example.com",
+      "score": 0.9931523203849792,
+      "box": [
+        116,
+        149,
+        660,
+        177
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9994737505912781,
+      "box": [
+        116,
+        243,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Registered Nurses, Compassion Way Medical, 2020.03—2023.01",
+      "score": 0.9748527407646179,
+      "box": [
+        116,
+        288,
+        716,
+        315
+      ]
+    },
+    {
+      "text": "- Recorded patient vital signs",
+      "score": 0.9903478622436523,
+      "box": [
+        125,
+        313,
+        399,
+        341
+      ]
+    },
+    {
+      "text": "- Prepared treatment rooms",
+      "score": 0.9958242177963257,
+      "box": [
+        125,
+        338,
+        387,
+        367
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999353885650635,
+      "box": [
+        116,
+        404,
+        268,
+        431
+      ]
+    },
+    {
+      "text": "Bachelor's, Life Sciences, Silver Ridge University, 2019",
+      "score": 0.9909809827804565,
+      "box": [
+        115,
+        446,
+        630,
+        474
+      ]
+    },
+    {
+      "text": "•Studied principles of health informatics",
+      "score": 0.9672927856445312,
+      "box": [
+        131,
+        474,
+        505,
+        498
+      ]
+    },
+    {
+      "text": "•Completed coursework in metabolic disorders basics",
+      "score": 0.9934448003768921,
+      "box": [
+        134,
+        499,
+        635,
+        523
+      ]
+    }
+  ],
+  "seconds": 1.9741317997686565,
+  "id": "61309",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

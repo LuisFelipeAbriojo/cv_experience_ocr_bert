@@ -1,0 +1,212 @@
+{
+  "lines": [
+    {
+      "text": "LINDSEY CHUNG",
+      "score": 0.9674277901649475,
+      "box": [
+        117,
+        89,
+        394,
+        122
+      ]
+    },
+    {
+      "text": "CA, USA | +1-601-295-9124 | lindsey.chung@example.com",
+      "score": 0.9939178824424744,
+      "box": [
+        116,
+        150,
+        668,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9955145716667175,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Cloudcrest Labs, 2019.01—2023.01",
+      "score": 0.9899272322654724,
+      "box": [
+        116,
+        290,
+        646,
+        317
+      ]
+    },
+    {
+      "text": "- Led performance tuning initiatives",
+      "score": 0.9980824589729309,
+      "box": [
+        128,
+        316,
+        453,
+        342
+      ]
+    },
+    {
+      "text": "- Designed observability platforms",
+      "score": 0.9995164275169373,
+      "box": [
+        128,
+        339,
+        444,
+        369
+      ]
+    },
+    {
+      "text": "Software Developers, Coreline Labs, 2015.012019.01",
+      "score": 0.9953909516334534,
+      "box": [
+        117,
+        383,
+        623,
+        407
+      ]
+    },
+    {
+      "text": "- Led technical audits",
+      "score": 0.998822033405304,
+      "box": [
+        129,
+        410,
+        326,
+        431
+      ]
+    },
+    {
+      "text": "- Developed system monitoring strategies",
+      "score": 0.9865220785140991,
+      "box": [
+        127,
+        431,
+        513,
+        459
+      ]
+    },
+    {
+      "text": "Software Developers, Cleargrid Software, 2011.012015.01",
+      "score": 0.9847103357315063,
+      "box": [
+        116,
+        471,
+        668,
+        499
+      ]
+    },
+    {
+      "text": "- Designed integration tests",
+      "score": 0.9896296262741089,
+      "box": [
+        127,
+        497,
+        385,
+        526
+      ]
+    },
+    {
+      "text": "- Integrated payment gateways",
+      "score": 0.9995401501655579,
+      "box": [
+        128,
+        521,
+        416,
+        552
+      ]
+    },
+    {
+      "text": "Software Developers, Clearpath Systems, 2006.122011.01",
+      "score": 0.9947085976600647,
+      "box": [
+        117,
+        566,
+        671,
+        590
+      ]
+    },
+    {
+      "text": "- Participated in code reviews",
+      "score": 0.9823030233383179,
+      "box": [
+        125,
+        589,
+        404,
+        618
+      ]
+    },
+    {
+      "text": "- Assisted with database queries",
+      "score": 0.9902886152267456,
+      "box": [
+        127,
+        613,
+        430,
+        643
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9998714923858643,
+      "box": [
+        117,
+        681,
+        266,
+        705
+      ]
+    },
+    {
+      "text": "Master's, Windcrest University, 2006",
+      "score": 0.9932308197021484,
+      "box": [
+        116,
+        724,
+        456,
+        750
+      ]
+    },
+    {
+      "text": "Bachelor's, Rosewood University, 2004",
+      "score": 0.9884646534919739,
+      "box": [
+        115,
+        747,
+        481,
+        775
+      ]
+    },
+    {
+      "text": "• Completed coursework in software design patterns",
+      "score": 0.979215145111084,
+      "box": [
+        131,
+        775,
+        616,
+        799
+      ]
+    },
+    {
+      "text": "Studied principles of database design",
+      "score": 0.9858258962631226,
+      "box": [
+        131,
+        798,
+        495,
+        827
+      ]
+    }
+  ],
+  "seconds": 2.728909899946302,
+  "id": "03224",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

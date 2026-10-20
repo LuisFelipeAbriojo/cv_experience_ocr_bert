@@ -1,0 +1,172 @@
+{
+  "lines": [
+    {
+      "text": "EMILY CLAY",
+      "score": 0.9997349977493286,
+      "box": [
+        118,
+        90,
+        320,
+        121
+      ]
+    },
+    {
+      "text": "SC, USA | +1-761-874-8494 | emily.clay@example.com",
+      "score": 0.9789434671401978,
+      "box": [
+        116,
+        149,
+        632,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9964284896850586,
+      "box": [
+        117,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, Caring Hands Care, 2019.12—2023.01",
+      "score": 0.9825776815414429,
+      "box": [
+        115,
+        287,
+        654,
+        318
+      ]
+    },
+    {
+      "text": "- Supervised multidisciplinary care teams",
+      "score": 0.9837130308151245,
+      "box": [
+        126,
+        314,
+        508,
+        343
+      ]
+    },
+    {
+      "text": "- Developed patient care algorithms",
+      "score": 0.9834739565849304,
+      "box": [
+        127,
+        339,
+        459,
+        367
+      ]
+    },
+    {
+      "text": "Registered Nurses, ClearBridge Health Group, 2014.082017.10",
+      "score": 0.9932684302330017,
+      "box": [
+        117,
+        382,
+        716,
+        409
+      ]
+    },
+    {
+      "text": "- Implemented patient education programs",
+      "score": 0.9890425801277161,
+      "box": [
+        124,
+        406,
+        523,
+        435
+      ]
+    },
+    {
+      "text": "- Provided end-of-life care",
+      "score": 0.9934728145599365,
+      "box": [
+        126,
+        430,
+        370,
+        458
+      ]
+    },
+    {
+      "text": "Registered Nurses, TruePath Nursing, 2010.102013.12",
+      "score": 0.9996444582939148,
+      "box": [
+        116,
+        471,
+        641,
+        499
+      ]
+    },
+    {
+      "text": "- Assisted with respiratory treatments",
+      "score": 0.9947953224182129,
+      "box": [
+        127,
+        497,
+        473,
+        525
+      ]
+    },
+    {
+      "text": "- Monitored patient pain levels",
+      "score": 0.9991075992584229,
+      "box": [
+        127,
+        521,
+        410,
+        549
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999511241912842,
+      "box": [
+        118,
+        588,
+        266,
+        612
+      ]
+    },
+    {
+      "text": "Bachelor's, Health Care, Pioneer University, 2005",
+      "score": 0.9981856942176819,
+      "box": [
+        118,
+        632,
+        577,
+        656
+      ]
+    },
+    {
+      "text": "•Completed coursework in clinical skills practice",
+      "score": 0.9941564202308655,
+      "box": [
+        131,
+        657,
+        581,
+        682
+      ]
+    },
+    {
+      "text": "Completed coursework in clinical audits basics",
+      "score": 0.9997172951698303,
+      "box": [
+        132,
+        680,
+        580,
+        708
+      ]
+    }
+  ],
+  "seconds": 2.5504928999580443,
+  "id": "47824",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

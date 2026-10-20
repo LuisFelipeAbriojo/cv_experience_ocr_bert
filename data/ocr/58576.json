@@ -1,0 +1,112 @@
+{
+  "lines": [
+    {
+      "text": "DEENA SANFORD",
+      "score": 0.9996321201324463,
+      "box": [
+        118,
+        91,
+        410,
+        121
+      ]
+    },
+    {
+      "text": "WA, USA | +1-803-533-7910 | deena.sanford@example.com",
+      "score": 0.9908357858657837,
+      "box": [
+        116,
+        149,
+        679,
+        177
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9994680881500244,
+      "box": [
+        116,
+        243,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Registered Nurses, LifeWay Nursing Services, 2020.05—2023.01",
+      "score": 0.9923802614212036,
+      "box": [
+        114,
+        286,
+        714,
+        317
+      ]
+    },
+    {
+      "text": "- Administered prescribed medications",
+      "score": 0.9782506823539734,
+      "box": [
+        125,
+        314,
+        484,
+        340
+      ]
+    },
+    {
+      "text": "- Checked patient identification",
+      "score": 0.9947755336761475,
+      "box": [
+        128,
+        340,
+        415,
+        365
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999943196773529,
+      "box": [
+        116,
+        404,
+        268,
+        431
+      ]
+    },
+    {
+      "text": "Associate's degree, Clinical Studies, Fairview University, 2021",
+      "score": 0.9970734715461731,
+      "box": [
+        118,
+        449,
+        690,
+        473
+      ]
+    },
+    {
+      "text": "Completed coursework in patient positioning",
+      "score": 0.9907593727111816,
+      "box": [
+        129,
+        472,
+        558,
+        501
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of sleep management in care",
+      "score": 0.9705774784088135,
+      "box": [
+        131,
+        496,
+        626,
+        527
+      ]
+    }
+  ],
+  "seconds": 2.1825128998607397,
+  "id": "58576",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

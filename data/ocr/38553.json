@@ -1,0 +1,212 @@
+{
+  "lines": [
+    {
+      "text": "MATTHEW HO",
+      "score": 0.953328013420105,
+      "box": [
+        117,
+        91,
+        348,
+        121
+      ]
+    },
+    {
+      "text": "NY, USA | +1-363-869-3040 | matthew.ho@example.com",
+      "score": 0.9779151678085327,
+      "box": [
+        116,
+        152,
+        647,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9987257122993469,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Integrity Balance Advisors, 2019.12—2023.01",
+      "score": 0.9847813248634338,
+      "box": [
+        116,
+        290,
+        741,
+        317
+      ]
+    },
+    {
+      "text": "- Led regulatory compliance initiatives",
+      "score": 0.9971110224723816,
+      "box": [
+        129,
+        317,
+        478,
+        341
+      ]
+    },
+    {
+      "text": "- Managed consolidation processes",
+      "score": 0.998348593711853,
+      "box": [
+        127,
+        339,
+        459,
+        370
+      ]
+    },
+    {
+      "text": "Accountants Auditors, ClearBalance Services, 2016.102019.12",
+      "score": 0.9990994334220886,
+      "box": [
+        118,
+        383,
+        711,
+        407
+      ]
+    },
+    {
+      "text": "- Directed financial reporting processes",
+      "score": 0.9950094223022461,
+      "box": [
+        126,
+        407,
+        491,
+        434
+      ]
+    },
+    {
+      "text": "- Designed financial documentation standards",
+      "score": 0.997313916683197,
+      "box": [
+        127,
+        431,
+        553,
+        458
+      ]
+    },
+    {
+      "text": "Accountants Auditors, ClearCount Group, 2013.08—2016.10",
+      "score": 0.9886800646781921,
+      "box": [
+        115,
+        471,
+        670,
+        499
+      ]
+    },
+    {
+      "text": "- Analyzed financial variances",
+      "score": 0.9720906615257263,
+      "box": [
+        125,
+        497,
+        407,
+        525
+      ]
+    },
+    {
+      "text": "- Prepared audit reports",
+      "score": 0.9890877604484558,
+      "box": [
+        127,
+        521,
+        351,
+        551
+      ]
+    },
+    {
+      "text": "Accountants Auditors, TrustLedger Financial, 2010.062013.08",
+      "score": 0.9984276294708252,
+      "box": [
+        117,
+        566,
+        702,
+        590
+      ]
+    },
+    {
+      "text": "- Prepared expense reports",
+      "score": 0.9997233748435974,
+      "box": [
+        126,
+        591,
+        383,
+        615
+      ]
+    },
+    {
+      "text": "- Assisted with budget tracking",
+      "score": 0.9988926649093628,
+      "box": [
+        127,
+        613,
+        412,
+        644
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9998728632926941,
+      "box": [
+        117,
+        681,
+        266,
+        705
+      ]
+    },
+    {
+      "text": "Professional degree, Business Economics, Shoreline University, 2012",
+      "score": 0.9935306310653687,
+      "box": [
+        116,
+        724,
+        764,
+        750
+      ]
+    },
+    {
+      "text": "Bachelor's, Accounting, Redfield University, 2008",
+      "score": 0.9845474362373352,
+      "box": [
+        117,
+        750,
+        573,
+        774
+      ]
+    },
+    {
+      "text": "•Completed coursework in accounting process improvement",
+      "score": 0.9862743020057678,
+      "box": [
+        129,
+        773,
+        697,
+        801
+      ]
+    },
+    {
+      "text": "•Studied fundamentals of consolidation accounting",
+      "score": 0.9862889051437378,
+      "box": [
+        131,
+        798,
+        608,
+        825
+      ]
+    }
+  ],
+  "seconds": 2.93516210000962,
+  "id": "38553",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

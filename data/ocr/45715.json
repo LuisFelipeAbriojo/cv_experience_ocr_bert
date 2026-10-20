@@ -1,0 +1,112 @@
+{
+  "lines": [
+    {
+      "text": "GERMAN DUNLAP",
+      "score": 0.9846763610839844,
+      "box": [
+        116,
+        88,
+        415,
+        123
+      ]
+    },
+    {
+      "text": "PA, USA | +1-736-648-3874 | german.dunlap@example.com",
+      "score": 0.9816707372665405,
+      "box": [
+        115,
+        149,
+        679,
+        177
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9993670582771301,
+      "box": [
+        116,
+        243,
+        317,
+        270
+      ]
+    },
+    {
+      "text": "Software Developers, Skyfield Tech, 2021.042021.08",
+      "score": 0.9887566566467285,
+      "box": [
+        117,
+        290,
+        621,
+        314
+      ]
+    },
+    {
+      "text": "- Wrote utility scripts",
+      "score": 0.991315484046936,
+      "box": [
+        124,
+        313,
+        319,
+        342
+      ]
+    },
+    {
+      "text": "- Assisted with version control operations",
+      "score": 0.9967166185379028,
+      "box": [
+        126,
+        339,
+        508,
+        365
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999518990516663,
+      "box": [
+        116,
+        403,
+        268,
+        431
+      ]
+    },
+    {
+      "text": "Some college (no degree), Goldenwood University, 2019",
+      "score": 0.9920290112495422,
+      "box": [
+        116,
+        446,
+        642,
+        474
+      ]
+    },
+    {
+      "text": "•Studied fundamentals of deployment pipelines",
+      "score": 0.982483446598053,
+      "box": [
+        130,
+        473,
+        576,
+        499
+      ]
+    },
+    {
+      "text": "• Completed coursework in numerical methods",
+      "score": 0.9852753281593323,
+      "box": [
+        133,
+        499,
+        565,
+        523
+      ]
+    }
+  ],
+  "seconds": 1.9251175001263618,
+  "id": "45715",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

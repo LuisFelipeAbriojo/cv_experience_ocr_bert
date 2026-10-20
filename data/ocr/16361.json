@@ -1,0 +1,122 @@
+{
+  "lines": [
+    {
+      "text": "REGINA MEYER",
+      "score": 0.9988076686859131,
+      "box": [
+        118,
+        91,
+        376,
+        122
+      ]
+    },
+    {
+      "text": "GA, USA | +1-351-270-1090 | regina.meyer@example.com",
+      "score": 0.991825520992279,
+      "box": [
+        116,
+        150,
+        664,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9997215270996094,
+      "box": [
+        117,
+        243,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Open Futures School, 2021.042023.01",
+      "score": 0.9859740138053894,
+      "box": [
+        117,
+        289,
+        834,
+        316
+      ]
+    },
+    {
+      "text": "- Monitored independent work sessions",
+      "score": 0.998698890209198,
+      "box": [
+        126,
+        314,
+        493,
+        341
+      ]
+    },
+    {
+      "text": "- Implemented classroom seating plans",
+      "score": 0.9833666086196899,
+      "box": [
+        127,
+        338,
+        493,
+        368
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999618530273438,
+      "box": [
+        116,
+        404,
+        268,
+        431
+      ]
+    },
+    {
+      "text": "Master's, Learning and Teaching Studies, Clearfield Ridge University, 2020",
+      "score": 0.9954540133476257,
+      "box": [
+        116,
+        448,
+        811,
+        475
+      ]
+    },
+    {
+      "text": "Bachelor's, Introductory Education, Oakfield University, 2018",
+      "score": 0.9892347455024719,
+      "box": [
+        117,
+        475,
+        679,
+        498
+      ]
+    },
+    {
+      "text": "• Completed coursework in educational communication skills",
+      "score": 0.9907302856445312,
+      "box": [
+        131,
+        500,
+        692,
+        524
+      ]
+    },
+    {
+      "text": "• Studied principles of instructional materials development",
+      "score": 0.9773241281509399,
+      "box": [
+        134,
+        524,
+        669,
+        548
+      ]
+    }
+  ],
+  "seconds": 2.154010200407356,
+  "id": "16361",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

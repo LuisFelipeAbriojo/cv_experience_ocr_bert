@@ -1,0 +1,202 @@
+{
+  "lines": [
+    {
+      "text": "TONI BAUER",
+      "score": 0.998918354511261,
+      "box": [
+        116,
+        91,
+        326,
+        122
+      ]
+    },
+    {
+      "text": "GA, USA | +1-610-446-3943 | toni.bauer@example.com",
+      "score": 0.9790763854980469,
+      "box": [
+        116,
+        150,
+        634,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9991938471794128,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, New Leaf Learning, 2019.01—2023.01",
+      "score": 0.9821282029151917,
+      "box": [
+        117,
+        290,
+        811,
+        317
+      ]
+    },
+    {
+      "text": "- Directed instructional planning processes",
+      "score": 0.9933545589447021,
+      "box": [
+        126,
+        315,
+        522,
+        343
+      ]
+    },
+    {
+      "text": "- Developed instructional evaluation metrics",
+      "score": 0.9788364171981812,
+      "box": [
+        126,
+        339,
+        533,
+        367
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Golden Grove Academy, 2015.012019.01",
+      "score": 0.994333803653717,
+      "box": [
+        116,
+        381,
+        860,
+        411
+      ]
+    },
+    {
+      "text": "- Designed assessment systems",
+      "score": 0.9959676265716553,
+      "box": [
+        126,
+        408,
+        431,
+        433
+      ]
+    },
+    {
+      "text": "- Led instructional technology integration",
+      "score": 0.9908531904220581,
+      "box": [
+        125,
+        430,
+        505,
+        459
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, ClearView Academy, 2011.012015.01",
+      "score": 0.9850870966911316,
+      "box": [
+        118,
+        474,
+        823,
+        498
+      ]
+    },
+    {
+      "text": "- Implemented classroom improvement plans",
+      "score": 0.9942591786384583,
+      "box": [
+        126,
+        497,
+        547,
+        527
+      ]
+    },
+    {
+      "text": "- Implemented formative assessment strategies",
+      "score": 0.9987213015556335,
+      "box": [
+        128,
+        521,
+        569,
+        551
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Growing Path Academy, 2007.012011.01",
+      "score": 0.9866892695426941,
+      "box": [
+        117,
+        565,
+        855,
+        592
+      ]
+    },
+    {
+      "text": "- Maintained lesson documentation",
+      "score": 0.9978459477424622,
+      "box": [
+        126,
+        590,
+        454,
+        616
+      ]
+    },
+    {
+      "text": "- Maintained student folders",
+      "score": 0.990656316280365,
+      "box": [
+        125,
+        613,
+        388,
+        643
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999408721923828,
+      "box": [
+        117,
+        681,
+        266,
+        705
+      ]
+    },
+    {
+      "text": "Bachelor's, Child and Family Studies, Clear Spring University, 2005",
+      "score": 0.9932110905647278,
+      "box": [
+        117,
+        726,
+        739,
+        749
+      ]
+    },
+    {
+      "text": "• Completed coursework in child development fundamentals",
+      "score": 0.9861644506454468,
+      "box": [
+        132,
+        751,
+        689,
+        775
+      ]
+    },
+    {
+      "text": "•Studied fundamentals of numeracy development",
+      "score": 0.9788790941238403,
+      "box": [
+        131,
+        772,
+        598,
+        801
+      ]
+    }
+  ],
+  "seconds": 3.084630799945444,
+  "id": "15201",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

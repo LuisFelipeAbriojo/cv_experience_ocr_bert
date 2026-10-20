@@ -1,0 +1,142 @@
+{
+  "lines": [
+    {
+      "text": "BRANDI KERR",
+      "score": 0.9795095920562744,
+      "box": [
+        118,
+        91,
+        352,
+        122
+      ]
+    },
+    {
+      "text": "WV, USA | +1-793-854-7720 | brandi.kerr@example.com",
+      "score": 0.9870057702064514,
+      "box": [
+        115,
+        149,
+        645,
+        177
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9997725486755371,
+      "box": [
+        117,
+        243,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Registered Nurses, NewSpring Care Center, 2018.12—2020.10",
+      "score": 0.9914175868034363,
+      "box": [
+        117,
+        289,
+        698,
+        316
+      ]
+    },
+    {
+      "text": "- Managed clinical data analysis",
+      "score": 0.9874857664108276,
+      "box": [
+        125,
+        313,
+        427,
+        343
+      ]
+    },
+    {
+      "text": "- Developed patient care algorithms",
+      "score": 0.9779117107391357,
+      "box": [
+        127,
+        339,
+        458,
+        367
+      ]
+    },
+    {
+      "text": "Registered Nurses, BrightSpring Health Services, 2016.06—2018.04",
+      "score": 0.9884020686149597,
+      "box": [
+        115,
+        379,
+        745,
+        410
+      ]
+    },
+    {
+      "text": "- Prepared medication trays",
+      "score": 0.9880465865135193,
+      "box": [
+        126,
+        406,
+        386,
+        434
+      ]
+    },
+    {
+      "text": "- Conducted basic patient assessments",
+      "score": 0.9755435585975647,
+      "box": [
+        128,
+        431,
+        492,
+        458
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999253153800964,
+      "box": [
+        117,
+        494,
+        268,
+        521
+      ]
+    },
+    {
+      "text": "Bachelor's, Biomedical Sciences, Fairview Ridge University, 2002",
+      "score": 0.9647598266601562,
+      "box": [
+        115,
+        539,
+        724,
+        568
+      ]
+    },
+    {
+      "text": "• Completed coursework in integumentary system care",
+      "score": 0.9912652969360352,
+      "box": [
+        131,
+        566,
+        640,
+        592
+      ]
+    },
+    {
+      "text": "• Studied principles of healthcare ethics",
+      "score": 0.9829224348068237,
+      "box": [
+        132,
+        592,
+        500,
+        616
+      ]
+    }
+  ],
+  "seconds": 2.3652172000147402,
+  "id": "60149",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

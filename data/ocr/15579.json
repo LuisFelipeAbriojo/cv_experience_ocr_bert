@@ -1,0 +1,122 @@
+{
+  "lines": [
+    {
+      "text": "SIERRA HALEY",
+      "score": 0.9997820854187012,
+      "box": [
+        117,
+        91,
+        367,
+        122
+      ]
+    },
+    {
+      "text": "GA, USA | +1-599-695-6053 | sierra.haley@example.com",
+      "score": 0.9858678579330444,
+      "box": [
+        116,
+        149,
+        649,
+        177
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9997243881225586,
+      "box": [
+        117,
+        243,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Kind Minds School, 2021.12—2023.01",
+      "score": 0.9901099801063538,
+      "box": [
+        116,
+        287,
+        809,
+        315
+      ]
+    },
+    {
+      "text": "- Recorded student feedback",
+      "score": 0.9906085133552551,
+      "box": [
+        125,
+        314,
+        398,
+        339
+      ]
+    },
+    {
+      "text": "- Reviewed lesson objectives",
+      "score": 0.9944633841514587,
+      "box": [
+        126,
+        339,
+        399,
+        365
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999611377716064,
+      "box": [
+        116,
+        404,
+        268,
+        431
+      ]
+    },
+    {
+      "text": "Professional degree, Teaching Studies, Meadowfield University, 2023",
+      "score": 0.9855072498321533,
+      "box": [
+        115,
+        446,
+        760,
+        474
+      ]
+    },
+    {
+      "text": "Bachelor's, Child Studies, Goldenfield University, 2023",
+      "score": 0.9915924668312073,
+      "box": [
+        117,
+        474,
+        621,
+        498
+      ]
+    },
+    {
+      "text": "•Studied principles of learning outcomes assessment",
+      "score": 0.9773375391960144,
+      "box": [
+        130,
+        500,
+        631,
+        524
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of academic support strategies",
+      "score": 0.98055499792099,
+      "box": [
+        132,
+        523,
+        639,
+        550
+      ]
+    }
+  ],
+  "seconds": 2.3056081999093294,
+  "id": "15579",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

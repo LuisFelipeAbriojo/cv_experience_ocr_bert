@@ -1,0 +1,112 @@
+{
+  "lines": [
+    {
+      "text": "CARMEN FISHER",
+      "score": 0.9998480081558228,
+      "box": [
+        118,
+        91,
+        397,
+        122
+      ]
+    },
+    {
+      "text": "WI, USA | +1-378-818-6359 | carmen.fisher@example.com",
+      "score": 0.9907758235931396,
+      "box": [
+        116,
+        149,
+        664,
+        177
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.999736487865448,
+      "box": [
+        117,
+        243,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Accountants Auditors, FairBalance Financial, 2020.02—2022.04",
+      "score": 0.9877710342407227,
+      "box": [
+        115,
+        287,
+        701,
+        315
+      ]
+    },
+    {
+      "text": "- Assisted with tax form preparation",
+      "score": 0.9994282126426697,
+      "box": [
+        126,
+        314,
+        456,
+        340
+      ]
+    },
+    {
+      "text": "- Processed expense reimbursements",
+      "score": 0.9811906218528748,
+      "box": [
+        128,
+        340,
+        479,
+        364
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999569654464722,
+      "box": [
+        116,
+        404,
+        268,
+        431
+      ]
+    },
+    {
+      "text": "Bachelor's, Accounting and Finance, Elmwood Ridge University, 2013",
+      "score": 0.987038254737854,
+      "box": [
+        115,
+        446,
+        764,
+        474
+      ]
+    },
+    {
+      "text": "Completed coursework in accounting controls testing",
+      "score": 0.9889476895332336,
+      "box": [
+        129,
+        471,
+        636,
+        502
+      ]
+    },
+    {
+      "text": "•Studied fundamentals of depreciation methods",
+      "score": 0.9911597371101379,
+      "box": [
+        132,
+        497,
+        579,
+        523
+      ]
+    }
+  ],
+  "seconds": 2.088151799980551,
+  "id": "60980",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

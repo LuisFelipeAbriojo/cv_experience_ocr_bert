@@ -1,0 +1,182 @@
+{
+  "lines": [
+    {
+      "text": "JAMES SHAFFER",
+      "score": 0.9997491836547852,
+      "box": [
+        117,
+        93,
+        399,
+        120
+      ]
+    },
+    {
+      "text": "NY, USA | +1-900-208-1463 | james.shaffer@example.com",
+      "score": 0.9886242747306824,
+      "box": [
+        116,
+        151,
+        665,
+        177
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9990448951721191,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, FairLedger Advisors, 2020.02—2023.01",
+      "score": 0.9893434047698975,
+      "box": [
+        115,
+        288,
+        686,
+        316
+      ]
+    },
+    {
+      "text": "- Developed long-term financial strategies",
+      "score": 0.9949944615364075,
+      "box": [
+        127,
+        314,
+        515,
+        344
+      ]
+    },
+    {
+      "text": "- Led regulatory compliance initiatives",
+      "score": 0.9851455688476562,
+      "box": [
+        128,
+        340,
+        478,
+        369
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Reliable Balance Financial Group, 2017.022020.02",
+      "score": 0.9932497143745422,
+      "box": [
+        116,
+        381,
+        811,
+        411
+      ]
+    },
+    {
+      "text": "- Developed budget forecasts",
+      "score": 0.9932880401611328,
+      "box": [
+        127,
+        409,
+        403,
+        433
+      ]
+    },
+    {
+      "text": "- Prepared tax compliance filings",
+      "score": 0.9971761107444763,
+      "box": [
+        127,
+        431,
+        433,
+        459
+      ]
+    },
+    {
+      "text": "Accountants Auditors, FairBooks Services, 2014.02—2017.02",
+      "score": 0.9851005673408508,
+      "box": [
+        118,
+        473,
+        680,
+        497
+      ]
+    },
+    {
+      "text": "- Reviewed vendor payments",
+      "score": 0.9934579133987427,
+      "box": [
+        126,
+        497,
+        400,
+        526
+      ]
+    },
+    {
+      "text": "- Verified financial transactions",
+      "score": 0.9916832447052002,
+      "box": [
+        128,
+        521,
+        414,
+        548
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999043345451355,
+      "box": [
+        117,
+        587,
+        267,
+        614
+      ]
+    },
+    {
+      "text": "Master's, Corporate Finance, Riverfield University, 2014",
+      "score": 0.9978018403053284,
+      "box": [
+        117,
+        633,
+        635,
+        657
+      ]
+    },
+    {
+      "text": "Bachelor's, Investment Management, Briarwood University, 2012",
+      "score": 0.9890389442443848,
+      "box": [
+        115,
+        656,
+        717,
+        684
+      ]
+    },
+    {
+      "text": "• Completed coursework in financial data interpretation",
+      "score": 0.9910222291946411,
+      "box": [
+        133,
+        684,
+        640,
+        708
+      ]
+    },
+    {
+      "text": "• Completed coursework in management information systems",
+      "score": 0.9873719215393066,
+      "box": [
+        132,
+        706,
+        701,
+        735
+      ]
+    }
+  ],
+  "seconds": 2.7063603000715375,
+  "id": "38642",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

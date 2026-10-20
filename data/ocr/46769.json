@@ -1,0 +1,142 @@
+{
+  "lines": [
+    {
+      "text": "BRENT MCINTYRE",
+      "score": 0.9975748658180237,
+      "box": [
+        118,
+        91,
+        416,
+        121
+      ]
+    },
+    {
+      "text": "PA, USA | +1-926-500-4599 | brent.mcintyre@example.com",
+      "score": 0.9803637862205505,
+      "box": [
+        115,
+        149,
+        672,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9991941452026367,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Harmony Path Academy, 2020.07—2023.01",
+      "score": 0.9913675785064697,
+      "box": [
+        115,
+        287,
+        864,
+        318
+      ]
+    },
+    {
+      "text": "- Directed instructional benchmarking",
+      "score": 0.9997599720954895,
+      "box": [
+        125,
+        313,
+        474,
+        343
+      ]
+    },
+    {
+      "text": "- Established data reporting standards",
+      "score": 0.9928783774375916,
+      "box": [
+        125,
+        339,
+        482,
+        367
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Harmony Meadow Academy, 2015.02—2017.09",
+      "score": 0.9810851812362671,
+      "box": [
+        118,
+        382,
+        900,
+        409
+      ]
+    },
+    {
+      "text": "- Supported standardized testing sessions",
+      "score": 0.9983450770378113,
+      "box": [
+        125,
+        408,
+        518,
+        433
+      ]
+    },
+    {
+      "text": "- Administered learning games",
+      "score": 0.9953548312187195,
+      "box": [
+        127,
+        431,
+        413,
+        459
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999306201934814,
+      "box": [
+        117,
+        494,
+        268,
+        521
+      ]
+    },
+    {
+      "text": "Bachelor's, Child Development, Silverton University, 2004",
+      "score": 0.9761155843734741,
+      "box": [
+        117,
+        542,
+        649,
+        566
+      ]
+    },
+    {
+      "text": "•Studied principles of classroom interaction",
+      "score": 0.9902603626251221,
+      "box": [
+        130,
+        567,
+        540,
+        591
+      ]
+    },
+    {
+      "text": "•Studied foundational learning strategies",
+      "score": 0.9849570393562317,
+      "box": [
+        131,
+        590,
+        514,
+        618
+      ]
+    }
+  ],
+  "seconds": 2.5626019998453557,
+  "id": "46769",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

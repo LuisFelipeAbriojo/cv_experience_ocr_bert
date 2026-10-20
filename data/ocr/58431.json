@@ -1,0 +1,152 @@
+{
+  "lines": [
+    {
+      "text": "STACIE SIMS",
+      "score": 0.9996694922447205,
+      "box": [
+        117,
+        91,
+        331,
+        122
+      ]
+    },
+    {
+      "text": "WA, USA | +1-726-731-4263 | stacie.sims@example.com",
+      "score": 0.9888839721679688,
+      "box": [
+        116,
+        149,
+        649,
+        177
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9991335868835449,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Bright Star School, 2021.06—2023.01",
+      "score": 0.9824848771095276,
+      "box": [
+        116,
+        288,
+        805,
+        318
+      ]
+    },
+    {
+      "text": "- Designed assessment systems",
+      "score": 0.9936646819114685,
+      "box": [
+        125,
+        314,
+        431,
+        343
+      ]
+    },
+    {
+      "text": "- Directed curriculum revision cycles",
+      "score": 0.9698296785354614,
+      "box": [
+        126,
+        338,
+        463,
+        368
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Learning Corner Academy, 2019.11—2021.06",
+      "score": 0.9927139282226562,
+      "box": [
+        117,
+        382,
+        881,
+        409
+      ]
+    },
+    {
+      "text": "- Reviewed learning standards",
+      "score": 0.9953214526176453,
+      "box": [
+        125,
+        407,
+        411,
+        432
+      ]
+    },
+    {
+      "text": "- Delivered structured lectures",
+      "score": 0.9992815852165222,
+      "box": [
+        127,
+        430,
+        408,
+        456
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999401569366455,
+      "box": [
+        116,
+        494,
+        268,
+        521
+      ]
+    },
+    {
+      "text": "Master's, Child Development, Cedarview University, 2019",
+      "score": 0.9827228784561157,
+      "box": [
+        114,
+        539,
+        650,
+        567
+      ]
+    },
+    {
+      "text": "Bachelor's, Education Preparation, Vista University, 2017",
+      "score": 0.9917526841163635,
+      "box": [
+        117,
+        567,
+        645,
+        591
+      ]
+    },
+    {
+      "text": "•Completed coursework in creative teaching strategies",
+      "score": 0.9859272837638855,
+      "box": [
+        129,
+        590,
+        644,
+        619
+      ]
+    },
+    {
+      "text": "•Studied principles of student support systems",
+      "score": 0.9875645041465759,
+      "box": [
+        131,
+        614,
+        570,
+        645
+      ]
+    }
+  ],
+  "seconds": 2.417746499646455,
+  "id": "58431",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

@@ -1,0 +1,132 @@
+{
+  "lines": [
+    {
+      "text": "AINSLEY FINLEY",
+      "score": 0.9947790503501892,
+      "box": [
+        117,
+        89,
+        391,
+        122
+      ]
+    },
+    {
+      "text": "IL, USA | +1-247-816-9590 | ainsley.finley@example.com",
+      "score": 0.9902123808860779,
+      "box": [
+        116,
+        150,
+        648,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9991876482963562,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, StrongRise Construction, 2021.062023.01",
+      "score": 0.9926402568817139,
+      "box": [
+        117,
+        289,
+        733,
+        316
+      ]
+    },
+    {
+      "text": "- Directed site safety audits",
+      "score": 0.9889463782310486,
+      "box": [
+        125,
+        313,
+        383,
+        342
+      ]
+    },
+    {
+      "text": "- Led cross-functional coordination",
+      "score": 0.9840775728225708,
+      "box": [
+        127,
+        339,
+        449,
+        365
+      ]
+    },
+    {
+      "text": "Construction Laborers, AnchorLine Contractors, 2019.102021.06",
+      "score": 0.9938592314720154,
+      "box": [
+        117,
+        381,
+        728,
+        408
+      ]
+    },
+    {
+      "text": "- Installed temporary site barriers",
+      "score": 0.9862428903579712,
+      "box": [
+        126,
+        407,
+        436,
+        433
+      ]
+    },
+    {
+      "text": "- Moved equipment between work zones",
+      "score": 0.9974979758262634,
+      "box": [
+        128,
+        431,
+        504,
+        457
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999268054962158,
+      "box": [
+        117,
+        494,
+        267,
+        521
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Construction Safety, Highpoint High School, 2020",
+      "score": 0.9928430914878845,
+      "box": [
+        117,
+        540,
+        835,
+        567
+      ]
+    },
+    {
+      "text": "•Studied principles of building materials",
+      "score": 0.9874486923217773,
+      "box": [
+        134,
+        567,
+        505,
+        591
+      ]
+    }
+  ],
+  "seconds": 2.254834400024265,
+  "id": "19338",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

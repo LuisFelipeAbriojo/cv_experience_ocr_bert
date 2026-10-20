@@ -1,0 +1,132 @@
+{
+  "lines": [
+    {
+      "text": "ALEC RICHMOND",
+      "score": 0.9997951984405518,
+      "box": [
+        118,
+        91,
+        402,
+        122
+      ]
+    },
+    {
+      "text": "SC, USA | +1-315-443-4252 | alec.richmond@example.com",
+      "score": 0.9831629395484924,
+      "box": [
+        118,
+        152,
+        670,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9997742772102356,
+      "box": [
+        117,
+        243,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Construction Laborers, SteadyStone Builders, 2021.042023.01",
+      "score": 0.9973111748695374,
+      "box": [
+        118,
+        290,
+        707,
+        314
+      ]
+    },
+    {
+      "text": "- Directed site optimization initiatives",
+      "score": 0.9989999532699585,
+      "box": [
+        124,
+        313,
+        468,
+        342
+      ]
+    },
+    {
+      "text": "- Directed construction audits",
+      "score": 0.9888355731964111,
+      "box": [
+        126,
+        340,
+        400,
+        365
+      ]
+    },
+    {
+      "text": "Construction Laborers, WorkTrack Builders, 2019.072021.04",
+      "score": 0.9897067546844482,
+      "box": [
+        116,
+        380,
+        691,
+        408
+      ]
+    },
+    {
+      "text": "- Performed basic sanding and painting",
+      "score": 0.9870580434799194,
+      "box": [
+        125,
+        405,
+        493,
+        435
+      ]
+    },
+    {
+      "text": "- Handled delivery documentation",
+      "score": 0.9924913644790649,
+      "box": [
+        128,
+        430,
+        441,
+        460
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999279379844666,
+      "box": [
+        117,
+        494,
+        268,
+        521
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Electrical Technology, Riverbend High School, 2020",
+      "score": 0.9899399280548096,
+      "box": [
+        117,
+        540,
+        858,
+        567
+      ]
+    },
+    {
+      "text": "• Studied principles of building materials",
+      "score": 0.9758642911911011,
+      "box": [
+        134,
+        567,
+        505,
+        591
+      ]
+    }
+  ],
+  "seconds": 2.2280000997707248,
+  "id": "47780",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

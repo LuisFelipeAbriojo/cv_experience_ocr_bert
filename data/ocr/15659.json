@@ -1,0 +1,112 @@
+{
+  "lines": [
+    {
+      "text": "JACK OWEN",
+      "score": 0.9917760491371155,
+      "box": [
+        115,
+        89,
+        323,
+        122
+      ]
+    },
+    {
+      "text": "GA, USA | +1-998-668-5423 | jack.owen@example.com",
+      "score": 0.9811031818389893,
+      "box": [
+        118,
+        152,
+        634,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9997134208679199,
+      "box": [
+        117,
+        243,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Learning Minds School, 2020.04—2023.01",
+      "score": 0.9943369030952454,
+      "box": [
+        115,
+        286,
+        850,
+        317
+      ]
+    },
+    {
+      "text": "- Scheduled instructional activities",
+      "score": 0.9947764277458191,
+      "box": [
+        125,
+        314,
+        445,
+        340
+      ]
+    },
+    {
+      "text": "- Assisted with science experiments",
+      "score": 0.9823024272918701,
+      "box": [
+        127,
+        341,
+        458,
+        365
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999633431434631,
+      "box": [
+        116,
+        404,
+        268,
+        431
+      ]
+    },
+    {
+      "text": "Bachelor's, Child and Family Studies, Northway University, 2023",
+      "score": 0.9908437728881836,
+      "box": [
+        115,
+        446,
+        712,
+        475
+      ]
+    },
+    {
+      "text": "• Completed coursework in educational communication",
+      "score": 0.9923826456069946,
+      "box": [
+        132,
+        473,
+        642,
+        499
+      ]
+    },
+    {
+      "text": "Completed coursework in classroom assessment techniques",
+      "score": 0.9977903962135315,
+      "box": [
+        132,
+        497,
+        709,
+        525
+      ]
+    }
+  ],
+  "seconds": 2.1501532001420856,
+  "id": "15659",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

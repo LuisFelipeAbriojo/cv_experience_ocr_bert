@@ -1,0 +1,112 @@
+{
+  "lines": [
+    {
+      "text": "CHRISTIAN SWEENEY",
+      "score": 0.9997032284736633,
+      "box": [
+        118,
+        91,
+        475,
+        122
+      ]
+    },
+    {
+      "text": "KY, USA | +1-615-935-4982 | christian.sweeney@example.com",
+      "score": 0.9873850345611572,
+      "box": [
+        117,
+        152,
+        704,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9997215270996094,
+      "box": [
+        117,
+        243,
+        317,
+        270
+      ]
+    },
+    {
+      "text": "Construction Laborers, NextGen Builders, 2021.112023.01",
+      "score": 0.9981040954589844,
+      "box": [
+        118,
+        290,
+        670,
+        314
+      ]
+    },
+    {
+      "text": "- Performed basic plumbing assistance",
+      "score": 0.9713612198829651,
+      "box": [
+        126,
+        314,
+        489,
+        341
+      ]
+    },
+    {
+      "text": "- Loaded and unloaded construction materials",
+      "score": 0.9960958361625671,
+      "box": [
+        129,
+        341,
+        553,
+        364
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999525547027588,
+      "box": [
+        116,
+        404,
+        268,
+        431
+      ]
+    },
+    {
+      "text": "Some college (no degree), Construction Skills, Westbrook University, 2021",
+      "score": 0.9825600385665894,
+      "box": [
+        115,
+        445,
+        806,
+        476
+      ]
+    },
+    {
+      "text": "• Completed coursework in site drainage planning",
+      "score": 0.9952027797698975,
+      "box": [
+        132,
+        473,
+        593,
+        500
+      ]
+    },
+    {
+      "text": "•Completed coursework in concrete basics",
+      "score": 0.9901466369628906,
+      "box": [
+        134,
+        499,
+        535,
+        523
+      ]
+    }
+  ],
+  "seconds": 2.1308773001655936,
+  "id": "22353",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

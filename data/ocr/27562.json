@@ -1,0 +1,142 @@
+{
+  "lines": [
+    {
+      "text": "RYAN JACOBSON",
+      "score": 0.999728262424469,
+      "box": [
+        118,
+        90,
+        411,
+        121
+      ]
+    },
+    {
+      "text": "MI, USA | +1-907-856-4578 | ryan.jacobson@example.com",
+      "score": 0.9890149831771851,
+      "box": [
+        117,
+        152,
+        664,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9994029998779297,
+      "box": [
+        116,
+        243,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Registered Nurses, Caring Bridge Care, 2021.072023.01",
+      "score": 0.9957937598228455,
+      "box": [
+        116,
+        288,
+        654,
+        318
+      ]
+    },
+    {
+      "text": "- Established clinical best practices",
+      "score": 0.9920545220375061,
+      "box": [
+        126,
+        314,
+        454,
+        341
+      ]
+    },
+    {
+      "text": "- Implemented care standardization",
+      "score": 0.9911800622940063,
+      "box": [
+        126,
+        338,
+        457,
+        367
+      ]
+    },
+    {
+      "text": "Registered Nurses, SafeLife Health Group, 2019.12—2021.07",
+      "score": 0.9870320558547974,
+      "box": [
+        116,
+        380,
+        682,
+        408
+      ]
+    },
+    {
+      "text": "- Administered injections under supervision",
+      "score": 0.991463840007782,
+      "box": [
+        125,
+        407,
+        527,
+        432
+      ]
+    },
+    {
+      "text": "- Assisted with emergency procedures",
+      "score": 0.999710202217102,
+      "box": [
+        127,
+        431,
+        483,
+        459
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9874886274337769,
+      "box": [
+        116,
+        494,
+        267,
+        521
+      ]
+    },
+    {
+      "text": "Bachelor's, Allied Health, Goldenridge University, 2021",
+      "score": 0.9873368144035339,
+      "box": [
+        115,
+        539,
+        623,
+        567
+      ]
+    },
+    {
+      "text": "•Completed coursework in laboratory values interpretation",
+      "score": 0.9905035495758057,
+      "box": [
+        130,
+        566,
+        675,
+        591
+      ]
+    },
+    {
+      "text": "•Studied fundamentals of clinical supervision",
+      "score": 0.9923982620239258,
+      "box": [
+        132,
+        590,
+        553,
+        616
+      ]
+    }
+  ],
+  "seconds": 3.846730099990964,
+  "id": "27562",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

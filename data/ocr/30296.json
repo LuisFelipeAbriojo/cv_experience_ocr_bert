@@ -1,0 +1,132 @@
+{
+  "lines": [
+    {
+      "text": "ASHTON HOUSE",
+      "score": 0.9998769760131836,
+      "box": [
+        117,
+        91,
+        386,
+        122
+      ]
+    },
+    {
+      "text": "MO, USA |+1-306-430-4806 | ashton.house@example.com",
+      "score": 0.9855090975761414,
+      "box": [
+        116,
+        150,
+        670,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9997727274894714,
+      "box": [
+        117,
+        243,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Construction Laborers, Unified Stone Builders, 2021.072023.01",
+      "score": 0.995492160320282,
+      "box": [
+        118,
+        289,
+        712,
+        313
+      ]
+    },
+    {
+      "text": "- Led operational planning",
+      "score": 0.9996339082717896,
+      "box": [
+        125,
+        313,
+        371,
+        343
+      ]
+    },
+    {
+      "text": "- Managed workforce allocation",
+      "score": 0.9948654174804688,
+      "box": [
+        126,
+        338,
+        421,
+        368
+      ]
+    },
+    {
+      "text": "Construction Laborers, Ironclad Builders, 2019.122021.07",
+      "score": 0.9944769144058228,
+      "box": [
+        117,
+        381,
+        663,
+        406
+      ]
+    },
+    {
+      "text": "- Assisted with roofing material handling",
+      "score": 0.9797519445419312,
+      "box": [
+        124,
+        406,
+        498,
+        433
+      ]
+    },
+    {
+      "text": "- Secured materials with fasteners",
+      "score": 0.9967033267021179,
+      "box": [
+        126,
+        431,
+        446,
+        456
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999291896820068,
+      "box": [
+        117,
+        494,
+        267,
+        521
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Construction Inspection, Windermere High School, 2019",
+      "score": 0.9998739957809448,
+      "box": [
+        117,
+        540,
+        897,
+        567
+      ]
+    },
+    {
+      "text": "• Completed coursework in construction lighting basics",
+      "score": 0.9777666926383972,
+      "box": [
+        133,
+        566,
+        637,
+        590
+      ]
+    }
+  ],
+  "seconds": 2.2994562997482717,
+  "id": "30296",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

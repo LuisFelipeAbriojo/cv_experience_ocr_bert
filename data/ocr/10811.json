@@ -1,0 +1,142 @@
+{
+  "lines": [
+    {
+      "text": "ARNELL BOWERS",
+      "score": 0.9714224934577942,
+      "box": [
+        118,
+        91,
+        413,
+        122
+      ]
+    },
+    {
+      "text": "CT, USA | +1-231-350-2294 | arnell.bowers@example.com",
+      "score": 0.9775550365447998,
+      "box": [
+        118,
+        152,
+        663,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9991233348846436,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Integrity Books Financial Group, 2021.07-2023.01",
+      "score": 0.982707679271698,
+      "box": [
+        114,
+        287,
+        791,
+        318
+      ]
+    },
+    {
+      "text": "- Established compliance monitoring systems",
+      "score": 0.9827146530151367,
+      "box": [
+        127,
+        315,
+        546,
+        341
+      ]
+    },
+    {
+      "text": "- Designed financial policy frameworks",
+      "score": 0.9886378049850464,
+      "box": [
+        127,
+        339,
+        485,
+        367
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Integrity Books Group, 2019.12—2021.07",
+      "score": 0.9819228053092957,
+      "box": [
+        116,
+        380,
+        702,
+        408
+      ]
+    },
+    {
+      "text": "- Processed accounts payable invoices",
+      "score": 0.9959771633148193,
+      "box": [
+        124,
+        406,
+        491,
+        434
+      ]
+    },
+    {
+      "text": "- Entered financial data into accounting systems",
+      "score": 0.9814682602882385,
+      "box": [
+        127,
+        430,
+        572,
+        457
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999178647994995,
+      "box": [
+        117,
+        494,
+        268,
+        521
+      ]
+    },
+    {
+      "text": "Bachelor's, Finance, Autumn Ridge University, 2022",
+      "score": 0.9839352369308472,
+      "box": [
+        115,
+        539,
+        600,
+        567
+      ]
+    },
+    {
+      "text": "•Studied fundamentals of enterprise systems",
+      "score": 0.9710513353347778,
+      "box": [
+        129,
+        566,
+        554,
+        591
+      ]
+    },
+    {
+      "text": "Studied fundamentals of tax planning",
+      "score": 0.9970180988311768,
+      "box": [
+        130,
+        588,
+        493,
+        619
+      ]
+    }
+  ],
+  "seconds": 2.4515174999833107,
+  "id": "10811",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

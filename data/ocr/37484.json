@@ -1,0 +1,202 @@
+{
+  "lines": [
+    {
+      "text": "LIGIA FLYNN",
+      "score": 0.9997538924217224,
+      "box": [
+        117,
+        91,
+        329,
+        122
+      ]
+    },
+    {
+      "text": "NY, USA | +1-914-461-9762 | ligia.flynn@example.com",
+      "score": 0.9939419627189636,
+      "box": [
+        115,
+        151,
+        627,
+        177
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9991222023963928,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Fairview Financial Services, 2020.01—2023.01",
+      "score": 0.9891260266304016,
+      "box": [
+        115,
+        288,
+        752,
+        316
+      ]
+    },
+    {
+      "text": "- Established cost management systems",
+      "score": 0.9812896251678467,
+      "box": [
+        127,
+        316,
+        504,
+        341
+      ]
+    },
+    {
+      "text": "- Developed regulatory reporting strategies",
+      "score": 0.9986315965652466,
+      "box": [
+        128,
+        340,
+        525,
+        369
+      ]
+    },
+    {
+      "text": "Accountants Auditors, ClearLedger Financial, 2017.012020.01",
+      "score": 0.9925291538238525,
+      "box": [
+        117,
+        382,
+        704,
+        409
+      ]
+    },
+    {
+      "text": "- Led accounting process optimization",
+      "score": 0.9947936534881592,
+      "box": [
+        128,
+        408,
+        480,
+        435
+      ]
+    },
+    {
+      "text": "- Designed financial oversight systems",
+      "score": 0.9852330088615417,
+      "box": [
+        127,
+        431,
+        485,
+        459
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Balanced Path Accounting, 2014.01—2017.01",
+      "score": 0.9865610003471375,
+      "box": [
+        115,
+        471,
+        744,
+        499
+      ]
+    },
+    {
+      "text": "- Performed revenue recognition analysis",
+      "score": 0.9952062368392944,
+      "box": [
+        125,
+        497,
+        511,
+        525
+      ]
+    },
+    {
+      "text": "- Conducted variance investigations",
+      "score": 0.9897056818008423,
+      "box": [
+        126,
+        521,
+        461,
+        550
+      ]
+    },
+    {
+      "text": "Accountants Auditors, CoreBalance Advisors, 2010.122014.01",
+      "score": 0.9964507818222046,
+      "box": [
+        118,
+        566,
+        704,
+        590
+      ]
+    },
+    {
+      "text": "- Assisted with compliance documentation",
+      "score": 0.9782440066337585,
+      "box": [
+        128,
+        592,
+        518,
+        615
+      ]
+    },
+    {
+      "text": "- Assisted with regulatory filings",
+      "score": 0.976370096206665,
+      "box": [
+        127,
+        614,
+        423,
+        644
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999069571495056,
+      "box": [
+        117,
+        681,
+        266,
+        705
+      ]
+    },
+    {
+      "text": "Bachelor's, Forensic Accounting, Wildflower University, 2009",
+      "score": 0.9907538890838623,
+      "box": [
+        115,
+        723,
+        678,
+        751
+      ]
+    },
+    {
+      "text": "•Completed coursework in accounting analytics basics",
+      "score": 0.9887071251869202,
+      "box": [
+        131,
+        748,
+        643,
+        776
+      ]
+    },
+    {
+      "text": "Studied principles of fixed asset accounting",
+      "score": 0.9885261654853821,
+      "box": [
+        132,
+        772,
+        550,
+        802
+      ]
+    }
+  ],
+  "seconds": 2.912813600152731,
+  "id": "37484",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

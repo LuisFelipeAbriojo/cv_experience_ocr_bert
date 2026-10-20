@@ -1,0 +1,202 @@
+{
+  "lines": [
+    {
+      "text": "CHRISTIAN GRAVES",
+      "score": 0.999884843826294,
+      "box": [
+        118,
+        91,
+        449,
+        122
+      ]
+    },
+    {
+      "text": "VA, USA | +1-894-759-6156 | christian.graves@example.com",
+      "score": 0.9888256788253784,
+      "box": [
+        116,
+        150,
+        685,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9995976090431213,
+      "box": [
+        116,
+        242,
+        316,
+        271
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Riverside Learning Center, 2020.04—2023.01",
+      "score": 0.9921241998672485,
+      "box": [
+        116,
+        289,
+        880,
+        319
+      ]
+    },
+    {
+      "text": "- Led instructional leadership initiatives",
+      "score": 0.9922059178352356,
+      "box": [
+        127,
+        316,
+        488,
+        341
+      ]
+    },
+    {
+      "text": "- Designed systemic intervention models",
+      "score": 0.9887717962265015,
+      "box": [
+        128,
+        341,
+        505,
+        368
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Golden Minds Academy, 2017.062020.04",
+      "score": 0.9973519444465637,
+      "box": [
+        116,
+        381,
+        860,
+        411
+      ]
+    },
+    {
+      "text": "- Led curriculum transformation initiatives",
+      "score": 0.9948844313621521,
+      "box": [
+        128,
+        408,
+        509,
+        434
+      ]
+    },
+    {
+      "text": "- Implemented long-term academic plans",
+      "score": 0.9981901049613953,
+      "box": [
+        127,
+        431,
+        507,
+        460
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Little Minds School, 2014.082017.06",
+      "score": 0.9967255592346191,
+      "box": [
+        115,
+        470,
+        814,
+        501
+      ]
+    },
+    {
+      "text": "- Implemented differentiated instruction strategies",
+      "score": 0.9997051954269409,
+      "box": [
+        125,
+        497,
+        588,
+        526
+      ]
+    },
+    {
+      "text": "- Evaluated learning outcomes",
+      "score": 0.9980909824371338,
+      "box": [
+        127,
+        522,
+        413,
+        551
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Learning View Academy, 2011.102014.08",
+      "score": 0.9799492955207825,
+      "box": [
+        117,
+        565,
+        863,
+        592
+      ]
+    },
+    {
+      "text": "- Supported art instruction",
+      "score": 0.9810050129890442,
+      "box": [
+        127,
+        592,
+        371,
+        616
+      ]
+    },
+    {
+      "text": "- Recorded student feedback",
+      "score": 0.9992172122001648,
+      "box": [
+        125,
+        613,
+        399,
+        643
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999219179153442,
+      "box": [
+        117,
+        681,
+        266,
+        705
+      ]
+    },
+    {
+      "text": "Bachelor's, Foundational Education, Brookfield University, 2012",
+      "score": 0.9862847924232483,
+      "box": [
+        116,
+        724,
+        706,
+        749
+      ]
+    },
+    {
+      "text": "• Completed coursework in classroom observation methods",
+      "score": 0.9775291681289673,
+      "box": [
+        131,
+        749,
+        684,
+        776
+      ]
+    },
+    {
+      "text": "•Studied fundamentals of concept-based instruction",
+      "score": 0.9821469783782959,
+      "box": [
+        132,
+        773,
+        617,
+        800
+      ]
+    }
+  ],
+  "seconds": 3.4470260003581643,
+  "id": "55934",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

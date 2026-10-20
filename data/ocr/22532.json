@@ -1,0 +1,172 @@
+{
+  "lines": [
+    {
+      "text": "BOBBY BURGESS",
+      "score": 0.9802616834640503,
+      "box": [
+        117,
+        91,
+        413,
+        121
+      ]
+    },
+    {
+      "text": "KY, USA | +1-621-703-8812 | bobby.burgess@example.com",
+      "score": 0.99300616979599,
+      "box": [
+        116,
+        149,
+        675,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9990910887718201,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, SolidTrack Construction, 2019.112023.01",
+      "score": 0.9973480105400085,
+      "box": [
+        118,
+        290,
+        728,
+        314
+      ]
+    },
+    {
+      "text": "- Reviewed material quality standards",
+      "score": 0.9994302988052368,
+      "box": [
+        125,
+        314,
+        477,
+        342
+      ]
+    },
+    {
+      "text": "- Directed site optimization initiatives",
+      "score": 0.9984064102172852,
+      "box": [
+        128,
+        340,
+        466,
+        368
+      ]
+    },
+    {
+      "text": "Construction Laborers, IronStone Builders, 2016.092019.11",
+      "score": 0.9899630546569824,
+      "box": [
+        118,
+        383,
+        679,
+        407
+      ]
+    },
+    {
+      "text": "- Coordinated task assignments",
+      "score": 0.9961869716644287,
+      "box": [
+        126,
+        409,
+        424,
+        432
+      ]
+    },
+    {
+      "text": "- Laid flooring materials",
+      "score": 0.9890637397766113,
+      "box": [
+        127,
+        431,
+        347,
+        461
+      ]
+    },
+    {
+      "text": "Construction Laborers, Unified Build Group, 2011.042014.07",
+      "score": 0.9804708361625671,
+      "box": [
+        116,
+        470,
+        689,
+        499
+      ]
+    },
+    {
+      "text": "- Handled power tools under supervision",
+      "score": 0.9867563247680664,
+      "box": [
+        127,
+        499,
+        504,
+        523
+      ]
+    },
+    {
+      "text": "- Installed basic formwork",
+      "score": 0.9824106693267822,
+      "box": [
+        127,
+        520,
+        368,
+        549
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999415278434753,
+      "box": [
+        118,
+        588,
+        266,
+        612
+      ]
+    },
+    {
+      "text": "Some college (no degree), Construction Quality Control, Willowstone University, 2005",
+      "score": 0.9926560521125793,
+      "box": [
+        117,
+        632,
+        908,
+        659
+      ]
+    },
+    {
+      "text": "• Completed coursework in construction safety documentation",
+      "score": 0.9891788959503174,
+      "box": [
+        131,
+        659,
+        707,
+        683
+      ]
+    },
+    {
+      "text": "•Studied fundamentals of job site documentation",
+      "score": 0.9862186908721924,
+      "box": [
+        131,
+        681,
+        589,
+        708
+      ]
+    }
+  ],
+  "seconds": 2.574002899695188,
+  "id": "22532",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

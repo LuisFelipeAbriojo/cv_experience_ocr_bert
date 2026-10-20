@@ -1,0 +1,212 @@
+{
+  "lines": [
+    {
+      "text": "BENJAMIN LEE",
+      "score": 0.9990451335906982,
+      "box": [
+        117,
+        90,
+        366,
+        123
+      ]
+    },
+    {
+      "text": "PA, USA | +1-204-289-2164 | benjamin.lee@example.com",
+      "score": 0.9779192805290222,
+      "box": [
+        115,
+        150,
+        658,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9991946220397949,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Caring Futures School, 2019.04-2023.01",
+      "score": 0.9825817942619324,
+      "box": [
+        115,
+        287,
+        845,
+        319
+      ]
+    },
+    {
+      "text": "- Established curriculum evaluation protocols",
+      "score": 0.9844692945480347,
+      "box": [
+        127,
+        317,
+        543,
+        341
+      ]
+    },
+    {
+      "text": "- Designed learning analytics frameworks",
+      "score": 0.9870033264160156,
+      "box": [
+        127,
+        341,
+        510,
+        367
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Learning Star Academy, 2015.072019.04",
+      "score": 0.9900203347206116,
+      "box": [
+        116,
+        381,
+        857,
+        411
+      ]
+    },
+    {
+      "text": "- Developed learning progression models",
+      "score": 0.9725345969200134,
+      "box": [
+        126,
+        407,
+        510,
+        435
+      ]
+    },
+    {
+      "text": "- Designed literacy development programs",
+      "score": 0.9781484603881836,
+      "box": [
+        126,
+        431,
+        522,
+        460
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Learning Horizons School, 2011.10—2015.07",
+      "score": 0.9802646636962891,
+      "box": [
+        117,
+        471,
+        877,
+        499
+      ]
+    },
+    {
+      "text": "- Designed reading intervention plans",
+      "score": 0.9962958097457886,
+      "box": [
+        125,
+        497,
+        476,
+        526
+      ]
+    },
+    {
+      "text": "- Supervised student projects",
+      "score": 0.9892145395278931,
+      "box": [
+        127,
+        521,
+        401,
+        551
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Golden Bridge School, 2007.122011.10",
+      "score": 0.9941402077674866,
+      "box": [
+        118,
+        566,
+        841,
+        590
+      ]
+    },
+    {
+      "text": "- Scheduled instructional activities",
+      "score": 0.988760232925415,
+      "box": [
+        126,
+        590,
+        446,
+        615
+      ]
+    },
+    {
+      "text": "- Followed standard instructional schedules",
+      "score": 0.9741896986961365,
+      "box": [
+        126,
+        614,
+        529,
+        641
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999388456344604,
+      "box": [
+        117,
+        681,
+        266,
+        705
+      ]
+    },
+    {
+      "text": "Master's, Academic Support Studies, Hawthorne University, 2009",
+      "score": 0.9943873882293701,
+      "box": [
+        117,
+        726,
+        720,
+        749
+      ]
+    },
+    {
+      "text": "Bachelor's, Teaching Studies, Riverfield University, 2007",
+      "score": 0.9841763973236084,
+      "box": [
+        117,
+        750,
+        641,
+        774
+      ]
+    },
+    {
+      "text": "•Studied fundamentals of learning environments",
+      "score": 0.9727094173431396,
+      "box": [
+        129,
+        773,
+        586,
+        801
+      ]
+    },
+    {
+      "text": "• Completed coursework in classroom structure planning",
+      "score": 0.9919018149375916,
+      "box": [
+        132,
+        798,
+        655,
+        828
+      ]
+    }
+  ],
+  "seconds": 3.431364200077951,
+  "id": "46892",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

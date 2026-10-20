@@ -1,0 +1,152 @@
+{
+  "lines": [
+    {
+      "text": "ASHLEY ESCOBAR",
+      "score": 0.9928895235061646,
+      "box": [
+        115,
+        87,
+        431,
+        123
+      ]
+    },
+    {
+      "text": "CA, USA | +1-295-699-1264 | ashley.escobar@example.com",
+      "score": 0.9886356592178345,
+      "box": [
+        118,
+        152,
+        680,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9991410374641418,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Stonegrid Labs, 2020.01—2023.01",
+      "score": 0.9901390075683594,
+      "box": [
+        116,
+        290,
+        636,
+        317
+      ]
+    },
+    {
+      "text": "- Implemented release management strategies",
+      "score": 0.9946670532226562,
+      "box": [
+        126,
+        315,
+        560,
+        342
+      ]
+    },
+    {
+      "text": "- Built distributed systems",
+      "score": 0.9945353865623474,
+      "box": [
+        127,
+        339,
+        368,
+        369
+      ]
+    },
+    {
+      "text": "Software Developers, Skybridge Software, 2017.012020.01",
+      "score": 0.9854934215545654,
+      "box": [
+        117,
+        382,
+        676,
+        409
+      ]
+    },
+    {
+      "text": "- Wrote unit tests for application modules",
+      "score": 0.9912173748016357,
+      "box": [
+        125,
+        406,
+        509,
+        434
+      ]
+    },
+    {
+      "text": "- Implemented basic features in existing codebases",
+      "score": 0.9903468489646912,
+      "box": [
+        127,
+        430,
+        605,
+        459
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999501705169678,
+      "box": [
+        116,
+        494,
+        268,
+        521
+      ]
+    },
+    {
+      "text": "Master's, Fairmont University, 2015",
+      "score": 0.9959298372268677,
+      "box": [
+        114,
+        539,
+        447,
+        567
+      ]
+    },
+    {
+      "text": "Bachelor's, Greenfield University, 2013",
+      "score": 0.9911943078041077,
+      "box": [
+        117,
+        567,
+        478,
+        591
+      ]
+    },
+    {
+      "text": "•Studied principles of dependency management",
+      "score": 0.9831494688987732,
+      "box": [
+        129,
+        592,
+        586,
+        619
+      ]
+    },
+    {
+      "text": "Completed coursework in software project management",
+      "score": 0.9986467361450195,
+      "box": [
+        131,
+        615,
+        665,
+        643
+      ]
+    }
+  ],
+  "seconds": 2.508165900129825,
+  "id": "08125",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

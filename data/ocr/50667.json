@@ -1,0 +1,132 @@
+{
+  "lines": [
+    {
+      "text": "GRANT WOODS",
+      "score": 0.9961252808570862,
+      "box": [
+        117,
+        89,
+        377,
+        123
+      ]
+    },
+    {
+      "text": "TX, USA | +1-888-518-9662 | grant.woods@example.com",
+      "score": 0.9952071905136108,
+      "box": [
+        116,
+        149,
+        652,
+        177
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9997437000274658,
+      "box": [
+        117,
+        243,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Software Developers, Softbridge Labs, 2021.05—2023.01",
+      "score": 0.9883615970611572,
+      "box": [
+        115,
+        288,
+        642,
+        316
+      ]
+    },
+    {
+      "text": "- Implemented release management strategies",
+      "score": 0.9856033325195312,
+      "box": [
+        126,
+        313,
+        561,
+        342
+      ]
+    },
+    {
+      "text": "- Implemented core frameworks",
+      "score": 0.9849342107772827,
+      "box": [
+        129,
+        338,
+        423,
+        368
+      ]
+    },
+    {
+      "text": "Software Developers, Clearstack Labs, 2019.08—2021.05",
+      "score": 0.9789890050888062,
+      "box": [
+        116,
+        380,
+        647,
+        408
+      ]
+    },
+    {
+      "text": "- Configured development environments",
+      "score": 0.9995846152305603,
+      "box": [
+        126,
+        408,
+        501,
+        432
+      ]
+    },
+    {
+      "text": "- Reviewed APl documentation",
+      "score": 0.9770497679710388,
+      "box": [
+        127,
+        430,
+        417,
+        456
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999277591705322,
+      "box": [
+        117,
+        494,
+        268,
+        521
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Fairview Ridge High School, 2018",
+      "score": 0.9964919686317444,
+      "box": [
+        114,
+        537,
+        693,
+        569
+      ]
+    },
+    {
+      "text": "• Studied principles of software development",
+      "score": 0.9804258346557617,
+      "box": [
+        134,
+        567,
+        548,
+        591
+      ]
+    }
+  ],
+  "seconds": 2.0782671999186277,
+  "id": "50667",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

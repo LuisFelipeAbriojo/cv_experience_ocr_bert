@@ -1,0 +1,202 @@
+{
+  "lines": [
+    {
+      "text": "DANIELL SKINNER",
+      "score": 0.9975078701972961,
+      "box": [
+        118,
+        92,
+        422,
+        122
+      ]
+    },
+    {
+      "text": "PA, USA | +1-383-563-7273 | daniell.skinner@example.com",
+      "score": 0.9827154874801636,
+      "box": [
+        115,
+        150,
+        673,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9991493225097656,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, BrightNest Health Services, 2019.12—2023.01",
+      "score": 0.9877802729606628,
+      "box": [
+        117,
+        290,
+        724,
+        317
+      ]
+    },
+    {
+      "text": "- Developed interdisciplinary care strategies",
+      "score": 0.9784965515136719,
+      "box": [
+        126,
+        314,
+        535,
+        343
+      ]
+    },
+    {
+      "text": "- Implemented evidence-based practice models",
+      "score": 0.9965089559555054,
+      "box": [
+        126,
+        339,
+        569,
+        367
+      ]
+    },
+    {
+      "text": "Registered Nurses, Helping Way Nursing, 2016.112019.12",
+      "score": 0.9965709447860718,
+      "box": [
+        116,
+        380,
+        673,
+        411
+      ]
+    },
+    {
+      "text": "- Directed patient care coordination",
+      "score": 0.9995389580726624,
+      "box": [
+        125,
+        408,
+        455,
+        433
+      ]
+    },
+    {
+      "text": "- Directed clinical training standards",
+      "score": 0.974174976348877,
+      "box": [
+        127,
+        434,
+        459,
+        457
+      ]
+    },
+    {
+      "text": "Registered Nurses, Caring Hands Care, 2012.102015.11",
+      "score": 0.9954917430877686,
+      "box": [
+        118,
+        474,
+        653,
+        498
+      ]
+    },
+    {
+      "text": "- Supervised medication administration",
+      "score": 0.9884870648384094,
+      "box": [
+        126,
+        498,
+        488,
+        524
+      ]
+    },
+    {
+      "text": "- Monitored patient response to treatments",
+      "score": 0.9915436506271362,
+      "box": [
+        127,
+        521,
+        522,
+        550
+      ]
+    },
+    {
+      "text": "Registered Nurses, SafeHands Health Group, 2008.032011.05",
+      "score": 0.9945974349975586,
+      "box": [
+        118,
+        567,
+        708,
+        591
+      ]
+    },
+    {
+      "text": "- Assisted with physical therapy exercises",
+      "score": 0.9918755888938904,
+      "box": [
+        126,
+        590,
+        515,
+        618
+      ]
+    },
+    {
+      "text": "- Documented patient observations",
+      "score": 0.9841360449790955,
+      "box": [
+        125,
+        614,
+        454,
+        643
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999213814735413,
+      "box": [
+        117,
+        681,
+        266,
+        705
+      ]
+    },
+    {
+      "text": "Bachelor's, Applied Health Sciences, Greenfield University, 2003",
+      "score": 0.9874810576438904,
+      "box": [
+        117,
+        726,
+        715,
+        749
+      ]
+    },
+    {
+      "text": "Completed coursework in patient positioning",
+      "score": 0.9997847080230713,
+      "box": [
+        132,
+        748,
+        559,
+        777
+      ]
+    },
+    {
+      "text": "• Completed coursework in prioritization in nursing",
+      "score": 0.9845485091209412,
+      "box": [
+        132,
+        772,
+        598,
+        802
+      ]
+    }
+  ],
+  "seconds": 3.632480099797249,
+  "id": "46642",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

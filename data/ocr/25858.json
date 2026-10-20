@@ -1,0 +1,112 @@
+{
+  "lines": [
+    {
+      "text": "ASHLEY OCONNOR",
+      "score": 0.9945586323738098,
+      "box": [
+        116,
+        89,
+        438,
+        123
+      ]
+    },
+    {
+      "text": "MA, USA | +1-675-554-1260 | ashley.oconnor@example.com",
+      "score": 0.9801100492477417,
+      "box": [
+        115,
+        149,
+        685,
+        177
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9994475245475769,
+      "box": [
+        116,
+        243,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Software Developers, Flowline Labs, 2018.07—2020.09",
+      "score": 0.9763515591621399,
+      "box": [
+        115,
+        287,
+        625,
+        315
+      ]
+    },
+    {
+      "text": "- Updated localization files",
+      "score": 0.9759581685066223,
+      "box": [
+        127,
+        316,
+        374,
+        340
+      ]
+    },
+    {
+      "text": "- Wrote command-line tools",
+      "score": 0.9994524717330933,
+      "box": [
+        127,
+        338,
+        386,
+        366
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999088644981384,
+      "box": [
+        116,
+        404,
+        268,
+        431
+      ]
+    },
+    {
+      "text": "Bachelor's, Brookridge University, 2012",
+      "score": 0.9984649419784546,
+      "box": [
+        116,
+        448,
+        483,
+        475
+      ]
+    },
+    {
+      "text": "•Studied principles of operating systems",
+      "score": 0.9870924949645996,
+      "box": [
+        128,
+        473,
+        512,
+        501
+      ]
+    },
+    {
+      "text": "Studied fundamentals of scalability concepts",
+      "score": 0.990810215473175,
+      "box": [
+        130,
+        497,
+        559,
+        525
+      ]
+    }
+  ],
+  "seconds": 1.9985874998383224,
+  "id": "25858",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

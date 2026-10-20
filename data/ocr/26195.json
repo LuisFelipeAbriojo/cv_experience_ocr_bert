@@ -1,0 +1,142 @@
+{
+  "lines": [
+    {
+      "text": "WILLIAM CHAN",
+      "score": 0.9974152445793152,
+      "box": [
+        117,
+        91,
+        366,
+        122
+      ]
+    },
+    {
+      "text": "MA, USA | +1-805-341-5176 | william.chan@example.com",
+      "score": 0.9793916344642639,
+      "box": [
+        115,
+        149,
+        657,
+        177
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.999755859375,
+      "box": [
+        117,
+        243,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Software Developers, Softpath Labs, 2021.022023.01",
+      "score": 0.9996939301490784,
+      "box": [
+        116,
+        289,
+        624,
+        316
+      ]
+    },
+    {
+      "text": "- Defined data governance policies",
+      "score": 0.9817843437194824,
+      "box": [
+        125,
+        313,
+        452,
+        344
+      ]
+    },
+    {
+      "text": "- Designed CI/CD frameworks",
+      "score": 0.9778973460197449,
+      "box": [
+        130,
+        341,
+        407,
+        365
+      ]
+    },
+    {
+      "text": "Software Developers, Softpath Labs, 2019.022021.02",
+      "score": 0.999778151512146,
+      "box": [
+        116,
+        381,
+        626,
+        408
+      ]
+    },
+    {
+      "text": "- Reviewed error reports",
+      "score": 0.9956986904144287,
+      "box": [
+        126,
+        407,
+        355,
+        432
+      ]
+    },
+    {
+      "text": "- Implemented basic authentication logic",
+      "score": 0.9819015264511108,
+      "box": [
+        128,
+        431,
+        502,
+        458
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.99993896484375,
+      "box": [
+        116,
+        494,
+        267,
+        521
+      ]
+    },
+    {
+      "text": "Bachelor's, Riverwood University, 2020",
+      "score": 0.9835491180419922,
+      "box": [
+        116,
+        540,
+        480,
+        565
+      ]
+    },
+    {
+      "text": "•Completed coursework in fault tolerance",
+      "score": 0.9791681170463562,
+      "box": [
+        130,
+        566,
+        521,
+        591
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of domain-driven design",
+      "score": 0.9871412515640259,
+      "box": [
+        132,
+        590,
+        578,
+        617
+      ]
+    }
+  ],
+  "seconds": 2.0831196000799537,
+  "id": "26195",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

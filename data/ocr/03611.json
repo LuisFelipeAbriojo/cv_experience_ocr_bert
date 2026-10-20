@@ -1,0 +1,112 @@
+{
+  "lines": [
+    {
+      "text": "CHELCEY HUFF",
+      "score": 0.9997666478157043,
+      "box": [
+        118,
+        91,
+        376,
+        122
+      ]
+    },
+    {
+      "text": "CA, USA | +1-693-653-4949 | chelcey.huff@example.com",
+      "score": 0.9826081991195679,
+      "box": [
+        118,
+        152,
+        651,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9997279047966003,
+      "box": [
+        117,
+        243,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Little Field School, 2020.10—2023.01",
+      "score": 0.9893428087234497,
+      "box": [
+        116,
+        287,
+        801,
+        315
+      ]
+    },
+    {
+      "text": "- Administered quizzes and short assessments",
+      "score": 0.9986753463745117,
+      "box": [
+        125,
+        315,
+        560,
+        338
+      ]
+    },
+    {
+      "text": "- Recorded test results",
+      "score": 0.998422384262085,
+      "box": [
+        126,
+        339,
+        339,
+        365
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999358654022217,
+      "box": [
+        116,
+        404,
+        268,
+        431
+      ]
+    },
+    {
+      "text": "Bachelor's, Learning Foundations, Seabreeze University, 2022",
+      "score": 0.9820452928543091,
+      "box": [
+        116,
+        448,
+        696,
+        475
+      ]
+    },
+    {
+      "text": "Completed coursework in instructional sequencing",
+      "score": 0.9915156364440918,
+      "box": [
+        129,
+        472,
+        614,
+        501
+      ]
+    },
+    {
+      "text": "Studied foundational teaching methods",
+      "score": 0.9992020130157471,
+      "box": [
+        131,
+        496,
+        509,
+        525
+      ]
+    }
+  ],
+  "seconds": 2.2979251998476684,
+  "id": "03611",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

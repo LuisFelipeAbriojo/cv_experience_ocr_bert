@@ -1,0 +1,142 @@
+{
+  "lines": [
+    {
+      "text": "DAISY HOWARD",
+      "score": 0.9990544319152832,
+      "box": [
+        117,
+        90,
+        383,
+        121
+      ]
+    },
+    {
+      "text": "MI, USA | +1-449-831-9569 | daisy.howard@example.com",
+      "score": 0.9841951727867126,
+      "box": [
+        116,
+        149,
+        657,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.999094545841217,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Learning Hill Academy, 2021.04—2023.01",
+      "score": 0.9933966994285583,
+      "box": [
+        116,
+        288,
+        845,
+        316
+      ]
+    },
+    {
+      "text": "- Developed student performance metrics",
+      "score": 0.980373203754425,
+      "box": [
+        126,
+        315,
+        512,
+        341
+      ]
+    },
+    {
+      "text": "- Established learning outcome benchmarks",
+      "score": 0.9807776212692261,
+      "box": [
+        126,
+        339,
+        535,
+        367
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Harmony Academy, 2019.072021.04",
+      "score": 0.9977878332138062,
+      "box": [
+        115,
+        379,
+        816,
+        410
+      ]
+    },
+    {
+      "text": "- Implemented classroom seating plans",
+      "score": 0.9996206760406494,
+      "box": [
+        126,
+        407,
+        493,
+        433
+      ]
+    },
+    {
+      "text": "- Collected student assignments",
+      "score": 0.996128499507904,
+      "box": [
+        128,
+        431,
+        426,
+        457
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999293088912964,
+      "box": [
+        117,
+        494,
+        268,
+        521
+      ]
+    },
+    {
+      "text": "Bachelor's, Basic Education Studies, Oakview University, 2017",
+      "score": 0.988836407661438,
+      "box": [
+        117,
+        541,
+        697,
+        565
+      ]
+    },
+    {
+      "text": "•Studied principles of cooperative learning",
+      "score": 0.98822420835495,
+      "box": [
+        130,
+        566,
+        530,
+        592
+      ]
+    },
+    {
+      "text": "• Completed coursework in classroom workflow organization",
+      "score": 0.9941880106925964,
+      "box": [
+        133,
+        592,
+        690,
+        616
+      ]
+    }
+  ],
+  "seconds": 2.365693399682641,
+  "id": "26934",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

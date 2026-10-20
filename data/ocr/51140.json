@@ -1,0 +1,202 @@
+{
+  "lines": [
+    {
+      "text": "REBECCA CHOI",
+      "score": 0.9624210000038147,
+      "box": [
+        117,
+        91,
+        376,
+        121
+      ]
+    },
+    {
+      "text": "TX, USA | +1-833-768-8015 | rebecca.choi@example.com",
+      "score": 0.9769827723503113,
+      "box": [
+        117,
+        150,
+        655,
+        177
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9991443157196045,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Flowfield Labs, 2019.042023.01",
+      "score": 0.9853039979934692,
+      "box": [
+        117,
+        290,
+        627,
+        314
+      ]
+    },
+    {
+      "text": "- Implemented data pipeline architectures",
+      "score": 0.9916287064552307,
+      "box": [
+        127,
+        314,
+        513,
+        343
+      ]
+    },
+    {
+      "text": "- Implemented core frameworks",
+      "score": 0.9967818260192871,
+      "box": [
+        128,
+        340,
+        423,
+        366
+      ]
+    },
+    {
+      "text": "Software Developers, Netcrest Technologies, 2015.072019.04",
+      "score": 0.996788501739502,
+      "box": [
+        116,
+        381,
+        705,
+        410
+      ]
+    },
+    {
+      "text": "- Developed system monitoring strategies",
+      "score": 0.9911029934883118,
+      "box": [
+        126,
+        407,
+        513,
+        435
+      ]
+    },
+    {
+      "text": "- Implemented service orchestration",
+      "score": 0.9945127367973328,
+      "box": [
+        129,
+        432,
+        461,
+        457
+      ]
+    },
+    {
+      "text": "Software Developers, Flowpoint Labs, 2011.092015.07",
+      "score": 0.9882218837738037,
+      "box": [
+        117,
+        472,
+        637,
+        499
+      ]
+    },
+    {
+      "text": "- Implemented security controls",
+      "score": 0.999374270439148,
+      "box": [
+        129,
+        499,
+        421,
+        523
+      ]
+    },
+    {
+      "text": "- Developed configuration management tools",
+      "score": 0.993537187576294,
+      "box": [
+        128,
+        521,
+        545,
+        550
+      ]
+    },
+    {
+      "text": "Software Developers, Skycore Software, 2007.112011.09",
+      "score": 0.9777281880378723,
+      "box": [
+        117,
+        566,
+        660,
+        590
+      ]
+    },
+    {
+      "text": "- Wrote command-line tools",
+      "score": 0.9678421020507812,
+      "box": [
+        127,
+        590,
+        387,
+        615
+      ]
+    },
+    {
+      "text": "- Implemented UI components based on design specs",
+      "score": 0.9910524487495422,
+      "box": [
+        127,
+        613,
+        629,
+        644
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999934196472168,
+      "box": [
+        117,
+        681,
+        266,
+        705
+      ]
+    },
+    {
+      "text": "Bachelor's, Briar Ridge University, 2008",
+      "score": 0.978630542755127,
+      "box": [
+        117,
+        726,
+        485,
+        749
+      ]
+    },
+    {
+      "text": "•Studied principles of modular design",
+      "score": 0.9828092455863953,
+      "box": [
+        131,
+        748,
+        485,
+        777
+      ]
+    },
+    {
+      "text": "Completed coursework in distributed databases",
+      "score": 0.9994229078292847,
+      "box": [
+        132,
+        772,
+        589,
+        801
+      ]
+    }
+  ],
+  "seconds": 2.8229545997455716,
+  "id": "51140",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

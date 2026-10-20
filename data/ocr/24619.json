@@ -1,0 +1,142 @@
+{
+  "lines": [
+    {
+      "text": "SARAH FROST",
+      "score": 0.9833813309669495,
+      "box": [
+        116,
+        89,
+        360,
+        123
+      ]
+    },
+    {
+      "text": "MD, USA | +1-945-759-6876 |sarah.frost@example.com",
+      "score": 0.9764049053192139,
+      "box": [
+        116,
+        150,
+        642,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9991037249565125,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Caring Path School, 2020.05—2023.01",
+      "score": 0.9881888031959534,
+      "box": [
+        116,
+        288,
+        817,
+        318
+      ]
+    },
+    {
+      "text": "- Directed academic intervention strategies",
+      "score": 0.9940372109413147,
+      "box": [
+        126,
+        315,
+        524,
+        341
+      ]
+    },
+    {
+      "text": "- Designed instructional quality standards",
+      "score": 0.9672830700874329,
+      "box": [
+        126,
+        339,
+        511,
+        367
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Little Valley School, 2017.092020.05",
+      "score": 0.9802669286727905,
+      "box": [
+        114,
+        378,
+        817,
+        413
+      ]
+    },
+    {
+      "text": "- Managed classroom supplies",
+      "score": 0.9830141663551331,
+      "box": [
+        126,
+        406,
+        413,
+        435
+      ]
+    },
+    {
+      "text": "- Supported standardized testing sessions",
+      "score": 0.995630145072937,
+      "box": [
+        127,
+        431,
+        518,
+        458
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999234080314636,
+      "box": [
+        117,
+        494,
+        267,
+        521
+      ]
+    },
+    {
+      "text": "Bachelor's, Learning and Teaching Studies, Northwood University, 2020",
+      "score": 0.9767219424247742,
+      "box": [
+        115,
+        539,
+        782,
+        567
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of formative feedback",
+      "score": 0.9831781983375549,
+      "box": [
+        130,
+        567,
+        557,
+        590
+      ]
+    },
+    {
+      "text": "•Studied principles of academic progress tracking",
+      "score": 0.9880108833312988,
+      "box": [
+        131,
+        591,
+        596,
+        618
+      ]
+    }
+  ],
+  "seconds": 2.436457199975848,
+  "id": "24619",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

@@ -1,0 +1,182 @@
+{
+  "lines": [
+    {
+      "text": "MAYDA HAIL",
+      "score": 0.9855905771255493,
+      "box": [
+        117,
+        91,
+        327,
+        122
+      ]
+    },
+    {
+      "text": "PA, USA | +1-757-319-2490 | mayda.hail@example.com",
+      "score": 0.9701544046401978,
+      "box": [
+        115,
+        149,
+        640,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9985855221748352,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Softbridge Labs, 2020.06—2023.01",
+      "score": 0.9907328486442566,
+      "box": [
+        115,
+        288,
+        641,
+        316
+      ]
+    },
+    {
+      "text": "- Designed scalable services",
+      "score": 0.9955278038978577,
+      "box": [
+        125,
+        314,
+        397,
+        343
+      ]
+    },
+    {
+      "text": "- Developed system monitoring strategies",
+      "score": 0.9923701286315918,
+      "box": [
+        128,
+        339,
+        513,
+        369
+      ]
+    },
+    {
+      "text": "Software Developers, Datacore Labs, 2016.042018.12",
+      "score": 0.9840047955513,
+      "box": [
+        115,
+        380,
+        634,
+        408
+      ]
+    },
+    {
+      "text": "- Built reusable libraries",
+      "score": 0.982551634311676,
+      "box": [
+        125,
+        407,
+        348,
+        433
+      ]
+    },
+    {
+      "text": "- Improved API performance",
+      "score": 0.9882161617279053,
+      "box": [
+        127,
+        430,
+        393,
+        459
+      ]
+    },
+    {
+      "text": "Software Developers, Softline Digital, 2012.032014.11",
+      "score": 0.9941176772117615,
+      "box": [
+        117,
+        473,
+        628,
+        497
+      ]
+    },
+    {
+      "text": "- Updated routing logic",
+      "score": 0.9875338077545166,
+      "box": [
+        126,
+        496,
+        342,
+        525
+      ]
+    },
+    {
+      "text": "- Wrote integration tests",
+      "score": 0.9972866773605347,
+      "box": [
+        126,
+        520,
+        352,
+        551
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9998379945755005,
+      "box": [
+        117,
+        587,
+        267,
+        614
+      ]
+    },
+    {
+      "text": "Master's, Havenwood University, 2007",
+      "score": 0.9765132069587708,
+      "box": [
+        117,
+        633,
+        473,
+        657
+      ]
+    },
+    {
+      "text": "Bachelor's, Greenway University, 2005",
+      "score": 0.999849796295166,
+      "box": [
+        115,
+        656,
+        477,
+        684
+      ]
+    },
+    {
+      "text": "• Completed coursework in network security",
+      "score": 0.9892994165420532,
+      "box": [
+        132,
+        684,
+        539,
+        708
+      ]
+    },
+    {
+      "text": "Studied fundamentals of search algorithms",
+      "score": 0.9990193247795105,
+      "box": [
+        132,
+        705,
+        544,
+        734
+      ]
+    }
+  ],
+  "seconds": 2.4354787999764085,
+  "id": "46791",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

@@ -1,0 +1,152 @@
+{
+  "lines": [
+    {
+      "text": "HEATHER WINTERS",
+      "score": 0.9997628331184387,
+      "box": [
+        117,
+        92,
+        442,
+        122
+      ]
+    },
+    {
+      "text": "GA, USA | +1-940-636-6328 | heather.winters@example.com",
+      "score": 0.98157799243927,
+      "box": [
+        118,
+        152,
+        684,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9991493225097656,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Little Valley School, 2019.10—2022.07",
+      "score": 0.9812947511672974,
+      "box": [
+        116,
+        288,
+        815,
+        318
+      ]
+    },
+    {
+      "text": "- Designed performance monitoring systems",
+      "score": 0.9913895130157471,
+      "box": [
+        125,
+        314,
+        539,
+        343
+      ]
+    },
+    {
+      "text": "- Established instructional review cycles",
+      "score": 0.9997153878211975,
+      "box": [
+        125,
+        338,
+        498,
+        369
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Sunny Meadow Academy, 2016.072019.04",
+      "score": 0.9919920563697815,
+      "box": [
+        117,
+        382,
+        874,
+        409
+      ]
+    },
+    {
+      "text": "- Implemented basic literacy lessons",
+      "score": 0.9922290444374084,
+      "box": [
+        126,
+        407,
+        466,
+        433
+      ]
+    },
+    {
+      "text": "- Maintained classroom attendance and grading records",
+      "score": 0.9897783994674683,
+      "box": [
+        127,
+        432,
+        644,
+        456
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999436140060425,
+      "box": [
+        116,
+        494,
+        267,
+        521
+      ]
+    },
+    {
+      "text": "Master's, Education Studies, Riverfield University, 2011",
+      "score": 0.9954627752304077,
+      "box": [
+        114,
+        539,
+        629,
+        567
+      ]
+    },
+    {
+      "text": "Bachelor's, Youth Studies, Oakwood University, 2009",
+      "score": 0.9857044816017151,
+      "box": [
+        117,
+        567,
+        612,
+        591
+      ]
+    },
+    {
+      "text": "•Completed coursework in basic instructional coaching",
+      "score": 0.9765941500663757,
+      "box": [
+        129,
+        590,
+        645,
+        619
+      ]
+    },
+    {
+      "text": "•Completed coursework in student progress monitoring",
+      "score": 0.9839176535606384,
+      "box": [
+        132,
+        614,
+        647,
+        645
+      ]
+    }
+  ],
+  "seconds": 2.8199005001224577,
+  "id": "15776",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

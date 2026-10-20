@@ -1,0 +1,102 @@
+{
+  "lines": [
+    {
+      "text": "ADEN LEVY",
+      "score": 0.9823564887046814,
+      "box": [
+        116,
+        89,
+        310,
+        122
+      ]
+    },
+    {
+      "text": "AL, USA | +1-841-478-5644 | aden.levy@example.com",
+      "score": 0.9975625872612,
+      "box": [
+        116,
+        149,
+        626,
+        177
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9992914795875549,
+      "box": [
+        116,
+        243,
+        317,
+        270
+      ]
+    },
+    {
+      "text": "Construction Laborers, Reliable Works, 2022.01—2023.01",
+      "score": 0.9888714551925659,
+      "box": [
+        118,
+        289,
+        646,
+        313
+      ]
+    },
+    {
+      "text": "- Maintained cleanliness of work areas",
+      "score": 0.9807310700416565,
+      "box": [
+        125,
+        313,
+        485,
+        340
+      ]
+    },
+    {
+      "text": "- Mixed concrete and mortar",
+      "score": 0.9994997382164001,
+      "box": [
+        126,
+        339,
+        392,
+        364
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999479651451111,
+      "box": [
+        116,
+        404,
+        268,
+        431
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Building Systems, Riverwood High School, 2022",
+      "score": 0.9858149290084839,
+      "box": [
+        116,
+        446,
+        824,
+        475
+      ]
+    },
+    {
+      "text": "• Completed coursework in basic excavation methods",
+      "score": 0.9859883189201355,
+      "box": [
+        133,
+        474,
+        629,
+        498
+      ]
+    }
+  ],
+  "seconds": 2.2273404002189636,
+  "id": "00371",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

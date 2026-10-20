@@ -1,0 +1,142 @@
+{
+  "lines": [
+    {
+      "text": "FRANCISCO COMPTON",
+      "score": 0.999675989151001,
+      "box": [
+        117,
+        91,
+        497,
+        121
+      ]
+    },
+    {
+      "text": "PA, USA | +1-779-228-9987 | francisco.compton@example.com",
+      "score": 0.9907811284065247,
+      "box": [
+        118,
+        152,
+        708,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9997575879096985,
+      "box": [
+        117,
+        243,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Software Developers, Nextwave Systems, 2020.072023.01",
+      "score": 0.9895049929618835,
+      "box": [
+        115,
+        288,
+        673,
+        316
+      ]
+    },
+    {
+      "text": "- Implemented service orchestration",
+      "score": 0.9920733571052551,
+      "box": [
+        127,
+        315,
+        461,
+        340
+      ]
+    },
+    {
+      "text": "- Designed microservice architectures",
+      "score": 0.9973243474960327,
+      "box": [
+        130,
+        341,
+        478,
+        365
+      ]
+    },
+    {
+      "text": "Software Developers, Flowstack Tech, 2017.12—2020.07",
+      "score": 0.9810037612915039,
+      "box": [
+        116,
+        380,
+        642,
+        408
+      ]
+    },
+    {
+      "text": "- Implemented basic features in existing codebases",
+      "score": 0.9997106194496155,
+      "box": [
+        126,
+        407,
+        604,
+        433
+      ]
+    },
+    {
+      "text": "- Reviewed test coverage reports",
+      "score": 0.9885610938072205,
+      "box": [
+        127,
+        431,
+        436,
+        459
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999201893806458,
+      "box": [
+        117,
+        494,
+        268,
+        521
+      ]
+    },
+    {
+      "text": "Bachelor's, Maple Ridge University, 2020",
+      "score": 0.9879544973373413,
+      "box": [
+        117,
+        541,
+        497,
+        565
+      ]
+    },
+    {
+      "text": "•Studied fundamentals of race condition handling",
+      "score": 0.9905304312705994,
+      "box": [
+        128,
+        564,
+        594,
+        594
+      ]
+    },
+    {
+      "text": "•Studied principles of linear algebra",
+      "score": 0.9551934003829956,
+      "box": [
+        131,
+        591,
+        468,
+        617
+      ]
+    }
+  ],
+  "seconds": 2.545808400027454,
+  "id": "46928",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

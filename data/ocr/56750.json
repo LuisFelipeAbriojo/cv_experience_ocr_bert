@@ -1,0 +1,172 @@
+{
+  "lines": [
+    {
+      "text": "DESIREE MAXWELL",
+      "score": 0.9996038675308228,
+      "box": [
+        118,
+        91,
+        441,
+        121
+      ]
+    },
+    {
+      "text": "VA, USA | +1-427-207-3273 | desiree.maxwell@example.com",
+      "score": 0.9818018674850464,
+      "box": [
+        118,
+        152,
+        688,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9991400837898254,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Balanced Books Group, 2020.04—2023.01",
+      "score": 0.9937577843666077,
+      "box": [
+        115,
+        288,
+        714,
+        316
+      ]
+    },
+    {
+      "text": "- Established cost management systems",
+      "score": 0.9977226257324219,
+      "box": [
+        128,
+        315,
+        504,
+        343
+      ]
+    },
+    {
+      "text": "- Led accounting process optimization",
+      "score": 0.9854592084884644,
+      "box": [
+        128,
+        340,
+        480,
+        368
+      ]
+    },
+    {
+      "text": "Accountants Auditors, FairCount Services, 2017.072020.04",
+      "score": 0.9871838688850403,
+      "box": [
+        118,
+        383,
+        677,
+        407
+      ]
+    },
+    {
+      "text": "- Analyzed financial trends",
+      "score": 0.9711267948150635,
+      "box": [
+        125,
+        407,
+        374,
+        432
+      ]
+    },
+    {
+      "text": "- Managed accounts receivable cycles",
+      "score": 0.9943470358848572,
+      "box": [
+        125,
+        430,
+        484,
+        459
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Reliable Balance Co., 2014.102017.07",
+      "score": 0.9970391988754272,
+      "box": [
+        118,
+        473,
+        695,
+        497
+      ]
+    },
+    {
+      "text": "- Reviewed expense classifications",
+      "score": 0.9882345795631409,
+      "box": [
+        126,
+        498,
+        453,
+        524
+      ]
+    },
+    {
+      "text": "- Reviewed credit memos",
+      "score": 0.9994703531265259,
+      "box": [
+        127,
+        521,
+        366,
+        548
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9998854398727417,
+      "box": [
+        117,
+        587,
+        267,
+        614
+      ]
+    },
+    {
+      "text": "Bachelor's, Operations Management, Driftwood University, 2012",
+      "score": 0.9990778565406799,
+      "box": [
+        116,
+        631,
+        712,
+        659
+      ]
+    },
+    {
+      "text": "•Studied principles of financial statement preparation",
+      "score": 0.9898971319198608,
+      "box": [
+        129,
+        657,
+        629,
+        685
+      ]
+    },
+    {
+      "text": "• Completed coursework in macroeconomics",
+      "score": 0.990768313407898,
+      "box": [
+        133,
+        683,
+        548,
+        707
+      ]
+    }
+  ],
+  "seconds": 2.6434073001146317,
+  "id": "56750",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

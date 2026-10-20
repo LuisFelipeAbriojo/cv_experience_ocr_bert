@@ -1,0 +1,142 @@
+{
+  "lines": [
+    {
+      "text": "ELIZABETH BOWMAN",
+      "score": 0.9998204708099365,
+      "box": [
+        118,
+        92,
+        472,
+        122
+      ]
+    },
+    {
+      "text": "AZ, USA | +1-434-980-2633 | elizabeth.bowman@example.com",
+      "score": 0.9882727861404419,
+      "box": [
+        118,
+        152,
+        705,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9613265991210938,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Growing Path Academy, 2021.012023.01",
+      "score": 0.9971190094947815,
+      "box": [
+        116,
+        288,
+        856,
+        318
+      ]
+    },
+    {
+      "text": "- Led curriculum integration projects",
+      "score": 0.9998225569725037,
+      "box": [
+        126,
+        315,
+        460,
+        341
+      ]
+    },
+    {
+      "text": "- Established learning outcome benchmarks",
+      "score": 0.9823170900344849,
+      "box": [
+        126,
+        339,
+        535,
+        367
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Little Path School, 2018.12—2021.01",
+      "score": 0.9815792441368103,
+      "box": [
+        118,
+        382,
+        799,
+        409
+      ]
+    },
+    {
+      "text": "- Conducted spelling practice",
+      "score": 0.9968615174293518,
+      "box": [
+        125,
+        406,
+        400,
+        435
+      ]
+    },
+    {
+      "text": "- Recorded behavioral observations",
+      "score": 0.9819679260253906,
+      "box": [
+        127,
+        431,
+        458,
+        456
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999150037765503,
+      "box": [
+        117,
+        494,
+        267,
+        521
+      ]
+    },
+    {
+      "text": "Bachelor's, Academic Foundations, Northway University, 2019",
+      "score": 0.9775199890136719,
+      "box": [
+        117,
+        542,
+        692,
+        566
+      ]
+    },
+    {
+      "text": "• Studied principles of curriculum standards",
+      "score": 0.9736106395721436,
+      "box": [
+        131,
+        567,
+        536,
+        591
+      ]
+    },
+    {
+      "text": "• Completed coursework in foundational assessment tools",
+      "score": 0.9888696670532227,
+      "box": [
+        132,
+        591,
+        668,
+        615
+      ]
+    }
+  ],
+  "seconds": 2.366783400066197,
+  "id": "01107",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

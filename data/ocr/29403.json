@@ -1,0 +1,182 @@
+{
+  "lines": [
+    {
+      "text": "DONATO LOGAN",
+      "score": 0.9997377395629883,
+      "box": [
+        118,
+        90,
+        393,
+        121
+      ]
+    },
+    {
+      "text": "MN, USA | +1-761-617-3506 | donato.logan@example.com",
+      "score": 0.9944372177124023,
+      "box": [
+        116,
+        150,
+        664,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9986984133720398,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Clearline Software, 2020.09—2023.01",
+      "score": 0.9900530576705933,
+      "box": [
+        117,
+        291,
+        665,
+        315
+      ]
+    },
+    {
+      "text": "- Led backend platform development",
+      "score": 0.9957022666931152,
+      "box": [
+        126,
+        315,
+        469,
+        340
+      ]
+    },
+    {
+      "text": "- Built core libraries",
+      "score": 0.979775607585907,
+      "box": [
+        127,
+        339,
+        309,
+        366
+      ]
+    },
+    {
+      "text": "Software Developers, Skyline Software, 2018.052020.09",
+      "score": 0.995694637298584,
+      "box": [
+        117,
+        383,
+        651,
+        407
+      ]
+    },
+    {
+      "text": "- Designed data models",
+      "score": 0.969322919845581,
+      "box": [
+        127,
+        409,
+        350,
+        433
+      ]
+    },
+    {
+      "text": "- Integrated third-party services",
+      "score": 0.9948514103889465,
+      "box": [
+        127,
+        431,
+        419,
+        459
+      ]
+    },
+    {
+      "text": "Software Developers, Netline Labs, 2015.122018.05",
+      "score": 0.9946673512458801,
+      "box": [
+        117,
+        472,
+        613,
+        499
+      ]
+    },
+    {
+      "text": "- Fixed software bugs identified through testing",
+      "score": 0.9974625706672668,
+      "box": [
+        125,
+        496,
+        563,
+        526
+      ]
+    },
+    {
+      "text": "- Resolved merge conflicts",
+      "score": 0.9883998036384583,
+      "box": [
+        126,
+        521,
+        377,
+        550
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999454021453857,
+      "box": [
+        118,
+        588,
+        266,
+        612
+      ]
+    },
+    {
+      "text": "Master's, Forestfield University, 2015",
+      "score": 0.9988570213317871,
+      "box": [
+        115,
+        630,
+        462,
+        658
+      ]
+    },
+    {
+      "text": "Bachelor's, Woodview University, 2013",
+      "score": 0.9988003373146057,
+      "box": [
+        115,
+        656,
+        478,
+        684
+      ]
+    },
+    {
+      "text": "•Studied principles of linear algebra",
+      "score": 0.9740209579467773,
+      "box": [
+        131,
+        683,
+        468,
+        707
+      ]
+    },
+    {
+      "text": "• Completed coursework in project documentation",
+      "score": 0.9816790819168091,
+      "box": [
+        132,
+        706,
+        596,
+        734
+      ]
+    }
+  ],
+  "seconds": 2.377894800156355,
+  "id": "29403",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

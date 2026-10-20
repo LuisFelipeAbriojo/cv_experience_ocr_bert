@@ -1,0 +1,172 @@
+{
+  "lines": [
+    {
+      "text": "SHARON MOSLEY",
+      "score": 0.9997378587722778,
+      "box": [
+        116,
+        90,
+        413,
+        122
+      ]
+    },
+    {
+      "text": "GA, USA | +1-629-247-1347 | sharon.mosley@example.com",
+      "score": 0.9782237410545349,
+      "box": [
+        118,
+        152,
+        676,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9991585612297058,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, WellLife Medical Group, 2020.04—2023.01",
+      "score": 0.9861307740211487,
+      "box": [
+        116,
+        288,
+        690,
+        316
+      ]
+    },
+    {
+      "text": "- Managed clinical risk assessments",
+      "score": 0.9906352162361145,
+      "box": [
+        126,
+        314,
+        462,
+        341
+      ]
+    },
+    {
+      "text": "- Developed care quality benchmarks",
+      "score": 0.996944010257721,
+      "box": [
+        127,
+        339,
+        473,
+        367
+      ]
+    },
+    {
+      "text": "Registered Nurses, KindPath Care Center, 2016.042019.01",
+      "score": 0.9890170097351074,
+      "box": [
+        118,
+        383,
+        678,
+        407
+      ]
+    },
+    {
+      "text": "- Managed patient referrals",
+      "score": 0.9964961409568787,
+      "box": [
+        124,
+        406,
+        382,
+        435
+      ]
+    },
+    {
+      "text": "- Administered complex medication regimens",
+      "score": 0.9983155131340027,
+      "box": [
+        128,
+        434,
+        545,
+        457
+      ]
+    },
+    {
+      "text": "Registered Nurses, ClearLife Health Group, 2012.112015.08",
+      "score": 0.9925426244735718,
+      "box": [
+        116,
+        471,
+        690,
+        499
+      ]
+    },
+    {
+      "text": "- Monitored patient dietary needs",
+      "score": 0.9962725639343262,
+      "box": [
+        128,
+        499,
+        435,
+        523
+      ]
+    },
+    {
+      "text": "- Assisted with specimen labeling",
+      "score": 0.998664140701294,
+      "box": [
+        128,
+        521,
+        438,
+        551
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999511241912842,
+      "box": [
+        118,
+        588,
+        266,
+        612
+      ]
+    },
+    {
+      "text": "Associate's degree, Health Services, Brookstone University, 2008",
+      "score": 0.993553876876831,
+      "box": [
+        117,
+        632,
+        724,
+        659
+      ]
+    },
+    {
+      "text": "• Studied principles of fall prevention",
+      "score": 0.9750312566757202,
+      "box": [
+        130,
+        659,
+        473,
+        683
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of care coordination",
+      "score": 0.9856916666030884,
+      "box": [
+        131,
+        683,
+        539,
+        706
+      ]
+    }
+  ],
+  "seconds": 2.573316200170666,
+  "id": "16181",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

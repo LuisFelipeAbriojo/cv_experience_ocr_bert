@@ -1,0 +1,112 @@
+{
+  "lines": [
+    {
+      "text": "AMANDA POOLE",
+      "score": 0.983384907245636,
+      "box": [
+        117,
+        89,
+        394,
+        123
+      ]
+    },
+    {
+      "text": "MO, USA | +1-590-556-1879 | amanda.poole@example.com",
+      "score": 0.9884607791900635,
+      "box": [
+        115,
+        149,
+        677,
+        177
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9997258186340332,
+      "box": [
+        117,
+        243,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Software Developers, Skyframe Labs, 2017.062020.02",
+      "score": 0.9958045482635498,
+      "box": [
+        117,
+        290,
+        635,
+        314
+      ]
+    },
+    {
+      "text": "- Updated routing logic",
+      "score": 0.9975959062576294,
+      "box": [
+        125,
+        313,
+        341,
+        342
+      ]
+    },
+    {
+      "text": "- Reviewed code changes for syntax and logic issues",
+      "score": 0.9906824827194214,
+      "box": [
+        127,
+        338,
+        621,
+        367
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999385476112366,
+      "box": [
+        116,
+        404,
+        268,
+        431
+      ]
+    },
+    {
+      "text": "Associate's degree, Fairfield University, 2010",
+      "score": 0.9696366786956787,
+      "box": [
+        116,
+        446,
+        537,
+        476
+      ]
+    },
+    {
+      "text": "Completed coursework in cloud computing basics",
+      "score": 0.9925243258476257,
+      "box": [
+        130,
+        472,
+        607,
+        501
+      ]
+    },
+    {
+      "text": "Completed coursework in exception management",
+      "score": 0.999699056148529,
+      "box": [
+        132,
+        497,
+        609,
+        525
+      ]
+    }
+  ],
+  "seconds": 2.0882623000070453,
+  "id": "30892",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

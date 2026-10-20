@@ -1,0 +1,202 @@
+{
+  "lines": [
+    {
+      "text": "KELSEY GREGORY",
+      "score": 0.9976320862770081,
+      "box": [
+        117,
+        91,
+        432,
+        121
+      ]
+    },
+    {
+      "text": "IN, USA | +1-684-820-9997 | kelsey.gregory@example.com",
+      "score": 0.9858402013778687,
+      "box": [
+        118,
+        152,
+        668,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9991835951805115,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Reliable Accounts Financial, 2020.07—2023.01",
+      "score": 0.9939348697662354,
+      "box": [
+        115,
+        288,
+        756,
+        316
+      ]
+    },
+    {
+      "text": "- Designed financial policy frameworks",
+      "score": 0.996386706829071,
+      "box": [
+        127,
+        317,
+        485,
+        341
+      ]
+    },
+    {
+      "text": "- Directed revenue recognition policies",
+      "score": 0.9830108284950256,
+      "box": [
+        127,
+        339,
+        485,
+        369
+      ]
+    },
+    {
+      "text": "Accountants Auditors, CoreLedger Financial, 2018.012020.07",
+      "score": 0.9790599346160889,
+      "box": [
+        117,
+        382,
+        699,
+        407
+      ]
+    },
+    {
+      "text": "- Established compliance monitoring systems",
+      "score": 0.9945102334022522,
+      "box": [
+        126,
+        408,
+        546,
+        434
+      ]
+    },
+    {
+      "text": "- Developed long-term financial strategies",
+      "score": 0.9936608076095581,
+      "box": [
+        127,
+        431,
+        515,
+        460
+      ]
+    },
+    {
+      "text": "Accountants Auditors, TrustLedger Financial, 2015.072018.01",
+      "score": 0.9899048209190369,
+      "box": [
+        117,
+        474,
+        700,
+        497
+      ]
+    },
+    {
+      "text": "- Managed accounting system updates",
+      "score": 0.9927197098731995,
+      "box": [
+        125,
+        497,
+        489,
+        525
+      ]
+    },
+    {
+      "text": "- Performed revenue recognition analysis",
+      "score": 0.977002739906311,
+      "box": [
+        127,
+        521,
+        509,
+        550
+      ]
+    },
+    {
+      "text": "Accountants Auditors, CoreLedger Financial, 2013.012015.07",
+      "score": 0.9978352785110474,
+      "box": [
+        118,
+        565,
+        698,
+        589
+      ]
+    },
+    {
+      "text": "- Matched invoices to purchase orders",
+      "score": 0.9806625843048096,
+      "box": [
+        128,
+        590,
+        484,
+        616
+      ]
+    },
+    {
+      "text": "- Filed financial documents",
+      "score": 0.983870267868042,
+      "box": [
+        127,
+        614,
+        378,
+        641
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999409914016724,
+      "box": [
+        117,
+        681,
+        266,
+        705
+      ]
+    },
+    {
+      "text": "Bachelor's, Financial Accounting, Brookridge University, 2011",
+      "score": 0.9897503852844238,
+      "box": [
+        116,
+        723,
+        684,
+        749
+      ]
+    },
+    {
+      "text": "•Studied fundamentals of governmental auditing",
+      "score": 0.9883603453636169,
+      "box": [
+        131,
+        749,
+        585,
+        775
+      ]
+    },
+    {
+      "text": "Completed coursework in capital budgeting",
+      "score": 0.995598316192627,
+      "box": [
+        132,
+        772,
+        548,
+        802
+      ]
+    }
+  ],
+  "seconds": 3.0212270002812147,
+  "id": "20120",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

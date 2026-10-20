@@ -1,0 +1,112 @@
+{
+  "lines": [
+    {
+      "text": "CHRISTOPHER GILL",
+      "score": 0.9982062578201294,
+      "box": [
+        118,
+        91,
+        445,
+        122
+      ]
+    },
+    {
+      "text": "IL, USA | +1-234-644-3022 | christopher.gill@example.com",
+      "score": 0.9845027923583984,
+      "box": [
+        118,
+        152,
+        663,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9997456669807434,
+      "box": [
+        117,
+        243,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Construction Laborers, FirmRise Construction, 2020.12—2023.01",
+      "score": 0.9874998331069946,
+      "box": [
+        118,
+        290,
+        712,
+        314
+      ]
+    },
+    {
+      "text": "- Assisted with excavation tasks",
+      "score": 0.9826763868331909,
+      "box": [
+        125,
+        314,
+        424,
+        340
+      ]
+    },
+    {
+      "text": "- Measured and cut basic building materials",
+      "score": 0.9770612716674805,
+      "box": [
+        126,
+        338,
+        532,
+        367
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999513626098633,
+      "box": [
+        116,
+        404,
+        268,
+        431
+      ]
+    },
+    {
+      "text": "Associate's degree, Plumbing Technology, Sunrise University, 2023",
+      "score": 0.9880914688110352,
+      "box": [
+        117,
+        448,
+        744,
+        475
+      ]
+    },
+    {
+      "text": "•Studied principles of construction record keeping",
+      "score": 0.9902607202529907,
+      "box": [
+        130,
+        474,
+        598,
+        500
+      ]
+    },
+    {
+      "text": "Completed coursework in concrete curing methods",
+      "score": 0.9998676776885986,
+      "box": [
+        132,
+        497,
+        618,
+        525
+      ]
+    }
+  ],
+  "seconds": 1.9580705002881587,
+  "id": "18115",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

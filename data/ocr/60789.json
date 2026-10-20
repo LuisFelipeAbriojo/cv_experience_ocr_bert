@@ -1,0 +1,142 @@
+{
+  "lines": [
+    {
+      "text": "KAYLA FREEMAN",
+      "score": 0.9997180104255676,
+      "box": [
+        116,
+        89,
+        408,
+        122
+      ]
+    },
+    {
+      "text": "WI, USA | +1-574-518-2496 | kayla.freeman@example.com",
+      "score": 0.9871610403060913,
+      "box": [
+        118,
+        152,
+        667,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9991941452026367,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, SunWay Care Group, 2020.11-2023.01",
+      "score": 0.9833585619926453,
+      "box": [
+        115,
+        287,
+        669,
+        319
+      ]
+    },
+    {
+      "text": "- Implemented clinical decision support systems",
+      "score": 0.9895686507225037,
+      "box": [
+        125,
+        314,
+        571,
+        343
+      ]
+    },
+    {
+      "text": "- Directed clinical training standards",
+      "score": 0.9896444082260132,
+      "box": [
+        127,
+        338,
+        460,
+        368
+      ]
+    },
+    {
+      "text": "Registered Nurses, LifeSpring Medical Services, 2016.072018.10",
+      "score": 0.9955677390098572,
+      "box": [
+        117,
+        382,
+        734,
+        409
+      ]
+    },
+    {
+      "text": "- Assisted with patient positioning",
+      "score": 0.9969448447227478,
+      "box": [
+        124,
+        404,
+        439,
+        436
+      ]
+    },
+    {
+      "text": "- Assisted with emergency procedures",
+      "score": 0.9912199378013611,
+      "box": [
+        126,
+        431,
+        483,
+        459
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999457597732544,
+      "box": [
+        116,
+        494,
+        268,
+        521
+      ]
+    },
+    {
+      "text": "Bachelor's, Health Care Technology, Summit Ridge University, 2015",
+      "score": 0.9957912564277649,
+      "box": [
+        115,
+        539,
+        749,
+        567
+      ]
+    },
+    {
+      "text": "•Studied principles of pain assessment tools",
+      "score": 0.9661872386932373,
+      "box": [
+        131,
+        567,
+        549,
+        591
+      ]
+    },
+    {
+      "text": "Completed coursework in nursing ethics",
+      "score": 0.9819098114967346,
+      "box": [
+        130,
+        590,
+        519,
+        618
+      ]
+    }
+  ],
+  "seconds": 2.44136010017246,
+  "id": "60789",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

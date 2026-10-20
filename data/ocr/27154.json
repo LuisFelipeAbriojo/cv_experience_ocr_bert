@@ -1,0 +1,202 @@
+{
+  "lines": [
+    {
+      "text": "TYRISHA CLEMENTS",
+      "score": 0.9997414350509644,
+      "box": [
+        117,
+        92,
+        457,
+        122
+      ]
+    },
+    {
+      "text": "MI, USA | +1-480-271-9523 | tyrisha.clements@example.com",
+      "score": 0.993546187877655,
+      "box": [
+        115,
+        150,
+        686,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9988461136817932,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Corelink Software, 2019.10—2023.01",
+      "score": 0.9920610189437866,
+      "box": [
+        116,
+        290,
+        660,
+        317
+      ]
+    },
+    {
+      "text": "- Implemented access control frameworks",
+      "score": 0.989738941192627,
+      "box": [
+        128,
+        316,
+        514,
+        341
+      ]
+    },
+    {
+      "text": "- Implemented data pipeline architectures",
+      "score": 0.9884152412414551,
+      "box": [
+        128,
+        339,
+        513,
+        368
+      ]
+    },
+    {
+      "text": "Software Developers, Netline Solutions, 2016.072019.10",
+      "score": 0.9887526035308838,
+      "box": [
+        116,
+        382,
+        654,
+        409
+      ]
+    },
+    {
+      "text": "- Led architectural reviews",
+      "score": 0.990821897983551,
+      "box": [
+        127,
+        408,
+        374,
+        433
+      ]
+    },
+    {
+      "text": "- Designed data storage strategies",
+      "score": 0.9979634881019592,
+      "box": [
+        127,
+        431,
+        449,
+        459
+      ]
+    },
+    {
+      "text": "Software Developers, Softpath Digital, 2013.042016.07",
+      "score": 0.9929643273353577,
+      "box": [
+        117,
+        472,
+        638,
+        499
+      ]
+    },
+    {
+      "text": "- Implemented authentication workflows",
+      "score": 0.998573899269104,
+      "box": [
+        127,
+        498,
+        498,
+        525
+      ]
+    },
+    {
+      "text": "- Designed data models",
+      "score": 0.9992082715034485,
+      "box": [
+        127,
+        521,
+        351,
+        552
+      ]
+    },
+    {
+      "text": "Software Developers, Cloudcrest Systems, 2007.05—2010.09",
+      "score": 0.9859396815299988,
+      "box": [
+        116,
+        565,
+        683,
+        592
+      ]
+    },
+    {
+      "text": "- Wrote configuration parsers",
+      "score": 0.9996435642242432,
+      "box": [
+        125,
+        589,
+        400,
+        619
+      ]
+    },
+    {
+      "text": "- Participated in code reviews",
+      "score": 0.9836003184318542,
+      "box": [
+        126,
+        613,
+        403,
+        644
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999163150787354,
+      "box": [
+        117,
+        681,
+        266,
+        705
+      ]
+    },
+    {
+      "text": "Bachelor's, Fieldview University, 2004",
+      "score": 0.9711877107620239,
+      "box": [
+        117,
+        725,
+        468,
+        748
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of software metrics",
+      "score": 0.98322594165802,
+      "box": [
+        132,
+        750,
+        531,
+        774
+      ]
+    },
+    {
+      "text": "Completed coursework in data mining basics",
+      "score": 0.999841570854187,
+      "box": [
+        132,
+        772,
+        563,
+        800
+      ]
+    }
+  ],
+  "seconds": 2.960361300036311,
+  "id": "27154",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

@@ -1,0 +1,202 @@
+{
+  "lines": [
+    {
+      "text": "MICHAEL SWANSON",
+      "score": 0.99979168176651,
+      "box": [
+        118,
+        91,
+        452,
+        121
+      ]
+    },
+    {
+      "text": "MI, USA | +1-241-351-4348 | michael.swanson@example.com",
+      "score": 0.9933030009269714,
+      "box": [
+        115,
+        149,
+        696,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9965725541114807,
+      "box": [
+        117,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, Reliable Works, 2019.112023.01",
+      "score": 0.997018039226532,
+      "box": [
+        118,
+        290,
+        646,
+        314
+      ]
+    },
+    {
+      "text": "- Coordinated large-scale material logistics",
+      "score": 0.996828019618988,
+      "box": [
+        125,
+        314,
+        524,
+        343
+      ]
+    },
+    {
+      "text": "- Supervised high-risk operations",
+      "score": 0.9886404275894165,
+      "box": [
+        127,
+        340,
+        435,
+        368
+      ]
+    },
+    {
+      "text": "Construction Laborers, HardLine Construction, 2016.092019.11",
+      "score": 0.9878131747245789,
+      "box": [
+        118,
+        383,
+        715,
+        407
+      ]
+    },
+    {
+      "text": "- Directed site construction operations",
+      "score": 0.9804069399833679,
+      "box": [
+        126,
+        407,
+        480,
+        433
+      ]
+    },
+    {
+      "text": "- Led complex demolition projects",
+      "score": 0.9916989803314209,
+      "box": [
+        129,
+        434,
+        440,
+        457
+      ]
+    },
+    {
+      "text": "Construction Laborers, StrongTrack Construction, 2012.092015.12",
+      "score": 0.9968106150627136,
+      "box": [
+        117,
+        472,
+        747,
+        499
+      ]
+    },
+    {
+      "text": "- Interpreted blueprints for task execution",
+      "score": 0.9919253587722778,
+      "box": [
+        126,
+        498,
+        509,
+        523
+      ]
+    },
+    {
+      "text": "- Documented daily work progress",
+      "score": 0.9883951544761658,
+      "box": [
+        127,
+        522,
+        447,
+        549
+      ]
+    },
+    {
+      "text": "Construction Laborers, Reliable Track Co., 2008.10—2012.01",
+      "score": 0.9804609417915344,
+      "box": [
+        118,
+        566,
+        678,
+        590
+      ]
+    },
+    {
+      "text": "- Handled delivery documentation",
+      "score": 0.9875478744506836,
+      "box": [
+        128,
+        592,
+        441,
+        616
+      ]
+    },
+    {
+      "text": "- Followed blueprint instructions",
+      "score": 0.9886444807052612,
+      "box": [
+        127,
+        613,
+        424,
+        644
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999069571495056,
+      "box": [
+        117,
+        681,
+        266,
+        705
+      ]
+    },
+    {
+      "text": "Bachelor's, Construction Design, Clearview University, 2004",
+      "score": 0.9876519441604614,
+      "box": [
+        115,
+        723,
+        673,
+        750
+      ]
+    },
+    {
+      "text": "•Studied principles of material estimation",
+      "score": 0.9792200922966003,
+      "box": [
+        130,
+        749,
+        518,
+        773
+      ]
+    },
+    {
+      "text": "Studied fundamentals of fire safety in construction",
+      "score": 0.9823819398880005,
+      "box": [
+        130,
+        772,
+        611,
+        800
+      ]
+    }
+  ],
+  "seconds": 2.8770880000665784,
+  "id": "26945",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

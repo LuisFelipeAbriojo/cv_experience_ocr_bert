@@ -1,0 +1,172 @@
+{
+  "lines": [
+    {
+      "text": "LINDSAY BOWERS",
+      "score": 0.9825885891914368,
+      "box": [
+        118,
+        91,
+        424,
+        122
+      ]
+    },
+    {
+      "text": "GA, USA | +1-602-441-2424 | lindsay.bowers@example.com",
+      "score": 0.9944438338279724,
+      "box": [
+        116,
+        150,
+        680,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9991067051887512,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Sunny Start School, 2020.09—2023.01",
+      "score": 0.9925697445869446,
+      "box": [
+        115,
+        287,
+        816,
+        318
+      ]
+    },
+    {
+      "text": "- Established instructional leadership protocols",
+      "score": 0.9856938719749451,
+      "box": [
+        126,
+        314,
+        560,
+        342
+      ]
+    },
+    {
+      "text": "- Implemented learning system upgrades",
+      "score": 0.9893319010734558,
+      "box": [
+        126,
+        339,
+        508,
+        369
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Morning Star School, 2018.04—2020.09",
+      "score": 0.9793604612350464,
+      "box": [
+        116,
+        381,
+        828,
+        411
+      ]
+    },
+    {
+      "text": "- Developed science lesson plans",
+      "score": 0.9998041391372681,
+      "box": [
+        126,
+        408,
+        441,
+        434
+      ]
+    },
+    {
+      "text": "- Designed math assessments",
+      "score": 0.9723608493804932,
+      "box": [
+        126,
+        431,
+        411,
+        459
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Sunny Meadow Academy, 2015.112018.04",
+      "score": 0.9880752563476562,
+      "box": [
+        117,
+        472,
+        875,
+        499
+      ]
+    },
+    {
+      "text": "- Scheduled instructional activities",
+      "score": 0.9597974419593811,
+      "box": [
+        126,
+        498,
+        445,
+        523
+      ]
+    },
+    {
+      "text": "- Supported individual student learning activities",
+      "score": 0.9817246794700623,
+      "box": [
+        127,
+        521,
+        572,
+        549
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9998847246170044,
+      "box": [
+        117,
+        587,
+        267,
+        614
+      ]
+    },
+    {
+      "text": "Bachelor's, Academic Foundations, Lakeview University, 2018",
+      "score": 0.9969897866249084,
+      "box": [
+        116,
+        631,
+        692,
+        659
+      ]
+    },
+    {
+      "text": "• Completed coursework in academic content planning",
+      "score": 0.97841876745224,
+      "box": [
+        130,
+        658,
+        637,
+        684
+      ]
+    },
+    {
+      "text": "•Studied fundamentals of formative feedback",
+      "score": 0.9899580478668213,
+      "box": [
+        131,
+        681,
+        557,
+        706
+      ]
+    }
+  ],
+  "seconds": 2.954147799871862,
+  "id": "14651",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

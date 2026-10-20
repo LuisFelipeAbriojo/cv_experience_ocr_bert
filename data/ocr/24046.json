@@ -1,0 +1,152 @@
+{
+  "lines": [
+    {
+      "text": "BRENT BALL",
+      "score": 0.9623603820800781,
+      "box": [
+        117,
+        91,
+        330,
+        122
+      ]
+    },
+    {
+      "text": "MD, USA | +1-551-923-9858 | brent.ball@example.com",
+      "score": 0.9760234951972961,
+      "box": [
+        116,
+        151,
+        629,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9991222023963928,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Future Path Academy, 2018.06—2020.12",
+      "score": 0.9850232601165771,
+      "box": [
+        117,
+        289,
+        841,
+        316
+      ]
+    },
+    {
+      "text": "- Led instructional design reviews",
+      "score": 0.997875988483429,
+      "box": [
+        126,
+        315,
+        439,
+        341
+      ]
+    },
+    {
+      "text": "- Directed academic intervention strategies",
+      "score": 0.9838265776634216,
+      "box": [
+        127,
+        339,
+        524,
+        367
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Open Start School, 2014.122017.07",
+      "score": 0.9846663475036621,
+      "box": [
+        117,
+        382,
+        808,
+        409
+      ]
+    },
+    {
+      "text": "- Prepared visual teaching aids",
+      "score": 0.9990820288658142,
+      "box": [
+        126,
+        407,
+        417,
+        433
+      ]
+    },
+    {
+      "text": "- Conducted group reading activities",
+      "score": 0.9785435795783997,
+      "box": [
+        127,
+        430,
+        463,
+        458
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999266862869263,
+      "box": [
+        116,
+        494,
+        267,
+        521
+      ]
+    },
+    {
+      "text": "Master's, Foundational Education, Redfield University, 2014",
+      "score": 0.9846578240394592,
+      "box": [
+        114,
+        539,
+        672,
+        567
+      ]
+    },
+    {
+      "text": "Bachelor's, General Academic Studies, Clearwood University, 2012",
+      "score": 0.9845321774482727,
+      "box": [
+        117,
+        567,
+        740,
+        591
+      ]
+    },
+    {
+      "text": "•Studied principles of academic instruction",
+      "score": 0.9882381558418274,
+      "box": [
+        129,
+        592,
+        532,
+        616
+      ]
+    },
+    {
+      "text": "•Studied principles of lesson coherence",
+      "score": 0.9805073738098145,
+      "box": [
+        129,
+        615,
+        506,
+        644
+      ]
+    }
+  ],
+  "seconds": 2.537923500407487,
+  "id": "24046",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

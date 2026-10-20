@@ -1,0 +1,202 @@
+{
+  "lines": [
+    {
+      "text": "RACHEL VILLANUEVA",
+      "score": 0.9967852234840393,
+      "box": [
+        117,
+        92,
+        479,
+        122
+      ]
+    },
+    {
+      "text": "PA, USA | +1-938-779-7419 | rachel.villanueva@example.com",
+      "score": 0.9816152453422546,
+      "box": [
+        115,
+        150,
+        696,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9990899562835693,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, ClearView Accounting, 2019.05—2023.01",
+      "score": 0.9762045741081238,
+      "box": [
+        116,
+        290,
+        703,
+        316
+      ]
+    },
+    {
+      "text": "- Developed regulatory reporting strategies",
+      "score": 0.9979879856109619,
+      "box": [
+        126,
+        316,
+        525,
+        342
+      ]
+    },
+    {
+      "text": "- Established financial data governance",
+      "score": 0.998099684715271,
+      "box": [
+        127,
+        340,
+        493,
+        367
+      ]
+    },
+    {
+      "text": "Accountants Auditors, SteadyLedger Services, 2015.092019.05",
+      "score": 0.9950088858604431,
+      "box": [
+        116,
+        381,
+        716,
+        409
+      ]
+    },
+    {
+      "text": "- Established compliance monitoring systems",
+      "score": 0.9934982657432556,
+      "box": [
+        126,
+        408,
+        546,
+        434
+      ]
+    },
+    {
+      "text": "- Directed enterprise accounting platforms",
+      "score": 0.9870518445968628,
+      "box": [
+        127,
+        435,
+        516,
+        458
+      ]
+    },
+    {
+      "text": "Accountants Auditors, EverCount Group, 2012.01-2015.09",
+      "score": 0.9844710230827332,
+      "box": [
+        116,
+        471,
+        662,
+        500
+      ]
+    },
+    {
+      "text": "- Performed revenue recognition analysis",
+      "score": 0.995326817035675,
+      "box": [
+        125,
+        497,
+        511,
+        525
+      ]
+    },
+    {
+      "text": "- Managed fixed asset accounting",
+      "score": 0.9788267612457275,
+      "box": [
+        127,
+        521,
+        443,
+        551
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Integrity Books Financial, 2008.05—2012.01",
+      "score": 0.9849068522453308,
+      "box": [
+        116,
+        564,
+        727,
+        592
+      ]
+    },
+    {
+      "text": "- Prepared supporting schedules",
+      "score": 0.9930369257926941,
+      "box": [
+        125,
+        590,
+        432,
+        618
+      ]
+    },
+    {
+      "text": "- Reviewed expense classifications",
+      "score": 0.9949418306350708,
+      "box": [
+        127,
+        614,
+        453,
+        642
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999008178710938,
+      "box": [
+        117,
+        681,
+        266,
+        705
+      ]
+    },
+    {
+      "text": "Bachelor's, Economics, Briarwood University, 2011",
+      "score": 0.9921744465827942,
+      "box": [
+        115,
+        723,
+        590,
+        750
+      ]
+    },
+    {
+      "text": "• Completed coursework in environmental accounting basics",
+      "score": 0.9800140261650085,
+      "box": [
+        133,
+        749,
+        692,
+        776
+      ]
+    },
+    {
+      "text": "•Completed coursework in financial compliance basics",
+      "score": 0.9842239618301392,
+      "box": [
+        132,
+        772,
+        643,
+        801
+      ]
+    }
+  ],
+  "seconds": 3.019510400015861,
+  "id": "45531",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

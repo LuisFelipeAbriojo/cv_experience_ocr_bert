@@ -1,0 +1,192 @@
+{
+  "lines": [
+    {
+      "text": "MICHAEL DRAKE",
+      "score": 0.9998007416725159,
+      "box": [
+        117,
+        90,
+        398,
+        122
+      ]
+    },
+    {
+      "text": "OR, USA | +1-302-831-1751 | michael.drake@example.com",
+      "score": 0.9773558378219604,
+      "box": [
+        118,
+        152,
+        672,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9989857077598572,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, SolidLine Construction, 2020.02—2023.01",
+      "score": 0.9913086891174316,
+      "box": [
+        116,
+        288,
+        716,
+        316
+      ]
+    },
+    {
+      "text": "- Directed site optimization initiatives",
+      "score": 0.9948525428771973,
+      "box": [
+        126,
+        315,
+        466,
+        341
+      ]
+    },
+    {
+      "text": "- Led complex demolition projects",
+      "score": 0.9981984496116638,
+      "box": [
+        127,
+        339,
+        441,
+        368
+      ]
+    },
+    {
+      "text": "Construction Laborers, CraftFrame Builders, 2017.02—2020.02",
+      "score": 0.9858092665672302,
+      "box": [
+        118,
+        383,
+        696,
+        407
+      ]
+    },
+    {
+      "text": "- Directed project execution strategies",
+      "score": 0.9976446628570557,
+      "box": [
+        126,
+        408,
+        479,
+        434
+      ]
+    },
+    {
+      "text": "- Designed site safety protocols",
+      "score": 0.9858877658843994,
+      "box": [
+        128,
+        432,
+        421,
+        458
+      ]
+    },
+    {
+      "text": "Construction Laborers, ClearPoint Builders, 2013.06—2016.06",
+      "score": 0.9794497489929199,
+      "box": [
+        116,
+        471,
+        688,
+        499
+      ]
+    },
+    {
+      "text": "- Installed drywall systems",
+      "score": 0.9915473461151123,
+      "box": [
+        127,
+        500,
+        374,
+        524
+      ]
+    },
+    {
+      "text": "- Coordinated task assignments",
+      "score": 0.9908773899078369,
+      "box": [
+        126,
+        521,
+        423,
+        549
+      ]
+    },
+    {
+      "text": "Construction Laborers, TrueWay Contractors, 2009.10—2012.10",
+      "score": 0.9778771996498108,
+      "box": [
+        118,
+        566,
+        707,
+        590
+      ]
+    },
+    {
+      "text": "- Performed basic plumbing assistance",
+      "score": 0.9752931594848633,
+      "box": [
+        126,
+        589,
+        490,
+        618
+      ]
+    },
+    {
+      "text": "- Prepared scaffolding platforms",
+      "score": 0.9987649917602539,
+      "box": [
+        127,
+        613,
+        426,
+        644
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999219179153442,
+      "box": [
+        117,
+        681,
+        266,
+        705
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Construction Supervision, Brightwater High School, 2005",
+      "score": 0.9964998960494995,
+      "box": [
+        117,
+        724,
+        903,
+        750
+      ]
+    },
+    {
+      "text": "•Completed coursework in framing layout",
+      "score": 0.9754558205604553,
+      "box": [
+        132,
+        749,
+        523,
+        776
+      ]
+    }
+  ],
+  "seconds": 2.854680500458926,
+  "id": "43889",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

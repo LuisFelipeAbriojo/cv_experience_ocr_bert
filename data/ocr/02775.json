@@ -1,0 +1,182 @@
+{
+  "lines": [
+    {
+      "text": "ETHAN LONG",
+      "score": 0.9533361196517944,
+      "box": [
+        118,
+        91,
+        338,
+        122
+      ]
+    },
+    {
+      "text": "CA, USA | +1-207-641-2875 | ethan.long@example.com",
+      "score": 0.9890616536140442,
+      "box": [
+        116,
+        150,
+        638,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9988424181938171,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Brightcrest Systems, 2020.09—2023.01",
+      "score": 0.9962167739868164,
+      "box": [
+        116,
+        290,
+        681,
+        317
+      ]
+    },
+    {
+      "text": "- Implemented infrastructure automation",
+      "score": 0.9946390986442566,
+      "box": [
+        128,
+        315,
+        501,
+        340
+      ]
+    },
+    {
+      "text": "- Implemented access control frameworks",
+      "score": 0.9912723898887634,
+      "box": [
+        128,
+        340,
+        514,
+        365
+      ]
+    },
+    {
+      "text": "Software Developers, Clearline Software, 2018.042020.09",
+      "score": 0.9979853630065918,
+      "box": [
+        116,
+        382,
+        668,
+        409
+      ]
+    },
+    {
+      "text": "- Integrated third-party services",
+      "score": 0.9890742301940918,
+      "box": [
+        125,
+        407,
+        419,
+        435
+      ]
+    },
+    {
+      "text": "- Designed UI workflows",
+      "score": 0.9914793968200684,
+      "box": [
+        127,
+        431,
+        354,
+        459
+      ]
+    },
+    {
+      "text": "Software Developers, Codewave Software, 2015.112018.04",
+      "score": 0.9956082105636597,
+      "box": [
+        117,
+        472,
+        684,
+        499
+      ]
+    },
+    {
+      "text": "- Updated documentation for implemented features",
+      "score": 0.9874001145362854,
+      "box": [
+        129,
+        499,
+        601,
+        523
+      ]
+    },
+    {
+      "text": "- Wrote configuration parsers",
+      "score": 0.9837114214897156,
+      "box": [
+        127,
+        520,
+        400,
+        551
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9998610019683838,
+      "box": [
+        117,
+        587,
+        267,
+        614
+      ]
+    },
+    {
+      "text": "Master's, Cloverfield University, 2014",
+      "score": 0.9975940585136414,
+      "box": [
+        117,
+        633,
+        462,
+        657
+      ]
+    },
+    {
+      "text": "Bachelor's, Ironwood University, 2012",
+      "score": 0.9868812561035156,
+      "box": [
+        116,
+        657,
+        469,
+        684
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of game development",
+      "score": 0.9737263917922974,
+      "box": [
+        131,
+        683,
+        559,
+        710
+      ]
+    },
+    {
+      "text": "Completed coursework in memory management",
+      "score": 0.9825595617294312,
+      "box": [
+        131,
+        704,
+        595,
+        737
+      ]
+    }
+  ],
+  "seconds": 2.4560102997347713,
+  "id": "02775",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

@@ -1,0 +1,172 @@
+{
+  "lines": [
+    {
+      "text": "CHRISTIAN BRANCH",
+      "score": 0.965278685092926,
+      "box": [
+        118,
+        91,
+        453,
+        122
+      ]
+    },
+    {
+      "text": "MD, USA | +1-280-964-6000 | christian.branch@example.com",
+      "score": 0.9876368641853333,
+      "box": [
+        115,
+        150,
+        692,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9991753101348877,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Growing Field Academy, 2020.09—2023.01",
+      "score": 0.9935497045516968,
+      "box": [
+        115,
+        287,
+        859,
+        318
+      ]
+    },
+    {
+      "text": "- Developed system-wide assessment tools",
+      "score": 0.9920070767402649,
+      "box": [
+        126,
+        314,
+        532,
+        342
+      ]
+    },
+    {
+      "text": "- Implemented long-term academic plans",
+      "score": 0.9979872703552246,
+      "box": [
+        127,
+        340,
+        508,
+        368
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Willow Grove School, 2017.06—2019.10",
+      "score": 0.9853807091712952,
+      "box": [
+        117,
+        382,
+        831,
+        409
+      ]
+    },
+    {
+      "text": "- Developed science lesson plans",
+      "score": 0.9855124354362488,
+      "box": [
+        126,
+        409,
+        440,
+        433
+      ]
+    },
+    {
+      "text": "- Aligned lesson objectives with standards",
+      "score": 0.9898583292961121,
+      "box": [
+        129,
+        434,
+        516,
+        457
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Discovery Hills School, 2013.082016.01",
+      "score": 0.9916634559631348,
+      "box": [
+        117,
+        472,
+        843,
+        499
+      ]
+    },
+    {
+      "text": "- Collected student assignments",
+      "score": 0.9839105010032654,
+      "box": [
+        126,
+        498,
+        427,
+        524
+      ]
+    },
+    {
+      "text": "- Reviewed curriculum content",
+      "score": 0.9933107495307922,
+      "box": [
+        126,
+        520,
+        412,
+        550
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999150037765503,
+      "box": [
+        117,
+        587,
+        267,
+        614
+      ]
+    },
+    {
+      "text": "Bachelor's, Developmental Studies, Lakeside University, 2011",
+      "score": 0.9965891242027283,
+      "box": [
+        117,
+        632,
+        689,
+        659
+      ]
+    },
+    {
+      "text": "• Completed coursework in creative teaching strategies",
+      "score": 0.9861294627189636,
+      "box": [
+        131,
+        658,
+        644,
+        683
+      ]
+    },
+    {
+      "text": "•Completed coursework in early literacy instruction",
+      "score": 0.9843782186508179,
+      "box": [
+        132,
+        680,
+        608,
+        710
+      ]
+    }
+  ],
+  "seconds": 2.5393991000019014,
+  "id": "24864",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

@@ -1,0 +1,112 @@
+{
+  "lines": [
+    {
+      "text": "CHRIS MCLEAN",
+      "score": 0.9987990260124207,
+      "box": [
+        118,
+        91,
+        374,
+        122
+      ]
+    },
+    {
+      "text": "KY, USA | +1-618-521-4878 | chris.mclean@example.com",
+      "score": 0.9821484088897705,
+      "box": [
+        115,
+        149,
+        657,
+        177
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9997527003288269,
+      "box": [
+        117,
+        243,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Construction Laborers, CornerTrack Construction, 2020.02—2021.10",
+      "score": 0.9864246845245361,
+      "box": [
+        118,
+        290,
+        747,
+        314
+      ]
+    },
+    {
+      "text": "- Handled power tools under supervision",
+      "score": 0.9881024360656738,
+      "box": [
+        125,
+        313,
+        504,
+        341
+      ]
+    },
+    {
+      "text": "- Measured and cut basic building materials",
+      "score": 0.9878727197647095,
+      "box": [
+        125,
+        338,
+        531,
+        366
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999462962150574,
+      "box": [
+        116,
+        404,
+        268,
+        431
+      ]
+    },
+    {
+      "text": "Associate's degree, Facilities Maintenance, Springdale University, 2001",
+      "score": 0.9968103766441345,
+      "box": [
+        116,
+        447,
+        776,
+        474
+      ]
+    },
+    {
+      "text": "•Studied fundamentals of temporary structures",
+      "score": 0.9868404865264893,
+      "box": [
+        129,
+        473,
+        571,
+        499
+      ]
+    },
+    {
+      "text": "Studied fundamentals of scaffolding assembly",
+      "score": 0.9896196722984314,
+      "box": [
+        130,
+        495,
+        572,
+        526
+      ]
+    }
+  ],
+  "seconds": 2.04927060008049,
+  "id": "22820",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

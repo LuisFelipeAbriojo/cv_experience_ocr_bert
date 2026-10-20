@@ -1,0 +1,142 @@
+{
+  "lines": [
+    {
+      "text": "NICHOLAS SKINNER",
+      "score": 0.9944225549697876,
+      "box": [
+        117,
+        91,
+        451,
+        121
+      ]
+    },
+    {
+      "text": "MO, USA | +1-615-291-2279 | nicholas.skinner@example.com",
+      "score": 0.9977904558181763,
+      "box": [
+        115,
+        149,
+        696,
+        177
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9997528195381165,
+      "box": [
+        117,
+        243,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Software Developers, Stoneframe Software, 2021.06—2023.01",
+      "score": 0.9898169040679932,
+      "box": [
+        116,
+        288,
+        691,
+        315
+      ]
+    },
+    {
+      "text": "- Implemented service orchestration",
+      "score": 0.9897317290306091,
+      "box": [
+        127,
+        315,
+        461,
+        340
+      ]
+    },
+    {
+      "text": "- Led system reliability programs",
+      "score": 0.9861807227134705,
+      "box": [
+        128,
+        339,
+        431,
+        369
+      ]
+    },
+    {
+      "text": "Software Developers, Skywave Software, 2019.102021.06",
+      "score": 0.9930868148803711,
+      "box": [
+        116,
+        380,
+        668,
+        408
+      ]
+    },
+    {
+      "text": "- Participated in code reviews",
+      "score": 0.9996967315673828,
+      "box": [
+        126,
+        408,
+        402,
+        432
+      ]
+    },
+    {
+      "text": "- Wrote configuration parsers",
+      "score": 0.9814956188201904,
+      "box": [
+        126,
+        430,
+        399,
+        459
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999381303787231,
+      "box": [
+        116,
+        494,
+        268,
+        521
+      ]
+    },
+    {
+      "text": "Bachelor's, Cedarview University, 2018",
+      "score": 0.9827978014945984,
+      "box": [
+        116,
+        540,
+        481,
+        565
+      ]
+    },
+    {
+      "text": "•Completed coursework in computer graphics basics",
+      "score": 0.9913544058799744,
+      "box": [
+        131,
+        566,
+        626,
+        593
+      ]
+    },
+    {
+      "text": "Studied principles of static analysis",
+      "score": 0.9869318008422852,
+      "box": [
+        130,
+        590,
+        473,
+        618
+      ]
+    }
+  ],
+  "seconds": 2.1538546001538634,
+  "id": "30590",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

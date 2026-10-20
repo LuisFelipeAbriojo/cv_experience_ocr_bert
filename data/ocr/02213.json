@@ -1,0 +1,202 @@
+{
+  "lines": [
+    {
+      "text": "JASMINE DEAN",
+      "score": 0.9961416125297546,
+      "box": [
+        116,
+        91,
+        371,
+        121
+      ]
+    },
+    {
+      "text": "AR, USA | +1-481-517-8616 | jasmine.dean@example.com",
+      "score": 0.9684200882911682,
+      "box": [
+        117,
+        152,
+        664,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9989409446716309,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, SolidBalance Financial, 2020.02—2023.01",
+      "score": 0.9807668328285217,
+      "box": [
+        117,
+        290,
+        709,
+        314
+      ]
+    },
+    {
+      "text": "- Established compliance monitoring systems",
+      "score": 0.9936327338218689,
+      "box": [
+        127,
+        316,
+        546,
+        341
+      ]
+    },
+    {
+      "text": "- Designed tax strategies",
+      "score": 0.9783093929290771,
+      "box": [
+        128,
+        341,
+        361,
+        367
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Precise Balance Group, 2017.032020.02",
+      "score": 0.9848764538764954,
+      "box": [
+        116,
+        381,
+        716,
+        409
+      ]
+    },
+    {
+      "text": "- Led accounting transformation projects",
+      "score": 0.9964483380317688,
+      "box": [
+        126,
+        408,
+        501,
+        433
+      ]
+    },
+    {
+      "text": "- Established financial quality controls",
+      "score": 0.9838520288467407,
+      "box": [
+        126,
+        431,
+        477,
+        458
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Fairview Financial Services, 2014.04—2017.03",
+      "score": 0.9916379451751709,
+      "box": [
+        116,
+        471,
+        754,
+        499
+      ]
+    },
+    {
+      "text": "- Managed monthly close processes",
+      "score": 0.9846403002738953,
+      "box": [
+        125,
+        497,
+        465,
+        526
+      ]
+    },
+    {
+      "text": "- Prepared regulatory reports",
+      "score": 0.999171793460846,
+      "box": [
+        128,
+        521,
+        399,
+        552
+      ]
+    },
+    {
+      "text": "Accountants Auditors, ClearBalance Group, 2011.042014.04",
+      "score": 0.9966571927070618,
+      "box": [
+        117,
+        566,
+        688,
+        590
+      ]
+    },
+    {
+      "text": "- Performed data validation checks",
+      "score": 0.9995232820510864,
+      "box": [
+        127,
+        591,
+        450,
+        614
+      ]
+    },
+    {
+      "text": "- Reviewed timesheets for payroll",
+      "score": 0.9844597578048706,
+      "box": [
+        127,
+        613,
+        439,
+        642
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9998867511749268,
+      "box": [
+        117,
+        681,
+        266,
+        705
+      ]
+    },
+    {
+      "text": "Bachelor's, Enterprise Management, Brookstone University, 2013",
+      "score": 0.9984369874000549,
+      "box": [
+        116,
+        724,
+        722,
+        750
+      ]
+    },
+    {
+      "text": "• Completed coursework in economics for accounting",
+      "score": 0.979079008102417,
+      "box": [
+        131,
+        749,
+        625,
+        775
+      ]
+    },
+    {
+      "text": "Studied fundamentals of accounts payable",
+      "score": 0.9924482107162476,
+      "box": [
+        131,
+        772,
+        542,
+        800
+      ]
+    }
+  ],
+  "seconds": 3.6673018001019955,
+  "id": "02213",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

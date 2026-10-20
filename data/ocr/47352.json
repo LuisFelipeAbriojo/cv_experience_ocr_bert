@@ -1,0 +1,142 @@
+{
+  "lines": [
+    {
+      "text": "NATALIE GRIFFITH",
+      "score": 0.9996969103813171,
+      "box": [
+        117,
+        91,
+        426,
+        121
+      ]
+    },
+    {
+      "text": "SC, USA | +1-986-203-6652 | natalie.griffith@example.com",
+      "score": 0.9923667907714844,
+      "box": [
+        116,
+        150,
+        665,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9991585612297058,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, ClearBridge Nursing Services, 2021.032023.01",
+      "score": 0.9831822514533997,
+      "box": [
+        116,
+        288,
+        749,
+        318
+      ]
+    },
+    {
+      "text": "- Implemented care standardization",
+      "score": 0.9936846494674683,
+      "box": [
+        126,
+        313,
+        457,
+        342
+      ]
+    },
+    {
+      "text": "- Managed care delivery innovation",
+      "score": 0.989977240562439,
+      "box": [
+        127,
+        338,
+        455,
+        370
+      ]
+    },
+    {
+      "text": "Registered Nurses, Helping Hands Medical, 2019.042021.03",
+      "score": 0.9969655275344849,
+      "box": [
+        117,
+        382,
+        691,
+        409
+      ]
+    },
+    {
+      "text": "- Prepared treatment rooms",
+      "score": 0.9731100797653198,
+      "box": [
+        125,
+        407,
+        387,
+        433
+      ]
+    },
+    {
+      "text": "- Documented patient observations",
+      "score": 0.9988989233970642,
+      "box": [
+        128,
+        434,
+        452,
+        457
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999147057533264,
+      "box": [
+        117,
+        494,
+        266,
+        521
+      ]
+    },
+    {
+      "text": "Bachelor's, Health Studies, Amber Hills University, 2023",
+      "score": 0.9907805323600769,
+      "box": [
+        116,
+        540,
+        635,
+        567
+      ]
+    },
+    {
+      "text": "•Studied principles of wound care",
+      "score": 0.9759975671768188,
+      "box": [
+        130,
+        566,
+        449,
+        590
+      ]
+    },
+    {
+      "text": "• Completed coursework in communication in care teams",
+      "score": 0.9959471821784973,
+      "box": [
+        133,
+        592,
+        660,
+        616
+      ]
+    }
+  ],
+  "seconds": 5.810369199607521,
+  "id": "47352",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

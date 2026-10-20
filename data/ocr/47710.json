@@ -1,0 +1,202 @@
+{
+  "lines": [
+    {
+      "text": "LARISSA THORNTON",
+      "score": 0.9997653961181641,
+      "box": [
+        118,
+        91,
+        462,
+        122
+      ]
+    },
+    {
+      "text": "SC, USA | +1-519-820-9885 | larissa.thornton@example.com",
+      "score": 0.9799157381057739,
+      "box": [
+        116,
+        150,
+        683,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9991410374641418,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, New Leaf Learning, 2018.072023.01",
+      "score": 0.9940782189369202,
+      "box": [
+        116,
+        289,
+        813,
+        319
+      ]
+    },
+    {
+      "text": "- Designed curriculum frameworks for grade-level instruction",
+      "score": 0.9826338887214661,
+      "box": [
+        127,
+        317,
+        685,
+        341
+      ]
+    },
+    {
+      "text": "- Developed learning progression models",
+      "score": 0.9960570931434631,
+      "box": [
+        127,
+        340,
+        510,
+        368
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Golden Start Academy, 2013.12—2018.07",
+      "score": 0.9878271818161011,
+      "box": [
+        115,
+        379,
+        849,
+        411
+      ]
+    },
+    {
+      "text": "- Established learning outcome benchmarks",
+      "score": 0.994957447052002,
+      "box": [
+        126,
+        408,
+        535,
+        433
+      ]
+    },
+    {
+      "text": "- Designed systemic intervention models",
+      "score": 0.988926112651825,
+      "box": [
+        127,
+        434,
+        504,
+        457
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Discovery Path School, 2009.052013.12",
+      "score": 0.9855308532714844,
+      "box": [
+        117,
+        471,
+        849,
+        499
+      ]
+    },
+    {
+      "text": "- Evaluated instructional effectiveness",
+      "score": 0.9826304912567139,
+      "box": [
+        126,
+        498,
+        480,
+        523
+      ]
+    },
+    {
+      "text": "- Implemented literacy development plans",
+      "score": 0.9842921495437622,
+      "box": [
+        128,
+        523,
+        514,
+        549
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Golden Start Academy, 2004.10-2009.05",
+      "score": 0.9869334101676941,
+      "box": [
+        115,
+        562,
+        849,
+        594
+      ]
+    },
+    {
+      "text": "- Conducted reading practice sessions",
+      "score": 0.9991517066955566,
+      "box": [
+        127,
+        590,
+        486,
+        618
+      ]
+    },
+    {
+      "text": "- Maintained lesson documentation",
+      "score": 0.9960324764251709,
+      "box": [
+        125,
+        614,
+        454,
+        643
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999436140060425,
+      "box": [
+        117,
+        681,
+        266,
+        705
+      ]
+    },
+    {
+      "text": "Bachelor's, Child and Family Studies, Silverton University, 2007",
+      "score": 0.9898523092269897,
+      "box": [
+        117,
+        726,
+        704,
+        749
+      ]
+    },
+    {
+      "text": "• Completed coursework in lesson reflection practices",
+      "score": 0.9964210987091064,
+      "box": [
+        134,
+        751,
+        629,
+        775
+      ]
+    },
+    {
+      "text": "•Completed coursework in reading instruction",
+      "score": 0.9766279458999634,
+      "box": [
+        132,
+        772,
+        561,
+        802
+      ]
+    }
+  ],
+  "seconds": 3.3473352999426425,
+  "id": "47710",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

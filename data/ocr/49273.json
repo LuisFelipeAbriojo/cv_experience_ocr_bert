@@ -1,0 +1,112 @@
+{
+  "lines": [
+    {
+      "text": "VICENTE MEYERS",
+      "score": 0.9714730381965637,
+      "box": [
+        117,
+        91,
+        413,
+        122
+      ]
+    },
+    {
+      "text": "TN, USA | +1-498-729-5828 | vicente.meyers@example.com",
+      "score": 0.9868649840354919,
+      "box": [
+        116,
+        149,
+        680,
+        177
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9997408390045166,
+      "box": [
+        117,
+        243,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Software Developers, Softgrid Tech, 2019.112022.01",
+      "score": 0.9902021884918213,
+      "box": [
+        116,
+        289,
+        620,
+        316
+      ]
+    },
+    {
+      "text": "- Monitored application logs",
+      "score": 0.9847464561462402,
+      "box": [
+        126,
+        315,
+        386,
+        341
+      ]
+    },
+    {
+      "text": "- Reviewed code changes for syntax and logic issues",
+      "score": 0.9825787544250488,
+      "box": [
+        127,
+        339,
+        621,
+        367
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999954342842102,
+      "box": [
+        116,
+        404,
+        268,
+        431
+      ]
+    },
+    {
+      "text": "Some college (no degree), Meadowcrest University, 2013",
+      "score": 0.9850643277168274,
+      "box": [
+        117,
+        447,
+        648,
+        474
+      ]
+    },
+    {
+      "text": "•Completed coursework in containerization basics",
+      "score": 0.9823046326637268,
+      "box": [
+        130,
+        473,
+        601,
+        498
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of hardware-software integration",
+      "score": 0.9872967600822449,
+      "box": [
+        132,
+        497,
+        654,
+        523
+      ]
+    }
+  ],
+  "seconds": 2.2930549001321197,
+  "id": "49273",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

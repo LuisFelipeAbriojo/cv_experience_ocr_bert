@@ -1,0 +1,192 @@
+{
+  "lines": [
+    {
+      "text": "GREG HESTER",
+      "score": 0.9975041747093201,
+      "box": [
+        118,
+        91,
+        361,
+        122
+      ]
+    },
+    {
+      "text": "MA, USA | +1-559-202-5007 | greg.hester@example.com",
+      "score": 0.9688029289245605,
+      "box": [
+        117,
+        152,
+        647,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9988259673118591,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, SteadyStone Builders, 2019.102023.01",
+      "score": 0.98781418800354,
+      "box": [
+        116,
+        288,
+        709,
+        316
+      ]
+    },
+    {
+      "text": "- Developed project risk assessments",
+      "score": 0.9966365098953247,
+      "box": [
+        126,
+        315,
+        476,
+        340
+      ]
+    },
+    {
+      "text": "- Managed large-scale installations",
+      "score": 0.9739142060279846,
+      "box": [
+        127,
+        339,
+        453,
+        368
+      ]
+    },
+    {
+      "text": "Construction Laborers, SureBuild Co., 2016.072019.10",
+      "score": 0.9860680103302002,
+      "box": [
+        118,
+        383,
+        636,
+        407
+      ]
+    },
+    {
+      "text": "- Developed construction workflows",
+      "score": 0.9893199801445007,
+      "box": [
+        126,
+        408,
+        457,
+        433
+      ]
+    },
+    {
+      "text": "- Directed site safety audits",
+      "score": 0.9979242086410522,
+      "box": [
+        128,
+        434,
+        382,
+        457
+      ]
+    },
+    {
+      "text": "Construction Laborers, StrongCraft Construction, 2012.092015.12",
+      "score": 0.9893071055412292,
+      "box": [
+        116,
+        471,
+        740,
+        499
+      ]
+    },
+    {
+      "text": "- Installed drainage systems",
+      "score": 0.9845818281173706,
+      "box": [
+        127,
+        500,
+        391,
+        524
+      ]
+    },
+    {
+      "text": "- Constructed temporary structures",
+      "score": 0.9830515384674072,
+      "box": [
+        127,
+        521,
+        454,
+        550
+      ]
+    },
+    {
+      "text": "Construction Laborers, SureStep Contractors, 2008.012011.04",
+      "score": 0.9957333207130432,
+      "box": [
+        118,
+        566,
+        709,
+        590
+      ]
+    },
+    {
+      "text": "- Installed insulation materials",
+      "score": 0.9801704287528992,
+      "box": [
+        127,
+        591,
+        406,
+        614
+      ]
+    },
+    {
+      "text": "- Sorted building materials",
+      "score": 0.9986632466316223,
+      "box": [
+        126,
+        613,
+        373,
+        642
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9998786449432373,
+      "box": [
+        117,
+        681,
+        266,
+        705
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Construction Trades, Maplewood High School, 2004",
+      "score": 0.993529736995697,
+      "box": [
+        117,
+        724,
+        859,
+        750
+      ]
+    },
+    {
+      "text": "• Completed coursework in basic site grading",
+      "score": 0.9887809157371521,
+      "box": [
+        132,
+        749,
+        552,
+        775
+      ]
+    }
+  ],
+  "seconds": 2.7294948999769986,
+  "id": "26334",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

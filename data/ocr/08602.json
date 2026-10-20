@@ -1,0 +1,212 @@
+{
+  "lines": [
+    {
+      "text": "LISA SILVA",
+      "score": 0.999168872833252,
+      "box": [
+        117,
+        91,
+        301,
+        122
+      ]
+    },
+    {
+      "text": "CA, USA | +1-743-298-9858 | lisa.silva@example.com",
+      "score": 0.9892228841781616,
+      "box": [
+        116,
+        150,
+        620,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9989409446716309,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, SteadyCount Advisors, 2020.04—2023.01",
+      "score": 0.9906175136566162,
+      "box": [
+        117,
+        291,
+        704,
+        315
+      ]
+    },
+    {
+      "text": "- Directed accounting training programs",
+      "score": 0.9966564774513245,
+      "box": [
+        125,
+        315,
+        495,
+        344
+      ]
+    },
+    {
+      "text": "- Directed budget planning cycles",
+      "score": 0.9891688227653503,
+      "box": [
+        127,
+        339,
+        439,
+        368
+      ]
+    },
+    {
+      "text": "Accountants Auditors, SteadyBooks Group, 2017.072020.04",
+      "score": 0.9906953573226929,
+      "box": [
+        116,
+        381,
+        688,
+        409
+      ]
+    },
+    {
+      "text": "- Directed accounting leadership initiatives",
+      "score": 0.989104688167572,
+      "box": [
+        126,
+        409,
+        520,
+        433
+      ]
+    },
+    {
+      "text": "- Established accounting policies",
+      "score": 0.996914267539978,
+      "box": [
+        125,
+        430,
+        434,
+        459
+      ]
+    },
+    {
+      "text": "Accountants Auditors, CoreLedger Financial Group, 2014.10—2017.07",
+      "score": 0.9859230518341064,
+      "box": [
+        116,
+        471,
+        764,
+        499
+      ]
+    },
+    {
+      "text": "- Implemented accounting procedures",
+      "score": 0.9995483160018921,
+      "box": [
+        125,
+        497,
+        481,
+        526
+      ]
+    },
+    {
+      "text": "- Conducted account reconciliations",
+      "score": 0.9955369234085083,
+      "box": [
+        128,
+        522,
+        458,
+        548
+      ]
+    },
+    {
+      "text": "Accountants Auditors, OpenBalance Advisors, 2010.012012.10",
+      "score": 0.9994379878044128,
+      "box": [
+        118,
+        566,
+        713,
+        590
+      ]
+    },
+    {
+      "text": "- Reviewed ledger postings",
+      "score": 0.9843732118606567,
+      "box": [
+        125,
+        588,
+        383,
+        619
+      ]
+    },
+    {
+      "text": "- Assisted with budget tracking",
+      "score": 0.9994516968727112,
+      "box": [
+        125,
+        614,
+        412,
+        643
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9998867511749268,
+      "box": [
+        117,
+        681,
+        266,
+        705
+      ]
+    },
+    {
+      "text": "Master's, Strategic Management, Autumn Ridge University, 2008",
+      "score": 0.9927548170089722,
+      "box": [
+        117,
+        725,
+        715,
+        748
+      ]
+    },
+    {
+      "text": "Bachelor's, Managerial Accounting, Shoreline University, 2006",
+      "score": 0.9755505919456482,
+      "box": [
+        117,
+        750,
+        693,
+        774
+      ]
+    },
+    {
+      "text": "• Studied principles of information management",
+      "score": 0.9840829372406006,
+      "box": [
+        131,
+        776,
+        574,
+        800
+      ]
+    },
+    {
+      "text": "Completed coursework in regulatory reporting",
+      "score": 0.9984384179115295,
+      "box": [
+        131,
+        798,
+        570,
+        827
+      ]
+    }
+  ],
+  "seconds": 3.2525877999141812,
+  "id": "08602",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

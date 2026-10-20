@@ -1,0 +1,172 @@
+{
+  "lines": [
+    {
+      "text": "JESSICA ROBBINS",
+      "score": 0.9868012070655823,
+      "box": [
+        115,
+        89,
+        424,
+        122
+      ]
+    },
+    {
+      "text": "AZ, USA | +1-844-229-3200 | jessica.robbins@example.com",
+      "score": 0.9932107329368591,
+      "box": [
+        118,
+        152,
+        675,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9990448951721191,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, BrightWay Nursing Services, 2020.02—2023.01",
+      "score": 0.9886966347694397,
+      "box": [
+        115,
+        287,
+        736,
+        319
+      ]
+    },
+    {
+      "text": "- Implemented clinical decision support systems",
+      "score": 0.9871687293052673,
+      "box": [
+        127,
+        314,
+        571,
+        343
+      ]
+    },
+    {
+      "text": "- Implemented evidence-based practice models",
+      "score": 0.9931983351707458,
+      "box": [
+        127,
+        339,
+        569,
+        367
+      ]
+    },
+    {
+      "text": "Registered Nurses, Harmony Bridge Health, 2016.082019.07",
+      "score": 0.9926573038101196,
+      "box": [
+        117,
+        382,
+        693,
+        409
+      ]
+    },
+    {
+      "text": "- Conducted clinical audits",
+      "score": 0.999767541885376,
+      "box": [
+        126,
+        407,
+        374,
+        432
+      ]
+    },
+    {
+      "text": "- Conducted post-operative assessments",
+      "score": 0.9976473450660706,
+      "box": [
+        128,
+        432,
+        508,
+        458
+      ]
+    },
+    {
+      "text": "Registered Nurses, BrightWell Health Services, 2013.032016.02",
+      "score": 0.9985424280166626,
+      "box": [
+        116,
+        471,
+        724,
+        499
+      ]
+    },
+    {
+      "text": "- Performed blood glucose testing",
+      "score": 0.9797566533088684,
+      "box": [
+        126,
+        496,
+        443,
+        526
+      ]
+    },
+    {
+      "text": "- Monitored patient recovery",
+      "score": 0.9988099932670593,
+      "box": [
+        127,
+        521,
+        391,
+        551
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999043345451355,
+      "box": [
+        117,
+        587,
+        267,
+        614
+      ]
+    },
+    {
+      "text": "Associate's degree, Health Sciences, Shady Grove University, 2011",
+      "score": 0.9899202585220337,
+      "box": [
+        117,
+        632,
+        743,
+        659
+      ]
+    },
+    {
+      "text": "•Completed coursework in acute care nursing",
+      "score": 0.9585057497024536,
+      "box": [
+        130,
+        657,
+        563,
+        685
+      ]
+    },
+    {
+      "text": "•Completed coursework in human anatomy and physiology",
+      "score": 0.9863548278808594,
+      "box": [
+        132,
+        680,
+        683,
+        711
+      ]
+    }
+  ],
+  "seconds": 2.567717300262302,
+  "id": "01650",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

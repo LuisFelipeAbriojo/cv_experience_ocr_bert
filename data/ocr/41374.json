@@ -1,0 +1,112 @@
+{
+  "lines": [
+    {
+      "text": "STEPHANIE ELLIS",
+      "score": 0.9858574271202087,
+      "box": [
+        117,
+        91,
+        413,
+        122
+      ]
+    },
+    {
+      "text": "OH, USA | +1-300-497-1621 | stephanie.ellis@example.com",
+      "score": 0.9967515468597412,
+      "box": [
+        117,
+        149,
+        675,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9997662901878357,
+      "box": [
+        117,
+        243,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Accountants Auditors, SolidBalance Advisors, 2019.09—2022.01",
+      "score": 0.9956806302070618,
+      "box": [
+        115,
+        287,
+        707,
+        315
+      ]
+    },
+    {
+      "text": "- Processed expense reimbursements",
+      "score": 0.9839117527008057,
+      "box": [
+        125,
+        312,
+        481,
+        342
+      ]
+    },
+    {
+      "text": "- Prepared trial balances",
+      "score": 0.959484338760376,
+      "box": [
+        126,
+        338,
+        359,
+        367
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999297261238098,
+      "box": [
+        116,
+        404,
+        268,
+        431
+      ]
+    },
+    {
+      "text": "Bachelor's, Commerce, Pinefield University, 2012",
+      "score": 0.9940881133079529,
+      "box": [
+        115,
+        446,
+        577,
+        474
+      ]
+    },
+    {
+      "text": "•Studied principles of hedge accounting",
+      "score": 0.9887417554855347,
+      "box": [
+        129,
+        472,
+        506,
+        501
+      ]
+    },
+    {
+      "text": "Studied principles of inventory valuation",
+      "score": 0.9877732396125793,
+      "box": [
+        131,
+        497,
+        517,
+        526
+      ]
+    }
+  ],
+  "seconds": 2.0459126997739077,
+  "id": "41374",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

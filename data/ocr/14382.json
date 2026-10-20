@@ -1,0 +1,212 @@
+{
+  "lines": [
+    {
+      "text": "ALETHEA LEE",
+      "score": 0.999760627746582,
+      "box": [
+        118,
+        91,
+        350,
+        122
+      ]
+    },
+    {
+      "text": "FL, USA | +1-427-400-1064 | alethea.lee@example.com",
+      "score": 0.9822250604629517,
+      "box": [
+        117,
+        150,
+        637,
+        177
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9906715750694275,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Learning Hill Academy, 2019.072023.01",
+      "score": 0.99659264087677,
+      "box": [
+        118,
+        290,
+        845,
+        317
+      ]
+    },
+    {
+      "text": "- Established data reporting standards",
+      "score": 0.980096697807312,
+      "box": [
+        126,
+        316,
+        482,
+        341
+      ]
+    },
+    {
+      "text": "- Designed learning analytics frameworks",
+      "score": 0.9890505075454712,
+      "box": [
+        126,
+        340,
+        511,
+        368
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Kind Valley School, 2015.122019.07",
+      "score": 0.9906390905380249,
+      "box": [
+        116,
+        381,
+        813,
+        411
+      ]
+    },
+    {
+      "text": "- Established learning outcome benchmarks",
+      "score": 0.9982054829597473,
+      "box": [
+        126,
+        409,
+        534,
+        433
+      ]
+    },
+    {
+      "text": "- Directed instructional planning processes",
+      "score": 0.9854394793510437,
+      "box": [
+        126,
+        431,
+        522,
+        458
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Growing Minds School, 2012.05—2015.12",
+      "score": 0.9895715713500977,
+      "box": [
+        117,
+        471,
+        848,
+        499
+      ]
+    },
+    {
+      "text": "- Evaluated instructional effectiveness",
+      "score": 0.9953849911689758,
+      "box": [
+        126,
+        498,
+        480,
+        524
+      ]
+    },
+    {
+      "text": "- Developed homework policies",
+      "score": 0.9888154864311218,
+      "box": [
+        126,
+        521,
+        420,
+        551
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Learning Garden Academy, 2008.10—2012.05",
+      "score": 0.9846778512001038,
+      "box": [
+        117,
+        565,
+        888,
+        592
+      ]
+    },
+    {
+      "text": "- Delivered structured lessons in reading and mathematics",
+      "score": 0.9847776293754578,
+      "box": [
+        125,
+        589,
+        668,
+        617
+      ]
+    },
+    {
+      "text": "- Prepared visual teaching aids",
+      "score": 0.9697319269180298,
+      "box": [
+        126,
+        613,
+        418,
+        644
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999260306358337,
+      "box": [
+        117,
+        681,
+        266,
+        705
+      ]
+    },
+    {
+      "text": "Master's, Child and Youth Studies, Westbrook University, 2011",
+      "score": 0.9844065308570862,
+      "box": [
+        115,
+        723,
+        697,
+        750
+      ]
+    },
+    {
+      "text": "Bachelor's, Family and Child Studies, Aspen Grove University, 2009",
+      "score": 0.9856078624725342,
+      "box": [
+        116,
+        749,
+        746,
+        776
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of lesson goal alignment",
+      "score": 0.9918046593666077,
+      "box": [
+        131,
+        776,
+        582,
+        800
+      ]
+    },
+    {
+      "text": "•Completed coursework in classroom routines",
+      "score": 0.9887918829917908,
+      "box": [
+        132,
+        798,
+        565,
+        826
+      ]
+    }
+  ],
+  "seconds": 3.2992515000514686,
+  "id": "14382",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

@@ -1,0 +1,162 @@
+{
+  "lines": [
+    {
+      "text": "MICHAEL FOX",
+      "score": 0.9997559189796448,
+      "box": [
+        116,
+        89,
+        348,
+        122
+      ]
+    },
+    {
+      "text": "IN, USA | +1-337-955-4483 | michael.fox@example.com",
+      "score": 0.9732912182807922,
+      "box": [
+        117,
+        151,
+        637,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.998914897441864,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, Unified Build Group, 2020.07—2023.01",
+      "score": 0.9799791574478149,
+      "box": [
+        116,
+        288,
+        688,
+        316
+      ]
+    },
+    {
+      "text": "- Supervised multiple work crews",
+      "score": 0.9818896055221558,
+      "box": [
+        126,
+        315,
+        435,
+        341
+      ]
+    },
+    {
+      "text": "- Directed quality assurance programs",
+      "score": 0.9978922009468079,
+      "box": [
+        127,
+        339,
+        482,
+        369
+      ]
+    },
+    {
+      "text": "Construction Laborers, StrongForm Builders, 2016.072019.01",
+      "score": 0.9896078705787659,
+      "box": [
+        118,
+        383,
+        696,
+        407
+      ]
+    },
+    {
+      "text": "- Reviewed construction drawings",
+      "score": 0.9918607473373413,
+      "box": [
+        124,
+        405,
+        443,
+        435
+      ]
+    },
+    {
+      "text": "- Prepared cost estimates",
+      "score": 0.9989289045333862,
+      "box": [
+        128,
+        431,
+        368,
+        460
+      ]
+    },
+    {
+      "text": "Construction Laborers, NextStep Construction, 2013.032015.09",
+      "score": 0.9994422793388367,
+      "box": [
+        117,
+        472,
+        717,
+        499
+      ]
+    },
+    {
+      "text": "- Prepared tools and equipment for daily tasks",
+      "score": 0.9848476648330688,
+      "box": [
+        127,
+        498,
+        556,
+        525
+      ]
+    },
+    {
+      "text": "- Installed simple fixtures",
+      "score": 0.9825119376182556,
+      "box": [
+        128,
+        521,
+        360,
+        550
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999502897262573,
+      "box": [
+        118,
+        588,
+        266,
+        612
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Construction Supervision, Lakeside High School, 2000",
+      "score": 0.9893808364868164,
+      "box": [
+        118,
+        633,
+        879,
+        657
+      ]
+    },
+    {
+      "text": "• Completed coursework in basic HVAC concepts",
+      "score": 0.9705158472061157,
+      "box": [
+        132,
+        657,
+        592,
+        683
+      ]
+    }
+  ],
+  "seconds": 2.5569704002700746,
+  "id": "19683",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

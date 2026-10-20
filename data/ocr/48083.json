@@ -1,0 +1,182 @@
+{
+  "lines": [
+    {
+      "text": "EBONI FRANCIS",
+      "score": 0.9997590184211731,
+      "box": [
+        118,
+        91,
+        381,
+        122
+      ]
+    },
+    {
+      "text": "SC, USA | +1-560-605-3525 | eboni.francis@example.com",
+      "score": 0.9770639538764954,
+      "box": [
+        116,
+        150,
+        660,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9991443157196045,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Golden Start Academy, 2020.06—2023.01",
+      "score": 0.9859292507171631,
+      "box": [
+        115,
+        287,
+        847,
+        318
+      ]
+    },
+    {
+      "text": "- Designed instructional quality standards",
+      "score": 0.9983472228050232,
+      "box": [
+        125,
+        314,
+        512,
+        342
+      ]
+    },
+    {
+      "text": "- Established curriculum evaluation protocols",
+      "score": 0.9903982281684875,
+      "box": [
+        125,
+        338,
+        543,
+        368
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, New Horizons School, 2017.10—2020.06",
+      "score": 0.9865964651107788,
+      "box": [
+        117,
+        382,
+        838,
+        409
+      ]
+    },
+    {
+      "text": "- Administered standardized assessments",
+      "score": 0.9994979500770569,
+      "box": [
+        126,
+        409,
+        517,
+        433
+      ]
+    },
+    {
+      "text": "- Prepared test review sessions",
+      "score": 0.9985350370407104,
+      "box": [
+        126,
+        432,
+        421,
+        458
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Kind Grove School, 2012.032014.11",
+      "score": 0.9889975190162659,
+      "box": [
+        119,
+        473,
+        810,
+        497
+      ]
+    },
+    {
+      "text": "- Delivered structured lectures",
+      "score": 0.9940559267997742,
+      "box": [
+        127,
+        499,
+        409,
+        523
+      ]
+    },
+    {
+      "text": "- Administered learning games",
+      "score": 0.9933218359947205,
+      "box": [
+        128,
+        522,
+        412,
+        551
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999152421951294,
+      "box": [
+        117,
+        587,
+        267,
+        614
+      ]
+    },
+    {
+      "text": "Master's, Teaching Studies, Goldenbrook University, 2012",
+      "score": 0.9932132959365845,
+      "box": [
+        118,
+        633,
+        656,
+        657
+      ]
+    },
+    {
+      "text": "Bachelor's, Elementary Education Preparation, Hillcrest University, 2010",
+      "score": 0.9944055080413818,
+      "box": [
+        115,
+        656,
+        786,
+        684
+      ]
+    },
+    {
+      "text": "• Completed coursework in phonics instruction",
+      "score": 0.9895372986793518,
+      "box": [
+        133,
+        684,
+        562,
+        708
+      ]
+    },
+    {
+      "text": "• Studied principles of behavior management",
+      "score": 0.9761927127838135,
+      "box": [
+        132,
+        706,
+        552,
+        736
+      ]
+    }
+  ],
+  "seconds": 3.1864275000989437,
+  "id": "48083",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

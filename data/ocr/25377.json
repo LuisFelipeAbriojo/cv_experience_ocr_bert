@@ -1,0 +1,182 @@
+{
+  "lines": [
+    {
+      "text": "MICHELLE HOPKINS",
+      "score": 0.9886719584465027,
+      "box": [
+        118,
+        92,
+        448,
+        122
+      ]
+    },
+    {
+      "text": "MA, USA | +1-393-791-5766 | michelle.hopkins@example.com",
+      "score": 0.9834812879562378,
+      "box": [
+        115,
+        150,
+        697,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9991067051887512,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Open Minds School, 2020.03—2023.01",
+      "score": 0.9915875196456909,
+      "box": [
+        115,
+        287,
+        820,
+        318
+      ]
+    },
+    {
+      "text": "- Established instructional leadership protocols",
+      "score": 0.9858691096305847,
+      "box": [
+        125,
+        314,
+        561,
+        343
+      ]
+    },
+    {
+      "text": "- Implemented performance evaluation systems",
+      "score": 0.9772823452949524,
+      "box": [
+        126,
+        339,
+        569,
+        369
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, BrightStart Academy, 2016.092019.08",
+      "score": 0.9961879253387451,
+      "box": [
+        116,
+        381,
+        830,
+        411
+      ]
+    },
+    {
+      "text": "- Reviewed assessment results",
+      "score": 0.9993156790733337,
+      "box": [
+        125,
+        408,
+        419,
+        433
+      ]
+    },
+    {
+      "text": "- Planned interdisciplinary lessons",
+      "score": 0.9911565780639648,
+      "box": [
+        126,
+        432,
+        445,
+        458
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Bright Horizons School, 2012.11—2015.10",
+      "score": 0.9814113974571228,
+      "box": [
+        117,
+        471,
+        851,
+        499
+      ]
+    },
+    {
+      "text": "- Recorded student feedback",
+      "score": 0.9992280006408691,
+      "box": [
+        126,
+        497,
+        399,
+        522
+      ]
+    },
+    {
+      "text": "- Followed standard instructional schedules",
+      "score": 0.9954879879951477,
+      "box": [
+        127,
+        521,
+        529,
+        548
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9998847246170044,
+      "box": [
+        117,
+        587,
+        267,
+        614
+      ]
+    },
+    {
+      "text": "Master's, Student Learning Studies, Westview University, 2007",
+      "score": 0.999474287033081,
+      "box": [
+        115,
+        631,
+        698,
+        659
+      ]
+    },
+    {
+      "text": "Bachelor's, Developmental Studies, Clearview University, 2005",
+      "score": 0.9906648993492126,
+      "box": [
+        115,
+        656,
+        700,
+        684
+      ]
+    },
+    {
+      "text": "• Completed coursework in writing instruction",
+      "score": 0.9928249716758728,
+      "box": [
+        133,
+        684,
+        552,
+        708
+      ]
+    },
+    {
+      "text": "• Completed coursework in foundational assessment tools",
+      "score": 0.9880656003952026,
+      "box": [
+        132,
+        706,
+        670,
+        734
+      ]
+    }
+  ],
+  "seconds": 2.9903132002800703,
+  "id": "25377",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

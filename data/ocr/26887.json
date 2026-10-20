@@ -1,0 +1,202 @@
+{
+  "lines": [
+    {
+      "text": "SCOTT MORRISON",
+      "score": 0.9980588555335999,
+      "box": [
+        116,
+        90,
+        425,
+        122
+      ]
+    },
+    {
+      "text": "MI, USA | +1-467-993-8192 | scott.morrison@example.com",
+      "score": 0.9885201454162598,
+      "box": [
+        117,
+        152,
+        665,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9891178607940674,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Cloudspring Systems, 2020.06—2023.01",
+      "score": 0.9912865161895752,
+      "box": [
+        116,
+        289,
+        692,
+        316
+      ]
+    },
+    {
+      "text": "- Implemented data pipeline architectures",
+      "score": 0.996971845626831,
+      "box": [
+        129,
+        317,
+        512,
+        341
+      ]
+    },
+    {
+      "text": "- Led cross-team technical alignment",
+      "score": 0.9870086312294006,
+      "box": [
+        128,
+        340,
+        471,
+        367
+      ]
+    },
+    {
+      "text": "Software Developers, Brightscale Labs, 2017.112020.06",
+      "score": 0.9869500398635864,
+      "box": [
+        116,
+        381,
+        652,
+        409
+      ]
+    },
+    {
+      "text": "- Led cross-team technical alignment",
+      "score": 0.9981415271759033,
+      "box": [
+        128,
+        408,
+        471,
+        433
+      ]
+    },
+    {
+      "text": "- Designed software development workflows",
+      "score": 0.9951744079589844,
+      "box": [
+        127,
+        432,
+        537,
+        459
+      ]
+    },
+    {
+      "text": "Software Developers, Clearbyte Software, 2015.042017.11",
+      "score": 0.9933565258979797,
+      "box": [
+        117,
+        472,
+        673,
+        499
+      ]
+    },
+    {
+      "text": "- Designed data models",
+      "score": 0.9994409680366516,
+      "box": [
+        128,
+        498,
+        351,
+        525
+      ]
+    },
+    {
+      "text": "- Designed application modules",
+      "score": 0.9964977502822876,
+      "box": [
+        127,
+        521,
+        421,
+        552
+      ]
+    },
+    {
+      "text": "Software Developers, Softgrid Systems, 2010.032012.10",
+      "score": 0.9933704137802124,
+      "box": [
+        116,
+        564,
+        655,
+        591
+      ]
+    },
+    {
+      "text": "- Debugged runtime errors",
+      "score": 0.9961867332458496,
+      "box": [
+        127,
+        590,
+        375,
+        619
+      ]
+    },
+    {
+      "text": "- Updated database schemas",
+      "score": 0.9947172999382019,
+      "box": [
+        127,
+        614,
+        403,
+        643
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999175667762756,
+      "box": [
+        117,
+        681,
+        266,
+        705
+      ]
+    },
+    {
+      "text": "Bachelor's, Stonehill University, 2004",
+      "score": 0.9934896230697632,
+      "box": [
+        116,
+        724,
+        462,
+        750
+      ]
+    },
+    {
+      "text": "• Completed coursework in release management",
+      "score": 0.9806509613990784,
+      "box": [
+        132,
+        748,
+        588,
+        776
+      ]
+    },
+    {
+      "text": "Completed coursework in continuous integration",
+      "score": 0.9947856664657593,
+      "box": [
+        132,
+        771,
+        594,
+        802
+      ]
+    }
+  ],
+  "seconds": 2.682099800091237,
+  "id": "26887",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

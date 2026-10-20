@@ -1,0 +1,102 @@
+{
+  "lines": [
+    {
+      "text": "ISAIAH KNIGHT",
+      "score": 0.9915208220481873,
+      "box": [
+        117,
+        91,
+        367,
+        122
+      ]
+    },
+    {
+      "text": "AL, USA | +1-485-471-5451 | isaiah.knight@example.com",
+      "score": 0.9950678944587708,
+      "box": [
+        116,
+        149,
+        653,
+        177
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.999728262424469,
+      "box": [
+        117,
+        243,
+        317,
+        270
+      ]
+    },
+    {
+      "text": "Construction Laborers, FirmTrack Construction, 2019.072021.07",
+      "score": 0.9970544576644897,
+      "box": [
+        118,
+        290,
+        725,
+        314
+      ]
+    },
+    {
+      "text": "- Performed basic plumbing assistance",
+      "score": 0.993198812007904,
+      "box": [
+        126,
+        314,
+        489,
+        341
+      ]
+    },
+    {
+      "text": "- Installed basic formwork",
+      "score": 0.9685224890708923,
+      "box": [
+        127,
+        339,
+        368,
+        364
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9998809099197388,
+      "box": [
+        116,
+        404,
+        268,
+        431
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Electrical Technology, Riverhaven High School, 2015",
+      "score": 0.9997212886810303,
+      "box": [
+        116,
+        447,
+        869,
+        474
+      ]
+    },
+    {
+      "text": "Studied principles of site hazard controls",
+      "score": 0.9939314723014832,
+      "box": [
+        129,
+        472,
+        524,
+        500
+      ]
+    }
+  ],
+  "seconds": 1.9269832000136375,
+  "id": "00332",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

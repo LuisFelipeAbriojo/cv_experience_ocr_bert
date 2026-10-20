@@ -1,0 +1,142 @@
+{
+  "lines": [
+    {
+      "text": "ZAYN MCDONALD",
+      "score": 0.9998855590820312,
+      "box": [
+        117,
+        91,
+        412,
+        121
+      ]
+    },
+    {
+      "text": "GA, USA | +1-716-964-1318 | zayn.mcdonald@example.com",
+      "score": 0.9773830771446228,
+      "box": [
+        118,
+        152,
+        682,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9997482895851135,
+      "box": [
+        117,
+        243,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Construction Laborers, TrueBuild Co., 2020.082023.01",
+      "score": 0.9896107316017151,
+      "box": [
+        118,
+        290,
+        633,
+        314
+      ]
+    },
+    {
+      "text": "- Supervised large structural repairs",
+      "score": 0.9977506399154663,
+      "box": [
+        125,
+        314,
+        461,
+        342
+      ]
+    },
+    {
+      "text": "- Directed quality assurance programs",
+      "score": 0.997968852519989,
+      "box": [
+        127,
+        339,
+        481,
+        369
+      ]
+    },
+    {
+      "text": "Construction Laborers, Pillar Construction, 2018.03—2020.08",
+      "score": 0.9829354882240295,
+      "box": [
+        117,
+        381,
+        677,
+        406
+      ]
+    },
+    {
+      "text": "- Assisted with excavation tasks",
+      "score": 0.9865235090255737,
+      "box": [
+        126,
+        408,
+        424,
+        432
+      ]
+    },
+    {
+      "text": "- Operated hand tools for assembly tasks",
+      "score": 0.9773367047309875,
+      "box": [
+        127,
+        432,
+        508,
+        458
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9995835423469543,
+      "box": [
+        118,
+        495,
+        267,
+        519
+      ]
+    },
+    {
+      "text": "Some college (no degree), Construction Estimating, Brighton University, 2016",
+      "score": 0.9881234169006348,
+      "box": [
+        115,
+        538,
+        836,
+        569
+      ]
+    },
+    {
+      "text": "•Completed coursework in construction logistics planning",
+      "score": 0.9769303202629089,
+      "box": [
+        129,
+        564,
+        666,
+        594
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of site preparation planning",
+      "score": 0.9781558513641357,
+      "box": [
+        132,
+        590,
+        608,
+        618
+      ]
+    }
+  ],
+  "seconds": 2.300076600164175,
+  "id": "14669",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

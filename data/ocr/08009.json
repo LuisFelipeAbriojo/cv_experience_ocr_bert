@@ -1,0 +1,212 @@
+{
+  "lines": [
+    {
+      "text": "ROBERT SINGH",
+      "score": 0.999451220035553,
+      "box": [
+        116,
+        89,
+        374,
+        122
+      ]
+    },
+    {
+      "text": "CA, USA | +1-251-515-7151 | robert.singh@example.com",
+      "score": 0.9737122058868408,
+      "box": [
+        116,
+        150,
+        651,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9988835453987122,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, CoreCount Group, 2020.03—2023.01",
+      "score": 0.9928933382034302,
+      "box": [
+        115,
+        288,
+        664,
+        317
+      ]
+    },
+    {
+      "text": "- Directed accounting operations planning",
+      "score": 0.9964215159416199,
+      "box": [
+        125,
+        313,
+        514,
+        344
+      ]
+    },
+    {
+      "text": "- Led audit programs",
+      "score": 0.9893097877502441,
+      "box": [
+        128,
+        341,
+        322,
+        368
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Reliable Balance Group, 2017.042020.03",
+      "score": 0.9918506145477295,
+      "box": [
+        116,
+        381,
+        722,
+        411
+      ]
+    },
+    {
+      "text": "- Managed financial governance",
+      "score": 0.9996057152748108,
+      "box": [
+        125,
+        408,
+        427,
+        434
+      ]
+    },
+    {
+      "text": "- Developed regulatory reporting strategies",
+      "score": 0.9943869113922119,
+      "box": [
+        127,
+        432,
+        525,
+        459
+      ]
+    },
+    {
+      "text": "Accountants Auditors, SolidLedger Advisors, 2014.052017.04",
+      "score": 0.9778489470481873,
+      "box": [
+        116,
+        472,
+        698,
+        499
+      ]
+    },
+    {
+      "text": "- Conducted risk assessments",
+      "score": 0.9948895573616028,
+      "box": [
+        127,
+        499,
+        409,
+        522
+      ]
+    },
+    {
+      "text": "- Analyzed cost structures",
+      "score": 0.9844452142715454,
+      "box": [
+        127,
+        521,
+        371,
+        551
+      ]
+    },
+    {
+      "text": "Accountants Auditors, FairBalance Financial Group, 2011.06—2014.05",
+      "score": 0.9899450540542603,
+      "box": [
+        117,
+        565,
+        764,
+        589
+      ]
+    },
+    {
+      "text": "- Performed data validation checks",
+      "score": 0.997421383857727,
+      "box": [
+        126,
+        590,
+        451,
+        615
+      ]
+    },
+    {
+      "text": "- Maintained vendor records",
+      "score": 0.999379575252533,
+      "box": [
+        126,
+        614,
+        390,
+        640
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9998889565467834,
+      "box": [
+        117,
+        681,
+        266,
+        705
+      ]
+    },
+    {
+      "text": "Master's, Accounting Information Systems, Hillview University, 2013",
+      "score": 0.9840758442878723,
+      "box": [
+        117,
+        726,
+        744,
+        749
+      ]
+    },
+    {
+      "text": "Bachelor's, Economic Studies, Forestview University, 2011",
+      "score": 0.9940747618675232,
+      "box": [
+        116,
+        749,
+        661,
+        776
+      ]
+    },
+    {
+      "text": "•Studied fundamentals of consolidation accounting",
+      "score": 0.9728482365608215,
+      "box": [
+        129,
+        772,
+        609,
+        802
+      ]
+    },
+    {
+      "text": "•Completed coursework in regulatory reporting",
+      "score": 0.9849005937576294,
+      "box": [
+        132,
+        798,
+        570,
+        827
+      ]
+    }
+  ],
+  "seconds": 2.811068500392139,
+  "id": "08009",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

@@ -1,0 +1,182 @@
+{
+  "lines": [
+    {
+      "text": "BREANNA UNDERWOOD",
+      "score": 0.9998239874839783,
+      "box": [
+        118,
+        91,
+        520,
+        121
+      ]
+    },
+    {
+      "text": "MT, USA | +1-831-645-6893 | breanna.underwood@example.com",
+      "score": 0.9905884265899658,
+      "box": [
+        116,
+        150,
+        727,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9967549443244934,
+      "box": [
+        117,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, SteadyStone Builders, 2020.05—2023.01",
+      "score": 0.9802793860435486,
+      "box": [
+        116,
+        288,
+        709,
+        316
+      ]
+    },
+    {
+      "text": "- Directed quality assurance programs",
+      "score": 0.9830752015113831,
+      "box": [
+        126,
+        314,
+        482,
+        344
+      ]
+    },
+    {
+      "text": "- Reviewed workflow efficiency reports",
+      "score": 0.999717116355896,
+      "box": [
+        127,
+        340,
+        484,
+        367
+      ]
+    },
+    {
+      "text": "Construction Laborers, TrueCraft Builders, 2017.082020.05",
+      "score": 0.9845154881477356,
+      "box": [
+        118,
+        383,
+        677,
+        407
+      ]
+    },
+    {
+      "text": "- Installed support beams",
+      "score": 0.9853836297988892,
+      "box": [
+        126,
+        409,
+        365,
+        433
+      ]
+    },
+    {
+      "text": "- Installed foundation elements",
+      "score": 0.9972089529037476,
+      "box": [
+        128,
+        434,
+        413,
+        456
+      ]
+    },
+    {
+      "text": "Construction Laborers, Foundation Force, 2014.11—2017.08",
+      "score": 0.9854317903518677,
+      "box": [
+        117,
+        472,
+        672,
+        497
+      ]
+    },
+    {
+      "text": "- Installed safety signage",
+      "score": 0.9700066447257996,
+      "box": [
+        126,
+        497,
+        361,
+        526
+      ]
+    },
+    {
+      "text": "- Set up ladders and basic scaffolding",
+      "score": 0.9885420799255371,
+      "box": [
+        127,
+        521,
+        477,
+        550
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999178647994995,
+      "box": [
+        117,
+        587,
+        267,
+        614
+      ]
+    },
+    {
+      "text": "Master's, Construction Skills, Brightfield Ridge University, 2015",
+      "score": 0.9809907674789429,
+      "box": [
+        115,
+        631,
+        700,
+        659
+      ]
+    },
+    {
+      "text": "Bachelor's, Construction Materials, Vista University, 2013",
+      "score": 0.9872474074363708,
+      "box": [
+        117,
+        659,
+        647,
+        683
+      ]
+    },
+    {
+      "text": "• Completed coursework in construction workflow",
+      "score": 0.9937360882759094,
+      "box": [
+        132,
+        684,
+        589,
+        708
+      ]
+    },
+    {
+      "text": "•Studied fundamentals of trench safety",
+      "score": 0.9793271422386169,
+      "box": [
+        131,
+        705,
+        499,
+        735
+      ]
+    }
+  ],
+  "seconds": 2.623359799850732,
+  "id": "31401",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

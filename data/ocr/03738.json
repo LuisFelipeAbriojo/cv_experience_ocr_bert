@@ -1,0 +1,172 @@
+{
+  "lines": [
+    {
+      "text": "REBECCA NEWMAN",
+      "score": 0.9745482206344604,
+      "box": [
+        117,
+        91,
+        446,
+        121
+      ]
+    },
+    {
+      "text": "CA, USA | +1-585-260-5065 | rebecca.newman@example.com",
+      "score": 0.983130156993866,
+      "box": [
+        118,
+        152,
+        699,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9991941452026367,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, EverPath Nursing Services, 2020.07—2023.01",
+      "score": 0.9730483889579773,
+      "box": [
+        115,
+        287,
+        725,
+        318
+      ]
+    },
+    {
+      "text": "- Developed staffing allocation models",
+      "score": 0.9894952178001404,
+      "box": [
+        125,
+        314,
+        483,
+        342
+      ]
+    },
+    {
+      "text": "- Developed nursing policy frameworks",
+      "score": 0.9690796136856079,
+      "box": [
+        127,
+        340,
+        489,
+        368
+      ]
+    },
+    {
+      "text": "Registered Nurses, BrightWell Health Services, 2017.122020.07",
+      "score": 0.994350790977478,
+      "box": [
+        117,
+        382,
+        724,
+        409
+      ]
+    },
+    {
+      "text": "- Educated patients on treatment plans",
+      "score": 0.9853760600090027,
+      "box": [
+        124,
+        406,
+        489,
+        435
+      ]
+    },
+    {
+      "text": "- Developed patient care plans",
+      "score": 0.9996724724769592,
+      "box": [
+        127,
+        432,
+        413,
+        458
+      ]
+    },
+    {
+      "text": "Registered Nurses, WellLife Medical Group, 2012.092015.04",
+      "score": 0.9827901721000671,
+      "box": [
+        118,
+        474,
+        691,
+        498
+      ]
+    },
+    {
+      "text": "- Recorded patient vital signs",
+      "score": 0.9995477795600891,
+      "box": [
+        126,
+        498,
+        399,
+        524
+      ]
+    },
+    {
+      "text": "- Administered prescribed medications",
+      "score": 0.9829736948013306,
+      "box": [
+        127,
+        521,
+        485,
+        549
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999206066131592,
+      "box": [
+        117,
+        587,
+        267,
+        614
+      ]
+    },
+    {
+      "text": "Associate's degree, Geriatric Care, Springfield University, 2012",
+      "score": 0.9947042465209961,
+      "box": [
+        116,
+        631,
+        701,
+        659
+      ]
+    },
+    {
+      "text": "•Studied principles of infection surveillance",
+      "score": 0.9973042607307434,
+      "box": [
+        129,
+        658,
+        536,
+        684
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of patient education",
+      "score": 0.9880249500274658,
+      "box": [
+        130,
+        682,
+        537,
+        708
+      ]
+    }
+  ],
+  "seconds": 2.5645392001606524,
+  "id": "03738",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

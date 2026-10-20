@@ -1,0 +1,142 @@
+{
+  "lines": [
+    {
+      "text": "JANE MULLINS",
+      "score": 0.9997446537017822,
+      "box": [
+        116,
+        91,
+        364,
+        122
+      ]
+    },
+    {
+      "text": "GA, USA | +1-343-919-8629 | jane.mullins@example.com",
+      "score": 0.9686332941055298,
+      "box": [
+        118,
+        152,
+        651,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9990752339363098,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Future Horizons Academy, 2020.09—2023.01",
+      "score": 0.9913319945335388,
+      "box": [
+        116,
+        288,
+        878,
+        316
+      ]
+    },
+    {
+      "text": "- Directed assessment development efforts",
+      "score": 0.9975367188453674,
+      "box": [
+        126,
+        315,
+        526,
+        340
+      ]
+    },
+    {
+      "text": "- Implemented long-term academic plans",
+      "score": 0.9884257912635803,
+      "box": [
+        126,
+        339,
+        508,
+        368
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Bright Oaks School, 2016.04—2018.08",
+      "score": 0.9896653294563293,
+      "box": [
+        115,
+        379,
+        818,
+        410
+      ]
+    },
+    {
+      "text": "- Maintained classroom bulletin boards",
+      "score": 0.9925976991653442,
+      "box": [
+        125,
+        407,
+        487,
+        432
+      ]
+    },
+    {
+      "text": "- Distributed assessment rubrics",
+      "score": 0.9958773255348206,
+      "box": [
+        127,
+        430,
+        428,
+        456
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999285936355591,
+      "box": [
+        117,
+        494,
+        267,
+        521
+      ]
+    },
+    {
+      "text": "Bachelor's, Developmental Studies, Pinehaven University, 2015",
+      "score": 0.98138028383255,
+      "box": [
+        117,
+        542,
+        706,
+        566
+      ]
+    },
+    {
+      "text": "Completed coursework in instructional sequencing",
+      "score": 0.9893242716789246,
+      "box": [
+        131,
+        564,
+        614,
+        594
+      ]
+    },
+    {
+      "text": "•Completed coursework in classroom management techniques",
+      "score": 0.9815869331359863,
+      "box": [
+        131,
+        590,
+        720,
+        618
+      ]
+    }
+  ],
+  "seconds": 2.7610825998708606,
+  "id": "16267",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

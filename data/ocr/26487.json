@@ -1,0 +1,202 @@
+{
+  "lines": [
+    {
+      "text": "KIMBERLY KENNEDY",
+      "score": 0.9991662502288818,
+      "box": [
+        118,
+        93,
+        463,
+        120
+      ]
+    },
+    {
+      "text": "MA, USA | +1-587-294-4357 | kimberly.kennedy@example.com",
+      "score": 0.9902545213699341,
+      "box": [
+        115,
+        150,
+        705,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9963324666023254,
+      "box": [
+        117,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, GentleLife Nursing, 2020.06—2023.01",
+      "score": 0.9900248646736145,
+      "box": [
+        116,
+        288,
+        648,
+        318
+      ]
+    },
+    {
+      "text": "- Managed care delivery innovation",
+      "score": 0.9815894961357117,
+      "box": [
+        125,
+        314,
+        455,
+        343
+      ]
+    },
+    {
+      "text": "- Established nursing performance metrics",
+      "score": 0.9738938212394714,
+      "box": [
+        126,
+        339,
+        521,
+        368
+      ]
+    },
+    {
+      "text": "Registered Nurses, OpenBridge Nursing Services, 2017.112020.06",
+      "score": 0.9867118000984192,
+      "box": [
+        116,
+        381,
+        752,
+        409
+      ]
+    },
+    {
+      "text": "- Implemented care standardization",
+      "score": 0.9996151924133301,
+      "box": [
+        126,
+        408,
+        457,
+        433
+      ]
+    },
+    {
+      "text": "- Directed emergency response planning",
+      "score": 0.9798476696014404,
+      "box": [
+        126,
+        431,
+        505,
+        460
+      ]
+    },
+    {
+      "text": "Registered Nurses, LifeSpring Medical Services, 2014.082017.04",
+      "score": 0.999897837638855,
+      "box": [
+        116,
+        471,
+        735,
+        499
+      ]
+    },
+    {
+      "text": "- Performed advanced wound assessments",
+      "score": 0.9896990060806274,
+      "box": [
+        126,
+        497,
+        531,
+        523
+      ]
+    },
+    {
+      "text": "- Conducted clinical audits",
+      "score": 0.9860729575157166,
+      "box": [
+        127,
+        522,
+        373,
+        548
+      ]
+    },
+    {
+      "text": "Registered Nurses, Compassion Hands Medical, 2011.022013.10",
+      "score": 0.9865658283233643,
+      "box": [
+        118,
+        566,
+        736,
+        590
+      ]
+    },
+    {
+      "text": "- Assisted with patient transfers",
+      "score": 0.9991559386253357,
+      "box": [
+        125,
+        589,
+        422,
+        617
+      ]
+    },
+    {
+      "text": "- Recorded patient vital signs",
+      "score": 0.9901055097579956,
+      "box": [
+        125,
+        614,
+        400,
+        645
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999028444290161,
+      "box": [
+        117,
+        681,
+        266,
+        705
+      ]
+    },
+    {
+      "text": "Bachelor's, Health Promotion, Stoneview University, 2003",
+      "score": 0.9809473752975464,
+      "box": [
+        117,
+        726,
+        649,
+        749
+      ]
+    },
+    {
+      "text": "Studied fundamentals of intravenous therapy",
+      "score": 0.9977295398712158,
+      "box": [
+        130,
+        747,
+        563,
+        777
+      ]
+    },
+    {
+      "text": "Completed coursework in pathophysiology",
+      "score": 0.9995765686035156,
+      "box": [
+        132,
+        772,
+        541,
+        802
+      ]
+    }
+  ],
+  "seconds": 7.177950599696487,
+  "id": "26487",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

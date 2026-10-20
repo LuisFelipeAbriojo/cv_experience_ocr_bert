@@ -1,0 +1,182 @@
+{
+  "lines": [
+    {
+      "text": "JUSTIN HOLT",
+      "score": 0.9656522274017334,
+      "box": [
+        115,
+        89,
+        338,
+        122
+      ]
+    },
+    {
+      "text": "MO, USA | +1-628-466-4778 | justin.holt@example.com",
+      "score": 0.982829213142395,
+      "box": [
+        115,
+        151,
+        632,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9964284896850586,
+      "box": [
+        117,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, CornerTrack Construction, 2020.09—2023.01",
+      "score": 0.9902523756027222,
+      "box": [
+        116,
+        288,
+        746,
+        316
+      ]
+    },
+    {
+      "text": "- Established site layout plans",
+      "score": 0.9975626468658447,
+      "box": [
+        126,
+        315,
+        406,
+        341
+      ]
+    },
+    {
+      "text": "- Established material procurement strategies",
+      "score": 0.9887294173240662,
+      "box": [
+        127,
+        339,
+        548,
+        368
+      ]
+    },
+    {
+      "text": "Construction Laborers, SteadyRise Builders, 2018.042020.09",
+      "score": 0.9887470006942749,
+      "box": [
+        118,
+        383,
+        695,
+        407
+      ]
+    },
+    {
+      "text": "- Installed mechanical supports",
+      "score": 0.9992499947547913,
+      "box": [
+        125,
+        407,
+        418,
+        433
+      ]
+    },
+    {
+      "text": "- Supervised demolition tasks",
+      "score": 0.9930275678634644,
+      "box": [
+        128,
+        431,
+        402,
+        457
+      ]
+    },
+    {
+      "text": "Construction Laborers, MasterFrame Builders, 2015.112018.04",
+      "score": 0.9923258423805237,
+      "box": [
+        118,
+        473,
+        713,
+        497
+      ]
+    },
+    {
+      "text": "- Installed basic flooring materials",
+      "score": 0.9755390882492065,
+      "box": [
+        126,
+        498,
+        440,
+        523
+      ]
+    },
+    {
+      "text": "- Loaded and unloaded construction materials",
+      "score": 0.9906551837921143,
+      "box": [
+        129,
+        522,
+        553,
+        547
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999511241912842,
+      "box": [
+        118,
+        588,
+        266,
+        612
+      ]
+    },
+    {
+      "text": "Master's, Construction Practices, Stonehill University, 2014",
+      "score": 0.9851018190383911,
+      "box": [
+        117,
+        633,
+        663,
+        657
+      ]
+    },
+    {
+      "text": "Bachelor's, Construction Supervision, Woodcrest University, 2012",
+      "score": 0.9985759258270264,
+      "box": [
+        115,
+        656,
+        725,
+        684
+      ]
+    },
+    {
+      "text": "• Studied principles of material delivery coordination",
+      "score": 0.992723822593689,
+      "box": [
+        132,
+        684,
+        614,
+        708
+      ]
+    },
+    {
+      "text": "• Completed coursework in construction inspection reporting",
+      "score": 0.9900736212730408,
+      "box": [
+        132,
+        706,
+        689,
+        736
+      ]
+    }
+  ],
+  "seconds": 2.719065099954605,
+  "id": "30650",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

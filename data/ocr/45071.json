@@ -1,0 +1,202 @@
+{
+  "lines": [
+    {
+      "text": "COREY SEXTON",
+      "score": 0.9991152286529541,
+      "box": [
+        118,
+        91,
+        384,
+        122
+      ]
+    },
+    {
+      "text": "PA, USA | +1-481-389-8349 | corey.sexton@example.com",
+      "score": 0.9794514775276184,
+      "box": [
+        115,
+        150,
+        658,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9989557266235352,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Bright Field Academy, 2020.04—2023.01",
+      "score": 0.992542028427124,
+      "box": [
+        117,
+        289,
+        834,
+        316
+      ]
+    },
+    {
+      "text": "- Developed long-term instructional strategies",
+      "score": 0.9867345690727234,
+      "box": [
+        128,
+        316,
+        549,
+        342
+      ]
+    },
+    {
+      "text": "- Led academic improvement programs",
+      "score": 0.971712052822113,
+      "box": [
+        128,
+        341,
+        492,
+        368
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Learning Springs School, 2017.072020.04",
+      "score": 0.9927612543106079,
+      "box": [
+        117,
+        382,
+        865,
+        409
+      ]
+    },
+    {
+      "text": "- Developed student performance metrics",
+      "score": 0.9871568083763123,
+      "box": [
+        127,
+        408,
+        512,
+        434
+      ]
+    },
+    {
+      "text": "- Designed literacy development programs",
+      "score": 0.9878541827201843,
+      "box": [
+        127,
+        432,
+        520,
+        459
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Learning Hill Academy, 2014.102017.07",
+      "score": 0.9985017776489258,
+      "box": [
+        119,
+        474,
+        845,
+        498
+      ]
+    },
+    {
+      "text": "- Designed reading intervention plans",
+      "score": 0.9818822741508484,
+      "box": [
+        127,
+        500,
+        475,
+        524
+      ]
+    },
+    {
+      "text": "- Coordinated subject integration",
+      "score": 0.9960519075393677,
+      "box": [
+        127,
+        521,
+        431,
+        551
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Little Oak Learning, 2011.122014.10",
+      "score": 0.9995242357254028,
+      "box": [
+        117,
+        565,
+        814,
+        592
+      ]
+    },
+    {
+      "text": "- Collected permission forms",
+      "score": 0.9950050115585327,
+      "box": [
+        127,
+        592,
+        395,
+        616
+      ]
+    },
+    {
+      "text": "- Administered learning games",
+      "score": 0.9821510910987854,
+      "box": [
+        125,
+        613,
+        414,
+        644
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999205470085144,
+      "box": [
+        117,
+        681,
+        266,
+        705
+      ]
+    },
+    {
+      "text": "Bachelor's, Learning Support Studies, Westview University, 2013",
+      "score": 0.9729591012001038,
+      "box": [
+        117,
+        726,
+        717,
+        749
+      ]
+    },
+    {
+      "text": "• Completed coursework in classroom learning strategies",
+      "score": 0.9714317917823792,
+      "box": [
+        131,
+        748,
+        661,
+        776
+      ]
+    },
+    {
+      "text": "Studied fundamentals of numeracy development",
+      "score": 0.9887341856956482,
+      "box": [
+        131,
+        772,
+        598,
+        801
+      ]
+    }
+  ],
+  "seconds": 3.150189600419253,
+  "id": "45071",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

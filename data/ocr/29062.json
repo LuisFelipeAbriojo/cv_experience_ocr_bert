@@ -1,0 +1,142 @@
+{
+  "lines": [
+    {
+      "text": "ANTHONY VO",
+      "score": 0.9734433889389038,
+      "box": [
+        116,
+        89,
+        340,
+        122
+      ]
+    },
+    {
+      "text": "MN, USA | +1-926-601-2897 | anthony.vo@example.com",
+      "score": 0.9867569804191589,
+      "box": [
+        115,
+        149,
+        646,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9997498393058777,
+      "box": [
+        117,
+        243,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Software Developers, Brightline Systems, 2020.072023.01",
+      "score": 0.9973645806312561,
+      "box": [
+        116,
+        289,
+        668,
+        316
+      ]
+    },
+    {
+      "text": "- Designed scalable services",
+      "score": 0.9832796454429626,
+      "box": [
+        127,
+        316,
+        396,
+        340
+      ]
+    },
+    {
+      "text": "- Defined API standards",
+      "score": 0.9910977482795715,
+      "box": [
+        127,
+        339,
+        351,
+        364
+      ]
+    },
+    {
+      "text": "Software Developers, Digital Meadow, 2017.12—2020.07",
+      "score": 0.98484867811203,
+      "box": [
+        115,
+        380,
+        640,
+        408
+      ]
+    },
+    {
+      "text": "- Assisted with database queries",
+      "score": 0.9899306893348694,
+      "box": [
+        125,
+        407,
+        430,
+        432
+      ]
+    },
+    {
+      "text": "- Implemented REST endpoints",
+      "score": 0.9804348945617676,
+      "box": [
+        127,
+        430,
+        422,
+        458
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999373555183411,
+      "box": [
+        116,
+        494,
+        268,
+        521
+      ]
+    },
+    {
+      "text": "Bachelor's, High Meadow University, 2015",
+      "score": 0.9771450161933899,
+      "box": [
+        115,
+        539,
+        510,
+        567
+      ]
+    },
+    {
+      "text": "•Studied principles of documentation standards",
+      "score": 0.9924654960632324,
+      "box": [
+        131,
+        567,
+        576,
+        591
+      ]
+    },
+    {
+      "text": "•Completed coursework in real-time systems",
+      "score": 0.9932898283004761,
+      "box": [
+        131,
+        591,
+        552,
+        616
+      ]
+    }
+  ],
+  "seconds": 2.3544892999343574,
+  "id": "29062",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

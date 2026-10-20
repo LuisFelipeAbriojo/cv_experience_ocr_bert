@@ -1,0 +1,142 @@
+{
+  "lines": [
+    {
+      "text": "MARCEL HARRELL",
+      "score": 0.9986162185668945,
+      "box": [
+        117,
+        89,
+        430,
+        122
+      ]
+    },
+    {
+      "text": "CT, USA|+1-477-457-6219 | marcel.harrell@example.com",
+      "score": 0.9769537448883057,
+      "box": [
+        118,
+        151,
+        664,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9997765421867371,
+      "box": [
+        117,
+        243,
+        315,
+        270
+      ]
+    },
+    {
+      "text": "Software Developers, Softgrid Labs, 2020.04—2023.01",
+      "score": 0.9869885444641113,
+      "box": [
+        116,
+        289,
+        619,
+        316
+      ]
+    },
+    {
+      "text": "- Led database design efforts",
+      "score": 0.9975490570068359,
+      "box": [
+        129,
+        316,
+        400,
+        340
+      ]
+    },
+    {
+      "text": "- Implemented service orchestration",
+      "score": 0.9847087264060974,
+      "box": [
+        129,
+        339,
+        460,
+        366
+      ]
+    },
+    {
+      "text": "Software Developers, Openframe Labs, 2015.012017.11",
+      "score": 0.993153989315033,
+      "box": [
+        117,
+        381,
+        652,
+        408
+      ]
+    },
+    {
+      "text": "- Participated in code reviews",
+      "score": 0.9826171398162842,
+      "box": [
+        125,
+        406,
+        403,
+        432
+      ]
+    },
+    {
+      "text": "- Wrote command-line tools",
+      "score": 0.9990752339363098,
+      "box": [
+        126,
+        430,
+        386,
+        455
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999211430549622,
+      "box": [
+        117,
+        494,
+        268,
+        521
+      ]
+    },
+    {
+      "text": "Some college (no degree), Greenwood Ridge University, 2013",
+      "score": 0.9899830222129822,
+      "box": [
+        116,
+        539,
+        693,
+        567
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of object-oriented programming",
+      "score": 0.9746983647346497,
+      "box": [
+        129,
+        566,
+        645,
+        592
+      ]
+    },
+    {
+      "text": "•Studied fundamentals of hardware-software integration",
+      "score": 0.9842281341552734,
+      "box": [
+        131,
+        590,
+        655,
+        616
+      ]
+    }
+  ],
+  "seconds": 2.2895762999542058,
+  "id": "11342",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

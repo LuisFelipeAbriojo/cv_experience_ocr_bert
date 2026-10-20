@@ -1,0 +1,122 @@
+{
+  "lines": [
+    {
+      "text": "ERICA BENJAMIN",
+      "score": 0.9725789427757263,
+      "box": [
+        117,
+        89,
+        405,
+        122
+      ]
+    },
+    {
+      "text": "AK, USA | +1-205-284-5486 | erica.benjamin@example.com",
+      "score": 0.9825349450111389,
+      "box": [
+        118,
+        152,
+        674,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9989462494850159,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Growing Minds Academy, 2018.05—2020.11",
+      "score": 0.9856770038604736,
+      "box": [
+        115,
+        287,
+        870,
+        318
+      ]
+    },
+    {
+      "text": "- Supported individual student learning activities",
+      "score": 0.9762200713157654,
+      "box": [
+        127,
+        316,
+        572,
+        340
+      ]
+    },
+    {
+      "text": "- Prepared daily lesson plans aligned with curriculum guidelines",
+      "score": 0.9843592047691345,
+      "box": [
+        127,
+        339,
+        716,
+        367
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999958872795105,
+      "box": [
+        116,
+        404,
+        268,
+        431
+      ]
+    },
+    {
+      "text": "Master's, Social Science Studies, Hawthorne University, 2011",
+      "score": 0.9940043091773987,
+      "box": [
+        117,
+        449,
+        686,
+        473
+      ]
+    },
+    {
+      "text": "Bachelor's, Elementary Education Preparation, Silverton University, 2009",
+      "score": 0.9938669204711914,
+      "box": [
+        116,
+        473,
+        792,
+        500
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of instructional support",
+      "score": 0.9864853620529175,
+      "box": [
+        130,
+        499,
+        568,
+        524
+      ]
+    },
+    {
+      "text": "Completed coursework in instructional modeling",
+      "score": 0.9997228384017944,
+      "box": [
+        132,
+        521,
+        591,
+        551
+      ]
+    }
+  ],
+  "seconds": 2.522377399727702,
+  "id": "00971",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

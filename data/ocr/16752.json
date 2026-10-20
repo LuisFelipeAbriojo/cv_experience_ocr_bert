@@ -1,0 +1,172 @@
+{
+  "lines": [
+    {
+      "text": "KENDALL SHAH",
+      "score": 0.9997716546058655,
+      "box": [
+        116,
+        90,
+        382,
+        123
+      ]
+    },
+    {
+      "text": "HI, USA | +1-552-574-8254 | kendall.shah@example.com",
+      "score": 0.9805260896682739,
+      "box": [
+        117,
+        151,
+        648,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9991553425788879,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, Unified Build Services, 2020.11—2023.01",
+      "score": 0.9880737066268921,
+      "box": [
+        117,
+        289,
+        709,
+        314
+      ]
+    },
+    {
+      "text": "- Developed construction workflows",
+      "score": 0.9881028532981873,
+      "box": [
+        126,
+        315,
+        457,
+        341
+      ]
+    },
+    {
+      "text": "- Designed site logistics frameworks",
+      "score": 0.9995394945144653,
+      "box": [
+        129,
+        342,
+        460,
+        366
+      ]
+    },
+    {
+      "text": "Construction Laborers, Allied Build Services, 2018.082020.11",
+      "score": 0.9980115294456482,
+      "box": [
+        118,
+        383,
+        696,
+        407
+      ]
+    },
+    {
+      "text": "- Installed drywall systems",
+      "score": 0.9913527965545654,
+      "box": [
+        127,
+        409,
+        374,
+        433
+      ]
+    },
+    {
+      "text": "- Performed structural repairs",
+      "score": 0.9848984479904175,
+      "box": [
+        127,
+        430,
+        402,
+        459
+      ]
+    },
+    {
+      "text": "Construction Laborers, SolidWorks Builders, 2016.05—2018.08",
+      "score": 0.9855039715766907,
+      "box": [
+        117,
+        472,
+        695,
+        497
+      ]
+    },
+    {
+      "text": "- Assisted with equipment maintenance",
+      "score": 0.9992954134941101,
+      "box": [
+        126,
+        498,
+        493,
+        524
+      ]
+    },
+    {
+      "text": "- Secured materials with fasteners",
+      "score": 0.9917721748352051,
+      "box": [
+        127,
+        521,
+        446,
+        548
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999525547027588,
+      "box": [
+        118,
+        588,
+        266,
+        612
+      ]
+    },
+    {
+      "text": "Some college (no degree), Construction Site Management, Oakfield University, 2019",
+      "score": 0.9941175580024719,
+      "box": [
+        117,
+        632,
+        900,
+        659
+      ]
+    },
+    {
+      "text": "Studied principles of load handling",
+      "score": 0.9977434277534485,
+      "box": [
+        128,
+        657,
+        466,
+        685
+      ]
+    },
+    {
+      "text": "•Studied principles of job site efficiency",
+      "score": 0.9916012287139893,
+      "box": [
+        130,
+        681,
+        501,
+        710
+      ]
+    }
+  ],
+  "seconds": 2.9956064000725746,
+  "id": "16752",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

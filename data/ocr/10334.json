@@ -1,0 +1,122 @@
+{
+  "lines": [
+    {
+      "text": "SHANE AUSTIN",
+      "score": 0.9994881749153137,
+      "box": [
+        116,
+        90,
+        370,
+        122
+      ]
+    },
+    {
+      "text": "CO, USA | +1-545-644-8529 | shane.austin@example.com",
+      "score": 0.9928203225135803,
+      "box": [
+        117,
+        150,
+        662,
+        177
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9997742772102356,
+      "box": [
+        117,
+        243,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Software Developers, Stonecrest Tech, 2022.02—2022.03",
+      "score": 0.9800586104393005,
+      "box": [
+        115,
+        287,
+        649,
+        315
+      ]
+    },
+    {
+      "text": "- Performed code formatting",
+      "score": 0.9937331676483154,
+      "box": [
+        126,
+        312,
+        390,
+        341
+      ]
+    },
+    {
+      "text": "- Participated in code reviews",
+      "score": 0.9863740801811218,
+      "box": [
+        127,
+        338,
+        403,
+        366
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9993418455123901,
+      "box": [
+        116,
+        404,
+        268,
+        431
+      ]
+    },
+    {
+      "text": "Master's, Greenwood University, 2012",
+      "score": 0.9868909120559692,
+      "box": [
+        115,
+        447,
+        473,
+        474
+      ]
+    },
+    {
+      "text": "Bachelor's, Ridgeway University, 2010",
+      "score": 0.9954152703285217,
+      "box": [
+        116,
+        473,
+        474,
+        500
+      ]
+    },
+    {
+      "text": "• Completed coursework in mobile application development",
+      "score": 0.9860290884971619,
+      "box": [
+        132,
+        500,
+        682,
+        524
+      ]
+    },
+    {
+      "text": "Completed coursework in transaction management",
+      "score": 0.9996706247329712,
+      "box": [
+        132,
+        521,
+        622,
+        550
+      ]
+    }
+  ],
+  "seconds": 1.9269436998292804,
+  "id": "10334",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

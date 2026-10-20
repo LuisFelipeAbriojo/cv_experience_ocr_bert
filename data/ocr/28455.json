@@ -1,0 +1,142 @@
+{
+  "lines": [
+    {
+      "text": "ANTHONY ELLISON",
+      "score": 0.9941846132278442,
+      "box": [
+        117,
+        90,
+        437,
+        122
+      ]
+    },
+    {
+      "text": "MN, USA | +1-391-829-5397 | anthony.ellison@example.com",
+      "score": 0.991731584072113,
+      "box": [
+        115,
+        149,
+        683,
+        177
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9997286796569824,
+      "box": [
+        117,
+        243,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Software Developers, Corepath Solutions, 2020.112023.01",
+      "score": 0.9998334050178528,
+      "box": [
+        116,
+        289,
+        673,
+        316
+      ]
+    },
+    {
+      "text": "- Led architectural reviews",
+      "score": 0.9921027421951294,
+      "box": [
+        126,
+        315,
+        374,
+        340
+      ]
+    },
+    {
+      "text": "- Led performance tuning initiatives",
+      "score": 0.9965859651565552,
+      "box": [
+        128,
+        339,
+        454,
+        368
+      ]
+    },
+    {
+      "text": "Software Developers, Skywave Tech, 2018.09—2020.11",
+      "score": 0.9909096360206604,
+      "box": [
+        115,
+        380,
+        632,
+        408
+      ]
+    },
+    {
+      "text": "- Implemented validation logic",
+      "score": 0.9915761351585388,
+      "box": [
+        124,
+        405,
+        407,
+        434
+      ]
+    },
+    {
+      "text": "- Reviewed error reports",
+      "score": 0.9785429835319519,
+      "box": [
+        126,
+        430,
+        355,
+        460
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999030232429504,
+      "box": [
+        116,
+        494,
+        268,
+        521
+      ]
+    },
+    {
+      "text": "Bachelor's, Ironwood University, 2023",
+      "score": 0.9932762384414673,
+      "box": [
+        116,
+        540,
+        466,
+        566
+      ]
+    },
+    {
+      "text": "• Completed coursework in information retrieval",
+      "score": 0.9858649969100952,
+      "box": [
+        131,
+        567,
+        574,
+        591
+      ]
+    },
+    {
+      "text": "•Studied fundamentals of build systems",
+      "score": 0.9908015727996826,
+      "box": [
+        132,
+        590,
+        505,
+        616
+      ]
+    }
+  ],
+  "seconds": 2.3720813002437353,
+  "id": "28455",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

@@ -1,0 +1,142 @@
+{
+  "lines": [
+    {
+      "text": "RHIANA PERRY",
+      "score": 0.9906905293464661,
+      "box": [
+        117,
+        89,
+        372,
+        122
+      ]
+    },
+    {
+      "text": "AL, USA | +1-638-981-2225 | rhiana.perry@example.com",
+      "score": 0.9968971014022827,
+      "box": [
+        116,
+        149,
+        648,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9997584223747253,
+      "box": [
+        117,
+        243,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Registered Nurses, GentleBridge Health, 2020.08—2022.03",
+      "score": 0.9851573705673218,
+      "box": [
+        115,
+        287,
+        665,
+        318
+      ]
+    },
+    {
+      "text": "- Managed clinical compliance programs",
+      "score": 0.9913684725761414,
+      "box": [
+        125,
+        313,
+        503,
+        343
+      ]
+    },
+    {
+      "text": "- Led nursing process audits",
+      "score": 0.9750211834907532,
+      "box": [
+        127,
+        339,
+        392,
+        370
+      ]
+    },
+    {
+      "text": "Registered Nurses, SunWell Nursing Services, 2018.022019.09",
+      "score": 0.9933997988700867,
+      "box": [
+        115,
+        379,
+        718,
+        410
+      ]
+    },
+    {
+      "text": "- Administered prescribed medications",
+      "score": 0.9967055320739746,
+      "box": [
+        124,
+        406,
+        485,
+        434
+      ]
+    },
+    {
+      "text": "- Monitored patient intake and output",
+      "score": 0.9799596667289734,
+      "box": [
+        126,
+        431,
+        470,
+        458
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999325275421143,
+      "box": [
+        116,
+        494,
+        267,
+        521
+      ]
+    },
+    {
+      "text": "Bachelor's, Clinical Health, Riverway University, 2015",
+      "score": 0.9992672801017761,
+      "box": [
+        115,
+        539,
+        613,
+        568
+      ]
+    },
+    {
+      "text": "•Studied principles of emergency nursing",
+      "score": 0.9792448282241821,
+      "box": [
+        129,
+        566,
+        519,
+        593
+      ]
+    },
+    {
+      "text": "• Studied principles of infection control",
+      "score": 0.9875885844230652,
+      "box": [
+        132,
+        592,
+        489,
+        616
+      ]
+    }
+  ],
+  "seconds": 2.6543920999392867,
+  "id": "00508",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

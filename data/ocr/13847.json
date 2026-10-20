@@ -1,0 +1,112 @@
+{
+  "lines": [
+    {
+      "text": "AMBER TERRELL",
+      "score": 0.9998133778572083,
+      "box": [
+        118,
+        91,
+        404,
+        122
+      ]
+    },
+    {
+      "text": "FL, USA | +1-808-857-9840 | amber.terrell@example.com",
+      "score": 0.9891907572746277,
+      "box": [
+        116,
+        149,
+        654,
+        177
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9994054436683655,
+      "box": [
+        116,
+        243,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Registered Nurses, KindHands Nursing, 2017.022020.02",
+      "score": 0.9995527267456055,
+      "box": [
+        115,
+        287,
+        656,
+        316
+      ]
+    },
+    {
+      "text": "- Provided catheter care",
+      "score": 0.996884822845459,
+      "box": [
+        125,
+        313,
+        354,
+        340
+      ]
+    },
+    {
+      "text": "- Assisted with hygiene care",
+      "score": 0.9793237447738647,
+      "box": [
+        126,
+        338,
+        390,
+        368
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999291896820068,
+      "box": [
+        116,
+        404,
+        268,
+        431
+      ]
+    },
+    {
+      "text": "Associate's degree, Community Health, Prairie Ridge University, 2013",
+      "score": 0.9908130764961243,
+      "box": [
+        117,
+        448,
+        765,
+        475
+      ]
+    },
+    {
+      "text": "Completed coursework in renal nursing basics",
+      "score": 0.9879000186920166,
+      "box": [
+        131,
+        472,
+        576,
+        501
+      ]
+    },
+    {
+      "text": "Completed coursework in oncology nursing basics",
+      "score": 0.9998298287391663,
+      "box": [
+        132,
+        497,
+        613,
+        526
+      ]
+    }
+  ],
+  "seconds": 2.4537070002406836,
+  "id": "13847",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

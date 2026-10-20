@@ -1,0 +1,112 @@
+{
+  "lines": [
+    {
+      "text": "SANTIAGO BEST",
+      "score": 0.9920759797096252,
+      "box": [
+        115,
+        87,
+        394,
+        124
+      ]
+    },
+    {
+      "text": "TX, USA | +1-582-685-5705 | santiago.best@example.com",
+      "score": 0.996595561504364,
+      "box": [
+        117,
+        149,
+        663,
+        177
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9997448325157166,
+      "box": [
+        117,
+        243,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Construction Laborers, SolidLine Construction, 2020.11—2023.01",
+      "score": 0.9879520535469055,
+      "box": [
+        118,
+        289,
+        714,
+        313
+      ]
+    },
+    {
+      "text": "- Assembled prefabricated components",
+      "score": 0.9915639162063599,
+      "box": [
+        126,
+        314,
+        492,
+        340
+      ]
+    },
+    {
+      "text": "- Performed basic demolition tasks",
+      "score": 0.9904168248176575,
+      "box": [
+        127,
+        339,
+        449,
+        364
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999521970748901,
+      "box": [
+        116,
+        404,
+        268,
+        431
+      ]
+    },
+    {
+      "text": "Some college (no degree), Construction Skills, Cedar Valley University, 2022",
+      "score": 0.976394772529602,
+      "box": [
+        116,
+        446,
+        827,
+        475
+      ]
+    },
+    {
+      "text": "•Studied fundamentals of structural framing techniques",
+      "score": 0.9793117642402649,
+      "box": [
+        129,
+        470,
+        647,
+        502
+      ]
+    },
+    {
+      "text": "Completed coursework in safety signage standards",
+      "score": 0.9997896552085876,
+      "box": [
+        132,
+        497,
+        622,
+        525
+      ]
+    }
+  ],
+  "seconds": 2.2220734995789826,
+  "id": "49735",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

@@ -1,0 +1,152 @@
+{
+  "lines": [
+    {
+      "text": "JORDAN RUBIO",
+      "score": 0.9997746348381042,
+      "box": [
+        116,
+        91,
+        375,
+        122
+      ]
+    },
+    {
+      "text": "GA, USA | +1-274-733-5302 | jordan.rubio@example.com",
+      "score": 0.9942225217819214,
+      "box": [
+        116,
+        150,
+        652,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9990310072898865,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Clear Path Academy, 2019.09—2022.01",
+      "score": 0.987454354763031,
+      "box": [
+        115,
+        287,
+        828,
+        318
+      ]
+    },
+    {
+      "text": "- Designed instructional quality standards",
+      "score": 0.9989197254180908,
+      "box": [
+        125,
+        314,
+        512,
+        342
+      ]
+    },
+    {
+      "text": "- Directed cross-grade curriculum alignment",
+      "score": 0.9911669492721558,
+      "box": [
+        126,
+        339,
+        537,
+        369
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Harmony Horizons Academy, 2016.072018.12",
+      "score": 0.9933749437332153,
+      "box": [
+        117,
+        382,
+        905,
+        409
+      ]
+    },
+    {
+      "text": "- Delivered structured lessons in reading and mathematics",
+      "score": 0.9891564249992371,
+      "box": [
+        125,
+        406,
+        666,
+        435
+      ]
+    },
+    {
+      "text": "- Followed standard instructional schedules",
+      "score": 0.9970682859420776,
+      "box": [
+        127,
+        430,
+        529,
+        456
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999393820762634,
+      "box": [
+        116,
+        494,
+        267,
+        521
+      ]
+    },
+    {
+      "text": "Master's, Student Development, Brighton University, 2007",
+      "score": 0.9881599545478821,
+      "box": [
+        114,
+        539,
+        652,
+        568
+      ]
+    },
+    {
+      "text": "Bachelor's, Educational Practice, Aspen Grove University, 2005",
+      "score": 0.9829160571098328,
+      "box": [
+        117,
+        567,
+        704,
+        591
+      ]
+    },
+    {
+      "text": "•Studied fundamentals of instructional objectives",
+      "score": 0.9836453795433044,
+      "box": [
+        128,
+        590,
+        590,
+        618
+      ]
+    },
+    {
+      "text": "Completed coursework in basic mentoring strategies",
+      "score": 0.9977119565010071,
+      "box": [
+        130,
+        614,
+        632,
+        644
+      ]
+    }
+  ],
+  "seconds": 2.7664231997914612,
+  "id": "14968",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

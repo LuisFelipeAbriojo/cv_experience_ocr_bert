@@ -1,0 +1,122 @@
+{
+  "lines": [
+    {
+      "text": "THOMAS LOGAN",
+      "score": 0.9903542399406433,
+      "box": [
+        117,
+        91,
+        393,
+        122
+      ]
+    },
+    {
+      "text": "CO, USA | +1-297-655-9310 | thomas.logan@example.com",
+      "score": 0.9921830892562866,
+      "box": [
+        117,
+        150,
+        668,
+        177
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9997474551200867,
+      "box": [
+        117,
+        243,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Software Developers, Flowpath Digital, 2020.09—2023.01",
+      "score": 0.9920873045921326,
+      "box": [
+        115,
+        288,
+        644,
+        316
+      ]
+    },
+    {
+      "text": "- Updated application dependencies",
+      "score": 0.9820029139518738,
+      "box": [
+        128,
+        315,
+        462,
+        341
+      ]
+    },
+    {
+      "text": "- Implemented REST endpoints",
+      "score": 0.9953308701515198,
+      "box": [
+        128,
+        339,
+        422,
+        367
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9868659973144531,
+      "box": [
+        116,
+        404,
+        268,
+        431
+      ]
+    },
+    {
+      "text": "Professional degree, Lakewood University, 2023",
+      "score": 0.9868073463439941,
+      "box": [
+        117,
+        449,
+        564,
+        473
+      ]
+    },
+    {
+      "text": "Bachelor's, Elm Ridge University, 2021",
+      "score": 0.9716114401817322,
+      "box": [
+        116,
+        473,
+        475,
+        499
+      ]
+    },
+    {
+      "text": "•Completed coursework in computer programming fundamentals",
+      "score": 0.9809131026268005,
+      "box": [
+        132,
+        499,
+        736,
+        526
+      ]
+    },
+    {
+      "text": "Completed coursework in human-computer interaction basics",
+      "score": 0.9989835619926453,
+      "box": [
+        132,
+        520,
+        714,
+        552
+      ]
+    }
+  ],
+  "seconds": 1.937633499968797,
+  "id": "09586",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

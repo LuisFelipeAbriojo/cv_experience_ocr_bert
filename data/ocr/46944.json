@@ -1,0 +1,162 @@
+{
+  "lines": [
+    {
+      "text": "KAYLA WANG",
+      "score": 0.999854564666748,
+      "box": [
+        115,
+        87,
+        349,
+        123
+      ]
+    },
+    {
+      "text": "PA, USA | +1-586-947-8468 | kayla.wang@example.com",
+      "score": 0.9845705628395081,
+      "box": [
+        115,
+        149,
+        644,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9995961785316467,
+      "box": [
+        116,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Software Developers, Datapath Solutions, 2020.072023.01",
+      "score": 0.9956709146499634,
+      "box": [
+        117,
+        290,
+        671,
+        314
+      ]
+    },
+    {
+      "text": "- Led architectural reviews",
+      "score": 0.9836049675941467,
+      "box": [
+        126,
+        314,
+        374,
+        339
+      ]
+    },
+    {
+      "text": "- Implemented access control frameworks",
+      "score": 0.9781402349472046,
+      "box": [
+        127,
+        338,
+        516,
+        366
+      ]
+    },
+    {
+      "text": "Software Developers, Codepath Labs, 2017.122020.07",
+      "score": 0.9746325016021729,
+      "box": [
+        116,
+        380,
+        638,
+        408
+      ]
+    },
+    {
+      "text": "- Performed basic APl integrations",
+      "score": 0.9879139065742493,
+      "box": [
+        126,
+        407,
+        448,
+        432
+      ]
+    },
+    {
+      "text": "- Assisted with CI pipeline tasks",
+      "score": 0.9648065567016602,
+      "box": [
+        128,
+        431,
+        423,
+        456
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999527335166931,
+      "box": [
+        117,
+        495,
+        267,
+        519
+      ]
+    },
+    {
+      "text": "Doctorate, Willowhaven University, 2016",
+      "score": 0.9857417345046997,
+      "box": [
+        116,
+        540,
+        492,
+        566
+      ]
+    },
+    {
+      "text": "Bachelor's, Bayside University, 2011",
+      "score": 0.9864336848258972,
+      "box": [
+        117,
+        567,
+        455,
+        591
+      ]
+    },
+    {
+      "text": "Studied fundamentals of game development",
+      "score": 0.9982916712760925,
+      "box": [
+        128,
+        591,
+        558,
+        618
+      ]
+    },
+    {
+      "text": "Studied principles of database design",
+      "score": 0.9953870177268982,
+      "box": [
+        129,
+        614,
+        496,
+        644
+      ]
+    },
+    {
+      "text": "Completed coursework in sorting and searching algorithms",
+      "score": 0.973911702632904,
+      "box": [
+        131,
+        638,
+        690,
+        669
+      ]
+    }
+  ],
+  "seconds": 2.2400890002027154,
+  "id": "46944",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

@@ -1,0 +1,112 @@
+{
+  "lines": [
+    {
+      "text": "JENNIFER FROST",
+      "score": 0.9999186396598816,
+      "box": [
+        115,
+        89,
+        408,
+        123
+      ]
+    },
+    {
+      "text": "GA, USA | +1-967-255-9746 | jennifer.frost@example.com",
+      "score": 0.9865440130233765,
+      "box": [
+        117,
+        150,
+        657,
+        177
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9994631409645081,
+      "box": [
+        116,
+        243,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Registered Nurses, Harmony Health Services, 2022.06—2022.07",
+      "score": 0.9931533336639404,
+      "box": [
+        114,
+        286,
+        713,
+        317
+      ]
+    },
+    {
+      "text": "- Recorded patient vital signs",
+      "score": 0.9987645745277405,
+      "box": [
+        124,
+        312,
+        400,
+        343
+      ]
+    },
+    {
+      "text": "- Assisted with surgical prep",
+      "score": 0.9578182697296143,
+      "box": [
+        125,
+        336,
+        391,
+        369
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.99992436170578,
+      "box": [
+        116,
+        404,
+        268,
+        431
+      ]
+    },
+    {
+      "text": "Associate's degree, Community Health, Stonebridge University, 2009",
+      "score": 0.9888823628425598,
+      "box": [
+        116,
+        447,
+        756,
+        474
+      ]
+    },
+    {
+      "text": "•Studied fundamentals of end-of-life care",
+      "score": 0.9847783446311951,
+      "box": [
+        128,
+        472,
+        519,
+        500
+      ]
+    },
+    {
+      "text": "Studied principles of health informatics",
+      "score": 0.97401362657547,
+      "box": [
+        131,
+        497,
+        506,
+        525
+      ]
+    }
+  ],
+  "seconds": 5.238386099692434,
+  "id": "16008",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

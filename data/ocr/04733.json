@@ -1,0 +1,102 @@
+{
+  "lines": [
+    {
+      "text": "CHRISTOPHER OLSON",
+      "score": 0.9997362494468689,
+      "box": [
+        117,
+        90,
+        489,
+        122
+      ]
+    },
+    {
+      "text": "CA, USA | +1-542-596-3011 | christopher.olson@example.com",
+      "score": 0.9678780436515808,
+      "box": [
+        118,
+        151,
+        698,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9997443556785583,
+      "box": [
+        117,
+        243,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Construction Laborers, LevelBuild Contractors, 2019.04—2021.07",
+      "score": 0.9876115322113037,
+      "box": [
+        118,
+        289,
+        716,
+        313
+      ]
+    },
+    {
+      "text": "- Supported crew leaders during tasks",
+      "score": 0.9851682782173157,
+      "box": [
+        126,
+        315,
+        479,
+        339
+      ]
+    },
+    {
+      "text": "- Moved equipment between work zones",
+      "score": 0.9864344000816345,
+      "box": [
+        127,
+        338,
+        505,
+        367
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999532699584961,
+      "box": [
+        116,
+        404,
+        268,
+        431
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Construction Methods, Forest Ridge High School, 2004",
+      "score": 0.9903532862663269,
+      "box": [
+        116,
+        446,
+        888,
+        475
+      ]
+    },
+    {
+      "text": "Completed coursework in basic roofing installation",
+      "score": 0.9860586524009705,
+      "box": [
+        131,
+        472,
+        614,
+        500
+      ]
+    }
+  ],
+  "seconds": 1.8217279999516904,
+  "id": "04733",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

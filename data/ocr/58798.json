@@ -1,0 +1,192 @@
+{
+  "lines": [
+    {
+      "text": "ALEXANDER RANDOLPH",
+      "score": 0.9857212901115417,
+      "box": [
+        118,
+        91,
+        525,
+        122
+      ]
+    },
+    {
+      "text": "WA, USA | +1-514-686-2736 | alexander.randolph@example.com",
+      "score": 0.9827092289924622,
+      "box": [
+        116,
+        150,
+        724,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9991125464439392,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, FirmBuild Services, 2020.07—2023.01",
+      "score": 0.9861700534820557,
+      "box": [
+        116,
+        288,
+        681,
+        316
+      ]
+    },
+    {
+      "text": "- Directed quality assurance programs",
+      "score": 0.9993810057640076,
+      "box": [
+        126,
+        315,
+        481,
+        343
+      ]
+    },
+    {
+      "text": "- Managed large-scale installations",
+      "score": 0.9809240102767944,
+      "box": [
+        128,
+        341,
+        451,
+        367
+      ]
+    },
+    {
+      "text": "Construction Laborers, Precision Line Contractors, 2018.012020.07",
+      "score": 0.9979243278503418,
+      "box": [
+        118,
+        383,
+        753,
+        407
+      ]
+    },
+    {
+      "text": "- Established material procurement strategies",
+      "score": 0.971936821937561,
+      "box": [
+        126,
+        408,
+        548,
+        433
+      ]
+    },
+    {
+      "text": "- Established project documentation systems",
+      "score": 0.9882280826568604,
+      "box": [
+        127,
+        432,
+        543,
+        458
+      ]
+    },
+    {
+      "text": "Construction Laborers, MasterStone Construction, 2015.072018.01",
+      "score": 0.9930936098098755,
+      "box": [
+        118,
+        474,
+        748,
+        498
+      ]
+    },
+    {
+      "text": "- Operated power tools independently",
+      "score": 0.9922387003898621,
+      "box": [
+        128,
+        500,
+        476,
+        524
+      ]
+    },
+    {
+      "text": "- Monitored safety compliance",
+      "score": 0.9946882724761963,
+      "box": [
+        126,
+        521,
+        410,
+        551
+      ]
+    },
+    {
+      "text": "Construction Laborers, SolidWay Contractors, 2011.05—2013.12",
+      "score": 0.9855931997299194,
+      "box": [
+        118,
+        566,
+        711,
+        590
+      ]
+    },
+    {
+      "text": "- Installed basic formwork",
+      "score": 0.9993178844451904,
+      "box": [
+        126,
+        590,
+        368,
+        615
+      ]
+    },
+    {
+      "text": "- Operated hand tools for assembly tasks",
+      "score": 0.9912816286087036,
+      "box": [
+        126,
+        614,
+        510,
+        642
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999135136604309,
+      "box": [
+        117,
+        681,
+        266,
+        705
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Construction Supervision, Highland High School, 2006",
+      "score": 0.986079752445221,
+      "box": [
+        115,
+        723,
+        879,
+        751
+      ]
+    },
+    {
+      "text": "•Studied fundamentals of structural connections",
+      "score": 0.9889782667160034,
+      "box": [
+        130,
+        748,
+        583,
+        773
+      ]
+    }
+  ],
+  "seconds": 3.0938669997267425,
+  "id": "58798",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

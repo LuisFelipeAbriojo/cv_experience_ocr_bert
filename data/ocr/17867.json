@@ -1,0 +1,212 @@
+{
+  "lines": [
+    {
+      "text": "MIRIAM KERR",
+      "score": 0.9754480719566345,
+      "box": [
+        116,
+        89,
+        344,
+        122
+      ]
+    },
+    {
+      "text": "IL, USA | +1-797-593-3988 | miriam.kerr@example.com",
+      "score": 0.988427460193634,
+      "box": [
+        116,
+        150,
+        633,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9991477131843567,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, CoreBooks Group, 2019.09—2023.01",
+      "score": 0.9938652515411377,
+      "box": [
+        116,
+        290,
+        665,
+        315
+      ]
+    },
+    {
+      "text": "- Designed budgeting methodologies",
+      "score": 0.997073233127594,
+      "box": [
+        128,
+        316,
+        469,
+        342
+      ]
+    },
+    {
+      "text": "- Established cost management systems",
+      "score": 0.9847890734672546,
+      "box": [
+        126,
+        339,
+        504,
+        368
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Precise Balance Group, 2016.052019.09",
+      "score": 0.9881428480148315,
+      "box": [
+        116,
+        381,
+        715,
+        409
+      ]
+    },
+    {
+      "text": "- Designed financial control environments",
+      "score": 0.9977247714996338,
+      "box": [
+        126,
+        408,
+        512,
+        433
+      ]
+    },
+    {
+      "text": "- Developed long-term financial strategies",
+      "score": 0.982947051525116,
+      "box": [
+        127,
+        431,
+        514,
+        459
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Balanced Path Services, 2012.122016.05",
+      "score": 0.998814582824707,
+      "box": [
+        118,
+        473,
+        722,
+        497
+      ]
+    },
+    {
+      "text": "- Reviewed financial disclosures",
+      "score": 0.9935505390167236,
+      "box": [
+        126,
+        497,
+        428,
+        523
+      ]
+    },
+    {
+      "text": "- Managed accounts receivable cycles",
+      "score": 0.9841446280479431,
+      "box": [
+        126,
+        521,
+        483,
+        550
+      ]
+    },
+    {
+      "text": "Accountants Auditors, SolidLedger Advisors, 2009.072012.12",
+      "score": 0.9887330532073975,
+      "box": [
+        118,
+        566,
+        698,
+        590
+      ]
+    },
+    {
+      "text": "- Prepared supporting schedules",
+      "score": 0.987656831741333,
+      "box": [
+        126,
+        591,
+        432,
+        618
+      ]
+    },
+    {
+      "text": "- Compiled audit evidence",
+      "score": 0.9826679825782776,
+      "box": [
+        127,
+        614,
+        372,
+        643
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999305009841919,
+      "box": [
+        117,
+        681,
+        266,
+        705
+      ]
+    },
+    {
+      "text": "Master's, Organizational Management, Greenfield University, 2007",
+      "score": 0.994991660118103,
+      "box": [
+        115,
+        723,
+        733,
+        750
+      ]
+    },
+    {
+      "text": "Bachelor's, Finance, Ironwood University, 2005",
+      "score": 0.9845014810562134,
+      "box": [
+        117,
+        749,
+        553,
+        773
+      ]
+    },
+    {
+      "text": "Completed coursework in segment reporting",
+      "score": 0.9818328022956848,
+      "box": [
+        129,
+        772,
+        558,
+        802
+      ]
+    },
+    {
+      "text": "•Studied fundamentals of business valuation",
+      "score": 0.9903560876846313,
+      "box": [
+        131,
+        799,
+        551,
+        824
+      ]
+    }
+  ],
+  "seconds": 3.2390244998969138,
+  "id": "17867",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

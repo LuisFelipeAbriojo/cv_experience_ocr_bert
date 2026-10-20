@@ -1,0 +1,202 @@
+{
+  "lines": [
+    {
+      "text": "TRACY ROACH",
+      "score": 0.993167519569397,
+      "box": [
+        117,
+        91,
+        366,
+        122
+      ]
+    },
+    {
+      "text": "PA, USA | +1-956-593-1275 | tracy.roach@example.com",
+      "score": 0.9920550584793091,
+      "box": [
+        116,
+        150,
+        641,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9891178607940674,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Clearpath Digital, 2020.06—2023.01",
+      "score": 0.9936525225639343,
+      "box": [
+        116,
+        290,
+        649,
+        317
+      ]
+    },
+    {
+      "text": "- Defined coding standards",
+      "score": 0.9770890474319458,
+      "box": [
+        127,
+        317,
+        379,
+        341
+      ]
+    },
+    {
+      "text": "- Defined integration standards",
+      "score": 0.9936913847923279,
+      "box": [
+        128,
+        341,
+        416,
+        368
+      ]
+    },
+    {
+      "text": "Software Developers, Brightcrest Systems, 2017.112020.06",
+      "score": 0.9981088042259216,
+      "box": [
+        116,
+        382,
+        682,
+        409
+      ]
+    },
+    {
+      "text": "- Led performance tuning initiatives",
+      "score": 0.9985005855560303,
+      "box": [
+        129,
+        409,
+        453,
+        433
+      ]
+    },
+    {
+      "text": "- Designed observability platforms",
+      "score": 0.9989609718322754,
+      "box": [
+        128,
+        431,
+        443,
+        459
+      ]
+    },
+    {
+      "text": "Software Developers, Cloudframe Digital, 2015.032017.11",
+      "score": 0.9938788414001465,
+      "box": [
+        116,
+        472,
+        667,
+        499
+      ]
+    },
+    {
+      "text": "- Improved API performance",
+      "score": 0.9873488545417786,
+      "box": [
+        126,
+        497,
+        393,
+        526
+      ]
+    },
+    {
+      "text": "- Designed application modules",
+      "score": 0.9822714924812317,
+      "box": [
+        128,
+        521,
+        422,
+        552
+      ]
+    },
+    {
+      "text": "Software Developers, Ironleaf Tech, 2009.072012.03",
+      "score": 0.9993706345558167,
+      "box": [
+        117,
+        566,
+        619,
+        590
+      ]
+    },
+    {
+      "text": "- Assisted with database queries",
+      "score": 0.9971896409988403,
+      "box": [
+        128,
+        590,
+        431,
+        616
+      ]
+    },
+    {
+      "text": "- Implemented basic features in existing codebases",
+      "score": 0.9996286630630493,
+      "box": [
+        128,
+        613,
+        604,
+        643
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999175667762756,
+      "box": [
+        117,
+        681,
+        266,
+        705
+      ]
+    },
+    {
+      "text": "Bachelor's, Golden Hills University, 2006",
+      "score": 0.9852830171585083,
+      "box": [
+        116,
+        724,
+        495,
+        750
+      ]
+    },
+    {
+      "text": "•Studied fundamentals of refactoring techniques",
+      "score": 0.989128589630127,
+      "box": [
+        130,
+        748,
+        586,
+        776
+      ]
+    },
+    {
+      "text": "•Completed coursework in full-stack development",
+      "score": 0.9768214821815491,
+      "box": [
+        133,
+        773,
+        598,
+        800
+      ]
+    }
+  ],
+  "seconds": 2.672043700236827,
+  "id": "45326",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

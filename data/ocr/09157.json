@@ -1,0 +1,112 @@
+{
+  "lines": [
+    {
+      "text": "ANTONIO MCINTYRE",
+      "score": 0.9997483491897583,
+      "box": [
+        117,
+        90,
+        455,
+        122
+      ]
+    },
+    {
+      "text": "CA, USA | +1-874-764-5827 | antonio.mcintyre@example.com",
+      "score": 0.9783853888511658,
+      "box": [
+        118,
+        152,
+        693,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9997683167457581,
+      "box": [
+        117,
+        243,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Software Developers, Clearstack Labs, 2022.022023.01",
+      "score": 0.9930213093757629,
+      "box": [
+        117,
+        290,
+        644,
+        314
+      ]
+    },
+    {
+      "text": "- Assisted with Cl pipeline tasks",
+      "score": 0.9767923951148987,
+      "box": [
+        127,
+        316,
+        423,
+        340
+      ]
+    },
+    {
+      "text": "- Updated database schemas",
+      "score": 0.9971949458122253,
+      "box": [
+        127,
+        339,
+        404,
+        367
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999253749847412,
+      "box": [
+        116,
+        404,
+        268,
+        431
+      ]
+    },
+    {
+      "text": "Bachelor's, Harborview University, 2020",
+      "score": 0.9896622896194458,
+      "box": [
+        115,
+        446,
+        488,
+        474
+      ]
+    },
+    {
+      "text": "• Studied principles of software documentation",
+      "score": 0.985252320766449,
+      "box": [
+        130,
+        475,
+        564,
+        498
+      ]
+    },
+    {
+      "text": "•Studied fundamentals of software testing",
+      "score": 0.987244188785553,
+      "box": [
+        131,
+        497,
+        525,
+        525
+      ]
+    }
+  ],
+  "seconds": 1.8438283996656537,
+  "id": "09157",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

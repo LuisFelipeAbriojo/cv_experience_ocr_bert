@@ -1,0 +1,142 @@
+{
+  "lines": [
+    {
+      "text": "TIFFANY PRINCE",
+      "score": 0.9671409726142883,
+      "box": [
+        117,
+        91,
+        394,
+        121
+      ]
+    },
+    {
+      "text": "GA, USA | +1-311-820-6868 | tiffany.prince@example.com",
+      "score": 0.9979901313781738,
+      "box": [
+        116,
+        150,
+        660,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9680922627449036,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, NewSpring Care Center, 2019.07-2021.12",
+      "score": 0.975783109664917,
+      "box": [
+        115,
+        287,
+        700,
+        318
+      ]
+    },
+    {
+      "text": "- Directed emergency response planning",
+      "score": 0.9997258186340332,
+      "box": [
+        125,
+        313,
+        506,
+        344
+      ]
+    },
+    {
+      "text": "- Designed clinical documentation standards",
+      "score": 0.9919108748435974,
+      "box": [
+        127,
+        340,
+        539,
+        367
+      ]
+    },
+    {
+      "text": "Registered Nurses, Caring Bridge Nursing, 2016.052018.11",
+      "score": 0.9993423819541931,
+      "box": [
+        116,
+        381,
+        681,
+        409
+      ]
+    },
+    {
+      "text": "- Assisted with respiratory treatments",
+      "score": 0.9866306781768799,
+      "box": [
+        125,
+        406,
+        472,
+        435
+      ]
+    },
+    {
+      "text": "- Checked patient identification",
+      "score": 0.9878194332122803,
+      "box": [
+        128,
+        433,
+        415,
+        456
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999344944953918,
+      "box": [
+        117,
+        494,
+        267,
+        521
+      ]
+    },
+    {
+      "text": "Some college (no degree), General Nursing, Driftwood University, 2006",
+      "score": 0.9989439249038696,
+      "box": [
+        116,
+        539,
+        776,
+        567
+      ]
+    },
+    {
+      "text": "•Studied fundamentals of respiratory nursing",
+      "score": 0.970167338848114,
+      "box": [
+        130,
+        565,
+        552,
+        593
+      ]
+    },
+    {
+      "text": "Completed coursework in palliative care basics",
+      "score": 0.9810028672218323,
+      "box": [
+        130,
+        590,
+        582,
+        618
+      ]
+    }
+  ],
+  "seconds": 2.8155739000067115,
+  "id": "15308",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

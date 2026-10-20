@@ -1,0 +1,182 @@
+{
+  "lines": [
+    {
+      "text": "JILLIAN VAUGHAN",
+      "score": 0.9995978474617004,
+      "box": [
+        117,
+        92,
+        422,
+        122
+      ]
+    },
+    {
+      "text": "FL, USA | +1-536-515-3132 | jllian.vaughan@example.com",
+      "score": 0.9796926975250244,
+      "box": [
+        116,
+        150,
+        668,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9985249042510986,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, CoreBalance Services, 2019.112023.01",
+      "score": 0.9983254075050354,
+      "box": [
+        115,
+        288,
+        705,
+        316
+      ]
+    },
+    {
+      "text": "- Directed accounting system implementations",
+      "score": 0.9784958362579346,
+      "box": [
+        126,
+        314,
+        558,
+        343
+      ]
+    },
+    {
+      "text": "- Developed regulatory reporting strategies",
+      "score": 0.9771791696548462,
+      "box": [
+        127,
+        340,
+        525,
+        369
+      ]
+    },
+    {
+      "text": "Accountants Auditors, SolidBalance Advisors, 2016.092019.11",
+      "score": 0.999188244342804,
+      "box": [
+        118,
+        383,
+        707,
+        407
+      ]
+    },
+    {
+      "text": "- Prepared statutory filings",
+      "score": 0.9927645325660706,
+      "box": [
+        124,
+        406,
+        374,
+        436
+      ]
+    },
+    {
+      "text": "- Reviewed journal entries",
+      "score": 0.9890201091766357,
+      "box": [
+        126,
+        432,
+        370,
+        458
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Integrity Books Financial Group, 2011.012014.04",
+      "score": 0.9849411249160767,
+      "box": [
+        116,
+        471,
+        793,
+        501
+      ]
+    },
+    {
+      "text": "- Prepared trial balances",
+      "score": 0.992074728012085,
+      "box": [
+        126,
+        498,
+        358,
+        524
+      ]
+    },
+    {
+      "text": "- Assisted with compliance documentation",
+      "score": 0.9979254603385925,
+      "box": [
+        127,
+        521,
+        518,
+        549
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9998534321784973,
+      "box": [
+        117,
+        587,
+        267,
+        614
+      ]
+    },
+    {
+      "text": "Master's, Economic Studies, Clearwater University, 2006",
+      "score": 0.9887217283248901,
+      "box": [
+        117,
+        633,
+        642,
+        657
+      ]
+    },
+    {
+      "text": "Bachelor's, Forensic Accounting, Sunrise University, 2004",
+      "score": 0.9948155879974365,
+      "box": [
+        115,
+        656,
+        653,
+        684
+      ]
+    },
+    {
+      "text": "• Completed coursework in data visualization basics",
+      "score": 0.9913490414619446,
+      "box": [
+        133,
+        683,
+        614,
+        707
+      ]
+    },
+    {
+      "text": "•Completed coursework in accounting analytics basics",
+      "score": 0.9720451831817627,
+      "box": [
+        132,
+        706,
+        642,
+        736
+      ]
+    }
+  ],
+  "seconds": 2.8320065001025796,
+  "id": "14518",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

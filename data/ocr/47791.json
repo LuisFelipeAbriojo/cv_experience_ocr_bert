@@ -1,0 +1,162 @@
+{
+  "lines": [
+    {
+      "text": "JILL MACK",
+      "score": 0.9997479915618896,
+      "box": [
+        116,
+        91,
+        296,
+        122
+      ]
+    },
+    {
+      "text": "SC, USA | +1-358-479-7251 | jill.mack@example.com",
+      "score": 0.9823721051216125,
+      "box": [
+        117,
+        151,
+        615,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9991675019264221,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, TrueSpring Nursing, 2019.112023.01",
+      "score": 0.9865853786468506,
+      "box": [
+        115,
+        287,
+        657,
+        318
+      ]
+    },
+    {
+      "text": "- Established clinical evaluation protocols",
+      "score": 0.9885898232460022,
+      "box": [
+        125,
+        313,
+        510,
+        342
+      ]
+    },
+    {
+      "text": "- Developed patient care algorithms",
+      "score": 0.9830185174942017,
+      "box": [
+        126,
+        339,
+        459,
+        368
+      ]
+    },
+    {
+      "text": "Registered Nurses, SafeLife Health Group, 2016.09—2019.11",
+      "score": 0.9915103316307068,
+      "box": [
+        116,
+        380,
+        681,
+        408
+      ]
+    },
+    {
+      "text": "- Provided rehabilitation nursing care",
+      "score": 0.9979730844497681,
+      "box": [
+        125,
+        406,
+        469,
+        434
+      ]
+    },
+    {
+      "text": "- Supervised junior nursing staff",
+      "score": 0.9908874034881592,
+      "box": [
+        128,
+        433,
+        425,
+        459
+      ]
+    },
+    {
+      "text": "Registered Nurses, NewPath Nursing Group, 2011.082014.11",
+      "score": 0.980403482913971,
+      "box": [
+        116,
+        471,
+        701,
+        499
+      ]
+    },
+    {
+      "text": "- Performed basic life support procedures",
+      "score": 0.9783655405044556,
+      "box": [
+        125,
+        495,
+        513,
+        525
+      ]
+    },
+    {
+      "text": "- Performed wound dressing changes",
+      "score": 0.9983351230621338,
+      "box": [
+        128,
+        519,
+        477,
+        551
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999166131019592,
+      "box": [
+        117,
+        586,
+        267,
+        613
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Biomedical Sciences, Seabreeze High School, 1997",
+      "score": 0.995322048664093,
+      "box": [
+        118,
+        633,
+        857,
+        657
+      ]
+    },
+    {
+      "text": "•Studied fundamentals of clinical supervision",
+      "score": 0.9771534204483032,
+      "box": [
+        130,
+        656,
+        553,
+        682
+      ]
+    }
+  ],
+  "seconds": 4.653721099719405,
+  "id": "47791",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

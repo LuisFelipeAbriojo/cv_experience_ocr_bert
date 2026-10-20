@@ -1,0 +1,112 @@
+{
+  "lines": [
+    {
+      "text": "AMANDA BLANCHARD",
+      "score": 0.9999127388000488,
+      "box": [
+        118,
+        91,
+        488,
+        122
+      ]
+    },
+    {
+      "text": "PA, USA | +1-651-473-9832 | amanda.blanchard@example.com",
+      "score": 0.9883235692977905,
+      "box": [
+        117,
+        150,
+        713,
+        177
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9997692108154297,
+      "box": [
+        117,
+        243,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Software Developers, Skyfield Software, 2018.012021.01",
+      "score": 0.9978104829788208,
+      "box": [
+        116,
+        289,
+        657,
+        316
+      ]
+    },
+    {
+      "text": "- Implemented REST endpoints",
+      "score": 0.9843741059303284,
+      "box": [
+        126,
+        313,
+        422,
+        342
+      ]
+    },
+    {
+      "text": "- Updated application dependencies",
+      "score": 0.9858766198158264,
+      "box": [
+        128,
+        339,
+        462,
+        367
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999193549156189,
+      "box": [
+        116,
+        404,
+        268,
+        432
+      ]
+    },
+    {
+      "text": "Bachelor's, Wildflower University, 2014",
+      "score": 0.9960489273071289,
+      "box": [
+        115,
+        446,
+        479,
+        474
+      ]
+    },
+    {
+      "text": "Completed coursework in dynamic analysis",
+      "score": 0.9891073107719421,
+      "box": [
+        129,
+        472,
+        549,
+        500
+      ]
+    },
+    {
+      "text": "•Studied fundamentals of race condition handling",
+      "score": 0.9854462742805481,
+      "box": [
+        131,
+        495,
+        594,
+        526
+      ]
+    }
+  ],
+  "seconds": 1.912842100020498,
+  "id": "44686",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

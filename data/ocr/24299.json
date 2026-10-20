@@ -1,0 +1,212 @@
+{
+  "lines": [
+    {
+      "text": "SHALENA HUNT",
+      "score": 0.9998647570610046,
+      "box": [
+        117,
+        91,
+        382,
+        122
+      ]
+    },
+    {
+      "text": "MD, USA | +1-851-993-4024 | shalena.hunt@example.com",
+      "score": 0.9860590696334839,
+      "box": [
+        115,
+        150,
+        664,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9991436004638672,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Open Meadow School, 2018.10—2023.01",
+      "score": 0.9886906147003174,
+      "box": [
+        116,
+        287,
+        842,
+        318
+      ]
+    },
+    {
+      "text": "- Led instructional leadership initiatives",
+      "score": 0.9864001274108887,
+      "box": [
+        126,
+        316,
+        488,
+        341
+      ]
+    },
+    {
+      "text": "- Developed district-aligned lesson frameworks",
+      "score": 0.9872516393661499,
+      "box": [
+        128,
+        341,
+        560,
+        365
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Learning Minds Academy, 2014.06—2018.10",
+      "score": 0.9901658296585083,
+      "box": [
+        115,
+        380,
+        875,
+        411
+      ]
+    },
+    {
+      "text": "- Implemented instructional improvement programs",
+      "score": 0.9979512095451355,
+      "box": [
+        126,
+        408,
+        601,
+        434
+      ]
+    },
+    {
+      "text": "- Developed data-driven teaching models",
+      "score": 0.9812928438186646,
+      "box": [
+        127,
+        432,
+        509,
+        458
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Golden Field Academy, 2010.022014.06",
+      "score": 0.9951233267784119,
+      "box": [
+        118,
+        472,
+        849,
+        499
+      ]
+    },
+    {
+      "text": "- Aligned lesson objectives with standards",
+      "score": 0.9837086796760559,
+      "box": [
+        126,
+        497,
+        518,
+        525
+      ]
+    },
+    {
+      "text": "- Prepared instructional pacing guides",
+      "score": 0.9979988932609558,
+      "box": [
+        127,
+        521,
+        479,
+        551
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Bright Path School, 2005.10—2010.02",
+      "score": 0.9779338240623474,
+      "box": [
+        118,
+        565,
+        810,
+        589
+      ]
+    },
+    {
+      "text": "- Maintained instructional logs",
+      "score": 0.9755494594573975,
+      "box": [
+        126,
+        589,
+        407,
+        619
+      ]
+    },
+    {
+      "text": "- Implemented lesson pacing guidelines",
+      "score": 0.9746555685997009,
+      "box": [
+        127,
+        614,
+        497,
+        644
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999147057533264,
+      "box": [
+        117,
+        681,
+        266,
+        705
+      ]
+    },
+    {
+      "text": "Master's, General Learning Studies, Brookfield University, 2007",
+      "score": 0.9893110394477844,
+      "box": [
+        115,
+        723,
+        704,
+        750
+      ]
+    },
+    {
+      "text": "Bachelor's, General Education, Prairie View University, 2005",
+      "score": 0.9967238306999207,
+      "box": [
+        116,
+        748,
+        677,
+        775
+      ]
+    },
+    {
+      "text": "•Studied principles of learning outcomes assessment",
+      "score": 0.9813053607940674,
+      "box": [
+        128,
+        773,
+        631,
+        801
+      ]
+    },
+    {
+      "text": "•Studied fundamentals of instructional facilitation",
+      "score": 0.9907663464546204,
+      "box": [
+        131,
+        799,
+        589,
+        824
+      ]
+    }
+  ],
+  "seconds": 3.338177100289613,
+  "id": "24299",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

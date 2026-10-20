@@ -1,0 +1,112 @@
+{
+  "lines": [
+    {
+      "text": "OMAR POWERS",
+      "score": 0.9646614193916321,
+      "box": [
+        116,
+        89,
+        378,
+        123
+      ]
+    },
+    {
+      "text": "MN, USA | +1-347-972-4573 | omar.powers@example.com",
+      "score": 0.9804456233978271,
+      "box": [
+        115,
+        149,
+        665,
+        177
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9993156790733337,
+      "box": [
+        116,
+        243,
+        317,
+        270
+      ]
+    },
+    {
+      "text": "Construction Laborers, LevelLine Builders, 2021.06—2023.01",
+      "score": 0.9919441342353821,
+      "box": [
+        118,
+        289,
+        677,
+        313
+      ]
+    },
+    {
+      "text": "- Set up ladders and basic scaffolding",
+      "score": 0.9892365336418152,
+      "box": [
+        124,
+        312,
+        478,
+        342
+      ]
+    },
+    {
+      "text": "- Mixed concrete and mortar",
+      "score": 0.9995185732841492,
+      "box": [
+        126,
+        339,
+        393,
+        364
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999412894248962,
+      "box": [
+        116,
+        404,
+        268,
+        431
+      ]
+    },
+    {
+      "text": "Some college (no degree), Construction Workflow, Greenfield University, 2023",
+      "score": 0.9867891073226929,
+      "box": [
+        117,
+        447,
+        841,
+        474
+      ]
+    },
+    {
+      "text": "•Completed coursework in basic siding installation",
+      "score": 0.9761330485343933,
+      "box": [
+        130,
+        473,
+        604,
+        498
+      ]
+    },
+    {
+      "text": "•Studied fundamentals of surface preparation",
+      "score": 0.9906319975852966,
+      "box": [
+        132,
+        497,
+        560,
+        523
+      ]
+    }
+  ],
+  "seconds": 2.0605126000009477,
+  "id": "28613",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

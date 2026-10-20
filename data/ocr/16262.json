@@ -1,0 +1,142 @@
+{
+  "lines": [
+    {
+      "text": "LIAM BRIDGES",
+      "score": 0.9996814727783203,
+      "box": [
+        118,
+        91,
+        361,
+        122
+      ]
+    },
+    {
+      "text": "GA, USA | +1-292-862-2449 | liam.bridges@example.com",
+      "score": 0.991879403591156,
+      "box": [
+        116,
+        150,
+        654,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9991628527641296,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Little Bridge School, 2020.10—2023.01",
+      "score": 0.9910511374473572,
+      "box": [
+        115,
+        287,
+        817,
+        319
+      ]
+    },
+    {
+      "text": "- Implemented instructional improvement programs",
+      "score": 0.9998268485069275,
+      "box": [
+        125,
+        314,
+        601,
+        343
+      ]
+    },
+    {
+      "text": "- Established instructional best practices",
+      "score": 0.9688106775283813,
+      "box": [
+        127,
+        339,
+        501,
+        367
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Growing Minds Academy, 2018.072020.10",
+      "score": 0.9951862692832947,
+      "box": [
+        116,
+        381,
+        872,
+        411
+      ]
+    },
+    {
+      "text": "- Supervised classroom activities",
+      "score": 0.984127402305603,
+      "box": [
+        125,
+        408,
+        434,
+        433
+      ]
+    },
+    {
+      "text": "- Assisted with science experiments",
+      "score": 0.979266345500946,
+      "box": [
+        127,
+        431,
+        458,
+        458
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999392032623291,
+      "box": [
+        117,
+        494,
+        268,
+        521
+      ]
+    },
+    {
+      "text": "Bachelor's, Human Development, Briarwood University, 2018",
+      "score": 0.9933541417121887,
+      "box": [
+        117,
+        542,
+        683,
+        566
+      ]
+    },
+    {
+      "text": "•Studied fundamentals of language arts education",
+      "score": 0.9861451983451843,
+      "box": [
+        130,
+        566,
+        602,
+        591
+      ]
+    },
+    {
+      "text": "• Completed coursework in mathematics education basics",
+      "score": 0.9783233404159546,
+      "box": [
+        133,
+        592,
+        668,
+        616
+      ]
+    }
+  ],
+  "seconds": 2.938382899854332,
+  "id": "16262",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

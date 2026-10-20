@@ -1,0 +1,202 @@
+{
+  "lines": [
+    {
+      "text": "BRITTANY PHAN",
+      "score": 0.9995370507240295,
+      "box": [
+        117,
+        89,
+        391,
+        122
+      ]
+    },
+    {
+      "text": "WI, USA | +1-308-760-1890 | brittany.phan@example.com",
+      "score": 0.9956068396568298,
+      "box": [
+        116,
+        150,
+        658,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9990995526313782,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, Caring Path Nursing, 2018.05—2023.01",
+      "score": 0.9769262671470642,
+      "box": [
+        115,
+        288,
+        664,
+        319
+      ]
+    },
+    {
+      "text": "- Directed interdisciplinary workflow alignment",
+      "score": 0.9899399280548096,
+      "box": [
+        125,
+        313,
+        554,
+        343
+      ]
+    },
+    {
+      "text": "- Designed clinical documentation standards",
+      "score": 0.9878374934196472,
+      "box": [
+        126,
+        339,
+        539,
+        367
+      ]
+    },
+    {
+      "text": "Registered Nurses, GentleHands Health, 2013.092018.05",
+      "score": 0.9956523180007935,
+      "box": [
+        118,
+        383,
+        663,
+        407
+      ]
+    },
+    {
+      "text": "- Developed patient safety programs",
+      "score": 0.9997348189353943,
+      "box": [
+        125,
+        406,
+        466,
+        435
+      ]
+    },
+    {
+      "text": "- Directed nursing education initiatives",
+      "score": 0.9813131093978882,
+      "box": [
+        126,
+        430,
+        482,
+        459
+      ]
+    },
+    {
+      "text": "Registered Nurses, GentleSpring Health, 2009.012013.09",
+      "score": 0.997349202632904,
+      "box": [
+        118,
+        474,
+        664,
+        498
+      ]
+    },
+    {
+      "text": "- Supervised clinical documentation",
+      "score": 0.9995368719100952,
+      "box": [
+        126,
+        498,
+        457,
+        523
+      ]
+    },
+    {
+      "text": "- Managed patient mobility programs",
+      "score": 0.9989774227142334,
+      "box": [
+        127,
+        521,
+        467,
+        552
+      ]
+    },
+    {
+      "text": "Registered Nurses, SafeSpring Health Group, 2004.05—2009.01",
+      "score": 0.993687629699707,
+      "box": [
+        116,
+        564,
+        708,
+        592
+      ]
+    },
+    {
+      "text": "- Performed wound dressing changes",
+      "score": 0.9852192997932434,
+      "box": [
+        126,
+        589,
+        478,
+        618
+      ]
+    },
+    {
+      "text": "- Checked patient identification",
+      "score": 0.9745751023292542,
+      "box": [
+        126,
+        614,
+        416,
+        642
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999098181724548,
+      "box": [
+        117,
+        681,
+        266,
+        705
+      ]
+    },
+    {
+      "text": "Bachelor's, Public Health, Northwood University, 2009",
+      "score": 0.9849306344985962,
+      "box": [
+        117,
+        726,
+        618,
+        749
+      ]
+    },
+    {
+      "text": "• Completed coursework in nursing leadership basics",
+      "score": 0.9931854605674744,
+      "box": [
+        133,
+        750,
+        622,
+        774
+      ]
+    },
+    {
+      "text": "•Completed coursework in case management basics",
+      "score": 0.9937714338302612,
+      "box": [
+        132,
+        772,
+        627,
+        802
+      ]
+    }
+  ],
+  "seconds": 2.893746799789369,
+  "id": "60381",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

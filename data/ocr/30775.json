@@ -1,0 +1,152 @@
+{
+  "lines": [
+    {
+      "text": "TAMIKA BOYER",
+      "score": 0.9389901161193848,
+      "box": [
+        117,
+        90,
+        376,
+        121
+      ]
+    },
+    {
+      "text": "MO, USA | +1-766-334-4462 | tamika.boyer@example.com",
+      "score": 0.9963659644126892,
+      "box": [
+        115,
+        149,
+        665,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9989233016967773,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Codewave Tech, 2021.01—2023.01",
+      "score": 0.9912104606628418,
+      "box": [
+        116,
+        289,
+        646,
+        316
+      ]
+    },
+    {
+      "text": "- Built fault-tolerant systems",
+      "score": 0.9812959432601929,
+      "box": [
+        126,
+        314,
+        387,
+        342
+      ]
+    },
+    {
+      "text": "- Led technical audits",
+      "score": 0.9718466401100159,
+      "box": [
+        127,
+        338,
+        327,
+        365
+      ]
+    },
+    {
+      "text": "Software Developers, Netcrest Technologies, 2017.10—2019.10",
+      "score": 0.9847164750099182,
+      "box": [
+        114,
+        379,
+        706,
+        410
+      ]
+    },
+    {
+      "text": "- Assisted with build automation",
+      "score": 0.9796460270881653,
+      "box": [
+        125,
+        407,
+        424,
+        432
+      ]
+    },
+    {
+      "text": "- Assisted with database queries",
+      "score": 0.9983572959899902,
+      "box": [
+        127,
+        430,
+        429,
+        458
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999170303344727,
+      "box": [
+        116,
+        494,
+        267,
+        521
+      ]
+    },
+    {
+      "text": "Master's, Brookfield University, 2004",
+      "score": 0.9940702319145203,
+      "box": [
+        115,
+        540,
+        456,
+        566
+      ]
+    },
+    {
+      "text": "Bachelor's, Foxwood University, 2002",
+      "score": 0.9611549377441406,
+      "box": [
+        117,
+        566,
+        466,
+        590
+      ]
+    },
+    {
+      "text": "Completed coursework in query performance tuning",
+      "score": 0.978892982006073,
+      "box": [
+        129,
+        590,
+        628,
+        619
+      ]
+    },
+    {
+      "text": "Completed coursework in data structures implementation",
+      "score": 0.9973098635673523,
+      "box": [
+        131,
+        614,
+        676,
+        643
+      ]
+    }
+  ],
+  "seconds": 2.335556199774146,
+  "id": "30775",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

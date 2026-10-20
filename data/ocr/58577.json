@@ -1,0 +1,172 @@
+{
+  "lines": [
+    {
+      "text": "KATY BURCH",
+      "score": 0.9996103048324585,
+      "box": [
+        116,
+        89,
+        339,
+        122
+      ]
+    },
+    {
+      "text": "WA, USA | +1-403-700-7384 | katy.burch@example.com",
+      "score": 0.989052414894104,
+      "box": [
+        116,
+        151,
+        640,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9991562962532043,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Learning Hill Academy, 2020.08—2023.01",
+      "score": 0.9893583655357361,
+      "box": [
+        115,
+        287,
+        846,
+        318
+      ]
+    },
+    {
+      "text": "- Developed instructional innovation plans",
+      "score": 0.9879323244094849,
+      "box": [
+        126,
+        315,
+        516,
+        341
+      ]
+    },
+    {
+      "text": "- Established learning outcome benchmarks",
+      "score": 0.9704272747039795,
+      "box": [
+        126,
+        339,
+        535,
+        367
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Learning Minds Academy, 2017.022019.08",
+      "score": 0.9857726693153381,
+      "box": [
+        117,
+        382,
+        873,
+        409
+      ]
+    },
+    {
+      "text": "- Reviewed and updated curriculum materials",
+      "score": 0.9972798824310303,
+      "box": [
+        125,
+        407,
+        548,
+        432
+      ]
+    },
+    {
+      "text": "- Administered standardized assessments",
+      "score": 0.9984263181686401,
+      "box": [
+        126,
+        432,
+        516,
+        457
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Learning Path Academy, 2014.02—2016.08",
+      "score": 0.9923681020736694,
+      "box": [
+        117,
+        472,
+        861,
+        499
+      ]
+    },
+    {
+      "text": "- Supported individual student learning activities",
+      "score": 0.9748079180717468,
+      "box": [
+        127,
+        499,
+        572,
+        523
+      ]
+    },
+    {
+      "text": "- Recorded test results",
+      "score": 0.994266152381897,
+      "box": [
+        127,
+        521,
+        340,
+        549
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999356865882874,
+      "box": [
+        117,
+        587,
+        267,
+        614
+      ]
+    },
+    {
+      "text": "Bachelor's, Elementary Education Preparation, Skyview University, 2005",
+      "score": 0.9962518811225891,
+      "box": [
+        118,
+        633,
+        787,
+        657
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of formative feedback",
+      "score": 0.9916235208511353,
+      "box": [
+        130,
+        659,
+        557,
+        682
+      ]
+    },
+    {
+      "text": "•Studied principles of lesson planning",
+      "score": 0.9884551167488098,
+      "box": [
+        130,
+        681,
+        487,
+        710
+      ]
+    }
+  ],
+  "seconds": 2.823316900059581,
+  "id": "58577",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

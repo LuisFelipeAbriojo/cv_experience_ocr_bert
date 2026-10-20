@@ -1,0 +1,202 @@
+{
+  "lines": [
+    {
+      "text": "MELISSA DOUGHERTY",
+      "score": 0.9995983242988586,
+      "box": [
+        118,
+        91,
+        487,
+        121
+      ]
+    },
+    {
+      "text": "CO, USA | +1-925-536-3525 | melissa.dougherty@example.com",
+      "score": 0.9880470037460327,
+      "box": [
+        116,
+        150,
+        712,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9990336298942566,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, SteadyCount Group, 2018.04—2023.01",
+      "score": 0.9882473945617676,
+      "box": [
+        115,
+        288,
+        683,
+        318
+      ]
+    },
+    {
+      "text": "- Developed financial performance metrics",
+      "score": 0.9933181405067444,
+      "box": [
+        128,
+        315,
+        520,
+        341
+      ]
+    },
+    {
+      "text": "- Developed financial analytics frameworks",
+      "score": 0.9652479290962219,
+      "box": [
+        128,
+        341,
+        524,
+        366
+      ]
+    },
+    {
+      "text": "Accountants Auditors, SolidLedger Advisors, 2013.062018.04",
+      "score": 0.9811441898345947,
+      "box": [
+        117,
+        383,
+        697,
+        407
+      ]
+    },
+    {
+      "text": "- Led audit programs",
+      "score": 0.9870296716690063,
+      "box": [
+        127,
+        409,
+        322,
+        433
+      ]
+    },
+    {
+      "text": "- Developed audit quality standards",
+      "score": 0.9789658784866333,
+      "box": [
+        128,
+        433,
+        457,
+        459
+      ]
+    },
+    {
+      "text": "Accountants Auditors, ClearLedger Accounting, 2008.08—2013.06",
+      "score": 0.9946919083595276,
+      "box": [
+        118,
+        474,
+        723,
+        498
+      ]
+    },
+    {
+      "text": "- Conducted compliance reviews",
+      "score": 0.9901122450828552,
+      "box": [
+        127,
+        500,
+        431,
+        524
+      ]
+    },
+    {
+      "text": "- Reviewed expense allocations",
+      "score": 0.9819859862327576,
+      "box": [
+        128,
+        523,
+        423,
+        549
+      ]
+    },
+    {
+      "text": "Accountants Auditors, SteadyBooks Group, 2003.10—2008.08",
+      "score": 0.9867192506790161,
+      "box": [
+        117,
+        566,
+        687,
+        590
+      ]
+    },
+    {
+      "text": "- Prepared aging reports",
+      "score": 0.9873483180999756,
+      "box": [
+        125,
+        590,
+        358,
+        619
+      ]
+    },
+    {
+      "text": "- Tracked budget expenditures",
+      "score": 0.9851992130279541,
+      "box": [
+        126,
+        614,
+        414,
+        645
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999001026153564,
+      "box": [
+        117,
+        681,
+        266,
+        705
+      ]
+    },
+    {
+      "text": "Bachelor's, Business Management, Bayside University, 2006",
+      "score": 0.997527003288269,
+      "box": [
+        117,
+        726,
+        679,
+        749
+      ]
+    },
+    {
+      "text": "• Completed coursework in audit planning",
+      "score": 0.9801491498947144,
+      "box": [
+        132,
+        749,
+        520,
+        775
+      ]
+    },
+    {
+      "text": "Studied fundamentals of audit evidence evaluation",
+      "score": 0.9946832656860352,
+      "box": [
+        132,
+        772,
+        616,
+        800
+      ]
+    }
+  ],
+  "seconds": 2.8600121000781655,
+  "id": "09592",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

@@ -1,0 +1,182 @@
+{
+  "lines": [
+    {
+      "text": "MOISES HO",
+      "score": 0.9990771412849426,
+      "box": [
+        118,
+        92,
+        306,
+        120
+      ]
+    },
+    {
+      "text": "CA, USA | +1-921-542-1128 | moises.ho@example.com",
+      "score": 0.9794058799743652,
+      "box": [
+        118,
+        151,
+        634,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9989755749702454,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Skyline Tech, 2021.01—2023.01",
+      "score": 0.9876835346221924,
+      "box": [
+        115,
+        288,
+        616,
+        316
+      ]
+    },
+    {
+      "text": "- Designed system architectures",
+      "score": 0.9964934587478638,
+      "box": [
+        125,
+        314,
+        429,
+        342
+      ]
+    },
+    {
+      "text": "- Defined code review processes",
+      "score": 0.9977744221687317,
+      "box": [
+        128,
+        340,
+        433,
+        367
+      ]
+    },
+    {
+      "text": "Software Developers, Brightpoint Systems, 2019.012021.01",
+      "score": 0.9988241195678711,
+      "box": [
+        116,
+        382,
+        681,
+        409
+      ]
+    },
+    {
+      "text": "- Improved memory usage",
+      "score": 0.9823638200759888,
+      "box": [
+        126,
+        405,
+        374,
+        435
+      ]
+    },
+    {
+      "text": "- Improved API performance",
+      "score": 0.9907732605934143,
+      "box": [
+        127,
+        430,
+        393,
+        459
+      ]
+    },
+    {
+      "text": "Software Developers, Clearpath Digital, 2016.122019.01",
+      "score": 0.9824165105819702,
+      "box": [
+        116,
+        471,
+        649,
+        499
+      ]
+    },
+    {
+      "text": "- Wrote scripts for data processing tasks",
+      "score": 0.9799799919128418,
+      "box": [
+        126,
+        498,
+        502,
+        524
+      ]
+    },
+    {
+      "text": "- Implemented Ul components based on design specs",
+      "score": 0.9758906960487366,
+      "box": [
+        128,
+        521,
+        628,
+        550
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999372959136963,
+      "box": [
+        118,
+        588,
+        266,
+        612
+      ]
+    },
+    {
+      "text": "Master's, Sunset Ridge University, 2015",
+      "score": 0.9876067042350769,
+      "box": [
+        118,
+        633,
+        489,
+        657
+      ]
+    },
+    {
+      "text": "Bachelor's, Ironwood University, 2013",
+      "score": 0.9816961288452148,
+      "box": [
+        117,
+        658,
+        468,
+        682
+      ]
+    },
+    {
+      "text": "•Studied principles of ACID properties",
+      "score": 0.9763798713684082,
+      "box": [
+        130,
+        683,
+        489,
+        707
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of stack and heap usage",
+      "score": 0.9810411334037781,
+      "box": [
+        131,
+        706,
+        584,
+        734
+      ]
+    }
+  ],
+  "seconds": 2.596079899929464,
+  "id": "08737",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

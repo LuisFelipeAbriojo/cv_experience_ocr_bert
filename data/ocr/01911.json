@@ -1,0 +1,172 @@
+{
+  "lines": [
+    {
+      "text": "JENNIFER SCHNEIDER",
+      "score": 0.9964279532432556,
+      "box": [
+        117,
+        93,
+        488,
+        120
+      ]
+    },
+    {
+      "text": "AZ, USA | +1-255-206-8786 | jennifer.schneider@example.com",
+      "score": 0.9964635968208313,
+      "box": [
+        116,
+        150,
+        704,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9970375895500183,
+      "box": [
+        117,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, SafeBridge Health Group, 2020.08—2023.01",
+      "score": 0.9898218512535095,
+      "box": [
+        115,
+        287,
+        709,
+        318
+      ]
+    },
+    {
+      "text": "- Directed patient care coordination",
+      "score": 0.9918841123580933,
+      "box": [
+        125,
+        314,
+        455,
+        342
+      ]
+    },
+    {
+      "text": "- Directed clinical quality improvement initiatives",
+      "score": 0.9808607697486877,
+      "box": [
+        126,
+        339,
+        573,
+        369
+      ]
+    },
+    {
+      "text": "Registered Nurses, Compassion Care Services, 2017.072019.12",
+      "score": 0.9983360767364502,
+      "box": [
+        117,
+        382,
+        730,
+        409
+      ]
+    },
+    {
+      "text": "- Conducted post-operative assessments",
+      "score": 0.9827049374580383,
+      "box": [
+        127,
+        409,
+        508,
+        433
+      ]
+    },
+    {
+      "text": "- Provided rehabilitation nursing care",
+      "score": 0.9985173940658569,
+      "box": [
+        126,
+        431,
+        468,
+        460
+      ]
+    },
+    {
+      "text": "Registered Nurses, ClearSpring Health Group, 2014.072017.01",
+      "score": 0.9970409870147705,
+      "box": [
+        118,
+        474,
+        713,
+        498
+      ]
+    },
+    {
+      "text": "- Assisted with physical therapy exercises",
+      "score": 0.9917458891868591,
+      "box": [
+        126,
+        497,
+        515,
+        526
+      ]
+    },
+    {
+      "text": "- Prepared sterile supplies",
+      "score": 0.9812161326408386,
+      "box": [
+        128,
+        521,
+        373,
+        552
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999048709869385,
+      "box": [
+        117,
+        587,
+        267,
+        614
+      ]
+    },
+    {
+      "text": "Associate's degree, Health Care Studies, Greenridge University, 2002",
+      "score": 0.9927889704704285,
+      "box": [
+        117,
+        632,
+        763,
+        659
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of patient care",
+      "score": 0.9856460094451904,
+      "box": [
+        129,
+        658,
+        489,
+        683
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of skin integrity maintenance",
+      "score": 0.9754000902175903,
+      "box": [
+        131,
+        681,
+        620,
+        709
+      ]
+    }
+  ],
+  "seconds": 3.51124250004068,
+  "id": "01911",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

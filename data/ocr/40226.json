@@ -1,0 +1,112 @@
+{
+  "lines": [
+    {
+      "text": "KRYSTAL HO",
+      "score": 0.9981635212898254,
+      "box": [
+        116,
+        89,
+        336,
+        123
+      ]
+    },
+    {
+      "text": "NC, USA | +1-551-753-8601 | krystal.ho@example.com",
+      "score": 0.9891026020050049,
+      "box": [
+        115,
+        149,
+        632,
+        177
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9997712969779968,
+      "box": [
+        117,
+        243,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Accountants Auditors, CoreBalance Services, 2018.05—2020.04",
+      "score": 0.995917558670044,
+      "box": [
+        117,
+        289,
+        706,
+        313
+      ]
+    },
+    {
+      "text": "- Prepared expense reports",
+      "score": 0.9992685317993164,
+      "box": [
+        125,
+        313,
+        385,
+        342
+      ]
+    },
+    {
+      "text": "- Reviewed billing statements",
+      "score": 0.9900736808776855,
+      "box": [
+        127,
+        338,
+        402,
+        368
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.99992436170578,
+      "box": [
+        116,
+        404,
+        268,
+        431
+      ]
+    },
+    {
+      "text": "Bachelor's, Government Accounting, Oakway University, 2008",
+      "score": 0.9892260432243347,
+      "box": [
+        116,
+        447,
+        692,
+        474
+      ]
+    },
+    {
+      "text": "Studied principles of financial planning",
+      "score": 0.9968873858451843,
+      "box": [
+        129,
+        471,
+        504,
+        501
+      ]
+    },
+    {
+      "text": "Completed coursework in public sector accounting",
+      "score": 0.9991829991340637,
+      "box": [
+        132,
+        497,
+        614,
+        526
+      ]
+    }
+  ],
+  "seconds": 1.9501942000351846,
+  "id": "40226",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

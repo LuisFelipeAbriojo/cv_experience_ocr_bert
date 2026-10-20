@@ -1,0 +1,142 @@
+{
+  "lines": [
+    {
+      "text": "ANDREW BUCKLEY",
+      "score": 0.9766001105308533,
+      "box": [
+        117,
+        91,
+        438,
+        121
+      ]
+    },
+    {
+      "text": "GA, USA | +1-686-299-3478 | andrew.buckley@example.com",
+      "score": 0.9770175218582153,
+      "box": [
+        118,
+        152,
+        686,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.984839677810669,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Integrity Books Financial, 2018.072021.06",
+      "score": 0.9838162660598755,
+      "box": [
+        115,
+        288,
+        729,
+        318
+      ]
+    },
+    {
+      "text": "- Managed consolidation processes",
+      "score": 0.9920462369918823,
+      "box": [
+        126,
+        315,
+        458,
+        341
+      ]
+    },
+    {
+      "text": "- Directed financial system architecture",
+      "score": 0.9977420568466187,
+      "box": [
+        127,
+        339,
+        490,
+        367
+      ]
+    },
+    {
+      "text": "Accountants Auditors, AccuLedger Group, 2015.022018.01",
+      "score": 0.9838954210281372,
+      "box": [
+        116,
+        380,
+        674,
+        409
+      ]
+    },
+    {
+      "text": "- Updated fixed asset registers",
+      "score": 0.9863250255584717,
+      "box": [
+        126,
+        407,
+        414,
+        433
+      ]
+    },
+    {
+      "text": "- Entered financial data into accounting systems",
+      "score": 0.9844401478767395,
+      "box": [
+        127,
+        431,
+        572,
+        457
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999338984489441,
+      "box": [
+        117,
+        494,
+        268,
+        521
+      ]
+    },
+    {
+      "text": "Bachelor's, Forensic Accounting, Westfield University, 2006",
+      "score": 0.9974391460418701,
+      "box": [
+        116,
+        539,
+        666,
+        566
+      ]
+    },
+    {
+      "text": "•Studied principles of compliance auditing",
+      "score": 0.9824439287185669,
+      "box": [
+        130,
+        566,
+        526,
+        592
+      ]
+    },
+    {
+      "text": "• Completed coursework in risk assessment",
+      "score": 0.9969102740287781,
+      "box": [
+        132,
+        592,
+        540,
+        615
+      ]
+    }
+  ],
+  "seconds": 2.2831059000454843,
+  "id": "15243",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

@@ -1,0 +1,172 @@
+{
+  "lines": [
+    {
+      "text": "ERICA ELLIS",
+      "score": 0.9987069964408875,
+      "box": [
+        118,
+        91,
+        326,
+        122
+      ]
+    },
+    {
+      "text": "OR, USA | +1-872-546-7273 | erica.ellis@example.com",
+      "score": 0.9752558469772339,
+      "box": [
+        117,
+        151,
+        629,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9990872740745544,
+      "box": [
+        118,
+        245,
+        314,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Integrity Count Services, 2019.112023.01",
+      "score": 0.9751027822494507,
+      "box": [
+        116,
+        289,
+        721,
+        316
+      ]
+    },
+    {
+      "text": "- Managed consolidation processes",
+      "score": 0.9989182353019714,
+      "box": [
+        126,
+        315,
+        458,
+        342
+      ]
+    },
+    {
+      "text": "- Established accounting policies",
+      "score": 0.9892686605453491,
+      "box": [
+        126,
+        338,
+        433,
+        369
+      ]
+    },
+    {
+      "text": "Accountants Auditors, SteadyLedger Services, 2016.092019.11",
+      "score": 0.9826071858406067,
+      "box": [
+        116,
+        381,
+        716,
+        408
+      ]
+    },
+    {
+      "text": "- Coordinated audit schedules",
+      "score": 0.9956994652748108,
+      "box": [
+        125,
+        407,
+        408,
+        432
+      ]
+    },
+    {
+      "text": "- Reviewed internal controls",
+      "score": 0.9950436353683472,
+      "box": [
+        126,
+        431,
+        387,
+        456
+      ]
+    },
+    {
+      "text": "Accountants Auditors, OpenLedger Financial, 2013.062016.09",
+      "score": 0.9830347299575806,
+      "box": [
+        117,
+        472,
+        706,
+        499
+      ]
+    },
+    {
+      "text": "- Prepared supporting schedules",
+      "score": 0.9895376563072205,
+      "box": [
+        126,
+        497,
+        432,
+        525
+      ]
+    },
+    {
+      "text": "- Prepared account reconciliations",
+      "score": 0.9976980686187744,
+      "box": [
+        128,
+        520,
+        446,
+        550
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999491572380066,
+      "box": [
+        118,
+        588,
+        266,
+        612
+      ]
+    },
+    {
+      "text": "Bachelor's, Business Economics, Fieldstone University, 2011",
+      "score": 0.9959160685539246,
+      "box": [
+        118,
+        633,
+        680,
+        657
+      ]
+    },
+    {
+      "text": "• Studied principles of financial risk management",
+      "score": 0.9776377081871033,
+      "box": [
+        130,
+        659,
+        586,
+        683
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of management reporting",
+      "score": 0.9880291223526001,
+      "box": [
+        130,
+        682,
+        588,
+        709
+      ]
+    }
+  ],
+  "seconds": 2.5367177999578416,
+  "id": "43990",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

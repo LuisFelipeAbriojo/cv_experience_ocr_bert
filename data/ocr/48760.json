@@ -1,0 +1,122 @@
+{
+  "lines": [
+    {
+      "text": "CHRISTINE SMITH",
+      "score": 0.9996985197067261,
+      "box": [
+        118,
+        91,
+        411,
+        122
+      ]
+    },
+    {
+      "text": "TN, USA | +1-275-857-2114 | christine.smith@example.com",
+      "score": 0.9889212846755981,
+      "box": [
+        117,
+        149,
+        673,
+        177
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9997487664222717,
+      "box": [
+        117,
+        243,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Registered Nurses, TrueCare Nursing, 2021.042023.01",
+      "score": 0.9995672106742859,
+      "box": [
+        116,
+        288,
+        641,
+        316
+      ]
+    },
+    {
+      "text": "- Prepared medical equipment for use",
+      "score": 0.9946280717849731,
+      "box": [
+        125,
+        313,
+        479,
+        342
+      ]
+    },
+    {
+      "text": "- Recorded patient weight and height",
+      "score": 0.98024582862854,
+      "box": [
+        127,
+        338,
+        472,
+        367
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999501705169678,
+      "box": [
+        116,
+        404,
+        268,
+        431
+      ]
+    },
+    {
+      "text": "Master's, Allied Health, Crossfield University, 2022",
+      "score": 0.9892430901527405,
+      "box": [
+        114,
+        446,
+        586,
+        474
+      ]
+    },
+    {
+      "text": "Bachelor's, Mental Health Studies, Redfield University, 2020",
+      "score": 0.9925737977027893,
+      "box": [
+        117,
+        474,
+        673,
+        498
+      ]
+    },
+    {
+      "text": "• Completed coursework in healthcare law basics",
+      "score": 0.9800921678543091,
+      "box": [
+        131,
+        500,
+        588,
+        523
+      ]
+    },
+    {
+      "text": "Completed coursework in prioritization in nursing",
+      "score": 0.9962233901023865,
+      "box": [
+        132,
+        521,
+        598,
+        551
+      ]
+    }
+  ],
+  "seconds": 2.5923121999949217,
+  "id": "48760",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

@@ -1,0 +1,112 @@
+{
+  "lines": [
+    {
+      "text": "DALIA GRAHAM",
+      "score": 0.9998330473899841,
+      "box": [
+        118,
+        91,
+        379,
+        122
+      ]
+    },
+    {
+      "text": "WI, USA | +1-337-218-6053 | dalia.graham@example.com",
+      "score": 0.990820050239563,
+      "box": [
+        117,
+        150,
+        658,
+        177
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9994006752967834,
+      "box": [
+        116,
+        243,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Registered Nurses, TrueCare Nursing, 2022.062022.07",
+      "score": 0.9890498518943787,
+      "box": [
+        117,
+        289,
+        642,
+        316
+      ]
+    },
+    {
+      "text": "- Assisted with diagnostic procedures",
+      "score": 0.9994722604751587,
+      "box": [
+        126,
+        314,
+        474,
+        341
+      ]
+    },
+    {
+      "text": "- Prepared medical equipment for use",
+      "score": 0.9807382225990295,
+      "box": [
+        126,
+        339,
+        479,
+        367
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9990408420562744,
+      "box": [
+        116,
+        404,
+        268,
+        431
+      ]
+    },
+    {
+      "text": "Bachelor's, Geriatric Care, Oakwood University, 2003",
+      "score": 0.9813605546951294,
+      "box": [
+        115,
+        446,
+        611,
+        474
+      ]
+    },
+    {
+      "text": "Completed coursework in patient triage",
+      "score": 0.9870404601097107,
+      "box": [
+        131,
+        472,
+        511,
+        501
+      ]
+    },
+    {
+      "text": "Completed coursework in nursing leadership basics",
+      "score": 0.9997551441192627,
+      "box": [
+        132,
+        497,
+        625,
+        526
+      ]
+    }
+  ],
+  "seconds": 2.458752099890262,
+  "id": "60566",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

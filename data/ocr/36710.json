@@ -1,0 +1,122 @@
+{
+  "lines": [
+    {
+      "text": "AZEL TRAN",
+      "score": 0.9995373487472534,
+      "box": [
+        115,
+        87,
+        308,
+        123
+      ]
+    },
+    {
+      "text": "NY, USA | +1-610-792-7940 | azel.tran@example.com",
+      "score": 0.9833350777626038,
+      "box": [
+        114,
+        149,
+        622,
+        177
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9997377395629883,
+      "box": [
+        117,
+        243,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Accountants Auditors, ClearBooks Group, 2020.09—2023.01",
+      "score": 0.9932076334953308,
+      "box": [
+        115,
+        287,
+        671,
+        315
+      ]
+    },
+    {
+      "text": "- Reviewed account balances",
+      "score": 0.995979368686676,
+      "box": [
+        126,
+        314,
+        403,
+        340
+      ]
+    },
+    {
+      "text": "- Assisted with inventory counts",
+      "score": 0.9766695499420166,
+      "box": [
+        128,
+        341,
+        421,
+        365
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999560117721558,
+      "box": [
+        116,
+        404,
+        268,
+        431
+      ]
+    },
+    {
+      "text": "Professional degree, Applied Accounting, Briarwood University, 2023",
+      "score": 0.9938421845436096,
+      "box": [
+        116,
+        448,
+        753,
+        475
+      ]
+    },
+    {
+      "text": "Bachelor's, Organizational Management, Vista University, 2021",
+      "score": 0.9944062829017639,
+      "box": [
+        117,
+        474,
+        700,
+        498
+      ]
+    },
+    {
+      "text": "•Studied fundamentals of governmental auditing",
+      "score": 0.9850388169288635,
+      "box": [
+        129,
+        497,
+        585,
+        525
+      ]
+    },
+    {
+      "text": "Studied fundamentals of sustainability accounting basics",
+      "score": 0.9881671071052551,
+      "box": [
+        131,
+        521,
+        670,
+        550
+      ]
+    }
+  ],
+  "seconds": 2.1733985003083944,
+  "id": "36710",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

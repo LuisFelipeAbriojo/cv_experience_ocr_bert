@@ -1,0 +1,142 @@
+{
+  "lines": [
+    {
+      "text": "JOSHUA PATTERSON",
+      "score": 0.980806827545166,
+      "box": [
+        115,
+        90,
+        472,
+        122
+      ]
+    },
+    {
+      "text": "AZ, USA | +1-244-763-8413 | joshua.patterson@example.com",
+      "score": 0.9942429661750793,
+      "box": [
+        116,
+        150,
+        693,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9991362690925598,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Little Steps Academy, 2020.03—2023.01",
+      "score": 0.9832289218902588,
+      "box": [
+        115,
+        287,
+        833,
+        318
+      ]
+    },
+    {
+      "text": "- Designed instructional accountability systems",
+      "score": 0.9784343242645264,
+      "box": [
+        125,
+        314,
+        563,
+        342
+      ]
+    },
+    {
+      "text": "- Developed teacher training modules",
+      "score": 0.9931507110595703,
+      "box": [
+        127,
+        339,
+        477,
+        368
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Open Start School, 2016.042019.02",
+      "score": 0.9924166202545166,
+      "box": [
+        116,
+        381,
+        810,
+        411
+      ]
+    },
+    {
+      "text": "- Supported standardized testing sessions",
+      "score": 0.9932236075401306,
+      "box": [
+        127,
+        409,
+        517,
+        433
+      ]
+    },
+    {
+      "text": "- Implemented classroom seating plans",
+      "score": 0.9844002723693848,
+      "box": [
+        127,
+        431,
+        493,
+        459
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999415278434753,
+      "box": [
+        117,
+        494,
+        268,
+        521
+      ]
+    },
+    {
+      "text": "Bachelor's, Educational Foundations, Oakridge Valley University, 2014",
+      "score": 0.9943764805793762,
+      "box": [
+        115,
+        539,
+        770,
+        568
+      ]
+    },
+    {
+      "text": "•Studied principles of instructional materials development",
+      "score": 0.9858644008636475,
+      "box": [
+        130,
+        566,
+        669,
+        592
+      ]
+    },
+    {
+      "text": "•Completed coursework in reading fluency strategies",
+      "score": 0.9877513647079468,
+      "box": [
+        131,
+        590,
+        628,
+        619
+      ]
+    }
+  ],
+  "seconds": 2.4372209003195167,
+  "id": "01360",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

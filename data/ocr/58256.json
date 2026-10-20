@@ -1,0 +1,142 @@
+{
+  "lines": [
+    {
+      "text": "DUSTIN PARK",
+      "score": 0.9885897040367126,
+      "box": [
+        117,
+        91,
+        347,
+        121
+      ]
+    },
+    {
+      "text": "WA, USA | +1-728-498-5460 | dustin.park@example.com",
+      "score": 0.9926173686981201,
+      "box": [
+        117,
+        152,
+        646,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9997683167457581,
+      "box": [
+        117,
+        243,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Accountants Auditors, TrustLedger Advisors, 2021.042023.01",
+      "score": 0.991739809513092,
+      "box": [
+        116,
+        289,
+        697,
+        316
+      ]
+    },
+    {
+      "text": "- Designed audit methodologies",
+      "score": 0.991878867149353,
+      "box": [
+        125,
+        314,
+        424,
+        342
+      ]
+    },
+    {
+      "text": "- Established financial reporting standards",
+      "score": 0.9958354234695435,
+      "box": [
+        126,
+        338,
+        518,
+        367
+      ]
+    },
+    {
+      "text": "Accountants Auditors, SteadyLedger Financial Group, 2019.06—2021.04",
+      "score": 0.9809980392456055,
+      "box": [
+        115,
+        379,
+        785,
+        410
+      ]
+    },
+    {
+      "text": "- Recorded cash receipts",
+      "score": 0.9888370633125305,
+      "box": [
+        125,
+        407,
+        362,
+        432
+      ]
+    },
+    {
+      "text": "- Assisted with compliance documentation",
+      "score": 0.9832981824874878,
+      "box": [
+        128,
+        432,
+        517,
+        456
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999353885650635,
+      "box": [
+        117,
+        494,
+        267,
+        521
+      ]
+    },
+    {
+      "text": "Bachelor's, Strategic Management, Stoneview University, 2019",
+      "score": 0.9921995997428894,
+      "box": [
+        117,
+        542,
+        699,
+        566
+      ]
+    },
+    {
+      "text": "• Completed coursework in business communication",
+      "score": 0.9896991848945618,
+      "box": [
+        132,
+        566,
+        618,
+        591
+      ]
+    },
+    {
+      "text": "Completed coursework in accounting controls testing",
+      "score": 0.9798480272293091,
+      "box": [
+        130,
+        587,
+        637,
+        621
+      ]
+    }
+  ],
+  "seconds": 2.296102900058031,
+  "id": "58256",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

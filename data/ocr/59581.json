@@ -1,0 +1,182 @@
+{
+  "lines": [
+    {
+      "text": "MELISSA BERGER",
+      "score": 0.9654998779296875,
+      "box": [
+        117,
+        91,
+        419,
+        121
+      ]
+    },
+    {
+      "text": "WA, USA | +1-204-484-1752 | melissa.berger@example.com",
+      "score": 0.9823492765426636,
+      "box": [
+        117,
+        149,
+        681,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9991585612297058,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Growing Start Academy, 2019.12—2023.01",
+      "score": 0.9834393262863159,
+      "box": [
+        117,
+        290,
+        856,
+        317
+      ]
+    },
+    {
+      "text": "- Designed learning analytics frameworks",
+      "score": 0.9934775233268738,
+      "box": [
+        127,
+        317,
+        510,
+        341
+      ]
+    },
+    {
+      "text": "- Led instructional leadership initiatives",
+      "score": 0.9835206866264343,
+      "box": [
+        126,
+        338,
+        488,
+        369
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Kind Minds School, 2015.102018.12",
+      "score": 0.9834972620010376,
+      "box": [
+        118,
+        383,
+        811,
+        407
+      ]
+    },
+    {
+      "text": "- Managed instructional timelines",
+      "score": 0.9995679259300232,
+      "box": [
+        125,
+        406,
+        435,
+        435
+      ]
+    },
+    {
+      "text": "- Developed homework policies",
+      "score": 0.998346745967865,
+      "box": [
+        126,
+        432,
+        419,
+        458
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Learning Springs School, 2011.102014.12",
+      "score": 0.981620192527771,
+      "box": [
+        117,
+        471,
+        867,
+        499
+      ]
+    },
+    {
+      "text": "- Administered quizzes and short assessments",
+      "score": 0.9991199970245361,
+      "box": [
+        125,
+        497,
+        563,
+        525
+      ]
+    },
+    {
+      "text": "- Delivered structured lectures",
+      "score": 0.9985283613204956,
+      "box": [
+        127,
+        522,
+        409,
+        548
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999511241912842,
+      "box": [
+        118,
+        588,
+        266,
+        612
+      ]
+    },
+    {
+      "text": "Master's, Student Development, Cedar Valley University, 2008",
+      "score": 0.9810124039649963,
+      "box": [
+        115,
+        631,
+        696,
+        659
+      ]
+    },
+    {
+      "text": "Bachelor's, Applied Child Studies, Prairie View University, 2006",
+      "score": 0.9906032085418701,
+      "box": [
+        115,
+        656,
+        703,
+        684
+      ]
+    },
+    {
+      "text": "• Completed coursework in academic differentiation basics",
+      "score": 0.9762457013130188,
+      "box": [
+        133,
+        684,
+        673,
+        708
+      ]
+    },
+    {
+      "text": "Completed coursework in academic instruction methods",
+      "score": 0.9986233115196228,
+      "box": [
+        132,
+        705,
+        666,
+        735
+      ]
+    }
+  ],
+  "seconds": 3.03207530034706,
+  "id": "59581",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}
