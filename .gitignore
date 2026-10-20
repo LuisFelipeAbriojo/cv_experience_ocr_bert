@@ -22,3 +22,6 @@ hf_cache/
 .streamlit/secrets.toml
 .DS_Store
 Thumbs.db
+# ...except the sampled IDs and metadata needed to reproduce the sample
+!data/raw/sampled_ids.csv
+!data/raw/metadata.csv
