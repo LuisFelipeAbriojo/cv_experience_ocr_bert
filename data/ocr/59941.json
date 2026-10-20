@@ -1,0 +1,132 @@
+{
+  "lines": [
+    {
+      "text": "JESSICA CLINE",
+      "score": 0.996315598487854,
+      "box": [
+        116,
+        90,
+        370,
+        121
+      ]
+    },
+    {
+      "text": "WV, USA | +1-413-205-4937 | jessica.cline@example.com",
+      "score": 0.9873601794242859,
+      "box": [
+        115,
+        149,
+        658,
+        177
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9997732043266296,
+      "box": [
+        117,
+        243,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Sunny Steps Academy, 2021.05—2023.01",
+      "score": 0.9769011735916138,
+      "box": [
+        116,
+        288,
+        847,
+        316
+      ]
+    },
+    {
+      "text": "- Provided math drill exercises",
+      "score": 0.997018039226532,
+      "box": [
+        126,
+        312,
+        409,
+        341
+      ]
+    },
+    {
+      "text": "- Conducted spelling practice",
+      "score": 0.9822396636009216,
+      "box": [
+        128,
+        339,
+        400,
+        368
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999167323112488,
+      "box": [
+        116,
+        404,
+        268,
+        431
+      ]
+    },
+    {
+      "text": "Doctorate, Foundational Education, Redfield University, 2023",
+      "score": 0.9866573810577393,
+      "box": [
+        117,
+        449,
+        682,
+        473
+      ]
+    },
+    {
+      "text": "Bachelor's, Early Childhood Education, Greenwood Ridge University, 2022",
+      "score": 0.9868115782737732,
+      "box": [
+        116,
+        473,
+        807,
+        500
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of language arts education",
+      "score": 0.9806961417198181,
+      "box": [
+        128,
+        498,
+        603,
+        526
+      ]
+    },
+    {
+      "text": "Studied principles of learner diversity",
+      "score": 0.9807298183441162,
+      "box": [
+        132,
+        522,
+        490,
+        552
+      ]
+    },
+    {
+      "text": "• Completed coursework in academic monitoring strategies",
+      "score": 0.9842027425765991,
+      "box": [
+        132,
+        547,
+        677,
+        577
+      ]
+    }
+  ],
+  "seconds": 2.256634999997914,
+  "id": "59941",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

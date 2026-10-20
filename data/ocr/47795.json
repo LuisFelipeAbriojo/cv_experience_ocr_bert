@@ -1,0 +1,172 @@
+{
+  "lines": [
+    {
+      "text": "KELLY BOYD",
+      "score": 0.9501692652702332,
+      "box": [
+        117,
+        90,
+        334,
+        121
+      ]
+    },
+    {
+      "text": "SC, USA | +1-650-561-8452 | kelly.boyd@example.com",
+      "score": 0.9882580041885376,
+      "box": [
+        118,
+        152,
+        632,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9947653412818909,
+      "box": [
+        117,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, SafePath Health, 2020.102023.01",
+      "score": 0.9885962605476379,
+      "box": [
+        118,
+        290,
+        625,
+        314
+      ]
+    },
+    {
+      "text": "- Directed nursing operations planning",
+      "score": 0.9996913075447083,
+      "box": [
+        125,
+        313,
+        482,
+        343
+      ]
+    },
+    {
+      "text": "- Directed patient care coordination",
+      "score": 0.9873256683349609,
+      "box": [
+        126,
+        339,
+        455,
+        368
+      ]
+    },
+    {
+      "text": "Registered Nurses, Sunrise Health Services, 2017.042019.07",
+      "score": 0.9804860949516296,
+      "box": [
+        118,
+        383,
+        698,
+        407
+      ]
+    },
+    {
+      "text": "- Managed pain control plans",
+      "score": 0.9985806345939636,
+      "box": [
+        124,
+        406,
+        400,
+        434
+      ]
+    },
+    {
+      "text": "- Monitored patient compliance",
+      "score": 0.9856056571006775,
+      "box": [
+        126,
+        430,
+        416,
+        458
+      ]
+    },
+    {
+      "text": "Registered Nurses, KindLife Care Center, 2013.072015.10",
+      "score": 0.9934511184692383,
+      "box": [
+        118,
+        473,
+        671,
+        497
+      ]
+    },
+    {
+      "text": "- Collected patient health histories",
+      "score": 0.9869401454925537,
+      "box": [
+        127,
+        497,
+        445,
+        523
+      ]
+    },
+    {
+      "text": "- Assisted with specimen labeling",
+      "score": 0.9806687235832214,
+      "box": [
+        127,
+        520,
+        438,
+        550
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.99994957447052,
+      "box": [
+        118,
+        588,
+        266,
+        612
+      ]
+    },
+    {
+      "text": "Bachelor's, Human Biology, Forestview University, 2003",
+      "score": 0.9926564693450928,
+      "box": [
+        117,
+        632,
+        635,
+        659
+      ]
+    },
+    {
+      "text": "•Studied principles of population health",
+      "score": 0.9861997365951538,
+      "box": [
+        129,
+        658,
+        499,
+        682
+      ]
+    },
+    {
+      "text": "•Studied fundamentals of data privacy",
+      "score": 0.9823821783065796,
+      "box": [
+        129,
+        680,
+        492,
+        710
+      ]
+    }
+  ],
+  "seconds": 3.96981929987669,
+  "id": "47795",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

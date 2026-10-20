@@ -1,0 +1,212 @@
+{
+  "lines": [
+    {
+      "text": "KARLY LIM",
+      "score": 0.9530211687088013,
+      "box": [
+        116,
+        89,
+        301,
+        122
+      ]
+    },
+    {
+      "text": "CA, USA | +1-814-882-4203 | karly.lim@example.com",
+      "score": 0.9835489988327026,
+      "box": [
+        116,
+        150,
+        618,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.992497980594635,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, OpenBook Accounting, 2020.05—2023.01",
+      "score": 0.9825292825698853,
+      "box": [
+        115,
+        288,
+        707,
+        318
+      ]
+    },
+    {
+      "text": "- Directed accounting training programs",
+      "score": 0.9856715202331543,
+      "box": [
+        126,
+        315,
+        494,
+        343
+      ]
+    },
+    {
+      "text": "- Led financial data standardization",
+      "score": 0.9931395053863525,
+      "box": [
+        128,
+        340,
+        453,
+        365
+      ]
+    },
+    {
+      "text": "Accountants Auditors, ClearCount Financial Group, 2017.09—2020.05",
+      "score": 0.9872667789459229,
+      "box": [
+        116,
+        382,
+        760,
+        409
+      ]
+    },
+    {
+      "text": "- Led audit programs",
+      "score": 0.9994164705276489,
+      "box": [
+        126,
+        406,
+        323,
+        434
+      ]
+    },
+    {
+      "text": "- Led financial data standardization",
+      "score": 0.9958969950675964,
+      "box": [
+        126,
+        431,
+        453,
+        456
+      ]
+    },
+    {
+      "text": "Accountants Auditors, FairBooks Financial, 2014.062017.02",
+      "score": 0.9902783036231995,
+      "box": [
+        117,
+        474,
+        684,
+        497
+      ]
+    },
+    {
+      "text": "- Prepared statutory filings",
+      "score": 0.9994283318519592,
+      "box": [
+        125,
+        497,
+        375,
+        526
+      ]
+    },
+    {
+      "text": "- Analyzed financial trends",
+      "score": 0.9909419417381287,
+      "box": [
+        127,
+        521,
+        374,
+        550
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Reliable Ledger Services, 2010.09—2013.05",
+      "score": 0.9930385947227478,
+      "box": [
+        118,
+        566,
+        732,
+        590
+      ]
+    },
+    {
+      "text": "- Reviewed expense classifications",
+      "score": 0.9825215339660645,
+      "box": [
+        126,
+        591,
+        453,
+        616
+      ]
+    },
+    {
+      "text": "- Processed journal corrections",
+      "score": 0.9861477017402649,
+      "box": [
+        125,
+        614,
+        419,
+        642
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9998637437820435,
+      "box": [
+        117,
+        681,
+        266,
+        705
+      ]
+    },
+    {
+      "text": "Master's, Enterprise Management, Summit University, 2008",
+      "score": 0.989048421382904,
+      "box": [
+        115,
+        723,
+        668,
+        750
+      ]
+    },
+    {
+      "text": "Bachelor's, Economics, Summit University, 2006",
+      "score": 0.9879180788993835,
+      "box": [
+        117,
+        749,
+        566,
+        773
+      ]
+    },
+    {
+      "text": "•Completed coursework in audit planning techniques",
+      "score": 0.9835975170135498,
+      "box": [
+        129,
+        773,
+        626,
+        801
+      ]
+    },
+    {
+      "text": "•Studied fundamentals of quantitative analysis",
+      "score": 0.9840571284294128,
+      "box": [
+        131,
+        799,
+        566,
+        825
+      ]
+    }
+  ],
+  "seconds": 3.1495425002649426,
+  "id": "08546",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

@@ -1,0 +1,112 @@
+{
+  "lines": [
+    {
+      "text": "ASIA WHITEHEAD",
+      "score": 0.9996427893638611,
+      "box": [
+        117,
+        91,
+        409,
+        122
+      ]
+    },
+    {
+      "text": "CA, USA | +1-539-697-2208 | asia.whitehead@example.com",
+      "score": 0.9845466017723083,
+      "box": [
+        117,
+        150,
+        680,
+        177
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9994038939476013,
+      "box": [
+        116,
+        243,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Registered Nurses, Caring Life Care, 2018.112021.11",
+      "score": 0.987032413482666,
+      "box": [
+        116,
+        289,
+        627,
+        316
+      ]
+    },
+    {
+      "text": "- Monitored patient dietary needs",
+      "score": 0.9929041862487793,
+      "box": [
+        124,
+        313,
+        435,
+        341
+      ]
+    },
+    {
+      "text": "- Recorded nursing notes",
+      "score": 0.9668131470680237,
+      "box": [
+        126,
+        339,
+        366,
+        368
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999110102653503,
+      "box": [
+        116,
+        404,
+        268,
+        431
+      ]
+    },
+    {
+      "text": "Associate's degree, Geriatric Care, Clearwood University, 2015",
+      "score": 0.99061518907547,
+      "box": [
+        117,
+        448,
+        703,
+        475
+      ]
+    },
+    {
+      "text": "• Completed coursework in immunization practices",
+      "score": 0.9826369881629944,
+      "box": [
+        131,
+        475,
+        601,
+        499
+      ]
+    },
+    {
+      "text": "Studied fundamentals of patient advocacy",
+      "score": 0.9939550161361694,
+      "box": [
+        131,
+        496,
+        537,
+        527
+      ]
+    }
+  ],
+  "seconds": 1.8734634998254478,
+  "id": "03174",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

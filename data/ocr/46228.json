@@ -1,0 +1,122 @@
+{
+  "lines": [
+    {
+      "text": "ASHLEY KELLER",
+      "score": 0.9996550679206848,
+      "box": [
+        116,
+        89,
+        397,
+        122
+      ]
+    },
+    {
+      "text": "PA, USA | +1-740-897-4782 | ashley.keller@example.com",
+      "score": 0.983879566192627,
+      "box": [
+        115,
+        149,
+        656,
+        177
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9997437000274658,
+      "box": [
+        117,
+        243,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Little Minds School, 2019.01—2021.02",
+      "score": 0.9769569635391235,
+      "box": [
+        118,
+        289,
+        811,
+        313
+      ]
+    },
+    {
+      "text": "- Distributed instructional handouts",
+      "score": 0.9985716938972473,
+      "box": [
+        125,
+        314,
+        451,
+        340
+      ]
+    },
+    {
+      "text": "- Maintained lesson documentation",
+      "score": 0.9974833130836487,
+      "box": [
+        126,
+        339,
+        453,
+        365
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999110102653503,
+      "box": [
+        116,
+        404,
+        268,
+        431
+      ]
+    },
+    {
+      "text": "Master's, Community Education, Riverstone University, 2017",
+      "score": 0.9930180907249451,
+      "box": [
+        116,
+        448,
+        680,
+        475
+      ]
+    },
+    {
+      "text": "Bachelor's, Learning Skills, Clearwood University, 2015",
+      "score": 0.9812206625938416,
+      "box": [
+        115,
+        472,
+        629,
+        500
+      ]
+    },
+    {
+      "text": "• Studied principles of lesson coherence",
+      "score": 0.9789351224899292,
+      "box": [
+        131,
+        500,
+        506,
+        524
+      ]
+    },
+    {
+      "text": "• Completed coursework in basic education law concepts",
+      "score": 0.9634689092636108,
+      "box": [
+        132,
+        522,
+        660,
+        550
+      ]
+    }
+  ],
+  "seconds": 2.170379400253296,
+  "id": "46228",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

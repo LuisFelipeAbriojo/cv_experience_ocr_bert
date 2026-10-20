@@ -1,0 +1,212 @@
+{
+  "lines": [
+    {
+      "text": "ARIEL YATES",
+      "score": 0.999657392501831,
+      "box": [
+        117,
+        91,
+        339,
+        122
+      ]
+    },
+    {
+      "text": "WA, USA | +1-561-941-3620 | ariel.yates@example.com",
+      "score": 0.9921174645423889,
+      "box": [
+        115,
+        150,
+        640,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9991946220397949,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Harmony Futures Academy, 2020.06—2023.0",
+      "score": 0.9861103892326355,
+      "box": [
+        117,
+        290,
+        880,
+        317
+      ]
+    },
+    {
+      "text": "- Designed learning analytics frameworks",
+      "score": 0.9979854822158813,
+      "box": [
+        126,
+        316,
+        509,
+        340
+      ]
+    },
+    {
+      "text": "- Led curriculum integration projects",
+      "score": 0.994646430015564,
+      "box": [
+        127,
+        340,
+        461,
+        368
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Golden Start Academy, 2017.112020.06",
+      "score": 0.9942927956581116,
+      "box": [
+        115,
+        379,
+        849,
+        411
+      ]
+    },
+    {
+      "text": "- Implemented assessment policy frameworks",
+      "score": 0.9993876218795776,
+      "box": [
+        125,
+        407,
+        553,
+        435
+      ]
+    },
+    {
+      "text": "- Directed instructional benchmarking",
+      "score": 0.98832106590271,
+      "box": [
+        125,
+        430,
+        474,
+        461
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Bright Futures Academy, 2015.042017.11",
+      "score": 0.9919047951698303,
+      "box": [
+        117,
+        472,
+        860,
+        499
+      ]
+    },
+    {
+      "text": "- Administered standardized assessments",
+      "score": 0.9963293671607971,
+      "box": [
+        126,
+        498,
+        517,
+        523
+      ]
+    },
+    {
+      "text": "- Implemented project-based learning activities",
+      "score": 0.9948504567146301,
+      "box": [
+        128,
+        521,
+        561,
+        551
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Kind Field School, 2012.09—2015.04",
+      "score": 0.9904465675354004,
+      "box": [
+        117,
+        565,
+        798,
+        589
+      ]
+    },
+    {
+      "text": "- Organized classroom learning resources",
+      "score": 0.9924136996269226,
+      "box": [
+        129,
+        593,
+        517,
+        616
+      ]
+    },
+    {
+      "text": "- Conducted reading practice sessions",
+      "score": 0.997216522693634,
+      "box": [
+        127,
+        614,
+        485,
+        643
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999388456344604,
+      "box": [
+        117,
+        681,
+        266,
+        705
+      ]
+    },
+    {
+      "text": "Master's, Instructional Studies, Skycrest University, 2015",
+      "score": 0.9878957271575928,
+      "box": [
+        115,
+        723,
+        644,
+        750
+      ]
+    },
+    {
+      "text": "Bachelor's, General Studies, Westview University, 2013",
+      "score": 0.9898787140846252,
+      "box": [
+        117,
+        750,
+        633,
+        774
+      ]
+    },
+    {
+      "text": "•Studied fundamentals of special education awareness",
+      "score": 0.9886072874069214,
+      "box": [
+        129,
+        773,
+        648,
+        801
+      ]
+    },
+    {
+      "text": "•Completed coursework in student motivation concepts",
+      "score": 0.987951397895813,
+      "box": [
+        132,
+        798,
+        648,
+        827
+      ]
+    }
+  ],
+  "seconds": 3.206759999971837,
+  "id": "59512",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

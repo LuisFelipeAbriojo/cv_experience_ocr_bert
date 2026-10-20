@@ -1,0 +1,202 @@
+{
+  "lines": [
+    {
+      "text": "JOSHUA CHAN",
+      "score": 0.99923175573349,
+      "box": [
+        116,
+        91,
+        363,
+        122
+      ]
+    },
+    {
+      "text": "TX, USA | +1-404-609-6418 | joshua.chan@example.com",
+      "score": 0.985211193561554,
+      "box": [
+        117,
+        151,
+        650,
+        177
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.998986005783081,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Datastream Digital, 2020.02—2023.01",
+      "score": 0.9900789856910706,
+      "box": [
+        114,
+        288,
+        668,
+        319
+      ]
+    },
+    {
+      "text": "- Designed configuration management systems",
+      "score": 0.9941067099571228,
+      "box": [
+        127,
+        315,
+        566,
+        344
+      ]
+    },
+    {
+      "text": "- Designed data storage strategies",
+      "score": 0.9985128045082092,
+      "box": [
+        127,
+        340,
+        450,
+        369
+      ]
+    },
+    {
+      "text": "Software Developers, Corestack Digital, 2017.022020.02",
+      "score": 0.9998787641525269,
+      "box": [
+        116,
+        381,
+        655,
+        410
+      ]
+    },
+    {
+      "text": "- Led cross-team technical alignment",
+      "score": 0.984553873538971,
+      "box": [
+        128,
+        409,
+        471,
+        433
+      ]
+    },
+    {
+      "text": "- Built distributed systems",
+      "score": 0.9853129386901855,
+      "box": [
+        127,
+        432,
+        367,
+        460
+      ]
+    },
+    {
+      "text": "Software Developers, Skybridge Labs, 2013.082016.08",
+      "score": 0.9917721748352051,
+      "box": [
+        118,
+        474,
+        639,
+        498
+      ]
+    },
+    {
+      "text": "- Designed application modules",
+      "score": 0.9970035552978516,
+      "box": [
+        128,
+        500,
+        421,
+        524
+      ]
+    },
+    {
+      "text": "- Integrated monitoring tools",
+      "score": 0.9939407110214233,
+      "box": [
+        128,
+        522,
+        390,
+        551
+      ]
+    },
+    {
+      "text": "Software Developers, Netwave Labs, 2009.05—2012.05",
+      "score": 0.9932737946510315,
+      "box": [
+        117,
+        566,
+        628,
+        590
+      ]
+    },
+    {
+      "text": "- Updated documentation for implemented features",
+      "score": 0.9899446368217468,
+      "box": [
+        128,
+        590,
+        602,
+        618
+      ]
+    },
+    {
+      "text": "- Performed basic performance profiling",
+      "score": 0.9925755262374878,
+      "box": [
+        128,
+        613,
+        496,
+        644
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9998959302902222,
+      "box": [
+        117,
+        681,
+        266,
+        705
+      ]
+    },
+    {
+      "text": "Bachelor's, Elmwood Ridge University, 2004",
+      "score": 0.9824448823928833,
+      "box": [
+        115,
+        723,
+        529,
+        750
+      ]
+    },
+    {
+      "text": "• Completed coursework in calculus for computing",
+      "score": 0.971259355545044,
+      "box": [
+        132,
+        748,
+        598,
+        777
+      ]
+    },
+    {
+      "text": "•Completed coursework in stream processing basics",
+      "score": 0.9899206161499023,
+      "box": [
+        132,
+        772,
+        625,
+        802
+      ]
+    }
+  ],
+  "seconds": 2.753832899965346,
+  "id": "50414",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

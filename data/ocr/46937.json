@@ -1,0 +1,132 @@
+{
+  "lines": [
+    {
+      "text": "STEPHEN SUMMERS",
+      "score": 0.9995092153549194,
+      "box": [
+        117,
+        91,
+        454,
+        122
+      ]
+    },
+    {
+      "text": "PA, USA | +1-783-407-6881 | stephen.summers@example.com",
+      "score": 0.975692868232727,
+      "box": [
+        118,
+        152,
+        704,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9991436004638672,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, Reliable Works, 2021.032023.01",
+      "score": 0.9976423978805542,
+      "box": [
+        118,
+        290,
+        646,
+        314
+      ]
+    },
+    {
+      "text": "- Developed construction standards",
+      "score": 0.9984089136123657,
+      "box": [
+        128,
+        316,
+        457,
+        340
+      ]
+    },
+    {
+      "text": "- Implemented safety compliance strategies",
+      "score": 0.9939160943031311,
+      "box": [
+        127,
+        339,
+        532,
+        369
+      ]
+    },
+    {
+      "text": "Construction Laborers, SteadyFrame Builders, 2018.042020.02",
+      "score": 0.9775566458702087,
+      "box": [
+        116,
+        380,
+        716,
+        408
+      ]
+    },
+    {
+      "text": "- Secured site fencing",
+      "score": 0.9501256942749023,
+      "box": [
+        123,
+        403,
+        332,
+        435
+      ]
+    },
+    {
+      "text": "- Installed basic formwork",
+      "score": 0.9955809116363525,
+      "box": [
+        127,
+        434,
+        365,
+        454
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999908447265625,
+      "box": [
+        117,
+        494,
+        267,
+        521
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Construction Estimating, Stone Valley High School, 1997",
+      "score": 0.9849501252174377,
+      "box": [
+        116,
+        539,
+        902,
+        567
+      ]
+    },
+    {
+      "text": "• Completed coursework in structural reinforcement methods",
+      "score": 0.9919876456260681,
+      "box": [
+        135,
+        567,
+        694,
+        591
+      ]
+    }
+  ],
+  "seconds": 2.2944475999101996,
+  "id": "46937",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

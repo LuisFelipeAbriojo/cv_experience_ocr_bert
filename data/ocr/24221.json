@@ -1,0 +1,122 @@
+{
+  "lines": [
+    {
+      "text": "MICHELLE FINLEY",
+      "score": 0.98360675573349,
+      "box": [
+        118,
+        91,
+        417,
+        121
+      ]
+    },
+    {
+      "text": "MD, USA | +1-779-440-4295 | michelle.finley@example.com",
+      "score": 0.9758619070053101,
+      "box": [
+        115,
+        149,
+        675,
+        177
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9997195601463318,
+      "box": [
+        117,
+        243,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Open Horizons School, 2020.042022.07",
+      "score": 0.9906859993934631,
+      "box": [
+        117,
+        289,
+        847,
+        316
+      ]
+    },
+    {
+      "text": "- Supervised transitions between lessons",
+      "score": 0.9876798391342163,
+      "box": [
+        127,
+        316,
+        509,
+        340
+      ]
+    },
+    {
+      "text": "- Tracked student participation",
+      "score": 0.997146725654602,
+      "box": [
+        127,
+        338,
+        411,
+        368
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999502897262573,
+      "box": [
+        116,
+        404,
+        268,
+        431
+      ]
+    },
+    {
+      "text": "Master's, Educational Foundations, Driftwood University, 2014",
+      "score": 0.9797660708427429,
+      "box": [
+        116,
+        449,
+        692,
+        473
+      ]
+    },
+    {
+      "text": "Bachelor's, Child Development, Maple Ridge University, 2012",
+      "score": 0.9911320805549622,
+      "box": [
+        115,
+        472,
+        689,
+        500
+      ]
+    },
+    {
+      "text": "•Studied fundamentals of reading comprehension strategies",
+      "score": 0.992768406867981,
+      "box": [
+        128,
+        498,
+        693,
+        526
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of instructional objectives",
+      "score": 0.9818317294120789,
+      "box": [
+        133,
+        522,
+        590,
+        549
+      ]
+    }
+  ],
+  "seconds": 2.25885030021891,
+  "id": "24221",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

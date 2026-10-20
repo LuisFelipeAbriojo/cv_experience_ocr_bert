@@ -1,0 +1,172 @@
+{
+  "lines": [
+    {
+      "text": "DARRICK WEBSTER",
+      "score": 0.9992547631263733,
+      "box": [
+        117,
+        90,
+        448,
+        122
+      ]
+    },
+    {
+      "text": "CA, USA | +1-286-959-5332 | darrick.webster@example.com",
+      "score": 0.9871408343315125,
+      "box": [
+        118,
+        152,
+        682,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9988424181938171,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Corefield Labs, 2020.092023.01",
+      "score": 0.9859492778778076,
+      "box": [
+        117,
+        291,
+        629,
+        315
+      ]
+    },
+    {
+      "text": "- Implemented security architectures",
+      "score": 0.9918515086174011,
+      "box": [
+        127,
+        314,
+        466,
+        343
+      ]
+    },
+    {
+      "text": "- Designed observability platforms",
+      "score": 0.985028088092804,
+      "box": [
+        128,
+        339,
+        444,
+        368
+      ]
+    },
+    {
+      "text": "Software Developers, Openfield Labs, 2018.052020.09",
+      "score": 0.9998725652694702,
+      "box": [
+        116,
+        382,
+        636,
+        409
+      ]
+    },
+    {
+      "text": "- Built frontend components",
+      "score": 0.9976376295089722,
+      "box": [
+        125,
+        407,
+        385,
+        433
+      ]
+    },
+    {
+      "text": "- Improved API performance",
+      "score": 0.9897580742835999,
+      "box": [
+        127,
+        431,
+        393,
+        460
+      ]
+    },
+    {
+      "text": "Software Developers, Bluepoint Digital, 2013.082015.12",
+      "score": 0.984324038028717,
+      "box": [
+        117,
+        472,
+        649,
+        499
+      ]
+    },
+    {
+      "text": "- Implemented error handling logic",
+      "score": 0.9635342955589294,
+      "box": [
+        125,
+        495,
+        448,
+        526
+      ]
+    },
+    {
+      "text": "- Wrote utility scripts",
+      "score": 0.993203341960907,
+      "box": [
+        126,
+        520,
+        318,
+        551
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9998610019683838,
+      "box": [
+        117,
+        587,
+        267,
+        614
+      ]
+    },
+    {
+      "text": "Bachelor's, Fairhill University, 2002",
+      "score": 0.9892004132270813,
+      "box": [
+        118,
+        632,
+        442,
+        656
+      ]
+    },
+    {
+      "text": "•Studied principles of test-driven development",
+      "score": 0.9941889047622681,
+      "box": [
+        129,
+        658,
+        566,
+        685
+      ]
+    },
+    {
+      "text": "•Studied fundamentals of build systems",
+      "score": 0.9900771975517273,
+      "box": [
+        130,
+        682,
+        505,
+        708
+      ]
+    }
+  ],
+  "seconds": 2.327439600136131,
+  "id": "03323",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

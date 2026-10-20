@@ -1,0 +1,112 @@
+{
+  "lines": [
+    {
+      "text": "HAYLEY GLENN",
+      "score": 0.9997153282165527,
+      "box": [
+        115,
+        87,
+        380,
+        123
+      ]
+    },
+    {
+      "text": "WI, USA | +1-912-918-1827 | hayley.glenn@example.com",
+      "score": 0.9952603578567505,
+      "box": [
+        116,
+        149,
+        655,
+        177
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9993433952331543,
+      "box": [
+        116,
+        243,
+        317,
+        270
+      ]
+    },
+    {
+      "text": "Registered Nurses, GentleHands Nursing, 2019.05—2022.04",
+      "score": 0.9927574992179871,
+      "box": [
+        115,
+        287,
+        676,
+        315
+      ]
+    },
+    {
+      "text": "- Recorded medication administration times",
+      "score": 0.9920099377632141,
+      "box": [
+        124,
+        312,
+        532,
+        341
+      ]
+    },
+    {
+      "text": "- Recorded patient weight and height",
+      "score": 0.983474850654602,
+      "box": [
+        127,
+        340,
+        471,
+        366
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999145865440369,
+      "box": [
+        116,
+        404,
+        268,
+        431
+      ]
+    },
+    {
+      "text": "Associate's degree, Health Services Administration, Crestline University, 2016",
+      "score": 0.9914968609809875,
+      "box": [
+        117,
+        447,
+        839,
+        474
+      ]
+    },
+    {
+      "text": "•Studied principles of patient safety",
+      "score": 0.9729459881782532,
+      "box": [
+        131,
+        475,
+        467,
+        499
+      ]
+    },
+    {
+      "text": "Completed coursework in diagnostic testing basics",
+      "score": 0.9838994741439819,
+      "box": [
+        132,
+        497,
+        616,
+        525
+      ]
+    }
+  ],
+  "seconds": 2.037889600265771,
+  "id": "60451",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

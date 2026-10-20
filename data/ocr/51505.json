@@ -1,0 +1,142 @@
+{
+  "lines": [
+    {
+      "text": "DANIEL LYNCH",
+      "score": 0.9955065846443176,
+      "box": [
+        118,
+        91,
+        367,
+        122
+      ]
+    },
+    {
+      "text": "TX, USA | +1-395-934-2320 | daniel.lynch@example.com",
+      "score": 0.987777590751648,
+      "box": [
+        117,
+        149,
+        648,
+        177
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9997286796569824,
+      "box": [
+        117,
+        243,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Software Developers, Cloudstack Digital, 2021.04—2023.01",
+      "score": 0.9925022721290588,
+      "box": [
+        115,
+        288,
+        662,
+        316
+      ]
+    },
+    {
+      "text": "- Defined quality assurance frameworks",
+      "score": 0.9994929432868958,
+      "box": [
+        125,
+        314,
+        496,
+        342
+      ]
+    },
+    {
+      "text": "- Defined scalability roadmaps",
+      "score": 0.9829692244529724,
+      "box": [
+        127,
+        339,
+        410,
+        368
+      ]
+    },
+    {
+      "text": "Software Developers, Flowline Tech, 2016.11—2018.08",
+      "score": 0.9845750331878662,
+      "box": [
+        115,
+        380,
+        626,
+        408
+      ]
+    },
+    {
+      "text": "- Handled file uploads",
+      "score": 0.9845648407936096,
+      "box": [
+        124,
+        405,
+        333,
+        434
+      ]
+    },
+    {
+      "text": "- Resolved merge conflicts",
+      "score": 0.9873679280281067,
+      "box": [
+        125,
+        429,
+        376,
+        460
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999030232429504,
+      "box": [
+        116,
+        494,
+        268,
+        521
+      ]
+    },
+    {
+      "text": "Associate's degree, Northway University, 2008",
+      "score": 0.9780184626579285,
+      "box": [
+        117,
+        540,
+        549,
+        567
+      ]
+    },
+    {
+      "text": "•Studied principles of distributed systems",
+      "score": 0.9826020002365112,
+      "box": [
+        130,
+        567,
+        521,
+        591
+      ]
+    },
+    {
+      "text": "Studied principles of performance optimization",
+      "score": 0.999316930770874,
+      "box": [
+        130,
+        590,
+        577,
+        618
+      ]
+    }
+  ],
+  "seconds": 2.3397107999771833,
+  "id": "51505",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

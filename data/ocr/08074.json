@@ -1,0 +1,152 @@
+{
+  "lines": [
+    {
+      "text": "AMANDA HUYNH",
+      "score": 0.9997722506523132,
+      "box": [
+        118,
+        92,
+        395,
+        122
+      ]
+    },
+    {
+      "text": "CA, USA | +1-318-949-8818 | amanda.huynh@example.com",
+      "score": 0.9863344430923462,
+      "box": [
+        116,
+        150,
+        678,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.998914897441864,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Codepath Labs, 2020.03—2023.01",
+      "score": 0.9924395680427551,
+      "box": [
+        115,
+        288,
+        637,
+        316
+      ]
+    },
+    {
+      "text": "- Designed caching infrastructures",
+      "score": 0.9989518523216248,
+      "box": [
+        127,
+        314,
+        447,
+        343
+      ]
+    },
+    {
+      "text": "- Defined data governance policies",
+      "score": 0.9886761903762817,
+      "box": [
+        127,
+        340,
+        451,
+        368
+      ]
+    },
+    {
+      "text": "Software Developers, Clearwave Systems, 2017.042020.03",
+      "score": 0.9898532032966614,
+      "box": [
+        117,
+        382,
+        681,
+        409
+      ]
+    },
+    {
+      "text": "- Maintained code repositories",
+      "score": 0.9704608917236328,
+      "box": [
+        126,
+        406,
+        410,
+        434
+      ]
+    },
+    {
+      "text": "- Updated frontend stylesheets",
+      "score": 0.9961198568344116,
+      "box": [
+        129,
+        433,
+        414,
+        459
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999396800994873,
+      "box": [
+        116,
+        494,
+        267,
+        521
+      ]
+    },
+    {
+      "text": "Master's, Cedarfield University, 2016",
+      "score": 0.9916858077049255,
+      "box": [
+        114,
+        539,
+        459,
+        567
+      ]
+    },
+    {
+      "text": "Bachelor's, Goldenwood University, 2014",
+      "score": 0.9941311478614807,
+      "box": [
+        117,
+        567,
+        499,
+        591
+      ]
+    },
+    {
+      "text": "Completed coursework in query performance tuning",
+      "score": 0.9968819618225098,
+      "box": [
+        129,
+        589,
+        628,
+        621
+      ]
+    },
+    {
+      "text": "Completed coursework in layered architecture",
+      "score": 0.9815652370452881,
+      "box": [
+        131,
+        613,
+        574,
+        645
+      ]
+    }
+  ],
+  "seconds": 2.2355903000570834,
+  "id": "08074",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

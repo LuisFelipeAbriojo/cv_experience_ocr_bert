@@ -1,0 +1,112 @@
+{
+  "lines": [
+    {
+      "text": "SARAH DAVID",
+      "score": 0.9968137741088867,
+      "box": [
+        116,
+        89,
+        351,
+        123
+      ]
+    },
+    {
+      "text": "VT, USA | +1-360-789-3558 | sarah.david@example.com",
+      "score": 0.9951338171958923,
+      "box": [
+        116,
+        149,
+        647,
+        177
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9997712969779968,
+      "box": [
+        117,
+        243,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Growing Path Academy, 2019.09—2022.04",
+      "score": 0.9857590794563293,
+      "box": [
+        116,
+        287,
+        857,
+        315
+      ]
+    },
+    {
+      "text": "- Provided math drill exercises",
+      "score": 0.9980574250221252,
+      "box": [
+        125,
+        313,
+        410,
+        340
+      ]
+    },
+    {
+      "text": "- Supported art instruction",
+      "score": 0.9897242188453674,
+      "box": [
+        126,
+        338,
+        371,
+        367
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.99992436170578,
+      "box": [
+        116,
+        404,
+        268,
+        431
+      ]
+    },
+    {
+      "text": "Bachelor's, Instructional Studies, Forestview University, 2013",
+      "score": 0.9891027212142944,
+      "box": [
+        115,
+        446,
+        682,
+        474
+      ]
+    },
+    {
+      "text": "•Completed coursework in early literacy instruction",
+      "score": 0.9916662573814392,
+      "box": [
+        130,
+        473,
+        608,
+        499
+      ]
+    },
+    {
+      "text": "Studied principles of lesson coherence",
+      "score": 0.9988954663276672,
+      "box": [
+        132,
+        497,
+        507,
+        525
+      ]
+    }
+  ],
+  "seconds": 2.03667620010674,
+  "id": "55855",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

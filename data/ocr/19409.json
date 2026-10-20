@@ -1,0 +1,112 @@
+{
+  "lines": [
+    {
+      "text": "TIFFANY SPARKS",
+      "score": 0.9929835200309753,
+      "box": [
+        115,
+        87,
+        408,
+        123
+      ]
+    },
+    {
+      "text": "IL, USA | +1-362-788-3043 | tiffany.sparks@example.com",
+      "score": 0.9951451420783997,
+      "box": [
+        117,
+        150,
+        652,
+        177
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9997186064720154,
+      "box": [
+        117,
+        243,
+        317,
+        270
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Integrity Balance Financial, 2021.08—2023.01",
+      "score": 0.986041784286499,
+      "box": [
+        114,
+        286,
+        745,
+        317
+      ]
+    },
+    {
+      "text": "- Assisted with forecasting data",
+      "score": 0.9887198209762573,
+      "box": [
+        125,
+        314,
+        419,
+        340
+      ]
+    },
+    {
+      "text": "- Processed accounts receivable transactions",
+      "score": 0.9975437521934509,
+      "box": [
+        127,
+        339,
+        549,
+        365
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999529719352722,
+      "box": [
+        116,
+        404,
+        268,
+        431
+      ]
+    },
+    {
+      "text": "Bachelor's, Auditing, Meadowridge Valley University, 2022",
+      "score": 0.9948844909667969,
+      "box": [
+        116,
+        448,
+        656,
+        475
+      ]
+    },
+    {
+      "text": "• Completed coursework in financial disclosure",
+      "score": 0.9914419651031494,
+      "box": [
+        131,
+        475,
+        566,
+        498
+      ]
+    },
+    {
+      "text": "Studied principles of social responsibility reporting",
+      "score": 0.9968438148498535,
+      "box": [
+        131,
+        497,
+        610,
+        527
+      ]
+    }
+  ],
+  "seconds": 1.9967012000270188,
+  "id": "19409",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

@@ -1,0 +1,112 @@
+{
+  "lines": [
+    {
+      "text": "DUSTIN CROSBY",
+      "score": 0.9998392462730408,
+      "box": [
+        116,
+        87,
+        395,
+        123
+      ]
+    },
+    {
+      "text": "SC, USA | +1-939-439-8584 | dustin.crosby@example.com",
+      "score": 0.9870660305023193,
+      "box": [
+        116,
+        149,
+        664,
+        177
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9994683265686035,
+      "box": [
+        116,
+        243,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Construction Laborers, EverRise Construction, 2022.04—2023.01",
+      "score": 0.9959796071052551,
+      "box": [
+        118,
+        289,
+        714,
+        313
+      ]
+    },
+    {
+      "text": "- Installed basic formwork",
+      "score": 0.989018440246582,
+      "box": [
+        126,
+        315,
+        368,
+        339
+      ]
+    },
+    {
+      "text": "- Assisted with concrete pouring",
+      "score": 0.9861317873001099,
+      "box": [
+        126,
+        337,
+        426,
+        368
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999421238899231,
+      "box": [
+        116,
+        404,
+        268,
+        431
+      ]
+    },
+    {
+      "text": "Some college (no degree), Concrete Technology, Crestview University, 2023",
+      "score": 0.9841253161430359,
+      "box": [
+        116,
+        446,
+        827,
+        476
+      ]
+    },
+    {
+      "text": "• Completed coursework in construction mathematics",
+      "score": 0.9814941883087158,
+      "box": [
+        132,
+        474,
+        626,
+        498
+      ]
+    },
+    {
+      "text": "Studied principles of emergency procedures",
+      "score": 0.9881774187088013,
+      "box": [
+        132,
+        497,
+        557,
+        526
+      ]
+    }
+  ],
+  "seconds": 1.9929479998536408,
+  "id": "47204",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

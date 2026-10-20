@@ -1,0 +1,182 @@
+{
+  "lines": [
+    {
+      "text": "BARNEY SINGH",
+      "score": 0.9995262622833252,
+      "box": [
+        116,
+        89,
+        374,
+        122
+      ]
+    },
+    {
+      "text": "CA, USA | +1-770-638-9167 | barney.singh@example.com",
+      "score": 0.9915152192115784,
+      "box": [
+        116,
+        150,
+        660,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9985249042510986,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Skycore Technologies, 2020.03—2023.01",
+      "score": 0.9893034100532532,
+      "box": [
+        116,
+        290,
+        701,
+        317
+      ]
+    },
+    {
+      "text": "- Defined quality assurance frameworks",
+      "score": 0.9845718741416931,
+      "box": [
+        127,
+        314,
+        495,
+        342
+      ]
+    },
+    {
+      "text": "- Implemented disaster recovery plans",
+      "score": 0.9837793111801147,
+      "box": [
+        127,
+        339,
+        483,
+        370
+      ]
+    },
+    {
+      "text": "Software Developers, Corestack Tech, 2016.102019.08",
+      "score": 0.9999186396598816,
+      "box": [
+        116,
+        382,
+        643,
+        409
+      ]
+    },
+    {
+      "text": "- Developed RESTful APIs",
+      "score": 0.9901002049446106,
+      "box": [
+        127,
+        408,
+        375,
+        432
+      ]
+    },
+    {
+      "text": "- Built notification systems",
+      "score": 0.9764834642410278,
+      "box": [
+        127,
+        431,
+        370,
+        460
+      ]
+    },
+    {
+      "text": "Software Developers, Clearstone Systems, 2013.032016.01",
+      "score": 0.9929640293121338,
+      "box": [
+        117,
+        472,
+        680,
+        499
+      ]
+    },
+    {
+      "text": "- Implemented basic features in existing codebases",
+      "score": 0.9870283007621765,
+      "box": [
+        127,
+        498,
+        604,
+        524
+      ]
+    },
+    {
+      "text": "- Assisted with container setup",
+      "score": 0.9979669451713562,
+      "box": [
+        127,
+        520,
+        415,
+        551
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9998534321784973,
+      "box": [
+        117,
+        587,
+        267,
+        614
+      ]
+    },
+    {
+      "text": "Master's, Cedarview University, 2011",
+      "score": 0.9978073835372925,
+      "box": [
+        115,
+        630,
+        461,
+        658
+      ]
+    },
+    {
+      "text": "Bachelor's, Windfield University, 2009",
+      "score": 0.9908716082572937,
+      "box": [
+        116,
+        657,
+        467,
+        684
+      ]
+    },
+    {
+      "text": "• Completed coursework in microprocessor programming",
+      "score": 0.9841878414154053,
+      "box": [
+        130,
+        682,
+        660,
+        711
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of programming in Java",
+      "score": 0.9727761745452881,
+      "box": [
+        131,
+        705,
+        576,
+        736
+      ]
+    }
+  ],
+  "seconds": 2.5918616000562906,
+  "id": "03478",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

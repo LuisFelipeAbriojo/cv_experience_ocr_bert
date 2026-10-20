@@ -1,0 +1,152 @@
+{
+  "lines": [
+    {
+      "text": "DANIEL WILLIAMSON",
+      "score": 0.9970901608467102,
+      "box": [
+        118,
+        92,
+        465,
+        122
+      ]
+    },
+    {
+      "text": "CO, USA | +1-555-534-9478 | daniel.williamson@example.com",
+      "score": 0.9886016845703125,
+      "box": [
+        118,
+        152,
+        700,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9990899562835693,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Integrity Books Group, 2020.09—2023.01",
+      "score": 0.9803187251091003,
+      "box": [
+        114,
+        287,
+        701,
+        318
+      ]
+    },
+    {
+      "text": "- Designed accounting frameworks",
+      "score": 0.9922497272491455,
+      "box": [
+        125,
+        314,
+        451,
+        342
+      ]
+    },
+    {
+      "text": "- Established compliance monitoring systems",
+      "score": 0.997715950012207,
+      "box": [
+        127,
+        339,
+        547,
+        368
+      ]
+    },
+    {
+      "text": "Accountants Auditors, SolidCount Financial Group, 2018.04—2020.09",
+      "score": 0.9872273206710815,
+      "box": [
+        117,
+        382,
+        756,
+        409
+      ]
+    },
+    {
+      "text": "- Reviewed credit memos",
+      "score": 0.9958729147911072,
+      "box": [
+        125,
+        406,
+        366,
+        433
+      ]
+    },
+    {
+      "text": "- Reviewed ledger postings",
+      "score": 0.9945638179779053,
+      "box": [
+        126,
+        430,
+        382,
+        461
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999228715896606,
+      "box": [
+        116,
+        494,
+        267,
+        521
+      ]
+    },
+    {
+      "text": "Master's, Economic Studies, Aspen Grove University, 2016",
+      "score": 0.9886645078659058,
+      "box": [
+        114,
+        539,
+        664,
+        567
+      ]
+    },
+    {
+      "text": "Bachelor's, Auditing, Fairhill University, 2014",
+      "score": 0.9780969023704529,
+      "box": [
+        116,
+        566,
+        530,
+        592
+      ]
+    },
+    {
+      "text": "•Studied principles of revenue recognition",
+      "score": 0.9853168725967407,
+      "box": [
+        129,
+        592,
+        526,
+        619
+      ]
+    },
+    {
+      "text": "Studied principles of microeconomics",
+      "score": 0.9905332922935486,
+      "box": [
+        129,
+        615,
+        493,
+        643
+      ]
+    }
+  ],
+  "seconds": 2.3223748998716474,
+  "id": "09938",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

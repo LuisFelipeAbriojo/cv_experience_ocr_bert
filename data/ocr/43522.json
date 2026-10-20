@@ -1,0 +1,182 @@
+{
+  "lines": [
+    {
+      "text": "ELANA MILLER",
+      "score": 0.9998089671134949,
+      "box": [
+        117,
+        89,
+        366,
+        122
+      ]
+    },
+    {
+      "text": "OK, USA | +1-846-808-2232 | elana.miller@example.com",
+      "score": 0.9955793619155884,
+      "box": [
+        116,
+        150,
+        648,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9991675019264221,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, CoreBalance Advisors, 2020.072023.01",
+      "score": 0.9985473155975342,
+      "box": [
+        117,
+        290,
+        704,
+        314
+      ]
+    },
+    {
+      "text": "- Directed accounting training programs",
+      "score": 0.9866354465484619,
+      "box": [
+        125,
+        314,
+        495,
+        343
+      ]
+    },
+    {
+      "text": "- Directed accounting operations planning",
+      "score": 0.9920922517776489,
+      "box": [
+        127,
+        340,
+        514,
+        369
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Fairview Financial Services, 2017.12—2020.07",
+      "score": 0.9890773892402649,
+      "box": [
+        117,
+        382,
+        754,
+        409
+      ]
+    },
+    {
+      "text": "- Supervised junior accountants",
+      "score": 0.9993651509284973,
+      "box": [
+        125,
+        408,
+        422,
+        433
+      ]
+    },
+    {
+      "text": "- Managed accounts receivable cycles",
+      "score": 0.9948660731315613,
+      "box": [
+        127,
+        433,
+        484,
+        459
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Accurate Ledger Services, 2013.112016.06",
+      "score": 0.999224841594696,
+      "box": [
+        116,
+        472,
+        739,
+        499
+      ]
+    },
+    {
+      "text": "- Assisted with internal control testing",
+      "score": 0.9707881808280945,
+      "box": [
+        125,
+        495,
+        474,
+        526
+      ]
+    },
+    {
+      "text": "- Updated fixed asset registers",
+      "score": 0.9909480810165405,
+      "box": [
+        128,
+        521,
+        414,
+        551
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.99991375207901,
+      "box": [
+        117,
+        587,
+        267,
+        614
+      ]
+    },
+    {
+      "text": "Master's, Enterprise Management, Canyon View University, 2005",
+      "score": 0.9765498638153076,
+      "box": [
+        116,
+        631,
+        719,
+        658
+      ]
+    },
+    {
+      "text": "Bachelor's, Commerce, Willowstone University, 2003",
+      "score": 0.9894468188285828,
+      "box": [
+        117,
+        659,
+        608,
+        683
+      ]
+    },
+    {
+      "text": "•Studied principles of managerial accounting",
+      "score": 0.9831175208091736,
+      "box": [
+        130,
+        682,
+        553,
+        710
+      ]
+    },
+    {
+      "text": "•Completed coursework in financial accounting",
+      "score": 0.9821682572364807,
+      "box": [
+        131,
+        706,
+        573,
+        735
+      ]
+    }
+  ],
+  "seconds": 2.7543615996837616,
+  "id": "43522",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

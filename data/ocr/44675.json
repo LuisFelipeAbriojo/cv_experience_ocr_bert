@@ -1,0 +1,112 @@
+{
+  "lines": [
+    {
+      "text": "JAMESON SILVA",
+      "score": 0.9998770356178284,
+      "box": [
+        116,
+        91,
+        391,
+        122
+      ]
+    },
+    {
+      "text": "PA, USA | +1-815-301-4179 | jameson.silva@example.com",
+      "score": 0.9821011424064636,
+      "box": [
+        115,
+        149,
+        666,
+        177
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9997474551200867,
+      "box": [
+        117,
+        243,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Software Developers, Corewave Labs, 2022.10—2023.01",
+      "score": 0.9902084469795227,
+      "box": [
+        116,
+        289,
+        640,
+        316
+      ]
+    },
+    {
+      "text": "- Logged and tracked software defects",
+      "score": 0.9789249300956726,
+      "box": [
+        129,
+        316,
+        485,
+        340
+      ]
+    },
+    {
+      "text": "- Implemented basic features in existing codebases",
+      "score": 0.9996044039726257,
+      "box": [
+        128,
+        338,
+        605,
+        368
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999497532844543,
+      "box": [
+        116,
+        404,
+        268,
+        431
+      ]
+    },
+    {
+      "text": "Some college (no degree), Greenfield Ridge University, 2023",
+      "score": 0.9927818179130554,
+      "box": [
+        115,
+        445,
+        682,
+        476
+      ]
+    },
+    {
+      "text": "• Completed coursework in database systems",
+      "score": 0.9732339978218079,
+      "box": [
+        132,
+        475,
+        557,
+        499
+      ]
+    },
+    {
+      "text": "Studied principles of software development",
+      "score": 0.9935482740402222,
+      "box": [
+        132,
+        497,
+        549,
+        526
+      ]
+    }
+  ],
+  "seconds": 2.076517399866134,
+  "id": "44675",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

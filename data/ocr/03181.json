@@ -1,0 +1,202 @@
+{
+  "lines": [
+    {
+      "text": "JUSTIN AHMED",
+      "score": 0.9998311400413513,
+      "box": [
+        115,
+        90,
+        368,
+        122
+      ]
+    },
+    {
+      "text": "CA, USA | +1-219-456-3413 | justin.ahmed@example.com",
+      "score": 0.9960967302322388,
+      "box": [
+        116,
+        150,
+        659,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.992497980594635,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Netfield Software, 2020.06—2023.01",
+      "score": 0.9952811598777771,
+      "box": [
+        116,
+        290,
+        654,
+        317
+      ]
+    },
+    {
+      "text": "- Designed software development workflows",
+      "score": 0.998818576335907,
+      "box": [
+        128,
+        316,
+        536,
+        340
+      ]
+    },
+    {
+      "text": "- Led refactoring initiatives",
+      "score": 0.9971063733100891,
+      "box": [
+        128,
+        340,
+        374,
+        369
+      ]
+    },
+    {
+      "text": "Software Developers, Brightstream Labs, 2017.112020.06",
+      "score": 0.9928724765777588,
+      "box": [
+        116,
+        381,
+        666,
+        409
+      ]
+    },
+    {
+      "text": "- Defined technical documentation standards",
+      "score": 0.9882750511169434,
+      "box": [
+        127,
+        409,
+        542,
+        432
+      ]
+    },
+    {
+      "text": "- Implemented performance optimization plans",
+      "score": 0.9861457943916321,
+      "box": [
+        130,
+        435,
+        558,
+        458
+      ]
+    },
+    {
+      "text": "Software Developers, Netstream Software, 2014.102017.05",
+      "score": 0.9925554394721985,
+      "box": [
+        116,
+        471,
+        682,
+        499
+      ]
+    },
+    {
+      "text": "- Improved memory usage",
+      "score": 0.9994233250617981,
+      "box": [
+        125,
+        497,
+        375,
+        526
+      ]
+    },
+    {
+      "text": "- Designed API contracts",
+      "score": 0.9930470585823059,
+      "box": [
+        127,
+        521,
+        362,
+        550
+      ]
+    },
+    {
+      "text": "Software Developers, Silverstack Solutions, 2011.042013.11",
+      "score": 0.9990912079811096,
+      "box": [
+        115,
+        563,
+        689,
+        591
+      ]
+    },
+    {
+      "text": "- Resolved merge conflicts",
+      "score": 0.9994766712188721,
+      "box": [
+        125,
+        589,
+        378,
+        618
+      ]
+    },
+    {
+      "text": "- Assisted with version control operations",
+      "score": 0.9836373329162598,
+      "box": [
+        126,
+        613,
+        509,
+        643
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9998637437820435,
+      "box": [
+        117,
+        681,
+        266,
+        705
+      ]
+    },
+    {
+      "text": "Bachelor's, Brightwood University, 2002",
+      "score": 0.9850428700447083,
+      "box": [
+        115,
+        723,
+        487,
+        750
+      ]
+    },
+    {
+      "text": "• Completed coursework in schema design",
+      "score": 0.9902833700180054,
+      "box": [
+        132,
+        751,
+        529,
+        775
+      ]
+    },
+    {
+      "text": "Studied fundamentals of build systems",
+      "score": 0.9839644432067871,
+      "box": [
+        131,
+        772,
+        506,
+        801
+      ]
+    }
+  ],
+  "seconds": 2.598659200128168,
+  "id": "03181",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

@@ -1,0 +1,142 @@
+{
+  "lines": [
+    {
+      "text": "JOSEPH BLACKWELL",
+      "score": 0.9998791217803955,
+      "box": [
+        116,
+        91,
+        473,
+        121
+      ]
+    },
+    {
+      "text": "ID, USA | +1-854-848-7339 | joseph.blackwell@example.com",
+      "score": 0.9849770665168762,
+      "box": [
+        118,
+        152,
+        684,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9991476535797119,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, AnchorPoint Builders, 2020.08—2023.01",
+      "score": 0.9878758788108826,
+      "box": [
+        118,
+        290,
+        701,
+        314
+      ]
+    },
+    {
+      "text": "- Supervised foundation installations",
+      "score": 0.9871053099632263,
+      "box": [
+        127,
+        316,
+        465,
+        340
+      ]
+    },
+    {
+      "text": "- Directed installation methodologies",
+      "score": 0.9640153646469116,
+      "box": [
+        126,
+        338,
+        465,
+        367
+      ]
+    },
+    {
+      "text": "Construction Laborers, SolidWay Construction, 2018.02—2020.08",
+      "score": 0.9834781885147095,
+      "box": [
+        116,
+        380,
+        720,
+        408
+      ]
+    },
+    {
+      "text": "- Checked inventory of supplies",
+      "score": 0.9878467321395874,
+      "box": [
+        126,
+        407,
+        421,
+        432
+      ]
+    },
+    {
+      "text": "- Performed basic sanding and painting",
+      "score": 0.9826356768608093,
+      "box": [
+        127,
+        429,
+        492,
+        460
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999029636383057,
+      "box": [
+        117,
+        494,
+        266,
+        521
+      ]
+    },
+    {
+      "text": "Some college (no degree), Construction Field Operations, Greenwood University, 2021",
+      "score": 0.9852784872055054,
+      "box": [
+        116,
+        539,
+        918,
+        569
+      ]
+    },
+    {
+      "text": "•Completed coursework in material handling",
+      "score": 0.9851639270782471,
+      "box": [
+        131,
+        565,
+        549,
+        593
+      ]
+    },
+    {
+      "text": "• Completed coursework in basic HVAC concepts",
+      "score": 0.9780823588371277,
+      "box": [
+        132,
+        591,
+        591,
+        617
+      ]
+    }
+  ],
+  "seconds": 2.541474999859929,
+  "id": "17101",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

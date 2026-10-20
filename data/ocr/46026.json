@@ -1,0 +1,172 @@
+{
+  "lines": [
+    {
+      "text": "PETER DICKERSON",
+      "score": 0.9997293949127197,
+      "box": [
+        117,
+        91,
+        439,
+        121
+      ]
+    },
+    {
+      "text": "PA, USA | +1-240-345-1279 | peter.dickerson@example.com",
+      "score": 0.9913337230682373,
+      "box": [
+        115,
+        150,
+        683,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9991335868835449,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Inspire Academy, 2020.10—2023.01",
+      "score": 0.990982174873352,
+      "box": [
+        115,
+        287,
+        793,
+        318
+      ]
+    },
+    {
+      "text": "- Directed assessment development efforts",
+      "score": 0.9924049377441406,
+      "box": [
+        126,
+        314,
+        526,
+        342
+      ]
+    },
+    {
+      "text": "- Developed district-aligned lesson frameworks",
+      "score": 0.9808358550071716,
+      "box": [
+        126,
+        339,
+        562,
+        367
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Harmony Academy, 2018.06—2020.10",
+      "score": 0.9918932318687439,
+      "box": [
+        116,
+        381,
+        816,
+        410
+      ]
+    },
+    {
+      "text": "- Designed lesson plans aligned with curriculum standards",
+      "score": 0.995846152305603,
+      "box": [
+        127,
+        409,
+        667,
+        433
+      ]
+    },
+    {
+      "text": "- Evaluated learning outcomes",
+      "score": 0.9966265559196472,
+      "box": [
+        126,
+        432,
+        412,
+        458
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Caring Horizons School, 2016.022018.06",
+      "score": 0.9920949935913086,
+      "box": [
+        118,
+        472,
+        857,
+        499
+      ]
+    },
+    {
+      "text": "- Recorded test results",
+      "score": 0.9984109997749329,
+      "box": [
+        126,
+        497,
+        340,
+        523
+      ]
+    },
+    {
+      "text": "- Updated student performance logs",
+      "score": 0.9886541962623596,
+      "box": [
+        128,
+        521,
+        461,
+        552
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999099373817444,
+      "box": [
+        117,
+        587,
+        267,
+        614
+      ]
+    },
+    {
+      "text": "Bachelor's, Child and Youth Studies, Hillside University, 2020",
+      "score": 0.9882466197013855,
+      "box": [
+        118,
+        633,
+        683,
+        657
+      ]
+    },
+    {
+      "text": "•Studied principles of behavior management",
+      "score": 0.9872856140136719,
+      "box": [
+        129,
+        657,
+        552,
+        685
+      ]
+    },
+    {
+      "text": "• Completed coursework in foundational assessment tools",
+      "score": 0.9839600920677185,
+      "box": [
+        133,
+        683,
+        670,
+        707
+      ]
+    }
+  ],
+  "seconds": 2.5558384996838868,
+  "id": "46026",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

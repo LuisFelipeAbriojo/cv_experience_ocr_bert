@@ -1,0 +1,142 @@
+{
+  "lines": [
+    {
+      "text": "JAYDEN YORK",
+      "score": 0.9998781085014343,
+      "box": [
+        114,
+        87,
+        361,
+        123
+      ]
+    },
+    {
+      "text": "CA, USA | +1-736-623-4569 | jayden.york@example.com",
+      "score": 0.9923858046531677,
+      "box": [
+        118,
+        152,
+        646,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9997692108154297,
+      "box": [
+        117,
+        243,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Software Developers, Stoneframe Software, 2021.042023.01",
+      "score": 0.9961536526679993,
+      "box": [
+        116,
+        289,
+        692,
+        316
+      ]
+    },
+    {
+      "text": "- Defined technical documentation standards",
+      "score": 0.9997571110725403,
+      "box": [
+        127,
+        315,
+        541,
+        340
+      ]
+    },
+    {
+      "text": "- Led performance tuning initiatives",
+      "score": 0.9972081780433655,
+      "box": [
+        128,
+        339,
+        455,
+        368
+      ]
+    },
+    {
+      "text": "Software Developers, Softgrid Labs, 2019.062021.04",
+      "score": 0.9875219464302063,
+      "box": [
+        116,
+        380,
+        621,
+        408
+      ]
+    },
+    {
+      "text": "- Implemented REST endpoints",
+      "score": 0.9730290770530701,
+      "box": [
+        126,
+        406,
+        422,
+        434
+      ]
+    },
+    {
+      "text": "- Refactored simple functions for readability",
+      "score": 0.997128963470459,
+      "box": [
+        127,
+        430,
+        530,
+        459
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999313354492188,
+      "box": [
+        117,
+        494,
+        267,
+        521
+      ]
+    },
+    {
+      "text": "Bachelor's, Summit University, 2019",
+      "score": 0.9949660301208496,
+      "box": [
+        116,
+        540,
+        452,
+        566
+      ]
+    },
+    {
+      "text": "• Completed coursework in web development basics",
+      "score": 0.9923744201660156,
+      "box": [
+        133,
+        567,
+        617,
+        591
+      ]
+    },
+    {
+      "text": "• Completed coursework in network security",
+      "score": 0.9924933910369873,
+      "box": [
+        132,
+        591,
+        540,
+        617
+      ]
+    }
+  ],
+  "seconds": 2.307075100019574,
+  "id": "08983",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

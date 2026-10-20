@@ -1,0 +1,132 @@
+{
+  "lines": [
+    {
+      "text": "DAVIS GILES",
+      "score": 0.9962891936302185,
+      "box": [
+        115,
+        87,
+        331,
+        123
+      ]
+    },
+    {
+      "text": "MI, USA | +1-517-631-9934 | davis.giles@example.com",
+      "score": 0.993598997592926,
+      "box": [
+        115,
+        149,
+        632,
+        177
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9997566342353821,
+      "box": [
+        117,
+        243,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Construction Laborers, Crafted Structures, 2019.122021.12",
+      "score": 0.9979779720306396,
+      "box": [
+        118,
+        290,
+        678,
+        314
+      ]
+    },
+    {
+      "text": "- Reviewed site inspection reports",
+      "score": 0.995506763458252,
+      "box": [
+        126,
+        314,
+        443,
+        341
+      ]
+    },
+    {
+      "text": "- Managed large-scale installations",
+      "score": 0.986294686794281,
+      "box": [
+        127,
+        339,
+        451,
+        367
+      ]
+    },
+    {
+      "text": "Construction Laborers, ClearRise Builders, 2017.05—2019.05",
+      "score": 0.9871998429298401,
+      "box": [
+        117,
+        381,
+        681,
+        406
+      ]
+    },
+    {
+      "text": "- Maintained tool storage areas",
+      "score": 0.9982327818870544,
+      "box": [
+        125,
+        406,
+        419,
+        432
+      ]
+    },
+    {
+      "text": "- Assisted with excavation tasks",
+      "score": 0.9851453304290771,
+      "box": [
+        129,
+        433,
+        424,
+        455
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999098181724548,
+      "box": [
+        117,
+        494,
+        268,
+        521
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Industrial Maintenance, Larkspur High School, 2009",
+      "score": 0.9987266659736633,
+      "box": [
+        116,
+        540,
+        856,
+        567
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of construction site coordination",
+      "score": 0.9838275909423828,
+      "box": [
+        133,
+        567,
+        650,
+        590
+      ]
+    }
+  ],
+  "seconds": 2.2306244000792503,
+  "id": "26844",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

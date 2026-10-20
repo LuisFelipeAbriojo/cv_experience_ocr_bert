@@ -1,0 +1,182 @@
+{
+  "lines": [
+    {
+      "text": "DILLON LAM",
+      "score": 0.9871765971183777,
+      "box": [
+        118,
+        91,
+        325,
+        122
+      ]
+    },
+    {
+      "text": "PA, USA | +1-332-888-1056 | dillon.lam@example.com",
+      "score": 0.9769977331161499,
+      "box": [
+        115,
+        149,
+        628,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9989835619926453,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Cloudstack Digital, 2020.08—2023.01",
+      "score": 0.9961267113685608,
+      "box": [
+        116,
+        290,
+        662,
+        317
+      ]
+    },
+    {
+      "text": "- Defined integration standards",
+      "score": 0.9787875413894653,
+      "box": [
+        127,
+        317,
+        415,
+        341
+      ]
+    },
+    {
+      "text": "- Defined data governance policies",
+      "score": 0.9839072227478027,
+      "box": [
+        127,
+        340,
+        451,
+        368
+      ]
+    },
+    {
+      "text": "Software Developers, Flowpath Digital, 2018.032020.08",
+      "score": 0.9997755289077759,
+      "box": [
+        116,
+        382,
+        645,
+        409
+      ]
+    },
+    {
+      "text": "- Wrote automated tests",
+      "score": 0.9798399806022644,
+      "box": [
+        124,
+        407,
+        352,
+        433
+      ]
+    },
+    {
+      "text": "- Developed microservices",
+      "score": 0.9822443127632141,
+      "box": [
+        126,
+        430,
+        376,
+        460
+      ]
+    },
+    {
+      "text": "Software Developers, Cloudspring Systems, 2015.102018.03",
+      "score": 0.980567991733551,
+      "box": [
+        117,
+        472,
+        694,
+        499
+      ]
+    },
+    {
+      "text": "- Implemented basic authentication logic",
+      "score": 0.9768532514572144,
+      "box": [
+        127,
+        497,
+        502,
+        524
+      ]
+    },
+    {
+      "text": "- Wrote unit tests for application modules",
+      "score": 0.9799383282661438,
+      "box": [
+        126,
+        519,
+        507,
+        550
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999088644981384,
+      "box": [
+        117,
+        587,
+        267,
+        614
+      ]
+    },
+    {
+      "text": "Master's, Greenridge University, 2019",
+      "score": 0.9847341179847717,
+      "box": [
+        118,
+        633,
+        468,
+        657
+      ]
+    },
+    {
+      "text": "Bachelor's, Woodview University, 2017",
+      "score": 0.9954168796539307,
+      "box": [
+        116,
+        656,
+        479,
+        683
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of normalization",
+      "score": 0.9961795210838318,
+      "box": [
+        132,
+        684,
+        504,
+        707
+      ]
+    },
+    {
+      "text": "Completed coursework in programming in C++",
+      "score": 0.9744923710823059,
+      "box": [
+        131,
+        704,
+        580,
+        737
+      ]
+    }
+  ],
+  "seconds": 2.347388499882072,
+  "id": "44793",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

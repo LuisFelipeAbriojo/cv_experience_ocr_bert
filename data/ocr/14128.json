@@ -1,0 +1,172 @@
+{
+  "lines": [
+    {
+      "text": "LAUREN HUTCHINSON",
+      "score": 0.99607914686203,
+      "box": [
+        116,
+        91,
+        488,
+        122
+      ]
+    },
+    {
+      "text": "FL, USA | +1-865-828-2716 | lauren.hutchinson@example.com",
+      "score": 0.9902483224868774,
+      "box": [
+        116,
+        150,
+        701,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9991477131843567,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Growing Minds School, 2020.12—2023.01",
+      "score": 0.987227737903595,
+      "box": [
+        115,
+        287,
+        846,
+        318
+      ]
+    },
+    {
+      "text": "- Led instructional design reviews",
+      "score": 0.9973565340042114,
+      "box": [
+        127,
+        315,
+        438,
+        342
+      ]
+    },
+    {
+      "text": "- Designed assessment systems",
+      "score": 0.9975116848945618,
+      "box": [
+        127,
+        339,
+        431,
+        370
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Growing Meadow Academy, 2018.04—2020.06",
+      "score": 0.9912083745002747,
+      "box": [
+        117,
+        382,
+        893,
+        409
+      ]
+    },
+    {
+      "text": "- Developed math enrichment lessons",
+      "score": 0.9958434104919434,
+      "box": [
+        126,
+        408,
+        480,
+        433
+      ]
+    },
+    {
+      "text": "- Maintained academic records",
+      "score": 0.9856826663017273,
+      "box": [
+        126,
+        431,
+        415,
+        457
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Kind Horizons School, 2015.052017.07",
+      "score": 0.9995924234390259,
+      "box": [
+        117,
+        472,
+        837,
+        499
+      ]
+    },
+    {
+      "text": "- Supervised transitions between lessons",
+      "score": 0.9859704971313477,
+      "box": [
+        126,
+        498,
+        509,
+        524
+      ]
+    },
+    {
+      "text": "- Reviewed lesson objectives",
+      "score": 0.9898564219474792,
+      "box": [
+        127,
+        520,
+        400,
+        551
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999111890792847,
+      "box": [
+        117,
+        587,
+        267,
+        614
+      ]
+    },
+    {
+      "text": "Bachelor's, Youth Studies, Westfield University, 2013",
+      "score": 0.9829742908477783,
+      "box": [
+        117,
+        632,
+        609,
+        657
+      ]
+    },
+    {
+      "text": "•Studied fundamentals of formative feedback",
+      "score": 0.974865734577179,
+      "box": [
+        130,
+        657,
+        557,
+        682
+      ]
+    },
+    {
+      "text": "Completed coursework in introductory child psychology",
+      "score": 0.9976646900177002,
+      "box": [
+        131,
+        680,
+        656,
+        711
+      ]
+    }
+  ],
+  "seconds": 2.8582365000620484,
+  "id": "14128",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

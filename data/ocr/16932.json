@@ -1,0 +1,162 @@
+{
+  "lines": [
+    {
+      "text": "CHRISTOPHER MURPHY",
+      "score": 0.9998707175254822,
+      "box": [
+        118,
+        92,
+        514,
+        122
+      ]
+    },
+    {
+      "text": "ID, USA | +1-393-975-6786 | christopher.murphy@example.com",
+      "score": 0.9920745491981506,
+      "box": [
+        116,
+        150,
+        711,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9991202354431152,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, Precision Frame Builders, 2020.11—2023.01",
+      "score": 0.9813188314437866,
+      "box": [
+        116,
+        288,
+        741,
+        316
+      ]
+    },
+    {
+      "text": "- Established construction benchmarks",
+      "score": 0.9900211691856384,
+      "box": [
+        126,
+        315,
+        486,
+        340
+      ]
+    },
+    {
+      "text": "- Reviewed workflow efficiency reports",
+      "score": 0.9778170585632324,
+      "box": [
+        126,
+        338,
+        485,
+        368
+      ]
+    },
+    {
+      "text": "Construction Laborers, IronStone Contractors, 2018.082020.11",
+      "score": 0.9922775626182556,
+      "box": [
+        118,
+        383,
+        712,
+        407
+      ]
+    },
+    {
+      "text": "- Operated heavy equipment",
+      "score": 0.993340253829956,
+      "box": [
+        127,
+        410,
+        395,
+        434
+      ]
+    },
+    {
+      "text": "- Installed drywall systems",
+      "score": 0.9988312125205994,
+      "box": [
+        129,
+        435,
+        373,
+        458
+      ]
+    },
+    {
+      "text": "Construction Laborers, SolidWorks Builders, 2014.092016.12",
+      "score": 0.9867424964904785,
+      "box": [
+        118,
+        474,
+        695,
+        498
+      ]
+    },
+    {
+      "text": "- Stacked and organized construction supplies",
+      "score": 0.9906167984008789,
+      "box": [
+        125,
+        497,
+        557,
+        525
+      ]
+    },
+    {
+      "text": "- Assisted with basic electrical conduit placement",
+      "score": 0.986937940120697,
+      "box": [
+        127,
+        521,
+        583,
+        549
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9998908638954163,
+      "box": [
+        117,
+        587,
+        267,
+        614
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Concrete Technology, Riverhaven High School, 2002",
+      "score": 0.9904797077178955,
+      "box": [
+        117,
+        632,
+        869,
+        659
+      ]
+    },
+    {
+      "text": "• Completed coursework in basic paving techniques",
+      "score": 0.989319920539856,
+      "box": [
+        133,
+        659,
+        613,
+        683
+      ]
+    }
+  ],
+  "seconds": 2.538011900149286,
+  "id": "16932",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

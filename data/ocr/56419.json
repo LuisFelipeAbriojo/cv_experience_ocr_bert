@@ -1,0 +1,202 @@
+{
+  "lines": [
+    {
+      "text": "EDWARD WHITAKER",
+      "score": 0.9986676573753357,
+      "box": [
+        118,
+        92,
+        457,
+        122
+      ]
+    },
+    {
+      "text": "VA, USA | +1-737-364-2037 | edward.whitaker@example.com",
+      "score": 0.9971908330917358,
+      "box": [
+        116,
+        150,
+        692,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9690499901771545,
+      "box": [
+        116,
+        242,
+        316,
+        271
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Bright Start Academy, 2019.12—2023.01",
+      "score": 0.9941956400871277,
+      "box": [
+        118,
+        290,
+        834,
+        317
+      ]
+    },
+    {
+      "text": "- Established data reporting standards",
+      "score": 0.9824146628379822,
+      "box": [
+        125,
+        314,
+        482,
+        343
+      ]
+    },
+    {
+      "text": "- Developed teacher training modules",
+      "score": 0.9757582545280457,
+      "box": [
+        126,
+        340,
+        477,
+        369
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Little Path School, 2016.112019.12",
+      "score": 0.9994204044342041,
+      "box": [
+        117,
+        382,
+        800,
+        409
+      ]
+    },
+    {
+      "text": "- Led curriculum alignment initiatives",
+      "score": 0.9852199554443359,
+      "box": [
+        128,
+        408,
+        467,
+        434
+      ]
+    },
+    {
+      "text": "- Developed system-wide assessment tools",
+      "score": 0.9917944669723511,
+      "box": [
+        128,
+        433,
+        531,
+        459
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Future Bridge Academy, 2013.102016.11",
+      "score": 0.9972133636474609,
+      "box": [
+        118,
+        473,
+        856,
+        500
+      ]
+    },
+    {
+      "text": "- Evaluated student portfolios",
+      "score": 0.9846704006195068,
+      "box": [
+        126,
+        498,
+        401,
+        524
+      ]
+    },
+    {
+      "text": "- Implemented formative assessment strategies",
+      "score": 0.9984117150306702,
+      "box": [
+        128,
+        523,
+        567,
+        549
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Harmony Start Academy, 2009.07—2012.09",
+      "score": 0.9892978668212891,
+      "box": [
+        117,
+        565,
+        865,
+        592
+      ]
+    },
+    {
+      "text": "- Conducted reading practice sessions",
+      "score": 0.9933183193206787,
+      "box": [
+        128,
+        591,
+        486,
+        617
+      ]
+    },
+    {
+      "text": "- Prepared daily lesson plans aligned with curriculum guidelines",
+      "score": 0.9771116971969604,
+      "box": [
+        127,
+        614,
+        716,
+        643
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999380111694336,
+      "box": [
+        117,
+        681,
+        266,
+        705
+      ]
+    },
+    {
+      "text": "Associate's degree, Basic Education Studies, Pioneer University, 2004",
+      "score": 0.9956971406936646,
+      "box": [
+        116,
+        723,
+        769,
+        750
+      ]
+    },
+    {
+      "text": "• Completed coursework in reading instruction",
+      "score": 0.9840027689933777,
+      "box": [
+        131,
+        751,
+        561,
+        775
+      ]
+    },
+    {
+      "text": "Studied fundamentals of learning reinforcement",
+      "score": 0.9928491711616516,
+      "box": [
+        132,
+        772,
+        589,
+        801
+      ]
+    }
+  ],
+  "seconds": 3.153931399807334,
+  "id": "56419",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

@@ -1,0 +1,142 @@
+{
+  "lines": [
+    {
+      "text": "JEFFREY DAVID",
+      "score": 0.9995478391647339,
+      "box": [
+        116,
+        91,
+        381,
+        121
+      ]
+    },
+    {
+      "text": "SD, USA | +1-680-441-1234 | jeffrey.david@example.com",
+      "score": 0.9725717306137085,
+      "box": [
+        118,
+        152,
+        652,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9997550845146179,
+      "box": [
+        117,
+        243,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Software Developers, Brightloop Systems, 2020.05—2023.01",
+      "score": 0.9910692572593689,
+      "box": [
+        116,
+        290,
+        675,
+        317
+      ]
+    },
+    {
+      "text": "- Designed software development workflows",
+      "score": 0.9962179660797119,
+      "box": [
+        127,
+        314,
+        538,
+        342
+      ]
+    },
+    {
+      "text": "- Implemented infrastructure automation",
+      "score": 0.9905534386634827,
+      "box": [
+        127,
+        338,
+        501,
+        367
+      ]
+    },
+    {
+      "text": "Software Developers, Codefield Labs, 2016.06—2019.02",
+      "score": 0.9795059561729431,
+      "box": [
+        116,
+        380,
+        636,
+        408
+      ]
+    },
+    {
+      "text": "- Implemented basic features in existing codebases",
+      "score": 0.9803599715232849,
+      "box": [
+        126,
+        406,
+        604,
+        434
+      ]
+    },
+    {
+      "text": "- Wrote unit tests for application modules",
+      "score": 0.982601523399353,
+      "box": [
+        126,
+        429,
+        509,
+        458
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999123811721802,
+      "box": [
+        117,
+        494,
+        266,
+        521
+      ]
+    },
+    {
+      "text": "Bachelor's, Meadowcrest University, 2014",
+      "score": 0.9833372235298157,
+      "box": [
+        115,
+        539,
+        506,
+        567
+      ]
+    },
+    {
+      "text": "•Completed coursework in mobile application development",
+      "score": 0.9838124513626099,
+      "box": [
+        131,
+        566,
+        683,
+        593
+      ]
+    },
+    {
+      "text": "Studied principles of version control systems",
+      "score": 0.9977463483810425,
+      "box": [
+        130,
+        590,
+        561,
+        618
+      ]
+    }
+  ],
+  "seconds": 2.3764583999291062,
+  "id": "48287",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

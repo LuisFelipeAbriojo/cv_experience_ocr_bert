@@ -1,0 +1,102 @@
+{
+  "lines": [
+    {
+      "text": "JUSTIN SCHULTZ",
+      "score": 0.9694476127624512,
+      "box": [
+        117,
+        91,
+        402,
+        122
+      ]
+    },
+    {
+      "text": "CA, USA | +1-254-460-3829 | justin.schultz@example.com",
+      "score": 0.9865352511405945,
+      "box": [
+        117,
+        150,
+        660,
+        177
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9997300505638123,
+      "box": [
+        117,
+        243,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Construction Laborers, StrongBase Builders, 2022.072023.01",
+      "score": 0.986021101474762,
+      "box": [
+        117,
+        289,
+        697,
+        316
+      ]
+    },
+    {
+      "text": "- Assisted with basic electrical conduit placement",
+      "score": 0.9935823082923889,
+      "box": [
+        126,
+        315,
+        582,
+        338
+      ]
+    },
+    {
+      "text": "- Installed temporary site barriers",
+      "score": 0.9822559952735901,
+      "box": [
+        127,
+        339,
+        436,
+        368
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999591112136841,
+      "box": [
+        116,
+        404,
+        268,
+        431
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Construction Quality Control, Greenfield High School, 2022",
+      "score": 0.9936562776565552,
+      "box": [
+        117,
+        447,
+        923,
+        474
+      ]
+    },
+    {
+      "text": "• Studied principles of tool maintenance",
+      "score": 0.9760025143623352,
+      "box": [
+        131,
+        475,
+        501,
+        499
+      ]
+    }
+  ],
+  "seconds": 2.1549047003500164,
+  "id": "05160",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

@@ -1,0 +1,202 @@
+{
+  "lines": [
+    {
+      "text": "JOSEPH NICHOLSON",
+      "score": 0.9998832941055298,
+      "box": [
+        116,
+        91,
+        462,
+        122
+      ]
+    },
+    {
+      "text": "PA, USA | +1-449-887-5545 | joseph.nicholson@example.com",
+      "score": 0.9910875558853149,
+      "box": [
+        115,
+        150,
+        696,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9991140365600586,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Harmony Field Academy, 2017.02—2023.01",
+      "score": 0.9882012009620667,
+      "box": [
+        116,
+        289,
+        866,
+        319
+      ]
+    },
+    {
+      "text": "- Implemented performance evaluation systems",
+      "score": 0.999713659286499,
+      "box": [
+        126,
+        316,
+        569,
+        341
+      ]
+    },
+    {
+      "text": "- Established instructional leadership protocols",
+      "score": 0.9832355380058289,
+      "box": [
+        126,
+        339,
+        561,
+        368
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Sunny Steps Academy, 2011.02—2017.02",
+      "score": 0.9846726655960083,
+      "box": [
+        115,
+        380,
+        850,
+        411
+      ]
+    },
+    {
+      "text": "- Developed teacher training modules",
+      "score": 0.997992217540741,
+      "box": [
+        126,
+        409,
+        474,
+        433
+      ]
+    },
+    {
+      "text": "- Led curriculum integration projects",
+      "score": 0.9878801703453064,
+      "box": [
+        126,
+        431,
+        461,
+        459
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Sunny Grove School, 2005.022011.02",
+      "score": 0.9840829968452454,
+      "box": [
+        116,
+        471,
+        830,
+        500
+      ]
+    },
+    {
+      "text": "- Implemented classroom improvement plans",
+      "score": 0.9897776246070862,
+      "box": [
+        125,
+        497,
+        547,
+        526
+      ]
+    },
+    {
+      "text": "- Analyzed assessment trends",
+      "score": 0.9843319654464722,
+      "box": [
+        127,
+        521,
+        411,
+        552
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Kind Steps School, 1999.02—2005.02",
+      "score": 0.9905654191970825,
+      "box": [
+        118,
+        566,
+        808,
+        590
+      ]
+    },
+    {
+      "text": "- Supervised classroom activities",
+      "score": 0.9928659200668335,
+      "box": [
+        126,
+        591,
+        433,
+        615
+      ]
+    },
+    {
+      "text": "- Maintained classroom bulletin boards",
+      "score": 0.9819167256355286,
+      "box": [
+        126,
+        613,
+        487,
+        642
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999048709869385,
+      "box": [
+        117,
+        681,
+        266,
+        705
+      ]
+    },
+    {
+      "text": "Bachelor's, Youth Studies, Lakewood University, 2004",
+      "score": 0.9965096712112427,
+      "box": [
+        116,
+        724,
+        619,
+        750
+      ]
+    },
+    {
+      "text": "•Completed coursework in basic curriculum planning",
+      "score": 0.9699525237083435,
+      "box": [
+        132,
+        748,
+        626,
+        777
+      ]
+    },
+    {
+      "text": "Completed coursework in instructional improvement methods",
+      "score": 0.9787362813949585,
+      "box": [
+        131,
+        771,
+        713,
+        802
+      ]
+    }
+  ],
+  "seconds": 3.6247005998156965,
+  "id": "45290",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

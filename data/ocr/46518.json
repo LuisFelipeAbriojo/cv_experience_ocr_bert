@@ -1,0 +1,142 @@
+{
+  "lines": [
+    {
+      "text": "TREVOR POWELL",
+      "score": 0.9998358488082886,
+      "box": [
+        116,
+        89,
+        408,
+        122
+      ]
+    },
+    {
+      "text": "PA, USA | +1-720-949-7566 | trevor.powell@example.com",
+      "score": 0.9857038259506226,
+      "box": [
+        115,
+        150,
+        658,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.999103844165802,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, SunWay Care Group, 2020.04—2023.01",
+      "score": 0.9912852048873901,
+      "box": [
+        116,
+        288,
+        668,
+        317
+      ]
+    },
+    {
+      "text": "- Led clinical governance efforts",
+      "score": 0.9838857650756836,
+      "box": [
+        126,
+        314,
+        426,
+        342
+      ]
+    },
+    {
+      "text": "- Managed patient outcome evaluation systems",
+      "score": 0.9901506304740906,
+      "box": [
+        127,
+        339,
+        567,
+        367
+      ]
+    },
+    {
+      "text": "Registered Nurses, LifeBridge Nursing Services, 2017.06—2020.04",
+      "score": 0.9880288243293762,
+      "box": [
+        115,
+        379,
+        735,
+        410
+      ]
+    },
+    {
+      "text": "- Monitored intravenous lines",
+      "score": 0.9823962450027466,
+      "box": [
+        125,
+        407,
+        398,
+        432
+      ]
+    },
+    {
+      "text": "- Collected laboratory specimens",
+      "score": 0.9840439558029175,
+      "box": [
+        128,
+        431,
+        433,
+        459
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999001026153564,
+      "box": [
+        117,
+        494,
+        267,
+        521
+      ]
+    },
+    {
+      "text": "Bachelor's, Nursing Studies, Silver Ridge University, 2020",
+      "score": 0.9792380332946777,
+      "box": [
+        117,
+        542,
+        651,
+        566
+      ]
+    },
+    {
+      "text": "•Completed coursework in cultural competence",
+      "score": 0.9884439706802368,
+      "box": [
+        130,
+        567,
+        576,
+        592
+      ]
+    },
+    {
+      "text": "Studied fundamentals of patient education",
+      "score": 0.9861530065536499,
+      "box": [
+        131,
+        590,
+        537,
+        616
+      ]
+    }
+  ],
+  "seconds": 15.547285500448197,
+  "id": "46518",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

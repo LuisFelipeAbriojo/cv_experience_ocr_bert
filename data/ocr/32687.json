@@ -1,0 +1,112 @@
+{
+  "lines": [
+    {
+      "text": "DOUGLAS ABBOTT",
+      "score": 0.9864262342453003,
+      "box": [
+        118,
+        90,
+        434,
+        121
+      ]
+    },
+    {
+      "text": "NJ, USA | +1-914-351-2866 | douglas.abbott@example.com",
+      "score": 0.9960030913352966,
+      "box": [
+        115,
+        149,
+        675,
+        177
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9997363686561584,
+      "box": [
+        117,
+        243,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Accountants Auditors, OpenBalance Accounting, 2021.10—2023.01",
+      "score": 0.9777712821960449,
+      "box": [
+        114,
+        286,
+        735,
+        317
+      ]
+    },
+    {
+      "text": "- Prepared aging reports",
+      "score": 0.9873585104942322,
+      "box": [
+        125,
+        313,
+        357,
+        343
+      ]
+    },
+    {
+      "text": "- Reviewed credit memos",
+      "score": 0.9969536066055298,
+      "box": [
+        126,
+        339,
+        366,
+        365
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999363422393799,
+      "box": [
+        116,
+        404,
+        268,
+        431
+      ]
+    },
+    {
+      "text": "Bachelor's, Financial Analysis, Pine Valley University, 2020",
+      "score": 0.983238935470581,
+      "box": [
+        115,
+        446,
+        664,
+        474
+      ]
+    },
+    {
+      "text": "•Studied fundamentals of variance analysis",
+      "score": 0.9862505793571472,
+      "box": [
+        129,
+        473,
+        540,
+        499
+      ]
+    },
+    {
+      "text": "•Studied fundamentals of depreciation methods",
+      "score": 0.975394606590271,
+      "box": [
+        131,
+        498,
+        578,
+        523
+      ]
+    }
+  ],
+  "seconds": 1.9115386996418238,
+  "id": "32687",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

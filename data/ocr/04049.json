@@ -1,0 +1,202 @@
+{
+  "lines": [
+    {
+      "text": "KRISTEN LAM",
+      "score": 0.9997302889823914,
+      "box": [
+        117,
+        91,
+        346,
+        122
+      ]
+    },
+    {
+      "text": "CA, USA | +1-567-813-1361 | kristen.lam@example.com",
+      "score": 0.9762784242630005,
+      "box": [
+        116,
+        150,
+        641,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9991355538368225,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, KindWay Nursing Services, 2020.05—2023.01",
+      "score": 0.9919561147689819,
+      "box": [
+        115,
+        287,
+        723,
+        319
+      ]
+    },
+    {
+      "text": "- Directed care coordination strategies",
+      "score": 0.9994911551475525,
+      "box": [
+        125,
+        313,
+        483,
+        344
+      ]
+    },
+    {
+      "text": "- Managed clinical compliance programs",
+      "score": 0.9933157563209534,
+      "box": [
+        126,
+        339,
+        503,
+        368
+      ]
+    },
+    {
+      "text": "Registered Nurses, BrightLife Care Center, 2017.092020.05",
+      "score": 0.9958214163780212,
+      "box": [
+        118,
+        383,
+        683,
+        407
+      ]
+    },
+    {
+      "text": "- Designed clinical documentation standards",
+      "score": 0.9916467070579529,
+      "box": [
+        126,
+        407,
+        538,
+        432
+      ]
+    },
+    {
+      "text": "- Directed emergency response planning",
+      "score": 0.9878028035163879,
+      "box": [
+        126,
+        431,
+        505,
+        460
+      ]
+    },
+    {
+      "text": "Registered Nurses, NewHands Health Group, 2014.052017.02",
+      "score": 0.9975605010986328,
+      "box": [
+        118,
+        474,
+        708,
+        498
+      ]
+    },
+    {
+      "text": "- Provided perioperative nursing care",
+      "score": 0.9972063899040222,
+      "box": [
+        125,
+        497,
+        473,
+        526
+      ]
+    },
+    {
+      "text": "- Educated patients on treatment plans",
+      "score": 0.9916355013847351,
+      "box": [
+        126,
+        521,
+        488,
+        550
+      ]
+    },
+    {
+      "text": "Registered Nurses, Compassion Path Medical, 2011.022013.11",
+      "score": 0.9878464341163635,
+      "box": [
+        117,
+        565,
+        718,
+        592
+      ]
+    },
+    {
+      "text": "- Prepared sterile supplies",
+      "score": 0.9866237044334412,
+      "box": [
+        125,
+        589,
+        374,
+        618
+      ]
+    },
+    {
+      "text": "- Assisted with emergency procedures",
+      "score": 0.9906349182128906,
+      "box": [
+        126,
+        614,
+        484,
+        643
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999110698699951,
+      "box": [
+        117,
+        681,
+        266,
+        705
+      ]
+    },
+    {
+      "text": "Bachelor's, Applied Health Sciences, Greenwood Ridge University, 2005",
+      "score": 0.9915709495544434,
+      "box": [
+        116,
+        724,
+        788,
+        750
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of care coordination",
+      "score": 0.9858573079109192,
+      "box": [
+        131,
+        750,
+        540,
+        774
+      ]
+    },
+    {
+      "text": "•Studied principles of mental health nursing",
+      "score": 0.9669727087020874,
+      "box": [
+        131,
+        774,
+        541,
+        800
+      ]
+    }
+  ],
+  "seconds": 6.593323000241071,
+  "id": "04049",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

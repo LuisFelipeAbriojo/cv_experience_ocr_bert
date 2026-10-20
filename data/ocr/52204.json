@@ -1,0 +1,142 @@
+{
+  "lines": [
+    {
+      "text": "JACOB AVERY",
+      "score": 0.9998680353164673,
+      "box": [
+        116,
+        90,
+        359,
+        121
+      ]
+    },
+    {
+      "text": "TX, USA | +1-245-311-1679 | jacob.avery@example.com",
+      "score": 0.9951246380805969,
+      "box": [
+        116,
+        149,
+        645,
+        177
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9997801780700684,
+      "box": [
+        117,
+        243,
+        315,
+        270
+      ]
+    },
+    {
+      "text": "Construction Laborers, PrimeFrame Construction, 2019.05—2021.12",
+      "score": 0.9851632118225098,
+      "box": [
+        118,
+        290,
+        747,
+        314
+      ]
+    },
+    {
+      "text": "- Established site layout plans",
+      "score": 0.9973264932632446,
+      "box": [
+        126,
+        314,
+        406,
+        342
+      ]
+    },
+    {
+      "text": "- Directed site optimization initiatives",
+      "score": 0.9959600567817688,
+      "box": [
+        129,
+        341,
+        466,
+        365
+      ]
+    },
+    {
+      "text": "Construction Laborers, HardLine Construction, 2015.122018.07",
+      "score": 0.9977214932441711,
+      "box": [
+        118,
+        382,
+        715,
+        406
+      ]
+    },
+    {
+      "text": "- Assembled prefabricated components",
+      "score": 0.9980061650276184,
+      "box": [
+        125,
+        407,
+        492,
+        432
+      ]
+    },
+    {
+      "text": "- Performed basic sanding and painting",
+      "score": 0.9797518849372864,
+      "box": [
+        127,
+        430,
+        491,
+        458
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999471306800842,
+      "box": [
+        118,
+        495,
+        267,
+        519
+      ]
+    },
+    {
+      "text": "Some college (no degree), Construction Technology, Plainview University, 2012",
+      "score": 0.9918867945671082,
+      "box": [
+        117,
+        540,
+        856,
+        567
+      ]
+    },
+    {
+      "text": "• Completed coursework in construction measurements",
+      "score": 0.9891721606254578,
+      "box": [
+        132,
+        566,
+        645,
+        589
+      ]
+    },
+    {
+      "text": "• Completed coursework in construction ergonomics",
+      "score": 0.9788711071014404,
+      "box": [
+        132,
+        591,
+        616,
+        616
+      ]
+    }
+  ],
+  "seconds": 2.446288099978119,
+  "id": "52204",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

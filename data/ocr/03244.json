@@ -1,0 +1,112 @@
+{
+  "lines": [
+    {
+      "text": "JACOB PITTS",
+      "score": 0.9990776181221008,
+      "box": [
+        115,
+        89,
+        340,
+        123
+      ]
+    },
+    {
+      "text": "CA, USA | +1-972-303-9109 | jacob.pitts@example.com",
+      "score": 0.9936931729316711,
+      "box": [
+        116,
+        149,
+        635,
+        177
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9993822574615479,
+      "box": [
+        116,
+        243,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Software Developers, Openfield Tech, 2021.06—2023.01",
+      "score": 0.9918628334999084,
+      "box": [
+        115,
+        287,
+        637,
+        315
+      ]
+    },
+    {
+      "text": "- Updated frontend stylesheets",
+      "score": 0.9687474966049194,
+      "box": [
+        127,
+        316,
+        414,
+        340
+      ]
+    },
+    {
+      "text": "- Handled basic deployment tasks",
+      "score": 0.9889786243438721,
+      "box": [
+        127,
+        338,
+        444,
+        366
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999057054519653,
+      "box": [
+        116,
+        404,
+        268,
+        431
+      ]
+    },
+    {
+      "text": "Some college (no degree), Fieldview University, 2023",
+      "score": 0.985120415687561,
+      "box": [
+        117,
+        447,
+        612,
+        474
+      ]
+    },
+    {
+      "text": "•Studied principles of virtualization",
+      "score": 0.9804526567459106,
+      "box": [
+        129,
+        473,
+        458,
+        498
+      ]
+    },
+    {
+      "text": "Studied fundamentals of concurrency",
+      "score": 0.9913407564163208,
+      "box": [
+        130,
+        495,
+        493,
+        526
+      ]
+    }
+  ],
+  "seconds": 1.9022645996883512,
+  "id": "03244",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

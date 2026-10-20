@@ -1,0 +1,112 @@
+{
+  "lines": [
+    {
+      "text": "CORY ADKINS",
+      "score": 0.9978659152984619,
+      "box": [
+        117,
+        89,
+        352,
+        123
+      ]
+    },
+    {
+      "text": "CA, USA | +1-239-308-2913 | cory.adkins@example.com",
+      "score": 0.9790163040161133,
+      "box": [
+        116,
+        149,
+        646,
+        177
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9997254014015198,
+      "box": [
+        117,
+        243,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Accountants Auditors, TrueBalance Financial, 2018.05—2020.05",
+      "score": 0.9929059743881226,
+      "box": [
+        116,
+        288,
+        708,
+        313
+      ]
+    },
+    {
+      "text": "- Reviewed timesheets for payroll",
+      "score": 0.9792266488075256,
+      "box": [
+        125,
+        312,
+        440,
+        341
+      ]
+    },
+    {
+      "text": "- Prepared audit confirmations",
+      "score": 0.969915509223938,
+      "box": [
+        126,
+        338,
+        411,
+        366
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999464750289917,
+      "box": [
+        116,
+        404,
+        268,
+        431
+      ]
+    },
+    {
+      "text": "Bachelor's, Business Management, Greenridge University, 2014",
+      "score": 0.9933814406394958,
+      "box": [
+        115,
+        446,
+        710,
+        474
+      ]
+    },
+    {
+      "text": "•Completed coursework in accounts receivable",
+      "score": 0.9894183874130249,
+      "box": [
+        132,
+        473,
+        574,
+        498
+      ]
+    },
+    {
+      "text": "•Completed coursework in nonprofit financial management",
+      "score": 0.9859203100204468,
+      "box": [
+        133,
+        497,
+        681,
+        525
+      ]
+    }
+  ],
+  "seconds": 2.1507782000117004,
+  "id": "07478",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

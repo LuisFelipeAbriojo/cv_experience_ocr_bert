@@ -1,0 +1,122 @@
+{
+  "lines": [
+    {
+      "text": "MADISON PERRY",
+      "score": 0.9994839429855347,
+      "box": [
+        117,
+        91,
+        400,
+        121
+      ]
+    },
+    {
+      "text": "PA, USA | +1-482-920-5016 | madison.perry@example.com",
+      "score": 0.9721517562866211,
+      "box": [
+        117,
+        152,
+        671,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9997279047966003,
+      "box": [
+        117,
+        243,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Caring Horizons School, 2022.042023.01",
+      "score": 0.9979363083839417,
+      "box": [
+        117,
+        289,
+        856,
+        316
+      ]
+    },
+    {
+      "text": "- Implemented basic literacy lessons",
+      "score": 0.9923779368400574,
+      "box": [
+        126,
+        314,
+        465,
+        340
+      ]
+    },
+    {
+      "text": "- Recorded student feedback",
+      "score": 0.9994981288909912,
+      "box": [
+        127,
+        339,
+        398,
+        364
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999358654022217,
+      "box": [
+        116,
+        404,
+        268,
+        431
+      ]
+    },
+    {
+      "text": "Master's, Education Services, Golden Meadow University, 2020",
+      "score": 0.9928616881370544,
+      "box": [
+        114,
+        446,
+        705,
+        474
+      ]
+    },
+    {
+      "text": "Bachelor's, Educational Assistance, Northway University, 2018",
+      "score": 0.992721438407898,
+      "box": [
+        116,
+        473,
+        697,
+        498
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of learning assessment",
+      "score": 0.981795072555542,
+      "box": [
+        129,
+        498,
+        572,
+        524
+      ]
+    },
+    {
+      "text": " Studied fundamentals of science education",
+      "score": 0.9706724286079407,
+      "box": [
+        133,
+        522,
+        546,
+        547
+      ]
+    }
+  ],
+  "seconds": 2.3127983999438584,
+  "id": "46309",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

@@ -1,0 +1,112 @@
+{
+  "lines": [
+    {
+      "text": "SIENNA HICKMAN",
+      "score": 0.9996891021728516,
+      "box": [
+        118,
+        91,
+        411,
+        122
+      ]
+    },
+    {
+      "text": "CO, USA | +1-566-653-8792 | sienna.hickman@example.com",
+      "score": 0.9906758666038513,
+      "box": [
+        116,
+        150,
+        688,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9997498989105225,
+      "box": [
+        117,
+        243,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Accountants Auditors, FairLedger Group, 2018.02—2020.11",
+      "score": 0.9947507977485657,
+      "box": [
+        115,
+        288,
+        665,
+        316
+      ]
+    },
+    {
+      "text": "- Prepared variance reports",
+      "score": 0.9969134330749512,
+      "box": [
+        126,
+        315,
+        383,
+        340
+      ]
+    },
+    {
+      "text": "- Prepared account reconciliations",
+      "score": 0.9750332832336426,
+      "box": [
+        127,
+        338,
+        447,
+        367
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999494552612305,
+      "box": [
+        116,
+        404,
+        268,
+        431
+      ]
+    },
+    {
+      "text": "Bachelor's, Business Technology, Stonegate University, 2006",
+      "score": 0.9869278073310852,
+      "box": [
+        115,
+        446,
+        687,
+        475
+      ]
+    },
+    {
+      "text": "•Completed coursework in expense cycle management",
+      "score": 0.9791119694709778,
+      "box": [
+        130,
+        474,
+        651,
+        501
+      ]
+    },
+    {
+      "text": "•Studied fundamentals of variance analysis",
+      "score": 0.9936245679855347,
+      "box": [
+        132,
+        497,
+        540,
+        524
+      ]
+    }
+  ],
+  "seconds": 1.9757368001155555,
+  "id": "10022",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

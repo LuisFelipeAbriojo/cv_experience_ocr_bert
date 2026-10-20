@@ -1,0 +1,122 @@
+{
+  "lines": [
+    {
+      "text": "MATTHEW OLIVER",
+      "score": 0.9987330436706543,
+      "box": [
+        117,
+        91,
+        422,
+        122
+      ]
+    },
+    {
+      "text": "NY, USA | +1-822-867-5218 | matthew.oliver@example.com",
+      "score": 0.9766199588775635,
+      "box": [
+        117,
+        152,
+        675,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9997406601905823,
+      "box": [
+        117,
+        243,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Accountants Auditors, SolidCount Advisors, 2022.02—2023.01",
+      "score": 0.9854220151901245,
+      "box": [
+        117,
+        290,
+        686,
+        314
+      ]
+    },
+    {
+      "text": "- Verified transaction accuracy",
+      "score": 0.9996492862701416,
+      "box": [
+        126,
+        314,
+        410,
+        341
+      ]
+    },
+    {
+      "text": "- Reviewed timesheets for payroll",
+      "score": 0.9924675822257996,
+      "box": [
+        126,
+        338,
+        439,
+        366
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999306797981262,
+      "box": [
+        116,
+        404,
+        268,
+        431
+      ]
+    },
+    {
+      "text": "Master's, Financial Analysis, Clear Spring University, 2022",
+      "score": 0.9878405928611755,
+      "box": [
+        116,
+        448,
+        658,
+        475
+      ]
+    },
+    {
+      "text": "Bachelor's, Information Systems, Stonecrest University, 2020",
+      "score": 0.9980022311210632,
+      "box": [
+        114,
+        470,
+        685,
+        501
+      ]
+    },
+    {
+      "text": "• Completed coursework in nonprofit financial management",
+      "score": 0.9853881597518921,
+      "box": [
+        132,
+        500,
+        681,
+        524
+      ]
+    },
+    {
+      "text": "Completed coursework in supply chain accounting",
+      "score": 0.999843180179596,
+      "box": [
+        132,
+        521,
+        614,
+        552
+      ]
+    }
+  ],
+  "seconds": 2.0705856001004577,
+  "id": "35352",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

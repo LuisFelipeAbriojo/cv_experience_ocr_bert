@@ -1,0 +1,172 @@
+{
+  "lines": [
+    {
+      "text": "KAYLIN JAMES",
+      "score": 0.9998254776000977,
+      "box": [
+        117,
+        91,
+        366,
+        122
+      ]
+    },
+    {
+      "text": "VA, USA | +1-909-627-9337 | kaylin.james@example.com",
+      "score": 0.9824944734573364,
+      "box": [
+        118,
+        152,
+        654,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.984839677810669,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Growing Meadow Academy, 2020.02—2023.0",
+      "score": 0.9967314600944519,
+      "box": [
+        115,
+        287,
+        882,
+        319
+      ]
+    },
+    {
+      "text": "- Implemented instructional improvement programs",
+      "score": 0.99983149766922,
+      "box": [
+        125,
+        314,
+        601,
+        343
+      ]
+    },
+    {
+      "text": "- Developed system-wide assessment tools",
+      "score": 0.9908339381217957,
+      "box": [
+        127,
+        340,
+        530,
+        367
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Rising Stars School, 2017.02—2020.02",
+      "score": 0.990143358707428,
+      "box": [
+        117,
+        382,
+        821,
+        409
+      ]
+    },
+    {
+      "text": "- Analyzed student performance data",
+      "score": 0.9992491602897644,
+      "box": [
+        126,
+        409,
+        472,
+        433
+      ]
+    },
+    {
+      "text": "- Integrated educational technology tools",
+      "score": 0.9843721985816956,
+      "box": [
+        127,
+        434,
+        504,
+        457
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, New Leaf Learning, 2014.02—2017.02",
+      "score": 0.988045871257782,
+      "box": [
+        117,
+        471,
+        813,
+        499
+      ]
+    },
+    {
+      "text": "- Conducted reading practice sessions",
+      "score": 0.9955472946166992,
+      "box": [
+        125,
+        497,
+        486,
+        525
+      ]
+    },
+    {
+      "text": "- Maintained student folders",
+      "score": 0.9976914525032043,
+      "box": [
+        127,
+        521,
+        388,
+        549
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999259114265442,
+      "box": [
+        117,
+        587,
+        267,
+        614
+      ]
+    },
+    {
+      "text": "Bachelor's, General Academic Studies, Cedar Ridge University, 2017",
+      "score": 0.9743018746376038,
+      "box": [
+        117,
+        633,
+        756,
+        657
+      ]
+    },
+    {
+      "text": "•Studied basic classroom management concepts",
+      "score": 0.9846505522727966,
+      "box": [
+        128,
+        656,
+        593,
+        686
+      ]
+    },
+    {
+      "text": "• Completed coursework in lesson effectiveness analysis",
+      "score": 0.9958965182304382,
+      "box": [
+        134,
+        683,
+        658,
+        707
+      ]
+    }
+  ],
+  "seconds": 2.62128569977358,
+  "id": "56175",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

@@ -1,0 +1,132 @@
+{
+  "lines": [
+    {
+      "text": "AMNA GEORGE",
+      "score": 0.9998142719268799,
+      "box": [
+        118,
+        91,
+        374,
+        122
+      ]
+    },
+    {
+      "text": "UT, USA | +1-265-888-2641 | amna.george@example.com",
+      "score": 0.9748626351356506,
+      "box": [
+        118,
+        152,
+        661,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9997725486755371,
+      "box": [
+        117,
+        243,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Construction Laborers, Bluebeam Construction, 2019.05—2022.02",
+      "score": 0.9841618537902832,
+      "box": [
+        117,
+        289,
+        725,
+        314
+      ]
+    },
+    {
+      "text": "- Coordinated large-scale material logistics",
+      "score": 0.9793726205825806,
+      "box": [
+        127,
+        315,
+        523,
+        341
+      ]
+    },
+    {
+      "text": "- Managed large-scale installations",
+      "score": 0.9804272055625916,
+      "box": [
+        127,
+        339,
+        452,
+        367
+      ]
+    },
+    {
+      "text": "Construction Laborers, FirmBuild Services, 2015.12—2018.10",
+      "score": 0.984572172164917,
+      "box": [
+        116,
+        380,
+        684,
+        408
+      ]
+    },
+    {
+      "text": "- Maintained tool storage areas",
+      "score": 0.9990977048873901,
+      "box": [
+        125,
+        407,
+        418,
+        433
+      ]
+    },
+    {
+      "text": "- Prepared scaffolding platforms",
+      "score": 0.9781303405761719,
+      "box": [
+        127,
+        430,
+        426,
+        458
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999232888221741,
+      "box": [
+        117,
+        494,
+        267,
+        521
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Construction Field Operations, Silverton High School, 2011",
+      "score": 0.9894730448722839,
+      "box": [
+        118,
+        540,
+        919,
+        564
+      ]
+    },
+    {
+      "text": "• Studied principles of vibration control",
+      "score": 0.9647061228752136,
+      "box": [
+        134,
+        567,
+        491,
+        591
+      ]
+    }
+  ],
+  "seconds": 2.439775099977851,
+  "id": "55588",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

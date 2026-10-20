@@ -1,0 +1,202 @@
+{
+  "lines": [
+    {
+      "text": "BRANDON HOLLOWAY",
+      "score": 0.9998964071273804,
+      "box": [
+        117,
+        90,
+        491,
+        122
+      ]
+    },
+    {
+      "text": "AL, USA | +1-266-209-8932 | brandon.holloway@example.com",
+      "score": 0.9967206716537476,
+      "box": [
+        116,
+        150,
+        701,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9990683197975159,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, Unified Craft Builders, 2017.11—2023.01",
+      "score": 0.9822251200675964,
+      "box": [
+        116,
+        288,
+        705,
+        316
+      ]
+    },
+    {
+      "text": "- Directed installation methodologies",
+      "score": 0.9995257258415222,
+      "box": [
+        126,
+        315,
+        464,
+        341
+      ]
+    },
+    {
+      "text": "- Developed construction standards",
+      "score": 0.9970358610153198,
+      "box": [
+        127,
+        339,
+        457,
+        367
+      ]
+    },
+    {
+      "text": "Construction Laborers, NextRise Construction, 2012.082017.11",
+      "score": 0.9839611053466797,
+      "box": [
+        118,
+        383,
+        714,
+        407
+      ]
+    },
+    {
+      "text": "- Led cross-functional coordination",
+      "score": 0.9804728627204895,
+      "box": [
+        127,
+        409,
+        448,
+        432
+      ]
+    },
+    {
+      "text": "- Supervised multiple work crews",
+      "score": 0.9991590976715088,
+      "box": [
+        129,
+        432,
+        434,
+        458
+      ]
+    },
+    {
+      "text": "Construction Laborers, SteadyRise Builders, 2007.05—2012.08",
+      "score": 0.9887398481369019,
+      "box": [
+        116,
+        471,
+        697,
+        499
+      ]
+    },
+    {
+      "text": "- Coordinated material deliveries",
+      "score": 0.9977177977561951,
+      "box": [
+        128,
+        499,
+        431,
+        523
+      ]
+    },
+    {
+      "text": "- Installed roofing materials",
+      "score": 0.985137939453125,
+      "box": [
+        127,
+        521,
+        381,
+        550
+      ]
+    },
+    {
+      "text": "Construction Laborers, TrueBuild Group, 2002.02—2007.05",
+      "score": 0.991370439529419,
+      "box": [
+        117,
+        565,
+        662,
+        592
+      ]
+    },
+    {
+      "text": "- Sorted building materials",
+      "score": 0.9709340333938599,
+      "box": [
+        127,
+        592,
+        373,
+        616
+      ]
+    },
+    {
+      "text": "- Stacked and organized construction supplies",
+      "score": 0.9779711961746216,
+      "box": [
+        125,
+        614,
+        556,
+        643
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999039769172668,
+      "box": [
+        117,
+        681,
+        266,
+        705
+      ]
+    },
+    {
+      "text": "Some college (no degree), Construction Field Operations, Summit Ridge University, 2001",
+      "score": 0.9985491633415222,
+      "box": [
+        117,
+        724,
+        942,
+        750
+      ]
+    },
+    {
+      "text": "• Completed coursework in construction measurements",
+      "score": 0.9862684607505798,
+      "box": [
+        133,
+        751,
+        646,
+        774
+      ]
+    },
+    {
+      "text": "Studied principles of site preparation",
+      "score": 0.9991330504417419,
+      "box": [
+        132,
+        772,
+        486,
+        801
+      ]
+    }
+  ],
+  "seconds": 2.8024925999343395,
+  "id": "00004",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

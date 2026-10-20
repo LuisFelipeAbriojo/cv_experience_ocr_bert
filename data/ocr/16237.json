@@ -1,0 +1,152 @@
+{
+  "lines": [
+    {
+      "text": "KRISTIN PATTERSON",
+      "score": 0.9927797913551331,
+      "box": [
+        117,
+        92,
+        466,
+        122
+      ]
+    },
+    {
+      "text": "GA, USA | +1-392-680-6320 | kristin.patterson@example.com",
+      "score": 0.9884337782859802,
+      "box": [
+        116,
+        150,
+        689,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9991146922111511,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Learning Stone Academy, 2021.06—2023.01",
+      "score": 0.9949073791503906,
+      "box": [
+        115,
+        287,
+        872,
+        319
+      ]
+    },
+    {
+      "text": "- Established instructional leadership protocols",
+      "score": 0.9962961077690125,
+      "box": [
+        125,
+        314,
+        561,
+        342
+      ]
+    },
+    {
+      "text": "- Directed cross-grade curriculum alignment",
+      "score": 0.9863945841789246,
+      "box": [
+        126,
+        340,
+        536,
+        368
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Learning Corner Academy, 2017.09—2019.04",
+      "score": 0.9792584180831909,
+      "box": [
+        116,
+        381,
+        882,
+        411
+      ]
+    },
+    {
+      "text": "- Organized classroom learning resources",
+      "score": 0.9840078353881836,
+      "box": [
+        126,
+        408,
+        517,
+        434
+      ]
+    },
+    {
+      "text": "- Delivered structured lectures",
+      "score": 0.9841177463531494,
+      "box": [
+        127,
+        431,
+        409,
+        457
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999602437019348,
+      "box": [
+        117,
+        496,
+        266,
+        520
+      ]
+    },
+    {
+      "text": "Master's, Child Studies, Silverview University, 2006",
+      "score": 0.9783903360366821,
+      "box": [
+        115,
+        540,
+        593,
+        568
+      ]
+    },
+    {
+      "text": "Bachelor's, Teaching Support, Forestfield University, 2004",
+      "score": 0.9888790249824524,
+      "box": [
+        115,
+        565,
+        656,
+        593
+      ]
+    },
+    {
+      "text": "• Studied principles of classroom inclusivity",
+      "score": 0.9806309938430786,
+      "box": [
+        129,
+        592,
+        532,
+        618
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of instructional pacing",
+      "score": 0.974183201789856,
+      "box": [
+        130,
+        616,
+        556,
+        643
+      ]
+    }
+  ],
+  "seconds": 2.5732155996374786,
+  "id": "16237",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

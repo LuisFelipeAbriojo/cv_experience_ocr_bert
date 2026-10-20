@@ -1,0 +1,122 @@
+{
+  "lines": [
+    {
+      "text": "SPENCER DOYLE",
+      "score": 0.9998788237571716,
+      "box": [
+        116,
+        89,
+        404,
+        123
+      ]
+    },
+    {
+      "text": "CA, USA | +1-440-395-5032 | spencer.doyle@example.com",
+      "score": 0.9921327233314514,
+      "box": [
+        118,
+        152,
+        670,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9997727274894714,
+      "box": [
+        117,
+        243,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Software Developers, Corecrest Labs, 2019.07—2022.05",
+      "score": 0.9870893955230713,
+      "box": [
+        115,
+        287,
+        639,
+        315
+      ]
+    },
+    {
+      "text": "- Handled input sanitization",
+      "score": 0.9996547102928162,
+      "box": [
+        125,
+        313,
+        383,
+        342
+      ]
+    },
+    {
+      "text": "- Implemented caching logic",
+      "score": 0.9967097640037537,
+      "box": [
+        127,
+        338,
+        390,
+        369
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999194741249084,
+      "box": [
+        116,
+        404,
+        268,
+        431
+      ]
+    },
+    {
+      "text": "Master's, Lakeview University, 2016",
+      "score": 0.998947262763977,
+      "box": [
+        116,
+        449,
+        450,
+        473
+      ]
+    },
+    {
+      "text": "Bachelor's, Briarwood University, 2014",
+      "score": 0.9979956746101379,
+      "box": [
+        115,
+        472,
+        478,
+        500
+      ]
+    },
+    {
+      "text": "Studied principles of computational thinking",
+      "score": 0.9888772964477539,
+      "box": [
+        127,
+        496,
+        551,
+        528
+      ]
+    },
+    {
+      "text": "•Studied principles of garbage collection",
+      "score": 0.9714989066123962,
+      "box": [
+        131,
+        522,
+        511,
+        550
+      ]
+    }
+  ],
+  "seconds": 1.9558073999360204,
+  "id": "04086",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

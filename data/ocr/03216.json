@@ -1,0 +1,122 @@
+{
+  "lines": [
+    {
+      "text": "STEPHANIE HERMAN",
+      "score": 0.9993566870689392,
+      "box": [
+        116,
+        89,
+        465,
+        122
+      ]
+    },
+    {
+      "text": "CA, USA | +1-304-875-7566 | stephanie.herman@example.com",
+      "score": 0.9874078035354614,
+      "box": [
+        118,
+        152,
+        707,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9997550845146179,
+      "box": [
+        117,
+        243,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Discovery Meadow School, 2021.042023.01",
+      "score": 0.9967969059944153,
+      "box": [
+        117,
+        289,
+        883,
+        316
+      ]
+    },
+    {
+      "text": "- Maintained lesson documentation",
+      "score": 0.9977673888206482,
+      "box": [
+        126,
+        314,
+        453,
+        340
+      ]
+    },
+    {
+      "text": "- Supported standardized testing sessions",
+      "score": 0.9925249814987183,
+      "box": [
+        127,
+        339,
+        518,
+        367
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9996827244758606,
+      "box": [
+        116,
+        404,
+        268,
+        431
+      ]
+    },
+    {
+      "text": "Professional degree, Youth Development, Greenway University, 2020",
+      "score": 0.9901893138885498,
+      "box": [
+        116,
+        448,
+        760,
+        475
+      ]
+    },
+    {
+      "text": "Bachelor's, Educational Support, Windfield University, 2016",
+      "score": 0.9857903718948364,
+      "box": [
+        115,
+        472,
+        668,
+        500
+      ]
+    },
+    {
+      "text": "• Completed coursework in basic mentoring strategies",
+      "score": 0.9773025512695312,
+      "box": [
+        131,
+        498,
+        633,
+        526
+      ]
+    },
+    {
+      "text": "Completed coursework in learning theory",
+      "score": 0.9912701845169067,
+      "box": [
+        132,
+        521,
+        529,
+        552
+      ]
+    }
+  ],
+  "seconds": 2.2220319998450577,
+  "id": "03216",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

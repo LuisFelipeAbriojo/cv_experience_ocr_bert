@@ -1,0 +1,192 @@
+{
+  "lines": [
+    {
+      "text": "JIMMY HOLLOWAY",
+      "score": 0.9880306124687195,
+      "box": [
+        117,
+        91,
+        427,
+        121
+      ]
+    },
+    {
+      "text": "WA, USA | +1-790-966-2841 | jimmy.holloway@example.com",
+      "score": 0.988158643245697,
+      "box": [
+        116,
+        150,
+        687,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9991140365600586,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, CornerBuild Co., 2017.092023.01",
+      "score": 0.9906815886497498,
+      "box": [
+        118,
+        291,
+        655,
+        315
+      ]
+    },
+    {
+      "text": "- Reviewed compliance documentation",
+      "score": 0.9951710104942322,
+      "box": [
+        126,
+        315,
+        488,
+        341
+      ]
+    },
+    {
+      "text": "- Designed site logistics frameworks",
+      "score": 0.9874745607376099,
+      "box": [
+        127,
+        340,
+        462,
+        368
+      ]
+    },
+    {
+      "text": "Construction Laborers, IronStone Contractors, 2012.052017.09",
+      "score": 0.9977691173553467,
+      "box": [
+        118,
+        383,
+        711,
+        407
+      ]
+    },
+    {
+      "text": "- Directed installation methodologies",
+      "score": 0.9991773366928101,
+      "box": [
+        125,
+        407,
+        466,
+        434
+      ]
+    },
+    {
+      "text": "- Reviewed structural integrity assessments",
+      "score": 0.9854729175567627,
+      "box": [
+        127,
+        431,
+        531,
+        457
+      ]
+    },
+    {
+      "text": "Construction Laborers, SteadyWorks Construction, 2006.122012.05",
+      "score": 0.9924819469451904,
+      "box": [
+        117,
+        472,
+        756,
+        499
+      ]
+    },
+    {
+      "text": "- Prepared structural joints",
+      "score": 0.9994178414344788,
+      "box": [
+        127,
+        498,
+        375,
+        524
+      ]
+    },
+    {
+      "text": "- Prepared and poured concrete forms",
+      "score": 0.9955546259880066,
+      "box": [
+        128,
+        521,
+        483,
+        550
+      ]
+    },
+    {
+      "text": "Construction Laborers, PrimeTrack Builders, 1998.072003.12",
+      "score": 0.9959540963172913,
+      "box": [
+        118,
+        566,
+        697,
+        590
+      ]
+    },
+    {
+      "text": "- Measured and cut basic building materials",
+      "score": 0.9914990067481995,
+      "box": [
+        126,
+        590,
+        532,
+        615
+      ]
+    },
+    {
+      "text": "- Assisted with framing support",
+      "score": 0.9698030948638916,
+      "box": [
+        126,
+        613,
+        418,
+        643
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999048709869385,
+      "box": [
+        117,
+        681,
+        266,
+        705
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Building Systems, Goldenwood High School, 1997",
+      "score": 0.9928775429725647,
+      "box": [
+        116,
+        724,
+        842,
+        750
+      ]
+    },
+    {
+      "text": "Studied principles of job site efficiency",
+      "score": 0.9889301061630249,
+      "box": [
+        129,
+        747,
+        502,
+        776
+      ]
+    }
+  ],
+  "seconds": 2.9437909997068346,
+  "id": "58969",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

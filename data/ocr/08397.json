@@ -1,0 +1,182 @@
+{
+  "lines": [
+    {
+      "text": "CAROLINA KIM",
+      "score": 0.9979994893074036,
+      "box": [
+        118,
+        91,
+        366,
+        122
+      ]
+    },
+    {
+      "text": "CA, USA | +1-529-742-4558 | carolina.kim@example.com",
+      "score": 0.9789711236953735,
+      "box": [
+        116,
+        150,
+        652,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.992497980594635,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Corewave Software, 2021.012023.01",
+      "score": 0.9909842610359192,
+      "box": [
+        117,
+        291,
+        677,
+        315
+      ]
+    },
+    {
+      "text": "- Implemented long-term maintenance plans",
+      "score": 0.998180091381073,
+      "box": [
+        128,
+        316,
+        538,
+        343
+      ]
+    },
+    {
+      "text": "- Led platform migrations",
+      "score": 0.9979291558265686,
+      "box": [
+        128,
+        340,
+        362,
+        369
+      ]
+    },
+    {
+      "text": "Software Developers, Flowstack Tech, 2018.06—2020.07",
+      "score": 0.9859609603881836,
+      "box": [
+        117,
+        383,
+        641,
+        407
+      ]
+    },
+    {
+      "text": "- Integrated payment gateways",
+      "score": 0.9995713233947754,
+      "box": [
+        124,
+        407,
+        417,
+        436
+      ]
+    },
+    {
+      "text": "- Developed microservices",
+      "score": 0.9865601062774658,
+      "box": [
+        126,
+        431,
+        376,
+        461
+      ]
+    },
+    {
+      "text": "Software Developers, Nextwave Systems, 2015.052017.06",
+      "score": 0.9934053421020508,
+      "box": [
+        117,
+        472,
+        675,
+        499
+      ]
+    },
+    {
+      "text": "- Logged and tracked software defects",
+      "score": 0.986064612865448,
+      "box": [
+        128,
+        499,
+        485,
+        523
+      ]
+    },
+    {
+      "text": "- Optimized simple queries",
+      "score": 0.9993887543678284,
+      "box": [
+        128,
+        521,
+        378,
+        550
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9998452663421631,
+      "box": [
+        117,
+        587,
+        267,
+        614
+      ]
+    },
+    {
+      "text": "Master's, Cloverfield University, 2010",
+      "score": 0.997611403465271,
+      "box": [
+        117,
+        633,
+        461,
+        657
+      ]
+    },
+    {
+      "text": "Bachelor's, Oakfield University, 2008",
+      "score": 0.9991226196289062,
+      "box": [
+        115,
+        656,
+        458,
+        684
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of discrete mathematics",
+      "score": 0.9900158643722534,
+      "box": [
+        131,
+        684,
+        577,
+        707
+      ]
+    },
+    {
+      "text": "•Studied principles of documentation standards",
+      "score": 0.9923161864280701,
+      "box": [
+        132,
+        707,
+        577,
+        733
+      ]
+    }
+  ],
+  "seconds": 2.6739333998411894,
+  "id": "08397",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

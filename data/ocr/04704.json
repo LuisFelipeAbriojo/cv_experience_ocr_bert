@@ -1,0 +1,202 @@
+{
+  "lines": [
+    {
+      "text": "JACQUELYN LE",
+      "score": 0.999711275100708,
+      "box": [
+        116,
+        91,
+        376,
+        121
+      ]
+    },
+    {
+      "text": "CA, USA | +1-278-460-6182 | jacquelyn.le@example.com",
+      "score": 0.9794676303863525,
+      "box": [
+        116,
+        150,
+        651,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9991157650947571,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Balanced Books Group, 2020.06—2023.01",
+      "score": 0.9949571490287781,
+      "box": [
+        115,
+        288,
+        714,
+        316
+      ]
+    },
+    {
+      "text": "- Designed financial oversight systems",
+      "score": 0.9991878867149353,
+      "box": [
+        129,
+        317,
+        485,
+        341
+      ]
+    },
+    {
+      "text": "- Directed accounting system implementations",
+      "score": 0.9929603934288025,
+      "box": [
+        127,
+        339,
+        557,
+        369
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Reliable Accounts Financial, 2017.112020.06",
+      "score": 0.998645007610321,
+      "box": [
+        118,
+        383,
+        756,
+        407
+      ]
+    },
+    {
+      "text": "- Established cost management systems",
+      "score": 0.9988492727279663,
+      "box": [
+        126,
+        408,
+        504,
+        433
+      ]
+    },
+    {
+      "text": "- Developed long-term financial strategies",
+      "score": 0.9854816198348999,
+      "box": [
+        127,
+        431,
+        514,
+        460
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Precise Ledger Advisors, 2015.042017.11",
+      "score": 0.9938049912452698,
+      "box": [
+        118,
+        473,
+        724,
+        497
+      ]
+    },
+    {
+      "text": "- Reviewed expense allocations",
+      "score": 0.9925163388252258,
+      "box": [
+        125,
+        497,
+        424,
+        525
+      ]
+    },
+    {
+      "text": "- Conducted risk assessments",
+      "score": 0.9870322346687317,
+      "box": [
+        127,
+        522,
+        409,
+        548
+      ]
+    },
+    {
+      "text": "Accountants Auditors, CoreBooks Financial Group, 2012.08—2015.04",
+      "score": 0.9888272881507874,
+      "box": [
+        117,
+        566,
+        756,
+        590
+      ]
+    },
+    {
+      "text": "- Processed journal corrections",
+      "score": 0.9836971759796143,
+      "box": [
+        127,
+        592,
+        419,
+        615
+      ]
+    },
+    {
+      "text": "- Prepared variance reports",
+      "score": 0.9763829112052917,
+      "box": [
+        126,
+        614,
+        384,
+        644
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.99992835521698,
+      "box": [
+        117,
+        681,
+        266,
+        705
+      ]
+    },
+    {
+      "text": "Bachelor's, Accounting and Finance, Rivercrest University, 2012",
+      "score": 0.983220100402832,
+      "box": [
+        115,
+        723,
+        712,
+        750
+      ]
+    },
+    {
+      "text": "Studied principles of audit sampling",
+      "score": 0.9914162755012512,
+      "box": [
+        129,
+        748,
+        478,
+        777
+      ]
+    },
+    {
+      "text": "•Studied fundamentals of assurance services",
+      "score": 0.9882596135139465,
+      "box": [
+        131,
+        774,
+        558,
+        799
+      ]
+    }
+  ],
+  "seconds": 2.9275409001857042,
+  "id": "04704",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

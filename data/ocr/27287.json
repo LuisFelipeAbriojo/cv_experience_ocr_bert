@@ -1,0 +1,112 @@
+{
+  "lines": [
+    {
+      "text": "KARA LYONS",
+      "score": 0.9996448755264282,
+      "box": [
+        116,
+        89,
+        339,
+        123
+      ]
+    },
+    {
+      "text": "MI, USA | +1-292-537-8500 | kara.lyons@example.com",
+      "score": 0.9899129271507263,
+      "box": [
+        115,
+        149,
+        630,
+        177
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9994518160820007,
+      "box": [
+        116,
+        243,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Software Developers, Datapath Solutions, 2019.05—2021.09",
+      "score": 0.9938377737998962,
+      "box": [
+        114,
+        287,
+        673,
+        315
+      ]
+    },
+    {
+      "text": "- Wrote integration tests",
+      "score": 0.9981266856193542,
+      "box": [
+        125,
+        314,
+        352,
+        340
+      ]
+    },
+    {
+      "text": "- Assisted with container setup",
+      "score": 0.9995720386505127,
+      "box": [
+        126,
+        339,
+        413,
+        366
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9998926520347595,
+      "box": [
+        116,
+        403,
+        269,
+        431
+      ]
+    },
+    {
+      "text": "Bachelor's, Granite Hill University, 2016",
+      "score": 0.9829962253570557,
+      "box": [
+        116,
+        447,
+        487,
+        474
+      ]
+    },
+    {
+      "text": "•Studied principles of test-driven development",
+      "score": 0.9912298321723938,
+      "box": [
+        129,
+        474,
+        564,
+        498
+      ]
+    },
+    {
+      "text": "•Studied fundamentals of error handling",
+      "score": 0.9764540195465088,
+      "box": [
+        130,
+        495,
+        509,
+        526
+      ]
+    }
+  ],
+  "seconds": 1.7920209998264909,
+  "id": "27287",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

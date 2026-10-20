@@ -1,0 +1,202 @@
+{
+  "lines": [
+    {
+      "text": "JENNIFER HOUSE",
+      "score": 0.9997922778129578,
+      "box": [
+        116,
+        91,
+        411,
+        121
+      ]
+    },
+    {
+      "text": "WI, USA | +1-666-846-1152 | jennifer.house@example.com",
+      "score": 0.9760594367980957,
+      "box": [
+        117,
+        151,
+        668,
+        177
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.998914897441864,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Cloudcrest Systems, 2018.08—2023.01",
+      "score": 0.9957088828086853,
+      "box": [
+        115,
+        289,
+        681,
+        317
+      ]
+    },
+    {
+      "text": "- Designed configuration management systems",
+      "score": 0.9945675134658813,
+      "box": [
+        125,
+        315,
+        566,
+        343
+      ]
+    },
+    {
+      "text": "- Built core libraries",
+      "score": 0.9921077489852905,
+      "box": [
+        127,
+        339,
+        309,
+        367
+      ]
+    },
+    {
+      "text": "Software Developers, Cloudcrest Systems, 2014.032018.08",
+      "score": 0.9863527417182922,
+      "box": [
+        116,
+        381,
+        683,
+        409
+      ]
+    },
+    {
+      "text": "- Designed data storage strategies",
+      "score": 0.9880658388137817,
+      "box": [
+        126,
+        408,
+        449,
+        434
+      ]
+    },
+    {
+      "text": "- Designed configuration management systems",
+      "score": 0.9859060049057007,
+      "box": [
+        127,
+        432,
+        566,
+        459
+      ]
+    },
+    {
+      "text": "Software Developers, Netline Labs, 2009.02—2013.07",
+      "score": 0.9895736575126648,
+      "box": [
+        116,
+        471,
+        613,
+        499
+      ]
+    },
+    {
+      "text": "- Designed documentation templates",
+      "score": 0.9896727204322815,
+      "box": [
+        127,
+        497,
+        470,
+        525
+      ]
+    },
+    {
+      "text": "- Integrated analytics services",
+      "score": 0.9979584217071533,
+      "box": [
+        128,
+        521,
+        407,
+        552
+      ]
+    },
+    {
+      "text": "Software Developers, Cloudridge Tech, 2003.02—2007.08",
+      "score": 0.9830694198608398,
+      "box": [
+        116,
+        565,
+        650,
+        592
+      ]
+    },
+    {
+      "text": "- Implemented error handling logic",
+      "score": 0.988430917263031,
+      "box": [
+        127,
+        590,
+        447,
+        618
+      ]
+    },
+    {
+      "text": "- Wrote scripts for data processing tasks",
+      "score": 0.9810563921928406,
+      "box": [
+        125,
+        612,
+        502,
+        645
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999275207519531,
+      "box": [
+        117,
+        681,
+        266,
+        705
+      ]
+    },
+    {
+      "text": "Bachelor's, Silver Ridge University, 2002",
+      "score": 0.963596522808075,
+      "box": [
+        115,
+        723,
+        495,
+        750
+      ]
+    },
+    {
+      "text": "Studied principles of mutexes and semaphores",
+      "score": 0.9763079285621643,
+      "box": [
+        130,
+        749,
+        583,
+        776
+      ]
+    },
+    {
+      "text": "Studied principles of data modeling",
+      "score": 0.9988651871681213,
+      "box": [
+        130,
+        773,
+        474,
+        802
+      ]
+    }
+  ],
+  "seconds": 2.9667450999841094,
+  "id": "60872",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

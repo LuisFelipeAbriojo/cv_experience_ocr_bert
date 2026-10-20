@@ -1,0 +1,112 @@
+{
+  "lines": [
+    {
+      "text": "GABRIEL GRIMES",
+      "score": 0.989862859249115,
+      "box": [
+        118,
+        91,
+        409,
+        122
+      ]
+    },
+    {
+      "text": "CO, USA | +1-680-516-1568 | gabriel.grimes@example.com",
+      "score": 0.9808856844902039,
+      "box": [
+        118,
+        152,
+        673,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9997239112854004,
+      "box": [
+        117,
+        243,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Software Developers, Codepath Digital, 2020.09—2023.01",
+      "score": 0.9903860688209534,
+      "box": [
+        115,
+        288,
+        649,
+        316
+      ]
+    },
+    {
+      "text": "- Implemented UI components based on design specs",
+      "score": 0.9824907183647156,
+      "box": [
+        125,
+        314,
+        629,
+        342
+      ]
+    },
+    {
+      "text": "- Reviewed test coverage reports",
+      "score": 0.9890764951705933,
+      "box": [
+        128,
+        339,
+        436,
+        366
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999475479125977,
+      "box": [
+        116,
+        404,
+        268,
+        431
+      ]
+    },
+    {
+      "text": "Bachelor's, Willowgate University, 2020",
+      "score": 0.990680992603302,
+      "box": [
+        116,
+        448,
+        482,
+        475
+      ]
+    },
+    {
+      "text": "Completed coursework in configuration management",
+      "score": 0.996091365814209,
+      "box": [
+        131,
+        472,
+        637,
+        500
+      ]
+    },
+    {
+      "text": "• Completed coursework in database optimization",
+      "score": 0.9844697117805481,
+      "box": [
+        133,
+        498,
+        593,
+        524
+      ]
+    }
+  ],
+  "seconds": 2.1490298002026975,
+  "id": "09884",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

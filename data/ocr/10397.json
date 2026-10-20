@@ -1,0 +1,102 @@
+{
+  "lines": [
+    {
+      "text": "BRANDON WHITAKER",
+      "score": 0.9847013354301453,
+      "box": [
+        118,
+        91,
+        477,
+        122
+      ]
+    },
+    {
+      "text": "CO, USA | +1-610-248-9579 | brandon.whitaker@example.com",
+      "score": 0.9871848225593567,
+      "box": [
+        118,
+        152,
+        703,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9997195601463318,
+      "box": [
+        117,
+        243,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Software Developers, Netfield Software, 2019.022022.02",
+      "score": 0.994873046875,
+      "box": [
+        116,
+        289,
+        656,
+        316
+      ]
+    },
+    {
+      "text": "- Handled basic deployment tasks",
+      "score": 0.9928824305534363,
+      "box": [
+        125,
+        313,
+        444,
+        342
+      ]
+    },
+    {
+      "text": "- Optimized simple queries",
+      "score": 0.9967736005783081,
+      "box": [
+        127,
+        339,
+        378,
+        369
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999502897262573,
+      "box": [
+        116,
+        404,
+        268,
+        431
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Cedarview High School, 2015",
+      "score": 0.9998012781143188,
+      "box": [
+        116,
+        448,
+        653,
+        475
+      ]
+    },
+    {
+      "text": "•Studied fundamentals of user interface development",
+      "score": 0.9785005450248718,
+      "box": [
+        130,
+        473,
+        631,
+        499
+      ]
+    }
+  ],
+  "seconds": 1.9596430002711713,
+  "id": "10397",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

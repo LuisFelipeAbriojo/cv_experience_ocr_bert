@@ -1,0 +1,112 @@
+{
+  "lines": [
+    {
+      "text": "XAVIER LANDRY",
+      "score": 0.9753148555755615,
+      "box": [
+        117,
+        91,
+        390,
+        122
+      ]
+    },
+    {
+      "text": "TX, USA | +1-269-567-3054 | xavier.landry@example.com",
+      "score": 0.9893338680267334,
+      "box": [
+        117,
+        149,
+        657,
+        177
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9993736147880554,
+      "box": [
+        116,
+        243,
+        317,
+        270
+      ]
+    },
+    {
+      "text": "Construction Laborers, Durable Works, 2021.01—2023.01",
+      "score": 0.9861569404602051,
+      "box": [
+        118,
+        289,
+        644,
+        313
+      ]
+    },
+    {
+      "text": "- Installed temporary supports",
+      "score": 0.987448513507843,
+      "box": [
+        125,
+        313,
+        407,
+        343
+      ]
+    },
+    {
+      "text": "- Prepared tools and equipment for daily tasks",
+      "score": 0.9938445687294006,
+      "box": [
+        128,
+        341,
+        554,
+        365
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999228715896606,
+      "box": [
+        116,
+        404,
+        268,
+        431
+      ]
+    },
+    {
+      "text": "Some college (no degree), Electrical Technology, Pineview Ridge University, 2023",
+      "score": 0.9854189157485962,
+      "box": [
+        117,
+        447,
+        877,
+        474
+      ]
+    },
+    {
+      "text": "Studied fundamentals of masonry",
+      "score": 0.9963831901550293,
+      "box": [
+        129,
+        470,
+        460,
+        501
+      ]
+    },
+    {
+      "text": "Studied principles of tool maintenance",
+      "score": 0.9894699454307556,
+      "box": [
+        131,
+        497,
+        502,
+        526
+      ]
+    }
+  ],
+  "seconds": 2.1079364996403456,
+  "id": "50524",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

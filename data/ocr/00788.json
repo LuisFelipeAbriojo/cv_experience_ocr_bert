@@ -1,0 +1,212 @@
+{
+  "lines": [
+    {
+      "text": "JOHN PORTILLO",
+      "score": 0.9999053478240967,
+      "box": [
+        116,
+        91,
+        388,
+        122
+      ]
+    },
+    {
+      "text": "AL, USA | +1-858-323-9371 | john.portillo@example.com",
+      "score": 0.9897636771202087,
+      "box": [
+        116,
+        150,
+        644,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9990584850311279,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Harmony Hills Academy, 2019.09—2023.01",
+      "score": 0.988659143447876,
+      "box": [
+        116,
+        289,
+        860,
+        319
+      ]
+    },
+    {
+      "text": "- Directed instructional planning processes",
+      "score": 0.9989609122276306,
+      "box": [
+        125,
+        314,
+        523,
+        344
+      ]
+    },
+    {
+      "text": "- Designed curriculum frameworks for grade-level instruction",
+      "score": 0.9884431958198547,
+      "box": [
+        126,
+        340,
+        685,
+        368
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Bright Minds School, 2016.05—2019.09",
+      "score": 0.9853203892707825,
+      "box": [
+        116,
+        381,
+        824,
+        409
+      ]
+    },
+    {
+      "text": "- Directed curriculum revision cycles",
+      "score": 0.9844443798065186,
+      "box": [
+        127,
+        409,
+        463,
+        433
+      ]
+    },
+    {
+      "text": "- Designed learning analytics frameworks",
+      "score": 0.9838154911994934,
+      "box": [
+        126,
+        431,
+        511,
+        459
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, ClearView Academy, 2013.012016.05",
+      "score": 0.996903121471405,
+      "box": [
+        118,
+        473,
+        826,
+        500
+      ]
+    },
+    {
+      "text": "- Prepared instructional guides",
+      "score": 0.9864095449447632,
+      "box": [
+        125,
+        497,
+        414,
+        525
+      ]
+    },
+    {
+      "text": "- Developed classroom assessment tools",
+      "score": 0.9990573525428772,
+      "box": [
+        127,
+        521,
+        510,
+        550
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Caring Horizons School, 2008.042011.09",
+      "score": 0.9940128326416016,
+      "box": [
+        117,
+        565,
+        858,
+        592
+      ]
+    },
+    {
+      "text": "- Recorded test results",
+      "score": 0.998882532119751,
+      "box": [
+        126,
+        590,
+        341,
+        616
+      ]
+    },
+    {
+      "text": "- Followed standard instructional schedules",
+      "score": 0.9865737557411194,
+      "box": [
+        125,
+        613,
+        530,
+        642
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999310970306396,
+      "box": [
+        117,
+        681,
+        266,
+        705
+      ]
+    },
+    {
+      "text": "Master's, Foundations of Learning, Brookstone University, 2005",
+      "score": 0.9825543761253357,
+      "box": [
+        115,
+        723,
+        705,
+        750
+      ]
+    },
+    {
+      "text": "Bachelor's, General Learning Studies, Cedarview University, 2003",
+      "score": 0.9913147687911987,
+      "box": [
+        114,
+        746,
+        729,
+        777
+      ]
+    },
+    {
+      "text": "• Completed coursework in classroom organization",
+      "score": 0.9933951497077942,
+      "box": [
+        131,
+        776,
+        605,
+        800
+      ]
+    },
+    {
+      "text": "Studied principles of content delivery",
+      "score": 0.9987280964851379,
+      "box": [
+        130,
+        797,
+        488,
+        830
+      ]
+    }
+  ],
+  "seconds": 3.1743971998803318,
+  "id": "00788",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

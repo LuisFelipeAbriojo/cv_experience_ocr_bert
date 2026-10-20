@@ -1,0 +1,182 @@
+{
+  "lines": [
+    {
+      "text": "CORRINE MOORE",
+      "score": 0.9970499873161316,
+      "box": [
+        117,
+        89,
+        408,
+        122
+      ]
+    },
+    {
+      "text": "WA, USA | +1-673-647-9449 | corrine.moore@example.com",
+      "score": 0.9804150462150574,
+      "box": [
+        116,
+        150,
+        674,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9991553425788879,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Open Fields School, 2020.05—2023.01",
+      "score": 0.9855180978775024,
+      "box": [
+        116,
+        288,
+        820,
+        318
+      ]
+    },
+    {
+      "text": "- Established instructional leadership protocols",
+      "score": 0.9938628077507019,
+      "box": [
+        126,
+        315,
+        559,
+        341
+      ]
+    },
+    {
+      "text": "- Directed curriculum revision cycles",
+      "score": 0.9751835465431213,
+      "box": [
+        126,
+        339,
+        464,
+        368
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, New Beginnings School, 2017.082020.05",
+      "score": 0.9967847466468811,
+      "box": [
+        116,
+        381,
+        860,
+        411
+      ]
+    },
+    {
+      "text": "- Implemented instructional modifications",
+      "score": 0.9874354004859924,
+      "box": [
+        127,
+        409,
+        507,
+        433
+      ]
+    },
+    {
+      "text": "- Designed student support plans",
+      "score": 0.9722981452941895,
+      "box": [
+        126,
+        431,
+        436,
+        459
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Learning Meadow Academy, 2012.012014.10",
+      "score": 0.9979087114334106,
+      "box": [
+        118,
+        472,
+        897,
+        499
+      ]
+    },
+    {
+      "text": "- Prepared visual teaching aids",
+      "score": 0.979195773601532,
+      "box": [
+        125,
+        497,
+        418,
+        525
+      ]
+    },
+    {
+      "text": "- Conducted reading practice sessions",
+      "score": 0.9773418307304382,
+      "box": [
+        127,
+        521,
+        485,
+        551
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999163746833801,
+      "box": [
+        117,
+        587,
+        267,
+        614
+      ]
+    },
+    {
+      "text": "Master's, Community Education, Sunfield University, 2007",
+      "score": 0.9925238490104675,
+      "box": [
+        116,
+        632,
+        653,
+        659
+      ]
+    },
+    {
+      "text": "Bachelor's, Educational Readiness, Meadowway University, 2005",
+      "score": 0.9844075441360474,
+      "box": [
+        116,
+        657,
+        723,
+        684
+      ]
+    },
+    {
+      "text": "•Completed coursework in instructional modeling",
+      "score": 0.9768950343132019,
+      "box": [
+        130,
+        681,
+        593,
+        710
+      ]
+    },
+    {
+      "text": "•Studied fundamentals of academic support strategies",
+      "score": 0.9900811910629272,
+      "box": [
+        131,
+        705,
+        640,
+        736
+      ]
+    }
+  ],
+  "seconds": 2.8055978999473155,
+  "id": "59500",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

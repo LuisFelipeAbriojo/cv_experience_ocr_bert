@@ -1,0 +1,202 @@
+{
+  "lines": [
+    {
+      "text": "MATTHEW ONEAL",
+      "score": 0.9704840183258057,
+      "box": [
+        117,
+        91,
+        415,
+        122
+      ]
+    },
+    {
+      "text": "SC, USA | +1-861-829-1572 | matthew.oneal@example.com",
+      "score": 0.9851781129837036,
+      "box": [
+        116,
+        150,
+        676,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9987257122993469,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Softline Digital, 2019.09—2023.01",
+      "score": 0.9847269654273987,
+      "box": [
+        116,
+        290,
+        628,
+        317
+      ]
+    },
+    {
+      "text": "- Designed scalable services",
+      "score": 0.9859432578086853,
+      "box": [
+        127,
+        314,
+        396,
+        343
+      ]
+    },
+    {
+      "text": "- Implemented data pipeline architectures",
+      "score": 0.9939299821853638,
+      "box": [
+        127,
+        339,
+        513,
+        368
+      ]
+    },
+    {
+      "text": "Software Developers, Codecrest Digital, 2016.052019.09",
+      "score": 0.9940907955169678,
+      "box": [
+        116,
+        381,
+        656,
+        409
+      ]
+    },
+    {
+      "text": "- Designed microservice architectures",
+      "score": 0.9859834909439087,
+      "box": [
+        125,
+        407,
+        479,
+        436
+      ]
+    },
+    {
+      "text": "- Defined API governance models",
+      "score": 0.9738254547119141,
+      "box": [
+        126,
+        431,
+        442,
+        459
+      ]
+    },
+    {
+      "text": "Software Developers, Netcore Solutions, 2012.122016.05",
+      "score": 0.994482159614563,
+      "box": [
+        118,
+        474,
+        661,
+        498
+      ]
+    },
+    {
+      "text": "- Designed batch processing jobs",
+      "score": 0.9798916578292847,
+      "box": [
+        128,
+        499,
+        439,
+        526
+      ]
+    },
+    {
+      "text": "- Integrated analytics services",
+      "score": 0.9861499667167664,
+      "box": [
+        128,
+        522,
+        406,
+        550
+      ]
+    },
+    {
+      "text": "Software Developers, Stonebyte Solutions, 2006.072009.12",
+      "score": 0.9946044087409973,
+      "box": [
+        116,
+        564,
+        684,
+        592
+      ]
+    },
+    {
+      "text": "- Reviewed code changes for syntax and logic issues",
+      "score": 0.9911606907844543,
+      "box": [
+        127,
+        589,
+        622,
+        618
+      ]
+    },
+    {
+      "text": "- Wrote utility scripts",
+      "score": 0.9731133580207825,
+      "box": [
+        125,
+        614,
+        318,
+        644
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9998728632926941,
+      "box": [
+        117,
+        681,
+        266,
+        705
+      ]
+    },
+    {
+      "text": "Bachelor's, Shady Grove University, 2002",
+      "score": 0.9897826910018921,
+      "box": [
+        117,
+        726,
+        503,
+        749
+      ]
+    },
+    {
+      "text": "• Completed coursework in tree data structures",
+      "score": 0.9934999942779541,
+      "box": [
+        134,
+        751,
+        570,
+        775
+      ]
+    },
+    {
+      "text": "Completed coursework in web development basics",
+      "score": 0.9867002964019775,
+      "box": [
+        131,
+        771,
+        619,
+        802
+      ]
+    }
+  ],
+  "seconds": 2.5816576001234353,
+  "id": "47399",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

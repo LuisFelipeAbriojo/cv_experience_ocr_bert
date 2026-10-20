@@ -1,0 +1,112 @@
+{
+  "lines": [
+    {
+      "text": "HEATHER LIU",
+      "score": 0.9997102618217468,
+      "box": [
+        116,
+        91,
+        342,
+        122
+      ]
+    },
+    {
+      "text": "HI, USA | +1-244-884-6058 | heather.liu@example.com",
+      "score": 0.9970269799232483,
+      "box": [
+        115,
+        149,
+        631,
+        177
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.999382734298706,
+      "box": [
+        116,
+        243,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Accountants Auditors, FairLedger Services, 2021.06—2021.09",
+      "score": 0.9872595071792603,
+      "box": [
+        115,
+        287,
+        687,
+        315
+      ]
+    },
+    {
+      "text": "- Assisted with regulatory filings",
+      "score": 0.9814571142196655,
+      "box": [
+        125,
+        312,
+        424,
+        342
+      ]
+    },
+    {
+      "text": "- Updated general ledger records",
+      "score": 0.9864989519119263,
+      "box": [
+        129,
+        340,
+        436,
+        367
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999464750289917,
+      "box": [
+        116,
+        404,
+        268,
+        431
+      ]
+    },
+    {
+      "text": "Bachelor's, Operations Management, Clearfield Ridge University, 2010",
+      "score": 0.9903612732887268,
+      "box": [
+        115,
+        446,
+        772,
+        474
+      ]
+    },
+    {
+      "text": "•Completed coursework in accounts receivable",
+      "score": 0.9902973771095276,
+      "box": [
+        132,
+        473,
+        574,
+        498
+      ]
+    },
+    {
+      "text": "• Completed coursework in cost allocation methods",
+      "score": 0.9834089279174805,
+      "box": [
+        134,
+        499,
+        608,
+        523
+      ]
+    }
+  ],
+  "seconds": 2.0142072001472116,
+  "id": "16736",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

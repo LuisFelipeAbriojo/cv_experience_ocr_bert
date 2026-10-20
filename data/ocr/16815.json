@@ -1,0 +1,152 @@
+{
+  "lines": [
+    {
+      "text": "CHRISTINE LAM",
+      "score": 0.9991394281387329,
+      "box": [
+        118,
+        91,
+        380,
+        122
+      ]
+    },
+    {
+      "text": "HI, USA | +1-858-210-5592 | christine.lam@example.com",
+      "score": 0.9778385758399963,
+      "box": [
+        118,
+        152,
+        648,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9990752339363098,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Caring Hills School, 2021.04—2023.01",
+      "score": 0.9883154034614563,
+      "box": [
+        115,
+        287,
+        815,
+        320
+      ]
+    },
+    {
+      "text": "- Implemented instructional improvement programs",
+      "score": 0.991172730922699,
+      "box": [
+        126,
+        314,
+        602,
+        343
+      ]
+    },
+    {
+      "text": "- Implemented curriculum governance structures",
+      "score": 0.9939344525337219,
+      "box": [
+        127,
+        339,
+        578,
+        368
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Growing Horizons School, 2019.06—2021.04",
+      "score": 0.9920687079429626,
+      "box": [
+        116,
+        381,
+        875,
+        411
+      ]
+    },
+    {
+      "text": "- Conducted spelling practice",
+      "score": 0.9845566749572754,
+      "box": [
+        125,
+        406,
+        400,
+        435
+      ]
+    },
+    {
+      "text": "- Delivered structured lessons in reading and mathematics",
+      "score": 0.9939918518066406,
+      "box": [
+        127,
+        431,
+        666,
+        457
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999330043792725,
+      "box": [
+        116,
+        494,
+        267,
+        521
+      ]
+    },
+    {
+      "text": "Master's, Foundations of Learning, Southridge University, 2022",
+      "score": 0.9885006546974182,
+      "box": [
+        114,
+        539,
+        700,
+        567
+      ]
+    },
+    {
+      "text": "Bachelor's, Learning Skills, Willowhaven University, 2020",
+      "score": 0.9825944900512695,
+      "box": [
+        117,
+        566,
+        644,
+        590
+      ]
+    },
+    {
+      "text": "•Studied foundational learning strategies",
+      "score": 0.9665440917015076,
+      "box": [
+        128,
+        590,
+        516,
+        619
+      ]
+    },
+    {
+      "text": "•Studied fundamentals of instructional pacing",
+      "score": 0.9719929099082947,
+      "box": [
+        129,
+        614,
+        557,
+        644
+      ]
+    }
+  ],
+  "seconds": 2.4831841997802258,
+  "id": "16815",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

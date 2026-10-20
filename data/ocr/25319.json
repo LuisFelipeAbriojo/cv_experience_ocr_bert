@@ -1,0 +1,202 @@
+{
+  "lines": [
+    {
+      "text": "MARGARET BERRY",
+      "score": 0.9997013807296753,
+      "box": [
+        116,
+        90,
+        437,
+        122
+      ]
+    },
+    {
+      "text": "MA, USA | +1-677-891-8422 | margaret.berry@example.com",
+      "score": 0.9965348243713379,
+      "box": [
+        115,
+        150,
+        680,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9969072341918945,
+      "box": [
+        117,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, ClearView Health Center, 2019.09—2023.01",
+      "score": 0.9927212595939636,
+      "box": [
+        117,
+        289,
+        705,
+        316
+      ]
+    },
+    {
+      "text": "- Established quality assurance systems",
+      "score": 0.9824591279029846,
+      "box": [
+        126,
+        314,
+        502,
+        343
+      ]
+    },
+    {
+      "text": "- Implemented care pathway frameworks",
+      "score": 0.9941054582595825,
+      "box": [
+        126,
+        339,
+        507,
+        368
+      ]
+    },
+    {
+      "text": "Registered Nurses, NewLeaf Health Group, 2016.052019.09",
+      "score": 0.9989339113235474,
+      "box": [
+        116,
+        381,
+        688,
+        410
+      ]
+    },
+    {
+      "text": "- Directed clinical quality improvement initiatives",
+      "score": 0.9897930026054382,
+      "box": [
+        125,
+        406,
+        573,
+        435
+      ]
+    },
+    {
+      "text": "- Implemented clinical decision support systems",
+      "score": 0.9988491535186768,
+      "box": [
+        127,
+        432,
+        571,
+        459
+      ]
+    },
+    {
+      "text": "Registered Nurses, SafePath Nursing, 2013.01-2016.05",
+      "score": 0.9908391237258911,
+      "box": [
+        115,
+        469,
+        641,
+        501
+      ]
+    },
+    {
+      "text": "- Implemented patient education programs",
+      "score": 0.9929367303848267,
+      "box": [
+        125,
+        497,
+        522,
+        526
+      ]
+    },
+    {
+      "text": "- Conducted medication reconciliation",
+      "score": 0.9930453896522522,
+      "box": [
+        128,
+        522,
+        476,
+        549
+      ]
+    },
+    {
+      "text": "Registered Nurses, OpenLife Nursing Services, 2009.08—2013.01",
+      "score": 0.9913821220397949,
+      "box": [
+        117,
+        565,
+        724,
+        592
+      ]
+    },
+    {
+      "text": "- Assisted with respiratory treatments",
+      "score": 0.9919907450675964,
+      "box": [
+        126,
+        589,
+        474,
+        617
+      ]
+    },
+    {
+      "text": "- Assisted with surgical prep",
+      "score": 0.9968264102935791,
+      "box": [
+        125,
+        614,
+        391,
+        644
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999198913574219,
+      "box": [
+        117,
+        681,
+        266,
+        705
+      ]
+    },
+    {
+      "text": "Bachelor's, Health Education, Havenwood University, 2008",
+      "score": 0.9858605265617371,
+      "box": [
+        117,
+        726,
+        661,
+        749
+      ]
+    },
+    {
+      "text": "Completed coursework in patient confidentiality",
+      "score": 0.9903483986854553,
+      "box": [
+        130,
+        748,
+        585,
+        775
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of infection diseases nursing",
+      "score": 0.9875057935714722,
+      "box": [
+        133,
+        773,
+        618,
+        800
+      ]
+    }
+  ],
+  "seconds": 17.229570799972862,
+  "id": "25319",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

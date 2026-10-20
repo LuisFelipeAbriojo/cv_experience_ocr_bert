@@ -1,0 +1,132 @@
+{
+  "lines": [
+    {
+      "text": "CHRISTOPHER WILEY",
+      "score": 0.999514102935791,
+      "box": [
+        117,
+        89,
+        475,
+        122
+      ]
+    },
+    {
+      "text": "PA, USA | +1-870-465-1457 | christopher.wiley@example.com",
+      "score": 0.9774361252784729,
+      "box": [
+        115,
+        150,
+        695,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9991946816444397,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, SureStep Builders, 2021.012023.01",
+      "score": 0.9906887412071228,
+      "box": [
+        116,
+        288,
+        676,
+        316
+      ]
+    },
+    {
+      "text": "- Coordinated large-scale material logistics",
+      "score": 0.9916183948516846,
+      "box": [
+        126,
+        315,
+        523,
+        341
+      ]
+    },
+    {
+      "text": "- Led structural installation projects",
+      "score": 0.9988149404525757,
+      "box": [
+        128,
+        340,
+        452,
+        366
+      ]
+    },
+    {
+      "text": "Construction Laborers, ClearPoint Builders, 2016.122018.12",
+      "score": 0.9879114031791687,
+      "box": [
+        116,
+        380,
+        689,
+        408
+      ]
+    },
+    {
+      "text": "- Set up ladders and basic scaffolding",
+      "score": 0.9934963583946228,
+      "box": [
+        124,
+        405,
+        478,
+        435
+      ]
+    },
+    {
+      "text": "- Assisted with concrete pouring",
+      "score": 0.9986013174057007,
+      "box": [
+        127,
+        429,
+        426,
+        461
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999301433563232,
+      "box": [
+        117,
+        494,
+        267,
+        521
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Construction Quality Control, Vista High School, 2014",
+      "score": 0.9966355562210083,
+      "box": [
+        116,
+        540,
+        872,
+        567
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of construction planning",
+      "score": 0.988261878490448,
+      "box": [
+        132,
+        565,
+        576,
+        592
+      ]
+    }
+  ],
+  "seconds": 2.157031700015068,
+  "id": "46853",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

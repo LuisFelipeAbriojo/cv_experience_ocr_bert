@@ -1,0 +1,132 @@
+{
+  "lines": [
+    {
+      "text": "CRISTEN KENT",
+      "score": 0.9998335838317871,
+      "box": [
+        118,
+        91,
+        365,
+        122
+      ]
+    },
+    {
+      "text": "WA, USA | +1-937-550-6900 |cristen.kent@example.com",
+      "score": 0.9784692525863647,
+      "box": [
+        117,
+        151,
+        650,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9997561573982239,
+      "box": [
+        117,
+        243,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Construction Laborers, ClearWay Construction, 2020.012022.04",
+      "score": 0.9936184287071228,
+      "box": [
+        117,
+        289,
+        723,
+        316
+      ]
+    },
+    {
+      "text": "- Managed construction schedules",
+      "score": 0.9969150424003601,
+      "box": [
+        126,
+        313,
+        448,
+        342
+      ]
+    },
+    {
+      "text": "- Developed construction standards",
+      "score": 0.9732823967933655,
+      "box": [
+        128,
+        340,
+        456,
+        365
+      ]
+    },
+    {
+      "text": "Construction Laborers, PrimeBuild Co., 2016.122019.04",
+      "score": 0.9909635782241821,
+      "box": [
+        119,
+        382,
+        648,
+        406
+      ]
+    },
+    {
+      "text": "- Assisted with drywall installation",
+      "score": 0.9865859150886536,
+      "box": [
+        126,
+        408,
+        439,
+        432
+      ]
+    },
+    {
+      "text": "- Prepared scaffolding platforms",
+      "score": 0.9925825595855713,
+      "box": [
+        127,
+        430,
+        426,
+        458
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999028444290161,
+      "box": [
+        117,
+        494,
+        267,
+        521
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Construction Management, Canyon View High School, 2013",
+      "score": 0.9998127222061157,
+      "box": [
+        117,
+        540,
+        933,
+        567
+      ]
+    },
+    {
+      "text": "• Completed coursework in basic structural demolition",
+      "score": 0.985098659992218,
+      "box": [
+        134,
+        566,
+        630,
+        590
+      ]
+    }
+  ],
+  "seconds": 2.329876400064677,
+  "id": "57909",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

@@ -1,0 +1,172 @@
+{
+  "lines": [
+    {
+      "text": "BRANDON NEAL",
+      "score": 0.9685484766960144,
+      "box": [
+        117,
+        89,
+        390,
+        122
+      ]
+    },
+    {
+      "text": "MI, USA | +1-310-465-3537 | brandon.neal@example.com",
+      "score": 0.9899654984474182,
+      "box": [
+        116,
+        151,
+        656,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9987999796867371,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Corecrest Labs, 2020.12—2023.01",
+      "score": 0.9881786108016968,
+      "box": [
+        117,
+        291,
+        636,
+        315
+      ]
+    },
+    {
+      "text": "- Implemented long-term maintenance plans",
+      "score": 0.9957531094551086,
+      "box": [
+        127,
+        317,
+        537,
+        341
+      ]
+    },
+    {
+      "text": "- Defined integration standards",
+      "score": 0.9972651600837708,
+      "box": [
+        127,
+        339,
+        416,
+        367
+      ]
+    },
+    {
+      "text": "Software Developers, Cloudstack Digital, 2018.112020.12",
+      "score": 0.9998003840446472,
+      "box": [
+        116,
+        382,
+        665,
+        409
+      ]
+    },
+    {
+      "text": "- Improved API performance",
+      "score": 0.9817289113998413,
+      "box": [
+        124,
+        405,
+        393,
+        435
+      ]
+    },
+    {
+      "text": "- Wrote automated tests",
+      "score": 0.9993389248847961,
+      "box": [
+        126,
+        431,
+        352,
+        456
+      ]
+    },
+    {
+      "text": "Software Developers, Softpath Labs, 2015.062017.08",
+      "score": 0.9883145689964294,
+      "box": [
+        117,
+        472,
+        626,
+        499
+      ]
+    },
+    {
+      "text": "- Configured development environments",
+      "score": 0.9805119633674622,
+      "box": [
+        126,
+        497,
+        501,
+        525
+      ]
+    },
+    {
+      "text": "- Wrote configuration parsers",
+      "score": 0.9916627407073975,
+      "box": [
+        128,
+        522,
+        399,
+        549
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999353885650635,
+      "box": [
+        118,
+        588,
+        266,
+        612
+      ]
+    },
+    {
+      "text": "Some college (no degree), Oakwood University, 2007",
+      "score": 0.9982419013977051,
+      "box": [
+        117,
+        632,
+        613,
+        659
+      ]
+    },
+    {
+      "text": "• Completed coursework in logic and computation",
+      "score": 0.9910906553268433,
+      "box": [
+        131,
+        659,
+        593,
+        683
+      ]
+    },
+    {
+      "text": "• Studied principles of event-driven architecture",
+      "score": 0.9920331835746765,
+      "box": [
+        133,
+        683,
+        572,
+        707
+      ]
+    }
+  ],
+  "seconds": 3.0301370001398027,
+  "id": "27344",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

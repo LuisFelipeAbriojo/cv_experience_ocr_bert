@@ -1,0 +1,112 @@
+{
+  "lines": [
+    {
+      "text": "SKYE FAULKNER",
+      "score": 0.9972767233848572,
+      "box": [
+        117,
+        91,
+        402,
+        122
+      ]
+    },
+    {
+      "text": "TX, USA | +1-543-447-6660 | skye.faulkner@example.com",
+      "score": 0.9981685876846313,
+      "box": [
+        117,
+        149,
+        662,
+        177
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9997488856315613,
+      "box": [
+        117,
+        243,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Software Developers, Corestack Software, 2019.112021.04",
+      "score": 0.9951837658882141,
+      "box": [
+        117,
+        290,
+        679,
+        314
+      ]
+    },
+    {
+      "text": "- Handled basic deployment tasks",
+      "score": 0.9917628765106201,
+      "box": [
+        127,
+        316,
+        443,
+        340
+      ]
+    },
+    {
+      "text": "- Refactored simple functions for readability",
+      "score": 0.9872254133224487,
+      "box": [
+        128,
+        339,
+        529,
+        367
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999188184738159,
+      "box": [
+        116,
+        404,
+        268,
+        431
+      ]
+    },
+    {
+      "text": "Associate's degree, Oakridge University, 2003",
+      "score": 0.9852863550186157,
+      "box": [
+        117,
+        448,
+        546,
+        475
+      ]
+    },
+    {
+      "text": "• Completed coursework in tree data structures",
+      "score": 0.9891332387924194,
+      "box": [
+        131,
+        475,
+        569,
+        498
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of artificial intelligence",
+      "score": 0.9872579574584961,
+      "box": [
+        132,
+        497,
+        561,
+        524
+      ]
+    }
+  ],
+  "seconds": 2.1085394001565874,
+  "id": "50539",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

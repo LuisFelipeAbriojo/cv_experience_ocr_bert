@@ -1,0 +1,152 @@
+{
+  "lines": [
+    {
+      "text": "VICTOR CHOI",
+      "score": 0.9996632933616638,
+      "box": [
+        117,
+        90,
+        338,
+        121
+      ]
+    },
+    {
+      "text": "NY, USA | +1-974-722-4124 | victor.choi@example.com",
+      "score": 0.9925007820129395,
+      "box": [
+        114,
+        149,
+        635,
+        177
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9991734027862549,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Reliable Balance Financial Group, 2020.09—2023.01",
+      "score": 0.9964455366134644,
+      "box": [
+        115,
+        288,
+        808,
+        316
+      ]
+    },
+    {
+      "text": "- Developed risk management frameworks",
+      "score": 0.9995058178901672,
+      "box": [
+        125,
+        314,
+        521,
+        342
+      ]
+    },
+    {
+      "text": "- Established audit governance structures",
+      "score": 0.9896928668022156,
+      "box": [
+        128,
+        340,
+        513,
+        366
+      ]
+    },
+    {
+      "text": "Accountants Auditors, FairBooks Advisors, 2016.112019.03",
+      "score": 0.998688280582428,
+      "box": [
+        118,
+        382,
+        680,
+        406
+      ]
+    },
+    {
+      "text": "- Maintained vendor records",
+      "score": 0.9988476037979126,
+      "box": [
+        126,
+        408,
+        390,
+        432
+      ]
+    },
+    {
+      "text": "- Recorded cash receipts",
+      "score": 0.9826433062553406,
+      "box": [
+        126,
+        430,
+        363,
+        460
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999525547027588,
+      "box": [
+        116,
+        494,
+        268,
+        521
+      ]
+    },
+    {
+      "text": "Master's, Managerial Accounting, Cedar Valley University, 2015",
+      "score": 0.9981603026390076,
+      "box": [
+        116,
+        542,
+        707,
+        566
+      ]
+    },
+    {
+      "text": "Bachelor's, Accounting and Auditing, Clearstone University, 2013",
+      "score": 0.9828358888626099,
+      "box": [
+        117,
+        567,
+        719,
+        591
+      ]
+    },
+    {
+      "text": "• Completed coursework in contribution margin analysis",
+      "score": 0.9846732020378113,
+      "box": [
+        130,
+        592,
+        648,
+        617
+      ]
+    },
+    {
+      "text": "Completed coursework in fraud examination basics",
+      "score": 0.9978570938110352,
+      "box": [
+        131,
+        614,
+        621,
+        643
+      ]
+    }
+  ],
+  "seconds": 2.646435000002384,
+  "id": "36994",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

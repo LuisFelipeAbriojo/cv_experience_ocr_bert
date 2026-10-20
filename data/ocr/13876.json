@@ -1,0 +1,142 @@
+{
+  "lines": [
+    {
+      "text": "LESLIE STRONG",
+      "score": 0.9995266795158386,
+      "box": [
+        117,
+        91,
+        386,
+        122
+      ]
+    },
+    {
+      "text": "FL, USA | +1-725-875-8260 | leslie.strong@example.com",
+      "score": 0.9931568503379822,
+      "box": [
+        116,
+        149,
+        647,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9990885853767395,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Sunny Grove School, 2020.09—2023.01",
+      "score": 0.9768003225326538,
+      "box": [
+        117,
+        289,
+        828,
+        316
+      ]
+    },
+    {
+      "text": "- Led curriculum integration projects",
+      "score": 0.9921465516090393,
+      "box": [
+        127,
+        317,
+        460,
+        341
+      ]
+    },
+    {
+      "text": "- Established curriculum evaluation protocols",
+      "score": 0.9902870059013367,
+      "box": [
+        125,
+        339,
+        544,
+        367
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Learning Path Academy, 2018.05—2020.09",
+      "score": 0.9768049716949463,
+      "box": [
+        116,
+        381,
+        861,
+        411
+      ]
+    },
+    {
+      "text": "- Recorded behavioral observations",
+      "score": 0.9993826746940613,
+      "box": [
+        126,
+        407,
+        458,
+        433
+      ]
+    },
+    {
+      "text": "- Implemented basic classroom management procedures",
+      "score": 0.9988665580749512,
+      "box": [
+        128,
+        430,
+        656,
+        460
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999463558197021,
+      "box": [
+        116,
+        494,
+        268,
+        521
+      ]
+    },
+    {
+      "text": "Bachelor's, Child Development, Canyon View University, 2016",
+      "score": 0.9871512651443481,
+      "box": [
+        116,
+        541,
+        693,
+        568
+      ]
+    },
+    {
+      "text": "•Studied principles of learner assessment",
+      "score": 0.985199511051178,
+      "box": [
+        130,
+        567,
+        526,
+        591
+      ]
+    },
+    {
+      "text": "• Studied principles of differentiated instruction",
+      "score": 0.9869039058685303,
+      "box": [
+        132,
+        592,
+        564,
+        616
+      ]
+    }
+  ],
+  "seconds": 2.6217597001232207,
+  "id": "13876",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

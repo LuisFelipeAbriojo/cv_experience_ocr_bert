@@ -1,0 +1,142 @@
+{
+  "lines": [
+    {
+      "text": "MATTHEW BURTON",
+      "score": 0.999609649181366,
+      "box": [
+        117,
+        91,
+        441,
+        121
+      ]
+    },
+    {
+      "text": "PA, USA | +1-311-292-9192 | matthew.burton@example.com",
+      "score": 0.9733253717422485,
+      "box": [
+        117,
+        152,
+        683,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9989565014839172,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Codepoint Labs, 2019.072021.10",
+      "score": 0.9995843768119812,
+      "box": [
+        116,
+        289,
+        644,
+        316
+      ]
+    },
+    {
+      "text": "- Defined code review processes",
+      "score": 0.9935214519500732,
+      "box": [
+        126,
+        315,
+        433,
+        341
+      ]
+    },
+    {
+      "text": "- Led database design efforts",
+      "score": 0.991778552532196,
+      "box": [
+        129,
+        340,
+        400,
+        367
+      ]
+    },
+    {
+      "text": "Software Developers, Dataforge Systems, 2015.10—2018.01",
+      "score": 0.9892074465751648,
+      "box": [
+        114,
+        379,
+        674,
+        410
+      ]
+    },
+    {
+      "text": "- Implemented REST endpoints",
+      "score": 0.9990202188491821,
+      "box": [
+        125,
+        406,
+        422,
+        434
+      ]
+    },
+    {
+      "text": "- Maintained code repositories",
+      "score": 0.9877830743789673,
+      "box": [
+        126,
+        430,
+        410,
+        458
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999182224273682,
+      "box": [
+        116,
+        494,
+        267,
+        521
+      ]
+    },
+    {
+      "text": "Bachelor's, Seabreeze University, 2013",
+      "score": 0.9878947734832764,
+      "box": [
+        116,
+        540,
+        483,
+        566
+      ]
+    },
+    {
+      "text": "• Completed coursework in pointer arithmetic basics",
+      "score": 0.9831496477127075,
+      "box": [
+        131,
+        567,
+        614,
+        590
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of recursion techniques",
+      "score": 0.9840877652168274,
+      "box": [
+        132,
+        590,
+        572,
+        616
+      ]
+    }
+  ],
+  "seconds": 2.2050397000275552,
+  "id": "45106",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

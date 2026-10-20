@@ -1,0 +1,172 @@
+{
+  "lines": [
+    {
+      "text": "ALLANTE STARK",
+      "score": 0.9997867345809937,
+      "box": [
+        117,
+        90,
+        398,
+        122
+      ]
+    },
+    {
+      "text": "NY, USA | +1-696-244-3483 | allante.stark@example.com",
+      "score": 0.9743013978004456,
+      "box": [
+        117,
+        152,
+        652,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9991222023963928,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, ClearLedger Group, 2019.112023.01",
+      "score": 0.9920072555541992,
+      "box": [
+        115,
+        288,
+        677,
+        317
+      ]
+    },
+    {
+      "text": "- Directed strategic accounting initiatives",
+      "score": 0.9751728177070618,
+      "box": [
+        127,
+        315,
+        502,
+        342
+      ]
+    },
+    {
+      "text": "- Developed financial performance metrics",
+      "score": 0.9936724305152893,
+      "box": [
+        128,
+        340,
+        520,
+        366
+      ]
+    },
+    {
+      "text": "Accountants Auditors, TrustCount Financial, 2016.09—2019.11",
+      "score": 0.9896865487098694,
+      "box": [
+        118,
+        383,
+        692,
+        407
+      ]
+    },
+    {
+      "text": "- Prepared consolidation entries",
+      "score": 0.9875271916389465,
+      "box": [
+        125,
+        407,
+        425,
+        432
+      ]
+    },
+    {
+      "text": "- Managed accounts receivable cycles",
+      "score": 0.987437903881073,
+      "box": [
+        128,
+        434,
+        483,
+        457
+      ]
+    },
+    {
+      "text": "Accountants Auditors, CoreCount Services, 2013.06—2016.09",
+      "score": 0.9811621308326721,
+      "box": [
+        118,
+        473,
+        687,
+        497
+      ]
+    },
+    {
+      "text": "- Assisted with forecasting data",
+      "score": 0.9984610676765442,
+      "box": [
+        126,
+        499,
+        418,
+        523
+      ]
+    },
+    {
+      "text": "- Reviewed ledger postings",
+      "score": 0.992370069026947,
+      "box": [
+        127,
+        521,
+        382,
+        551
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9998791217803955,
+      "box": [
+        117,
+        587,
+        267,
+        614
+      ]
+    },
+    {
+      "text": "Bachelor's, International Business, Stonebrook University, 2012",
+      "score": 0.9956051111221313,
+      "box": [
+        117,
+        632,
+        706,
+        659
+      ]
+    },
+    {
+      "text": "Studied principles of business analytics",
+      "score": 0.9987837076187134,
+      "box": [
+        130,
+        657,
+        513,
+        684
+      ]
+    },
+    {
+      "text": "• Completed coursework in financial disclosure",
+      "score": 0.9887370467185974,
+      "box": [
+        133,
+        683,
+        565,
+        707
+      ]
+    }
+  ],
+  "seconds": 2.719511799979955,
+  "id": "38949",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

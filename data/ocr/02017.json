@@ -1,0 +1,122 @@
+{
+  "lines": [
+    {
+      "text": "MACI KOCH",
+      "score": 0.9920473098754883,
+      "box": [
+        115,
+        87,
+        312,
+        123
+      ]
+    },
+    {
+      "text": "AZ, USA | +1-551-208-9599 | maci.koch@example.com",
+      "score": 0.9866987466812134,
+      "box": [
+        118,
+        152,
+        631,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9997487664222717,
+      "box": [
+        117,
+        243,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Golden Field Academy, 2019.07-2022.05",
+      "score": 0.9875304102897644,
+      "box": [
+        116,
+        288,
+        848,
+        316
+      ]
+    },
+    {
+      "text": "- Organized classroom learning resources",
+      "score": 0.987066388130188,
+      "box": [
+        127,
+        315,
+        517,
+        341
+      ]
+    },
+    {
+      "text": "- Implemented lesson pacing guidelines",
+      "score": 0.9702855944633484,
+      "box": [
+        127,
+        338,
+        497,
+        368
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999501705169678,
+      "box": [
+        116,
+        404,
+        268,
+        431
+      ]
+    },
+    {
+      "text": "Master's, Education Preparation, Larkspur University, 2014",
+      "score": 0.9914308786392212,
+      "box": [
+        116,
+        448,
+        663,
+        475
+      ]
+    },
+    {
+      "text": "Bachelor's, Child Development, Greenfield Ridge University, 2012",
+      "score": 0.99783855676651,
+      "box": [
+        116,
+        473,
+        727,
+        500
+      ]
+    },
+    {
+      "text": "•Completed coursework in student-centered learning",
+      "score": 0.9797115325927734,
+      "box": [
+        130,
+        497,
+        627,
+        526
+      ]
+    },
+    {
+      "text": "Completed coursework in educational skill building",
+      "score": 0.9887674450874329,
+      "box": [
+        132,
+        521,
+        616,
+        551
+      ]
+    }
+  ],
+  "seconds": 2.3097516996786,
+  "id": "02017",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

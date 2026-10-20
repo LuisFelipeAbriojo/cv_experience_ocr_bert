@@ -1,0 +1,172 @@
+{
+  "lines": [
+    {
+      "text": "ROSS GIBBS",
+      "score": 0.9998485445976257,
+      "box": [
+        116,
+        87,
+        327,
+        123
+      ]
+    },
+    {
+      "text": "WA, USA | +1-557-749-1294 | ross.gibbs@example.com",
+      "score": 0.9949008226394653,
+      "box": [
+        115,
+        149,
+        640,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9991553425788879,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, Compassion Way Care, 2019.122023.01",
+      "score": 0.993373453617096,
+      "box": [
+        117,
+        289,
+        689,
+        316
+      ]
+    },
+    {
+      "text": "- Led nursing process audits",
+      "score": 0.9617534875869751,
+      "box": [
+        126,
+        314,
+        393,
+        343
+      ]
+    },
+    {
+      "text": "- Developed patient safety programs",
+      "score": 0.979752779006958,
+      "box": [
+        127,
+        339,
+        465,
+        368
+      ]
+    },
+    {
+      "text": "Registered Nurses, Harmony Health Services, 2016.042019.05",
+      "score": 0.9842636585235596,
+      "box": [
+        118,
+        383,
+        712,
+        407
+      ]
+    },
+    {
+      "text": "- Administered sedation protocols",
+      "score": 0.9988172054290771,
+      "box": [
+        125,
+        407,
+        440,
+        432
+      ]
+    },
+    {
+      "text": "- Coordinated interdisciplinary care",
+      "score": 0.9770395755767822,
+      "box": [
+        127,
+        431,
+        453,
+        459
+      ]
+    },
+    {
+      "text": "Registered Nurses, ClearPath Nursing Group, 2011.112015.01",
+      "score": 0.9995811581611633,
+      "box": [
+        117,
+        472,
+        709,
+        499
+      ]
+    },
+    {
+      "text": "- Assisted with surgical prep",
+      "score": 0.9797880053520203,
+      "box": [
+        126,
+        496,
+        391,
+        526
+      ]
+    },
+    {
+      "text": "- Performed wound dressing changes",
+      "score": 0.9977912902832031,
+      "box": [
+        127,
+        520,
+        476,
+        550
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999525547027588,
+      "box": [
+        118,
+        588,
+        266,
+        612
+      ]
+    },
+    {
+      "text": "Bachelor's, Health Studies, Clearwater University, 2002",
+      "score": 0.9821911454200745,
+      "box": [
+        116,
+        630,
+        630,
+        658
+      ]
+    },
+    {
+      "text": "• Completed coursework in electronic health records",
+      "score": 0.987157940864563,
+      "box": [
+        132,
+        658,
+        617,
+        682
+      ]
+    },
+    {
+      "text": "Completed coursework in rehabilitation nursing",
+      "score": 0.9775460958480835,
+      "box": [
+        132,
+        680,
+        583,
+        709
+      ]
+    }
+  ],
+  "seconds": 2.708110900130123,
+  "id": "59109",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

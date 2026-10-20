@@ -1,0 +1,202 @@
+{
+  "lines": [
+    {
+      "text": "JASON HOLLOWAY",
+      "score": 0.9996477961540222,
+      "box": [
+        115,
+        90,
+        437,
+        122
+      ]
+    },
+    {
+      "text": "AR, USA | +1-755-666-3862 | jason.holloway@example.com",
+      "score": 0.9867441654205322,
+      "box": [
+        116,
+        150,
+        677,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9990448951721191,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, Harmony Nursing Group, 2019.05—2023.01",
+      "score": 0.988389790058136,
+      "box": [
+        115,
+        287,
+        702,
+        320
+      ]
+    },
+    {
+      "text": "- Directed interdisciplinary workflow alignment",
+      "score": 0.9975639581680298,
+      "box": [
+        125,
+        313,
+        555,
+        343
+      ]
+    },
+    {
+      "text": "- Managed clinical risk assessments",
+      "score": 0.9901195168495178,
+      "box": [
+        126,
+        339,
+        464,
+        368
+      ]
+    },
+    {
+      "text": "Registered Nurses, Compassion Hands Care, 2015.092019.05",
+      "score": 0.9977712631225586,
+      "box": [
+        116,
+        381,
+        709,
+        409
+      ]
+    },
+    {
+      "text": "- Directed interdisciplinary workflow alignment",
+      "score": 0.9922682642936707,
+      "box": [
+        126,
+        407,
+        553,
+        434
+      ]
+    },
+    {
+      "text": "- Developed medication management policies",
+      "score": 0.9803685545921326,
+      "box": [
+        127,
+        432,
+        552,
+        458
+      ]
+    },
+    {
+      "text": "Registered Nurses, OpenBridge Nursing Services, 2010.102014.06",
+      "score": 0.9878146648406982,
+      "box": [
+        117,
+        473,
+        752,
+        500
+      ]
+    },
+    {
+      "text": "- Managed pain control plans",
+      "score": 0.997866690158844,
+      "box": [
+        125,
+        497,
+        401,
+        525
+      ]
+    },
+    {
+      "text": "- Educated patients on treatment plans",
+      "score": 0.9793953895568848,
+      "box": [
+        126,
+        521,
+        487,
+        550
+      ]
+    },
+    {
+      "text": "Registered Nurses, Compassion Health Group, 2006.012009.09",
+      "score": 0.9980279803276062,
+      "box": [
+        118,
+        566,
+        721,
+        590
+      ]
+    },
+    {
+      "text": "- Prepared intravenous solutions",
+      "score": 0.9852514266967773,
+      "box": [
+        126,
+        589,
+        432,
+        617
+      ]
+    },
+    {
+      "text": "- Checked laboratory results",
+      "score": 0.9915137887001038,
+      "box": [
+        126,
+        613,
+        391,
+        644
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999245405197144,
+      "box": [
+        117,
+        681,
+        266,
+        705
+      ]
+    },
+    {
+      "text": "Bachelor's, Public Health, Elm Valley University, 2003",
+      "score": 0.9914126396179199,
+      "box": [
+        115,
+        723,
+        615,
+        750
+      ]
+    },
+    {
+      "text": "•Studied fundamentals of care coordination",
+      "score": 0.9913023114204407,
+      "box": [
+        131,
+        749,
+        540,
+        773
+      ]
+    },
+    {
+      "text": "•Completed coursework in nursing standards of practice",
+      "score": 0.9816396236419678,
+      "box": [
+        132,
+        772,
+        657,
+        800
+      ]
+    }
+  ],
+  "seconds": 3.3357317997142673,
+  "id": "02470",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

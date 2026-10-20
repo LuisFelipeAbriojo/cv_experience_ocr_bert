@@ -1,0 +1,102 @@
+{
+  "lines": [
+    {
+      "text": "JEEVAN TERRY",
+      "score": 0.9884045720100403,
+      "box": [
+        115,
+        89,
+        375,
+        123
+      ]
+    },
+    {
+      "text": "IL, USA | +1-747-942-5575 | jeevan.terry@example.com",
+      "score": 0.9858435988426208,
+      "box": [
+        117,
+        150,
+        638,
+        177
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9997456669807434,
+      "box": [
+        117,
+        243,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Construction Laborers, StrongLine Builders, 2021.03—2023.01",
+      "score": 0.9900378584861755,
+      "box": [
+        118,
+        290,
+        688,
+        314
+      ]
+    },
+    {
+      "text": "- Assisted with equipment maintenance",
+      "score": 0.9801365733146667,
+      "box": [
+        126,
+        315,
+        493,
+        341
+      ]
+    },
+    {
+      "text": "- Installed basic flooring materials",
+      "score": 0.9863476157188416,
+      "box": [
+        129,
+        341,
+        439,
+        365
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9998294115066528,
+      "box": [
+        116,
+        404,
+        268,
+        431
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Construction Field Operations, Meadowland High School, 2021",
+      "score": 0.994775652885437,
+      "box": [
+        116,
+        447,
+        958,
+        474
+      ]
+    },
+    {
+      "text": "Studied fundamentals of job site layout",
+      "score": 0.9994581341743469,
+      "box": [
+        128,
+        472,
+        509,
+        500
+      ]
+    }
+  ],
+  "seconds": 1.9206849997863173,
+  "id": "18905",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

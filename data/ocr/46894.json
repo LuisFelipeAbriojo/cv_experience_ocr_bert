@@ -1,0 +1,152 @@
+{
+  "lines": [
+    {
+      "text": "IVAN WHITE",
+      "score": 0.9993297457695007,
+      "box": [
+        116,
+        91,
+        314,
+        122
+      ]
+    },
+    {
+      "text": "PA, USA | +1-449-203-9824 | ivan.white@example.com",
+      "score": 0.9758798480033875,
+      "box": [
+        117,
+        152,
+        631,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9997186660766602,
+      "box": [
+        117,
+        243,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Software Developers, Openfield Labs, 2021.012023.01",
+      "score": 0.9934516549110413,
+      "box": [
+        116,
+        289,
+        636,
+        316
+      ]
+    },
+    {
+      "text": "- Designed scalable services",
+      "score": 0.9975761771202087,
+      "box": [
+        127,
+        313,
+        397,
+        343
+      ]
+    },
+    {
+      "text": "- Implemented security architectures",
+      "score": 0.9897271394729614,
+      "box": [
+        128,
+        338,
+        466,
+        369
+      ]
+    },
+    {
+      "text": "Software Developers, Stonepath Digital, 2018.12—2021.01",
+      "score": 0.9778326153755188,
+      "box": [
+        115,
+        380,
+        654,
+        408
+      ]
+    },
+    {
+      "text": "- Updated routing logic",
+      "score": 0.982323944568634,
+      "box": [
+        126,
+        405,
+        341,
+        434
+      ]
+    },
+    {
+      "text": "- Resolved merge conflicts",
+      "score": 0.9783450365066528,
+      "box": [
+        127,
+        432,
+        376,
+        458
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999037981033325,
+      "box": [
+        116,
+        494,
+        267,
+        521
+      ]
+    },
+    {
+      "text": "Master's, Clearstone University, 2023",
+      "score": 0.9977063536643982,
+      "box": [
+        114,
+        539,
+        464,
+        567
+      ]
+    },
+    {
+      "text": "Bachelor's, Riverside University, 2021",
+      "score": 0.9955458641052246,
+      "box": [
+        117,
+        567,
+        466,
+        591
+      ]
+    },
+    {
+      "text": "•Completed coursework in system programming",
+      "score": 0.9753316640853882,
+      "box": [
+        129,
+        590,
+        586,
+        619
+      ]
+    },
+    {
+      "text": "Completed coursework in inversion of control",
+      "score": 0.995983362197876,
+      "box": [
+        131,
+        614,
+        566,
+        642
+      ]
+    }
+  ],
+  "seconds": 2.1929923999123275,
+  "id": "46894",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

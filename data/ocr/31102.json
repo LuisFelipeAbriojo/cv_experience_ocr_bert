@@ -1,0 +1,102 @@
+{
+  "lines": [
+    {
+      "text": "ALEXIS WILSON",
+      "score": 0.9824232459068298,
+      "box": [
+        117,
+        89,
+        383,
+        123
+      ]
+    },
+    {
+      "text": "MO, USA | +1-702-336-7627 | alexis.wilson@example.com",
+      "score": 0.9885509610176086,
+      "box": [
+        116,
+        150,
+        663,
+        177
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9997518658638,
+      "box": [
+        117,
+        243,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Software Developers, Cloudstack Digital, 2021.06—2023.01",
+      "score": 0.9946475625038147,
+      "box": [
+        114,
+        286,
+        663,
+        317
+      ]
+    },
+    {
+      "text": "- Updated routing logic",
+      "score": 0.9978342652320862,
+      "box": [
+        125,
+        313,
+        341,
+        342
+      ]
+    },
+    {
+      "text": "- Implemented REST endpoints",
+      "score": 0.996473491191864,
+      "box": [
+        127,
+        338,
+        422,
+        367
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999476671218872,
+      "box": [
+        116,
+        404,
+        268,
+        431
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Sunset Ridge High School, 2020",
+      "score": 0.9891935586929321,
+      "box": [
+        114,
+        445,
+        679,
+        476
+      ]
+    },
+    {
+      "text": "•Studied fundamentals of NoSQL systems",
+      "score": 0.9842664003372192,
+      "box": [
+        129,
+        473,
+        530,
+        499
+      ]
+    }
+  ],
+  "seconds": 1.9213908999226987,
+  "id": "31102",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

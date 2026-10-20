@@ -1,0 +1,142 @@
+{
+  "lines": [
+    {
+      "text": "ANTHONY ROWE",
+      "score": 0.9995262026786804,
+      "box": [
+        118,
+        90,
+        396,
+        121
+      ]
+    },
+    {
+      "text": "WI, USA | +1-238-929-2051 | anthony.rowe@example.com",
+      "score": 0.993667483329773,
+      "box": [
+        116,
+        149,
+        662,
+        177
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9995384216308594,
+      "box": [
+        116,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Construction Laborers, TrueLine Builders, 2020.072023.01",
+      "score": 0.9974190592765808,
+      "box": [
+        118,
+        290,
+        670,
+        314
+      ]
+    },
+    {
+      "text": "- Managed multi-phase projects",
+      "score": 0.9993656277656555,
+      "box": [
+        125,
+        313,
+        423,
+        341
+      ]
+    },
+    {
+      "text": "- Developed site performance metrics",
+      "score": 0.9765419363975525,
+      "box": [
+        127,
+        339,
+        477,
+        367
+      ]
+    },
+    {
+      "text": "Construction Laborers, Clearline Builders, 2016.04—2018.10",
+      "score": 0.9801643490791321,
+      "box": [
+        117,
+        381,
+        672,
+        406
+      ]
+    },
+    {
+      "text": "- Installed insulation materials",
+      "score": 0.998412013053894,
+      "box": [
+        126,
+        408,
+        406,
+        431
+      ]
+    },
+    {
+      "text": "- Marked measurements on materials",
+      "score": 0.982107937335968,
+      "box": [
+        127,
+        431,
+        474,
+        455
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9994057416915894,
+      "box": [
+        118,
+        495,
+        267,
+        519
+      ]
+    },
+    {
+      "text": "Some college (no degree), Plumbing Technology, Riverfield University, 2014",
+      "score": 0.9916674494743347,
+      "box": [
+        118,
+        541,
+        823,
+        565
+      ]
+    },
+    {
+      "text": "•Studied principles of workplace safety",
+      "score": 0.9817445278167725,
+      "box": [
+        130,
+        566,
+        497,
+        592
+      ]
+    },
+    {
+      "text": "•Completed coursework in basic rigging techniques",
+      "score": 0.9809461236000061,
+      "box": [
+        130,
+        590,
+        614,
+        618
+      ]
+    }
+  ],
+  "seconds": 2.4251423003152013,
+  "id": "60434",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

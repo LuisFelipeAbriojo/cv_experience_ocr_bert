@@ -1,0 +1,142 @@
+{
+  "lines": [
+    {
+      "text": "JULIUS LAM",
+      "score": 0.9998664855957031,
+      "box": [
+        116,
+        91,
+        319,
+        122
+      ]
+    },
+    {
+      "text": "MA, USA | +1-909-598-7977 | julius.lam@example.com",
+      "score": 0.9761258959770203,
+      "box": [
+        114,
+        149,
+        630,
+        177
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.999711275100708,
+      "box": [
+        117,
+        243,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Software Developers, Clearwave Systems, 2021.042023.01",
+      "score": 0.999725341796875,
+      "box": [
+        116,
+        289,
+        680,
+        316
+      ]
+    },
+    {
+      "text": "- Designed scalable services",
+      "score": 0.9838299751281738,
+      "box": [
+        126,
+        314,
+        396,
+        341
+      ]
+    },
+    {
+      "text": "- Defined scalability roadmaps",
+      "score": 0.9553991556167603,
+      "box": [
+        127,
+        338,
+        410,
+        369
+      ]
+    },
+    {
+      "text": "Software Developers, Stonegrid Tech, 2016.072018.05",
+      "score": 0.9996906518936157,
+      "box": [
+        115,
+        380,
+        639,
+        408
+      ]
+    },
+    {
+      "text": "- Wrote integration tests",
+      "score": 0.9907785058021545,
+      "box": [
+        123,
+        405,
+        353,
+        434
+      ]
+    },
+    {
+      "text": "- Debugged runtime errors",
+      "score": 0.9965474009513855,
+      "box": [
+        125,
+        430,
+        375,
+        460
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999072551727295,
+      "box": [
+        116,
+        494,
+        267,
+        521
+      ]
+    },
+    {
+      "text": "Bachelor's, Sunset Ridge University, 2006",
+      "score": 0.9904358983039856,
+      "box": [
+        117,
+        541,
+        506,
+        565
+      ]
+    },
+    {
+      "text": "•Studied principles of static analysis",
+      "score": 0.9736125469207764,
+      "box": [
+        131,
+        567,
+        472,
+        591
+      ]
+    },
+    {
+      "text": "• Completed coursework in cloud services integration",
+      "score": 0.980724036693573,
+      "box": [
+        132,
+        592,
+        623,
+        616
+      ]
+    }
+  ],
+  "seconds": 2.1703856997191906,
+  "id": "25562",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

@@ -1,0 +1,212 @@
+{
+  "lines": [
+    {
+      "text": "APRIL LEBLANC",
+      "score": 0.9998396635055542,
+      "box": [
+        118,
+        91,
+        387,
+        122
+      ]
+    },
+    {
+      "text": "WA, USA | +1-979-844-4593 | april.leblanc@example.com",
+      "score": 0.9837701320648193,
+      "box": [
+        115,
+        150,
+        656,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9991713166236877,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Golden Futures Academy, 2018.09—2023.01",
+      "score": 0.9926843643188477,
+      "box": [
+        117,
+        290,
+        873,
+        317
+      ]
+    },
+    {
+      "text": "- Led professional development planning",
+      "score": 0.9786465167999268,
+      "box": [
+        126,
+        316,
+        505,
+        342
+      ]
+    },
+    {
+      "text": "- Designed instructional accountability systems",
+      "score": 0.9918365478515625,
+      "box": [
+        126,
+        339,
+        562,
+        369
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Bright Start School, 2014.052018.09",
+      "score": 0.9942934513092041,
+      "box": [
+        117,
+        382,
+        812,
+        409
+      ]
+    },
+    {
+      "text": "- Implemented curriculum governance structures",
+      "score": 0.9988661408424377,
+      "box": [
+        126,
+        408,
+        577,
+        434
+      ]
+    },
+    {
+      "text": "- Directed assessment development efforts",
+      "score": 0.9965853691101074,
+      "box": [
+        126,
+        432,
+        525,
+        457
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Open Door School, 2010.01—2014.05",
+      "score": 0.987176239490509,
+      "box": [
+        117,
+        471,
+        810,
+        499
+      ]
+    },
+    {
+      "text": "- Developed progress monitoring tools",
+      "score": 0.9914289712905884,
+      "box": [
+        125,
+        497,
+        482,
+        526
+      ]
+    },
+    {
+      "text": "- Designed reading intervention plans",
+      "score": 0.997850239276886,
+      "box": [
+        127,
+        522,
+        474,
+        551
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Growing Path Academy, 2005.08—2010.01",
+      "score": 0.9898669719696045,
+      "box": [
+        116,
+        564,
+        855,
+        592
+      ]
+    },
+    {
+      "text": "- Distributed assessment rubrics",
+      "score": 0.9890331625938416,
+      "box": [
+        126,
+        590,
+        428,
+        615
+      ]
+    },
+    {
+      "text": "- Maintained lesson documentation",
+      "score": 0.9949339628219604,
+      "box": [
+        125,
+        613,
+        454,
+        642
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999372959136963,
+      "box": [
+        117,
+        681,
+        266,
+        705
+      ]
+    },
+    {
+      "text": "Master's, Child Studies, North Ridge University, 2005",
+      "score": 0.9938430786132812,
+      "box": [
+        116,
+        724,
+        610,
+        750
+      ]
+    },
+    {
+      "text": "Bachelor's, Educational Foundations, Westbrook University, 2003",
+      "score": 0.9865186810493469,
+      "box": [
+        117,
+        750,
+        723,
+        774
+      ]
+    },
+    {
+      "text": "• Completed coursework in classroom communication techniques",
+      "score": 0.989976704120636,
+      "box": [
+        131,
+        776,
+        737,
+        800
+      ]
+    },
+    {
+      "text": "• Completed introductory coursework in educational psychology",
+      "score": 0.9786108136177063,
+      "box": [
+        133,
+        800,
+        721,
+        827
+      ]
+    }
+  ],
+  "seconds": 2.975170100107789,
+  "id": "58583",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

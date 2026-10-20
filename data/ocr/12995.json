@@ -1,0 +1,132 @@
+{
+  "lines": [
+    {
+      "text": "CODY COBB",
+      "score": 0.9991223216056824,
+      "box": [
+        116,
+        89,
+        323,
+        123
+      ]
+    },
+    {
+      "text": "FL, USA | +1-979-272-9828 | cody.cobb@example.com",
+      "score": 0.9874063730239868,
+      "box": [
+        116,
+        149,
+        631,
+        177
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9997491836547852,
+      "box": [
+        117,
+        243,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Construction Laborers, SureBuild Services, 2020.092023.01",
+      "score": 0.9986552000045776,
+      "box": [
+        118,
+        290,
+        682,
+        314
+      ]
+    },
+    {
+      "text": "- Directed project scheduling",
+      "score": 0.9963569641113281,
+      "box": [
+        125,
+        313,
+        395,
+        343
+      ]
+    },
+    {
+      "text": "- Coordinated large-scale material logistics",
+      "score": 0.9859602451324463,
+      "box": [
+        127,
+        339,
+        524,
+        367
+      ]
+    },
+    {
+      "text": "Construction Laborers, SafeRise Construction, 2016.05—2018.09",
+      "score": 0.986558198928833,
+      "box": [
+        116,
+        380,
+        716,
+        408
+      ]
+    },
+    {
+      "text": "- Dug trenches for utility lines",
+      "score": 0.9875859022140503,
+      "box": [
+        124,
+        406,
+        400,
+        434
+      ]
+    },
+    {
+      "text": "- Assembled prefabricated components",
+      "score": 0.9828577041625977,
+      "box": [
+        127,
+        431,
+        493,
+        458
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999166131019592,
+      "box": [
+        117,
+        494,
+        267,
+        521
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Welding Technology, Pinecrest High School, 2010",
+      "score": 0.9902553558349609,
+      "box": [
+        117,
+        540,
+        841,
+        567
+      ]
+    },
+    {
+      "text": "• Completed coursework in construction materials testing",
+      "score": 0.9854901432991028,
+      "box": [
+        132,
+        564,
+        660,
+        594
+      ]
+    }
+  ],
+  "seconds": 2.1298175998963416,
+  "id": "12995",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

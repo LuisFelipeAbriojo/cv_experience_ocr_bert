@@ -1,0 +1,152 @@
+{
+  "lines": [
+    {
+      "text": "SHAY CAREY",
+      "score": 0.9970490336418152,
+      "box": [
+        117,
+        91,
+        338,
+        122
+      ]
+    },
+    {
+      "text": "CA, USA | +1-760-222-3404 | shay.carey@example.com",
+      "score": 0.9859477877616882,
+      "box": [
+        116,
+        149,
+        641,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.999754011631012,
+      "box": [
+        117,
+        243,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Software Developers, Skyfield Tech, 2020.05—2023.01",
+      "score": 0.9907588362693787,
+      "box": [
+        116,
+        289,
+        621,
+        316
+      ]
+    },
+    {
+      "text": "- Defined integration standards",
+      "score": 0.9997302889823914,
+      "box": [
+        127,
+        315,
+        415,
+        340
+      ]
+    },
+    {
+      "text": "- Implemented service orchestration",
+      "score": 0.9970555901527405,
+      "box": [
+        129,
+        340,
+        460,
+        365
+      ]
+    },
+    {
+      "text": "Software Developers, Clearwave Digital, 2017.09—2020.05",
+      "score": 0.9769476652145386,
+      "box": [
+        116,
+        380,
+        660,
+        408
+      ]
+    },
+    {
+      "text": "- Assisted with container setup",
+      "score": 0.9968733787536621,
+      "box": [
+        124,
+        403,
+        415,
+        435
+      ]
+    },
+    {
+      "text": "- Handled feature toggles",
+      "score": 0.9722775816917419,
+      "box": [
+        126,
+        430,
+        365,
+        460
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999228715896606,
+      "box": [
+        116,
+        494,
+        267,
+        521
+      ]
+    },
+    {
+      "text": "Master's, North Ridge University, 2019",
+      "score": 0.999072253704071,
+      "box": [
+        115,
+        539,
+        476,
+        567
+      ]
+    },
+    {
+      "text": "Bachelor's, Edgewood University, 2017",
+      "score": 0.9776334166526794,
+      "box": [
+        117,
+        566,
+        481,
+        590
+      ]
+    },
+    {
+      "text": "Studied principles of versioning strategies",
+      "score": 0.9992759227752686,
+      "box": [
+        128,
+        590,
+        534,
+        619
+      ]
+    },
+    {
+      "text": "Completed coursework in SQL and data querying",
+      "score": 0.9905419945716858,
+      "box": [
+        130,
+        614,
+        604,
+        644
+      ]
+    }
+  ],
+  "seconds": 2.5655434001237154,
+  "id": "04305",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

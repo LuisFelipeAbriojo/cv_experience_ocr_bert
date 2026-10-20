@@ -1,0 +1,202 @@
+{
+  "lines": [
+    {
+      "text": "JESSEY FINLEY",
+      "score": 0.9997464418411255,
+      "box": [
+        115,
+        89,
+        376,
+        122
+      ]
+    },
+    {
+      "text": "AZ, USA | +1-251-723-4507 | jessey.finley@example.com",
+      "score": 0.9970089793205261,
+      "box": [
+        116,
+        150,
+        652,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9990952610969543,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Accurate Ledger Advisors, 2019.02—2023.01",
+      "score": 0.9921780824661255,
+      "box": [
+        115,
+        288,
+        738,
+        316
+      ]
+    },
+    {
+      "text": "- Led accounting process optimization",
+      "score": 0.9960508346557617,
+      "box": [
+        129,
+        317,
+        480,
+        341
+      ]
+    },
+    {
+      "text": "- Developed financial risk models",
+      "score": 0.9986263513565063,
+      "box": [
+        129,
+        342,
+        436,
+        366
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Reliable Accounts Advisors, 2015.02—2019.02",
+      "score": 0.9922118186950684,
+      "box": [
+        118,
+        383,
+        753,
+        407
+      ]
+    },
+    {
+      "text": "- Developed risk management frameworks",
+      "score": 0.9928014874458313,
+      "box": [
+        127,
+        409,
+        520,
+        433
+      ]
+    },
+    {
+      "text": "- Managed financial compliance programs",
+      "score": 0.9667466282844543,
+      "box": [
+        127,
+        432,
+        516,
+        458
+      ]
+    },
+    {
+      "text": "Accountants Auditors, CoreLedger Services, 2011.02—2015.02",
+      "score": 0.9740205407142639,
+      "box": [
+        115,
+        471,
+        697,
+        499
+      ]
+    },
+    {
+      "text": "- Prepared tax returns",
+      "score": 0.9940562844276428,
+      "box": [
+        126,
+        498,
+        334,
+        524
+      ]
+    },
+    {
+      "text": "- Reviewed payroll reconciliations",
+      "score": 0.9934178590774536,
+      "box": [
+        127,
+        521,
+        440,
+        550
+      ]
+    },
+    {
+      "text": "Accountants Auditors, EverBalance Group, 2007.022011.02",
+      "score": 0.9980683326721191,
+      "box": [
+        118,
+        566,
+        682,
+        590
+      ]
+    },
+    {
+      "text": "- Reviewed account balances",
+      "score": 0.9981462955474854,
+      "box": [
+        126,
+        590,
+        404,
+        616
+      ]
+    },
+    {
+      "text": "- Processed accounts receivable transactions",
+      "score": 0.9993979930877686,
+      "box": [
+        125,
+        613,
+        550,
+        642
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999271035194397,
+      "box": [
+        117,
+        681,
+        266,
+        705
+      ]
+    },
+    {
+      "text": "Bachelor's, Information Systems, Edgewood University, 2007",
+      "score": 0.9874764680862427,
+      "box": [
+        117,
+        726,
+        680,
+        749
+      ]
+    },
+    {
+      "text": "•Studied fundamentals of financial reporting",
+      "score": 0.9891563057899475,
+      "box": [
+        130,
+        748,
+        544,
+        775
+      ]
+    },
+    {
+      "text": "•Studied fundamentals of internal controls",
+      "score": 0.9952758550643921,
+      "box": [
+        132,
+        773,
+        526,
+        798
+      ]
+    }
+  ],
+  "seconds": 2.9858266999945045,
+  "id": "01461",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

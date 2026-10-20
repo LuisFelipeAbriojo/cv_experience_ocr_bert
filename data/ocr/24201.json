@@ -1,0 +1,172 @@
+{
+  "lines": [
+    {
+      "text": "JOAN THORNTON",
+      "score": 0.9689716696739197,
+      "box": [
+        115,
+        90,
+        410,
+        122
+      ]
+    },
+    {
+      "text": "MD, USA | +1-607-913-7521 | joan.thornton@example.com",
+      "score": 0.9842724204063416,
+      "box": [
+        115,
+        150,
+        666,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9990899562835693,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Golden Horizons Academy, 2020.02—2023.01",
+      "score": 0.9883064031600952,
+      "box": [
+        115,
+        287,
+        885,
+        318
+      ]
+    },
+    {
+      "text": "- Directed instructional benchmarking",
+      "score": 0.9938448071479797,
+      "box": [
+        126,
+        314,
+        473,
+        342
+      ]
+    },
+    {
+      "text": "- Designed assessment systems",
+      "score": 0.9951033592224121,
+      "box": [
+        126,
+        339,
+        431,
+        371
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Kind Field School, 2017.032020.02",
+      "score": 0.9940906763076782,
+      "box": [
+        117,
+        382,
+        801,
+        409
+      ]
+    },
+    {
+      "text": "- Administered standardized assessments",
+      "score": 0.9964452981948853,
+      "box": [
+        126,
+        407,
+        517,
+        433
+      ]
+    },
+    {
+      "text": "- Implemented formative assessment strategies",
+      "score": 0.9890467524528503,
+      "box": [
+        127,
+        432,
+        569,
+        459
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Caring Field School, 2012.12—2015.12",
+      "score": 0.9869143962860107,
+      "box": [
+        116,
+        471,
+        821,
+        499
+      ]
+    },
+    {
+      "text": "- Collected student assignments",
+      "score": 0.9878548383712769,
+      "box": [
+        126,
+        498,
+        427,
+        525
+      ]
+    },
+    {
+      "text": "- Reviewed homework assignments",
+      "score": 0.9967483282089233,
+      "box": [
+        127,
+        520,
+        458,
+        551
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9998728632926941,
+      "box": [
+        117,
+        587,
+        267,
+        614
+      ]
+    },
+    {
+      "text": "Some college (no degree), Basic Child Development, Autumn Ridge University, 2003",
+      "score": 0.9894628524780273,
+      "box": [
+        116,
+        631,
+        902,
+        661
+      ]
+    },
+    {
+      "text": "•Studied principles of instructional alignment",
+      "score": 0.9919919371604919,
+      "box": [
+        128,
+        657,
+        552,
+        685
+      ]
+    },
+    {
+      "text": "•Studied principles of student engagement",
+      "score": 0.9913021326065063,
+      "box": [
+        130,
+        681,
+        534,
+        709
+      ]
+    }
+  ],
+  "seconds": 2.958910800050944,
+  "id": "24201",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

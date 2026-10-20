@@ -1,0 +1,172 @@
+{
+  "lines": [
+    {
+      "text": "JANEEN WALSH",
+      "score": 0.9997476935386658,
+      "box": [
+        116,
+        91,
+        387,
+        122
+      ]
+    },
+    {
+      "text": "VA, USA | +1-766-727-2453 | janeen.walsh@example.com",
+      "score": 0.97392737865448,
+      "box": [
+        118,
+        152,
+        661,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9991876482963562,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Little Horizons School, 2019.11—2023.01",
+      "score": 0.9873247742652893,
+      "box": [
+        116,
+        288,
+        839,
+        316
+      ]
+    },
+    {
+      "text": "- Implemented assessment policy frameworks",
+      "score": 0.9890152812004089,
+      "box": [
+        126,
+        316,
+        552,
+        341
+      ]
+    },
+    {
+      "text": "- Led academic improvement programs",
+      "score": 0.997281014919281,
+      "box": [
+        127,
+        339,
+        493,
+        370
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Little Field School, 2016.082019.11",
+      "score": 0.9908669590950012,
+      "box": [
+        117,
+        382,
+        802,
+        409
+      ]
+    },
+    {
+      "text": "- Conducted curriculum reviews",
+      "score": 0.9835134744644165,
+      "box": [
+        127,
+        409,
+        422,
+        433
+      ]
+    },
+    {
+      "text": "- Designed reading intervention plans",
+      "score": 0.97784024477005,
+      "box": [
+        126,
+        431,
+        475,
+        459
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Bright Futures Academy, 2013.052016.08",
+      "score": 0.9969388246536255,
+      "box": [
+        118,
+        472,
+        862,
+        499
+      ]
+    },
+    {
+      "text": "- Implemented lesson pacing guidelines",
+      "score": 0.987125813961029,
+      "box": [
+        125,
+        497,
+        498,
+        526
+      ]
+    },
+    {
+      "text": "- Maintained lesson documentation",
+      "score": 0.9989369511604309,
+      "box": [
+        127,
+        520,
+        455,
+        551
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999178647994995,
+      "box": [
+        117,
+        587,
+        267,
+        614
+      ]
+    },
+    {
+      "text": "Bachelor's, Educational Foundations, Fairmont University, 2016",
+      "score": 0.9985023140907288,
+      "box": [
+        117,
+        632,
+        705,
+        659
+      ]
+    },
+    {
+      "text": "• Completed coursework in lesson delivery techniques",
+      "score": 0.9929118752479553,
+      "box": [
+        132,
+        658,
+        636,
+        685
+      ]
+    },
+    {
+      "text": "•Completed coursework in instructional modeling",
+      "score": 0.9916136860847473,
+      "box": [
+        132,
+        680,
+        592,
+        710
+      ]
+    }
+  ],
+  "seconds": 2.5511314999312162,
+  "id": "57138",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

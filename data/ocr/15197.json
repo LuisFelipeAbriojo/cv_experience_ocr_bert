@@ -1,0 +1,142 @@
+{
+  "lines": [
+    {
+      "text": "GABRIELLE HUNTER",
+      "score": 0.9988658428192139,
+      "box": [
+        117,
+        90,
+        459,
+        122
+      ]
+    },
+    {
+      "text": "GA, USA | +1-898-276-6188 | gabrielle.hunter@example.com",
+      "score": 0.9757130742073059,
+      "box": [
+        118,
+        152,
+        685,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9991938471794128,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, GentleSpring Health, 2020.122023.01",
+      "score": 0.9916654229164124,
+      "box": [
+        115,
+        287,
+        663,
+        318
+      ]
+    },
+    {
+      "text": "- Directed nursing process improvements",
+      "score": 0.9976107478141785,
+      "box": [
+        125,
+        313,
+        510,
+        344
+      ]
+    },
+    {
+      "text": "- Developed nursing policy frameworks",
+      "score": 0.9886659383773804,
+      "box": [
+        127,
+        339,
+        489,
+        368
+      ]
+    },
+    {
+      "text": "Registered Nurses, EverWell Health Services, 2018.102020.12",
+      "score": 0.998406708240509,
+      "box": [
+        117,
+        382,
+        713,
+        409
+      ]
+    },
+    {
+      "text": "- Checked patient identification",
+      "score": 0.9995611906051636,
+      "box": [
+        126,
+        407,
+        416,
+        432
+      ]
+    },
+    {
+      "text": "- Performed basic life support procedures",
+      "score": 0.9850026369094849,
+      "box": [
+        126,
+        429,
+        513,
+        458
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999344944953918,
+      "box": [
+        116,
+        494,
+        267,
+        521
+      ]
+    },
+    {
+      "text": "Bachelor's, Health Care Management, Greenfield Ridge University, 2020",
+      "score": 0.99413001537323,
+      "box": [
+        115,
+        539,
+        788,
+        568
+      ]
+    },
+    {
+      "text": "•Studied principles of infection surveillance",
+      "score": 0.9876086115837097,
+      "box": [
+        131,
+        567,
+        537,
+        591
+      ]
+    },
+    {
+      "text": "• Completed coursework in healthcare quality improvement",
+      "score": 0.9824256896972656,
+      "box": [
+        132,
+        591,
+        679,
+        616
+      ]
+    }
+  ],
+  "seconds": 12.015615300275385,
+  "id": "15197",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

@@ -1,0 +1,122 @@
+{
+  "lines": [
+    {
+      "text": "CHANTELLE PHAM",
+      "score": 0.9876542091369629,
+      "box": [
+        118,
+        91,
+        428,
+        122
+      ]
+    },
+    {
+      "text": "CA, USA | +1-361-789-8998 | chantelle.pham@example.com",
+      "score": 0.9866951704025269,
+      "box": [
+        118,
+        152,
+        681,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.999731719493866,
+      "box": [
+        117,
+        243,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Accountants Auditors, ClearBalance Services, 2017.08—2020.07",
+      "score": 0.9937207102775574,
+      "box": [
+        117,
+        289,
+        710,
+        313
+      ]
+    },
+    {
+      "text": "- Tracked budget expenditures",
+      "score": 0.9995200037956238,
+      "box": [
+        126,
+        314,
+        413,
+        341
+      ]
+    },
+    {
+      "text": "- Entered financial data into accounting systems",
+      "score": 0.9941506385803223,
+      "box": [
+        127,
+        339,
+        572,
+        366
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999415874481201,
+      "box": [
+        116,
+        404,
+        268,
+        431
+      ]
+    },
+    {
+      "text": "Master's, Professional Accounting, Cedarfield University, 2015",
+      "score": 0.9893611669540405,
+      "box": [
+        115,
+        448,
+        693,
+        475
+      ]
+    },
+    {
+      "text": "Bachelor's, International Business, Brighton University, 2013",
+      "score": 0.9836158156394958,
+      "box": [
+        115,
+        472,
+        677,
+        500
+      ]
+    },
+    {
+      "text": "• Completed coursework in management information systems",
+      "score": 0.9888882637023926,
+      "box": [
+        130,
+        499,
+        701,
+        525
+      ]
+    },
+    {
+      "text": "Studied fundamentals of operations management",
+      "score": 0.9935420751571655,
+      "box": [
+        132,
+        521,
+        607,
+        551
+      ]
+    }
+  ],
+  "seconds": 2.1915398999117315,
+  "id": "03226",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

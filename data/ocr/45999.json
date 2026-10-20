@@ -1,0 +1,122 @@
+{
+  "lines": [
+    {
+      "text": "CHELSEA MURPHY",
+      "score": 0.9996173977851868,
+      "box": [
+        118,
+        91,
+        431,
+        122
+      ]
+    },
+    {
+      "text": "PA, USA | +1-622-748-4524 | chelsea.murphy@example.com",
+      "score": 0.9851418733596802,
+      "box": [
+        117,
+        152,
+        687,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9997725486755371,
+      "box": [
+        117,
+        243,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Little Grove School, 2021.032022.04",
+      "score": 0.9958918690681458,
+      "box": [
+        117,
+        289,
+        815,
+        316
+      ]
+    },
+    {
+      "text": "- Administered learning games",
+      "score": 0.9864426255226135,
+      "box": [
+        126,
+        315,
+        414,
+        341
+      ]
+    },
+    {
+      "text": "- Implemented classroom seating plans",
+      "score": 0.9896714687347412,
+      "box": [
+        127,
+        339,
+        493,
+        368
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999212622642517,
+      "box": [
+        116,
+        404,
+        268,
+        431
+      ]
+    },
+    {
+      "text": "Master's, Education Preparation, Pebble Creek University, 2016",
+      "score": 0.9993998408317566,
+      "box": [
+        116,
+        448,
+        708,
+        475
+      ]
+    },
+    {
+      "text": "Bachelor's, Family and Child Studies, Summit Ridge University, 2014",
+      "score": 0.9907433986663818,
+      "box": [
+        115,
+        472,
+        756,
+        500
+      ]
+    },
+    {
+      "text": "• Completed coursework in classroom collaboration",
+      "score": 0.989246666431427,
+      "box": [
+        131,
+        500,
+        609,
+        524
+      ]
+    },
+    {
+      "text": "Studied principles of lesson planning",
+      "score": 0.9950581192970276,
+      "box": [
+        132,
+        522,
+        487,
+        552
+      ]
+    }
+  ],
+  "seconds": 2.785745699889958,
+  "id": "45999",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

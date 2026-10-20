@@ -1,0 +1,192 @@
+{
+  "lines": [
+    {
+      "text": "BRANDON INGRAM",
+      "score": 0.9972907900810242,
+      "box": [
+        118,
+        92,
+        434,
+        122
+      ]
+    },
+    {
+      "text": "FL, USA | +1-634-212-6830 | brandon.ingram@example.com",
+      "score": 0.988335371017456,
+      "box": [
+        116,
+        150,
+        682,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9990813732147217,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, ClearView Construction, 2020.02—2023.01",
+      "score": 0.9942565560340881,
+      "box": [
+        118,
+        291,
+        724,
+        315
+      ]
+    },
+    {
+      "text": "- Reviewed material specifications",
+      "score": 0.9943888187408447,
+      "box": [
+        126,
+        315,
+        446,
+        341
+      ]
+    },
+    {
+      "text": "- Reviewed compliance documentation",
+      "score": 0.9937967658042908,
+      "box": [
+        129,
+        342,
+        487,
+        366
+      ]
+    },
+    {
+      "text": "Construction Laborers, Precision Line Contractors, 2017.03—2020.02",
+      "score": 0.9911863207817078,
+      "box": [
+        118,
+        383,
+        753,
+        407
+      ]
+    },
+    {
+      "text": "- Led complex demolition projects",
+      "score": 0.9754766821861267,
+      "box": [
+        127,
+        409,
+        441,
+        433
+      ]
+    },
+    {
+      "text": "- Directed installation methodologies",
+      "score": 0.9710755348205566,
+      "box": [
+        126,
+        431,
+        466,
+        459
+      ]
+    },
+    {
+      "text": "Construction Laborers, CornerTrack Construction, 2013.02—2016.01",
+      "score": 0.9922192096710205,
+      "box": [
+        117,
+        472,
+        745,
+        497
+      ]
+    },
+    {
+      "text": "- Installed foundation elements",
+      "score": 0.9842495918273926,
+      "box": [
+        128,
+        499,
+        414,
+        523
+      ]
+    },
+    {
+      "text": "- Installed plumbing fixtures",
+      "score": 0.9960697293281555,
+      "box": [
+        127,
+        521,
+        384,
+        551
+      ]
+    },
+    {
+      "text": "Construction Laborers, ClearStone Builders, 2009.082012.08",
+      "score": 0.9856358170509338,
+      "box": [
+        118,
+        566,
+        693,
+        590
+      ]
+    },
+    {
+      "text": "- Operated hand tools for assembly tasks",
+      "score": 0.9887725710868835,
+      "box": [
+        128,
+        592,
+        509,
+        616
+      ]
+    },
+    {
+      "text": "- Assisted with equipment maintenance",
+      "score": 0.992222785949707,
+      "box": [
+        127,
+        613,
+        493,
+        643
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999058842658997,
+      "box": [
+        117,
+        681,
+        266,
+        705
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Masonry, Stonebridge High School, 2003",
+      "score": 0.9992709159851074,
+      "box": [
+        116,
+        723,
+        758,
+        751
+      ]
+    },
+    {
+      "text": "• Completed coursework in construction equipment safety",
+      "score": 0.981506884098053,
+      "box": [
+        132,
+        749,
+        665,
+        775
+      ]
+    }
+  ],
+  "seconds": 3.0089540001936257,
+  "id": "13662",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

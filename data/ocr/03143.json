@@ -1,0 +1,202 @@
+{
+  "lines": [
+    {
+      "text": "ROBERT MORSE",
+      "score": 0.9995710253715515,
+      "box": [
+        117,
+        91,
+        391,
+        122
+      ]
+    },
+    {
+      "text": "CA, USA | +1-776-394-3267 | robert.morse@example.com",
+      "score": 0.9884636402130127,
+      "box": [
+        116,
+        150,
+        659,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9955145716667175,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Openpoint Digital, 2019.012023.01",
+      "score": 0.9966698288917542,
+      "box": [
+        117,
+        291,
+        655,
+        315
+      ]
+    },
+    {
+      "text": "- Led database design efforts",
+      "score": 0.9837208986282349,
+      "box": [
+        129,
+        317,
+        400,
+        341
+      ]
+    },
+    {
+      "text": "- Defined quality assurance frameworks",
+      "score": 0.9997456073760986,
+      "box": [
+        129,
+        341,
+        496,
+        368
+      ]
+    },
+    {
+      "text": "Software Developers, Skybyte Solutions, 2015.012019.01",
+      "score": 0.9919097423553467,
+      "box": [
+        116,
+        382,
+        661,
+        409
+      ]
+    },
+    {
+      "text": "- Led technical roadmap planning",
+      "score": 0.9962385892868042,
+      "box": [
+        127,
+        404,
+        440,
+        436
+      ]
+    },
+    {
+      "text": "- Led platform migrations",
+      "score": 0.9983439445495605,
+      "box": [
+        127,
+        431,
+        362,
+        461
+      ]
+    },
+    {
+      "text": "Software Developers, Openline Digital, 2010.12—2015.01",
+      "score": 0.9797260165214539,
+      "box": [
+        116,
+        471,
+        642,
+        499
+      ]
+    },
+    {
+      "text": "- Improved memory usage",
+      "score": 0.9943177700042725,
+      "box": [
+        128,
+        500,
+        375,
+        524
+      ]
+    },
+    {
+      "text": "- Implemented error handling frameworks",
+      "score": 0.9984813332557678,
+      "box": [
+        128,
+        521,
+        511,
+        550
+      ]
+    },
+    {
+      "text": "Software Developers, Coreline Labs, 2006.112010.12",
+      "score": 0.9938728213310242,
+      "box": [
+        117,
+        566,
+        626,
+        590
+      ]
+    },
+    {
+      "text": "- Participated in code reviews",
+      "score": 0.9837398529052734,
+      "box": [
+        125,
+        589,
+        404,
+        618
+      ]
+    },
+    {
+      "text": "- Created test data sets",
+      "score": 0.9946434497833252,
+      "box": [
+        126,
+        613,
+        348,
+        643
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9998714923858643,
+      "box": [
+        117,
+        681,
+        266,
+        705
+      ]
+    },
+    {
+      "text": "Some college (no degree), Brookridge University, 2004",
+      "score": 0.9951747059822083,
+      "box": [
+        116,
+        723,
+        625,
+        750
+      ]
+    },
+    {
+      "text": "•Completed coursework in information systems",
+      "score": 0.9881972670555115,
+      "box": [
+        132,
+        748,
+        578,
+        776
+      ]
+    },
+    {
+      "text": "•Completed coursework in SQL and data querying",
+      "score": 0.9843476414680481,
+      "box": [
+        132,
+        772,
+        605,
+        801
+      ]
+    }
+  ],
+  "seconds": 2.9029721999540925,
+  "id": "03143",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

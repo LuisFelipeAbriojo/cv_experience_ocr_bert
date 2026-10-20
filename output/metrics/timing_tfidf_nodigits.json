@@ -1,0 +1,6 @@
+{
+  "train_seconds": 15.052385199815035,
+  "infer_seconds_per_cv": 0.0005538448334361116,
+  "best_alpha": 1,
+  "val_mae": 1.726942359633316
+}

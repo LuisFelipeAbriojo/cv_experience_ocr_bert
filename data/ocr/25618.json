@@ -1,0 +1,142 @@
+{
+  "lines": [
+    {
+      "text": "TAYLOR LITTLE",
+      "score": 0.9996126890182495,
+      "box": [
+        117,
+        90,
+        378,
+        121
+      ]
+    },
+    {
+      "text": "MA, USA | +1-926-909-4548 |taylor.little@example.com",
+      "score": 0.9781812429428101,
+      "box": [
+        117,
+        151,
+        635,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9991628527641296,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Inspire Academy, 2019.06—2021.09",
+      "score": 0.9959595799446106,
+      "box": [
+        115,
+        287,
+        795,
+        318
+      ]
+    },
+    {
+      "text": "- Developed district-aligned lesson frameworks",
+      "score": 0.9951993823051453,
+      "box": [
+        127,
+        316,
+        562,
+        340
+      ]
+    },
+    {
+      "text": "- Directed instructional planning processes",
+      "score": 0.9759947061538696,
+      "box": [
+        126,
+        338,
+        523,
+        369
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Open Futures School, 2015.092017.12",
+      "score": 0.9881948232650757,
+      "box": [
+        117,
+        380,
+        837,
+        410
+      ]
+    },
+    {
+      "text": "- Conducted reading practice sessions",
+      "score": 0.9996774792671204,
+      "box": [
+        126,
+        407,
+        484,
+        432
+      ]
+    },
+    {
+      "text": "- Distributed assessment rubrics",
+      "score": 0.9961684942245483,
+      "box": [
+        127,
+        430,
+        428,
+        456
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999377727508545,
+      "box": [
+        117,
+        494,
+        267,
+        521
+      ]
+    },
+    {
+      "text": "Bachelor's, Instructional Support, Windridge University, 2015",
+      "score": 0.9962142109870911,
+      "box": [
+        115,
+        539,
+        679,
+        567
+      ]
+    },
+    {
+      "text": "• Completed coursework in writing instruction",
+      "score": 0.9874022006988525,
+      "box": [
+        132,
+        566,
+        551,
+        591
+      ]
+    },
+    {
+      "text": "• Completed coursework in developmental psychology basics",
+      "score": 0.9929558634757996,
+      "box": [
+        132,
+        591,
+        699,
+        616
+      ]
+    }
+  ],
+  "seconds": 2.9333676998503506,
+  "id": "25618",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

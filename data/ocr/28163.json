@@ -1,0 +1,122 @@
+{
+  "lines": [
+    {
+      "text": "KAMAL PORTER",
+      "score": 0.999871551990509,
+      "box": [
+        116,
+        89,
+        388,
+        123
+      ]
+    },
+    {
+      "text": "MI, USA | +1-910-562-2189 | kamal.porter@example.com",
+      "score": 0.9865703582763672,
+      "box": [
+        115,
+        149,
+        651,
+        177
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9997692704200745,
+      "box": [
+        117,
+        243,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Software Developers, Codepath Digital, 2019.072022.07",
+      "score": 0.9906166791915894,
+      "box": [
+        116,
+        289,
+        651,
+        316
+      ]
+    },
+    {
+      "text": "- Updated frontend stylesheets",
+      "score": 0.9974332451820374,
+      "box": [
+        128,
+        316,
+        414,
+        340
+      ]
+    },
+    {
+      "text": "- Updated application dependencies",
+      "score": 0.9882160425186157,
+      "box": [
+        128,
+        339,
+        462,
+        367
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999251961708069,
+      "box": [
+        116,
+        404,
+        268,
+        431
+      ]
+    },
+    {
+      "text": "Master's, Sunrise University, 2016",
+      "score": 0.9909021854400635,
+      "box": [
+        115,
+        447,
+        436,
+        474
+      ]
+    },
+    {
+      "text": "Bachelor's, Brightwood University, 2014",
+      "score": 0.9879826307296753,
+      "box": [
+        117,
+        474,
+        487,
+        498
+      ]
+    },
+    {
+      "text": "•Studied fundamentals of client-side development",
+      "score": 0.9851252436637878,
+      "box": [
+        129,
+        498,
+        600,
+        523
+      ]
+    },
+    {
+      "text": "Completed coursework in software design patterns",
+      "score": 0.9773784279823303,
+      "box": [
+        132,
+        521,
+        617,
+        550
+      ]
+    }
+  ],
+  "seconds": 1.8068845001980662,
+  "id": "28163",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

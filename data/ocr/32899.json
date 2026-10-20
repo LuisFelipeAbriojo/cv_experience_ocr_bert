@@ -1,0 +1,212 @@
+{
+  "lines": [
+    {
+      "text": "ROBERT PATTON",
+      "score": 0.9996894001960754,
+      "box": [
+        117,
+        91,
+        406,
+        121
+      ]
+    },
+    {
+      "text": "NJ, USA | +1-830-325-5919 | robert.patton@example.com",
+      "score": 0.9972546696662903,
+      "box": [
+        115,
+        150,
+        656,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9988656044006348,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, FairBooks Financial, 2019.09—2023.01",
+      "score": 0.9918164014816284,
+      "box": [
+        115,
+        288,
+        682,
+        316
+      ]
+    },
+    {
+      "text": "- Designed financial accountability systems",
+      "score": 0.9938570261001587,
+      "box": [
+        128,
+        315,
+        526,
+        341
+      ]
+    },
+    {
+      "text": "- Designed financial policy frameworks",
+      "score": 0.9986409544944763,
+      "box": [
+        127,
+        339,
+        485,
+        368
+      ]
+    },
+    {
+      "text": "Accountants Auditors, FairBalance Group, 2016.052019.09",
+      "score": 0.9889235496520996,
+      "box": [
+        117,
+        382,
+        674,
+        407
+      ]
+    },
+    {
+      "text": "- Led financial data standardization",
+      "score": 0.9984921216964722,
+      "box": [
+        128,
+        407,
+        453,
+        432
+      ]
+    },
+    {
+      "text": "- Designed financial oversight systems",
+      "score": 0.9853519797325134,
+      "box": [
+        127,
+        431,
+        485,
+        459
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Integrity Count Services, 2013.012016.05",
+      "score": 0.9984388947486877,
+      "box": [
+        117,
+        472,
+        722,
+        499
+      ]
+    },
+    {
+      "text": "- Prepared management reports",
+      "score": 0.9819362163543701,
+      "box": [
+        125,
+        497,
+        428,
+        527
+      ]
+    },
+    {
+      "text": "- Conducted internal audits",
+      "score": 0.9801861047744751,
+      "box": [
+        128,
+        522,
+        379,
+        548
+      ]
+    },
+    {
+      "text": "Accountants Auditors, FairCount Advisors Group, 2009.09—2013.01",
+      "score": 0.9958924651145935,
+      "box": [
+        118,
+        566,
+        740,
+        590
+      ]
+    },
+    {
+      "text": "- Maintained accounting software records",
+      "score": 0.9958328008651733,
+      "box": [
+        127,
+        592,
+        511,
+        616
+      ]
+    },
+    {
+      "text": "- Maintained chart of accounts",
+      "score": 0.9954603314399719,
+      "box": [
+        126,
+        613,
+        411,
+        643
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9998813271522522,
+      "box": [
+        117,
+        681,
+        266,
+        705
+      ]
+    },
+    {
+      "text": "Master's, International Business, Pine Valley University, 2009",
+      "score": 0.997597336769104,
+      "box": [
+        115,
+        723,
+        685,
+        750
+      ]
+    },
+    {
+      "text": "Bachelor's, Accounting Information Systems, Woodcrest University, 2007",
+      "score": 0.9795834422111511,
+      "box": [
+        114,
+        746,
+        793,
+        777
+      ]
+    },
+    {
+      "text": "•Studied principles of compliance auditing",
+      "score": 0.9866679310798645,
+      "box": [
+        129,
+        773,
+        527,
+        802
+      ]
+    },
+    {
+      "text": "Studied principles of inventory valuation",
+      "score": 0.9832776784896851,
+      "box": [
+        131,
+        798,
+        517,
+        826
+      ]
+    }
+  ],
+  "seconds": 3.0200057001784444,
+  "id": "32899",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

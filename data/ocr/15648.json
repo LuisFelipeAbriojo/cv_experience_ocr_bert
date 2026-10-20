@@ -1,0 +1,182 @@
+{
+  "lines": [
+    {
+      "text": "JULIE KIRK",
+      "score": 0.9997620582580566,
+      "box": [
+        116,
+        91,
+        304,
+        122
+      ]
+    },
+    {
+      "text": "GA, USA | +1-642-390-3160 | julie.kirk@example.com",
+      "score": 0.9969660043716431,
+      "box": [
+        116,
+        150,
+        618,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9990995526313782,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, BrightWay School, 2019.102023.01",
+      "score": 0.9965106248855591,
+      "box": [
+        116,
+        289,
+        804,
+        319
+      ]
+    },
+    {
+      "text": "- Designed instructional governance models",
+      "score": 0.9814997315406799,
+      "box": [
+        127,
+        316,
+        534,
+        340
+      ]
+    },
+    {
+      "text": "- Designed literacy development programs",
+      "score": 0.9744779467582703,
+      "box": [
+        127,
+        340,
+        522,
+        369
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Open Horizons School, 2015.072018.10",
+      "score": 0.9974989295005798,
+      "box": [
+        117,
+        382,
+        847,
+        409
+      ]
+    },
+    {
+      "text": "- Developed science lesson plans",
+      "score": 0.9940892457962036,
+      "box": [
+        127,
+        409,
+        441,
+        433
+      ]
+    },
+    {
+      "text": "- Analyzed student performance data",
+      "score": 0.979981541633606,
+      "box": [
+        128,
+        432,
+        471,
+        457
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Sunny Meadow School, 2011.072014.11",
+      "score": 0.9970694184303284,
+      "box": [
+        118,
+        472,
+        850,
+        499
+      ]
+    },
+    {
+      "text": "- Implemented basic literacy lessons",
+      "score": 0.999506950378418,
+      "box": [
+        125,
+        497,
+        466,
+        526
+      ]
+    },
+    {
+      "text": "- Prepared visual teaching aids",
+      "score": 0.9950711727142334,
+      "box": [
+        128,
+        521,
+        417,
+        551
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9998828172683716,
+      "box": [
+        117,
+        587,
+        267,
+        614
+      ]
+    },
+    {
+      "text": "Master's, Learning Foundations, Willowview University, 2008",
+      "score": 0.992893397808075,
+      "box": [
+        117,
+        633,
+        678,
+        657
+      ]
+    },
+    {
+      "text": "Bachelor's, Educational Support, Greenridge University, 2006",
+      "score": 0.994348406791687,
+      "box": [
+        115,
+        656,
+        686,
+        684
+      ]
+    },
+    {
+      "text": "•Completed coursework in creative teaching strategies",
+      "score": 0.9879659414291382,
+      "box": [
+        132,
+        682,
+        642,
+        710
+      ]
+    },
+    {
+      "text": "•Completed coursework in classroom learning design",
+      "score": 0.9834182262420654,
+      "box": [
+        131,
+        705,
+        633,
+        738
+      ]
+    }
+  ],
+  "seconds": 3.2780273002572358,
+  "id": "15648",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

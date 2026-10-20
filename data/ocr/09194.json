@@ -1,0 +1,102 @@
+{
+  "lines": [
+    {
+      "text": "ROBERT KIM",
+      "score": 0.994533896446228,
+      "box": [
+        116,
+        89,
+        331,
+        123
+      ]
+    },
+    {
+      "text": "CA, USA | +1-462-942-3530 | robert.kim@example.com",
+      "score": 0.9906589388847351,
+      "box": [
+        117,
+        150,
+        634,
+        177
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9993350505828857,
+      "box": [
+        116,
+        243,
+        317,
+        270
+      ]
+    },
+    {
+      "text": "Construction Laborers, TrueStep Builders, 2019.01—2020.04",
+      "score": 0.9690713882446289,
+      "box": [
+        116,
+        287,
+        676,
+        315
+      ]
+    },
+    {
+      "text": "- Maintained tool storage areas",
+      "score": 0.9947578310966492,
+      "box": [
+        126,
+        314,
+        418,
+        340
+      ]
+    },
+    {
+      "text": "- Performed basic demolition tasks",
+      "score": 0.9898667931556702,
+      "box": [
+        127,
+        339,
+        449,
+        364
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999393820762634,
+      "box": [
+        116,
+        403,
+        268,
+        431
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Industrial Technology, Clear Ridge High School, 2003",
+      "score": 0.9989495873451233,
+      "box": [
+        116,
+        447,
+        873,
+        474
+      ]
+    },
+    {
+      "text": "Studied fundamentals of site preparation planning",
+      "score": 0.990098774433136,
+      "box": [
+        128,
+        471,
+        608,
+        501
+      ]
+    }
+  ],
+  "seconds": 1.9575756001286209,
+  "id": "09194",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

@@ -1,0 +1,142 @@
+{
+  "lines": [
+    {
+      "text": "FIONA HUFFMAN",
+      "score": 0.999114990234375,
+      "box": [
+        117,
+        91,
+        397,
+        121
+      ]
+    },
+    {
+      "text": "GA, USA | +1-703-617-5601 | fiona.huffman@example.com",
+      "score": 0.9771058559417725,
+      "box": [
+        118,
+        152,
+        668,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9991140365600586,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, SunLife Nursing Services, 2020.09—2023.01",
+      "score": 0.9757593870162964,
+      "box": [
+        115,
+        287,
+        710,
+        318
+      ]
+    },
+    {
+      "text": "- Developed nursing training programs",
+      "score": 0.9692139625549316,
+      "box": [
+        125,
+        313,
+        485,
+        345
+      ]
+    },
+    {
+      "text": "- Led nursing process audits",
+      "score": 0.9749986529350281,
+      "box": [
+        127,
+        340,
+        392,
+        369
+      ]
+    },
+    {
+      "text": "Registered Nurses, BrightWay Nursing Services, 2018.042020.09",
+      "score": 0.9891263246536255,
+      "box": [
+        117,
+        382,
+        736,
+        409
+      ]
+    },
+    {
+      "text": "- Assisted with patient mobility",
+      "score": 0.983958899974823,
+      "box": [
+        125,
+        407,
+        409,
+        433
+      ]
+    },
+    {
+      "text": "- Performed basic life support procedures",
+      "score": 0.9862161874771118,
+      "box": [
+        125,
+        429,
+        513,
+        458
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999215602874756,
+      "box": [
+        116,
+        494,
+        268,
+        521
+      ]
+    },
+    {
+      "text": "Bachelor's, Biomedical Sciences, Brightfield Ridge University, 2020",
+      "score": 0.9843719005584717,
+      "box": [
+        115,
+        538,
+        738,
+        567
+      ]
+    },
+    {
+      "text": "•Studied fundamentals of wound assessment",
+      "score": 0.9816296100616455,
+      "box": [
+        130,
+        566,
+        560,
+        591
+      ]
+    },
+    {
+      "text": "Completed coursework in pressure injury prevention",
+      "score": 0.9885576367378235,
+      "box": [
+        131,
+        590,
+        628,
+        618
+      ]
+    }
+  ],
+  "seconds": 3.7894492000341415,
+  "id": "15313",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

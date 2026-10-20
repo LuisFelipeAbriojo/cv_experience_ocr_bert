@@ -1,0 +1,2 @@
+run,loss,strategy,max_len,text_col,test_MAE,best_val_MAE,train_minutes
+bert,mse,head_tail,256,text,3.085770439613718,2.7903314299991413,1.9728511373202007

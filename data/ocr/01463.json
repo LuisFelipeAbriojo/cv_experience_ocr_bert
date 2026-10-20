@@ -1,0 +1,142 @@
+{
+  "lines": [
+    {
+      "text": "ASHLEY GILMORE",
+      "score": 0.9985244870185852,
+      "box": [
+        116,
+        90,
+        418,
+        122
+      ]
+    },
+    {
+      "text": "AZ, USA | +1-713-748-9121 | ashley.gilmore@example.com",
+      "score": 0.9977627992630005,
+      "box": [
+        116,
+        149,
+        673,
+        177
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9997730255126953,
+      "box": [
+        117,
+        243,
+        315,
+        270
+      ]
+    },
+    {
+      "text": "Software Developers, Codefield Software, 2020.06—2022.05",
+      "score": 0.9949339032173157,
+      "box": [
+        117,
+        289,
+        671,
+        313
+      ]
+    },
+    {
+      "text": "- Defined API standards",
+      "score": 0.9740846157073975,
+      "box": [
+        126,
+        314,
+        351,
+        339
+      ]
+    },
+    {
+      "text": "- Designed observability platforms",
+      "score": 0.9840102195739746,
+      "box": [
+        127,
+        339,
+        444,
+        367
+      ]
+    },
+    {
+      "text": "Software Developers, Brightline Software, 2018.012019.12",
+      "score": 0.9923039674758911,
+      "box": [
+        116,
+        380,
+        674,
+        408
+      ]
+    },
+    {
+      "text": "- Updated application dependencies",
+      "score": 0.9929869174957275,
+      "box": [
+        126,
+        408,
+        462,
+        433
+      ]
+    },
+    {
+      "text": "- Wrote integration tests",
+      "score": 0.9652489423751831,
+      "box": [
+        125,
+        430,
+        352,
+        460
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999222159385681,
+      "box": [
+        116,
+        494,
+        266,
+        521
+      ]
+    },
+    {
+      "text": "Bachelor's, Brightwater University, 2007",
+      "score": 0.9776933789253235,
+      "box": [
+        115,
+        539,
+        487,
+        567
+      ]
+    },
+    {
+      "text": "•Studied fundamentals of game development",
+      "score": 0.994106113910675,
+      "box": [
+        131,
+        567,
+        557,
+        591
+      ]
+    },
+    {
+      "text": "• Completed coursework in tree data structures",
+      "score": 0.9807586669921875,
+      "box": [
+        132,
+        592,
+        569,
+        615
+      ]
+    }
+  ],
+  "seconds": 2.2399706998839974,
+  "id": "01463",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

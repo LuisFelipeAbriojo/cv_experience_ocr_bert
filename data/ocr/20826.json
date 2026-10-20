@@ -1,0 +1,112 @@
+{
+  "lines": [
+    {
+      "text": "GERMAINE LEE",
+      "score": 0.9984445571899414,
+      "box": [
+        118,
+        91,
+        372,
+        122
+      ]
+    },
+    {
+      "text": "IA, USA | +1-668-808-2437 | germaine.lee@example.com",
+      "score": 0.9922823309898376,
+      "box": [
+        117,
+        150,
+        653,
+        177
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9997565150260925,
+      "box": [
+        117,
+        243,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Construction Laborers, StrongFrame Builders, 2021.09—2023.01",
+      "score": 0.9864614605903625,
+      "box": [
+        118,
+        290,
+        710,
+        314
+      ]
+    },
+    {
+      "text": "- Assisted with roofing material handling",
+      "score": 0.9991753697395325,
+      "box": [
+        125,
+        312,
+        497,
+        342
+      ]
+    },
+    {
+      "text": "- Installed basic formwork",
+      "score": 0.9996175765991211,
+      "box": [
+        126,
+        339,
+        368,
+        364
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999943196773529,
+      "box": [
+        116,
+        404,
+        268,
+        431
+      ]
+    },
+    {
+      "text": "Some college (no degree), Construction Management, Elmwood Ridge University, 2023",
+      "score": 0.9887744188308716,
+      "box": [
+        116,
+        446,
+        928,
+        476
+      ]
+    },
+    {
+      "text": "Studied fundamentals of structural stability",
+      "score": 0.992661714553833,
+      "box": [
+        129,
+        472,
+        541,
+        500
+      ]
+    },
+    {
+      "text": "• Completed coursework in construction site security",
+      "score": 0.9710315465927124,
+      "box": [
+        133,
+        498,
+        617,
+        524
+      ]
+    }
+  ],
+  "seconds": 2.3071872000582516,
+  "id": "20826",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

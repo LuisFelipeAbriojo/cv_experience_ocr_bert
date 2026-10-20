@@ -1,0 +1,202 @@
+{
+  "lines": [
+    {
+      "text": "WILFORD AUSTIN",
+      "score": 0.9901407957077026,
+      "box": [
+        117,
+        89,
+        407,
+        122
+      ]
+    },
+    {
+      "text": "MO, USA | +1-258-285-5251 | wilford.austin@example.com",
+      "score": 0.99418044090271,
+      "box": [
+        115,
+        149,
+        668,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9987983107566833,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, HardTrack Builders, 2017.122023.01",
+      "score": 0.9975500702857971,
+      "box": [
+        118,
+        290,
+        685,
+        314
+      ]
+    },
+    {
+      "text": "- Directed equipment operations",
+      "score": 0.999670147895813,
+      "box": [
+        125,
+        314,
+        428,
+        342
+      ]
+    },
+    {
+      "text": "- Directed installation methodologies",
+      "score": 0.9601032137870789,
+      "box": [
+        126,
+        339,
+        465,
+        368
+      ]
+    },
+    {
+      "text": "Construction Laborers, SureStep Builders, 2012.112017.12",
+      "score": 0.9957832098007202,
+      "box": [
+        118,
+        383,
+        676,
+        407
+      ]
+    },
+    {
+      "text": "- Supervised multiple work crews",
+      "score": 0.9841782450675964,
+      "box": [
+        126,
+        409,
+        435,
+        433
+      ]
+    },
+    {
+      "text": "- Managed equipment maintenance programs",
+      "score": 0.9879634976387024,
+      "box": [
+        128,
+        432,
+        551,
+        459
+      ]
+    },
+    {
+      "text": "Construction Laborers, StrongLine Builders, 2007.09—2012.11",
+      "score": 0.9887701869010925,
+      "box": [
+        116,
+        471,
+        689,
+        499
+      ]
+    },
+    {
+      "text": "- Installed ceiling systems",
+      "score": 0.985919713973999,
+      "box": [
+        129,
+        500,
+        368,
+        524
+      ]
+    },
+    {
+      "text": "- Installed mechanical supports",
+      "score": 0.9976087808609009,
+      "box": [
+        127,
+        521,
+        418,
+        551
+      ]
+    },
+    {
+      "text": "Construction Laborers, ClearLine Construction, 2002.072007.09",
+      "score": 0.9983684420585632,
+      "box": [
+        118,
+        566,
+        720,
+        590
+      ]
+    },
+    {
+      "text": "- Performed basic plumbing assistance",
+      "score": 0.995225727558136,
+      "box": [
+        125,
+        589,
+        490,
+        618
+      ]
+    },
+    {
+      "text": "- Measured and cut basic building materials",
+      "score": 0.9837929606437683,
+      "box": [
+        126,
+        613,
+        532,
+        642
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999264478683472,
+      "box": [
+        117,
+        681,
+        266,
+        705
+      ]
+    },
+    {
+      "text": "Some college (no degree), Building Technology, Brighton University, 2004",
+      "score": 0.9753892421722412,
+      "box": [
+        116,
+        724,
+        801,
+        750
+      ]
+    },
+    {
+      "text": "•Studied fundamentals of wall systems",
+      "score": 0.9878271222114563,
+      "box": [
+        130,
+        749,
+        499,
+        775
+      ]
+    },
+    {
+      "text": "Studied principles of hazard identification",
+      "score": 0.9955262541770935,
+      "box": [
+        131,
+        772,
+        529,
+        800
+      ]
+    }
+  ],
+  "seconds": 2.9543886999599636,
+  "id": "31287",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

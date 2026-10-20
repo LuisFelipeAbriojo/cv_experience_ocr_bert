@@ -1,0 +1,152 @@
+{
+  "lines": [
+    {
+      "text": "JILLIAN GARNER",
+      "score": 0.9995837211608887,
+      "box": [
+        117,
+        91,
+        398,
+        122
+      ]
+    },
+    {
+      "text": "GA, USA | +1-695-471-2543 | jillian.garner@example.com",
+      "score": 0.9807047247886658,
+      "box": [
+        116,
+        150,
+        654,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.999102771282196,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Learning Garden Academy, 2020.10—2023.0",
+      "score": 0.9896392822265625,
+      "box": [
+        115,
+        287,
+        877,
+        318
+      ]
+    },
+    {
+      "text": "- Developed district-aligned lesson frameworks",
+      "score": 0.9989455938339233,
+      "box": [
+        125,
+        314,
+        563,
+        342
+      ]
+    },
+    {
+      "text": "- Directed cross-grade curriculum alignment",
+      "score": 0.9982362985610962,
+      "box": [
+        127,
+        339,
+        536,
+        368
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Caring Futures School, 2018.072020.10",
+      "score": 0.9924877882003784,
+      "box": [
+        116,
+        381,
+        848,
+        411
+      ]
+    },
+    {
+      "text": "- Provided math drill exercises",
+      "score": 0.9938319325447083,
+      "box": [
+        126,
+        407,
+        410,
+        433
+      ]
+    },
+    {
+      "text": "- Prepared instructional materials and worksheets",
+      "score": 0.979918897151947,
+      "box": [
+        127,
+        431,
+        588,
+        458
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999468326568604,
+      "box": [
+        116,
+        494,
+        266,
+        521
+      ]
+    },
+    {
+      "text": "Master's, Teaching Studies, Clearwater University, 2016",
+      "score": 0.9832249879837036,
+      "box": [
+        117,
+        542,
+        636,
+        566
+      ]
+    },
+    {
+      "text": "Bachelor's, Educational Practice, Willowbrook University, 2014",
+      "score": 0.9900761842727661,
+      "box": [
+        117,
+        567,
+        695,
+        591
+      ]
+    },
+    {
+      "text": "•Studied fundamentals of teaching strategy selection",
+      "score": 0.9815552830696106,
+      "box": [
+        129,
+        591,
+        627,
+        617
+      ]
+    },
+    {
+      "text": "Completed coursework in classroom facilitation",
+      "score": 0.988516628742218,
+      "box": [
+        130,
+        614,
+        585,
+        644
+      ]
+    }
+  ],
+  "seconds": 2.9324726997874677,
+  "id": "14828",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

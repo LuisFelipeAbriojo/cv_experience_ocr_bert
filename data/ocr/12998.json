@@ -1,0 +1,112 @@
+{
+  "lines": [
+    {
+      "text": "MIGUEL GAINES",
+      "score": 0.998623251914978,
+      "box": [
+        118,
+        91,
+        385,
+        122
+      ]
+    },
+    {
+      "text": "FL, USA | +1-580-893-4924 | miguel.gaines@example.com",
+      "score": 0.9928598403930664,
+      "box": [
+        116,
+        149,
+        665,
+        177
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9997275471687317,
+      "box": [
+        117,
+        243,
+        317,
+        270
+      ]
+    },
+    {
+      "text": "Construction Laborers, ProBuild Solutions, 2020.04—2023.01",
+      "score": 0.986449658870697,
+      "box": [
+        118,
+        289,
+        677,
+        313
+      ]
+    },
+    {
+      "text": "- Prepared scaffolding platforms",
+      "score": 0.9995038509368896,
+      "box": [
+        126,
+        314,
+        426,
+        340
+      ]
+    },
+    {
+      "text": "- Followed safety procedures on site",
+      "score": 0.985733687877655,
+      "box": [
+        127,
+        338,
+        465,
+        367
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999051690101624,
+      "box": [
+        116,
+        404,
+        268,
+        431
+      ]
+    },
+    {
+      "text": "Some college (no degree), Drafting Technology, Foxwood University, 2023",
+      "score": 0.9872691035270691,
+      "box": [
+        117,
+        447,
+        807,
+        474
+      ]
+    },
+    {
+      "text": "•Studied fundamentals of structural connections",
+      "score": 0.9873046875,
+      "box": [
+        130,
+        473,
+        583,
+        498
+      ]
+    },
+    {
+      "text": "Studied principles of structural load paths",
+      "score": 0.9907735586166382,
+      "box": [
+        131,
+        497,
+        531,
+        525
+      ]
+    }
+  ],
+  "seconds": 2.0530654001049697,
+  "id": "12998",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

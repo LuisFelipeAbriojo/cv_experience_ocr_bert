@@ -1,0 +1,212 @@
+{
+  "lines": [
+    {
+      "text": "JENNIFER WIGGINS",
+      "score": 0.9997945427894592,
+      "box": [
+        116,
+        92,
+        440,
+        122
+      ]
+    },
+    {
+      "text": "GA, USA | +1-676-420-6852 | jennifer.wiggins@example.com",
+      "score": 0.9880086183547974,
+      "box": [
+        116,
+        150,
+        685,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9990910887718201,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Learning Meadow Academy, 2020.04—2023.0",
+      "score": 0.993148922920227,
+      "box": [
+        116,
+        289,
+        886,
+        319
+      ]
+    },
+    {
+      "text": "- Designed systemic intervention models",
+      "score": 0.9847688674926758,
+      "box": [
+        127,
+        317,
+        504,
+        341
+      ]
+    },
+    {
+      "text": "- Developed teacher training modules",
+      "score": 0.9908246994018555,
+      "box": [
+        127,
+        339,
+        477,
+        369
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Caring Horizons School, 2017.072020.04",
+      "score": 0.9923317432403564,
+      "box": [
+        116,
+        381,
+        858,
+        411
+      ]
+    },
+    {
+      "text": "- Implemented assessment policy frameworks",
+      "score": 0.9967431426048279,
+      "box": [
+        127,
+        409,
+        553,
+        433
+      ]
+    },
+    {
+      "text": "- Developed learning progression models",
+      "score": 0.9866256713867188,
+      "box": [
+        127,
+        432,
+        509,
+        457
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Bright Oaks School, 2014.09—2017.07",
+      "score": 0.9889618754386902,
+      "box": [
+        117,
+        471,
+        817,
+        499
+      ]
+    },
+    {
+      "text": "- Evaluated instructional effectiveness",
+      "score": 0.9961393475532532,
+      "box": [
+        126,
+        498,
+        479,
+        524
+      ]
+    },
+    {
+      "text": "- Planned interdisciplinary lessons",
+      "score": 0.9945937991142273,
+      "box": [
+        127,
+        522,
+        445,
+        549
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Growing Minds School, 2011.112014.09",
+      "score": 0.985226571559906,
+      "box": [
+        116,
+        564,
+        847,
+        592
+      ]
+    },
+    {
+      "text": "- Collected permission forms",
+      "score": 0.9973219633102417,
+      "box": [
+        126,
+        591,
+        394,
+        615
+      ]
+    },
+    {
+      "text": "- Supervised transitions between lessons",
+      "score": 0.9921972155570984,
+      "box": [
+        125,
+        614,
+        510,
+        643
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999907910823822,
+      "box": [
+        117,
+        681,
+        266,
+        705
+      ]
+    },
+    {
+      "text": "Professional degree, Learning Foundations, Willowhaven University, 2014",
+      "score": 0.9866876602172852,
+      "box": [
+        117,
+        726,
+        800,
+        749
+      ]
+    },
+    {
+      "text": "Bachelor's, Teaching Foundations, Brightwood University, 2010",
+      "score": 0.9915626645088196,
+      "box": [
+        116,
+        748,
+        704,
+        775
+      ]
+    },
+    {
+      "text": "• Completed coursework in lesson delivery techniques",
+      "score": 0.9936265349388123,
+      "box": [
+        131,
+        776,
+        634,
+        800
+      ]
+    },
+    {
+      "text": "Studied foundational instructional design",
+      "score": 0.9949988126754761,
+      "box": [
+        130,
+        797,
+        524,
+        827
+      ]
+    }
+  ],
+  "seconds": 3.3343303999863565,
+  "id": "16222",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

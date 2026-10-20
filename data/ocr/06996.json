@@ -1,0 +1,182 @@
+{
+  "lines": [
+    {
+      "text": "KATHLEEN DOUGLAS",
+      "score": 0.999889075756073,
+      "box": [
+        117,
+        91,
+        475,
+        121
+      ]
+    },
+    {
+      "text": "CA, USA | +1-456-369-3739 | kathleen.douglas@example.com",
+      "score": 0.9740668535232544,
+      "box": [
+        116,
+        150,
+        698,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9991222023963928,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, ClearLedger Services, 2020.04—2023.01",
+      "score": 0.9917994737625122,
+      "box": [
+        117,
+        290,
+        698,
+        314
+      ]
+    },
+    {
+      "text": "- Led regulatory compliance initiatives",
+      "score": 0.9901283383369446,
+      "box": [
+        129,
+        317,
+        478,
+        341
+      ]
+    },
+    {
+      "text": "- Directed revenue recognition policies",
+      "score": 0.9819406270980835,
+      "box": [
+        127,
+        339,
+        485,
+        369
+      ]
+    },
+    {
+      "text": "Accountants Auditors, SolidBooks Financial, 2017.06—2020.04",
+      "score": 0.9843680262565613,
+      "box": [
+        118,
+        383,
+        693,
+        407
+      ]
+    },
+    {
+      "text": "- Prepared working capital analysis",
+      "score": 0.9985457062721252,
+      "box": [
+        126,
+        409,
+        452,
+        433
+      ]
+    },
+    {
+      "text": "- Prepared cash flow statements",
+      "score": 0.998378336429596,
+      "box": [
+        129,
+        434,
+        429,
+        457
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Integrity Books Financial, 2014.082017.06",
+      "score": 0.9963287711143494,
+      "box": [
+        117,
+        472,
+        729,
+        499
+      ]
+    },
+    {
+      "text": "- Reviewed timesheets for payroll",
+      "score": 0.9878617525100708,
+      "box": [
+        125,
+        496,
+        440,
+        524
+      ]
+    },
+    {
+      "text": "- Prepared variance reports",
+      "score": 0.9760215282440186,
+      "box": [
+        128,
+        520,
+        384,
+        552
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9998791217803955,
+      "box": [
+        117,
+        587,
+        267,
+        614
+      ]
+    },
+    {
+      "text": "Master's, Enterprise Management, Clearview University, 2016",
+      "score": 0.9795646667480469,
+      "box": [
+        117,
+        633,
+        689,
+        657
+      ]
+    },
+    {
+      "text": "Bachelor's, Forensic Accounting, Brookhaven University, 2014",
+      "score": 0.994683027267456,
+      "box": [
+        115,
+        656,
+        694,
+        684
+      ]
+    },
+    {
+      "text": "• Completed coursework in financial disclosure",
+      "score": 0.9921137690544128,
+      "box": [
+        131,
+        683,
+        566,
+        707
+      ]
+    },
+    {
+      "text": "Studied fundamentals of working capital management",
+      "score": 0.9871177673339844,
+      "box": [
+        130,
+        704,
+        646,
+        736
+      ]
+    }
+  ],
+  "seconds": 2.8044308996759355,
+  "id": "06996",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

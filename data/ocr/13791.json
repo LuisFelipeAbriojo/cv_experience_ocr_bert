@@ -1,0 +1,142 @@
+{
+  "lines": [
+    {
+      "text": "EVELYN MONROE",
+      "score": 0.9997203350067139,
+      "box": [
+        118,
+        91,
+        411,
+        121
+      ]
+    },
+    {
+      "text": "FL, USA | +1-601-699-6917 | evelyn.monroe@example.com",
+      "score": 0.9780387282371521,
+      "box": [
+        116,
+        149,
+        673,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.999102771282196,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, TrueWell Nursing, 2020.062023.01",
+      "score": 0.9827624559402466,
+      "box": [
+        115,
+        287,
+        637,
+        318
+      ]
+    },
+    {
+      "text": "- Developed nursing policy frameworks",
+      "score": 0.9826942682266235,
+      "box": [
+        127,
+        314,
+        490,
+        342
+      ]
+    },
+    {
+      "text": "- Led patient experience improvement programs",
+      "score": 0.9970486760139465,
+      "box": [
+        128,
+        341,
+        573,
+        368
+      ]
+    },
+    {
+      "text": "Registered Nurses, WellWay Health Group, 2017.112020.06",
+      "score": 0.9895789623260498,
+      "box": [
+        116,
+        381,
+        688,
+        409
+      ]
+    },
+    {
+      "text": "- Performed basic life support procedures",
+      "score": 0.9872507452964783,
+      "box": [
+        125,
+        407,
+        512,
+        434
+      ]
+    },
+    {
+      "text": "- Monitored patient dietary needs",
+      "score": 0.9826486706733704,
+      "box": [
+        126,
+        430,
+        436,
+        458
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999485015869141,
+      "box": [
+        116,
+        494,
+        267,
+        521
+      ]
+    },
+    {
+      "text": "Bachelor's, Medical Technology, Prairie View University, 2019",
+      "score": 0.9926956295967102,
+      "box": [
+        115,
+        539,
+        690,
+        567
+      ]
+    },
+    {
+      "text": "• Completed coursework in nutritional assessment",
+      "score": 0.993107259273529,
+      "box": [
+        132,
+        566,
+        598,
+        591
+      ]
+    },
+    {
+      "text": "•Completed coursework in prioritization in nursing",
+      "score": 0.9775676131248474,
+      "box": [
+        131,
+        589,
+        598,
+        620
+      ]
+    }
+  ],
+  "seconds": 2.415931799914688,
+  "id": "13791",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

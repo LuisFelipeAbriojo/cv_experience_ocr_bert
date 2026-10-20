@@ -1,0 +1,162 @@
+{
+  "lines": [
+    {
+      "text": "ASPEN MCINTOSH",
+      "score": 0.9998501539230347,
+      "box": [
+        117,
+        91,
+        420,
+        122
+      ]
+    },
+    {
+      "text": "VA, USA | +1-813-545-9845 | aspen.mcintosh@example.com",
+      "score": 0.9689995050430298,
+      "box": [
+        118,
+        152,
+        685,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9990568161010742,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, Bluebeam Construction, 2020.112023.01",
+      "score": 0.994495689868927,
+      "box": [
+        116,
+        288,
+        724,
+        316
+      ]
+    },
+    {
+      "text": "- Managed equipment maintenance programs",
+      "score": 0.9885596036911011,
+      "box": [
+        126,
+        314,
+        553,
+        344
+      ]
+    },
+    {
+      "text": "- Implemented safety compliance strategies",
+      "score": 0.9856079816818237,
+      "box": [
+        127,
+        339,
+        532,
+        368
+      ]
+    },
+    {
+      "text": "Construction Laborers, AnchorPoint Builders, 2018.092020.11",
+      "score": 0.9872441291809082,
+      "box": [
+        118,
+        383,
+        702,
+        407
+      ]
+    },
+    {
+      "text": "- Operated power tools independently",
+      "score": 0.9735013246536255,
+      "box": [
+        127,
+        409,
+        476,
+        433
+      ]
+    },
+    {
+      "text": "- Reviewed installation quality",
+      "score": 0.9689605832099915,
+      "box": [
+        126,
+        430,
+        406,
+        459
+      ]
+    },
+    {
+      "text": "Construction Laborers, ClearStone Builders, 2016.06—2018.09",
+      "score": 0.9868908524513245,
+      "box": [
+        116,
+        471,
+        694,
+        499
+      ]
+    },
+    {
+      "text": "- Operated hand tools for assembly tasks",
+      "score": 0.988697350025177,
+      "box": [
+        128,
+        499,
+        510,
+        523
+      ]
+    },
+    {
+      "text": "- Measured and cut basic building materials",
+      "score": 0.9752236008644104,
+      "box": [
+        127,
+        520,
+        532,
+        550
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999932050704956,
+      "box": [
+        117,
+        587,
+        267,
+        614
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Industrial Technology, Amber Hills High School, 2016",
+      "score": 0.9976280331611633,
+      "box": [
+        117,
+        631,
+        870,
+        658
+      ]
+    },
+    {
+      "text": "Completed coursework in basic painting techniques",
+      "score": 0.9935529232025146,
+      "box": [
+        131,
+        656,
+        625,
+        685
+      ]
+    }
+  ],
+  "seconds": 2.587476000189781,
+  "id": "57288",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

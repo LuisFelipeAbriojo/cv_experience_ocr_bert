@@ -1,0 +1,142 @@
+{
+  "lines": [
+    {
+      "text": "JOHN EDWARDS",
+      "score": 0.9998671412467957,
+      "box": [
+        116,
+        91,
+        392,
+        122
+      ]
+    },
+    {
+      "text": "AL, USA | +1-722-274-6375 | john.edwards@example.com",
+      "score": 0.9779595732688904,
+      "box": [
+        118,
+        152,
+        661,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9613265991210938,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Growing Stars Academy, 2019.05—2021.04",
+      "score": 0.9943451285362244,
+      "box": [
+        115,
+        287,
+        864,
+        319
+      ]
+    },
+    {
+      "text": "- Designed instructional accountability systems",
+      "score": 0.9902097582817078,
+      "box": [
+        125,
+        314,
+        563,
+        343
+      ]
+    },
+    {
+      "text": "- Designed systemic intervention models",
+      "score": 0.9980570673942566,
+      "box": [
+        127,
+        339,
+        505,
+        367
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Learning Field School, 2016.04—2018.03",
+      "score": 0.9829884171485901,
+      "box": [
+        115,
+        379,
+        841,
+        410
+      ]
+    },
+    {
+      "text": "- Reviewed homework assignments",
+      "score": 0.9991675615310669,
+      "box": [
+        126,
+        407,
+        457,
+        433
+      ]
+    },
+    {
+      "text": "- Updated student performance logs",
+      "score": 0.9878960847854614,
+      "box": [
+        128,
+        431,
+        461,
+        460
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999340772628784,
+      "box": [
+        116,
+        494,
+        268,
+        521
+      ]
+    },
+    {
+      "text": "Bachelor's, Education Studies, Harborview University, 2011",
+      "score": 0.992047131061554,
+      "box": [
+        115,
+        539,
+        665,
+        567
+      ]
+    },
+    {
+      "text": "•Studied principles of student assessment",
+      "score": 0.9799902439117432,
+      "box": [
+        130,
+        567,
+        530,
+        591
+      ]
+    },
+    {
+      "text": "•Studied fundamentals of educational goal setting",
+      "score": 0.9868252277374268,
+      "box": [
+        130,
+        588,
+        598,
+        619
+      ]
+    }
+  ],
+  "seconds": 2.5360973002389073,
+  "id": "00823",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

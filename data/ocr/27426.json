@@ -1,0 +1,172 @@
+{
+  "lines": [
+    {
+      "text": "NICOLE DICKERSON",
+      "score": 0.9991630911827087,
+      "box": [
+        116,
+        89,
+        454,
+        122
+      ]
+    },
+    {
+      "text": "MI, USA | +1-696-633-1727 | nicole.dickerson@example.com",
+      "score": 0.9874300360679626,
+      "box": [
+        115,
+        150,
+        685,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9991713166236877,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Little Meadow School, 2020.02—2023.01",
+      "score": 0.9958781003952026,
+      "box": [
+        116,
+        288,
+        835,
+        316
+      ]
+    },
+    {
+      "text": "- Established instructional best practices",
+      "score": 0.9981325268745422,
+      "box": [
+        126,
+        315,
+        501,
+        341
+      ]
+    },
+    {
+      "text": "- Established curriculum evaluation protocols",
+      "score": 0.9882778525352478,
+      "box": [
+        125,
+        339,
+        544,
+        367
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Discovery Path School, 2017.032020.02",
+      "score": 0.9908807277679443,
+      "box": [
+        116,
+        381,
+        850,
+        411
+      ]
+    },
+    {
+      "text": "- Implemented formative assessment strategies",
+      "score": 0.9923588037490845,
+      "box": [
+        126,
+        408,
+        568,
+        435
+      ]
+    },
+    {
+      "text": "- Prepared remediation materials",
+      "score": 0.9767097234725952,
+      "box": [
+        127,
+        432,
+        434,
+        457
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Harmony Learning Center, 2011.11—2014.11",
+      "score": 0.9841927289962769,
+      "box": [
+        116,
+        471,
+        878,
+        499
+      ]
+    },
+    {
+      "text": "- Administered learning games",
+      "score": 0.9758922457695007,
+      "box": [
+        126,
+        498,
+        414,
+        525
+      ]
+    },
+    {
+      "text": "- Recorded behavioral observations",
+      "score": 0.9776802062988281,
+      "box": [
+        126,
+        520,
+        458,
+        549
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999919056892395,
+      "box": [
+        117,
+        587,
+        267,
+        614
+      ]
+    },
+    {
+      "text": "Bachelor's, Child and Youth Studies, Cedar Valley University, 2008",
+      "score": 0.986284077167511,
+      "box": [
+        117,
+        632,
+        736,
+        659
+      ]
+    },
+    {
+      "text": "• Completed coursework in interactive learning methods",
+      "score": 0.9850111603736877,
+      "box": [
+        132,
+        658,
+        650,
+        685
+      ]
+    },
+    {
+      "text": "•Completed coursework in classroom discipline strategies",
+      "score": 0.9902791976928711,
+      "box": [
+        132,
+        681,
+        672,
+        710
+      ]
+    }
+  ],
+  "seconds": 2.67026129970327,
+  "id": "27426",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

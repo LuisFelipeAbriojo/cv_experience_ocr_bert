@@ -1,0 +1,152 @@
+{
+  "lines": [
+    {
+      "text": "BRIANNA FULLER",
+      "score": 0.9998763203620911,
+      "box": [
+        118,
+        91,
+        413,
+        122
+      ]
+    },
+    {
+      "text": "OH, USA | +1-719-579-7579 | brianna.fuller@example.com",
+      "score": 0.9918708205223083,
+      "box": [
+        118,
+        152,
+        663,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9990525245666504,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Precise Ledger Advisors, 2021.012023.01",
+      "score": 0.9869275093078613,
+      "box": [
+        116,
+        289,
+        725,
+        316
+      ]
+    },
+    {
+      "text": "- Established accounting policies",
+      "score": 0.9983152747154236,
+      "box": [
+        125,
+        314,
+        434,
+        342
+      ]
+    },
+    {
+      "text": "- Established tax compliance frameworks",
+      "score": 0.9951187372207642,
+      "box": [
+        127,
+        340,
+        508,
+        366
+      ]
+    },
+    {
+      "text": "Accountants Auditors, FairCount Financial, 2019.01—2021.01",
+      "score": 0.9854094982147217,
+      "box": [
+        116,
+        380,
+        680,
+        408
+      ]
+    },
+    {
+      "text": "- Verified transaction accuracy",
+      "score": 0.9732597470283508,
+      "box": [
+        124,
+        403,
+        411,
+        436
+      ]
+    },
+    {
+      "text": "- Verified financial transactions",
+      "score": 0.9953696727752686,
+      "box": [
+        127,
+        430,
+        414,
+        456
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999232888221741,
+      "box": [
+        116,
+        494,
+        267,
+        521
+      ]
+    },
+    {
+      "text": "Professional degree, Forensic Accounting, Oakway University, 2019",
+      "score": 0.9949051141738892,
+      "box": [
+        115,
+        539,
+        747,
+        568
+      ]
+    },
+    {
+      "text": "Bachelor's, Commerce, Brookridge University, 2015",
+      "score": 0.9873120188713074,
+      "box": [
+        116,
+        566,
+        597,
+        592
+      ]
+    },
+    {
+      "text": "•Completed coursework in segment reporting",
+      "score": 0.9746413230895996,
+      "box": [
+        129,
+        590,
+        559,
+        620
+      ]
+    },
+    {
+      "text": "Completed coursework in accounting information systems",
+      "score": 0.9982179999351501,
+      "box": [
+        130,
+        613,
+        682,
+        645
+      ]
+    }
+  ],
+  "seconds": 2.4911050000227988,
+  "id": "43141",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

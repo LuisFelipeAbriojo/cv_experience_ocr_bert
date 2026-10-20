@@ -1,0 +1,152 @@
+{
+  "lines": [
+    {
+      "text": "CHANEL DURAN",
+      "score": 0.9995954036712646,
+      "box": [
+        118,
+        91,
+        386,
+        122
+      ]
+    },
+    {
+      "text": "WA, USA | +1-991-540-3980 | chanel.duran@example.com",
+      "score": 0.9916799068450928,
+      "box": [
+        117,
+        152,
+        665,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9613265991210938,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, SolidCount Advisors, 2020.09—2023.01",
+      "score": 0.9892973303794861,
+      "box": [
+        117,
+        290,
+        686,
+        314
+      ]
+    },
+    {
+      "text": "- Developed regulatory reporting strategies",
+      "score": 0.9918799996376038,
+      "box": [
+        125,
+        314,
+        525,
+        343
+      ]
+    },
+    {
+      "text": "- Established cost management systems",
+      "score": 0.9851102232933044,
+      "box": [
+        126,
+        339,
+        504,
+        368
+      ]
+    },
+    {
+      "text": "Accountants Auditors, SolidLedger Advisors, 2016.092019.02",
+      "score": 0.9997876882553101,
+      "box": [
+        116,
+        379,
+        698,
+        410
+      ]
+    },
+    {
+      "text": "- Compiled financial schedules",
+      "score": 0.9926851987838745,
+      "box": [
+        125,
+        407,
+        413,
+        433
+      ]
+    },
+    {
+      "text": "- Prepared trial balances",
+      "score": 0.962422251701355,
+      "box": [
+        126,
+        430,
+        358,
+        460
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999340772628784,
+      "box": [
+        116,
+        494,
+        268,
+        521
+      ]
+    },
+    {
+      "text": "Master's, Business Analytics, Clear Ridge University, 2008",
+      "score": 0.9935758113861084,
+      "box": [
+        114,
+        539,
+        658,
+        567
+      ]
+    },
+    {
+      "text": "Bachelor's, Operations Management, Driftwood University, 2006",
+      "score": 0.9975618720054626,
+      "box": [
+        116,
+        566,
+        711,
+        593
+      ]
+    },
+    {
+      "text": "• Completed coursework in accounting information systems",
+      "score": 0.9855886101722717,
+      "box": [
+        131,
+        592,
+        680,
+        616
+      ]
+    },
+    {
+      "text": "Completed coursework in macroeconomics",
+      "score": 0.9920929074287415,
+      "box": [
+        131,
+        614,
+        549,
+        643
+      ]
+    }
+  ],
+  "seconds": 2.4027915000915527,
+  "id": "58812",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

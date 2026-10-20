@@ -1,0 +1,182 @@
+{
+  "lines": [
+    {
+      "text": "DIANE KOCH",
+      "score": 0.9592964053153992,
+      "box": [
+        117,
+        91,
+        330,
+        122
+      ]
+    },
+    {
+      "text": "GA, USA | +1-869-921-2260 | diane.koch@example.com",
+      "score": 0.9783678650856018,
+      "box": [
+        118,
+        152,
+        642,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.999103844165802,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, BrightPath Learning Center, 2020.01-2023.0",
+      "score": 0.9913591742515564,
+      "box": [
+        115,
+        287,
+        881,
+        318
+      ]
+    },
+    {
+      "text": "- Developed instructional evaluation metrics",
+      "score": 0.9913869500160217,
+      "box": [
+        126,
+        315,
+        533,
+        340
+      ]
+    },
+    {
+      "text": "- Developed district-aligned lesson frameworks",
+      "score": 0.9968224167823792,
+      "box": [
+        127,
+        339,
+        562,
+        367
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Caring Meadow School, 2015.012018.01",
+      "score": 0.9978265762329102,
+      "box": [
+        116,
+        381,
+        853,
+        411
+      ]
+    },
+    {
+      "text": "- Evaluated student portfolios",
+      "score": 0.9964749217033386,
+      "box": [
+        125,
+        408,
+        401,
+        433
+      ]
+    },
+    {
+      "text": "- Developed homework policies",
+      "score": 0.9983947277069092,
+      "box": [
+        126,
+        434,
+        418,
+        457
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Open Grove School, 2011.032014.04",
+      "score": 0.9895743131637573,
+      "box": [
+        117,
+        472,
+        822,
+        499
+      ]
+    },
+    {
+      "text": "- Supported standardized testing sessions",
+      "score": 0.9986204504966736,
+      "box": [
+        126,
+        498,
+        518,
+        523
+      ]
+    },
+    {
+      "text": "- Conducted group reading activities",
+      "score": 0.9832006096839905,
+      "box": [
+        127,
+        521,
+        463,
+        552
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9998750686645508,
+      "box": [
+        117,
+        587,
+        267,
+        614
+      ]
+    },
+    {
+      "text": "Professional degree, Educational Readiness, Parkview University, 2007",
+      "score": 0.9884926676750183,
+      "box": [
+        116,
+        632,
+        780,
+        659
+      ]
+    },
+    {
+      "text": "Bachelor's, Education and Development, Woodcrest University, 2003",
+      "score": 0.9917506575584412,
+      "box": [
+        116,
+        657,
+        756,
+        684
+      ]
+    },
+    {
+      "text": "• Completed coursework in early literacy instruction",
+      "score": 0.9958621263504028,
+      "box": [
+        134,
+        684,
+        609,
+        708
+      ]
+    },
+    {
+      "text": "Completed coursework in educational communication",
+      "score": 0.9997888803482056,
+      "box": [
+        132,
+        705,
+        643,
+        735
+      ]
+    }
+  ],
+  "seconds": 2.603635699953884,
+  "id": "15530",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

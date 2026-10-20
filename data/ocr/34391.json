@@ -1,0 +1,142 @@
+{
+  "lines": [
+    {
+      "text": "LISA GOULD",
+      "score": 0.9719364047050476,
+      "box": [
+        116,
+        89,
+        323,
+        122
+      ]
+    },
+    {
+      "text": "NJ, USA | +1-859-592-5249 | lisa.gould@example.com",
+      "score": 0.9877864122390747,
+      "box": [
+        116,
+        149,
+        625,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9997676014900208,
+      "box": [
+        117,
+        243,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Integrity Ledger Financial, 2019.012021.10",
+      "score": 0.9789611101150513,
+      "box": [
+        116,
+        289,
+        736,
+        316
+      ]
+    },
+    {
+      "text": "- Designed financial documentation standards",
+      "score": 0.9744309782981873,
+      "box": [
+        128,
+        315,
+        553,
+        340
+      ]
+    },
+    {
+      "text": "- Developed regulatory reporting strategies",
+      "score": 0.9986379742622375,
+      "box": [
+        128,
+        339,
+        525,
+        368
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Integrity Count Financial, 2015.05—2018.02",
+      "score": 0.9859679937362671,
+      "box": [
+        116,
+        380,
+        726,
+        408
+      ]
+    },
+    {
+      "text": "- Filed financial documents",
+      "score": 0.9947466254234314,
+      "box": [
+        125,
+        406,
+        378,
+        432
+      ]
+    },
+    {
+      "text": "- Prepared variance reports",
+      "score": 0.985612154006958,
+      "box": [
+        126,
+        430,
+        384,
+        461
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999525547027588,
+      "box": [
+        116,
+        494,
+        268,
+        521
+      ]
+    },
+    {
+      "text": "Bachelor's, Statistics, Meadowcrest University, 2008",
+      "score": 0.9871720671653748,
+      "box": [
+        115,
+        539,
+        601,
+        567
+      ]
+    },
+    {
+      "text": "•Studied principles of financial risk management",
+      "score": 0.9773390293121338,
+      "box": [
+        129,
+        566,
+        586,
+        591
+      ]
+    },
+    {
+      "text": "•Studied fundamentals of regulatory compliance",
+      "score": 0.9835092425346375,
+      "box": [
+        129,
+        590,
+        584,
+        618
+      ]
+    }
+  ],
+  "seconds": 2.3958342000842094,
+  "id": "34391",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

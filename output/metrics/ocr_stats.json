@@ -1,0 +1,42 @@
+{
+  "n_cvs": 4000,
+  "n_failed": 0,
+  "failed_ids": [],
+  "seconds_per_cv_mean": 2.725970835870132,
+  "seconds_per_cv_median": 2.5259570500347763,
+  "total_hours": 3.0288564843001464,
+  "mean_confidence": 0.9907005826435948,
+  "mean_lines_per_cv": 14.39175,
+  "share_lines_below_0_8": 0.0,
+  "layout_counts": {
+    "single": 4000
+  },
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec",
+  "paddleocr": "3.3.1",
+  "paddlepaddle": "3.2.0",
+  "hardware": "Intel64 Family 6 Model 186 Stepping 2, GenuineIntel | 16 logical cores | CPU only",
+  "by_occupation": {
+    "seconds": {
+      "accountants_auditors": 2.722665685629472,
+      "construction_laborers": 2.4067630119930254,
+      "elementary_middle_school_teachers": 2.789209396376973,
+      "registered_nurses": 3.3691983422357588,
+      "software_developers": 2.34201774311543
+    },
+    "mean_conf": {
+      "accountants_auditors": 0.9907315156945691,
+      "construction_laborers": 0.9909584105934017,
+      "elementary_middle_school_teachers": 0.9907777243625175,
+      "registered_nurses": 0.9904042407125749,
+      "software_developers": 0.9906310218549109
+    },
+    "n_lines": {
+      "accountants_auditors": 15.1475,
+      "construction_laborers": 13.0725,
+      "elementary_middle_school_teachers": 14.915,
+      "registered_nurses": 14.37875,
+      "software_developers": 14.445
+    }
+  }
+}

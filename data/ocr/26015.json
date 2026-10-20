@@ -1,0 +1,142 @@
+{
+  "lines": [
+    {
+      "text": "MATTHEW LE",
+      "score": 0.9985928535461426,
+      "box": [
+        117,
+        91,
+        341,
+        121
+      ]
+    },
+    {
+      "text": "MA, USA | +1-319-691-9791 | matthew.le@example.com",
+      "score": 0.9844653606414795,
+      "box": [
+        116,
+        151,
+        643,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9991481304168701,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Datastream Digital, 2020.08—2023.01",
+      "score": 0.9979532361030579,
+      "box": [
+        116,
+        288,
+        666,
+        315
+      ]
+    },
+    {
+      "text": "- Led platform migrations",
+      "score": 0.9944664239883423,
+      "box": [
+        127,
+        317,
+        361,
+        341
+      ]
+    },
+    {
+      "text": "- Implemented long-term maintenance plans",
+      "score": 0.9913486242294312,
+      "box": [
+        128,
+        339,
+        538,
+        367
+      ]
+    },
+    {
+      "text": "Software Developers, Softfield Tech, 2015.032017.09",
+      "score": 0.99155193567276,
+      "box": [
+        116,
+        380,
+        625,
+        408
+      ]
+    },
+    {
+      "text": "- Assisted with version control operations",
+      "score": 0.9901036024093628,
+      "box": [
+        125,
+        407,
+        509,
+        432
+      ]
+    },
+    {
+      "text": "- Assisted with build automation",
+      "score": 0.9789644479751587,
+      "box": [
+        128,
+        431,
+        424,
+        456
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999309182167053,
+      "box": [
+        116,
+        494,
+        268,
+        521
+      ]
+    },
+    {
+      "text": "Bachelor's, Northwood University, 2014",
+      "score": 0.9792017936706543,
+      "box": [
+        115,
+        539,
+        484,
+        567
+      ]
+    },
+    {
+      "text": "•Studied fundamentals of concurrency",
+      "score": 0.981191873550415,
+      "box": [
+        129,
+        565,
+        493,
+        592
+      ]
+    },
+    {
+      "text": "•Studied principles of event-driven architecture",
+      "score": 0.9738941192626953,
+      "box": [
+        131,
+        591,
+        571,
+        615
+      ]
+    }
+  ],
+  "seconds": 2.256991000380367,
+  "id": "26015",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

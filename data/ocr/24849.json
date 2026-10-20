@@ -1,0 +1,202 @@
+{
+  "lines": [
+    {
+      "text": "JESSICA PATEL",
+      "score": 0.9991394877433777,
+      "box": [
+        116,
+        91,
+        380,
+        122
+      ]
+    },
+    {
+      "text": "MD, USA | +1-394-963-7230 | jessica.patel@example.com",
+      "score": 0.9846435189247131,
+      "box": [
+        115,
+        150,
+        659,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9967498779296875,
+      "box": [
+        117,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, LifeHands Nursing Services, 2019.12—2023.01",
+      "score": 0.9913762211799622,
+      "box": [
+        115,
+        287,
+        733,
+        318
+      ]
+    },
+    {
+      "text": "- Developed care quality benchmarks",
+      "score": 0.9927118420600891,
+      "box": [
+        126,
+        314,
+        474,
+        342
+      ]
+    },
+    {
+      "text": "- Implemented patient monitoring systems",
+      "score": 0.9933432340621948,
+      "box": [
+        127,
+        339,
+        517,
+        369
+      ]
+    },
+    {
+      "text": "Registered Nurses, KindSpring Care Center, 2016.112019.12",
+      "score": 0.9992708563804626,
+      "box": [
+        116,
+        381,
+        699,
+        409
+      ]
+    },
+    {
+      "text": "- Directed emergency response planning",
+      "score": 0.999474048614502,
+      "box": [
+        125,
+        408,
+        505,
+        435
+      ]
+    },
+    {
+      "text": "- Established clinical evaluation protocols",
+      "score": 0.9891931414604187,
+      "box": [
+        126,
+        431,
+        509,
+        457
+      ]
+    },
+    {
+      "text": "Registered Nurses, Caring Bridge Nursing, 2013.092016.11",
+      "score": 0.9954453110694885,
+      "box": [
+        118,
+        474,
+        680,
+        498
+      ]
+    },
+    {
+      "text": "- Conducted quality assurance checks",
+      "score": 0.9888871312141418,
+      "box": [
+        127,
+        497,
+        483,
+        525
+      ]
+    },
+    {
+      "text": "- Monitored fluid and electrolyte balance",
+      "score": 0.983852207660675,
+      "box": [
+        126,
+        521,
+        500,
+        551
+      ]
+    },
+    {
+      "text": "Registered Nurses, NewSpring Health Services, 2010.072013.09",
+      "score": 0.9979475140571594,
+      "box": [
+        118,
+        566,
+        730,
+        590
+      ]
+    },
+    {
+      "text": "- Performed blood glucose testing",
+      "score": 0.9938485026359558,
+      "box": [
+        126,
+        589,
+        443,
+        618
+      ]
+    },
+    {
+      "text": "- Maintained supply inventory",
+      "score": 0.9582987427711487,
+      "box": [
+        125,
+        613,
+        402,
+        645
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999110698699951,
+      "box": [
+        117,
+        681,
+        266,
+        705
+      ]
+    },
+    {
+      "text": "Bachelor's, Nursing, Hillview University, 2008",
+      "score": 0.9939650893211365,
+      "box": [
+        117,
+        726,
+        536,
+        749
+      ]
+    },
+    {
+      "text": "•Studied fundamentals of musculoskeletal nursing",
+      "score": 0.9911608695983887,
+      "box": [
+        130,
+        748,
+        603,
+        776
+      ]
+    },
+    {
+      "text": "•Completed coursework in continence management",
+      "score": 0.9837828874588013,
+      "box": [
+        132,
+        772,
+        620,
+        801
+      ]
+    }
+  ],
+  "seconds": 3.5881320000626147,
+  "id": "24849",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

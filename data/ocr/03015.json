@@ -1,0 +1,142 @@
+{
+  "lines": [
+    {
+      "text": "JAMES WOLF",
+      "score": 0.999849796295166,
+      "box": [
+        116,
+        90,
+        342,
+        121
+      ]
+    },
+    {
+      "text": "CA, USA | +1-790-752-6965 | james.wolf@example.com",
+      "score": 0.9828075170516968,
+      "box": [
+        116,
+        149,
+        640,
+        177
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9997604489326477,
+      "box": [
+        117,
+        243,
+        315,
+        270
+      ]
+    },
+    {
+      "text": "Software Developers, Netcore Labs, 2019.102022.07",
+      "score": 0.9986920952796936,
+      "box": [
+        117,
+        290,
+        620,
+        314
+      ]
+    },
+    {
+      "text": "- Designed system architectures",
+      "score": 0.9854052662849426,
+      "box": [
+        125,
+        313,
+        429,
+        342
+      ]
+    },
+    {
+      "text": "- Built core libraries",
+      "score": 0.9976918697357178,
+      "box": [
+        126,
+        339,
+        309,
+        365
+      ]
+    },
+    {
+      "text": "Software Developers, Stoneframe Software, 2016.072019.04",
+      "score": 0.999885082244873,
+      "box": [
+        116,
+        381,
+        693,
+        408
+      ]
+    },
+    {
+      "text": "- Implemented REST endpoints",
+      "score": 0.9990801811218262,
+      "box": [
+        126,
+        406,
+        422,
+        432
+      ]
+    },
+    {
+      "text": "- Fixed software bugs identified through testing",
+      "score": 0.9644777774810791,
+      "box": [
+        126,
+        429,
+        562,
+        459
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999016523361206,
+      "box": [
+        117,
+        494,
+        267,
+        521
+      ]
+    },
+    {
+      "text": "Bachelor's, Clearview University, 2010",
+      "score": 0.9974397420883179,
+      "box": [
+        116,
+        540,
+        474,
+        567
+      ]
+    },
+    {
+      "text": "• Completed coursework in information retrieval",
+      "score": 0.9809749722480774,
+      "box": [
+        132,
+        565,
+        574,
+        590
+      ]
+    },
+    {
+      "text": "•Completed coursework in SQL and data querying",
+      "score": 0.9806669354438782,
+      "box": [
+        131,
+        589,
+        605,
+        618
+      ]
+    }
+  ],
+  "seconds": 2.214809900149703,
+  "id": "03015",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

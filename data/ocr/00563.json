@@ -1,0 +1,182 @@
+{
+  "lines": [
+    {
+      "text": "BRETT CHUNG",
+      "score": 0.9997817873954773,
+      "box": [
+        117,
+        91,
+        360,
+        122
+      ]
+    },
+    {
+      "text": "AL, USA | +1-853-706-8622 | brett.chung@example.com",
+      "score": 0.9751874804496765,
+      "box": [
+        117,
+        150,
+        640,
+        177
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9989755749702454,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Cloudfield Software, 2020.09—2023.01",
+      "score": 0.9910950660705566,
+      "box": [
+        115,
+        288,
+        676,
+        316
+      ]
+    },
+    {
+      "text": "- Designed system architectures",
+      "score": 0.9965681433677673,
+      "box": [
+        125,
+        314,
+        429,
+        342
+      ]
+    },
+    {
+      "text": "- Designed microservice architectures",
+      "score": 0.9995485544204712,
+      "box": [
+        129,
+        342,
+        478,
+        366
+      ]
+    },
+    {
+      "text": "Software Developers, Skybridge Software, 2018.052020.09",
+      "score": 0.9907656311988831,
+      "box": [
+        117,
+        382,
+        677,
+        409
+      ]
+    },
+    {
+      "text": "- Developed CI/CD scripts",
+      "score": 0.9688941836357117,
+      "box": [
+        125,
+        406,
+        372,
+        435
+      ]
+    },
+    {
+      "text": "- Improved memory usage",
+      "score": 0.9974184632301331,
+      "box": [
+        127,
+        431,
+        374,
+        461
+      ]
+    },
+    {
+      "text": "Software Developers, Flowline Labs, 2015.122018.05",
+      "score": 0.9935063123703003,
+      "box": [
+        117,
+        472,
+        625,
+        499
+      ]
+    },
+    {
+      "text": "- Implemented error handling logic",
+      "score": 0.9832563996315002,
+      "box": [
+        126,
+        496,
+        447,
+        525
+      ]
+    },
+    {
+      "text": "- Assisted with build automation",
+      "score": 0.9967938661575317,
+      "box": [
+        128,
+        521,
+        423,
+        548
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9998614192008972,
+      "box": [
+        117,
+        587,
+        267,
+        614
+      ]
+    },
+    {
+      "text": "Master's, Elm Valley University, 2014",
+      "score": 0.9855040311813354,
+      "box": [
+        118,
+        633,
+        461,
+        657
+      ]
+    },
+    {
+      "text": "Bachelor's, Fairhill University, 2012",
+      "score": 0.9691321849822998,
+      "box": [
+        115,
+        656,
+        446,
+        684
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of agile methodologies",
+      "score": 0.9825851321220398,
+      "box": [
+        130,
+        682,
+        565,
+        708
+      ]
+    },
+    {
+      "text": "Studied fundamentals of race condition handling",
+      "score": 0.9959232211112976,
+      "box": [
+        131,
+        704,
+        594,
+        735
+      ]
+    }
+  ],
+  "seconds": 2.5194446998648345,
+  "id": "00563",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

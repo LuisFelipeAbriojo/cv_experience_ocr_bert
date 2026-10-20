@@ -1,0 +1,152 @@
+{
+  "lines": [
+    {
+      "text": "ASHLEY FITZGERALD",
+      "score": 0.9820811152458191,
+      "box": [
+        117,
+        91,
+        472,
+        122
+      ]
+    },
+    {
+      "text": "OH, USA | +1-566-748-4233 | ashley.fitzgerald@example.com",
+      "score": 0.9860244393348694,
+      "box": [
+        116,
+        150,
+        693,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9991834759712219,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, SolidBooks Advisors, 2020.02—2023.01",
+      "score": 0.9944546818733215,
+      "box": [
+        117,
+        290,
+        688,
+        314
+      ]
+    },
+    {
+      "text": "- Developed financial risk models",
+      "score": 0.9991757869720459,
+      "box": [
+        126,
+        315,
+        436,
+        340
+      ]
+    },
+    {
+      "text": "- Directed accounting training programs",
+      "score": 0.995282769203186,
+      "box": [
+        127,
+        339,
+        495,
+        369
+      ]
+    },
+    {
+      "text": "Accountants Auditors, SteadyCount Group, 2017.02—2020.02",
+      "score": 0.9896122217178345,
+      "box": [
+        118,
+        383,
+        684,
+        407
+      ]
+    },
+    {
+      "text": "- Assisted with inventory counts",
+      "score": 0.989008367061615,
+      "box": [
+        125,
+        407,
+        422,
+        433
+      ]
+    },
+    {
+      "text": "- Maintained accounting software records",
+      "score": 0.9772232174873352,
+      "box": [
+        127,
+        434,
+        509,
+        457
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9985918402671814,
+      "box": [
+        116,
+        494,
+        267,
+        521
+      ]
+    },
+    {
+      "text": "Master's, Public Accounting, Forest Hill University, 2015",
+      "score": 0.9859282970428467,
+      "box": [
+        114,
+        539,
+        636,
+        567
+      ]
+    },
+    {
+      "text": "Bachelor's, Financial Planning, Havenwood University, 2013",
+      "score": 0.9876475930213928,
+      "box": [
+        116,
+        566,
+        674,
+        593
+      ]
+    },
+    {
+      "text": "• Completed coursework in contribution margin analysis",
+      "score": 0.9754913449287415,
+      "box": [
+        130,
+        592,
+        648,
+        619
+      ]
+    },
+    {
+      "text": "•Studied principles of financial statement analysis",
+      "score": 0.9809675812721252,
+      "box": [
+        131,
+        615,
+        598,
+        643
+      ]
+    }
+  ],
+  "seconds": 2.3783176001161337,
+  "id": "42103",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

@@ -1,0 +1,112 @@
+{
+  "lines": [
+    {
+      "text": "SARAH MAYO",
+      "score": 0.9800518155097961,
+      "box": [
+        117,
+        91,
+        346,
+        122
+      ]
+    },
+    {
+      "text": "FL, USA | +1-739-593-2468 | sarah.mayo@example.com",
+      "score": 0.9792554974555969,
+      "box": [
+        116,
+        149,
+        645,
+        177
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.999378502368927,
+      "box": [
+        116,
+        243,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Registered Nurses, SunBridge Nursing, 2019.072022.04",
+      "score": 0.9993647336959839,
+      "box": [
+        115,
+        287,
+        652,
+        317
+      ]
+    },
+    {
+      "text": "- Maintained infection control protocols",
+      "score": 0.9866630434989929,
+      "box": [
+        125,
+        312,
+        486,
+        341
+      ]
+    },
+    {
+      "text": "- Prepared sterile supplies",
+      "score": 0.9798645377159119,
+      "box": [
+        127,
+        338,
+        372,
+        368
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999475479125977,
+      "box": [
+        116,
+        404,
+        268,
+        431
+      ]
+    },
+    {
+      "text": "Associate's degree, Health Informatics, Forestview University, 2017",
+      "score": 0.9887820482254028,
+      "box": [
+        116,
+        446,
+        742,
+        474
+      ]
+    },
+    {
+      "text": "Completed coursework in human anatomy and physiology",
+      "score": 0.9854390621185303,
+      "box": [
+        130,
+        471,
+        684,
+        502
+      ]
+    },
+    {
+      "text": "•Completed coursework in nutritional assessment",
+      "score": 0.9960597157478333,
+      "box": [
+        134,
+        499,
+        599,
+        523
+      ]
+    }
+  ],
+  "seconds": 2.652439699973911,
+  "id": "14215",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

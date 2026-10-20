@@ -1,0 +1,182 @@
+{
+  "lines": [
+    {
+      "text": "RYAN COPELAND",
+      "score": 0.9995378851890564,
+      "box": [
+        117,
+        91,
+        409,
+        121
+      ]
+    },
+    {
+      "text": "GA, USA | +1-972-963-6417 | ryan.copeland@example.com",
+      "score": 0.9599862098693848,
+      "box": [
+        118,
+        152,
+        672,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9989857077598572,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Integrity Books Financial, 2020.11—2023.01",
+      "score": 0.9814416170120239,
+      "box": [
+        115,
+        288,
+        727,
+        316
+      ]
+    },
+    {
+      "text": "- Designed tax strategies",
+      "score": 0.9789330363273621,
+      "box": [
+        128,
+        315,
+        361,
+        343
+      ]
+    },
+    {
+      "text": "- Led accounting process optimization",
+      "score": 0.9957702159881592,
+      "box": [
+        128,
+        340,
+        479,
+        367
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Precise Balance Group, 2018.082020.11",
+      "score": 0.9952497482299805,
+      "box": [
+        117,
+        382,
+        713,
+        409
+      ]
+    },
+    {
+      "text": "- Prepared financial projections",
+      "score": 0.9908880591392517,
+      "box": [
+        126,
+        409,
+        418,
+        433
+      ]
+    },
+    {
+      "text": "- Reviewed journal entries",
+      "score": 0.9994273781776428,
+      "box": [
+        125,
+        430,
+        372,
+        460
+      ]
+    },
+    {
+      "text": "Accountants Auditors, ClearBalance Services, 2016.05—2018.08",
+      "score": 0.9819024205207825,
+      "box": [
+        118,
+        473,
+        711,
+        497
+      ]
+    },
+    {
+      "text": "- Processed expense reimbursements",
+      "score": 0.9945711493492126,
+      "box": [
+        125,
+        497,
+        482,
+        525
+      ]
+    },
+    {
+      "text": "- Updated general ledger records",
+      "score": 0.9921907186508179,
+      "box": [
+        129,
+        523,
+        437,
+        550
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999485015869141,
+      "box": [
+        118,
+        588,
+        266,
+        612
+      ]
+    },
+    {
+      "text": "Master's, Quantitative Finance, Riverfield University, 2015",
+      "score": 0.9948351383209229,
+      "box": [
+        117,
+        632,
+        651,
+        656
+      ]
+    },
+    {
+      "text": "Bachelor's, Business Studies, Ridgeway University, 2013",
+      "score": 0.9780762195587158,
+      "box": [
+        115,
+        656,
+        646,
+        684
+      ]
+    },
+    {
+      "text": "•Completed coursework in accounting case analysis",
+      "score": 0.9859205484390259,
+      "box": [
+        131,
+        681,
+        622,
+        710
+      ]
+    },
+    {
+      "text": "Completed coursework in internal reporting systems",
+      "score": 0.9868911504745483,
+      "box": [
+        131,
+        704,
+        630,
+        737
+      ]
+    }
+  ],
+  "seconds": 2.8126507997512817,
+  "id": "15869",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

@@ -1,0 +1,112 @@
+{
+  "lines": [
+    {
+      "text": "OLUWATOBI BOYLE",
+      "score": 0.9997951984405518,
+      "box": [
+        116,
+        87,
+        449,
+        123
+      ]
+    },
+    {
+      "text": "AR, USA | +1-887-449-9604 | oluwatobi.boyle@example.com",
+      "score": 0.9756901264190674,
+      "box": [
+        116,
+        149,
+        685,
+        177
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9993758201599121,
+      "box": [
+        116,
+        243,
+        317,
+        270
+      ]
+    },
+    {
+      "text": "Registered Nurses, GentleWay Care Center, 2021.08—2023.01",
+      "score": 0.9899036884307861,
+      "box": [
+        116,
+        287,
+        696,
+        314
+      ]
+    },
+    {
+      "text": "- Monitored patient pain levels",
+      "score": 0.9990016222000122,
+      "box": [
+        125,
+        314,
+        409,
+        339
+      ]
+    },
+    {
+      "text": "- Provided patient education materials",
+      "score": 0.9864338040351868,
+      "box": [
+        128,
+        340,
+        480,
+        364
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.99992835521698,
+      "box": [
+        116,
+        404,
+        268,
+        431
+      ]
+    },
+    {
+      "text": "Associate's degree, Clinical Studies, Cedar Ridge University, 2023",
+      "score": 0.986784040927887,
+      "box": [
+        116,
+        447,
+        731,
+        474
+      ]
+    },
+    {
+      "text": "Studied fundamentals of data privacy",
+      "score": 0.9938445687294006,
+      "box": [
+        128,
+        471,
+        493,
+        501
+      ]
+    },
+    {
+      "text": "Studied fundamentals of intravenous therapy",
+      "score": 0.9869054555892944,
+      "box": [
+        130,
+        494,
+        563,
+        527
+      ]
+    }
+  ],
+  "seconds": 2.2108189002610743,
+  "id": "02267",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

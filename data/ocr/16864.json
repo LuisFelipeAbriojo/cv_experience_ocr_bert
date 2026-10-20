@@ -1,0 +1,202 @@
+{
+  "lines": [
+    {
+      "text": "STEVEN LAMB",
+      "score": 0.9702379703521729,
+      "box": [
+        117,
+        91,
+        356,
+        122
+      ]
+    },
+    {
+      "text": "ID, USA | +1-726-982-8576 | steven.lamb@example.com",
+      "score": 0.9827098250389099,
+      "box": [
+        118,
+        152,
+        644,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9989033341407776,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, NextStep Construction, 2019.09—2023.01",
+      "score": 0.9861133694648743,
+      "box": [
+        116,
+        288,
+        716,
+        316
+      ]
+    },
+    {
+      "text": "- Directed quality assurance programs",
+      "score": 0.9993126392364502,
+      "box": [
+        126,
+        315,
+        482,
+        343
+      ]
+    },
+    {
+      "text": "- Led cross-functional coordination",
+      "score": 0.9848410487174988,
+      "box": [
+        127,
+        340,
+        448,
+        365
+      ]
+    },
+    {
+      "text": "Construction Laborers, ClearLine Construction, 2016.052019.09",
+      "score": 0.9879659414291382,
+      "box": [
+        118,
+        383,
+        720,
+        407
+      ]
+    },
+    {
+      "text": "- Implemented quality control systems",
+      "score": 0.9994112253189087,
+      "box": [
+        126,
+        408,
+        480,
+        433
+      ]
+    },
+    {
+      "text": "- Managed equipment maintenance programs",
+      "score": 0.9875379800796509,
+      "box": [
+        128,
+        432,
+        551,
+        458
+      ]
+    },
+    {
+      "text": "Construction Laborers, CornerStonecraft, 2012.012015.05",
+      "score": 0.9876618981361389,
+      "box": [
+        116,
+        471,
+        668,
+        499
+      ]
+    },
+    {
+      "text": "- Installed roofing materials",
+      "score": 0.9765588045120239,
+      "box": [
+        126,
+        497,
+        381,
+        526
+      ]
+    },
+    {
+      "text": "- Aligned structural components",
+      "score": 0.9911913871765137,
+      "box": [
+        128,
+        522,
+        424,
+        550
+      ]
+    },
+    {
+      "text": "Construction Laborers, Reliable Build Group, 2007.062010.11",
+      "score": 0.9954560399055481,
+      "box": [
+        118,
+        566,
+        698,
+        590
+      ]
+    },
+    {
+      "text": "- Assisted with roofing material handling",
+      "score": 0.9984268546104431,
+      "box": [
+        125,
+        588,
+        499,
+        618
+      ]
+    },
+    {
+      "text": "- Mixed concrete and mortar",
+      "score": 0.981488823890686,
+      "box": [
+        125,
+        613,
+        393,
+        643
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9998840689659119,
+      "box": [
+        117,
+        681,
+        266,
+        705
+      ]
+    },
+    {
+      "text": "Some college (no degree), Construction Management, Oakway University, 2002",
+      "score": 0.9933395385742188,
+      "box": [
+        117,
+        724,
+        856,
+        750
+      ]
+    },
+    {
+      "text": "• Completed coursework in demolition procedures",
+      "score": 0.9747514128684998,
+      "box": [
+        131,
+        750,
+        595,
+        774
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of job site communication",
+      "score": 0.9926134943962097,
+      "box": [
+        132,
+        773,
+        592,
+        799
+      ]
+    }
+  ],
+  "seconds": 3.003594699781388,
+  "id": "16864",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

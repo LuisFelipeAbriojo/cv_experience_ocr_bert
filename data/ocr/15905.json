@@ -1,0 +1,172 @@
+{
+  "lines": [
+    {
+      "text": "SEAN NIELSEN",
+      "score": 0.9906671047210693,
+      "box": [
+        117,
+        91,
+        366,
+        122
+      ]
+    },
+    {
+      "text": "GA, USA | +1-412-337-1218 | sean.nielsen@example.com",
+      "score": 0.9941370487213135,
+      "box": [
+        116,
+        150,
+        660,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9991443157196045,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, BrightPath Nursing Services, 2020.05—2023.01",
+      "score": 0.9911499619483948,
+      "box": [
+        117,
+        289,
+        735,
+        316
+      ]
+    },
+    {
+      "text": "- Developed patient care algorithms",
+      "score": 0.9990901350975037,
+      "box": [
+        125,
+        314,
+        459,
+        342
+      ]
+    },
+    {
+      "text": "- Directed care coordination strategies",
+      "score": 0.9835244417190552,
+      "box": [
+        126,
+        338,
+        482,
+        368
+      ]
+    },
+    {
+      "text": "Registered Nurses, BrightCare Clinics, 2017.092020.05",
+      "score": 0.9996416568756104,
+      "box": [
+        116,
+        381,
+        643,
+        409
+      ]
+    },
+    {
+      "text": "- Conducted clinical audits",
+      "score": 0.999670684337616,
+      "box": [
+        126,
+        407,
+        374,
+        432
+      ]
+    },
+    {
+      "text": "- Performed advanced wound assessments",
+      "score": 0.9988467693328857,
+      "box": [
+        127,
+        431,
+        530,
+        457
+      ]
+    },
+    {
+      "text": "Registered Nurses, ClearWay Medical Group, 2015.012017.09",
+      "score": 0.9976300597190857,
+      "box": [
+        118,
+        474,
+        708,
+        498
+      ]
+    },
+    {
+      "text": "- Checked medication dosages",
+      "score": 0.9962209463119507,
+      "box": [
+        127,
+        498,
+        417,
+        524
+      ]
+    },
+    {
+      "text": "- Assisted with emergency procedures",
+      "score": 0.9981260299682617,
+      "box": [
+        127,
+        521,
+        483,
+        551
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999152421951294,
+      "box": [
+        117,
+        587,
+        267,
+        614
+      ]
+    },
+    {
+      "text": "Bachelor's, Health Care Operations, Larkspur University, 2017",
+      "score": 0.9886232018470764,
+      "box": [
+        116,
+        632,
+        693,
+        659
+      ]
+    },
+    {
+      "text": "•Studied fundamentals of infusion pump use",
+      "score": 0.9809490442276001,
+      "box": [
+        130,
+        658,
+        549,
+        684
+      ]
+    },
+    {
+      "text": "•Completed coursework in geriatric nursing",
+      "score": 0.9874499440193176,
+      "box": [
+        131,
+        681,
+        538,
+        711
+      ]
+    }
+  ],
+  "seconds": 3.7669901996850967,
+  "id": "15905",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

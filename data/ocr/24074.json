@@ -1,0 +1,182 @@
+{
+  "lines": [
+    {
+      "text": "AMANDA HARTMAN",
+      "score": 0.9864378571510315,
+      "box": [
+        118,
+        92,
+        444,
+        122
+      ]
+    },
+    {
+      "text": "MD, USA | +1-608-510-5037 | amanda.hartman@example.com",
+      "score": 0.977057933807373,
+      "box": [
+        115,
+        149,
+        703,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.984839677810669,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Kind Hearts Academy, 2020.01-2023.01",
+      "score": 0.9870421886444092,
+      "box": [
+        116,
+        288,
+        839,
+        318
+      ]
+    },
+    {
+      "text": "- Developed teacher training modules",
+      "score": 0.9981793165206909,
+      "box": [
+        125,
+        314,
+        477,
+        343
+      ]
+    },
+    {
+      "text": "- Led instructional leadership initiatives",
+      "score": 0.9899070262908936,
+      "box": [
+        127,
+        340,
+        488,
+        367
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Bright Minds Academy, 2017.012020.01",
+      "score": 0.9982423186302185,
+      "box": [
+        117,
+        382,
+        844,
+        409
+      ]
+    },
+    {
+      "text": "- Implemented literacy development plans",
+      "score": 0.9882642030715942,
+      "box": [
+        126,
+        408,
+        515,
+        433
+      ]
+    },
+    {
+      "text": "- Integrated educational technology tools",
+      "score": 0.9885529279708862,
+      "box": [
+        126,
+        431,
+        506,
+        459
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Bright Lake School, 2011.012014.01",
+      "score": 0.9947426915168762,
+      "box": [
+        118,
+        472,
+        811,
+        499
+      ]
+    },
+    {
+      "text": "- Reviewed homework assignments",
+      "score": 0.9992645382881165,
+      "box": [
+        126,
+        498,
+        458,
+        523
+      ]
+    },
+    {
+      "text": "- Reviewed lesson objectives",
+      "score": 0.9909259676933289,
+      "box": [
+        127,
+        520,
+        400,
+        551
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999259114265442,
+      "box": [
+        117,
+        587,
+        267,
+        614
+      ]
+    },
+    {
+      "text": "Master's, Applied Education, Goldenridge University, 2009",
+      "score": 0.9966829419136047,
+      "box": [
+        117,
+        632,
+        657,
+        659
+      ]
+    },
+    {
+      "text": "Bachelor's, Teaching Support, Summit Ridge University, 2007",
+      "score": 0.9994863867759705,
+      "box": [
+        115,
+        656,
+        689,
+        685
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of early math instruction",
+      "score": 0.994307816028595,
+      "box": [
+        130,
+        683,
+        578,
+        708
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of instructional facilitation",
+      "score": 0.9823769927024841,
+      "box": [
+        131,
+        707,
+        589,
+        732
+      ]
+    }
+  ],
+  "seconds": 4.467922799754888,
+  "id": "24074",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

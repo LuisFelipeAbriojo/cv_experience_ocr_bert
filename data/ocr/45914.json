@@ -1,0 +1,192 @@
+{
+  "lines": [
+    {
+      "text": "THOMAS PETERSON",
+      "score": 0.98625248670578,
+      "box": [
+        117,
+        91,
+        454,
+        121
+      ]
+    },
+    {
+      "text": "PA, USA | +1-930-689-8635 | thomas.peterson@example.com",
+      "score": 0.9890167713165283,
+      "box": [
+        115,
+        150,
+        695,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9991585612297058,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, IronStone Builders, 2017.102023.01",
+      "score": 0.986956775188446,
+      "box": [
+        116,
+        288,
+        679,
+        316
+      ]
+    },
+    {
+      "text": "- Supervised multiple work crews",
+      "score": 0.9835004806518555,
+      "box": [
+        126,
+        315,
+        435,
+        341
+      ]
+    },
+    {
+      "text": "- Developed structural reinforcement plans",
+      "score": 0.994552493095398,
+      "box": [
+        127,
+        339,
+        523,
+        367
+      ]
+    },
+    {
+      "text": "Construction Laborers, ClearFrame Construction, 2012.062017.10",
+      "score": 0.987714409828186,
+      "box": [
+        118,
+        383,
+        741,
+        407
+      ]
+    },
+    {
+      "text": "- Directed quality assurance programs",
+      "score": 0.9986020922660828,
+      "box": [
+        126,
+        408,
+        481,
+        434
+      ]
+    },
+    {
+      "text": "- Reviewed site inspection reports",
+      "score": 0.979129433631897,
+      "box": [
+        126,
+        431,
+        444,
+        459
+      ]
+    },
+    {
+      "text": "Construction Laborers, StrongStone Builders, 2007.022012.06",
+      "score": 0.9741561412811279,
+      "box": [
+        116,
+        471,
+        706,
+        499
+      ]
+    },
+    {
+      "text": "- Installed electrical wiring supports",
+      "score": 0.991966962814331,
+      "box": [
+        125,
+        497,
+        455,
+        525
+      ]
+    },
+    {
+      "text": "- Led small work crews",
+      "score": 0.9936512112617493,
+      "box": [
+        128,
+        522,
+        343,
+        548
+      ]
+    },
+    {
+      "text": "Construction Laborers, Stronghold Construction, 2001.102007.02",
+      "score": 0.9943534731864929,
+      "box": [
+        118,
+        566,
+        732,
+        590
+      ]
+    },
+    {
+      "text": "- Maintained tool storage areas",
+      "score": 0.98403000831604,
+      "box": [
+        126,
+        590,
+        419,
+        616
+      ]
+    },
+    {
+      "text": "- Assembled prefabricated components",
+      "score": 0.9935815334320068,
+      "box": [
+        127,
+        614,
+        493,
+        642
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999316334724426,
+      "box": [
+        117,
+        681,
+        266,
+        705
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Drafting Technology, Northview High School, 2000",
+      "score": 0.9927114248275757,
+      "box": [
+        116,
+        724,
+        844,
+        750
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of job site coordination",
+      "score": 0.9801036715507507,
+      "box": [
+        131,
+        750,
+        566,
+        774
+      ]
+    }
+  ],
+  "seconds": 3.125804299954325,
+  "id": "45914",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

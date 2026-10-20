@@ -1,0 +1,182 @@
+{
+  "lines": [
+    {
+      "text": "AMY GALLAGHER",
+      "score": 0.9995289444923401,
+      "box": [
+        118,
+        91,
+        413,
+        122
+      ]
+    },
+    {
+      "text": "AR, USA | +1-313-356-6221 | amy.gallagher@example.com",
+      "score": 0.973028838634491,
+      "box": [
+        116,
+        150,
+        672,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9991771578788757,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Discovery Futures School, 2020.09—2023.01",
+      "score": 0.9881356954574585,
+      "box": [
+        116,
+        288,
+        875,
+        318
+      ]
+    },
+    {
+      "text": "- Developed student performance metrics",
+      "score": 0.9857805967330933,
+      "box": [
+        125,
+        314,
+        513,
+        343
+      ]
+    },
+    {
+      "text": "- Directed academic intervention strategies",
+      "score": 0.9765133261680603,
+      "box": [
+        126,
+        339,
+        525,
+        368
+      ]
+    },
+    {
+      "text": "Elementary Midle School Teachers, Future Bridge Academy, 2018.042020.09",
+      "score": 0.9785603284835815,
+      "box": [
+        115,
+        380,
+        858,
+        413
+      ]
+    },
+    {
+      "text": "- Designed math assessments",
+      "score": 0.9968089461326599,
+      "box": [
+        126,
+        408,
+        411,
+        434
+      ]
+    },
+    {
+      "text": "- Implemented formative assessment strategies",
+      "score": 0.9861390590667725,
+      "box": [
+        127,
+        432,
+        569,
+        459
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, BrightWay School, 2015.112018.04",
+      "score": 0.9981582164764404,
+      "box": [
+        116,
+        471,
+        804,
+        499
+      ]
+    },
+    {
+      "text": "- Collected permission forms",
+      "score": 0.9846579432487488,
+      "box": [
+        125,
+        497,
+        396,
+        526
+      ]
+    },
+    {
+      "text": "- Implemented classroom seating plans",
+      "score": 0.9977205395698547,
+      "box": [
+        128,
+        521,
+        493,
+        551
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999204277992249,
+      "box": [
+        117,
+        587,
+        267,
+        614
+      ]
+    },
+    {
+      "text": "Master's, Developmental Studies, Brookside University, 2019",
+      "score": 0.9899926781654358,
+      "box": [
+        115,
+        631,
+        684,
+        659
+      ]
+    },
+    {
+      "text": "Bachelor's, Introductory Education, Clearway University, 2017",
+      "score": 0.9955560564994812,
+      "box": [
+        114,
+        655,
+        690,
+        686
+      ]
+    },
+    {
+      "text": "• Completed coursework in classroom routines",
+      "score": 0.9945199489593506,
+      "box": [
+        133,
+        684,
+        565,
+        708
+      ]
+    },
+    {
+      "text": "•Studied principles of early childhood education",
+      "score": 0.993009090423584,
+      "box": [
+        132,
+        706,
+        579,
+        735
+      ]
+    }
+  ],
+  "seconds": 2.911876100115478,
+  "id": "02398",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

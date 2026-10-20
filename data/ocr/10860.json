@@ -1,0 +1,202 @@
+{
+  "lines": [
+    {
+      "text": "RICK PARSONS",
+      "score": 0.9994844794273376,
+      "box": [
+        118,
+        91,
+        374,
+        122
+      ]
+    },
+    {
+      "text": "CT, USA | +1-364-469-6745 | rick.parsons@example.com",
+      "score": 0.9963032603263855,
+      "box": [
+        116,
+        150,
+        652,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9956267476081848,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Stonepath Digital, 2019.122023.01",
+      "score": 0.9968705177307129,
+      "box": [
+        116,
+        290,
+        654,
+        317
+      ]
+    },
+    {
+      "text": "- Built distributed systems",
+      "score": 0.9674990773200989,
+      "box": [
+        127,
+        317,
+        368,
+        341
+      ]
+    },
+    {
+      "text": "- Defined data governance policies",
+      "score": 0.9909777641296387,
+      "box": [
+        127,
+        340,
+        451,
+        368
+      ]
+    },
+    {
+      "text": "Software Developers, Datapoint Labs, 2016.112019.12",
+      "score": 0.9929168820381165,
+      "box": [
+        115,
+        381,
+        638,
+        409
+      ]
+    },
+    {
+      "text": "- Led cross-team technical alignment",
+      "score": 0.9955523610115051,
+      "box": [
+        127,
+        409,
+        469,
+        433
+      ]
+    },
+    {
+      "text": "- Designed logging infrastructures",
+      "score": 0.9774188995361328,
+      "box": [
+        127,
+        431,
+        442,
+        459
+      ]
+    },
+    {
+      "text": "Software Developers, Codefield Software, 2013.102016.11",
+      "score": 0.9904735684394836,
+      "box": [
+        116,
+        471,
+        673,
+        499
+      ]
+    },
+    {
+      "text": "- Built notification systems",
+      "score": 0.9816258549690247,
+      "box": [
+        126,
+        498,
+        372,
+        525
+      ]
+    },
+    {
+      "text": "- Designed application modules",
+      "score": 0.9919325113296509,
+      "box": [
+        127,
+        522,
+        422,
+        550
+      ]
+    },
+    {
+      "text": "Software Developers, Stoneframe Software, 2008.012011.02",
+      "score": 0.9997011423110962,
+      "box": [
+        115,
+        563,
+        694,
+        591
+      ]
+    },
+    {
+      "text": "- Participated in code reviews",
+      "score": 0.9791020154953003,
+      "box": [
+        127,
+        589,
+        404,
+        617
+      ]
+    },
+    {
+      "text": "- Implemented Ul components based on design specs",
+      "score": 0.9774155616760254,
+      "box": [
+        128,
+        614,
+        628,
+        643
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999188184738159,
+      "box": [
+        117,
+        681,
+        266,
+        705
+      ]
+    },
+    {
+      "text": "Some college (no degree), Briarwood University, 2002",
+      "score": 0.9996061325073242,
+      "box": [
+        117,
+        724,
+        620,
+        750
+      ]
+    },
+    {
+      "text": "• Completed coursework in probability and statistics",
+      "score": 0.9918743371963501,
+      "box": [
+        131,
+        751,
+        612,
+        774
+      ]
+    },
+    {
+      "text": "Studied fundamentals of hardware-software integration",
+      "score": 0.9937779903411865,
+      "box": [
+        131,
+        772,
+        655,
+        800
+      ]
+    }
+  ],
+  "seconds": 3.0302578997798264,
+  "id": "10860",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

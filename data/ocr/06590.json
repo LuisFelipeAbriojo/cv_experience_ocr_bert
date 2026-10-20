@@ -1,0 +1,142 @@
+{
+  "lines": [
+    {
+      "text": "TRISTAN REYNOLDS",
+      "score": 0.9999085664749146,
+      "box": [
+        117,
+        91,
+        457,
+        122
+      ]
+    },
+    {
+      "text": "CA, USA | +1-629-201-5901 | tristan.reynolds@example.com",
+      "score": 0.9898284077644348,
+      "box": [
+        116,
+        150,
+        682,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9991941452026367,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, SolidBalance Services, 2020.03—2023.01",
+      "score": 0.9923161864280701,
+      "box": [
+        116,
+        289,
+        706,
+        314
+      ]
+    },
+    {
+      "text": "- Led audit programs",
+      "score": 0.999457061290741,
+      "box": [
+        126,
+        315,
+        323,
+        342
+      ]
+    },
+    {
+      "text": "- Led cross-functional financial integration",
+      "score": 0.9933366775512695,
+      "box": [
+        126,
+        338,
+        515,
+        367
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Reliable Ledger Group, 2017.05—2020.03",
+      "score": 0.9803801774978638,
+      "box": [
+        116,
+        380,
+        710,
+        408
+      ]
+    },
+    {
+      "text": "- Verified financial transactions",
+      "score": 0.9972977042198181,
+      "box": [
+        126,
+        407,
+        415,
+        433
+      ]
+    },
+    {
+      "text": "- Matched invoices to purchase orders",
+      "score": 0.9915374517440796,
+      "box": [
+        126,
+        430,
+        483,
+        459
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9997468590736389,
+      "box": [
+        116,
+        494,
+        267,
+        521
+      ]
+    },
+    {
+      "text": "Bachelor's, Public Accounting, Lakeside University, 2020",
+      "score": 0.9821701049804688,
+      "box": [
+        115,
+        539,
+        642,
+        568
+      ]
+    },
+    {
+      "text": "•Studied principles of sampling techniques",
+      "score": 0.9870356321334839,
+      "box": [
+        128,
+        565,
+        533,
+        593
+      ]
+    },
+    {
+      "text": "Studied fundamentals of substantive testing",
+      "score": 0.9871619343757629,
+      "box": [
+        130,
+        588,
+        552,
+        619
+      ]
+    }
+  ],
+  "seconds": 2.254458600189537,
+  "id": "06590",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

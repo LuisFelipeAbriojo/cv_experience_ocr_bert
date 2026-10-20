@@ -1,0 +1,172 @@
+{
+  "lines": [
+    {
+      "text": "JESSICA MENDEZ",
+      "score": 0.9947181940078735,
+      "box": [
+        115,
+        89,
+        411,
+        122
+      ]
+    },
+    {
+      "text": "RI, USA | +1-737-267-2873 | jessica.mendez@example.com",
+      "score": 0.9829468727111816,
+      "box": [
+        118,
+        152,
+        675,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9990541934967041,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, NewPath Nursing Group, 2020.08—2023.01",
+      "score": 0.9854912757873535,
+      "box": [
+        116,
+        287,
+        701,
+        319
+      ]
+    },
+    {
+      "text": "- Developed clinical performance dashboards",
+      "score": 0.9894393086433411,
+      "box": [
+        126,
+        313,
+        549,
+        343
+      ]
+    },
+    {
+      "text": "- Implemented patient monitoring systems",
+      "score": 0.9756046533584595,
+      "box": [
+        128,
+        339,
+        516,
+        369
+      ]
+    },
+    {
+      "text": "Registered Nurses, SafeBridge Nursing Services, 2018.03—2020.08",
+      "score": 0.9793817400932312,
+      "box": [
+        118,
+        383,
+        743,
+        407
+      ]
+    },
+    {
+      "text": "- Provided pediatric nursing care",
+      "score": 0.9929461479187012,
+      "box": [
+        126,
+        407,
+        431,
+        434
+      ]
+    },
+    {
+      "text": "- Coordinated patient discharge planning",
+      "score": 0.9820449948310852,
+      "box": [
+        126,
+        430,
+        505,
+        460
+      ]
+    },
+    {
+      "text": "Registered Nurses, SunLife Nursing Services, 2014.012016.06",
+      "score": 0.9893600940704346,
+      "box": [
+        116,
+        471,
+        711,
+        499
+      ]
+    },
+    {
+      "text": "- Checked patient identification",
+      "score": 0.99716717004776,
+      "box": [
+        125,
+        496,
+        416,
+        524
+      ]
+    },
+    {
+      "text": "- Checked medication dosages",
+      "score": 0.9979586601257324,
+      "box": [
+        127,
+        520,
+        416,
+        551
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9998682737350464,
+      "box": [
+        117,
+        587,
+        267,
+        614
+      ]
+    },
+    {
+      "text": "Bachelor's, Health Management, Granite Hill University, 2012",
+      "score": 0.9847483038902283,
+      "box": [
+        117,
+        632,
+        685,
+        659
+      ]
+    },
+    {
+      "text": "•Studied principles of fall prevention",
+      "score": 0.9739753603935242,
+      "box": [
+        129,
+        657,
+        474,
+        685
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of medication reconciliation",
+      "score": 0.9843530058860779,
+      "box": [
+        130,
+        682,
+        608,
+        707
+      ]
+    }
+  ],
+  "seconds": 3.118006399832666,
+  "id": "47047",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

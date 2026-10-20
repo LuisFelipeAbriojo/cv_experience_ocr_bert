@@ -1,0 +1,142 @@
+{
+  "lines": [
+    {
+      "text": "KATHARINE SLOAN",
+      "score": 0.9998412728309631,
+      "box": [
+        116,
+        89,
+        441,
+        122
+      ]
+    },
+    {
+      "text": "FL, USA | +1-892-245-7845 | katharine.sloan@example.com",
+      "score": 0.9874926209449768,
+      "box": [
+        118,
+        152,
+        677,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.984839677810669,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, Caring Life Nursing, 2020.02—2023.01",
+      "score": 0.9857977628707886,
+      "box": [
+        116,
+        288,
+        653,
+        317
+      ]
+    },
+    {
+      "text": "- Developed care quality benchmarks",
+      "score": 0.9994382858276367,
+      "box": [
+        125,
+        313,
+        475,
+        343
+      ]
+    },
+    {
+      "text": "- Developed interdisciplinary care strategies",
+      "score": 0.9924708008766174,
+      "box": [
+        127,
+        339,
+        534,
+        368
+      ]
+    },
+    {
+      "text": "Registered Nurses, Caring Nest Nursing, 2015.092018.08",
+      "score": 0.9989066123962402,
+      "box": [
+        117,
+        382,
+        664,
+        409
+      ]
+    },
+    {
+      "text": "- Monitored patient intake and output",
+      "score": 0.9902506470680237,
+      "box": [
+        125,
+        407,
+        470,
+        433
+      ]
+    },
+    {
+      "text": "- Maintained infection control protocols",
+      "score": 0.998160719871521,
+      "box": [
+        126,
+        431,
+        486,
+        458
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999338984489441,
+      "box": [
+        117,
+        494,
+        268,
+        521
+      ]
+    },
+    {
+      "text": "Bachelor's, Geriatric Care, Fairmont University, 2013",
+      "score": 0.9798088073730469,
+      "box": [
+        116,
+        540,
+        605,
+        566
+      ]
+    },
+    {
+      "text": "Studied principles of continuity of care",
+      "score": 0.9685064554214478,
+      "box": [
+        130,
+        565,
+        501,
+        593
+      ]
+    },
+    {
+      "text": "Completed coursework in patient monitoring technologies",
+      "score": 0.9807904958724976,
+      "box": [
+        131,
+        590,
+        677,
+        618
+      ]
+    }
+  ],
+  "seconds": 12.01026610005647,
+  "id": "14003",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

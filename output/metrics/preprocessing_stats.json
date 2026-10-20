@@ -1,0 +1,12 @@
+{
+  "n_cvs": 4000,
+  "n_cvs_masked": 0,
+  "masked_by_type": {
+    "total_experience": 0,
+    "age": 0,
+    "date_of_birth": 0
+  },
+  "n_at_cap": 29,
+  "share_at_cap": 0.00725,
+  "min_conf_threshold": 0.98
+}

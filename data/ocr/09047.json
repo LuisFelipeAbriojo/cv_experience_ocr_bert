@@ -1,0 +1,202 @@
+{
+  "lines": [
+    {
+      "text": "MICHAEL HAYES",
+      "score": 0.9997519850730896,
+      "box": [
+        118,
+        91,
+        394,
+        122
+      ]
+    },
+    {
+      "text": "CA, USA | +1-705-821-4102 | michael.hayes@example.com",
+      "score": 0.982012927532196,
+      "box": [
+        116,
+        150,
+        674,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.993847668170929,
+      "box": [
+        117,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, FirmBase Construction, 2020.02—2023.01",
+      "score": 0.9930036067962646,
+      "box": [
+        116,
+        288,
+        719,
+        316
+      ]
+    },
+    {
+      "text": "- Led operational planning",
+      "score": 0.9726282954216003,
+      "box": [
+        126,
+        314,
+        371,
+        342
+      ]
+    },
+    {
+      "text": "- Managed multi-phase projects",
+      "score": 0.9881235361099243,
+      "box": [
+        126,
+        339,
+        422,
+        369
+      ]
+    },
+    {
+      "text": "Construction Laborers, Unified Structures, 2017.032020.02",
+      "score": 0.9867768287658691,
+      "box": [
+        118,
+        383,
+        674,
+        407
+      ]
+    },
+    {
+      "text": "- Developed site performance metrics",
+      "score": 0.9903962016105652,
+      "box": [
+        127,
+        409,
+        476,
+        433
+      ]
+    },
+    {
+      "text": "- Directed equipment operations",
+      "score": 0.9892145991325378,
+      "box": [
+        126,
+        431,
+        427,
+        459
+      ]
+    },
+    {
+      "text": "Construction Laborers, AnchorBuild Services, 2012.092015.08",
+      "score": 0.9922434091567993,
+      "box": [
+        117,
+        472,
+        707,
+        499
+      ]
+    },
+    {
+      "text": "- Prepared construction schedules",
+      "score": 0.983162522315979,
+      "box": [
+        128,
+        499,
+        446,
+        523
+      ]
+    },
+    {
+      "text": "- Installed mechanical supports",
+      "score": 0.9976889491081238,
+      "box": [
+        128,
+        522,
+        417,
+        549
+      ]
+    },
+    {
+      "text": "Construction Laborers, Unified Build Group, 2008.09—2011.09",
+      "score": 0.983731746673584,
+      "box": [
+        118,
+        566,
+        688,
+        590
+      ]
+    },
+    {
+      "text": "- Sorted building materials",
+      "score": 0.9838860630989075,
+      "box": [
+        127,
+        592,
+        374,
+        616
+      ]
+    },
+    {
+      "text": "- Measured and cut basic building materials",
+      "score": 0.9886563420295715,
+      "box": [
+        125,
+        613,
+        532,
+        642
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9998815059661865,
+      "box": [
+        117,
+        681,
+        266,
+        705
+      ]
+    },
+    {
+      "text": "Some college (no degree), Concrete Technology, Pioneer University, 2004",
+      "score": 0.9884831309318542,
+      "box": [
+        116,
+        723,
+        806,
+        750
+      ]
+    },
+    {
+      "text": "•Studied principles of job site efficiency",
+      "score": 0.9827657341957092,
+      "box": [
+        130,
+        748,
+        504,
+        777
+      ]
+    },
+    {
+      "text": "• Completed coursework in basic sealant application",
+      "score": 0.9752877950668335,
+      "box": [
+        132,
+        772,
+        617,
+        801
+      ]
+    }
+  ],
+  "seconds": 2.929122599773109,
+  "id": "09047",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

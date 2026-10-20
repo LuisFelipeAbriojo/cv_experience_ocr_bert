@@ -1,0 +1,142 @@
+{
+  "lines": [
+    {
+      "text": "STEVEN HAYDEN",
+      "score": 0.9997183680534363,
+      "box": [
+        116,
+        90,
+        403,
+        122
+      ]
+    },
+    {
+      "text": "PA, USA | +1-674-727-6809 | steven.hayden@example.com",
+      "score": 0.9742327332496643,
+      "box": [
+        117,
+        152,
+        674,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9997446537017822,
+      "box": [
+        117,
+        243,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Software Developers, Stonepath Tech, 2020.12—2023.01",
+      "score": 0.9917952418327332,
+      "box": [
+        116,
+        289,
+        643,
+        316
+      ]
+    },
+    {
+      "text": "- Defined API standards",
+      "score": 0.9551799893379211,
+      "box": [
+        126,
+        314,
+        351,
+        339
+      ]
+    },
+    {
+      "text": "- Reviewed system design documents",
+      "score": 0.9863273501396179,
+      "box": [
+        128,
+        339,
+        481,
+        367
+      ]
+    },
+    {
+      "text": "Software Developers, Codecrest Tech, 2016.042018.06",
+      "score": 0.9909958839416504,
+      "box": [
+        115,
+        380,
+        645,
+        408
+      ]
+    },
+    {
+      "text": "- Updated configuration files",
+      "score": 0.9906037449836731,
+      "box": [
+        126,
+        408,
+        390,
+        432
+      ]
+    },
+    {
+      "text": "- Assisted with database queries",
+      "score": 0.9861970543861389,
+      "box": [
+        127,
+        430,
+        431,
+        458
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9998855590820312,
+      "box": [
+        117,
+        494,
+        267,
+        521
+      ]
+    },
+    {
+      "text": "Bachelor's, Pebble Creek University, 2014",
+      "score": 0.98915696144104,
+      "box": [
+        116,
+        540,
+        509,
+        566
+      ]
+    },
+    {
+      "text": "•Studied fundamentals of recursion techniques",
+      "score": 0.9759544134140015,
+      "box": [
+        130,
+        565,
+        572,
+        592
+      ]
+    },
+    {
+      "text": "Completed coursework in stream processing basics",
+      "score": 0.9880924224853516,
+      "box": [
+        131,
+        590,
+        624,
+        618
+      ]
+    }
+  ],
+  "seconds": 2.046936099883169,
+  "id": "46780",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

@@ -1,0 +1,142 @@
+{
+  "lines": [
+    {
+      "text": "MELISSA NGUYEN",
+      "score": 0.999500572681427,
+      "box": [
+        118,
+        91,
+        419,
+        121
+      ]
+    },
+    {
+      "text": "WA, USA | +1-548-555-1249 | melissa.nguyen@example.com",
+      "score": 0.9828983545303345,
+      "box": [
+        116,
+        150,
+        690,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9997439384460449,
+      "box": [
+        117,
+        243,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Registered Nurses, LifeWay Nursing Services, 2020.06—2023.01",
+      "score": 0.9790341258049011,
+      "box": [
+        116,
+        288,
+        714,
+        318
+      ]
+    },
+    {
+      "text": "- Implemented care standardization",
+      "score": 0.9906989932060242,
+      "box": [
+        126,
+        313,
+        457,
+        342
+      ]
+    },
+    {
+      "text": "- Developed patient care algorithms",
+      "score": 0.9898203015327454,
+      "box": [
+        127,
+        338,
+        459,
+        369
+      ]
+    },
+    {
+      "text": "Registered Nurses, Harmony Path Health, 2017.102020.06",
+      "score": 0.9829750061035156,
+      "box": [
+        118,
+        383,
+        675,
+        407
+      ]
+    },
+    {
+      "text": "- Monitored patient dietary needs",
+      "score": 0.9909462332725525,
+      "box": [
+        124,
+        406,
+        436,
+        434
+      ]
+    },
+    {
+      "text": "- Recorded patient vital signs",
+      "score": 0.9644728899002075,
+      "box": [
+        126,
+        430,
+        399,
+        461
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999186396598816,
+      "box": [
+        116,
+        494,
+        268,
+        521
+      ]
+    },
+    {
+      "text": "Associate's degree, Health and Wellness, Oakridge University, 2019",
+      "score": 0.992078959941864,
+      "box": [
+        117,
+        540,
+        748,
+        567
+      ]
+    },
+    {
+      "text": "•Studied principles of healthcare ethics",
+      "score": 0.9888111352920532,
+      "box": [
+        129,
+        566,
+        500,
+        591
+      ]
+    },
+    {
+      "text": "•Studied fundamentals of musculoskeletal nursing",
+      "score": 0.9889551997184753,
+      "box": [
+        130,
+        590,
+        601,
+        617
+      ]
+    }
+  ],
+  "seconds": 6.657740500289947,
+  "id": "58283",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

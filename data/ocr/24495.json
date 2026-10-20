@@ -1,0 +1,112 @@
+{
+  "lines": [
+    {
+      "text": "LINDA COLLIER",
+      "score": 0.9898198843002319,
+      "box": [
+        117,
+        89,
+        377,
+        123
+      ]
+    },
+    {
+      "text": "MD, USA | +1-873-966-6679 | linda.collier@example.com",
+      "score": 0.9795243740081787,
+      "box": [
+        115,
+        149,
+        649,
+        177
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9997694492340088,
+      "box": [
+        117,
+        243,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Open Sky School, 2020.04—2021.06",
+      "score": 0.9744448065757751,
+      "box": [
+        117,
+        289,
+        799,
+        316
+      ]
+    },
+    {
+      "text": "- Prepared lesson summaries",
+      "score": 0.9992579817771912,
+      "box": [
+        125,
+        313,
+        403,
+        343
+      ]
+    },
+    {
+      "text": "- Collected permission forms",
+      "score": 0.9974501729011536,
+      "box": [
+        127,
+        338,
+        395,
+        367
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9998915791511536,
+      "box": [
+        116,
+        404,
+        268,
+        431
+      ]
+    },
+    {
+      "text": "Bachelor's, Child and Youth Studies, Stonehaven University, 2018",
+      "score": 0.9889094829559326,
+      "box": [
+        116,
+        447,
+        728,
+        474
+      ]
+    },
+    {
+      "text": "Studied principles of learner diversity",
+      "score": 0.9958778619766235,
+      "box": [
+        129,
+        472,
+        489,
+        501
+      ]
+    },
+    {
+      "text": "• Completed coursework in student progress monitoring",
+      "score": 0.9844925403594971,
+      "box": [
+        132,
+        497,
+        648,
+        527
+      ]
+    }
+  ],
+  "seconds": 1.9021951002068818,
+  "id": "24495",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

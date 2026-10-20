@@ -1,0 +1,102 @@
+{
+  "lines": [
+    {
+      "text": "KEITH TATE",
+      "score": 0.989444375038147,
+      "box": [
+        116,
+        89,
+        316,
+        123
+      ]
+    },
+    {
+      "text": "TX, USA | +1-392-341-9314 | keith.tate@example.com",
+      "score": 0.9951150417327881,
+      "box": [
+        116,
+        149,
+        624,
+        177
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9993314743041992,
+      "box": [
+        116,
+        243,
+        317,
+        270
+      ]
+    },
+    {
+      "text": "Construction Laborers, Unified Structures, 2020.04—2020.10",
+      "score": 0.9813939929008484,
+      "box": [
+        116,
+        287,
+        675,
+        315
+      ]
+    },
+    {
+      "text": "- Moved equipment between work zones",
+      "score": 0.9994070529937744,
+      "box": [
+        125,
+        314,
+        505,
+        340
+      ]
+    },
+    {
+      "text": "- Installed basic formwork",
+      "score": 0.9995473027229309,
+      "box": [
+        126,
+        339,
+        368,
+        364
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999402165412903,
+      "box": [
+        116,
+        404,
+        268,
+        431
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Industrial Maintenance, Silverlake High School, 2001",
+      "score": 0.994769275188446,
+      "box": [
+        116,
+        447,
+        864,
+        474
+      ]
+    },
+    {
+      "text": "•Studied fundamentals of flooring installation",
+      "score": 0.9934438467025757,
+      "box": [
+        129,
+        473,
+        552,
+        499
+      ]
+    }
+  ],
+  "seconds": 1.995254599954933,
+  "id": "49755",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

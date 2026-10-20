@@ -1,0 +1,112 @@
+{
+  "lines": [
+    {
+      "text": "ROWAN XIONG",
+      "score": 0.9998655319213867,
+      "box": [
+        115,
+        87,
+        366,
+        123
+      ]
+    },
+    {
+      "text": "MD, USA | +1-803-504-7266 | rowan.xiong@example.com",
+      "score": 0.9854620099067688,
+      "box": [
+        115,
+        149,
+        656,
+        177
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9993996024131775,
+      "box": [
+        116,
+        243,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Registered Nurses, KindHeart Medical Services, 2021.02—2023.01",
+      "score": 0.985955536365509,
+      "box": [
+        116,
+        288,
+        731,
+        315
+      ]
+    },
+    {
+      "text": "- Recorded nursing notes",
+      "score": 0.9938085079193115,
+      "box": [
+        124,
+        312,
+        366,
+        342
+      ]
+    },
+    {
+      "text": "- Monitored patient alarms",
+      "score": 0.9940194487571716,
+      "box": [
+        125,
+        338,
+        372,
+        367
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999077916145325,
+      "box": [
+        116,
+        404,
+        268,
+        431
+      ]
+    },
+    {
+      "text": "Bachelor's, Mental Health Studies, Aspen Grove University, 2023",
+      "score": 0.9887288212776184,
+      "box": [
+        115,
+        446,
+        719,
+        474
+      ]
+    },
+    {
+      "text": "•Completed coursework in enteral feeding basics",
+      "score": 0.9876395463943481,
+      "box": [
+        130,
+        473,
+        593,
+        499
+      ]
+    },
+    {
+      "text": "Studied principles of healthcare ethics",
+      "score": 0.99981689453125,
+      "box": [
+        132,
+        497,
+        501,
+        525
+      ]
+    }
+  ],
+  "seconds": 1.9727721996605396,
+  "id": "24578",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

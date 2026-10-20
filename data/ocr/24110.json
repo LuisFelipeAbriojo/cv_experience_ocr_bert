@@ -1,0 +1,202 @@
+{
+  "lines": [
+    {
+      "text": "MISTY BALDWIN",
+      "score": 0.9997169971466064,
+      "box": [
+        117,
+        91,
+        387,
+        121
+      ]
+    },
+    {
+      "text": "MD, USA | +1-882-259-6876 | misty.baldwin@example.com",
+      "score": 0.9867344498634338,
+      "box": [
+        115,
+        150,
+        669,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9991243481636047,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, CarePath Academy, 2018.01—2023.01",
+      "score": 0.985086977481842,
+      "box": [
+        117,
+        290,
+        817,
+        317
+      ]
+    },
+    {
+      "text": "- Directed academic intervention strategies",
+      "score": 0.9878594875335693,
+      "box": [
+        126,
+        315,
+        524,
+        342
+      ]
+    },
+    {
+      "text": "- Designed instructional quality standards",
+      "score": 0.9756660461425781,
+      "box": [
+        126,
+        339,
+        511,
+        368
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Little Minds School, 2013.012018.01",
+      "score": 0.9865910410881042,
+      "box": [
+        118,
+        383,
+        811,
+        407
+      ]
+    },
+    {
+      "text": "- Developed system-wide assessment tools",
+      "score": 0.9909074902534485,
+      "box": [
+        127,
+        409,
+        530,
+        433
+      ]
+    },
+    {
+      "text": "- Established academic quality controls",
+      "score": 0.9880383610725403,
+      "box": [
+        126,
+        431,
+        489,
+        458
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Bright Futures Learning, 2008.012013.01",
+      "score": 0.9977608919143677,
+      "box": [
+        119,
+        474,
+        853,
+        498
+      ]
+    },
+    {
+      "text": "- Evaluated instructional effectiveness",
+      "score": 0.9960189461708069,
+      "box": [
+        126,
+        498,
+        480,
+        524
+      ]
+    },
+    {
+      "text": "- Prepared instructional pacing guides",
+      "score": 0.9826912879943848,
+      "box": [
+        127,
+        521,
+        480,
+        550
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Bright Meadow School, 2003.01—2008.01",
+      "score": 0.9819883704185486,
+      "box": [
+        118,
+        566,
+        845,
+        590
+      ]
+    },
+    {
+      "text": "- Implemented lesson pacing guidelines",
+      "score": 0.9858549237251282,
+      "box": [
+        125,
+        590,
+        497,
+        618
+      ]
+    },
+    {
+      "text": "- Recorded student feedback",
+      "score": 0.9813648462295532,
+      "box": [
+        126,
+        613,
+        400,
+        644
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999213814735413,
+      "box": [
+        117,
+        681,
+        266,
+        705
+      ]
+    },
+    {
+      "text": "Bachelor's, Child Development, Fairview Ridge University, 2002",
+      "score": 0.985999345779419,
+      "box": [
+        116,
+        725,
+        708,
+        751
+      ]
+    },
+    {
+      "text": "• Completed coursework in instructional sequencing",
+      "score": 0.9785603284835815,
+      "box": [
+        130,
+        748,
+        614,
+        777
+      ]
+    },
+    {
+      "text": "Studied foundational teaching methods",
+      "score": 0.9993767738342285,
+      "box": [
+        131,
+        772,
+        509,
+        800
+      ]
+    }
+  ],
+  "seconds": 3.1421341001987457,
+  "id": "24110",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

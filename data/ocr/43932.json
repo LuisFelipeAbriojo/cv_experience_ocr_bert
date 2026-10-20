@@ -1,0 +1,212 @@
+{
+  "lines": [
+    {
+      "text": "AALIYAH BENDER",
+      "score": 0.9997727274894714,
+      "box": [
+        118,
+        92,
+        417,
+        122
+      ]
+    },
+    {
+      "text": "OR, USA | +1-472-801-3815 | aaliyah.bender@example.com",
+      "score": 0.9863385558128357,
+      "box": [
+        116,
+        150,
+        680,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9990525245666504,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, FairBooks Financial, 2020.072023.01",
+      "score": 0.9990987181663513,
+      "box": [
+        117,
+        291,
+        681,
+        315
+      ]
+    },
+    {
+      "text": "- Led regulatory compliance initiatives",
+      "score": 0.9941684007644653,
+      "box": [
+        128,
+        316,
+        478,
+        342
+      ]
+    },
+    {
+      "text": "- Managed financial governance",
+      "score": 0.9991980195045471,
+      "box": [
+        128,
+        341,
+        427,
+        367
+      ]
+    },
+    {
+      "text": "Accountants Auditors, CoreBooks Financial, 2018.012020.07",
+      "score": 0.9979487657546997,
+      "box": [
+        118,
+        383,
+        692,
+        407
+      ]
+    },
+    {
+      "text": "- Designed accounting frameworks",
+      "score": 0.989199161529541,
+      "box": [
+        127,
+        409,
+        450,
+        433
+      ]
+    },
+    {
+      "text": "- Directed accounting training programs",
+      "score": 0.9990516901016235,
+      "box": [
+        126,
+        432,
+        494,
+        458
+      ]
+    },
+    {
+      "text": "Accountants Auditors, PrimeBalance Accounting, 2015.062018.01",
+      "score": 0.9852831363677979,
+      "box": [
+        117,
+        472,
+        738,
+        499
+      ]
+    },
+    {
+      "text": "- Prepared cost allocation models",
+      "score": 0.9995242953300476,
+      "box": [
+        126,
+        498,
+        440,
+        523
+      ]
+    },
+    {
+      "text": "- Reviewed revenue forecasts",
+      "score": 0.9816359281539917,
+      "box": [
+        127,
+        522,
+        406,
+        548
+      ]
+    },
+    {
+      "text": "Accountants Auditors, CoreBalance Financial, 2012.112015.06",
+      "score": 0.9889422655105591,
+      "box": [
+        118,
+        566,
+        710,
+        590
+      ]
+    },
+    {
+      "text": "- Maintained supporting documentation",
+      "score": 0.9958986043930054,
+      "box": [
+        129,
+        592,
+        490,
+        616
+      ]
+    },
+    {
+      "text": "- Prepared account reconciliations",
+      "score": 0.9805753231048584,
+      "box": [
+        127,
+        614,
+        447,
+        642
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999902069568634,
+      "box": [
+        117,
+        681,
+        266,
+        705
+      ]
+    },
+    {
+      "text": "Master's, Business Law, Northcrest University, 2020",
+      "score": 0.9947514533996582,
+      "box": [
+        117,
+        724,
+        599,
+        747
+      ]
+    },
+    {
+      "text": "Bachelor's, Financial Services, Greenfield University, 2018",
+      "score": 0.9869892597198486,
+      "box": [
+        115,
+        747,
+        660,
+        775
+      ]
+    },
+    {
+      "text": "•Completed coursework in payroll accounting",
+      "score": 0.9819666147232056,
+      "box": [
+        130,
+        774,
+        557,
+        800
+      ]
+    },
+    {
+      "text": "•Studied fundamentals of substantive testing",
+      "score": 0.9831642508506775,
+      "box": [
+        131,
+        798,
+        552,
+        825
+      ]
+    }
+  ],
+  "seconds": 2.901899800170213,
+  "id": "43932",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

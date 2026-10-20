@@ -1,0 +1,202 @@
+{
+  "lines": [
+    {
+      "text": "BRITTANY VU",
+      "score": 0.9974803924560547,
+      "box": [
+        116,
+        89,
+        343,
+        122
+      ]
+    },
+    {
+      "text": "CA, USA | +1-792-413-8945 | brittany.vu@example.com",
+      "score": 0.978647768497467,
+      "box": [
+        116,
+        150,
+        637,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9991443157196045,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, ClearBalance Services, 2020.05—2023.01",
+      "score": 0.9904829263687134,
+      "box": [
+        117,
+        291,
+        709,
+        315
+      ]
+    },
+    {
+      "text": "- Managed financial compliance programs",
+      "score": 0.9845176339149475,
+      "box": [
+        126,
+        315,
+        517,
+        343
+      ]
+    },
+    {
+      "text": "- Directed accounting leadership initiatives",
+      "score": 0.9974080920219421,
+      "box": [
+        128,
+        341,
+        520,
+        367
+      ]
+    },
+    {
+      "text": "Accountants Auditors, ClearBalance Services, 2017.092020.05",
+      "score": 0.9931995868682861,
+      "box": [
+        118,
+        383,
+        712,
+        407
+      ]
+    },
+    {
+      "text": "- Established reporting automation systems",
+      "score": 0.9867401123046875,
+      "box": [
+        126,
+        408,
+        529,
+        434
+      ]
+    },
+    {
+      "text": "- Led financial forecasting initiatives",
+      "score": 0.9833203554153442,
+      "box": [
+        128,
+        432,
+        458,
+        458
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Integrity Books Financial Group, 2014.12—2017.09",
+      "score": 0.9843547344207764,
+      "box": [
+        115,
+        471,
+        792,
+        499
+      ]
+    },
+    {
+      "text": "- Conducted variance investigations",
+      "score": 0.9887309670448303,
+      "box": [
+        126,
+        498,
+        460,
+        524
+      ]
+    },
+    {
+      "text": "- Managed accounts payable cycles",
+      "score": 0.9884201884269714,
+      "box": [
+        127,
+        521,
+        461,
+        550
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Reliable Accounts Advisors, 2010.112013.08",
+      "score": 0.995028555393219,
+      "box": [
+        117,
+        566,
+        753,
+        590
+      ]
+    },
+    {
+      "text": "- Assisted with audit fieldwork",
+      "score": 0.9964516162872314,
+      "box": [
+        126,
+        590,
+        405,
+        613
+      ]
+    },
+    {
+      "text": "- Maintained chart of accounts",
+      "score": 0.9861255884170532,
+      "box": [
+        126,
+        614,
+        410,
+        640
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999934196472168,
+      "box": [
+        117,
+        681,
+        266,
+        705
+      ]
+    },
+    {
+      "text": "Bachelor's, Business Studies, Harvest University, 2009",
+      "score": 0.9953941106796265,
+      "box": [
+        116,
+        724,
+        624,
+        749
+      ]
+    },
+    {
+      "text": "•Studied fundamentals of assurance services",
+      "score": 0.9908543229103088,
+      "box": [
+        130,
+        749,
+        559,
+        774
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of audit evidence evaluation",
+      "score": 0.9774682521820068,
+      "box": [
+        132,
+        773,
+        615,
+        798
+      ]
+    }
+  ],
+  "seconds": 2.8772645997814834,
+  "id": "03762",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

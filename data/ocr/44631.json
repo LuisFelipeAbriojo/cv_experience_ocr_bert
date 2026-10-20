@@ -1,0 +1,102 @@
+{
+  "lines": [
+    {
+      "text": "MICHAEL KENT",
+      "score": 0.9997913241386414,
+      "box": [
+        118,
+        91,
+        370,
+        122
+      ]
+    },
+    {
+      "text": "PA, USA | +1-747-251-3212 | michael.kent@example.com",
+      "score": 0.9870845079421997,
+      "box": [
+        115,
+        149,
+        657,
+        177
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9997299313545227,
+      "box": [
+        117,
+        243,
+        317,
+        270
+      ]
+    },
+    {
+      "text": "Construction Laborers, Foundation Force, 2021.02—2023.01",
+      "score": 0.9886426329612732,
+      "box": [
+        118,
+        289,
+        669,
+        313
+      ]
+    },
+    {
+      "text": "- Assisted with framing support",
+      "score": 0.9971494078636169,
+      "box": [
+        125,
+        314,
+        417,
+        340
+      ]
+    },
+    {
+      "text": "- Carried materials to designated work areas",
+      "score": 0.989945650100708,
+      "box": [
+        127,
+        338,
+        541,
+        368
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999945878982544,
+      "box": [
+        116,
+        404,
+        268,
+        431
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Building Systems, Willowcrest High School, 2022",
+      "score": 0.9943351149559021,
+      "box": [
+        117,
+        449,
+        830,
+        473
+      ]
+    },
+    {
+      "text": "•Studied principles of equipment calibration",
+      "score": 0.9743190407752991,
+      "box": [
+        131,
+        475,
+        541,
+        499
+      ]
+    }
+  ],
+  "seconds": 1.9440931999124587,
+  "id": "44631",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

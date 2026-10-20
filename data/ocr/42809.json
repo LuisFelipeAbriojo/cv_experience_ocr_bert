@@ -1,0 +1,162 @@
+{
+  "lines": [
+    {
+      "text": "BRENDAN ARCHER",
+      "score": 0.999735414981842,
+      "box": [
+        118,
+        92,
+        437,
+        122
+      ]
+    },
+    {
+      "text": "OH, USA | +1-871-734-5237 | brendan.archer@example.com",
+      "score": 0.9904061555862427,
+      "box": [
+        118,
+        152,
+        684,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9990995526313782,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, ClearView Construction, 2021.012023.01",
+      "score": 0.9990922808647156,
+      "box": [
+        117,
+        289,
+        725,
+        316
+      ]
+    },
+    {
+      "text": "- Designed construction staging plans",
+      "score": 0.9983310103416443,
+      "box": [
+        126,
+        314,
+        477,
+        343
+      ]
+    },
+    {
+      "text": "- Designed site logistics frameworks",
+      "score": 0.9855496883392334,
+      "box": [
+        127,
+        340,
+        462,
+        368
+      ]
+    },
+    {
+      "text": "Construction Laborers, FirmTrack Construction, 2019.012021.01",
+      "score": 0.9802068471908569,
+      "box": [
+        118,
+        383,
+        723,
+        407
+      ]
+    },
+    {
+      "text": "- Laid flooring materials",
+      "score": 0.9965274930000305,
+      "box": [
+        126,
+        407,
+        348,
+        434
+      ]
+    },
+    {
+      "text": "- Operated power tools independently",
+      "score": 0.9776934385299683,
+      "box": [
+        128,
+        431,
+        477,
+        459
+      ]
+    },
+    {
+      "text": "Construction Laborers, SolidRise Construction, 2016.122019.01",
+      "score": 0.9915193319320679,
+      "box": [
+        118,
+        473,
+        717,
+        497
+      ]
+    },
+    {
+      "text": "- Performed basic sanding and painting",
+      "score": 0.9747523069381714,
+      "box": [
+        125,
+        494,
+        493,
+        527
+      ]
+    },
+    {
+      "text": "- Assembled prefabricated components",
+      "score": 0.9989675879478455,
+      "box": [
+        128,
+        521,
+        493,
+        550
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9998828172683716,
+      "box": [
+        117,
+        587,
+        267,
+        614
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Construction Skills, Brookfield High School, 2015",
+      "score": 0.9920983910560608,
+      "box": [
+        118,
+        633,
+        830,
+        657
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of concrete finishing",
+      "score": 0.9790443181991577,
+      "box": [
+        130,
+        656,
+        541,
+        683
+      ]
+    }
+  ],
+  "seconds": 2.6001801998354495,
+  "id": "42809",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

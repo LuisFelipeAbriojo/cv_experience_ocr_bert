@@ -1,0 +1,202 @@
+{
+  "lines": [
+    {
+      "text": "THAI ONEILL",
+      "score": 0.9987655878067017,
+      "box": [
+        117,
+        91,
+        327,
+        122
+      ]
+    },
+    {
+      "text": "MI, USA | +1-455-292-3472 | thai.oneill@example.com",
+      "score": 0.9966606497764587,
+      "box": [
+        115,
+        150,
+        624,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9740269780158997,
+      "box": [
+        116,
+        242,
+        316,
+        271
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Future Minds Academy, 2019.12—2023.01",
+      "score": 0.9875348210334778,
+      "box": [
+        117,
+        290,
+        851,
+        317
+      ]
+    },
+    {
+      "text": "- Established curriculum evaluation protocols",
+      "score": 0.9996410012245178,
+      "box": [
+        126,
+        316,
+        542,
+        342
+      ]
+    },
+    {
+      "text": "- Directed curriculum revision cycles",
+      "score": 0.9883614778518677,
+      "box": [
+        126,
+        339,
+        464,
+        368
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Early Horizons Academy, 2016.112019.12",
+      "score": 0.9902384281158447,
+      "box": [
+        117,
+        381,
+        868,
+        411
+      ]
+    },
+    {
+      "text": "- Established learning outcome benchmarks",
+      "score": 0.9985393285751343,
+      "box": [
+        126,
+        409,
+        535,
+        433
+      ]
+    },
+    {
+      "text": "- Directed instructional benchmarking",
+      "score": 0.9822967052459717,
+      "box": [
+        125,
+        430,
+        474,
+        461
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Bright Hills Academy, 2013.092016.11",
+      "score": 0.9936607480049133,
+      "box": [
+        119,
+        474,
+        829,
+        498
+      ]
+    },
+    {
+      "text": "- Implemented classroom improvement plans",
+      "score": 0.9995868802070618,
+      "box": [
+        125,
+        497,
+        546,
+        525
+      ]
+    },
+    {
+      "text": "- Adapted lesson content for diverse learners",
+      "score": 0.9972756505012512,
+      "box": [
+        127,
+        521,
+        546,
+        550
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Learning Bridge Academy, 2010.07—2013.09",
+      "score": 0.9872047901153564,
+      "box": [
+        116,
+        564,
+        878,
+        592
+      ]
+    },
+    {
+      "text": "- Prepared instructional materials and worksheets",
+      "score": 0.9810697436332703,
+      "box": [
+        127,
+        592,
+        588,
+        616
+      ]
+    },
+    {
+      "text": "- Administered learning games",
+      "score": 0.9862277507781982,
+      "box": [
+        127,
+        615,
+        413,
+        642
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999361038208008,
+      "box": [
+        117,
+        681,
+        266,
+        705
+      ]
+    },
+    {
+      "text": "Bachelor's, General Academic Studies, Northwood University, 2008",
+      "score": 0.9812096357345581,
+      "box": [
+        117,
+        726,
+        740,
+        749
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of formative feedback",
+      "score": 0.9839931130409241,
+      "box": [
+        133,
+        750,
+        557,
+        774
+      ]
+    },
+    {
+      "text": "• Completed introductory coursework in educational psychology",
+      "score": 0.9708877801895142,
+      "box": [
+        132,
+        772,
+        721,
+        802
+      ]
+    }
+  ],
+  "seconds": 3.3966661002486944,
+  "id": "27712",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

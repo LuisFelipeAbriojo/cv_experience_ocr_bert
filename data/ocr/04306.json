@@ -1,0 +1,212 @@
+{
+  "lines": [
+    {
+      "text": "TRACI KAUR",
+      "score": 0.9997224807739258,
+      "box": [
+        117,
+        91,
+        326,
+        122
+      ]
+    },
+    {
+      "text": "CA, USA | +1-612-730-2056 | traci.kaur@example.com",
+      "score": 0.987143874168396,
+      "box": [
+        116,
+        150,
+        626,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9990952610969543,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, OpenCare Nursing Services, 2018.10—2023.01",
+      "score": 0.979279100894928,
+      "box": [
+        115,
+        287,
+        736,
+        318
+      ]
+    },
+    {
+      "text": "- Designed clinical documentation standards",
+      "score": 0.9917904138565063,
+      "box": [
+        125,
+        313,
+        539,
+        343
+      ]
+    },
+    {
+      "text": "- Developed medication management policies",
+      "score": 0.9764347076416016,
+      "box": [
+        127,
+        339,
+        552,
+        368
+      ]
+    },
+    {
+      "text": "Registered Nurses, GentleWay Health, 2014.072018.10",
+      "score": 0.9882358312606812,
+      "box": [
+        116,
+        381,
+        646,
+        409
+      ]
+    },
+    {
+      "text": "- Managed long-term care strategies",
+      "score": 0.9973316788673401,
+      "box": [
+        126,
+        407,
+        465,
+        434
+      ]
+    },
+    {
+      "text": "- Developed clinical performance dashboards",
+      "score": 0.9965793490409851,
+      "box": [
+        129,
+        434,
+        548,
+        457
+      ]
+    },
+    {
+      "text": "Registered Nurses, KindHands Care Center, 2010.042014.07",
+      "score": 0.9937323331832886,
+      "box": [
+        117,
+        472,
+        697,
+        497
+      ]
+    },
+    {
+      "text": "- Provided rehabilitation nursing care",
+      "score": 0.9960726499557495,
+      "box": [
+        126,
+        497,
+        469,
+        524
+      ]
+    },
+    {
+      "text": "- Monitored cardiac telemetry",
+      "score": 0.9960694313049316,
+      "box": [
+        127,
+        521,
+        399,
+        550
+      ]
+    },
+    {
+      "text": "Registered Nurses, Harmony Hands Health Services, 2006.01—2010.04",
+      "score": 0.9794076085090637,
+      "box": [
+        116,
+        563,
+        780,
+        592
+      ]
+    },
+    {
+      "text": "- Checked medication dosages",
+      "score": 0.9731943011283875,
+      "box": [
+        127,
+        590,
+        417,
+        617
+      ]
+    },
+    {
+      "text": "- Monitored patient alarms",
+      "score": 0.9582868218421936,
+      "box": [
+        125,
+        613,
+        373,
+        643
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999271035194397,
+      "box": [
+        117,
+        681,
+        266,
+        705
+      ]
+    },
+    {
+      "text": "Master's, Rehabilitation Sciences, Brightwater University, 2004",
+      "score": 0.9958056807518005,
+      "box": [
+        116,
+        724,
+        696,
+        749
+      ]
+    },
+    {
+      "text": "Bachelor's, Health Systems, Riverdale University, 2002",
+      "score": 0.9826594591140747,
+      "box": [
+        117,
+        750,
+        628,
+        774
+      ]
+    },
+    {
+      "text": "• Completed coursework in basic nursing principles",
+      "score": 0.9805377125740051,
+      "box": [
+        130,
+        775,
+        607,
+        802
+      ]
+    },
+    {
+      "text": "•Studied principles of fall prevention",
+      "score": 0.9806464314460754,
+      "box": [
+        131,
+        798,
+        472,
+        826
+      ]
+    }
+  ],
+  "seconds": 3.1576549001038074,
+  "id": "04306",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

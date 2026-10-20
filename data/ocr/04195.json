@@ -1,0 +1,202 @@
+{
+  "lines": [
+    {
+      "text": "ALAINA DOUGLAS",
+      "score": 0.9998364448547363,
+      "box": [
+        117,
+        90,
+        420,
+        122
+      ]
+    },
+    {
+      "text": "CA, USA | +1-944-959-5830 | alaina.douglas@example.com",
+      "score": 0.976980984210968,
+      "box": [
+        116,
+        150,
+        675,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9961845278739929,
+      "box": [
+        117,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, SafeWay Health Group, 2020.03—2023.01",
+      "score": 0.9728369116783142,
+      "box": [
+        115,
+        287,
+        690,
+        319
+      ]
+    },
+    {
+      "text": "- Directed care delivery improvements",
+      "score": 0.9808082580566406,
+      "box": [
+        125,
+        313,
+        481,
+        345
+      ]
+    },
+    {
+      "text": "- Established care delivery standards",
+      "score": 0.9862577319145203,
+      "box": [
+        126,
+        339,
+        471,
+        368
+      ]
+    },
+    {
+      "text": "Registered Nurses, BrightLife Care Center, 2017.042020.03",
+      "score": 0.996505081653595,
+      "box": [
+        118,
+        383,
+        683,
+        407
+      ]
+    },
+    {
+      "text": "- Developed care quality benchmarks",
+      "score": 0.9910373091697693,
+      "box": [
+        125,
+        406,
+        474,
+        435
+      ]
+    },
+    {
+      "text": "- Developed staffing allocation models",
+      "score": 0.9914886951446533,
+      "box": [
+        129,
+        434,
+        481,
+        457
+      ]
+    },
+    {
+      "text": "Registered Nurses, WellBridge Medical Group, 2014.052017.04",
+      "score": 0.9968658089637756,
+      "box": [
+        118,
+        474,
+        718,
+        498
+      ]
+    },
+    {
+      "text": "- Conducted clinical audits",
+      "score": 0.9743297100067139,
+      "box": [
+        126,
+        496,
+        375,
+        525
+      ]
+    },
+    {
+      "text": "- Implemented infection prevention protocols",
+      "score": 0.9958124160766602,
+      "box": [
+        128,
+        521,
+        540,
+        551
+      ]
+    },
+    {
+      "text": "Registered Nurses, Harmony Care Center, 2011.062014.05",
+      "score": 0.9884961247444153,
+      "box": [
+        118,
+        566,
+        680,
+        590
+      ]
+    },
+    {
+      "text": "- Monitored patient alarms",
+      "score": 0.9841886162757874,
+      "box": [
+        126,
+        589,
+        375,
+        618
+      ]
+    },
+    {
+      "text": "- Performed wound dressing changes",
+      "score": 0.985580325126648,
+      "box": [
+        126,
+        613,
+        477,
+        645
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999008178710938,
+      "box": [
+        117,
+        681,
+        266,
+        705
+      ]
+    },
+    {
+      "text": "Bachelor's, Health Care Management, Redfield University, 2012",
+      "score": 0.9841206669807434,
+      "box": [
+        115,
+        723,
+        709,
+        750
+      ]
+    },
+    {
+      "text": "Completed coursework in healthcare law basics",
+      "score": 0.997104823589325,
+      "box": [
+        131,
+        749,
+        590,
+        776
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of sleep management in care",
+      "score": 0.9803845882415771,
+      "box": [
+        132,
+        772,
+        626,
+        801
+      ]
+    }
+  ],
+  "seconds": 2.960814699996263,
+  "id": "04195",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

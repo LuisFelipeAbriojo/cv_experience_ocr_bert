@@ -1,0 +1,172 @@
+{
+  "lines": [
+    {
+      "text": "EMILY WHITAKER",
+      "score": 0.9655489921569824,
+      "box": [
+        118,
+        92,
+        410,
+        122
+      ]
+    },
+    {
+      "text": "HI, USA | +1-988-297-6726 | emily.whitaker@example.com",
+      "score": 0.9898295402526855,
+      "box": [
+        116,
+        150,
+        664,
+        177
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9991410374641418,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Open Horizons School, 2021.01-2023.01",
+      "score": 0.9875695705413818,
+      "box": [
+        115,
+        287,
+        847,
+        318
+      ]
+    },
+    {
+      "text": "- Developed instructional innovation plans",
+      "score": 0.9952312707901001,
+      "box": [
+        126,
+        315,
+        515,
+        341
+      ]
+    },
+    {
+      "text": "- Developed learning progression models",
+      "score": 0.9820300340652466,
+      "box": [
+        127,
+        339,
+        511,
+        367
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Open Futures School, 2018.12—2021.01",
+      "score": 0.977615475654602,
+      "box": [
+        117,
+        382,
+        834,
+        409
+      ]
+    },
+    {
+      "text": "- Designed lesson plans aligned with curriculum standards",
+      "score": 0.9948809146881104,
+      "box": [
+        127,
+        409,
+        666,
+        433
+      ]
+    },
+    {
+      "text": "- Designed math assessments",
+      "score": 0.9934677481651306,
+      "box": [
+        126,
+        432,
+        410,
+        458
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Little Bridge School, 2016.112018.12",
+      "score": 0.993071973323822,
+      "box": [
+        117,
+        471,
+        819,
+        499
+      ]
+    },
+    {
+      "text": "- Maintained instructional logs",
+      "score": 0.9981030821800232,
+      "box": [
+        126,
+        497,
+        406,
+        524
+      ]
+    },
+    {
+      "text": "- Maintained classroom bulletin boards",
+      "score": 0.9913667440414429,
+      "box": [
+        127,
+        521,
+        486,
+        547
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999287128448486,
+      "box": [
+        117,
+        587,
+        267,
+        614
+      ]
+    },
+    {
+      "text": "Bachelor's, Academic Support Studies, Windridge University, 2014",
+      "score": 0.9962417483329773,
+      "box": [
+        116,
+        631,
+        733,
+        659
+      ]
+    },
+    {
+      "text": "•Completed coursework in classroom learning strategies",
+      "score": 0.9862468242645264,
+      "box": [
+        131,
+        657,
+        662,
+        685
+      ]
+    },
+    {
+      "text": "Completed coursework in educational data basics",
+      "score": 0.9996894598007202,
+      "box": [
+        132,
+        680,
+        609,
+        709
+      ]
+    }
+  ],
+  "seconds": 2.5970267998054624,
+  "id": "16713",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

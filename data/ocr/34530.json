@@ -1,0 +1,142 @@
+{
+  "lines": [
+    {
+      "text": "DEVON FAULKNER",
+      "score": 0.9998369812965393,
+      "box": [
+        117,
+        89,
+        430,
+        122
+      ]
+    },
+    {
+      "text": "NJ, USA | +1-568-575-5022 | devon.faulkner@example.com",
+      "score": 0.9952031373977661,
+      "box": [
+        115,
+        149,
+        675,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9991222023963928,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Integrity Books Financial Group, 2020.06—2023.01",
+      "score": 0.9779056906700134,
+      "box": [
+        116,
+        289,
+        790,
+        316
+      ]
+    },
+    {
+      "text": "- Led audit programs",
+      "score": 0.9994386434555054,
+      "box": [
+        126,
+        315,
+        322,
+        342
+      ]
+    },
+    {
+      "text": "- Led accounting process optimization",
+      "score": 0.9947608709335327,
+      "box": [
+        128,
+        341,
+        480,
+        368
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Reliable Balance Services, 2017.102020.06",
+      "score": 0.9918611645698547,
+      "box": [
+        117,
+        382,
+        744,
+        409
+      ]
+    },
+    {
+      "text": "- Prepared journal entries",
+      "score": 0.9790191650390625,
+      "box": [
+        125,
+        406,
+        367,
+        435
+      ]
+    },
+    {
+      "text": "- Updated accounting policies documentation",
+      "score": 0.9863617420196533,
+      "box": [
+        129,
+        433,
+        546,
+        459
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999086856842041,
+      "box": [
+        117,
+        494,
+        268,
+        521
+      ]
+    },
+    {
+      "text": "Bachelor's, Business Law, Northfield University, 2017",
+      "score": 0.9776825308799744,
+      "box": [
+        115,
+        539,
+        612,
+        567
+      ]
+    },
+    {
+      "text": "•Completed coursework in lease accounting",
+      "score": 0.9826375246047974,
+      "box": [
+        130,
+        565,
+        547,
+        593
+      ]
+    },
+    {
+      "text": "•Studied principles of business analytics",
+      "score": 0.9613626003265381,
+      "box": [
+        131,
+        590,
+        512,
+        618
+      ]
+    }
+  ],
+  "seconds": 2.4543419000692666,
+  "id": "34530",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

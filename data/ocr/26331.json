@@ -1,0 +1,142 @@
+{
+  "lines": [
+    {
+      "text": "MARGARET HARDY",
+      "score": 0.9996644258499146,
+      "box": [
+        118,
+        91,
+        438,
+        121
+      ]
+    },
+    {
+      "text": "MA, USA | +1-342-891-8443 | margaret.hardy@example.com",
+      "score": 0.9880701899528503,
+      "box": [
+        117,
+        152,
+        683,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9991812109947205,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, EverHands Nursing Services, 2020.04—2023.01",
+      "score": 0.9913878440856934,
+      "box": [
+        117,
+        289,
+        741,
+        316
+      ]
+    },
+    {
+      "text": "- Led nursing workflow optimization",
+      "score": 0.9785943031311035,
+      "box": [
+        126,
+        315,
+        454,
+        341
+      ]
+    },
+    {
+      "text": "- Directed patient care coordination",
+      "score": 0.9744963049888611,
+      "box": [
+        128,
+        340,
+        454,
+        366
+      ]
+    },
+    {
+      "text": "Registered Nurses, Compassion Care Services, 2017.072020.04",
+      "score": 0.997869610786438,
+      "box": [
+        116,
+        380,
+        729,
+        409
+      ]
+    },
+    {
+      "text": "- Monitored patient dietary needs",
+      "score": 0.9727929830551147,
+      "box": [
+        126,
+        407,
+        435,
+        432
+      ]
+    },
+    {
+      "text": "- Prepared medical equipment for use",
+      "score": 0.9919527769088745,
+      "box": [
+        127,
+        431,
+        478,
+        459
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999297261238098,
+      "box": [
+        117,
+        494,
+        267,
+        521
+      ]
+    },
+    {
+      "text": "Associate's degree, Nursing Studies, Willowbrook University, 2015",
+      "score": 0.992312490940094,
+      "box": [
+        116,
+        539,
+        732,
+        567
+      ]
+    },
+    {
+      "text": "• Completed coursework in patient-centered care",
+      "score": 0.9837846755981445,
+      "box": [
+        131,
+        566,
+        587,
+        592
+      ]
+    },
+    {
+      "text": "• Completed coursework in nursing leadership basics",
+      "score": 0.9885035753250122,
+      "box": [
+        132,
+        591,
+        624,
+        617
+      ]
+    }
+  ],
+  "seconds": 2.3718816000036895,
+  "id": "26331",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

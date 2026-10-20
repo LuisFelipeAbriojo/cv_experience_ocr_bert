@@ -1,0 +1,112 @@
+{
+  "lines": [
+    {
+      "text": "JONATHAN HURST",
+      "score": 0.9757513999938965,
+      "box": [
+        116,
+        91,
+        428,
+        122
+      ]
+    },
+    {
+      "text": "FL, USA | +1-681-747-9798 | jonathan.hurst@example.com",
+      "score": 0.990850031375885,
+      "box": [
+        116,
+        149,
+        669,
+        177
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.999729573726654,
+      "box": [
+        117,
+        243,
+        317,
+        270
+      ]
+    },
+    {
+      "text": "Construction Laborers, WorkForce Builders, 2020.02—2023.01",
+      "score": 0.9947471022605896,
+      "box": [
+        118,
+        290,
+        689,
+        314
+      ]
+    },
+    {
+      "text": "- Operated hand tools for assembly tasks",
+      "score": 0.9879201650619507,
+      "box": [
+        126,
+        315,
+        509,
+        340
+      ]
+    },
+    {
+      "text": "- Installed temporary supports",
+      "score": 0.9772608876228333,
+      "box": [
+        127,
+        339,
+        406,
+        368
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999443888664246,
+      "box": [
+        116,
+        404,
+        268,
+        431
+      ]
+    },
+    {
+      "text": "Some college (no degree), Building Trades, Oakridge Valley University, 2023",
+      "score": 0.9921421408653259,
+      "box": [
+        115,
+        445,
+        828,
+        476
+      ]
+    },
+    {
+      "text": "•Studied principles of equipment calibration",
+      "score": 0.9809170365333557,
+      "box": [
+        130,
+        475,
+        540,
+        499
+      ]
+    },
+    {
+      "text": "Studied fundamentals of job site layout",
+      "score": 0.9937445521354675,
+      "box": [
+        130,
+        496,
+        509,
+        526
+      ]
+    }
+  ],
+  "seconds": 2.1483500003814697,
+  "id": "13563",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

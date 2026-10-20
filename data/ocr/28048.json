@@ -1,0 +1,202 @@
+{
+  "lines": [
+    {
+      "text": "BREANNA HENDERSON",
+      "score": 0.9788982272148132,
+      "box": [
+        118,
+        92,
+        507,
+        122
+      ]
+    },
+    {
+      "text": "MI, USA | +1-391-849-1605 | breanna.henderson@example.com",
+      "score": 0.9909535646438599,
+      "box": [
+        115,
+        150,
+        716,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9990910887718201,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Cloudstone Software, 2020.05—2023.01",
+      "score": 0.9893455505371094,
+      "box": [
+        116,
+        290,
+        689,
+        317
+      ]
+    },
+    {
+      "text": "- Implemented long-term maintenance plans",
+      "score": 0.9961529970169067,
+      "box": [
+        129,
+        317,
+        537,
+        341
+      ]
+    },
+    {
+      "text": "- Designed microservice architectures",
+      "score": 0.9955681562423706,
+      "box": [
+        130,
+        342,
+        478,
+        366
+      ]
+    },
+    {
+      "text": "Software Developers, Greenline Tech, 2017.092020.05",
+      "score": 0.9905691146850586,
+      "box": [
+        116,
+        381,
+        641,
+        409
+      ]
+    },
+    {
+      "text": "- Defined data governance policies",
+      "score": 0.9910752773284912,
+      "box": [
+        125,
+        407,
+        451,
+        435
+      ]
+    },
+    {
+      "text": "- Designed data storage strategies",
+      "score": 0.9859335422515869,
+      "box": [
+        128,
+        433,
+        448,
+        459
+      ]
+    },
+    {
+      "text": "Software Developers, Brightnode Systems, 2013.06—2016.02",
+      "score": 0.9906840920448303,
+      "box": [
+        117,
+        473,
+        684,
+        500
+      ]
+    },
+    {
+      "text": "- Built feature management systems",
+      "score": 0.9917129278182983,
+      "box": [
+        125,
+        497,
+        465,
+        526
+      ]
+    },
+    {
+      "text": "- Developed access control logic",
+      "score": 0.9835014343261719,
+      "box": [
+        127,
+        521,
+        430,
+        552
+      ]
+    },
+    {
+      "text": "Software Developers, Clearpath Digital, 2009.05—2012.02",
+      "score": 0.993107259273529,
+      "box": [
+        115,
+        564,
+        652,
+        592
+      ]
+    },
+    {
+      "text": "- Assisted with build automation",
+      "score": 0.9865318536758423,
+      "box": [
+        128,
+        592,
+        424,
+        615
+      ]
+    },
+    {
+      "text": "- Wrote unit tests for application modules",
+      "score": 0.9863789677619934,
+      "box": [
+        125,
+        613,
+        508,
+        642
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999907910823822,
+      "box": [
+        117,
+        681,
+        266,
+        705
+      ]
+    },
+    {
+      "text": "Bachelor's, Redfield University, 2005",
+      "score": 0.9794465899467468,
+      "box": [
+        117,
+        726,
+        457,
+        749
+      ]
+    },
+    {
+      "text": "•Studied fundamentals of software metrics",
+      "score": 0.9957693815231323,
+      "box": [
+        131,
+        750,
+        530,
+        774
+      ]
+    },
+    {
+      "text": "•Studied fundamentals of build systems",
+      "score": 0.9909242391586304,
+      "box": [
+        132,
+        773,
+        505,
+        799
+      ]
+    }
+  ],
+  "seconds": 2.7349931998178363,
+  "id": "28048",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

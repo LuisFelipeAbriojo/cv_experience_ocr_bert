@@ -1,0 +1,152 @@
+{
+  "lines": [
+    {
+      "text": "CARLY COX",
+      "score": 0.9997002482414246,
+      "box": [
+        116,
+        89,
+        315,
+        123
+      ]
+    },
+    {
+      "text": "MA, USA | +1-728-233-4002 | carly.cox@example.com",
+      "score": 0.9858129620552063,
+      "box": [
+        115,
+        149,
+        626,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9991443753242493,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Discovery Tree Academy, 2021.03—2023.01",
+      "score": 0.9854516983032227,
+      "box": [
+        115,
+        287,
+        871,
+        318
+      ]
+    },
+    {
+      "text": "- Directed instructional planning processes",
+      "score": 0.997249960899353,
+      "box": [
+        126,
+        314,
+        522,
+        343
+      ]
+    },
+    {
+      "text": "- Designed assessment systems",
+      "score": 0.9894694089889526,
+      "box": [
+        126,
+        339,
+        431,
+        369
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Golden Oak Academy, 2019.05—2021.03",
+      "score": 0.9840725660324097,
+      "box": [
+        116,
+        379,
+        842,
+        410
+      ]
+    },
+    {
+      "text": "- Implemented lesson pacing guidelines",
+      "score": 0.9933359026908875,
+      "box": [
+        126,
+        408,
+        496,
+        434
+      ]
+    },
+    {
+      "text": "- Assisted with science experiments",
+      "score": 0.9950153827667236,
+      "box": [
+        127,
+        431,
+        460,
+        459
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999944269657135,
+      "box": [
+        116,
+        494,
+        267,
+        521
+      ]
+    },
+    {
+      "text": "Master's, Student Learning Studies, Woodcrest University, 2023",
+      "score": 0.9887831211090088,
+      "box": [
+        114,
+        539,
+        708,
+        567
+      ]
+    },
+    {
+      "text": "Bachelor's, Academic Foundations, Plainview University, 2021",
+      "score": 0.9835320115089417,
+      "box": [
+        117,
+        567,
+        692,
+        591
+      ]
+    },
+    {
+      "text": "Studied fundamentals of learning reinforcement",
+      "score": 0.9938844442367554,
+      "box": [
+        127,
+        590,
+        589,
+        618
+      ]
+    },
+    {
+      "text": "•Studied fundamentals of science education",
+      "score": 0.9740124940872192,
+      "box": [
+        130,
+        615,
+        546,
+        641
+      ]
+    }
+  ],
+  "seconds": 2.503551200032234,
+  "id": "26572",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

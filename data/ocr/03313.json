@@ -1,0 +1,102 @@
+{
+  "lines": [
+    {
+      "text": "JUSTIN BLEVINS",
+      "score": 0.9999215006828308,
+      "box": [
+        116,
+        91,
+        390,
+        122
+      ]
+    },
+    {
+      "text": "CA, USA | +1-930-762-9071 | justin.blevins@example.com",
+      "score": 0.9954027533531189,
+      "box": [
+        118,
+        152,
+        659,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9997288584709167,
+      "box": [
+        117,
+        243,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Software Developers, Codecrest Systems, 2020.122023.01",
+      "score": 0.9987765550613403,
+      "box": [
+        116,
+        289,
+        676,
+        316
+      ]
+    },
+    {
+      "text": "- Resolved merge conflicts",
+      "score": 0.9936484694480896,
+      "box": [
+        126,
+        315,
+        377,
+        342
+      ]
+    },
+    {
+      "text": "- Fixed software bugs identified through testing",
+      "score": 0.9805058836936951,
+      "box": [
+        127,
+        339,
+        562,
+        368
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999934732913971,
+      "box": [
+        116,
+        404,
+        268,
+        431
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Northcrest High School, 2020",
+      "score": 0.9981654286384583,
+      "box": [
+        117,
+        448,
+        649,
+        475
+      ]
+    },
+    {
+      "text": "Completed coursework in continuous integration",
+      "score": 0.9778571724891663,
+      "box": [
+        131,
+        472,
+        594,
+        500
+      ]
+    }
+  ],
+  "seconds": 1.7886048997752368,
+  "id": "03313",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

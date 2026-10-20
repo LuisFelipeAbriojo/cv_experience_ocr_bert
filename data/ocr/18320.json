@@ -1,0 +1,112 @@
+{
+  "lines": [
+    {
+      "text": "ANGEL BOND",
+      "score": 0.997834324836731,
+      "box": [
+        115,
+        87,
+        343,
+        123
+      ]
+    },
+    {
+      "text": "IL, USA | +1-934-968-2854 | angel.bond@example.com",
+      "score": 0.9930055737495422,
+      "box": [
+        116,
+        149,
+        633,
+        177
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9997498989105225,
+      "box": [
+        117,
+        243,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Construction Laborers, CornerLine Contractors, 2020.04—2023.01",
+      "score": 0.987598180770874,
+      "box": [
+        116,
+        287,
+        725,
+        315
+      ]
+    },
+    {
+      "text": "- Prepared surfaces for construction work",
+      "score": 0.9758340716362,
+      "box": [
+        127,
+        315,
+        512,
+        339
+      ]
+    },
+    {
+      "text": "- Performed basic sanding and painting",
+      "score": 0.9826039671897888,
+      "box": [
+        126,
+        336,
+        493,
+        369
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999494552612305,
+      "box": [
+        116,
+        404,
+        268,
+        431
+      ]
+    },
+    {
+      "text": "Some college (no degree), Surveying Technology, Briarwood University, 2023",
+      "score": 0.9907765984535217,
+      "box": [
+        117,
+        447,
+        836,
+        474
+      ]
+    },
+    {
+      "text": "•Studied principles of insulation techniques",
+      "score": 0.9785232543945312,
+      "box": [
+        129,
+        474,
+        537,
+        499
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of power tool operation",
+      "score": 0.9820762276649475,
+      "box": [
+        132,
+        499,
+        568,
+        523
+      ]
+    }
+  ],
+  "seconds": 2.0388213000260293,
+  "id": "18320",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

@@ -1,0 +1,112 @@
+{
+  "lines": [
+    {
+      "text": "JENNA CHANG",
+      "score": 0.9927814602851868,
+      "box": [
+        116,
+        91,
+        362,
+        122
+      ]
+    },
+    {
+      "text": "AR, USA | +1-436-206-2477 | jenna.chang@example.com",
+      "score": 0.9857737421989441,
+      "box": [
+        115,
+        149,
+        655,
+        177
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9997613430023193,
+      "box": [
+        117,
+        243,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Accountants Auditors, OpenBooks Financial Group, 2019.11—2021.08",
+      "score": 0.9853580594062805,
+      "box": [
+        116,
+        288,
+        762,
+        315
+      ]
+    },
+    {
+      "text": "- Maintained accounting software records",
+      "score": 0.9955209493637085,
+      "box": [
+        126,
+        315,
+        509,
+        339
+      ]
+    },
+    {
+      "text": "- Assisted with budget tracking",
+      "score": 0.9812862873077393,
+      "box": [
+        128,
+        337,
+        414,
+        369
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999404549598694,
+      "box": [
+        116,
+        404,
+        268,
+        431
+      ]
+    },
+    {
+      "text": "Bachelor's, Information Systems, Brightfield Ridge University, 2010",
+      "score": 0.9957150220870972,
+      "box": [
+        115,
+        446,
+        737,
+        474
+      ]
+    },
+    {
+      "text": "•Studied principles of accounting standards",
+      "score": 0.9820454716682434,
+      "box": [
+        130,
+        475,
+        540,
+        499
+      ]
+    },
+    {
+      "text": "Studied fundamentals of substantive testing",
+      "score": 0.9900163412094116,
+      "box": [
+        130,
+        495,
+        552,
+        526
+      ]
+    }
+  ],
+  "seconds": 2.747982299886644,
+  "id": "02480",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

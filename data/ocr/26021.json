@@ -1,0 +1,172 @@
+{
+  "lines": [
+    {
+      "text": "VANESSA SMITH",
+      "score": 0.9996734857559204,
+      "box": [
+        117,
+        91,
+        394,
+        121
+      ]
+    },
+    {
+      "text": "MA, USA | +1-646-757-9493 | vanessa.smith@example.com",
+      "score": 0.9744799137115479,
+      "box": [
+        117,
+        152,
+        675,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9985945820808411,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, GentleBridge Health, 2020.122023.01",
+      "score": 0.9918354153633118,
+      "box": [
+        115,
+        287,
+        663,
+        318
+      ]
+    },
+    {
+      "text": "- Managed patient outcome evaluation systems",
+      "score": 0.9928534030914307,
+      "box": [
+        125,
+        314,
+        567,
+        343
+      ]
+    },
+    {
+      "text": "- Managed long-term care strategies",
+      "score": 0.9959530234336853,
+      "box": [
+        127,
+        340,
+        466,
+        369
+      ]
+    },
+    {
+      "text": "Registered Nurses, WellBridge Health Group, 2018.112020.12",
+      "score": 0.9879378080368042,
+      "box": [
+        116,
+        381,
+        708,
+        409
+      ]
+    },
+    {
+      "text": "- Managed patient fall prevention measures",
+      "score": 0.9973324537277222,
+      "box": [
+        124,
+        406,
+        532,
+        435
+      ]
+    },
+    {
+      "text": "- Developed patient care plans",
+      "score": 0.9901009798049927,
+      "box": [
+        126,
+        431,
+        414,
+        459
+      ]
+    },
+    {
+      "text": "Registered Nurses, GentleBridge Health, 2016.102018.11",
+      "score": 0.9959853887557983,
+      "box": [
+        118,
+        474,
+        662,
+        498
+      ]
+    },
+    {
+      "text": "- Assisted with surgical prep",
+      "score": 0.9915611147880554,
+      "box": [
+        126,
+        494,
+        391,
+        527
+      ]
+    },
+    {
+      "text": "- Monitored patient skin condition",
+      "score": 0.9978985786437988,
+      "box": [
+        127,
+        521,
+        437,
+        549
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999053478240967,
+      "box": [
+        117,
+        587,
+        267,
+        614
+      ]
+    },
+    {
+      "text": "Bachelor's, Mental Health Studies, Summit Ridge University, 2018",
+      "score": 0.9801243543624878,
+      "box": [
+        117,
+        633,
+        727,
+        657
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of skin integrity maintenance",
+      "score": 0.9805403351783752,
+      "box": [
+        129,
+        657,
+        621,
+        684
+      ]
+    },
+    {
+      "text": "Completed coursework in therapeutic communication",
+      "score": 0.9983391165733337,
+      "box": [
+        132,
+        680,
+        638,
+        710
+      ]
+    }
+  ],
+  "seconds": 2.7511935997754335,
+  "id": "26021",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

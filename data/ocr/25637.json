@@ -1,0 +1,112 @@
+{
+  "lines": [
+    {
+      "text": "FAITH LUCAS",
+      "score": 0.9997148513793945,
+      "box": [
+        115,
+        89,
+        342,
+        123
+      ]
+    },
+    {
+      "text": "MA, USA | +1-790-892-8620 | faith.lucas@example.com",
+      "score": 0.9795471429824829,
+      "box": [
+        115,
+        149,
+        637,
+        177
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9997575879096985,
+      "box": [
+        117,
+        243,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Rising Stars School, 2021.06—2023.01",
+      "score": 0.9911152124404907,
+      "box": [
+        115,
+        286,
+        820,
+        317
+      ]
+    },
+    {
+      "text": "- Recorded behavioral observations",
+      "score": 0.9996268153190613,
+      "box": [
+        126,
+        314,
+        458,
+        340
+      ]
+    },
+    {
+      "text": "- Collected permission forms",
+      "score": 0.9973825216293335,
+      "box": [
+        127,
+        338,
+        396,
+        367
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999129176139832,
+      "box": [
+        116,
+        404,
+        268,
+        431
+      ]
+    },
+    {
+      "text": "Some college (no degree), Human Development, Oakview University, 2023",
+      "score": 0.9856263399124146,
+      "box": [
+        116,
+        446,
+        812,
+        476
+      ]
+    },
+    {
+      "text": "•Studied fundamentals of learning reinforcement",
+      "score": 0.9770442247390747,
+      "box": [
+        131,
+        474,
+        588,
+        498
+      ]
+    },
+    {
+      "text": "Studied principles of learner motivation",
+      "score": 0.9980758428573608,
+      "box": [
+        131,
+        497,
+        509,
+        525
+      ]
+    }
+  ],
+  "seconds": 2.003888300154358,
+  "id": "25637",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

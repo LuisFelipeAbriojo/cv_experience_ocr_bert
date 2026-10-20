@@ -1,0 +1,182 @@
+{
+  "lines": [
+    {
+      "text": "JESSICA MURRAY",
+      "score": 0.9992629289627075,
+      "box": [
+        116,
+        91,
+        417,
+        121
+      ]
+    },
+    {
+      "text": "SC, USA | +1-899-813-5665 | jessica.murray@example.com",
+      "score": 0.972130298614502,
+      "box": [
+        116,
+        150,
+        675,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.99919193983078,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, BrightPath Learning Center, 2020.09—2023.0",
+      "score": 0.9908838868141174,
+      "box": [
+        115,
+        287,
+        881,
+        318
+      ]
+    },
+    {
+      "text": "- Designed literacy development programs",
+      "score": 0.9997010231018066,
+      "box": [
+        125,
+        314,
+        522,
+        343
+      ]
+    },
+    {
+      "text": "- Implemented academic policy updates",
+      "score": 0.9798294305801392,
+      "box": [
+        126,
+        339,
+        498,
+        369
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, BrightPath Learning Center, 2018.05—2020.09",
+      "score": 0.9848886132240295,
+      "box": [
+        116,
+        381,
+        891,
+        411
+      ]
+    },
+    {
+      "text": "- Evaluated student portfolios",
+      "score": 0.9939168691635132,
+      "box": [
+        125,
+        407,
+        401,
+        433
+      ]
+    },
+    {
+      "text": "- Implemented classroom routines",
+      "score": 0.9857879281044006,
+      "box": [
+        127,
+        432,
+        444,
+        457
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Growing Tree Academy, 2015.12—2018.05",
+      "score": 0.9856923222541809,
+      "box": [
+        117,
+        472,
+        857,
+        499
+      ]
+    },
+    {
+      "text": "- Distributed instructional handouts",
+      "score": 0.9894837141036987,
+      "box": [
+        126,
+        497,
+        452,
+        523
+      ]
+    },
+    {
+      "text": "- Set up classroom technology tools",
+      "score": 0.9912375211715698,
+      "box": [
+        126,
+        521,
+        459,
+        550
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999191761016846,
+      "box": [
+        117,
+        587,
+        267,
+        614
+      ]
+    },
+    {
+      "text": "Master's, Student Learning Studies, Bayside University, 2018",
+      "score": 0.9816730618476868,
+      "box": [
+        116,
+        632,
+        684,
+        659
+      ]
+    },
+    {
+      "text": "Bachelor's, Foundations of Learning, Windcrest University, 2016",
+      "score": 0.9872822761535645,
+      "box": [
+        115,
+        656,
+        712,
+        684
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of instructional objectives",
+      "score": 0.9886528253555298,
+      "box": [
+        131,
+        684,
+        589,
+        708
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of student learning styles",
+      "score": 0.9943456649780273,
+      "box": [
+        132,
+        707,
+        587,
+        733
+      ]
+    }
+  ],
+  "seconds": 2.78851420013234,
+  "id": "47662",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

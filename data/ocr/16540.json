@@ -1,0 +1,142 @@
+{
+  "lines": [
+    {
+      "text": "KAYLEIGH CHAPMAN",
+      "score": 0.999859094619751,
+      "box": [
+        117,
+        91,
+        469,
+        122
+      ]
+    },
+    {
+      "text": "GA, USA | +1-834-765-3374 | kayleigh.chapman@example.com",
+      "score": 0.9967678785324097,
+      "box": [
+        116,
+        150,
+        710,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9991443157196045,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Kind Start School, 2020.10—2023.01",
+      "score": 0.9817827939987183,
+      "box": [
+        117,
+        289,
+        798,
+        316
+      ]
+    },
+    {
+      "text": "- Developed instructional evaluation metrics",
+      "score": 0.9856504201889038,
+      "box": [
+        126,
+        315,
+        532,
+        341
+      ]
+    },
+    {
+      "text": "- Led curriculum integration projects",
+      "score": 0.9869835376739502,
+      "box": [
+        127,
+        339,
+        461,
+        368
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Bright Lake School, 2018.072020.10",
+      "score": 0.9930340051651001,
+      "box": [
+        117,
+        382,
+        814,
+        409
+      ]
+    },
+    {
+      "text": "- Recorded student feedback",
+      "score": 0.9904247522354126,
+      "box": [
+        125,
+        407,
+        399,
+        432
+      ]
+    },
+    {
+      "text": "- Distributed assessment rubrics",
+      "score": 0.9941028356552124,
+      "box": [
+        127,
+        430,
+        428,
+        457
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999276399612427,
+      "box": [
+        117,
+        494,
+        268,
+        521
+      ]
+    },
+    {
+      "text": "Bachelor's, Applied Education, Cedar Valley University, 2021",
+      "score": 0.9927111268043518,
+      "box": [
+        117,
+        542,
+        677,
+        566
+      ]
+    },
+    {
+      "text": "• Studied principles of classroom interaction",
+      "score": 0.981516420841217,
+      "box": [
+        131,
+        567,
+        540,
+        591
+      ]
+    },
+    {
+      "text": "•Completed coursework in lesson delivery techniques",
+      "score": 0.9722138047218323,
+      "box": [
+        130,
+        590,
+        634,
+        618
+      ]
+    }
+  ],
+  "seconds": 2.4088870002888143,
+  "id": "16540",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

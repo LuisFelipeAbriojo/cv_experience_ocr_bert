@@ -1,0 +1,172 @@
+{
+  "lines": [
+    {
+      "text": "BRADEN HUBBARD",
+      "score": 0.9994875192642212,
+      "box": [
+        117,
+        89,
+        438,
+        122
+      ]
+    },
+    {
+      "text": "MT, USA | +1-231-584-4691 | braden.hubbard@example.com",
+      "score": 0.991342306137085,
+      "box": [
+        117,
+        152,
+        688,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9988424181938171,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Softstack Digital, 2020.04—2023.01",
+      "score": 0.990443766117096,
+      "box": [
+        115,
+        288,
+        645,
+        316
+      ]
+    },
+    {
+      "text": "- Built fault-tolerant systems",
+      "score": 0.9748647212982178,
+      "box": [
+        127,
+        315,
+        387,
+        342
+      ]
+    },
+    {
+      "text": "- Implemented infrastructure automation",
+      "score": 0.995072066783905,
+      "box": [
+        128,
+        340,
+        500,
+        365
+      ]
+    },
+    {
+      "text": "Software Developers, Cleargrid Systems, 2017.072020.04",
+      "score": 0.991619884967804,
+      "box": [
+        117,
+        382,
+        667,
+        409
+      ]
+    },
+    {
+      "text": "- Managed deployment pipelines",
+      "score": 0.9968418478965759,
+      "box": [
+        125,
+        409,
+        430,
+        433
+      ]
+    },
+    {
+      "text": "- Developed CI/CD scripts",
+      "score": 0.9966467022895813,
+      "box": [
+        126,
+        429,
+        372,
+        461
+      ]
+    },
+    {
+      "text": "Software Developers, Flowfield Labs, 2014.092017.07",
+      "score": 0.9918561577796936,
+      "box": [
+        117,
+        472,
+        630,
+        499
+      ]
+    },
+    {
+      "text": "- Handled input sanitization",
+      "score": 0.9904633164405823,
+      "box": [
+        127,
+        499,
+        382,
+        523
+      ]
+    },
+    {
+      "text": "- Implemented UI components based on design specs",
+      "score": 0.9784502983093262,
+      "box": [
+        128,
+        521,
+        628,
+        550
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9998610019683838,
+      "box": [
+        117,
+        587,
+        267,
+        614
+      ]
+    },
+    {
+      "text": "Bachelor's, Westbrook University, 2014",
+      "score": 0.9915511608123779,
+      "box": [
+        116,
+        630,
+        483,
+        658
+      ]
+    },
+    {
+      "text": "Completed coursework in information systems",
+      "score": 0.9997451305389404,
+      "box": [
+        130,
+        655,
+        578,
+        686
+      ]
+    },
+    {
+      "text": "• Completed coursework in microprocessor programming",
+      "score": 0.9882401823997498,
+      "box": [
+        132,
+        680,
+        660,
+        711
+      ]
+    }
+  ],
+  "seconds": 2.4165364000946283,
+  "id": "31472",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

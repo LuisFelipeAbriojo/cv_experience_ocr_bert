@@ -1,0 +1,152 @@
+{
+  "lines": [
+    {
+      "text": "JESSICA LOWERY",
+      "score": 0.998298168182373,
+      "box": [
+        116,
+        91,
+        417,
+        121
+      ]
+    },
+    {
+      "text": "UT, USA | +1-962-662-6404 | jessica.lowery@example.com",
+      "score": 0.9944161176681519,
+      "box": [
+        116,
+        150,
+        669,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.999126136302948,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Bright Field Academy, 2021.06-2023.01",
+      "score": 0.9876720905303955,
+      "box": [
+        116,
+        287,
+        835,
+        317
+      ]
+    },
+    {
+      "text": "- Led instructional leadership initiatives",
+      "score": 0.9912745356559753,
+      "box": [
+        127,
+        315,
+        488,
+        341
+      ]
+    },
+    {
+      "text": "- Designed instructional governance models",
+      "score": 0.9974340796470642,
+      "box": [
+        127,
+        339,
+        535,
+        367
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Little Path School, 2018.022019.09",
+      "score": 0.9930100440979004,
+      "box": [
+        118,
+        383,
+        799,
+        407
+      ]
+    },
+    {
+      "text": "- Implemented lesson pacing guidelines",
+      "score": 0.9855440855026245,
+      "box": [
+        125,
+        406,
+        497,
+        435
+      ]
+    },
+    {
+      "text": "- Delivered structured lectures",
+      "score": 0.9834339022636414,
+      "box": [
+        127,
+        430,
+        409,
+        458
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999193549156189,
+      "box": [
+        116,
+        494,
+        267,
+        521
+      ]
+    },
+    {
+      "text": "Master's, Basic Child Development, Oakridge Valley University, 2012",
+      "score": 0.9866552948951721,
+      "box": [
+        114,
+        539,
+        756,
+        568
+      ]
+    },
+    {
+      "text": "Bachelor's, Child Development, Prairie Ridge University, 2010",
+      "score": 0.9917048215866089,
+      "box": [
+        116,
+        565,
+        689,
+        593
+      ]
+    },
+    {
+      "text": "• Studied principles of knowledge retention",
+      "score": 0.991215169429779,
+      "box": [
+        131,
+        593,
+        529,
+        617
+      ]
+    },
+    {
+      "text": "•Completed coursework in social studies education",
+      "score": 0.9865130186080933,
+      "box": [
+        131,
+        615,
+        613,
+        643
+      ]
+    }
+  ],
+  "seconds": 2.616795899812132,
+  "id": "55729",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

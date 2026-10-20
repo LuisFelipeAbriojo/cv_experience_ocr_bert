@@ -1,0 +1,112 @@
+{
+  "lines": [
+    {
+      "text": "PAUL BAILEY",
+      "score": 0.9989247918128967,
+      "box": [
+        116,
+        91,
+        341,
+        122
+      ]
+    },
+    {
+      "text": "NE, USA | +1-814-939-7072 | paul.bailey@example.com",
+      "score": 0.9872299432754517,
+      "box": [
+        115,
+        149,
+        640,
+        177
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.999330997467041,
+      "box": [
+        116,
+        243,
+        317,
+        270
+      ]
+    },
+    {
+      "text": "Construction Laborers, WorkForce Builders, 2020.05—2023.01",
+      "score": 0.9961240887641907,
+      "box": [
+        118,
+        289,
+        689,
+        313
+      ]
+    },
+    {
+      "text": "- Handled delivery documentation",
+      "score": 0.999352753162384,
+      "box": [
+        126,
+        314,
+        441,
+        339
+      ]
+    },
+    {
+      "text": "- Assisted with concrete pouring",
+      "score": 0.9840906858444214,
+      "box": [
+        126,
+        337,
+        427,
+        368
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999110102653503,
+      "box": [
+        116,
+        404,
+        268,
+        431
+      ]
+    },
+    {
+      "text": "Some college (no degree), Construction Supervision, Windcrest University, 2023",
+      "score": 0.9899916052818298,
+      "box": [
+        116,
+        446,
+        861,
+        476
+      ]
+    },
+    {
+      "text": "Completed coursework in material handling",
+      "score": 0.9859090447425842,
+      "box": [
+        130,
+        471,
+        549,
+        501
+      ]
+    },
+    {
+      "text": "Studied principles of insulation techniques",
+      "score": 0.9816727042198181,
+      "box": [
+        132,
+        497,
+        538,
+        525
+      ]
+    }
+  ],
+  "seconds": 2.248555999714881,
+  "id": "31599",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

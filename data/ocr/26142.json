@@ -1,0 +1,152 @@
+{
+  "lines": [
+    {
+      "text": "TYLER JACKSON",
+      "score": 0.9997482895851135,
+      "box": [
+        117,
+        90,
+        401,
+        121
+      ]
+    },
+    {
+      "text": "MA, USA | +1-952-644-2834 | tyler.jackson@example.com",
+      "score": 0.9958457350730896,
+      "box": [
+        117,
+        152,
+        658,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9997503161430359,
+      "box": [
+        117,
+        243,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Software Developers, Clearstone Systems, 2019.112022.06",
+      "score": 0.9996238946914673,
+      "box": [
+        115,
+        288,
+        685,
+        318
+      ]
+    },
+    {
+      "text": "- Designed observability platforms",
+      "score": 0.980853796005249,
+      "box": [
+        125,
+        314,
+        444,
+        342
+      ]
+    },
+    {
+      "text": "- Defined integration standards",
+      "score": 0.9946901798248291,
+      "box": [
+        128,
+        339,
+        416,
+        367
+      ]
+    },
+    {
+      "text": "Software Developers, Brightpoint Software, 2016.05—2018.12",
+      "score": 0.9908729195594788,
+      "box": [
+        115,
+        380,
+        686,
+        408
+      ]
+    },
+    {
+      "text": "- Handled file uploads",
+      "score": 0.9919173717498779,
+      "box": [
+        126,
+        408,
+        332,
+        432
+      ]
+    },
+    {
+      "text": "- Reviewed error reports",
+      "score": 0.9794957041740417,
+      "box": [
+        125,
+        430,
+        355,
+        460
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999339580535889,
+      "box": [
+        116,
+        494,
+        268,
+        521
+      ]
+    },
+    {
+      "text": "Master's, Riverwood University, 2014",
+      "score": 0.9936878681182861,
+      "box": [
+        115,
+        540,
+        461,
+        566
+      ]
+    },
+    {
+      "text": "Bachelor's, Pioneer University, 2012",
+      "score": 0.9858648777008057,
+      "box": [
+        117,
+        567,
+        455,
+        591
+      ]
+    },
+    {
+      "text": "•Completed coursework in real-time systems",
+      "score": 0.9889895915985107,
+      "box": [
+        130,
+        592,
+        553,
+        616
+      ]
+    },
+    {
+      "text": "Studied fundamentals of artificial intelligence",
+      "score": 0.9839615225791931,
+      "box": [
+        129,
+        614,
+        561,
+        642
+      ]
+    }
+  ],
+  "seconds": 2.1007598997093737,
+  "id": "26142",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

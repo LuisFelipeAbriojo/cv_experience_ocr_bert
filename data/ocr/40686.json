@@ -1,0 +1,142 @@
+{
+  "lines": [
+    {
+      "text": "KELLY MOON",
+      "score": 0.9985678791999817,
+      "box": [
+        117,
+        91,
+        342,
+        121
+      ]
+    },
+    {
+      "text": "NC, USA | +1-234-996-5124 | kelly.moon@example.com",
+      "score": 0.9940270781517029,
+      "box": [
+        117,
+        152,
+        640,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9997738003730774,
+      "box": [
+        117,
+        243,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Accountants Auditors, CoreLedger Group, 2020.04—2023.01",
+      "score": 0.9837735295295715,
+      "box": [
+        115,
+        288,
+        673,
+        316
+      ]
+    },
+    {
+      "text": "- Directed financial system architecture",
+      "score": 0.9938415288925171,
+      "box": [
+        126,
+        314,
+        489,
+        341
+      ]
+    },
+    {
+      "text": "- Designed audit methodologies",
+      "score": 0.9837431311607361,
+      "box": [
+        127,
+        339,
+        424,
+        368
+      ]
+    },
+    {
+      "text": "Accountants Auditors, FairLedger Group, 2017.062020.04",
+      "score": 0.9942653179168701,
+      "box": [
+        116,
+        380,
+        665,
+        408
+      ]
+    },
+    {
+      "text": "- Reviewed credit memos",
+      "score": 0.9927383065223694,
+      "box": [
+        125,
+        406,
+        366,
+        432
+      ]
+    },
+    {
+      "text": "- Processed accounts receivable transactions",
+      "score": 0.9990772604942322,
+      "box": [
+        127,
+        430,
+        549,
+        456
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999240040779114,
+      "box": [
+        117,
+        494,
+        267,
+        521
+      ]
+    },
+    {
+      "text": "Bachelor's, Financial Planning, Fairview Ridge University, 2019",
+      "score": 0.9966244697570801,
+      "box": [
+        116,
+        540,
+        701,
+        566
+      ]
+    },
+    {
+      "text": "•Studied principles of professional responsibility",
+      "score": 0.9890255928039551,
+      "box": [
+        129,
+        566,
+        580,
+        592
+      ]
+    },
+    {
+      "text": "•Studied fundamentals of auditing",
+      "score": 0.9671644568443298,
+      "box": [
+        130,
+        589,
+        453,
+        617
+      ]
+    }
+  ],
+  "seconds": 2.445516800042242,
+  "id": "40686",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

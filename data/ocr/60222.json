@@ -1,0 +1,142 @@
+{
+  "lines": [
+    {
+      "text": "VALERIE LU",
+      "score": 0.9994441270828247,
+      "box": [
+        116,
+        91,
+        317,
+        122
+      ]
+    },
+    {
+      "text": "WV, USA | +1-408-569-7462 | valerie.lu@example.com",
+      "score": 0.9967326521873474,
+      "box": [
+        115,
+        149,
+        629,
+        177
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9994412064552307,
+      "box": [
+        116,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Registered Nurses, GentleBridge Nursing, 2020.05—2023.01",
+      "score": 0.9936537146568298,
+      "box": [
+        115,
+        288,
+        673,
+        316
+      ]
+    },
+    {
+      "text": "- Developed patient care algorithms",
+      "score": 0.992051899433136,
+      "box": [
+        125,
+        313,
+        459,
+        342
+      ]
+    },
+    {
+      "text": "- Led nursing audit programs",
+      "score": 0.9560744166374207,
+      "box": [
+        127,
+        339,
+        397,
+        369
+      ]
+    },
+    {
+      "text": "Registered Nurses, Caring Bridge Nursing, 2016.092019.05",
+      "score": 0.9880677461624146,
+      "box": [
+        115,
+        379,
+        681,
+        410
+      ]
+    },
+    {
+      "text": "- Recorded patient weight and height",
+      "score": 0.9981778264045715,
+      "box": [
+        124,
+        405,
+        472,
+        434
+      ]
+    },
+    {
+      "text": "- Prepared medical equipment for use",
+      "score": 0.988092303276062,
+      "box": [
+        127,
+        431,
+        478,
+        458
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999057054519653,
+      "box": [
+        117,
+        494,
+        267,
+        521
+      ]
+    },
+    {
+      "text": "Associate's degree, Community Health, Aspen Grove University, 2014",
+      "score": 0.9864305257797241,
+      "box": [
+        117,
+        540,
+        766,
+        567
+      ]
+    },
+    {
+      "text": "•Studied principles of healthcare ethics",
+      "score": 0.9896795153617859,
+      "box": [
+        129,
+        566,
+        499,
+        589
+      ]
+    },
+    {
+      "text": "• Completed coursework in medication safety",
+      "score": 0.984027087688446,
+      "box": [
+        132,
+        592,
+        551,
+        616
+      ]
+    }
+  ],
+  "seconds": 2.5555464001372457,
+  "id": "60222",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

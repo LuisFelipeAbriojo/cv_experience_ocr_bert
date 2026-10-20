@@ -1,0 +1,112 @@
+{
+  "lines": [
+    {
+      "text": "SHONDA BENTLEY",
+      "score": 0.9921960830688477,
+      "box": [
+        117,
+        91,
+        427,
+        122
+      ]
+    },
+    {
+      "text": "MI, USA | +1-323-860-8638 | shonda.bentley@example.com",
+      "score": 0.9943838715553284,
+      "box": [
+        115,
+        149,
+        676,
+        177
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9997300505638123,
+      "box": [
+        117,
+        243,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Harmony Horizons Academy, 2018.04—2020.",
+      "score": 0.9898685812950134,
+      "box": [
+        115,
+        287,
+        880,
+        318
+      ]
+    },
+    {
+      "text": "- Supported standardized testing sessions",
+      "score": 0.99350506067276,
+      "box": [
+        126,
+        315,
+        518,
+        341
+      ]
+    },
+    {
+      "text": "- Administered learning games",
+      "score": 0.9902359247207642,
+      "box": [
+        126,
+        338,
+        414,
+        369
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999591112136841,
+      "box": [
+        116,
+        404,
+        268,
+        431
+      ]
+    },
+    {
+      "text": "Bachelor's, General Academic Studies, Windermere University, 2003",
+      "score": 0.9940861463546753,
+      "box": [
+        115,
+        446,
+        753,
+        474
+      ]
+    },
+    {
+      "text": "Completed coursework in basic instructional coaching",
+      "score": 0.9866064786911011,
+      "box": [
+        129,
+        472,
+        645,
+        501
+      ]
+    },
+    {
+      "text": "•Studied fundamentals of reading comprehension strategies",
+      "score": 0.9813424348831177,
+      "box": [
+        131,
+        496,
+        693,
+        526
+      ]
+    }
+  ],
+  "seconds": 2.2206562999635935,
+  "id": "27011",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

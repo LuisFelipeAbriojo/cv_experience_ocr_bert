@@ -1,0 +1,102 @@
+{
+  "lines": [
+    {
+      "text": "ZANDER HALEY",
+      "score": 0.9824061393737793,
+      "box": [
+        117,
+        91,
+        379,
+        122
+      ]
+    },
+    {
+      "text": "KY, USA | +1-951-233-8001 | zander.haley@example.com",
+      "score": 0.9844964146614075,
+      "box": [
+        115,
+        149,
+        659,
+        177
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9997231960296631,
+      "box": [
+        117,
+        243,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Construction Laborers, NextFrame Construction, 2022.02—2023.01",
+      "score": 0.9907154440879822,
+      "box": [
+        118,
+        290,
+        732,
+        314
+      ]
+    },
+    {
+      "text": "- Prepared surfaces for construction work",
+      "score": 0.9858587384223938,
+      "box": [
+        127,
+        315,
+        511,
+        339
+      ]
+    },
+    {
+      "text": "- Assisted with basic electrical conduit placement",
+      "score": 0.9905031323432922,
+      "box": [
+        126,
+        338,
+        584,
+        366
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999614357948303,
+      "box": [
+        116,
+        404,
+        268,
+        431
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Mechanical Technology, Northcrest High School, 2023",
+      "score": 0.9864654541015625,
+      "box": [
+        116,
+        447,
+        880,
+        474
+      ]
+    },
+    {
+      "text": "•Studied fundamentals of construction quality assurance",
+      "score": 0.9877431988716125,
+      "box": [
+        129,
+        473,
+        660,
+        499
+      ]
+    }
+  ],
+  "seconds": 2.2166237998753786,
+  "id": "22309",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

@@ -1,0 +1,142 @@
+{
+  "lines": [
+    {
+      "text": "JAMIE CHEN",
+      "score": 0.9561605453491211,
+      "box": [
+        114,
+        87,
+        326,
+        123
+      ]
+    },
+    {
+      "text": "CA, USA | +1-250-413-6455 | jamie.chen@example.com",
+      "score": 0.9826450347900391,
+      "box": [
+        118,
+        152,
+        640,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9995961785316467,
+      "box": [
+        116,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Construction Laborers, PrimeStone Contractors, 2021.072023.01",
+      "score": 0.9870810508728027,
+      "box": [
+        118,
+        290,
+        729,
+        314
+      ]
+    },
+    {
+      "text": "- Designed site logistics frameworks",
+      "score": 0.982544481754303,
+      "box": [
+        127,
+        316,
+        461,
+        340
+      ]
+    },
+    {
+      "text": "- Reviewed engineering drawings",
+      "score": 0.9995456337928772,
+      "box": [
+        128,
+        339,
+        437,
+        368
+      ]
+    },
+    {
+      "text": "Construction Laborers, LevelBuild Contractors, 2019.12—2021.07",
+      "score": 0.9921907186508179,
+      "box": [
+        118,
+        382,
+        717,
+        406
+      ]
+    },
+    {
+      "text": "- Helped position heavy materials",
+      "score": 0.9986684322357178,
+      "box": [
+        125,
+        407,
+        438,
+        432
+      ]
+    },
+    {
+      "text": "- Assisted with excavation tasks",
+      "score": 0.976420521736145,
+      "box": [
+        129,
+        433,
+        424,
+        455
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999928891658783,
+      "box": [
+        117,
+        494,
+        268,
+        521
+      ]
+    },
+    {
+      "text": "Bachelor's, Construction Fundamentals, Bright Ridge University, 2023",
+      "score": 0.9932013154029846,
+      "box": [
+        116,
+        540,
+        763,
+        567
+      ]
+    },
+    {
+      "text": "•Studied fundamentals of scaffold safety",
+      "score": 0.9832220077514648,
+      "box": [
+        130,
+        565,
+        512,
+        591
+      ]
+    },
+    {
+      "text": "• Completed coursework in structural basics",
+      "score": 0.996396541595459,
+      "box": [
+        132,
+        592,
+        541,
+        615
+      ]
+    }
+  ],
+  "seconds": 2.521944799926132,
+  "id": "08629",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

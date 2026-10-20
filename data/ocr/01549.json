@@ -1,0 +1,112 @@
+{
+  "lines": [
+    {
+      "text": "KRISTIN TERRY",
+      "score": 0.9996328353881836,
+      "box": [
+        115,
+        88,
+        375,
+        123
+      ]
+    },
+    {
+      "text": "AZ, USA | +1-725-296-4705 | kristin.terry@example.com",
+      "score": 0.97499680519104,
+      "box": [
+        116,
+        149,
+        640,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9994752407073975,
+      "box": [
+        116,
+        243,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Registered Nurses, ClearSpring Health Group, 2022.02—2022.05",
+      "score": 0.9804445505142212,
+      "box": [
+        116,
+        288,
+        715,
+        315
+      ]
+    },
+    {
+      "text": "- Assisted with patient mobility",
+      "score": 0.9862462282180786,
+      "box": [
+        124,
+        312,
+        409,
+        342
+      ]
+    },
+    {
+      "text": "- Recorded patient vital signs",
+      "score": 0.9963447451591492,
+      "box": [
+        125,
+        338,
+        400,
+        368
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999380111694336,
+      "box": [
+        116,
+        404,
+        268,
+        431
+      ]
+    },
+    {
+      "text": "Bachelor's, Health Management, Clearwater University, 2003",
+      "score": 0.988798201084137,
+      "box": [
+        115,
+        446,
+        683,
+        476
+      ]
+    },
+    {
+      "text": "Studied principles of mental health nursing",
+      "score": 0.9887523055076599,
+      "box": [
+        128,
+        472,
+        542,
+        501
+      ]
+    },
+    {
+      "text": "•Studied fundamentals of infection diseases nursing",
+      "score": 0.991548478603363,
+      "box": [
+        131,
+        497,
+        619,
+        525
+      ]
+    }
+  ],
+  "seconds": 2.1521551995538175,
+  "id": "01549",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

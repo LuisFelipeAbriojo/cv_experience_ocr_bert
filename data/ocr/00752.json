@@ -1,0 +1,152 @@
+{
+  "lines": [
+    {
+      "text": "JEANNIE HANNA",
+      "score": 0.9996247887611389,
+      "box": [
+        115,
+        89,
+        392,
+        122
+      ]
+    },
+    {
+      "text": "AL, USA | +1-866-873-9559 | jeannie.hanna@example.com",
+      "score": 0.9825103282928467,
+      "box": [
+        116,
+        150,
+        669,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9991734027862549,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Bright Meadows Academy, 2019.03—2021.06",
+      "score": 0.99049973487854,
+      "box": [
+        115,
+        287,
+        881,
+        319
+      ]
+    },
+    {
+      "text": "- Directed instructional planning processes",
+      "score": 0.9872852563858032,
+      "box": [
+        126,
+        314,
+        522,
+        344
+      ]
+    },
+    {
+      "text": "- Designed curriculum frameworks for grade-level instruction",
+      "score": 0.9948583841323853,
+      "box": [
+        125,
+        338,
+        686,
+        369
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Discovery Start School, 2016.032018.07",
+      "score": 0.9975625872612,
+      "box": [
+        116,
+        381,
+        851,
+        411
+      ]
+    },
+    {
+      "text": "- Conducted reading practice sessions",
+      "score": 0.9887918829917908,
+      "box": [
+        127,
+        409,
+        484,
+        433
+      ]
+    },
+    {
+      "text": "- Recorded student progress data",
+      "score": 0.9827196002006531,
+      "box": [
+        127,
+        431,
+        441,
+        459
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999525547027588,
+      "box": [
+        116,
+        494,
+        268,
+        521
+      ]
+    },
+    {
+      "text": "Master's, Child and Family Studies, Rockland University, 2006",
+      "score": 0.9961495995521545,
+      "box": [
+        116,
+        541,
+        690,
+        565
+      ]
+    },
+    {
+      "text": "Bachelor's, Human Development, Brightfield University, 2004",
+      "score": 0.9815908670425415,
+      "box": [
+        116,
+        566,
+        682,
+        592
+      ]
+    },
+    {
+      "text": "• Completed coursework in instructional adaptation",
+      "score": 0.9746617078781128,
+      "box": [
+        130,
+        592,
+        604,
+        618
+      ]
+    },
+    {
+      "text": "Completed coursework in reading fluency strategies",
+      "score": 0.9864212870597839,
+      "box": [
+        132,
+        613,
+        627,
+        646
+      ]
+    }
+  ],
+  "seconds": 2.5538902999833226,
+  "id": "00752",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

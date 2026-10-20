@@ -1,0 +1,102 @@
+{
+  "lines": [
+    {
+      "text": "JESUS FRIEDMAN",
+      "score": 0.9997788071632385,
+      "box": [
+        116,
+        91,
+        414,
+        122
+      ]
+    },
+    {
+      "text": "IA, USA | +1-336-402-9591 | jesus.friedman@example.com",
+      "score": 0.9865471720695496,
+      "box": [
+        118,
+        152,
+        667,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9997474551200867,
+      "box": [
+        117,
+        243,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Construction Laborers, SolidRise Construction, 2021.01—2023.01",
+      "score": 0.9835975170135498,
+      "box": [
+        118,
+        290,
+        718,
+        314
+      ]
+    },
+    {
+      "text": "- Installed temporary site barriers",
+      "score": 0.9821851253509521,
+      "box": [
+        126,
+        314,
+        435,
+        341
+      ]
+    },
+    {
+      "text": "- Supported crew leaders during tasks",
+      "score": 0.9859635829925537,
+      "box": [
+        127,
+        339,
+        481,
+        367
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999497532844543,
+      "box": [
+        116,
+        404,
+        268,
+        431
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Construction Skills, Meadowcrest High School, 2022",
+      "score": 0.9975982308387756,
+      "box": [
+        116,
+        446,
+        861,
+        475
+      ]
+    },
+    {
+      "text": "•Studied principles of weatherproofing basics",
+      "score": 0.9854162335395813,
+      "box": [
+        131,
+        475,
+        556,
+        499
+      ]
+    }
+  ],
+  "seconds": 1.9383669001981616,
+  "id": "21110",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

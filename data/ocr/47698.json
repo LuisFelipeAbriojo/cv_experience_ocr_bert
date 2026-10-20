@@ -1,0 +1,122 @@
+{
+  "lines": [
+    {
+      "text": "AUBREY GOULD",
+      "score": 0.9745402336120605,
+      "box": [
+        118,
+        90,
+        388,
+        121
+      ]
+    },
+    {
+      "text": "SC, USA | +1-956-961-9270 | aubrey.gould@example.com",
+      "score": 0.9757140278816223,
+      "box": [
+        117,
+        150,
+        661,
+        177
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9997307658195496,
+      "box": [
+        117,
+        243,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Growing Start Academy, 2020.06—2023.01",
+      "score": 0.9949580430984497,
+      "box": [
+        116,
+        288,
+        856,
+        316
+      ]
+    },
+    {
+      "text": "- Reviewed learning standards",
+      "score": 0.9991555213928223,
+      "box": [
+        126,
+        314,
+        411,
+        341
+      ]
+    },
+    {
+      "text": "- Prepared lesson summaries",
+      "score": 0.9772334694862366,
+      "box": [
+        126,
+        339,
+        403,
+        367
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999932050704956,
+      "box": [
+        116,
+        404,
+        268,
+        431
+      ]
+    },
+    {
+      "text": "Master's, Youth Development, Northway University, 2021",
+      "score": 0.9954783320426941,
+      "box": [
+        116,
+        448,
+        645,
+        475
+      ]
+    },
+    {
+      "text": "Bachelor's, Educational Practice, Evergreen University, 2019",
+      "score": 0.974388837814331,
+      "box": [
+        115,
+        472,
+        680,
+        500
+      ]
+    },
+    {
+      "text": "• Completed coursework in writing instruction",
+      "score": 0.994342029094696,
+      "box": [
+        133,
+        500,
+        552,
+        524
+      ]
+    },
+    {
+      "text": "Completed coursework in foundational teaching practices",
+      "score": 0.9997809529304504,
+      "box": [
+        132,
+        521,
+        677,
+        550
+      ]
+    }
+  ],
+  "seconds": 2.1975310002453625,
+  "id": "47698",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

@@ -1,0 +1,182 @@
+{
+  "lines": [
+    {
+      "text": "JACOB HARRISON",
+      "score": 0.999646782875061,
+      "box": [
+        116,
+        91,
+        422,
+        122
+      ]
+    },
+    {
+      "text": "CA, USA | +1-405-693-1870 | jacob.harrison@example.com",
+      "score": 0.9937617182731628,
+      "box": [
+        116,
+        150,
+        672,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9991753101348877,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Kind Grove School, 2020.11-2023.01",
+      "score": 0.9789992570877075,
+      "box": [
+        116,
+        288,
+        811,
+        317
+      ]
+    },
+    {
+      "text": "- Designed instructional accountability systems",
+      "score": 0.9907630681991577,
+      "box": [
+        125,
+        314,
+        563,
+        343
+      ]
+    },
+    {
+      "text": "- Designed curriculum frameworks for grade-level instruction",
+      "score": 0.9894931316375732,
+      "box": [
+        128,
+        341,
+        685,
+        368
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Harmony Meadow Academy, 2018.09—2020.11",
+      "score": 0.9873760342597961,
+      "box": [
+        116,
+        381,
+        900,
+        411
+      ]
+    },
+    {
+      "text": "- Managed instructional timelines",
+      "score": 0.9861614108085632,
+      "box": [
+        125,
+        406,
+        436,
+        435
+      ]
+    },
+    {
+      "text": "- Designed learning activities",
+      "score": 0.9768040180206299,
+      "box": [
+        126,
+        431,
+        397,
+        460
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Caring Tree School, 2016.06—2018.09",
+      "score": 0.9805989861488342,
+      "box": [
+        118,
+        472,
+        818,
+        499
+      ]
+    },
+    {
+      "text": "- Implemented basic literacy lessons",
+      "score": 0.9858677387237549,
+      "box": [
+        126,
+        497,
+        466,
+        526
+      ]
+    },
+    {
+      "text": "- Implemented classroom seating plans",
+      "score": 0.9985288381576538,
+      "box": [
+        128,
+        521,
+        493,
+        551
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999150037765503,
+      "box": [
+        117,
+        587,
+        267,
+        614
+      ]
+    },
+    {
+      "text": "Master's, Educational Practice, Hillview University, 2021",
+      "score": 0.9905124306678772,
+      "box": [
+        116,
+        632,
+        633,
+        658
+      ]
+    },
+    {
+      "text": "Bachelor's, Education Preparation, Springfield University, 2019",
+      "score": 0.9945651292800903,
+      "box": [
+        115,
+        656,
+        700,
+        684
+      ]
+    },
+    {
+      "text": "• Studied principles of formative assessment",
+      "score": 0.9917751550674438,
+      "box": [
+        131,
+        684,
+        546,
+        708
+      ]
+    },
+    {
+      "text": "Studied principles of student support systems",
+      "score": 0.9920226335525513,
+      "box": [
+        130,
+        705,
+        570,
+        738
+      ]
+    }
+  ],
+  "seconds": 2.705861599650234,
+  "id": "02838",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

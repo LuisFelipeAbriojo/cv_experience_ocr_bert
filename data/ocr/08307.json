@@ -1,0 +1,142 @@
+{
+  "lines": [
+    {
+      "text": "SALVADOR RAY",
+      "score": 0.9998655915260315,
+      "box": [
+        115,
+        87,
+        387,
+        123
+      ]
+    },
+    {
+      "text": "CA, USA | +1-258-953-1440 | salvador.ray@example.com",
+      "score": 0.9860421419143677,
+      "box": [
+        117,
+        150,
+        655,
+        177
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9963448643684387,
+      "box": [
+        115,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Software Developers, Stonecrest Tech, 2021.05—2023.01",
+      "score": 0.9889006614685059,
+      "box": [
+        117,
+        290,
+        647,
+        314
+      ]
+    },
+    {
+      "text": "- Led technical audits",
+      "score": 0.9811591506004333,
+      "box": [
+        126,
+        314,
+        328,
+        340
+      ]
+    },
+    {
+      "text": "- Led backend platform development",
+      "score": 0.9907976984977722,
+      "box": [
+        127,
+        338,
+        469,
+        366
+      ]
+    },
+    {
+      "text": "Software Developers, Cloudpath Labs, 2018.012019.10",
+      "score": 0.9962050318717957,
+      "box": [
+        117,
+        382,
+        643,
+        406
+      ]
+    },
+    {
+      "text": "- Handled file uploads",
+      "score": 0.959756076335907,
+      "box": [
+        125,
+        405,
+        332,
+        433
+      ]
+    },
+    {
+      "text": "- Reviewed error reports",
+      "score": 0.9938435554504395,
+      "box": [
+        125,
+        429,
+        355,
+        460
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9998941421508789,
+      "box": [
+        116,
+        494,
+        268,
+        521
+      ]
+    },
+    {
+      "text": "Bachelor's, Sagewood University, 2010",
+      "score": 0.9752092957496643,
+      "box": [
+        117,
+        541,
+        481,
+        565
+      ]
+    },
+    {
+      "text": "Completed coursework in accessibility standards",
+      "score": 0.9917093515396118,
+      "box": [
+        131,
+        564,
+        599,
+        592
+      ]
+    },
+    {
+      "text": "• Completed coursework in network security",
+      "score": 0.9924611449241638,
+      "box": [
+        132,
+        591,
+        540,
+        617
+      ]
+    }
+  ],
+  "seconds": 2.2948409002274275,
+  "id": "08307",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

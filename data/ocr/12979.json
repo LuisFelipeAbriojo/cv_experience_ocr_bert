@@ -1,0 +1,182 @@
+{
+  "lines": [
+    {
+      "text": "SHANA HAWKINS",
+      "score": 0.9968942403793335,
+      "box": [
+        116,
+        89,
+        406,
+        122
+      ]
+    },
+    {
+      "text": "FL, USA | +1-471-555-5564 | shana.hawkins@example.com",
+      "score": 0.979303777217865,
+      "box": [
+        117,
+        151,
+        674,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9988901019096375,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, SolidBalance Services, 2020.122023.01",
+      "score": 0.9983079433441162,
+      "box": [
+        117,
+        290,
+        706,
+        314
+      ]
+    },
+    {
+      "text": "- Led audit programs",
+      "score": 0.999528706073761,
+      "box": [
+        126,
+        315,
+        323,
+        342
+      ]
+    },
+    {
+      "text": "- Established tax compliance frameworks",
+      "score": 0.9871701002120972,
+      "box": [
+        127,
+        340,
+        508,
+        365
+      ]
+    },
+    {
+      "text": "Accountants Auditors, OpenBooks Accounting, 2018.112020.12",
+      "score": 0.997911810874939,
+      "box": [
+        117,
+        383,
+        719,
+        407
+      ]
+    },
+    {
+      "text": "- Reviewed financial systems data",
+      "score": 0.9971949458122253,
+      "box": [
+        125,
+        407,
+        446,
+        433
+      ]
+    },
+    {
+      "text": "- Developed audit plans",
+      "score": 0.9812694787979126,
+      "box": [
+        128,
+        432,
+        350,
+        459
+      ]
+    },
+    {
+      "text": "Accountants Auditors, SteadyCount Group, 2016.09—2018.11",
+      "score": 0.9954294562339783,
+      "box": [
+        115,
+        471,
+        683,
+        499
+      ]
+    },
+    {
+      "text": "- Assisted with monthly close procedures",
+      "score": 0.9863777160644531,
+      "box": [
+        125,
+        497,
+        509,
+        526
+      ]
+    },
+    {
+      "text": "- Assisted with regulatory filings",
+      "score": 0.9761008024215698,
+      "box": [
+        128,
+        521,
+        423,
+        551
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999473094940186,
+      "box": [
+        118,
+        588,
+        266,
+        612
+      ]
+    },
+    {
+      "text": "Master's, Business Law, Pine Valley University, 2019",
+      "score": 0.9730432033538818,
+      "box": [
+        116,
+        632,
+        609,
+        659
+      ]
+    },
+    {
+      "text": "Bachelor's, Taxation, Morningstar University, 2017",
+      "score": 0.9909728765487671,
+      "box": [
+        116,
+        657,
+        585,
+        684
+      ]
+    },
+    {
+      "text": "•Completed coursework in accounting controls testing",
+      "score": 0.9825401306152344,
+      "box": [
+        131,
+        681,
+        636,
+        710
+      ]
+    },
+    {
+      "text": "•Studied principles of financial ratio analysis",
+      "score": 0.968969464302063,
+      "box": [
+        132,
+        706,
+        547,
+        735
+      ]
+    }
+  ],
+  "seconds": 2.6721024001017213,
+  "id": "12979",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

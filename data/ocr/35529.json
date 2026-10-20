@@ -1,0 +1,142 @@
+{
+  "lines": [
+    {
+      "text": "YISROEL LAMBERT",
+      "score": 0.9995620250701904,
+      "box": [
+        118,
+        91,
+        438,
+        121
+      ]
+    },
+    {
+      "text": "NY, USA | +1-246-720-2281 | yisroel.lambert@example.com",
+      "score": 0.9622225165367126,
+      "box": [
+        117,
+        152,
+        676,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9990894794464111,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, TrustLedger Financial, 2020.112023.01",
+      "score": 0.9884521961212158,
+      "box": [
+        115,
+        288,
+        701,
+        316
+      ]
+    },
+    {
+      "text": "- Established compliance monitoring systems",
+      "score": 0.9945775270462036,
+      "box": [
+        126,
+        315,
+        546,
+        341
+      ]
+    },
+    {
+      "text": "- Directed budget planning cycles",
+      "score": 0.9814439415931702,
+      "box": [
+        127,
+        338,
+        439,
+        369
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Balanced Books Financial, 2018.09—2020.11",
+      "score": 0.9892001152038574,
+      "box": [
+        116,
+        380,
+        740,
+        408
+      ]
+    },
+    {
+      "text": "- Compiled audit evidence",
+      "score": 0.9988967776298523,
+      "box": [
+        125,
+        407,
+        371,
+        432
+      ]
+    },
+    {
+      "text": "- Assisted with audit fieldwork",
+      "score": 0.9921807646751404,
+      "box": [
+        129,
+        433,
+        404,
+        455
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999422430992126,
+      "box": [
+        116,
+        494,
+        268,
+        521
+      ]
+    },
+    {
+      "text": "Bachelor's, Financial Planning, Skycrest University, 2019",
+      "score": 0.9882049560546875,
+      "box": [
+        115,
+        539,
+        644,
+        567
+      ]
+    },
+    {
+      "text": "• Completed coursework in macroeconomics",
+      "score": 0.9955617785453796,
+      "box": [
+        132,
+        566,
+        548,
+        592
+      ]
+    },
+    {
+      "text": "• Completed coursework in accounting information systems",
+      "score": 0.9965119957923889,
+      "box": [
+        132,
+        591,
+        680,
+        616
+      ]
+    }
+  ],
+  "seconds": 2.2268290002830327,
+  "id": "35529",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

@@ -1,0 +1,172 @@
+{
+  "lines": [
+    {
+      "text": "JACQUELINE BLACKBURN",
+      "score": 0.9998975992202759,
+      "box": [
+        116,
+        91,
+        556,
+        121
+      ]
+    },
+    {
+      "text": "IL, USA | +1-363-784-8861 | jacqueline.blackburn@example.com",
+      "score": 0.9842768311500549,
+      "box": [
+        118,
+        152,
+        719,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9991269111633301,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, FirmRise Construction, 2020.05—2023.01",
+      "score": 0.9901033043861389,
+      "box": [
+        117,
+        289,
+        712,
+        314
+      ]
+    },
+    {
+      "text": "- Developed cost estimation models",
+      "score": 0.9911753535270691,
+      "box": [
+        126,
+        315,
+        459,
+        340
+      ]
+    },
+    {
+      "text": "- Developed construction workflows",
+      "score": 0.9755381345748901,
+      "box": [
+        128,
+        340,
+        457,
+        366
+      ]
+    },
+    {
+      "text": "Construction Laborers, MasterFrame Builders, 2017.09—2020.05",
+      "score": 0.9875653386116028,
+      "box": [
+        116,
+        380,
+        714,
+        408
+      ]
+    },
+    {
+      "text": "- Coordinated material deliveries",
+      "score": 0.9884837865829468,
+      "box": [
+        126,
+        408,
+        430,
+        432
+      ]
+    },
+    {
+      "text": "- Coordinated task assignments",
+      "score": 0.9981592893600464,
+      "box": [
+        128,
+        431,
+        423,
+        457
+      ]
+    },
+    {
+      "text": "Construction Laborers, SolidCraft Contractors, 2013.05—2016.01",
+      "score": 0.9881057143211365,
+      "box": [
+        118,
+        473,
+        711,
+        497
+      ]
+    },
+    {
+      "text": "- Assisted with framing support",
+      "score": 0.9723861217498779,
+      "box": [
+        125,
+        496,
+        418,
+        526
+      ]
+    },
+    {
+      "text": "- Secured site fencing",
+      "score": 0.9732967615127563,
+      "box": [
+        126,
+        520,
+        332,
+        551
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999518990516663,
+      "box": [
+        118,
+        588,
+        266,
+        612
+      ]
+    },
+    {
+      "text": "Some college (no degree), Industrial Maintenance, Clearhaven University, 2005",
+      "score": 0.9888805747032166,
+      "box": [
+        117,
+        632,
+        853,
+        659
+      ]
+    },
+    {
+      "text": "•Completed coursework in construction materials handling",
+      "score": 0.980828583240509,
+      "box": [
+        130,
+        656,
+        677,
+        685
+      ]
+    },
+    {
+      "text": "Completed coursework in basic site grading",
+      "score": 0.9979620575904846,
+      "box": [
+        132,
+        680,
+        553,
+        710
+      ]
+    }
+  ],
+  "seconds": 2.657116500195116,
+  "id": "17742",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

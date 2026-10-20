@@ -1,0 +1,112 @@
+{
+  "lines": [
+    {
+      "text": "HUNTER DOYLE",
+      "score": 0.9993140697479248,
+      "box": [
+        115,
+        87,
+        383,
+        123
+      ]
+    },
+    {
+      "text": "MN, USA | +1-897-311-1698 | hunter.doyle@example.com",
+      "score": 0.990583062171936,
+      "box": [
+        115,
+        149,
+        659,
+        177
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.999339759349823,
+      "box": [
+        116,
+        243,
+        317,
+        270
+      ]
+    },
+    {
+      "text": "Construction Laborers, SolidForm Contractors, 2021.06—2023.01",
+      "score": 0.9917842149734497,
+      "box": [
+        118,
+        290,
+        716,
+        314
+      ]
+    },
+    {
+      "text": "- Loaded and unloaded construction materials",
+      "score": 0.999067485332489,
+      "box": [
+        126,
+        314,
+        553,
+        339
+      ]
+    },
+    {
+      "text": "- Performed basic demolition tasks",
+      "score": 0.9861118197441101,
+      "box": [
+        127,
+        339,
+        450,
+        364
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999375939369202,
+      "box": [
+        116,
+        404,
+        268,
+        431
+      ]
+    },
+    {
+      "text": "Bachelor's, Construction Drafting, Goldenridge University, 2019",
+      "score": 0.9994871020317078,
+      "box": [
+        115,
+        446,
+        704,
+        475
+      ]
+    },
+    {
+      "text": "Completed coursework in construction site security",
+      "score": 0.9957356452941895,
+      "box": [
+        131,
+        472,
+        618,
+        500
+      ]
+    },
+    {
+      "text": "Completed coursework in basic plastering",
+      "score": 0.999585747718811,
+      "box": [
+        132,
+        497,
+        535,
+        527
+      ]
+    }
+  ],
+  "seconds": 1.9985648998990655,
+  "id": "29498",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

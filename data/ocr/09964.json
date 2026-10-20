@@ -1,0 +1,202 @@
+{
+  "lines": [
+    {
+      "text": "RON BLANCHARD",
+      "score": 0.9871543645858765,
+      "box": [
+        117,
+        91,
+        414,
+        121
+      ]
+    },
+    {
+      "text": "CO, USA | +1-413-670-8403 | ron.blanchard@example.com",
+      "score": 0.9858425855636597,
+      "box": [
+        118,
+        152,
+        670,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9986518025398254,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Skybridge Labs, 2020.04—2023.01",
+      "score": 0.9871978163719177,
+      "box": [
+        116,
+        290,
+        639,
+        317
+      ]
+    },
+    {
+      "text": "- Defined data governance policies",
+      "score": 0.9946131706237793,
+      "box": [
+        125,
+        314,
+        451,
+        342
+      ]
+    },
+    {
+      "text": "- Led technical audits",
+      "score": 0.9825440049171448,
+      "box": [
+        129,
+        339,
+        326,
+        365
+      ]
+    },
+    {
+      "text": "Software Developers, Openpoint Tech, 2017.062020.04",
+      "score": 0.9863228797912598,
+      "box": [
+        116,
+        382,
+        646,
+        409
+      ]
+    },
+    {
+      "text": "- Led database design efforts",
+      "score": 0.9980402588844299,
+      "box": [
+        129,
+        409,
+        400,
+        433
+      ]
+    },
+    {
+      "text": "- Designed event-driven architectures",
+      "score": 0.996309757232666,
+      "box": [
+        129,
+        434,
+        476,
+        457
+      ]
+    },
+    {
+      "text": "Software Developers, Openfield Labs, 2014.022016.12",
+      "score": 0.9831455945968628,
+      "box": [
+        117,
+        472,
+        639,
+        499
+      ]
+    },
+    {
+      "text": "- Developed access control logic",
+      "score": 0.9905362129211426,
+      "box": [
+        126,
+        497,
+        431,
+        525
+      ]
+    },
+    {
+      "text": "- Designed application modules",
+      "score": 0.9850817322731018,
+      "box": [
+        127,
+        521,
+        422,
+        552
+      ]
+    },
+    {
+      "text": "Software Developers, Cleargrid Systems, 2010.102013.08",
+      "score": 0.9887771010398865,
+      "box": [
+        117,
+        565,
+        668,
+        592
+      ]
+    },
+    {
+      "text": "- Wrote configuration parsers",
+      "score": 0.9706068634986877,
+      "box": [
+        126,
+        589,
+        400,
+        619
+      ]
+    },
+    {
+      "text": "- Debugged runtime errors",
+      "score": 0.9864137172698975,
+      "box": [
+        126,
+        614,
+        375,
+        643
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9998700022697449,
+      "box": [
+        117,
+        681,
+        266,
+        705
+      ]
+    },
+    {
+      "text": "Bachelor's, Meadowland University, 2003",
+      "score": 0.9994010925292969,
+      "box": [
+        116,
+        724,
+        501,
+        750
+      ]
+    },
+    {
+      "text": "•Completed coursework in data structures and algorithms",
+      "score": 0.9858978986740112,
+      "box": [
+        131,
+        749,
+        670,
+        776
+      ]
+    },
+    {
+      "text": "•Studied fundamentals of search algorithms",
+      "score": 0.9924891591072083,
+      "box": [
+        132,
+        773,
+        544,
+        799
+      ]
+    }
+  ],
+  "seconds": 2.569874499924481,
+  "id": "09964",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

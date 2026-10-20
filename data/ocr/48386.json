@@ -1,0 +1,142 @@
+{
+  "lines": [
+    {
+      "text": "DUSTAN WEST",
+      "score": 0.9993003606796265,
+      "box": [
+        118,
+        91,
+        363,
+        122
+      ]
+    },
+    {
+      "text": "TN, USA | +1-382-319-4556 | dustan.west@example.com",
+      "score": 0.9888055324554443,
+      "box": [
+        117,
+        149,
+        651,
+        177
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9997708201408386,
+      "box": [
+        117,
+        243,
+        315,
+        270
+      ]
+    },
+    {
+      "text": "Software Developers, Clearstack Labs, 2021.022023.01",
+      "score": 0.994653582572937,
+      "box": [
+        117,
+        290,
+        644,
+        314
+      ]
+    },
+    {
+      "text": "- Designed caching infrastructures",
+      "score": 0.9857040643692017,
+      "box": [
+        127,
+        315,
+        446,
+        341
+      ]
+    },
+    {
+      "text": "- Designed deployment strategies",
+      "score": 0.9994820356369019,
+      "box": [
+        128,
+        339,
+        441,
+        368
+      ]
+    },
+    {
+      "text": "Software Developers, Datastream Solutions, 2016.08—2018.07",
+      "score": 0.9817968010902405,
+      "box": [
+        116,
+        380,
+        696,
+        408
+      ]
+    },
+    {
+      "text": "- Assisted with container setup",
+      "score": 0.9819578528404236,
+      "box": [
+        124,
+        403,
+        414,
+        435
+      ]
+    },
+    {
+      "text": "- Resolved merge conflicts",
+      "score": 0.9985466599464417,
+      "box": [
+        125,
+        430,
+        376,
+        460
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999170303344727,
+      "box": [
+        117,
+        494,
+        267,
+        521
+      ]
+    },
+    {
+      "text": "Bachelor's, Meadowridge Valley University, 2003",
+      "score": 0.9909490942955017,
+      "box": [
+        117,
+        542,
+        568,
+        566
+      ]
+    },
+    {
+      "text": "• Completed coursework in database systems",
+      "score": 0.9834851026535034,
+      "box": [
+        132,
+        566,
+        558,
+        591
+      ]
+    },
+    {
+      "text": "• Completed coursework in numerical methods",
+      "score": 0.9852295517921448,
+      "box": [
+        133,
+        592,
+        565,
+        615
+      ]
+    }
+  ],
+  "seconds": 2.3427471998147666,
+  "id": "48386",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

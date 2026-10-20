@@ -1,0 +1,172 @@
+{
+  "lines": [
+    {
+      "text": "ROBERT HESS",
+      "score": 0.9703000783920288,
+      "box": [
+        117,
+        91,
+        359,
+        122
+      ]
+    },
+    {
+      "text": "IL, USA | +1-454-645-1348 | robert.hess@example.com",
+      "score": 0.9776089191436768,
+      "box": [
+        118,
+        152,
+        632,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9991269111633301,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, TrueBalance Financial, 2021.012023.01",
+      "score": 0.9997110962867737,
+      "box": [
+        116,
+        289,
+        706,
+        315
+      ]
+    },
+    {
+      "text": "- Directed accounting system implementations",
+      "score": 0.9954712390899658,
+      "box": [
+        125,
+        314,
+        557,
+        343
+      ]
+    },
+    {
+      "text": "- Led financial forecasting initiatives",
+      "score": 0.9877570867538452,
+      "box": [
+        127,
+        339,
+        460,
+        368
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Precise Ledger Group, 2018.05—2020.05",
+      "score": 0.9941887855529785,
+      "box": [
+        116,
+        382,
+        704,
+        408
+      ]
+    },
+    {
+      "text": "- Conducted account reconciliations",
+      "score": 0.9991969466209412,
+      "box": [
+        125,
+        408,
+        460,
+        433
+      ]
+    },
+    {
+      "text": "- Supervised junior accountants",
+      "score": 0.9917758703231812,
+      "box": [
+        127,
+        431,
+        422,
+        459
+      ]
+    },
+    {
+      "text": "Accountants Auditors, ClearCount Services, 2015.052017.06",
+      "score": 0.9973127245903015,
+      "box": [
+        117,
+        473,
+        692,
+        497
+      ]
+    },
+    {
+      "text": "- Reconciled bank statements",
+      "score": 0.9964433908462524,
+      "box": [
+        126,
+        497,
+        405,
+        522
+      ]
+    },
+    {
+      "text": "- Reviewed account balances",
+      "score": 0.9819640517234802,
+      "box": [
+        127,
+        521,
+        403,
+        548
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999518990516663,
+      "box": [
+        118,
+        588,
+        266,
+        612
+      ]
+    },
+    {
+      "text": "Bachelor's, Strategic Management, Lakeside University, 2011",
+      "score": 0.9928276538848877,
+      "box": [
+        117,
+        632,
+        685,
+        659
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of quantitative analysis",
+      "score": 0.9847137928009033,
+      "box": [
+        129,
+        658,
+        565,
+        682
+      ]
+    },
+    {
+      "text": "•Completed coursework in segment reporting",
+      "score": 0.9896937012672424,
+      "box": [
+        132,
+        681,
+        558,
+        710
+      ]
+    }
+  ],
+  "seconds": 2.6537854997441173,
+  "id": "17977",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

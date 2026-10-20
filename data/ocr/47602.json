@@ -1,0 +1,172 @@
+{
+  "lines": [
+    {
+      "text": "ALICIA EVANS",
+      "score": 0.9998076558113098,
+      "box": [
+        117,
+        91,
+        354,
+        122
+      ]
+    },
+    {
+      "text": "SC, USA | +1-929-604-9185 | alicia.evans@example.com",
+      "score": 0.9743168950080872,
+      "box": [
+        118,
+        152,
+        648,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9949454665184021,
+      "box": [
+        117,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, EverHands Health Services, 2019.122023.01",
+      "score": 0.9891455769538879,
+      "box": [
+        118,
+        290,
+        729,
+        314
+      ]
+    },
+    {
+      "text": "- Led nursing workflow optimization",
+      "score": 0.9734693169593811,
+      "box": [
+        127,
+        314,
+        455,
+        342
+      ]
+    },
+    {
+      "text": "- Managed clinical risk assessments",
+      "score": 0.9946661591529846,
+      "box": [
+        128,
+        340,
+        462,
+        366
+      ]
+    },
+    {
+      "text": "Registered Nurses, Helping Heart Nursing, 2016.112019.12",
+      "score": 0.9846192598342896,
+      "box": [
+        117,
+        382,
+        682,
+        409
+      ]
+    },
+    {
+      "text": "- Supervised junior nursing staff",
+      "score": 0.9856545329093933,
+      "box": [
+        124,
+        406,
+        426,
+        434
+      ]
+    },
+    {
+      "text": "- Conducted clinical audits",
+      "score": 0.9985697269439697,
+      "box": [
+        126,
+        431,
+        374,
+        456
+      ]
+    },
+    {
+      "text": "Registered Nurses, NewLife Care Center, 2011.06—2014.07",
+      "score": 0.9845584034919739,
+      "box": [
+        118,
+        473,
+        670,
+        497
+      ]
+    },
+    {
+      "text": "- Checked patient identification",
+      "score": 0.9762707948684692,
+      "box": [
+        126,
+        496,
+        417,
+        524
+      ]
+    },
+    {
+      "text": "- Updated patient medical records",
+      "score": 0.9996460676193237,
+      "box": [
+        128,
+        521,
+        443,
+        549
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999371767044067,
+      "box": [
+        118,
+        588,
+        266,
+        612
+      ]
+    },
+    {
+      "text": "Bachelor's, Health Promotion, Forestview University, 2008",
+      "score": 0.9971123933792114,
+      "box": [
+        118,
+        633,
+        654,
+        657
+      ]
+    },
+    {
+      "text": "•Studied principles of chronic disease management",
+      "score": 0.9867937564849854,
+      "box": [
+        129,
+        657,
+        617,
+        685
+      ]
+    },
+    {
+      "text": "Completed coursework in human anatomy and physiology",
+      "score": 0.9803758263587952,
+      "box": [
+        131,
+        680,
+        683,
+        711
+      ]
+    }
+  ],
+  "seconds": 2.8738836999982595,
+  "id": "47602",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

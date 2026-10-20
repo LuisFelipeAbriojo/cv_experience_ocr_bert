@@ -1,0 +1,192 @@
+{
+  "lines": [
+    {
+      "text": "ERIC ODOM",
+      "score": 0.9892076849937439,
+      "box": [
+        118,
+        92,
+        310,
+        120
+      ]
+    },
+    {
+      "text": "WI, USA | +1-383-259-5937 | eric.odom@example.com",
+      "score": 0.981817901134491,
+      "box": [
+        117,
+        151,
+        628,
+        177
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.998914897441864,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, HardWay Builders, 2019.05—2023.01",
+      "score": 0.9789347648620605,
+      "box": [
+        118,
+        291,
+        675,
+        315
+      ]
+    },
+    {
+      "text": "- Developed long-term construction strategies",
+      "score": 0.9947012066841125,
+      "box": [
+        127,
+        317,
+        550,
+        341
+      ]
+    },
+    {
+      "text": "- Reviewed and approved project plans",
+      "score": 0.9912808537483215,
+      "box": [
+        128,
+        341,
+        491,
+        367
+      ]
+    },
+    {
+      "text": "Construction Laborers, BuildRight Contractors, 2015.082019.05",
+      "score": 0.9915206432342529,
+      "box": [
+        118,
+        383,
+        717,
+        407
+      ]
+    },
+    {
+      "text": "- Developed project risk assessments",
+      "score": 0.9854247570037842,
+      "box": [
+        126,
+        408,
+        476,
+        433
+      ]
+    },
+    {
+      "text": "- Supervised foundation installations",
+      "score": 0.9806798696517944,
+      "box": [
+        128,
+        432,
+        465,
+        457
+      ]
+    },
+    {
+      "text": "Construction Laborers, TrueWay Builders, 2011.11—2015.08",
+      "score": 0.9757515788078308,
+      "box": [
+        116,
+        471,
+        675,
+        499
+      ]
+    },
+    {
+      "text": "- Prepared scaffolding inspections",
+      "score": 0.9956986904144287,
+      "box": [
+        126,
+        497,
+        445,
+        525
+      ]
+    },
+    {
+      "text": "- Installed ceiling systems",
+      "score": 0.9988181591033936,
+      "box": [
+        128,
+        522,
+        367,
+        550
+      ]
+    },
+    {
+      "text": "Construction Laborers, Reliable Line Co., 2005.12—2009.09",
+      "score": 0.9924025535583496,
+      "box": [
+        118,
+        566,
+        667,
+        589
+      ]
+    },
+    {
+      "text": "- Applied basic sealants and adhesives",
+      "score": 0.9935848116874695,
+      "box": [
+        127,
+        592,
+        491,
+        615
+      ]
+    },
+    {
+      "text": "- Assisted with framing support",
+      "score": 0.992150068283081,
+      "box": [
+        127,
+        614,
+        417,
+        643
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999275207519531,
+      "box": [
+        117,
+        681,
+        266,
+        705
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Construction Logistics, Forest Ridge High School, 2001",
+      "score": 0.9897859692573547,
+      "box": [
+        117,
+        724,
+        887,
+        750
+      ]
+    },
+    {
+      "text": "• Completed coursework in building layout techniques",
+      "score": 0.976922333240509,
+      "box": [
+        132,
+        749,
+        628,
+        773
+      ]
+    }
+  ],
+  "seconds": 2.721874499693513,
+  "id": "60247",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

@@ -1,0 +1,102 @@
+{
+  "lines": [
+    {
+      "text": "ERIC DANIELS",
+      "score": 0.9996311664581299,
+      "box": [
+        117,
+        89,
+        354,
+        123
+      ]
+    },
+    {
+      "text": "OK, USA | +1-495-307-4091 | eric.daniels@example.com",
+      "score": 0.9803228378295898,
+      "box": [
+        117,
+        150,
+        648,
+        177
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9993350505828857,
+      "box": [
+        116,
+        243,
+        317,
+        270
+      ]
+    },
+    {
+      "text": "Construction Laborers, HardLine Construction, 2021.01—2022.06",
+      "score": 0.9874679446220398,
+      "box": [
+        116,
+        287,
+        716,
+        315
+      ]
+    },
+    {
+      "text": "- Installed insulation materials",
+      "score": 0.9992215633392334,
+      "box": [
+        126,
+        314,
+        406,
+        339
+      ]
+    },
+    {
+      "text": "- Assisted with equipment maintenance",
+      "score": 0.9856266379356384,
+      "box": [
+        128,
+        340,
+        493,
+        366
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999934732913971,
+      "box": [
+        116,
+        404,
+        268,
+        431
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Masonry, Elmwood Ridge High School, 2018",
+      "score": 0.9868268966674805,
+      "box": [
+        115,
+        446,
+        793,
+        476
+      ]
+    },
+    {
+      "text": "Studied fundamentals of scaffolding assembly",
+      "score": 0.9976902008056641,
+      "box": [
+        128,
+        472,
+        573,
+        500
+      ]
+    }
+  ],
+  "seconds": 1.964015799574554,
+  "id": "43474",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

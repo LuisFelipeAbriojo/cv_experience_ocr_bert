@@ -1,0 +1,202 @@
+{
+  "lines": [
+    {
+      "text": "JOHN MANNING",
+      "score": 0.9998631477355957,
+      "box": [
+        116,
+        91,
+        378,
+        122
+      ]
+    },
+    {
+      "text": "OH, USA | +1-435-727-7975 | john.manning@example.com",
+      "score": 0.9897358417510986,
+      "box": [
+        116,
+        150,
+        668,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9989033341407776,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Integrity Ledger Services Group, 2019.07—2023.01",
+      "score": 0.9847160577774048,
+      "box": [
+        114,
+        287,
+        794,
+        318
+      ]
+    },
+    {
+      "text": "- Led audit programs",
+      "score": 0.9995458722114563,
+      "box": [
+        126,
+        315,
+        323,
+        342
+      ]
+    },
+    {
+      "text": "- Managed consolidation processes",
+      "score": 0.9979919791221619,
+      "box": [
+        127,
+        339,
+        458,
+        368
+      ]
+    },
+    {
+      "text": "Accountants Auditors, BlueLine Accounting, 2016.01—2019.07",
+      "score": 0.9853597283363342,
+      "box": [
+        117,
+        382,
+        690,
+        407
+      ]
+    },
+    {
+      "text": "- Established cost management systems",
+      "score": 0.9975922107696533,
+      "box": [
+        125,
+        408,
+        504,
+        433
+      ]
+    },
+    {
+      "text": "- Established compliance monitoring systems",
+      "score": 0.99298095703125,
+      "box": [
+        126,
+        432,
+        546,
+        458
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Integrity Count Group, 2012.07—2016.01",
+      "score": 0.9890382885932922,
+      "box": [
+        116,
+        471,
+        698,
+        499
+      ]
+    },
+    {
+      "text": "- Prepared management reports",
+      "score": 0.990591287612915,
+      "box": [
+        125,
+        497,
+        428,
+        527
+      ]
+    },
+    {
+      "text": "- Reviewed contract accounting",
+      "score": 0.9895820617675781,
+      "box": [
+        127,
+        522,
+        421,
+        549
+      ]
+    },
+    {
+      "text": "Accountants Auditors, TrustCount Group, 2009.012012.07",
+      "score": 0.9856853485107422,
+      "box": [
+        118,
+        566,
+        667,
+        590
+      ]
+    },
+    {
+      "text": "- Performed data validation checks",
+      "score": 0.9996167421340942,
+      "box": [
+        127,
+        591,
+        450,
+        614
+      ]
+    },
+    {
+      "text": "- Assisted with budget tracking",
+      "score": 0.9938938617706299,
+      "box": [
+        128,
+        614,
+        413,
+        643
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9998840689659119,
+      "box": [
+        117,
+        681,
+        266,
+        705
+      ]
+    },
+    {
+      "text": "Bachelor's, Taxation, Silverview University, 2011",
+      "score": 0.9910708665847778,
+      "box": [
+        116,
+        724,
+        567,
+        750
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of audit documentation",
+      "score": 0.971528172492981,
+      "box": [
+        132,
+        749,
+        567,
+        772
+      ]
+    },
+    {
+      "text": "Completed coursework in audit risk modeling",
+      "score": 0.989039421081543,
+      "box": [
+        132,
+        772,
+        565,
+        801
+      ]
+    }
+  ],
+  "seconds": 3.133260800037533,
+  "id": "42508",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

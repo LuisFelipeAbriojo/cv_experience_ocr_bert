@@ -1,0 +1,202 @@
+{
+  "lines": [
+    {
+      "text": "GINA YU",
+      "score": 0.9994040727615356,
+      "box": [
+        117,
+        91,
+        260,
+        122
+      ]
+    },
+    {
+      "text": "CA, USA | +1-498-743-1716 | gina.yu@example.com",
+      "score": 0.9801355004310608,
+      "box": [
+        116,
+        150,
+        609,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9990525245666504,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, SolidCount Financial, 2018.12—2023.01",
+      "score": 0.9941732287406921,
+      "box": [
+        116,
+        289,
+        689,
+        314
+      ]
+    },
+    {
+      "text": "- Designed tax strategies",
+      "score": 0.9960689544677734,
+      "box": [
+        126,
+        315,
+        361,
+        342
+      ]
+    },
+    {
+      "text": "- Developed financial analytics frameworks",
+      "score": 0.9971778392791748,
+      "box": [
+        127,
+        339,
+        525,
+        367
+      ]
+    },
+    {
+      "text": "Accountants Auditors, SolidBooks Accounting, 2014.102018.12",
+      "score": 0.9892247319221497,
+      "box": [
+        116,
+        381,
+        715,
+        409
+      ]
+    },
+    {
+      "text": "- Directed accounting leadership initiatives",
+      "score": 0.9994024038314819,
+      "box": [
+        125,
+        406,
+        521,
+        435
+      ]
+    },
+    {
+      "text": "- Designed financial oversight systems",
+      "score": 0.9854986071586609,
+      "box": [
+        127,
+        431,
+        485,
+        459
+      ]
+    },
+    {
+      "text": "Accountants Auditors, CoreCount Services, 2008.082012.10",
+      "score": 0.9966434240341187,
+      "box": [
+        116,
+        472,
+        688,
+        499
+      ]
+    },
+    {
+      "text": "- Analyzed financial trends",
+      "score": 0.982433557510376,
+      "box": [
+        125,
+        496,
+        376,
+        525
+      ]
+    },
+    {
+      "text": "- Reviewed financial disclosures",
+      "score": 0.989755392074585,
+      "box": [
+        128,
+        522,
+        427,
+        548
+      ]
+    },
+    {
+      "text": "Accountants Auditors, SteadyLedger Group, 2003.06—2007.08",
+      "score": 0.9904093742370605,
+      "box": [
+        117,
+        566,
+        693,
+        590
+      ]
+    },
+    {
+      "text": "- Assisted with inventory counts",
+      "score": 0.9943323731422424,
+      "box": [
+        128,
+        590,
+        422,
+        616
+      ]
+    },
+    {
+      "text": "- Matched invoices to purchase orders",
+      "score": 0.9774175882339478,
+      "box": [
+        127,
+        613,
+        484,
+        643
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999902069568634,
+      "box": [
+        117,
+        681,
+        266,
+        705
+      ]
+    },
+    {
+      "text": "Bachelor's, Accounting Practice, Clear Spring University, 2003",
+      "score": 0.9947469830513,
+      "box": [
+        116,
+        724,
+        693,
+        750
+      ]
+    },
+    {
+      "text": "• Completed coursework in accounting project management",
+      "score": 0.9831627607345581,
+      "box": [
+        132,
+        749,
+        688,
+        776
+      ]
+    },
+    {
+      "text": "Studied principles of business strategy",
+      "score": 0.9985668659210205,
+      "box": [
+        132,
+        772,
+        505,
+        802
+      ]
+    }
+  ],
+  "seconds": 2.8055449002422392,
+  "id": "06678",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

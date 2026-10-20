@@ -1,0 +1,122 @@
+{
+  "lines": [
+    {
+      "text": "WHITNEY CHEN",
+      "score": 0.9964417815208435,
+      "box": [
+        117,
+        91,
+        377,
+        122
+      ]
+    },
+    {
+      "text": "CA, USA | +1-924-519-9862 | whitney.chen@example.com",
+      "score": 0.9840176701545715,
+      "box": [
+        117,
+        150,
+        663,
+        177
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9997683167457581,
+      "box": [
+        117,
+        243,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Reliable Ledger Services, 2020.02—2023.01",
+      "score": 0.9959952235221863,
+      "box": [
+        115,
+        287,
+        731,
+        315
+      ]
+    },
+    {
+      "text": "- Verified transaction accuracy",
+      "score": 0.9836520552635193,
+      "box": [
+        126,
+        311,
+        410,
+        343
+      ]
+    },
+    {
+      "text": "- Processed accounts payable invoices",
+      "score": 0.9833359718322754,
+      "box": [
+        126,
+        338,
+        491,
+        367
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999306797981262,
+      "box": [
+        116,
+        404,
+        268,
+        431
+      ]
+    },
+    {
+      "text": "Master's, Economics, Clearfield Ridge University, 2020",
+      "score": 0.9877581000328064,
+      "box": [
+        114,
+        446,
+        625,
+        474
+      ]
+    },
+    {
+      "text": "Bachelor's, Cost Accounting, Highland University, 2018",
+      "score": 0.9959043860435486,
+      "box": [
+        116,
+        473,
+        628,
+        500
+      ]
+    },
+    {
+      "text": "•Completed coursework in audit reporting",
+      "score": 0.9778855443000793,
+      "box": [
+        130,
+        497,
+        523,
+        527
+      ]
+    },
+    {
+      "text": "Completed coursework in tax accounting",
+      "score": 0.999869167804718,
+      "box": [
+        132,
+        521,
+        524,
+        551
+      ]
+    }
+  ],
+  "seconds": 2.0517293997108936,
+  "id": "06884",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

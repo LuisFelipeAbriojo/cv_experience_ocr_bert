@@ -1,0 +1,212 @@
+{
+  "lines": [
+    {
+      "text": "KIMBERLY CROSS",
+      "score": 0.9973464012145996,
+      "box": [
+        117,
+        91,
+        420,
+        122
+      ]
+    },
+    {
+      "text": "GA, USA | +1-690-627-3173 | kimberly.cross@example.com",
+      "score": 0.9937252402305603,
+      "box": [
+        116,
+        150,
+        675,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9989565014839172,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Bright Start Academy, 2019.09—2023.01",
+      "score": 0.9928258061408997,
+      "box": [
+        117,
+        290,
+        834,
+        317
+      ]
+    },
+    {
+      "text": "- Implemented long-term academic plans",
+      "score": 0.9848923683166504,
+      "box": [
+        127,
+        316,
+        507,
+        342
+      ]
+    },
+    {
+      "text": "- Implemented learning system upgrades",
+      "score": 0.9926938414573669,
+      "box": [
+        126,
+        339,
+        508,
+        369
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Learning Grove Academy, 2016.042019.09",
+      "score": 0.9875056743621826,
+      "box": [
+        116,
+        381,
+        875,
+        411
+      ]
+    },
+    {
+      "text": "- Led curriculum integration projects",
+      "score": 0.9890070557594299,
+      "box": [
+        126,
+        408,
+        460,
+        433
+      ]
+    },
+    {
+      "text": "- Directed instructional planning processes",
+      "score": 0.9880831241607666,
+      "box": [
+        126,
+        432,
+        522,
+        458
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Discovery Grove School, 2012.112016.04",
+      "score": 0.981924295425415,
+      "box": [
+        117,
+        471,
+        863,
+        500
+      ]
+    },
+    {
+      "text": "- Designed learning activities",
+      "score": 0.9691678285598755,
+      "box": [
+        125,
+        497,
+        398,
+        526
+      ]
+    },
+    {
+      "text": "- Prepared differentiated worksheets",
+      "score": 0.9740593433380127,
+      "box": [
+        127,
+        521,
+        465,
+        550
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Learning Start Academy, 2009.06—2012.11",
+      "score": 0.9908326864242554,
+      "box": [
+        117,
+        565,
+        861,
+        592
+      ]
+    },
+    {
+      "text": "- Provided math drill exercises",
+      "score": 0.9765050411224365,
+      "box": [
+        126,
+        587,
+        411,
+        617
+      ]
+    },
+    {
+      "text": "- Scheduled instructional activities",
+      "score": 0.981486439704895,
+      "box": [
+        126,
+        613,
+        444,
+        642
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9998937249183655,
+      "box": [
+        117,
+        681,
+        266,
+        705
+      ]
+    },
+    {
+      "text": "Master's, Foundational Education, Northview University, 2008",
+      "score": 0.990513026714325,
+      "box": [
+        115,
+        723,
+        686,
+        750
+      ]
+    },
+    {
+      "text": "Bachelor's, Child Studies, Riverhaven University, 2006",
+      "score": 0.9650273323059082,
+      "box": [
+        117,
+        750,
+        621,
+        774
+      ]
+    },
+    {
+      "text": "•Completed coursework in classroom collaboration",
+      "score": 0.9793938994407654,
+      "box": [
+        129,
+        773,
+        610,
+        801
+      ]
+    },
+    {
+      "text": "•Completed coursework in student motivation concepts",
+      "score": 0.9822459816932678,
+      "box": [
+        131,
+        798,
+        648,
+        826
+      ]
+    }
+  ],
+  "seconds": 3.2052347999997437,
+  "id": "15714",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

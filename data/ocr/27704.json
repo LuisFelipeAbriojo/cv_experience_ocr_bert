@@ -1,0 +1,112 @@
+{
+  "lines": [
+    {
+      "text": "JACOB FRIEDMAN",
+      "score": 0.9996630549430847,
+      "box": [
+        115,
+        89,
+        421,
+        123
+      ]
+    },
+    {
+      "text": "MI, USA | +1-497-247-5799 | jacob.friedman@example.com",
+      "score": 0.9927703738212585,
+      "box": [
+        115,
+        149,
+        672,
+        177
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9994058609008789,
+      "box": [
+        116,
+        243,
+        317,
+        270
+      ]
+    },
+    {
+      "text": "Registered Nurses, SafePath Health Services, 2021.02—2023.01",
+      "score": 0.9967752695083618,
+      "box": [
+        116,
+        287,
+        713,
+        315
+      ]
+    },
+    {
+      "text": "- Recorded medication administration times",
+      "score": 0.9814759492874146,
+      "box": [
+        124,
+        312,
+        533,
+        341
+      ]
+    },
+    {
+      "text": "- Recorded shift handoff notes",
+      "score": 0.9974090456962585,
+      "box": [
+        126,
+        339,
+        410,
+        364
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999367594718933,
+      "box": [
+        116,
+        404,
+        268,
+        431
+      ]
+    },
+    {
+      "text": "Bachelor's, Health Support Services, Blue Ridge University, 2022",
+      "score": 0.9931343793869019,
+      "box": [
+        114,
+        445,
+        721,
+        476
+      ]
+    },
+    {
+      "text": "•Completed coursework in basic life support concepts",
+      "score": 0.9894885420799255,
+      "box": [
+        130,
+        474,
+        634,
+        499
+      ]
+    },
+    {
+      "text": "Studied principles of patient safety",
+      "score": 0.9997468590736389,
+      "box": [
+        132,
+        497,
+        466,
+        527
+      ]
+    }
+  ],
+  "seconds": 1.8617619997821748,
+  "id": "27704",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

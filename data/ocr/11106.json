@@ -1,0 +1,122 @@
+{
+  "lines": [
+    {
+      "text": "KASEY NEWMAN",
+      "score": 0.9806888699531555,
+      "box": [
+        117,
+        91,
+        397,
+        121
+      ]
+    },
+    {
+      "text": "CT, USA | +1-480-290-5586 | kasey.newman@example.com",
+      "score": 0.9881091713905334,
+      "box": [
+        118,
+        152,
+        678,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9997029304504395,
+      "box": [
+        117,
+        243,
+        317,
+        270
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Integrity Count Financial, 2020.09—2021.02",
+      "score": 0.9877951741218567,
+      "box": [
+        114,
+        286,
+        727,
+        317
+      ]
+    },
+    {
+      "text": "- Compiled audit evidence",
+      "score": 0.9946567416191101,
+      "box": [
+        126,
+        314,
+        371,
+        340
+      ]
+    },
+    {
+      "text": "- Reconciled subsidiary ledgers",
+      "score": 0.9710927605628967,
+      "box": [
+        126,
+        338,
+        420,
+        368
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999306201934814,
+      "box": [
+        116,
+        404,
+        268,
+        431
+      ]
+    },
+    {
+      "text": "Master's, Taxation, Golden Hills University, 2019",
+      "score": 0.9899864196777344,
+      "box": [
+        114,
+        446,
+        569,
+        474
+      ]
+    },
+    {
+      "text": "Bachelor's, Enterprise Management, Sagewood University, 2017",
+      "score": 0.9848290085792542,
+      "box": [
+        116,
+        473,
+        714,
+        500
+      ]
+    },
+    {
+      "text": "•Studied fundamentals of internal controls",
+      "score": 0.9851003289222717,
+      "box": [
+        129,
+        498,
+        527,
+        523
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of statistics for business",
+      "score": 0.972240686416626,
+      "box": [
+        132,
+        522,
+        577,
+        548
+      ]
+    }
+  ],
+  "seconds": 2.0658669001422822,
+  "id": "11106",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

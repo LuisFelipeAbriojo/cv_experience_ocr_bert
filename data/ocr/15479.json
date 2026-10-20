@@ -1,0 +1,202 @@
+{
+  "lines": [
+    {
+      "text": "CHRISTOPHER CROSS",
+      "score": 0.9979459047317505,
+      "box": [
+        118,
+        91,
+        489,
+        122
+      ]
+    },
+    {
+      "text": "GA, USA | +1-518-284-7451 | christopher.cross@example.com",
+      "score": 0.993953287601471,
+      "box": [
+        116,
+        150,
+        701,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.999575138092041,
+      "box": [
+        116,
+        242,
+        316,
+        271
+      ]
+    },
+    {
+      "text": "Accountants Auditors, SolidBooks Financial, 2020.012023.01",
+      "score": 0.9976093769073486,
+      "box": [
+        115,
+        288,
+        693,
+        316
+      ]
+    },
+    {
+      "text": "- Established financial quality controls",
+      "score": 0.9929661750793457,
+      "box": [
+        127,
+        317,
+        477,
+        341
+      ]
+    },
+    {
+      "text": "- Directed accounting training programs",
+      "score": 0.9937173128128052,
+      "box": [
+        127,
+        340,
+        495,
+        369
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Reliable Path Services, 2017.012020.01",
+      "score": 0.9982259273529053,
+      "box": [
+        118,
+        383,
+        708,
+        407
+      ]
+    },
+    {
+      "text": "- Led cross-functional financial integration",
+      "score": 0.9842456579208374,
+      "box": [
+        128,
+        409,
+        513,
+        433
+      ]
+    },
+    {
+      "text": "- Directed financial reporting processes",
+      "score": 0.9996799230575562,
+      "box": [
+        127,
+        432,
+        490,
+        458
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Accurate Ledger Group, 2013.12—2017.01",
+      "score": 0.9928170442581177,
+      "box": [
+        117,
+        473,
+        716,
+        500
+      ]
+    },
+    {
+      "text": "- Supervised junior accountants",
+      "score": 0.9972411394119263,
+      "box": [
+        125,
+        498,
+        423,
+        526
+      ]
+    },
+    {
+      "text": "- Prepared consolidation entries",
+      "score": 0.9938794374465942,
+      "box": [
+        128,
+        521,
+        425,
+        550
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Accurate Ledger Group, 2010.112013.12",
+      "score": 0.9994442462921143,
+      "box": [
+        117,
+        567,
+        718,
+        591
+      ]
+    },
+    {
+      "text": "- Assisted with monthly close procedures",
+      "score": 0.9847613573074341,
+      "box": [
+        128,
+        591,
+        507,
+        617
+      ]
+    },
+    {
+      "text": "- Tracked budget expenditures",
+      "score": 0.9704805016517639,
+      "box": [
+        127,
+        614,
+        414,
+        645
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9998959302902222,
+      "box": [
+        117,
+        681,
+        266,
+        705
+      ]
+    },
+    {
+      "text": "Bachelor's, Business Management, Clearbrook University, 2008",
+      "score": 0.9913871884346008,
+      "box": [
+        116,
+        725,
+        707,
+        751
+      ]
+    },
+    {
+      "text": "• Completed coursework in contribution margin analysis",
+      "score": 0.9951199293136597,
+      "box": [
+        133,
+        751,
+        648,
+        775
+      ]
+    },
+    {
+      "text": "•Studied principles of financial ratio analysis",
+      "score": 0.9639884233474731,
+      "box": [
+        132,
+        772,
+        547,
+        802
+      ]
+    }
+  ],
+  "seconds": 3.081155200023204,
+  "id": "15479",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

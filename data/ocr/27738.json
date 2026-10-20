@@ -1,0 +1,202 @@
+{
+  "lines": [
+    {
+      "text": "BEAU BRADLEY",
+      "score": 0.9970808029174805,
+      "box": [
+        118,
+        91,
+        382,
+        121
+      ]
+    },
+    {
+      "text": "MI, USA | +1-577-437-8940 | beau.bradley@example.com",
+      "score": 0.9850904941558838,
+      "box": [
+        116,
+        150,
+        655,
+        177
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9987257122993469,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Netcore Solutions, 2020.05—2023.01",
+      "score": 0.9946868419647217,
+      "box": [
+        117,
+        291,
+        659,
+        315
+      ]
+    },
+    {
+      "text": "- Implemented core frameworks",
+      "score": 0.990458071231842,
+      "box": [
+        127,
+        317,
+        423,
+        340
+      ]
+    },
+    {
+      "text": "- Defined data governance policies",
+      "score": 0.9977858066558838,
+      "box": [
+        127,
+        340,
+        451,
+        368
+      ]
+    },
+    {
+      "text": "Software Developers, Netline Labs, 2017.092020.05",
+      "score": 0.9963922500610352,
+      "box": [
+        118,
+        383,
+        613,
+        407
+      ]
+    },
+    {
+      "text": "- Designed high-availability systems",
+      "score": 0.990513265132904,
+      "box": [
+        126,
+        409,
+        461,
+        433
+      ]
+    },
+    {
+      "text": "- Built core libraries",
+      "score": 0.9966806173324585,
+      "box": [
+        126,
+        431,
+        309,
+        458
+      ]
+    },
+    {
+      "text": "Software Developers, Datapoint Solutions, 2015.012017.09",
+      "score": 0.9903057217597961,
+      "box": [
+        117,
+        472,
+        678,
+        499
+      ]
+    },
+    {
+      "text": "- Implemented security controls",
+      "score": 0.9840134382247925,
+      "box": [
+        126,
+        497,
+        421,
+        525
+      ]
+    },
+    {
+      "text": "- Integrated analytics services",
+      "score": 0.9583595395088196,
+      "box": [
+        128,
+        521,
+        406,
+        551
+      ]
+    },
+    {
+      "text": "Software Developers, Codecrest Digital, 2012.042015.01",
+      "score": 0.9977504014968872,
+      "box": [
+        118,
+        565,
+        652,
+        589
+      ]
+    },
+    {
+      "text": "- Handled basic deployment tasks",
+      "score": 0.9951188564300537,
+      "box": [
+        125,
+        589,
+        444,
+        617
+      ]
+    },
+    {
+      "text": "- Created test data sets",
+      "score": 0.9982522130012512,
+      "box": [
+        127,
+        613,
+        348,
+        643
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9998341798782349,
+      "box": [
+        116,
+        679,
+        267,
+        706
+      ]
+    },
+    {
+      "text": "Bachelor's, Clearbrook University, 2015",
+      "score": 0.9975621104240417,
+      "box": [
+        116,
+        724,
+        485,
+        750
+      ]
+    },
+    {
+      "text": "Completed coursework in query performance tuning",
+      "score": 0.9972517490386963,
+      "box": [
+        129,
+        746,
+        629,
+        779
+      ]
+    },
+    {
+      "text": "•Studied fundamentals of concurrency",
+      "score": 0.99173903465271,
+      "box": [
+        132,
+        773,
+        492,
+        800
+      ]
+    }
+  ],
+  "seconds": 2.5515390997752547,
+  "id": "27738",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

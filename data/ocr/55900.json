@@ -1,0 +1,142 @@
+{
+  "lines": [
+    {
+      "text": "OLIVIA FARMER",
+      "score": 0.9997587203979492,
+      "box": [
+        118,
+        91,
+        382,
+        122
+      ]
+    },
+    {
+      "text": "VT, USA | +1-693-443-3654 | olivia.farmer@example.com",
+      "score": 0.9952596426010132,
+      "box": [
+        116,
+        149,
+        652,
+        177
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.999077320098877,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Discovery Path School, 2021.032023.01",
+      "score": 0.9959467649459839,
+      "box": [
+        117,
+        289,
+        847,
+        316
+      ]
+    },
+    {
+      "text": "- Directed assessment development efforts",
+      "score": 0.9974376559257507,
+      "box": [
+        126,
+        315,
+        525,
+        341
+      ]
+    },
+    {
+      "text": "- Developed learning progression models",
+      "score": 0.9497189521789551,
+      "box": [
+        126,
+        339,
+        510,
+        367
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Little Field School, 2019.04—2021.03",
+      "score": 0.9879462122917175,
+      "box": [
+        115,
+        379,
+        804,
+        410
+      ]
+    },
+    {
+      "text": "- Maintained classroom attendance and grading records",
+      "score": 0.9760198593139648,
+      "box": [
+        124,
+        406,
+        645,
+        434
+      ]
+    },
+    {
+      "text": "- Maintained classroom bulletin boards",
+      "score": 0.9983856081962585,
+      "box": [
+        126,
+        432,
+        487,
+        456
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999401569366455,
+      "box": [
+        117,
+        494,
+        266,
+        521
+      ]
+    },
+    {
+      "text": "Bachelor's, Teaching Support, Riverbend University, 2022",
+      "score": 0.9876904487609863,
+      "box": [
+        117,
+        542,
+        651,
+        566
+      ]
+    },
+    {
+      "text": "• Completed coursework in instructional adaptation",
+      "score": 0.9773813486099243,
+      "box": [
+        132,
+        566,
+        604,
+        591
+      ]
+    },
+    {
+      "text": "• Completed coursework in classroom assessment techniques",
+      "score": 0.9880543947219849,
+      "box": [
+        132,
+        591,
+        708,
+        616
+      ]
+    }
+  ],
+  "seconds": 2.5693710995838046,
+  "id": "55900",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

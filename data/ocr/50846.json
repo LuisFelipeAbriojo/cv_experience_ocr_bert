@@ -1,0 +1,202 @@
+{
+  "lines": [
+    {
+      "text": "RANDY PEREZ",
+      "score": 0.9970477819442749,
+      "box": [
+        117,
+        91,
+        358,
+        122
+      ]
+    },
+    {
+      "text": "TX, USA | +1-404-952-1957 | randy.perez@example.com",
+      "score": 0.9899932742118835,
+      "box": [
+        117,
+        151,
+        647,
+        177
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9989857077598572,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Datastream Labs, 2020.012023.01",
+      "score": 0.9935203790664673,
+      "box": [
+        117,
+        291,
+        654,
+        315
+      ]
+    },
+    {
+      "text": "- Defined technical documentation standards",
+      "score": 0.9968269467353821,
+      "box": [
+        129,
+        317,
+        541,
+        341
+      ]
+    },
+    {
+      "text": "- Led performance tuning initiatives",
+      "score": 0.9975486397743225,
+      "box": [
+        128,
+        340,
+        454,
+        369
+      ]
+    },
+    {
+      "text": "Software Developers, Flowstack Solutions, 2017.012020.01",
+      "score": 0.9917815923690796,
+      "box": [
+        116,
+        382,
+        680,
+        409
+      ]
+    },
+    {
+      "text": "- Implemented core frameworks",
+      "score": 0.9939776659011841,
+      "box": [
+        127,
+        409,
+        423,
+        433
+      ]
+    },
+    {
+      "text": "- Led backend platform development",
+      "score": 0.9983365535736084,
+      "box": [
+        128,
+        432,
+        468,
+        457
+      ]
+    },
+    {
+      "text": "Software Developers, Bluecrest Software, 2014.012017.01",
+      "score": 0.9995148181915283,
+      "box": [
+        115,
+        471,
+        671,
+        499
+      ]
+    },
+    {
+      "text": "- Built frontend components",
+      "score": 0.9967995882034302,
+      "box": [
+        126,
+        498,
+        385,
+        524
+      ]
+    },
+    {
+      "text": "- Designed integration tests",
+      "score": 0.9780066609382629,
+      "box": [
+        128,
+        523,
+        384,
+        550
+      ]
+    },
+    {
+      "text": "Software Developers, Clearline Software, 2009.05—2012.06",
+      "score": 0.9865900278091431,
+      "box": [
+        117,
+        566,
+        667,
+        590
+      ]
+    },
+    {
+      "text": "- Updated database schemas",
+      "score": 0.9995081424713135,
+      "box": [
+        130,
+        591,
+        404,
+        615
+      ]
+    },
+    {
+      "text": "- Performed basic APl integrations",
+      "score": 0.9836193323135376,
+      "box": [
+        127,
+        613,
+        448,
+        644
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999219179153442,
+      "box": [
+        117,
+        681,
+        266,
+        705
+      ]
+    },
+    {
+      "text": "Bachelor's, Skyline University, 2006",
+      "score": 0.9865477681159973,
+      "box": [
+        117,
+        726,
+        449,
+        749
+      ]
+    },
+    {
+      "text": "•Studied fundamentals of programming in Java",
+      "score": 0.9832920432090759,
+      "box": [
+        130,
+        748,
+        576,
+        776
+      ]
+    },
+    {
+      "text": "Completed coursework in distributed databases",
+      "score": 0.9994869828224182,
+      "box": [
+        132,
+        772,
+        589,
+        801
+      ]
+    }
+  ],
+  "seconds": 2.932580000255257,
+  "id": "50846",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

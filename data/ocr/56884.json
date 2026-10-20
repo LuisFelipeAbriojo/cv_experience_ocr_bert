@@ -1,0 +1,142 @@
+{
+  "lines": [
+    {
+      "text": "ASHLEY BANKS",
+      "score": 0.9881207346916199,
+      "box": [
+        117,
+        91,
+        381,
+        122
+      ]
+    },
+    {
+      "text": "VA, USA | +1-326-231-2216 | ashley.banks@example.com",
+      "score": 0.9948487877845764,
+      "box": [
+        116,
+        149,
+        661,
+        177
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9997398853302002,
+      "box": [
+        117,
+        243,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Accountants Auditors, FairLedger Services, 2021.04—2023.01",
+      "score": 0.989535391330719,
+      "box": [
+        116,
+        289,
+        686,
+        316
+      ]
+    },
+    {
+      "text": "- Managed financial governance",
+      "score": 0.9976343512535095,
+      "box": [
+        127,
+        314,
+        427,
+        343
+      ]
+    },
+    {
+      "text": "- Designed financial policy frameworks",
+      "score": 0.9924342632293701,
+      "box": [
+        128,
+        339,
+        485,
+        367
+      ]
+    },
+    {
+      "text": "Accountants Auditors, EverCount Group, 2019.07—2021.04",
+      "score": 0.9820984601974487,
+      "box": [
+        116,
+        380,
+        663,
+        408
+      ]
+    },
+    {
+      "text": "- Reviewed credit memos",
+      "score": 0.9964179992675781,
+      "box": [
+        125,
+        406,
+        366,
+        433
+      ]
+    },
+    {
+      "text": "- Assisted with regulatory filings",
+      "score": 0.9893506169319153,
+      "box": [
+        127,
+        430,
+        422,
+        459
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9998810887336731,
+      "box": [
+        117,
+        494,
+        267,
+        521
+      ]
+    },
+    {
+      "text": "Bachelor's, Forensic Accounting, Meadowfield University, 2020",
+      "score": 0.994535505771637,
+      "box": [
+        117,
+        541,
+        697,
+        565
+      ]
+    },
+    {
+      "text": "• Completed coursework in expense allocation",
+      "score": 0.9784625768661499,
+      "box": [
+        132,
+        566,
+        562,
+        591
+      ]
+    },
+    {
+      "text": "• Completed coursework in internal auditing",
+      "score": 0.9833884835243225,
+      "box": [
+        132,
+        591,
+        536,
+        617
+      ]
+    }
+  ],
+  "seconds": 2.120396399870515,
+  "id": "56884",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

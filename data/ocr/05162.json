@@ -1,0 +1,112 @@
+{
+  "lines": [
+    {
+      "text": "TESS VU",
+      "score": 0.9989715218544006,
+      "box": [
+        116,
+        90,
+        263,
+        122
+      ]
+    },
+    {
+      "text": "CA, USA | +1-585-527-4624 | tess.vu@example.com",
+      "score": 0.9899340867996216,
+      "box": [
+        118,
+        152,
+        607,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.99945467710495,
+      "box": [
+        116,
+        243,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Accountants Auditors, CoreBooks Advisors, 2021.01—2023.01",
+      "score": 0.9883369207382202,
+      "box": [
+        114,
+        287,
+        689,
+        315
+      ]
+    },
+    {
+      "text": "- Updated accounting policies documentation",
+      "score": 0.995227038860321,
+      "box": [
+        127,
+        316,
+        545,
+        340
+      ]
+    },
+    {
+      "text": "- Reviewed account balances",
+      "score": 0.9950047135353088,
+      "box": [
+        128,
+        339,
+        403,
+        365
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999476671218872,
+      "box": [
+        116,
+        404,
+        268,
+        431
+      ]
+    },
+    {
+      "text": "Bachelor's, Corporate Finance, Bright Ridge University, 2023",
+      "score": 0.9980898499488831,
+      "box": [
+        116,
+        448,
+        679,
+        475
+      ]
+    },
+    {
+      "text": "Studied fundamentals of business performance analysis",
+      "score": 0.9962693452835083,
+      "box": [
+        128,
+        472,
+        666,
+        500
+      ]
+    },
+    {
+      "text": "Studied principles of accounting policy analysis",
+      "score": 0.9916014671325684,
+      "box": [
+        131,
+        497,
+        584,
+        526
+      ]
+    }
+  ],
+  "seconds": 1.8962051002308726,
+  "id": "05162",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

@@ -1,0 +1,4 @@
+split,n,mean_y,median_y,accountants_auditors,software_developers,registered_nurses,elementary_middle_school_teachers,construction_laborers
+train,2800,6.518412067919133,5.564115090222802,560,560,560,560,560
+val,600,6.468237683831169,5.578626379755827,121,120,120,120,119
+test,600,6.547214335585995,5.565572177962886,119,120,120,120,121

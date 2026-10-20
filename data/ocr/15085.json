@@ -1,0 +1,142 @@
+{
+  "lines": [
+    {
+      "text": "MILLIE MCCOY",
+      "score": 0.9923741817474365,
+      "box": [
+        118,
+        91,
+        361,
+        122
+      ]
+    },
+    {
+      "text": "GA, USA | +1-828-903-8314 | millie.mccoy@example.com",
+      "score": 0.995823323726654,
+      "box": [
+        116,
+        149,
+        655,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9991125464439392,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, ClearCount Financial Group, 2021.01-2023.01",
+      "score": 0.9851117730140686,
+      "box": [
+        115,
+        288,
+        758,
+        316
+      ]
+    },
+    {
+      "text": "- Established compliance monitoring systems",
+      "score": 0.9945046901702881,
+      "box": [
+        126,
+        315,
+        546,
+        341
+      ]
+    },
+    {
+      "text": "- Established financial reporting standards",
+      "score": 0.9861976504325867,
+      "box": [
+        126,
+        339,
+        518,
+        367
+      ]
+    },
+    {
+      "text": "Accountants Auditors, ClearView Accounting, 2019.012021.01",
+      "score": 0.9851871728897095,
+      "box": [
+        116,
+        380,
+        703,
+        408
+      ]
+    },
+    {
+      "text": "- Assisted with internal control testing",
+      "score": 0.9939078092575073,
+      "box": [
+        124,
+        405,
+        474,
+        435
+      ]
+    },
+    {
+      "text": "- Verified transaction accuracy",
+      "score": 0.9718531370162964,
+      "box": [
+        127,
+        430,
+        410,
+        459
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999129176139832,
+      "box": [
+        117,
+        494,
+        268,
+        521
+      ]
+    },
+    {
+      "text": "Bachelor's, Applied Finance, Brookfield University, 2023",
+      "score": 0.9912136197090149,
+      "box": [
+        115,
+        539,
+        635,
+        567
+      ]
+    },
+    {
+      "text": "•Studied fundamentals of auditing",
+      "score": 0.9854346513748169,
+      "box": [
+        130,
+        565,
+        452,
+        592
+      ]
+    },
+    {
+      "text": "• Completed coursework in business mathematics",
+      "score": 0.9914356470108032,
+      "box": [
+        132,
+        592,
+        596,
+        616
+      ]
+    }
+  ],
+  "seconds": 2.3427987000904977,
+  "id": "15085",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

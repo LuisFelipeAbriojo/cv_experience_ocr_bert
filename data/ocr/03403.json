@@ -1,0 +1,122 @@
+{
+  "lines": [
+    {
+      "text": "FELICIA CARROLL",
+      "score": 0.999801754951477,
+      "box": [
+        117,
+        91,
+        420,
+        122
+      ]
+    },
+    {
+      "text": "CA, USA | +1-449-406-1215 | felicia.carroll@example.com",
+      "score": 0.9912092089653015,
+      "box": [
+        118,
+        152,
+        655,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9997332096099854,
+      "box": [
+        117,
+        243,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Future Bridge Academy, 2022.07—2023.01",
+      "score": 0.9822486042976379,
+      "box": [
+        116,
+        288,
+        856,
+        318
+      ]
+    },
+    {
+      "text": "- Reviewed homework assignments",
+      "score": 0.9995471239089966,
+      "box": [
+        125,
+        313,
+        459,
+        342
+      ]
+    },
+    {
+      "text": "- Supported individual student learning activities",
+      "score": 0.9829093217849731,
+      "box": [
+        127,
+        339,
+        572,
+        367
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999291896820068,
+      "box": [
+        116,
+        404,
+        268,
+        431
+      ]
+    },
+    {
+      "text": "Master's, Teaching Studies, Greenway University, 2020",
+      "score": 0.9868386387825012,
+      "box": [
+        116,
+        448,
+        631,
+        475
+      ]
+    },
+    {
+      "text": "Bachelor's, Instructional Studies, Rockland University, 2018",
+      "score": 0.9768418073654175,
+      "box": [
+        115,
+        472,
+        668,
+        500
+      ]
+    },
+    {
+      "text": "•Studied principles of classroom inclusivity",
+      "score": 0.9758392572402954,
+      "box": [
+        130,
+        500,
+        531,
+        524
+      ]
+    },
+    {
+      "text": "•Studied fundamentals of language arts education",
+      "score": 0.9875112175941467,
+      "box": [
+        131,
+        522,
+        602,
+        550
+      ]
+    }
+  ],
+  "seconds": 2.2013218998908997,
+  "id": "03403",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

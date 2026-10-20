@@ -1,0 +1,112 @@
+{
+  "lines": [
+    {
+      "text": "SHANTEL DUKE",
+      "score": 0.9999117255210876,
+      "box": [
+        117,
+        91,
+        378,
+        122
+      ]
+    },
+    {
+      "text": "CA, USA | +1-749-910-3354 | shantel.duke@example.com",
+      "score": 0.9899539351463318,
+      "box": [
+        118,
+        152,
+        659,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9997732043266296,
+      "box": [
+        117,
+        243,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Bright Path School, 2021.04—2022.05",
+      "score": 0.990046501159668,
+      "box": [
+        117,
+        288,
+        810,
+        315
+      ]
+    },
+    {
+      "text": "- Collected permission forms",
+      "score": 0.9903637170791626,
+      "box": [
+        127,
+        316,
+        395,
+        340
+      ]
+    },
+    {
+      "text": "- Set up classroom technology tools",
+      "score": 0.9796921014785767,
+      "box": [
+        127,
+        339,
+        460,
+        367
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999167323112488,
+      "box": [
+        116,
+        404,
+        268,
+        431
+      ]
+    },
+    {
+      "text": "Bachelor's, Educational Support, Meadowland University, 2017",
+      "score": 0.9967095255851746,
+      "box": [
+        114,
+        445,
+        700,
+        476
+      ]
+    },
+    {
+      "text": "•Completed coursework in basic mentoring strategies",
+      "score": 0.9729129672050476,
+      "box": [
+        129,
+        472,
+        633,
+        501
+      ]
+    },
+    {
+      "text": "Studied principles of learner diversity",
+      "score": 0.980449378490448,
+      "box": [
+        132,
+        497,
+        489,
+        527
+      ]
+    }
+  ],
+  "seconds": 2.083108799997717,
+  "id": "03546",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

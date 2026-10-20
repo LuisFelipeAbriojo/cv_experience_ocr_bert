@@ -1,0 +1,212 @@
+{
+  "lines": [
+    {
+      "text": "JONATHAN CHUNG",
+      "score": 0.9999175667762756,
+      "box": [
+        116,
+        92,
+        435,
+        122
+      ]
+    },
+    {
+      "text": "MI, USA | +1-641-516-7867 | jonathan.chung@example.com",
+      "score": 0.990184485912323,
+      "box": [
+        115,
+        150,
+        677,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9995189309120178,
+      "box": [
+        116,
+        242,
+        316,
+        271
+      ]
+    },
+    {
+      "text": "Software Developers, Brightnode Software, 2020.012023.01",
+      "score": 0.9918931126594543,
+      "box": [
+        117,
+        290,
+        685,
+        317
+      ]
+    },
+    {
+      "text": "- Defined data governance policies",
+      "score": 0.9952283501625061,
+      "box": [
+        128,
+        316,
+        450,
+        342
+      ]
+    },
+    {
+      "text": "- Defined integration standards",
+      "score": 0.9973573088645935,
+      "box": [
+        127,
+        340,
+        416,
+        368
+      ]
+    },
+    {
+      "text": "Software Developers, Codecrest Systems, 2017.012020.01",
+      "score": 0.9986937046051025,
+      "box": [
+        115,
+        381,
+        676,
+        409
+      ]
+    },
+    {
+      "text": "- Led performance tuning initiatives",
+      "score": 0.9943109154701233,
+      "box": [
+        129,
+        410,
+        453,
+        433
+      ]
+    },
+    {
+      "text": "- Led technical audits",
+      "score": 0.9767885804176331,
+      "box": [
+        128,
+        435,
+        325,
+        455
+      ]
+    },
+    {
+      "text": "Software Developers, Dataframe Solutions, 2014.012017.01",
+      "score": 0.9987065196037292,
+      "box": [
+        116,
+        472,
+        685,
+        499
+      ]
+    },
+    {
+      "text": "- Improved API performance",
+      "score": 0.98690265417099,
+      "box": [
+        126,
+        497,
+        394,
+        526
+      ]
+    },
+    {
+      "text": "- Developed data processing pipelines",
+      "score": 0.9986057877540588,
+      "box": [
+        127,
+        521,
+        484,
+        551
+      ]
+    },
+    {
+      "text": "Software Developers, Clearline Systems, 2008.112011.11",
+      "score": 0.9986329078674316,
+      "box": [
+        116,
+        565,
+        665,
+        592
+      ]
+    },
+    {
+      "text": "- Reviewed test coverage reports",
+      "score": 0.9893092513084412,
+      "box": [
+        127,
+        589,
+        438,
+        618
+      ]
+    },
+    {
+      "text": "- Implemented basic authentication logic",
+      "score": 0.9968587756156921,
+      "box": [
+        128,
+        614,
+        502,
+        642
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9998840689659119,
+      "box": [
+        117,
+        681,
+        266,
+        705
+      ]
+    },
+    {
+      "text": "Master's, Horizon University, 2006",
+      "score": 0.9900152683258057,
+      "box": [
+        115,
+        722,
+        436,
+        750
+      ]
+    },
+    {
+      "text": "Bachelor's, Edgewood University, 2004",
+      "score": 0.9940469861030579,
+      "box": [
+        116,
+        749,
+        481,
+        776
+      ]
+    },
+    {
+      "text": "• Completed coursework in microprocessor programming",
+      "score": 0.9807685017585754,
+      "box": [
+        131,
+        776,
+        659,
+        800
+      ]
+    },
+    {
+      "text": "Studied principles of data modeling",
+      "score": 0.9966999888420105,
+      "box": [
+        131,
+        798,
+        473,
+        828
+      ]
+    }
+  ],
+  "seconds": 2.6604772000573575,
+  "id": "28042",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

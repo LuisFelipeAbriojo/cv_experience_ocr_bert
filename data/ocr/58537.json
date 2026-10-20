@@ -1,0 +1,202 @@
+{
+  "lines": [
+    {
+      "text": "KENNETH ORR",
+      "score": 0.9577394127845764,
+      "box": [
+        117,
+        91,
+        363,
+        122
+      ]
+    },
+    {
+      "text": "WA, USA | +1-410-464-9512 | kenneth.orr@example.com",
+      "score": 0.9943000078201294,
+      "box": [
+        117,
+        152,
+        650,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.995638906955719,
+      "box": [
+        117,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, StrongRise Construction, 2019.10—2023.01",
+      "score": 0.9893100261688232,
+      "box": [
+        118,
+        291,
+        732,
+        315
+      ]
+    },
+    {
+      "text": "- Established material procurement strategies",
+      "score": 0.9745721817016602,
+      "box": [
+        126,
+        316,
+        549,
+        342
+      ]
+    },
+    {
+      "text": "- Directed training programs for crews",
+      "score": 0.9954646229743958,
+      "box": [
+        127,
+        340,
+        479,
+        368
+      ]
+    },
+    {
+      "text": "Construction Laborers, StrongRise Construction, 2016.06—2019.10",
+      "score": 0.9823488593101501,
+      "box": [
+        118,
+        383,
+        735,
+        407
+      ]
+    },
+    {
+      "text": "- Directed quality assurance programs",
+      "score": 0.9996357560157776,
+      "box": [
+        125,
+        407,
+        482,
+        435
+      ]
+    },
+    {
+      "text": "- Managed workforce allocation",
+      "score": 0.9825803637504578,
+      "box": [
+        127,
+        432,
+        420,
+        457
+      ]
+    },
+    {
+      "text": "Construction Laborers, Precision Build Group, 2013.02—2016.06",
+      "score": 0.9807355999946594,
+      "box": [
+        116,
+        471,
+        711,
+        499
+      ]
+    },
+    {
+      "text": "- Installed drainage systems",
+      "score": 0.99564129114151,
+      "box": [
+        126,
+        498,
+        391,
+        524
+      ]
+    },
+    {
+      "text": "- Supervised demolition tasks",
+      "score": 0.9935927987098694,
+      "box": [
+        128,
+        522,
+        402,
+        548
+      ]
+    },
+    {
+      "text": "Construction Laborers, PrimeFrame Co., 2009.10—2013.02",
+      "score": 0.9876713156700134,
+      "box": [
+        118,
+        565,
+        661,
+        589
+      ]
+    },
+    {
+      "text": "- Installed insulation materials",
+      "score": 0.9982704520225525,
+      "box": [
+        126,
+        590,
+        405,
+        613
+      ]
+    },
+    {
+      "text": "- Installed safety signage",
+      "score": 0.9805561304092407,
+      "box": [
+        128,
+        614,
+        361,
+        642
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9998942613601685,
+      "box": [
+        117,
+        681,
+        266,
+        705
+      ]
+    },
+    {
+      "text": "Some college (no degree), HVAC Technology, Windfield University, 2009",
+      "score": 0.9946074485778809,
+      "box": [
+        117,
+        724,
+        794,
+        750
+      ]
+    },
+    {
+      "text": "Studied principles of site access planning",
+      "score": 0.9936699867248535,
+      "box": [
+        129,
+        748,
+        531,
+        776
+      ]
+    },
+    {
+      "text": "Studied fundamentals of wall systems",
+      "score": 0.9997586011886597,
+      "box": [
+        131,
+        773,
+        497,
+        800
+      ]
+    }
+  ],
+  "seconds": 3.048881500028074,
+  "id": "58537",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

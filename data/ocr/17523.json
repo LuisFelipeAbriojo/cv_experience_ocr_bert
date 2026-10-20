@@ -1,0 +1,142 @@
+{
+  "lines": [
+    {
+      "text": "KENDERICK DAUGHERTY",
+      "score": 0.9988112449645996,
+      "box": [
+        117,
+        92,
+        536,
+        122
+      ]
+    },
+    {
+      "text": "IL, USA | +1-902-397-1612 | kenderick.daugherty@example.com",
+      "score": 0.9970740079879761,
+      "box": [
+        116,
+        150,
+        717,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9990568161010742,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, TrustCount Advisors, 2021.072023.01",
+      "score": 0.9916360974311829,
+      "box": [
+        117,
+        290,
+        688,
+        314
+      ]
+    },
+    {
+      "text": "- Established reporting automation systems",
+      "score": 0.9986677765846252,
+      "box": [
+        125,
+        314,
+        530,
+        343
+      ]
+    },
+    {
+      "text": "- Directed financial system architecture",
+      "score": 0.9905153512954712,
+      "box": [
+        128,
+        341,
+        489,
+        367
+      ]
+    },
+    {
+      "text": "Accountants Auditors, TrustCount Financial, 2017.082019.02",
+      "score": 0.9978232979774475,
+      "box": [
+        118,
+        383,
+        693,
+        407
+      ]
+    },
+    {
+      "text": "- Tracked budget expenditures",
+      "score": 0.9680287837982178,
+      "box": [
+        124,
+        406,
+        414,
+        434
+      ]
+    },
+    {
+      "text": "- Assisted with forecasting data",
+      "score": 0.9821051955223083,
+      "box": [
+        127,
+        430,
+        419,
+        459
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999525547027588,
+      "box": [
+        116,
+        494,
+        268,
+        521
+      ]
+    },
+    {
+      "text": "Bachelor's, Quantitative Finance, Willow Creek University, 2009",
+      "score": 0.9799990653991699,
+      "box": [
+        115,
+        539,
+        706,
+        567
+      ]
+    },
+    {
+      "text": "•Studied fundamentals of consolidation accounting",
+      "score": 0.9728472232818604,
+      "box": [
+        129,
+        564,
+        609,
+        594
+      ]
+    },
+    {
+      "text": "•Studied principles of audit sampling",
+      "score": 0.9665343761444092,
+      "box": [
+        131,
+        591,
+        476,
+        618
+      ]
+    }
+  ],
+  "seconds": 2.3347974997013807,
+  "id": "17523",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

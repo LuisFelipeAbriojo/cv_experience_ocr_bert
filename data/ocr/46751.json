@@ -1,0 +1,202 @@
+{
+  "lines": [
+    {
+      "text": "JAIME WILLIAMS",
+      "score": 0.9991296529769897,
+      "box": [
+        116,
+        92,
+        394,
+        122
+      ]
+    },
+    {
+      "text": "PA, USA | +1-676-590-5812 | jaime.williams@example.com",
+      "score": 0.9732626676559448,
+      "box": [
+        116,
+        150,
+        667,
+        177
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9990715980529785,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, SolidPoint Construction, 2020.03—2023.01",
+      "score": 0.9966596961021423,
+      "box": [
+        118,
+        289,
+        722,
+        313
+      ]
+    },
+    {
+      "text": "- Established construction benchmarks",
+      "score": 0.9962612986564636,
+      "box": [
+        126,
+        315,
+        487,
+        340
+      ]
+    },
+    {
+      "text": "- Directed site safety audits",
+      "score": 0.975142240524292,
+      "box": [
+        127,
+        340,
+        382,
+        366
+      ]
+    },
+    {
+      "text": "Construction Laborers, StrongWay Construction, 2017.052020.03",
+      "score": 0.9939428567886353,
+      "box": [
+        117,
+        382,
+        735,
+        409
+      ]
+    },
+    {
+      "text": "- Directed equipment operations",
+      "score": 0.9731948971748352,
+      "box": [
+        127,
+        409,
+        427,
+        433
+      ]
+    },
+    {
+      "text": "- Reviewed engineering drawings",
+      "score": 0.9794288873672485,
+      "box": [
+        126,
+        431,
+        438,
+        460
+      ]
+    },
+    {
+      "text": "Construction Laborers, SteadyRise Contractors, 2014.072017.05",
+      "score": 0.9977647066116333,
+      "box": [
+        117,
+        472,
+        728,
+        499
+      ]
+    },
+    {
+      "text": "- Prepared cost estimates",
+      "score": 0.9820324778556824,
+      "box": [
+        125,
+        497,
+        369,
+        526
+      ]
+    },
+    {
+      "text": "- Operated power tools independently",
+      "score": 0.9837353229522705,
+      "box": [
+        127,
+        522,
+        477,
+        550
+      ]
+    },
+    {
+      "text": "Construction Laborers, NextBuild Contractors, 2011.082014.07",
+      "score": 0.9878400564193726,
+      "box": [
+        118,
+        565,
+        710,
+        589
+      ]
+    },
+    {
+      "text": "- Assisted with basic electrical conduit placement",
+      "score": 0.9876886606216431,
+      "box": [
+        127,
+        592,
+        584,
+        615
+      ]
+    },
+    {
+      "text": "- Assisted with concrete pouring",
+      "score": 0.9982574582099915,
+      "box": [
+        127,
+        614,
+        426,
+        644
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999258518218994,
+      "box": [
+        117,
+        681,
+        266,
+        705
+      ]
+    },
+    {
+      "text": "Some college (no degree), Mechanical Technology, Crestline University, 2016",
+      "score": 0.9956080913543701,
+      "box": [
+        117,
+        724,
+        838,
+        750
+      ]
+    },
+    {
+      "text": "• Completed coursework in structural inspection basics",
+      "score": 0.9953014254570007,
+      "box": [
+        132,
+        750,
+        639,
+        773
+      ]
+    },
+    {
+      "text": "•Studied principles of structural support systems",
+      "score": 0.9777777791023254,
+      "box": [
+        132,
+        772,
+        587,
+        802
+      ]
+    }
+  ],
+  "seconds": 2.9389329999685287,
+  "id": "46751",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

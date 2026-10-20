@@ -1,0 +1,142 @@
+{
+  "lines": [
+    {
+      "text": "DANIEL ELLIOTT",
+      "score": 0.9899685978889465,
+      "box": [
+        118,
+        91,
+        390,
+        122
+      ]
+    },
+    {
+      "text": "MA, USA | +1-647-700-7064 | daniel.elliott@example.com",
+      "score": 0.9859898686408997,
+      "box": [
+        117,
+        152,
+        652,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.999116837978363,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Vertexline Tech, 2019.05—2022.03",
+      "score": 0.9909807443618774,
+      "box": [
+        115,
+        288,
+        642,
+        316
+      ]
+    },
+    {
+      "text": "- Developed system monitoring strategies",
+      "score": 0.9980039596557617,
+      "box": [
+        127,
+        314,
+        514,
+        343
+      ]
+    },
+    {
+      "text": "- Designed event-driven architectures",
+      "score": 0.9942963123321533,
+      "box": [
+        130,
+        342,
+        476,
+        366
+      ]
+    },
+    {
+      "text": "Software Developers, Clearwave Tech, 2015.102018.08",
+      "score": 0.9853245615959167,
+      "box": [
+        116,
+        380,
+        648,
+        408
+      ]
+    },
+    {
+      "text": "- Assisted with build automation",
+      "score": 0.9752244353294373,
+      "box": [
+        125,
+        408,
+        423,
+        432
+      ]
+    },
+    {
+      "text": "- Updated monitoring dashboards",
+      "score": 0.9944855570793152,
+      "box": [
+        129,
+        433,
+        439,
+        459
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999310374259949,
+      "box": [
+        116,
+        494,
+        267,
+        521
+      ]
+    },
+    {
+      "text": "Bachelor's, Pinefield University, 2012",
+      "score": 0.9842354655265808,
+      "box": [
+        116,
+        540,
+        461,
+        566
+      ]
+    },
+    {
+      "text": "Studied principles of graph algorithms",
+      "score": 0.987261950969696,
+      "box": [
+        130,
+        566,
+        498,
+        593
+      ]
+    },
+    {
+      "text": "• Completed coursework in containerization basics",
+      "score": 0.995164692401886,
+      "box": [
+        132,
+        592,
+        601,
+        616
+      ]
+    }
+  ],
+  "seconds": 2.1872982997447252,
+  "id": "25840",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

@@ -1,0 +1,132 @@
+{
+  "lines": [
+    {
+      "text": "KAMREN MAXWELL",
+      "score": 0.9998419880867004,
+      "box": [
+        117,
+        92,
+        442,
+        122
+      ]
+    },
+    {
+      "text": "AZ, USA | +1-373-359-4783 | kamren.maxwell@example.com",
+      "score": 0.9847262501716614,
+      "box": [
+        118,
+        152,
+        688,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9991243481636047,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, TrueLine Services, 2021.06—2023.01",
+      "score": 0.989821195602417,
+      "box": [
+        118,
+        290,
+        675,
+        314
+      ]
+    },
+    {
+      "text": "- Directed quality assurance programs",
+      "score": 0.9997421503067017,
+      "box": [
+        125,
+        314,
+        482,
+        344
+      ]
+    },
+    {
+      "text": "- Developed site performance metrics",
+      "score": 0.9940376281738281,
+      "box": [
+        128,
+        341,
+        476,
+        367
+      ]
+    },
+    {
+      "text": "Construction Laborers, SolidLine Contractors, 2019.112021.06",
+      "score": 0.9910724759101868,
+      "box": [
+        116,
+        380,
+        708,
+        408
+      ]
+    },
+    {
+      "text": "- Assisted with drywall installation",
+      "score": 0.990540087223053,
+      "box": [
+        124,
+        405,
+        441,
+        434
+      ]
+    },
+    {
+      "text": "- Secured site fencing",
+      "score": 0.9887416958808899,
+      "box": [
+        125,
+        429,
+        332,
+        460
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999122619628906,
+      "box": [
+        116,
+        494,
+        266,
+        521
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Construction Planning, Clearbrook High School, 2019",
+      "score": 0.9985752701759338,
+      "box": [
+        115,
+        539,
+        871,
+        567
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of job site coordination",
+      "score": 0.9956849813461304,
+      "box": [
+        132,
+        566,
+        565,
+        592
+      ]
+    }
+  ],
+  "seconds": 2.3979220003820956,
+  "id": "01460",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

@@ -1,0 +1,142 @@
+{
+  "lines": [
+    {
+      "text": "ALEXANDER CHEN",
+      "score": 0.9996991157531738,
+      "box": [
+        117,
+        90,
+        430,
+        122
+      ]
+    },
+    {
+      "text": "OR, USA | +1-681-838-9179 | alexander.chen@example.com",
+      "score": 0.9895771741867065,
+      "box": [
+        118,
+        152,
+        685,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9997566342353821,
+      "box": [
+        117,
+        243,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Software Developers, Softbridge Digital, 2021.04-2023.01",
+      "score": 0.9874573349952698,
+      "box": [
+        114,
+        287,
+        655,
+        318
+      ]
+    },
+    {
+      "text": "- Implemented security architectures",
+      "score": 0.987598180770874,
+      "box": [
+        128,
+        315,
+        466,
+        341
+      ]
+    },
+    {
+      "text": "- Designed configuration management systems",
+      "score": 0.9970305562019348,
+      "box": [
+        128,
+        339,
+        565,
+        368
+      ]
+    },
+    {
+      "text": "Software Developers, Softbridge Tech, 2019.072021.04",
+      "score": 0.9777218699455261,
+      "box": [
+        115,
+        380,
+        645,
+        408
+      ]
+    },
+    {
+      "text": "- Updated application dependencies",
+      "score": 0.9924297332763672,
+      "box": [
+        127,
+        409,
+        462,
+        433
+      ]
+    },
+    {
+      "text": "- Implemented REST endpoints",
+      "score": 0.9928358793258667,
+      "box": [
+        129,
+        434,
+        421,
+        457
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.99993896484375,
+      "box": [
+        116,
+        494,
+        267,
+        521
+      ]
+    },
+    {
+      "text": "Bachelor's, Riverstone Ridge University, 2022",
+      "score": 0.9895575046539307,
+      "box": [
+        115,
+        539,
+        542,
+        567
+      ]
+    },
+    {
+      "text": "• Completed coursework in model-view-controller pattern",
+      "score": 0.9930877685546875,
+      "box": [
+        133,
+        567,
+        658,
+        591
+      ]
+    },
+    {
+      "text": "• Completed coursework in real-time systems",
+      "score": 0.9887364506721497,
+      "box": [
+        132,
+        591,
+        552,
+        616
+      ]
+    }
+  ],
+  "seconds": 2.2834196998737752,
+  "id": "44600",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

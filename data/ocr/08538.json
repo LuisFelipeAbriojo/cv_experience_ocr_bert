@@ -1,0 +1,172 @@
+{
+  "lines": [
+    {
+      "text": "JESSICA KHAN",
+      "score": 0.999103844165802,
+      "box": [
+        116,
+        91,
+        367,
+        121
+      ]
+    },
+    {
+      "text": "CA, USA | +1-210-201-4557 | jessica.khan@example.com",
+      "score": 0.9952278137207031,
+      "box": [
+        118,
+        152,
+        655,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9991223216056824,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Integrity Books Financial, 2020.04—2023.01",
+      "score": 0.9958500862121582,
+      "box": [
+        115,
+        288,
+        727,
+        316
+      ]
+    },
+    {
+      "text": "- Established financial data governance",
+      "score": 0.9978727698326111,
+      "box": [
+        127,
+        315,
+        493,
+        342
+      ]
+    },
+    {
+      "text": "- Designed budgeting methodologies",
+      "score": 0.9854445457458496,
+      "box": [
+        128,
+        340,
+        469,
+        368
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Integrity Balance Co., 2017.06—2020.04",
+      "score": 0.9828611016273499,
+      "box": [
+        117,
+        382,
+        694,
+        409
+      ]
+    },
+    {
+      "text": "- Managed accounting system updates",
+      "score": 0.9938704371452332,
+      "box": [
+        125,
+        406,
+        488,
+        435
+      ]
+    },
+    {
+      "text": "- Analyzed cost structures",
+      "score": 0.9989367723464966,
+      "box": [
+        128,
+        431,
+        370,
+        460
+      ]
+    },
+    {
+      "text": "Accountants Auditors, AccuLedger Financial, 2013.012015.11",
+      "score": 0.9872249364852905,
+      "box": [
+        116,
+        471,
+        700,
+        499
+      ]
+    },
+    {
+      "text": "- Maintained supporting documentation",
+      "score": 0.9982210397720337,
+      "box": [
+        125,
+        497,
+        491,
+        526
+      ]
+    },
+    {
+      "text": "- Updated accounting policies documentation",
+      "score": 0.9882243871688843,
+      "box": [
+        128,
+        522,
+        546,
+        550
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999439716339111,
+      "box": [
+        118,
+        588,
+        266,
+        612
+      ]
+    },
+    {
+      "text": "Bachelor's, Accounting Information Systems, Brightwater University, 2011",
+      "score": 0.9871213436126709,
+      "box": [
+        118,
+        633,
+        796,
+        657
+      ]
+    },
+    {
+      "text": "•Completed coursework in audit planning",
+      "score": 0.9726467728614807,
+      "box": [
+        130,
+        657,
+        521,
+        685
+      ]
+    },
+    {
+      "text": "Completed coursework in accounting case analysis",
+      "score": 0.9758842587471008,
+      "box": [
+        132,
+        680,
+        622,
+        709
+      ]
+    }
+  ],
+  "seconds": 2.624294700101018,
+  "id": "08538",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

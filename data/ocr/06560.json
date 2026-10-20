@@ -1,0 +1,152 @@
+{
+  "lines": [
+    {
+      "text": "JORDAN CASTANEDA",
+      "score": 0.9996345043182373,
+      "box": [
+        116,
+        91,
+        477,
+        121
+      ]
+    },
+    {
+      "text": "CA, USA | +1-434-364-2752 | jordan.castaneda@example.com",
+      "score": 0.9858932495117188,
+      "box": [
+        118,
+        152,
+        700,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9990734457969666,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, FairBalance Accounting, 2021.06—2023.01",
+      "score": 0.9867376089096069,
+      "box": [
+        115,
+        288,
+        719,
+        316
+      ]
+    },
+    {
+      "text": "- Directed strategic accounting initiatives",
+      "score": 0.9974220395088196,
+      "box": [
+        126,
+        315,
+        502,
+        341
+      ]
+    },
+    {
+      "text": "- Led internal audit functions",
+      "score": 0.9711936116218567,
+      "box": [
+        128,
+        339,
+        392,
+        365
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Balanced Books Advisors, 2019.112021.06",
+      "score": 0.9991484880447388,
+      "box": [
+        118,
+        383,
+        736,
+        407
+      ]
+    },
+    {
+      "text": "- Prepared audit confirmations",
+      "score": 0.9894222617149353,
+      "box": [
+        125,
+        407,
+        410,
+        432
+      ]
+    },
+    {
+      "text": "- Reconciled subsidiary ledgers",
+      "score": 0.9834622740745544,
+      "box": [
+        126,
+        430,
+        419,
+        459
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999171495437622,
+      "box": [
+        116,
+        494,
+        268,
+        521
+      ]
+    },
+    {
+      "text": "Master's, Quantitative Finance, Summit University, 2023",
+      "score": 0.9984585046768188,
+      "box": [
+        114,
+        539,
+        636,
+        567
+      ]
+    },
+    {
+      "text": "Bachelor's, Accounting and Auditing, Silverfield University, 2021",
+      "score": 0.9790221452713013,
+      "box": [
+        117,
+        567,
+        706,
+        591
+      ]
+    },
+    {
+      "text": "• Completed coursework in financial data interpretation",
+      "score": 0.9874314665794373,
+      "box": [
+        131,
+        593,
+        640,
+        617
+      ]
+    },
+    {
+      "text": "Completed coursework in accounting information systems",
+      "score": 0.9896414875984192,
+      "box": [
+        131,
+        613,
+        681,
+        645
+      ]
+    }
+  ],
+  "seconds": 2.4995001000352204,
+  "id": "06560",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

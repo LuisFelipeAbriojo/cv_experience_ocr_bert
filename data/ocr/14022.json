@@ -1,0 +1,182 @@
+{
+  "lines": [
+    {
+      "text": "NIKOLE ROBBINS",
+      "score": 0.999455451965332,
+      "box": [
+        116,
+        89,
+        407,
+        122
+      ]
+    },
+    {
+      "text": "FL, USA | +1-549-543-9023 | nikole.robbins@example.com",
+      "score": 0.9831165671348572,
+      "box": [
+        117,
+        150,
+        664,
+        177
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.984839677810669,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Learning Star Academy, 2020.02—2023.01",
+      "score": 0.9871099591255188,
+      "box": [
+        115,
+        287,
+        856,
+        318
+      ]
+    },
+    {
+      "text": "- Directed assessment development efforts",
+      "score": 0.9969241619110107,
+      "box": [
+        125,
+        314,
+        526,
+        342
+      ]
+    },
+    {
+      "text": "- Led curriculum integration projects",
+      "score": 0.9991163015365601,
+      "box": [
+        127,
+        339,
+        462,
+        368
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Caring Futures School, 2015.122018.11",
+      "score": 0.9997291564941406,
+      "box": [
+        117,
+        382,
+        845,
+        409
+      ]
+    },
+    {
+      "text": "- Developed progress monitoring tools",
+      "score": 0.991294264793396,
+      "box": [
+        127,
+        409,
+        482,
+        433
+      ]
+    },
+    {
+      "text": "- Reviewed and updated curriculum materials",
+      "score": 0.9913349747657776,
+      "box": [
+        127,
+        434,
+        548,
+        457
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Harmony Field Academy, 2012.052015.05",
+      "score": 0.9964309334754944,
+      "box": [
+        119,
+        474,
+        866,
+        498
+      ]
+    },
+    {
+      "text": "- Reviewed homework assignments",
+      "score": 0.999329686164856,
+      "box": [
+        126,
+        498,
+        458,
+        524
+      ]
+    },
+    {
+      "text": "- Monitored independent work sessions",
+      "score": 0.9919372797012329,
+      "box": [
+        127,
+        521,
+        493,
+        549
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999259114265442,
+      "box": [
+        117,
+        587,
+        267,
+        614
+      ]
+    },
+    {
+      "text": "Master's, Teaching Support, Evergreen University, 2004",
+      "score": 0.9984615445137024,
+      "box": [
+        117,
+        632,
+        636,
+        659
+      ]
+    },
+    {
+      "text": "Bachelor's, Elementary Education Preparation, Fieldview University, 2002",
+      "score": 0.9740399122238159,
+      "box": [
+        117,
+        659,
+        798,
+        683
+      ]
+    },
+    {
+      "text": "• Completed coursework in classroom structure planning",
+      "score": 0.9883351922035217,
+      "box": [
+        132,
+        681,
+        656,
+        711
+      ]
+    },
+    {
+      "text": "Completed coursework in foundational teaching practices",
+      "score": 0.9907177090644836,
+      "box": [
+        131,
+        704,
+        678,
+        738
+      ]
+    }
+  ],
+  "seconds": 2.9162950003519654,
+  "id": "14022",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

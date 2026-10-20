@@ -1,0 +1,182 @@
+{
+  "lines": [
+    {
+      "text": "JOSHUAMICHAEL STOKES",
+      "score": 0.9998445510864258,
+      "box": [
+        116,
+        92,
+        555,
+        122
+      ]
+    },
+    {
+      "text": "VA, USA | +1-506-969-4357 | joshuamichael.stokes@example.com",
+      "score": 0.9911983013153076,
+      "box": [
+        116,
+        150,
+        740,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.998914897441864,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, ClearLedger Financial, 2020.05—2023.01",
+      "score": 0.9890252947807312,
+      "box": [
+        115,
+        288,
+        704,
+        317
+      ]
+    },
+    {
+      "text": "- Established accounting policies",
+      "score": 0.9849016666412354,
+      "box": [
+        126,
+        316,
+        434,
+        343
+      ]
+    },
+    {
+      "text": "- Directed accounting training programs",
+      "score": 0.9926957488059998,
+      "box": [
+        127,
+        340,
+        495,
+        369
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Precise Ledger Financial, 2017.09—2020.05",
+      "score": 0.9897100329399109,
+      "box": [
+        117,
+        382,
+        731,
+        409
+      ]
+    },
+    {
+      "text": "- Prepared audit reports",
+      "score": 0.9991639256477356,
+      "box": [
+        125,
+        406,
+        351,
+        435
+      ]
+    },
+    {
+      "text": "- Developed audit plans",
+      "score": 0.9801555871963501,
+      "box": [
+        126,
+        431,
+        350,
+        461
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Balanced Path Advisors, 2014.12—2017.09",
+      "score": 0.9761900901794434,
+      "box": [
+        116,
+        471,
+        722,
+        499
+      ]
+    },
+    {
+      "text": "- Prepared supporting schedules",
+      "score": 0.9939185380935669,
+      "box": [
+        125,
+        497,
+        433,
+        525
+      ]
+    },
+    {
+      "text": "- Entered financial data into accounting systems",
+      "score": 0.9587939381599426,
+      "box": [
+        126,
+        520,
+        573,
+        551
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999076128005981,
+      "box": [
+        117,
+        587,
+        267,
+        614
+      ]
+    },
+    {
+      "text": "Master's, Accounting, Silverton University, 2013",
+      "score": 0.9835923314094543,
+      "box": [
+        118,
+        633,
+        559,
+        657
+      ]
+    },
+    {
+      "text": "Bachelor's, Data Analytics, Brookfield University, 2011",
+      "score": 0.9820401072502136,
+      "box": [
+        114,
+        655,
+        620,
+        686
+      ]
+    },
+    {
+      "text": "• Completed coursework in pension accounting basics",
+      "score": 0.9868574142456055,
+      "box": [
+        132,
+        684,
+        633,
+        708
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of journal entries",
+      "score": 0.9948145151138306,
+      "box": [
+        132,
+        707,
+        510,
+        734
+      ]
+    }
+  ],
+  "seconds": 2.6475753001868725,
+  "id": "57514",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

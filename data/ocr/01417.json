@@ -1,0 +1,212 @@
+{
+  "lines": [
+    {
+      "text": "RANDIE DOUGLAS",
+      "score": 0.9998351335525513,
+      "box": [
+        118,
+        91,
+        422,
+        121
+      ]
+    },
+    {
+      "text": "AZ, USA | +1-695-613-4995 | randie.douglas@example.com",
+      "score": 0.9932824373245239,
+      "box": [
+        116,
+        150,
+        675,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9988901019096375,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Skywave Tech, 2020.01—2023.01",
+      "score": 0.9866300821304321,
+      "box": [
+        116,
+        290,
+        631,
+        317
+      ]
+    },
+    {
+      "text": "- Led performance tuning initiatives",
+      "score": 0.9893515110015869,
+      "box": [
+        129,
+        317,
+        453,
+        341
+      ]
+    },
+    {
+      "text": "- Reviewed system design documents",
+      "score": 0.9861199855804443,
+      "box": [
+        128,
+        340,
+        481,
+        368
+      ]
+    },
+    {
+      "text": "Software Developers, Clearstone Software, 2017.012020.01",
+      "score": 0.9877004623413086,
+      "box": [
+        116,
+        382,
+        684,
+        409
+      ]
+    },
+    {
+      "text": "- Implemented security architectures",
+      "score": 0.9960602521896362,
+      "box": [
+        126,
+        408,
+        466,
+        434
+      ]
+    },
+    {
+      "text": "- Led database design efforts",
+      "score": 0.9883942008018494,
+      "box": [
+        127,
+        431,
+        400,
+        459
+      ]
+    },
+    {
+      "text": "Software Developers, Brightsoft Solutions, 2014.012017.01",
+      "score": 0.9843446612358093,
+      "box": [
+        116,
+        471,
+        676,
+        499
+      ]
+    },
+    {
+      "text": "- Integrated third-party services",
+      "score": 0.9923251867294312,
+      "box": [
+        126,
+        500,
+        418,
+        524
+      ]
+    },
+    {
+      "text": "- Developed background jobs",
+      "score": 0.9889373183250427,
+      "box": [
+        127,
+        521,
+        401,
+        551
+      ]
+    },
+    {
+      "text": "Software Developers, Stonefield Software, 2008.05—2011.05",
+      "score": 0.9885590672492981,
+      "box": [
+        117,
+        566,
+        677,
+        590
+      ]
+    },
+    {
+      "text": "- Debugged runtime errors",
+      "score": 0.9890326857566833,
+      "box": [
+        128,
+        591,
+        375,
+        615
+      ]
+    },
+    {
+      "text": "- Implemented error handling logic",
+      "score": 0.9973328709602356,
+      "box": [
+        127,
+        614,
+        446,
+        643
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.99991774559021,
+      "box": [
+        117,
+        681,
+        266,
+        705
+      ]
+    },
+    {
+      "text": "Master's, Stonecrest University, 2005",
+      "score": 0.9963460564613342,
+      "box": [
+        116,
+        724,
+        464,
+        750
+      ]
+    },
+    {
+      "text": "Bachelor's, Cedar Valley University, 2003",
+      "score": 0.9755812883377075,
+      "box": [
+        117,
+        750,
+        500,
+        774
+      ]
+    },
+    {
+      "text": "•Studied principles of computational thinking",
+      "score": 0.9846575260162354,
+      "box": [
+        130,
+        774,
+        549,
+        800
+      ]
+    },
+    {
+      "text": "•Studied principles of documentation standards",
+      "score": 0.9877002835273743,
+      "box": [
+        131,
+        799,
+        576,
+        826
+      ]
+    }
+  ],
+  "seconds": 2.7804120001383126,
+  "id": "01417",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

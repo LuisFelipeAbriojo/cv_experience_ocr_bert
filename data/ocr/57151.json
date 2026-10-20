@@ -1,0 +1,112 @@
+{
+  "lines": [
+    {
+      "text": "ALEXIS VAUGHAN",
+      "score": 0.9998718500137329,
+      "box": [
+        118,
+        91,
+        418,
+        122
+      ]
+    },
+    {
+      "text": "VA, USA | +1-807-297-9345 | alexis.vaughan@example.com",
+      "score": 0.9765270352363586,
+      "box": [
+        118,
+        152,
+        678,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9997296333312988,
+      "box": [
+        117,
+        243,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Learning Steps Academy, 2020.10—2023.01",
+      "score": 0.9912878274917603,
+      "box": [
+        116,
+        288,
+        869,
+        316
+      ]
+    },
+    {
+      "text": "- Assisted with small group instruction activities",
+      "score": 0.9795773029327393,
+      "box": [
+        126,
+        315,
+        565,
+        340
+      ]
+    },
+    {
+      "text": "- Conducted reading practice sessions",
+      "score": 0.9868729114532471,
+      "box": [
+        128,
+        340,
+        484,
+        366
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999333620071411,
+      "box": [
+        116,
+        404,
+        268,
+        431
+      ]
+    },
+    {
+      "text": "Bachelor's, Educational Assistance, High Meadow University, 2019",
+      "score": 0.9916597604751587,
+      "box": [
+        115,
+        446,
+        737,
+        474
+      ]
+    },
+    {
+      "text": "•Studied principles of student support systems",
+      "score": 0.991459310054779,
+      "box": [
+        128,
+        473,
+        569,
+        501
+      ]
+    },
+    {
+      "text": "Studied principles of differentiated instruction",
+      "score": 0.9874117374420166,
+      "box": [
+        131,
+        497,
+        565,
+        525
+      ]
+    }
+  ],
+  "seconds": 2.161403600126505,
+  "id": "57151",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

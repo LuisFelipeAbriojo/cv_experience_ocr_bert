@@ -1,0 +1,112 @@
+{
+  "lines": [
+    {
+      "text": "DAVID FRY",
+      "score": 0.9997296929359436,
+      "box": [
+        116,
+        89,
+        299,
+        123
+      ]
+    },
+    {
+      "text": "AL, USA | +1-832-755-1130 | david.fry@example.com",
+      "score": 0.9804269671440125,
+      "box": [
+        116,
+        149,
+        617,
+        177
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9997507929801941,
+      "box": [
+        117,
+        243,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Software Developers, Netcrest Technologies, 2020.05—2023.01",
+      "score": 0.9927827715873718,
+      "box": [
+        115,
+        287,
+        703,
+        315
+      ]
+    },
+    {
+      "text": "- Handled feature toggles",
+      "score": 0.9996973276138306,
+      "box": [
+        125,
+        313,
+        366,
+        342
+      ]
+    },
+    {
+      "text": "- Debugged runtime errors",
+      "score": 0.9949826598167419,
+      "box": [
+        125,
+        338,
+        375,
+        367
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999057054519653,
+      "box": [
+        116,
+        404,
+        268,
+        431
+      ]
+    },
+    {
+      "text": "Some college (no degree), Summit Ridge University, 2023",
+      "score": 0.9877769947052002,
+      "box": [
+        116,
+        446,
+        657,
+        476
+      ]
+    },
+    {
+      "text": "•Completed coursework in fault tolerance",
+      "score": 0.9744566679000854,
+      "box": [
+        131,
+        473,
+        521,
+        499
+      ]
+    },
+    {
+      "text": "Studied principles of database design",
+      "score": 0.9955411553382874,
+      "box": [
+        132,
+        497,
+        495,
+        526
+      ]
+    }
+  ],
+  "seconds": 1.9891300001181662,
+  "id": "00632",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

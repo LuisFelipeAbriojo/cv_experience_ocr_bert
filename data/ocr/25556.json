@@ -1,0 +1,112 @@
+{
+  "lines": [
+    {
+      "text": "JESSICA GOLDEN",
+      "score": 0.996175229549408,
+      "box": [
+        116,
+        90,
+        414,
+        121
+      ]
+    },
+    {
+      "text": "MA, USA | +1-918-388-4527 | jessica.golden@example.com",
+      "score": 0.9892615675926208,
+      "box": [
+        115,
+        149,
+        675,
+        177
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9994096159934998,
+      "box": [
+        116,
+        243,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Registered Nurses, Harmony Path Health, 2021.01-2021.10",
+      "score": 0.9870809316635132,
+      "box": [
+        115,
+        286,
+        677,
+        317
+      ]
+    },
+    {
+      "text": "- Assisted with emergency procedures",
+      "score": 0.9853646159172058,
+      "box": [
+        124,
+        313,
+        484,
+        342
+      ]
+    },
+    {
+      "text": "- Prepared sterile supplies",
+      "score": 0.9921011328697205,
+      "box": [
+        125,
+        338,
+        373,
+        368
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9965437650680542,
+      "box": [
+        116,
+        404,
+        268,
+        431
+      ]
+    },
+    {
+      "text": "Bachelor's, Biomedical Sciences, Crestview University, 2019",
+      "score": 0.9868263006210327,
+      "box": [
+        115,
+        446,
+        677,
+        474
+      ]
+    },
+    {
+      "text": "Studied principles of infection prevention",
+      "score": 0.9854769706726074,
+      "box": [
+        129,
+        472,
+        523,
+        500
+      ]
+    },
+    {
+      "text": "Completed coursework in nursing ethics",
+      "score": 0.9998155832290649,
+      "box": [
+        132,
+        497,
+        519,
+        525
+      ]
+    }
+  ],
+  "seconds": 1.844302199780941,
+  "id": "25556",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

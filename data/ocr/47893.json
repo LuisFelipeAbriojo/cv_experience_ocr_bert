@@ -1,0 +1,102 @@
+{
+  "lines": [
+    {
+      "text": "TYLER BRYANT",
+      "score": 0.9977099895477295,
+      "box": [
+        115,
+        87,
+        377,
+        123
+      ]
+    },
+    {
+      "text": "SC, USA | +1-686-870-1710 | tyler.bryant@example.com",
+      "score": 0.98830646276474,
+      "box": [
+        117,
+        150,
+        644,
+        177
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9997288584709167,
+      "box": [
+        117,
+        243,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Construction Laborers, PrimeTrack Builders, 2022.10—2023.01",
+      "score": 0.981580913066864,
+      "box": [
+        116,
+        287,
+        695,
+        315
+      ]
+    },
+    {
+      "text": "- Assisted with concrete pouring",
+      "score": 0.9844039082527161,
+      "box": [
+        126,
+        313,
+        425,
+        342
+      ]
+    },
+    {
+      "text": "- Operated hand tools for assembly tasks",
+      "score": 0.9787083864212036,
+      "box": [
+        127,
+        339,
+        509,
+        367
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999934732913971,
+      "box": [
+        116,
+        404,
+        268,
+        431
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Construction Materials, Ironwood High School, 2023",
+      "score": 0.9869621396064758,
+      "box": [
+        115,
+        446,
+        858,
+        474
+      ]
+    },
+    {
+      "text": "Studied fundamentals of site preparation planning",
+      "score": 0.9900248646736145,
+      "box": [
+        128,
+        471,
+        608,
+        501
+      ]
+    }
+  ],
+  "seconds": 1.9360635001212358,
+  "id": "47893",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

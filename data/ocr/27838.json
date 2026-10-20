@@ -1,0 +1,112 @@
+{
+  "lines": [
+    {
+      "text": "GABRIELLE LARSEN",
+      "score": 0.9971598386764526,
+      "box": [
+        117,
+        90,
+        457,
+        122
+      ]
+    },
+    {
+      "text": "MI, USA | +1-950-231-1865 | gabrielle.larsen@example.com",
+      "score": 0.9792609214782715,
+      "box": [
+        115,
+        149,
+        677,
+        177
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9997362494468689,
+      "box": [
+        117,
+        243,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Harmony Academy, 2022.07—2023.01",
+      "score": 0.98492431640625,
+      "box": [
+        116,
+        288,
+        815,
+        318
+      ]
+    },
+    {
+      "text": "- Supported art instruction",
+      "score": 0.9886294603347778,
+      "box": [
+        126,
+        316,
+        370,
+        340
+      ]
+    },
+    {
+      "text": "- Distributed instructional handouts",
+      "score": 0.9995328187942505,
+      "box": [
+        127,
+        339,
+        450,
+        364
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999566674232483,
+      "box": [
+        116,
+        404,
+        268,
+        431
+      ]
+    },
+    {
+      "text": "Bachelor's, Child and Family Studies, Lakeview University, 2023",
+      "score": 0.9857903122901917,
+      "box": [
+        115,
+        446,
+        711,
+        474
+      ]
+    },
+    {
+      "text": "• Completed coursework in foundational education methods",
+      "score": 0.9839938282966614,
+      "box": [
+        132,
+        473,
+        684,
+        498
+      ]
+    },
+    {
+      "text": "Completed coursework in lesson reflection practices",
+      "score": 0.9931634664535522,
+      "box": [
+        132,
+        497,
+        630,
+        525
+      ]
+    }
+  ],
+  "seconds": 2.1730851996690035,
+  "id": "27838",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

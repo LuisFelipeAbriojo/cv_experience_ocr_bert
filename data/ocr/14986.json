@@ -1,0 +1,202 @@
+{
+  "lines": [
+    {
+      "text": "TIANNA HINTON",
+      "score": 0.999867856502533,
+      "box": [
+        117,
+        92,
+        382,
+        122
+      ]
+    },
+    {
+      "text": "GA, USA | +1-279-242-1720 | tianna.hinton@example.com",
+      "score": 0.996789276599884,
+      "box": [
+        116,
+        150,
+        662,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9985945820808411,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Learning Start Academy, 2020.05—2023.01",
+      "score": 0.9898044466972351,
+      "box": [
+        117,
+        290,
+        860,
+        317
+      ]
+    },
+    {
+      "text": "- Directed curriculum revision cycles",
+      "score": 0.9831070899963379,
+      "box": [
+        124,
+        314,
+        464,
+        343
+      ]
+    },
+    {
+      "text": "- Directed assessment development efforts",
+      "score": 0.9996629357337952,
+      "box": [
+        125,
+        339,
+        527,
+        368
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Bright Futures Learning, 2017.09—2020.05",
+      "score": 0.9839590191841125,
+      "box": [
+        116,
+        381,
+        856,
+        410
+      ]
+    },
+    {
+      "text": "- Directed instructional planning processes",
+      "score": 0.993081271648407,
+      "box": [
+        126,
+        408,
+        522,
+        434
+      ]
+    },
+    {
+      "text": "- Established instructional best practices",
+      "score": 0.9912461042404175,
+      "box": [
+        125,
+        430,
+        502,
+        459
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Future Start Academy, 2012.112015.08",
+      "score": 0.9976646304130554,
+      "box": [
+        116,
+        470,
+        842,
+        501
+      ]
+    },
+    {
+      "text": "- Designed learning activities",
+      "score": 0.9848331212997437,
+      "box": [
+        126,
+        497,
+        398,
+        526
+      ]
+    },
+    {
+      "text": "- Integrated educational technology tools",
+      "score": 0.9994844794273376,
+      "box": [
+        126,
+        520,
+        506,
+        552
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Kind Grove School, 2009.08—2012.05",
+      "score": 0.9906966686248779,
+      "box": [
+        118,
+        566,
+        811,
+        590
+      ]
+    },
+    {
+      "text": "- Prepared lesson summaries",
+      "score": 0.9939113259315491,
+      "box": [
+        127,
+        592,
+        403,
+        616
+      ]
+    },
+    {
+      "text": "- Recorded test results",
+      "score": 0.9781767129898071,
+      "box": [
+        125,
+        613,
+        340,
+        644
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999251961708069,
+      "box": [
+        117,
+        681,
+        266,
+        705
+      ]
+    },
+    {
+      "text": "Bachelor's, Instructional Studies, Elm Ridge University, 2004",
+      "score": 0.9885916709899902,
+      "box": [
+        117,
+        725,
+        674,
+        748
+      ]
+    },
+    {
+      "text": "• Completed coursework in foundational assessment tools",
+      "score": 0.9961811304092407,
+      "box": [
+        132,
+        750,
+        670,
+        774
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of science education",
+      "score": 0.9866912364959717,
+      "box": [
+        132,
+        773,
+        546,
+        799
+      ]
+    }
+  ],
+  "seconds": 2.9967008996754885,
+  "id": "14986",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

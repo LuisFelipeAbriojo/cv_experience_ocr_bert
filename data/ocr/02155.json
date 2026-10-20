@@ -1,0 +1,142 @@
+{
+  "lines": [
+    {
+      "text": "LACRETIA WALTERS",
+      "score": 0.9998494386672974,
+      "box": [
+        118,
+        91,
+        460,
+        122
+      ]
+    },
+    {
+      "text": "AR, USA | +1-593-468-1752 | lacretia.walters@example.com",
+      "score": 0.9842210412025452,
+      "box": [
+        118,
+        152,
+        679,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.998323380947113,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, EverHands Health Group, 2020.06—2023.01",
+      "score": 0.9941144585609436,
+      "box": [
+        116,
+        288,
+        708,
+        316
+      ]
+    },
+    {
+      "text": "- Supervised multidisciplinary care teams",
+      "score": 0.9844878315925598,
+      "box": [
+        126,
+        315,
+        509,
+        342
+      ]
+    },
+    {
+      "text": "- Led nursing audit programs",
+      "score": 0.9791527390480042,
+      "box": [
+        127,
+        339,
+        397,
+        370
+      ]
+    },
+    {
+      "text": "Registered Nurses, SunWay Care Group, 2017.112020.06",
+      "score": 0.9998083114624023,
+      "box": [
+        117,
+        382,
+        669,
+        409
+      ]
+    },
+    {
+      "text": "- Prepared treatment rooms",
+      "score": 0.999281644821167,
+      "box": [
+        126,
+        407,
+        387,
+        433
+      ]
+    },
+    {
+      "text": "- Assisted with patient transfers",
+      "score": 0.9783468246459961,
+      "box": [
+        127,
+        430,
+        420,
+        459
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999374747276306,
+      "box": [
+        116,
+        494,
+        267,
+        521
+      ]
+    },
+    {
+      "text": "Bachelor's, Patient Care, Valley View University, 2017",
+      "score": 0.9864194393157959,
+      "box": [
+        115,
+        539,
+        617,
+        567
+      ]
+    },
+    {
+      "text": "•Studied fundamentals of tracheostomy care",
+      "score": 0.9843290448188782,
+      "box": [
+        130,
+        566,
+        550,
+        592
+      ]
+    },
+    {
+      "text": "•Studied principles of continuity of care",
+      "score": 0.9746115207672119,
+      "box": [
+        131,
+        591,
+        500,
+        616
+      ]
+    }
+  ],
+  "seconds": 2.2923741000704467,
+  "id": "02155",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

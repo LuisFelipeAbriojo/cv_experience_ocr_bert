@@ -1,0 +1,152 @@
+{
+  "lines": [
+    {
+      "text": "JARED ALFARO",
+      "score": 0.9968711733818054,
+      "box": [
+        116,
+        91,
+        379,
+        122
+      ]
+    },
+    {
+      "text": "OH, USA | +1-473-379-3777 | jared.alfaro@example.com",
+      "score": 0.9896666407585144,
+      "box": [
+        118,
+        152,
+        647,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9991400837898254,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Balanced Ledger Co., 2019.09—2021.09",
+      "score": 0.9956363439559937,
+      "box": [
+        115,
+        288,
+        697,
+        316
+      ]
+    },
+    {
+      "text": "- Established financial data governance",
+      "score": 0.9741999506950378,
+      "box": [
+        126,
+        315,
+        493,
+        342
+      ]
+    },
+    {
+      "text": "- Led cross-functional financial integration",
+      "score": 0.9989976286888123,
+      "box": [
+        127,
+        338,
+        515,
+        368
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Balanced Path Financial, 2017.02—2019.03",
+      "score": 0.9911732077598572,
+      "box": [
+        118,
+        383,
+        725,
+        407
+      ]
+    },
+    {
+      "text": "- Reviewed billing statements",
+      "score": 0.9850453734397888,
+      "box": [
+        125,
+        407,
+        402,
+        432
+      ]
+    },
+    {
+      "text": "- Reviewed timesheets for payroll",
+      "score": 0.9787784814834595,
+      "box": [
+        127,
+        431,
+        438,
+        457
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999297261238098,
+      "box": [
+        116,
+        494,
+        267,
+        521
+      ]
+    },
+    {
+      "text": "Master's, Organizational Management, Goldenwood University, 2015",
+      "score": 0.9998581409454346,
+      "box": [
+        114,
+        539,
+        754,
+        568
+      ]
+    },
+    {
+      "text": "Bachelor's, Financial Planning, Morningstar University, 2013",
+      "score": 0.9804219007492065,
+      "box": [
+        117,
+        567,
+        675,
+        591
+      ]
+    },
+    {
+      "text": "• Completed coursework in bank reconciliation",
+      "score": 0.997363269329071,
+      "box": [
+        131,
+        593,
+        563,
+        616
+      ]
+    },
+    {
+      "text": "Studied principles of audit sampling",
+      "score": 0.9940770268440247,
+      "box": [
+        131,
+        615,
+        477,
+        644
+      ]
+    }
+  ],
+  "seconds": 2.4812623001635075,
+  "id": "41984",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

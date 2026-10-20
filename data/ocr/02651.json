@@ -1,0 +1,102 @@
+{
+  "lines": [
+    {
+      "text": "BRETT BROCK",
+      "score": 0.9998805522918701,
+      "box": [
+        117,
+        89,
+        363,
+        123
+      ]
+    },
+    {
+      "text": "CA, USA | +1-452-822-3780 | brett.brock@example.com",
+      "score": 0.9875591397285461,
+      "box": [
+        117,
+        150,
+        640,
+        177
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9997239112854004,
+      "box": [
+        117,
+        243,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Construction Laborers, Unified Build Co., 2021.08—2022.01",
+      "score": 0.9795584678649902,
+      "box": [
+        116,
+        287,
+        662,
+        315
+      ]
+    },
+    {
+      "text": "- Installed temporary supports",
+      "score": 0.9884213805198669,
+      "box": [
+        125,
+        313,
+        407,
+        343
+      ]
+    },
+    {
+      "text": "- Performed basic sanding and painting",
+      "score": 0.9993137717247009,
+      "box": [
+        126,
+        338,
+        492,
+        369
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999475479125977,
+      "box": [
+        116,
+        404,
+        268,
+        431
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Construction Technology, Windfield High School, 2014",
+      "score": 0.9936563372612,
+      "box": [
+        116,
+        446,
+        882,
+        475
+      ]
+    },
+    {
+      "text": "• Completed coursework in construction fundamentals",
+      "score": 0.9784111976623535,
+      "box": [
+        133,
+        474,
+        633,
+        498
+      ]
+    }
+  ],
+  "seconds": 1.9926207000389695,
+  "id": "02651",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

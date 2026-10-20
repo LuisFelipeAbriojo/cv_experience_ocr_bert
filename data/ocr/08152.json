@@ -1,0 +1,112 @@
+{
+  "lines": [
+    {
+      "text": "ABIGAIL CHEN",
+      "score": 0.99933260679245,
+      "box": [
+        117,
+        91,
+        360,
+        122
+      ]
+    },
+    {
+      "text": "CA, USA | +1-395-244-5960 | abigail.chen@example.com",
+      "score": 0.9860230684280396,
+      "box": [
+        116,
+        149,
+        652,
+        177
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9997258186340332,
+      "box": [
+        117,
+        243,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Integrity Books Group, 2021.03—2023.01",
+      "score": 0.9785950183868408,
+      "box": [
+        114,
+        286,
+        702,
+        317
+      ]
+    },
+    {
+      "text": "- Assisted with financial statement preparation",
+      "score": 0.9821903109550476,
+      "box": [
+        125,
+        313,
+        556,
+        341
+      ]
+    },
+    {
+      "text": "- Prepared audit confirmations",
+      "score": 0.9845148324966431,
+      "box": [
+        127,
+        339,
+        410,
+        365
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999385476112366,
+      "box": [
+        116,
+        404,
+        268,
+        431
+      ]
+    },
+    {
+      "text": "Bachelor's, Economics, Greenfield Ridge University, 2022",
+      "score": 0.9862086176872253,
+      "box": [
+        115,
+        446,
+        652,
+        474
+      ]
+    },
+    {
+      "text": "•Completed coursework in accounting ethics",
+      "score": 0.9857392311096191,
+      "box": [
+        130,
+        473,
+        551,
+        499
+      ]
+    },
+    {
+      "text": "•Studied fundamentals of documentation standards",
+      "score": 0.9879346489906311,
+      "box": [
+        132,
+        497,
+        613,
+        522
+      ]
+    }
+  ],
+  "seconds": 1.8932198998518288,
+  "id": "08152",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

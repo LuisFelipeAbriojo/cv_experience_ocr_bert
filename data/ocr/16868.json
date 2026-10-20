@@ -1,0 +1,142 @@
+{
+  "lines": [
+    {
+      "text": "EMILY MOYER",
+      "score": 0.999311625957489,
+      "box": [
+        118,
+        91,
+        351,
+        121
+      ]
+    },
+    {
+      "text": "ID, USA | +1-473-663-1899 | emily.moyer@example.com",
+      "score": 0.9902561902999878,
+      "box": [
+        116,
+        149,
+        645,
+        177
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9997584819793701,
+      "box": [
+        117,
+        243,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Registered Nurses, SunSpring Nursing, 2019.09—2022.06",
+      "score": 0.9837344288825989,
+      "box": [
+        115,
+        287,
+        652,
+        318
+      ]
+    },
+    {
+      "text": "- Established care delivery standards",
+      "score": 0.9981056451797485,
+      "box": [
+        126,
+        314,
+        471,
+        341
+      ]
+    },
+    {
+      "text": "- Led clinical governance efforts",
+      "score": 0.9841586947441101,
+      "box": [
+        127,
+        339,
+        426,
+        367
+      ]
+    },
+    {
+      "text": "Registered Nurses, GentleLife Nursing, 2016.052019.02",
+      "score": 0.9994970560073853,
+      "box": [
+        116,
+        381,
+        649,
+        409
+      ]
+    },
+    {
+      "text": "- Monitored patient intake and output",
+      "score": 0.9900881052017212,
+      "box": [
+        125,
+        407,
+        470,
+        433
+      ]
+    },
+    {
+      "text": "- Performed wound dressing changes",
+      "score": 0.9961785674095154,
+      "box": [
+        127,
+        429,
+        475,
+        459
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999135136604309,
+      "box": [
+        117,
+        494,
+        267,
+        521
+      ]
+    },
+    {
+      "text": "Associate's degree, Geriatric Care, Amber Hills University, 2004",
+      "score": 0.9912799596786499,
+      "box": [
+        116,
+        539,
+        708,
+        567
+      ]
+    },
+    {
+      "text": "• Completed coursework in medication safety",
+      "score": 0.9874963760375977,
+      "box": [
+        131,
+        566,
+        551,
+        592
+      ]
+    },
+    {
+      "text": "• Completed coursework in patient-centered care",
+      "score": 0.9949129223823547,
+      "box": [
+        132,
+        591,
+        586,
+        617
+      ]
+    }
+  ],
+  "seconds": 2.6530915000475943,
+  "id": "16868",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

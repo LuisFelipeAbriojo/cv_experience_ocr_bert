@@ -1,0 +1,172 @@
+{
+  "lines": [
+    {
+      "text": "LACEE HARRISON",
+      "score": 0.9929232597351074,
+      "box": [
+        117,
+        91,
+        419,
+        122
+      ]
+    },
+    {
+      "text": "MA, USA | +1-705-710-8769 | lacee.harrison@example.com",
+      "score": 0.9937602877616882,
+      "box": [
+        115,
+        150,
+        675,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9990050792694092,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, TrueBridge Nursing Services, 2020.11—2023.01",
+      "score": 0.9886700510978699,
+      "box": [
+        115,
+        287,
+        743,
+        319
+      ]
+    },
+    {
+      "text": "- Directed nursing process improvements",
+      "score": 0.9996132254600525,
+      "box": [
+        125,
+        314,
+        510,
+        343
+      ]
+    },
+    {
+      "text": "- Managed nursing unit operations",
+      "score": 0.987684428691864,
+      "box": [
+        126,
+        339,
+        448,
+        370
+      ]
+    },
+    {
+      "text": "Registered Nurses, Compassion Way Medical, 2018.082020.11",
+      "score": 0.9967216849327087,
+      "box": [
+        117,
+        382,
+        717,
+        409
+      ]
+    },
+    {
+      "text": "- Managed patient referrals",
+      "score": 0.9951143860816956,
+      "box": [
+        124,
+        406,
+        381,
+        435
+      ]
+    },
+    {
+      "text": "- Provided pediatric nursing care",
+      "score": 0.9889244437217712,
+      "box": [
+        126,
+        430,
+        431,
+        462
+      ]
+    },
+    {
+      "text": "Registered Nurses, Harmony Bridge Health, 2013.122016.03",
+      "score": 0.9872248768806458,
+      "box": [
+        117,
+        472,
+        693,
+        499
+      ]
+    },
+    {
+      "text": "- Checked medication dosages",
+      "score": 0.9817643165588379,
+      "box": [
+        127,
+        497,
+        417,
+        524
+      ]
+    },
+    {
+      "text": "- Prepared patients for examinations",
+      "score": 0.9868373870849609,
+      "box": [
+        128,
+        521,
+        466,
+        552
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9998637437820435,
+      "box": [
+        117,
+        587,
+        267,
+        614
+      ]
+    },
+    {
+      "text": "Bachelor's, Health Information Management, Prairie View University, 2012",
+      "score": 0.9948561191558838,
+      "box": [
+        117,
+        632,
+        803,
+        659
+      ]
+    },
+    {
+      "text": "•Completed coursework in clinical reasoning",
+      "score": 0.9815952181816101,
+      "box": [
+        129,
+        657,
+        551,
+        685
+      ]
+    },
+    {
+      "text": "•Studied principles of hematologic nursing basics",
+      "score": 0.9827625751495361,
+      "box": [
+        131,
+        681,
+        594,
+        710
+      ]
+    }
+  ],
+  "seconds": 2.5317073999904096,
+  "id": "26622",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

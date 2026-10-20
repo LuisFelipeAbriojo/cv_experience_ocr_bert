@@ -1,0 +1,132 @@
+{
+  "lines": [
+    {
+      "text": "ELIAS PARKS",
+      "score": 0.999819815158844,
+      "box": [
+        117,
+        89,
+        343,
+        123
+      ]
+    },
+    {
+      "text": "OR, USA | +1-224-358-5275 | elias.parks@example.com",
+      "score": 0.9915648698806763,
+      "box": [
+        118,
+        152,
+        641,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9997584819793701,
+      "box": [
+        117,
+        243,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Construction Laborers, BuildStone Group, 2021.052023.01",
+      "score": 0.998866081237793,
+      "box": [
+        117,
+        289,
+        672,
+        316
+      ]
+    },
+    {
+      "text": "- Developed construction standards",
+      "score": 0.9912142753601074,
+      "box": [
+        126,
+        315,
+        457,
+        340
+      ]
+    },
+    {
+      "text": "- Established project documentation systems",
+      "score": 0.9900124073028564,
+      "box": [
+        127,
+        339,
+        544,
+        367
+      ]
+    },
+    {
+      "text": "Construction Laborers, NextRise Construction, 2016.102018.07",
+      "score": 0.9991424679756165,
+      "box": [
+        117,
+        381,
+        716,
+        408
+      ]
+    },
+    {
+      "text": "- Installed basic flooring materials",
+      "score": 0.9964900612831116,
+      "box": [
+        125,
+        407,
+        440,
+        432
+      ]
+    },
+    {
+      "text": "- Supported crew leaders during tasks",
+      "score": 0.9748536944389343,
+      "box": [
+        127,
+        431,
+        481,
+        458
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999135136604309,
+      "box": [
+        117,
+        494,
+        267,
+        521
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Construction Engineering Technology, Windfield High School, 2013",
+      "score": 0.9998391270637512,
+      "box": [
+        116,
+        540,
+        998,
+        567
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of job site inspections",
+      "score": 0.9888057708740234,
+      "box": [
+        132,
+        566,
+        555,
+        591
+      ]
+    }
+  ],
+  "seconds": 2.3498164997436106,
+  "id": "44163",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

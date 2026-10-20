@@ -1,0 +1,202 @@
+{
+  "lines": [
+    {
+      "text": "KYLE FLYNN",
+      "score": 0.9969515800476074,
+      "box": [
+        118,
+        92,
+        328,
+        120
+      ]
+    },
+    {
+      "text": "WA, USA | +1-985-512-7639 | kyle.flynn@example.com",
+      "score": 0.9860826134681702,
+      "box": [
+        116,
+        151,
+        631,
+        177
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9990525245666504,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Stonepath Software, 2020.06—2023.01",
+      "score": 0.9912922978401184,
+      "box": [
+        116,
+        290,
+        679,
+        317
+      ]
+    },
+    {
+      "text": "- Defined data governance policies",
+      "score": 0.996300220489502,
+      "box": [
+        127,
+        314,
+        451,
+        342
+      ]
+    },
+    {
+      "text": "- Implemented disaster recovery plans",
+      "score": 0.9908832907676697,
+      "box": [
+        127,
+        339,
+        483,
+        369
+      ]
+    },
+    {
+      "text": "Software Developers, Brightcrest Software, 2017.112020.06",
+      "score": 0.9888097047805786,
+      "box": [
+        117,
+        382,
+        685,
+        409
+      ]
+    },
+    {
+      "text": "- Led performance tuning initiatives",
+      "score": 0.9978103637695312,
+      "box": [
+        128,
+        409,
+        453,
+        434
+      ]
+    },
+    {
+      "text": "- Led technical roadmap planning",
+      "score": 0.9901255369186401,
+      "box": [
+        128,
+        432,
+        438,
+        460
+      ]
+    },
+    {
+      "text": "Software Developers, Netwave Labs, 2015.042017.11",
+      "score": 0.9929403066635132,
+      "box": [
+        117,
+        473,
+        627,
+        497
+      ]
+    },
+    {
+      "text": "- Improved API performance",
+      "score": 0.9762505292892456,
+      "box": [
+        127,
+        498,
+        393,
+        524
+      ]
+    },
+    {
+      "text": "- Improved application performance",
+      "score": 0.9903438687324524,
+      "box": [
+        128,
+        522,
+        457,
+        550
+      ]
+    },
+    {
+      "text": "Software Developers, Skycore Software, 2012.092015.04",
+      "score": 0.9866951704025269,
+      "box": [
+        117,
+        566,
+        660,
+        590
+      ]
+    },
+    {
+      "text": "- Implemented UI components based on design specs",
+      "score": 0.9789633750915527,
+      "box": [
+        128,
+        590,
+        628,
+        617
+      ]
+    },
+    {
+      "text": "- Wrote utility scripts",
+      "score": 0.9656742215156555,
+      "box": [
+        126,
+        613,
+        319,
+        644
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999902069568634,
+      "box": [
+        117,
+        681,
+        266,
+        705
+      ]
+    },
+    {
+      "text": "Bachelor's, Clear Ridge University, 2013",
+      "score": 0.9844673871994019,
+      "box": [
+        115,
+        723,
+        493,
+        750
+      ]
+    },
+    {
+      "text": "•Studied principles of event-driven architecture",
+      "score": 0.9823904037475586,
+      "box": [
+        129,
+        748,
+        573,
+        776
+      ]
+    },
+    {
+      "text": "•Studied fundamentals of error handling",
+      "score": 0.9804374575614929,
+      "box": [
+        131,
+        773,
+        507,
+        800
+      ]
+    }
+  ],
+  "seconds": 2.700261800084263,
+  "id": "59833",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

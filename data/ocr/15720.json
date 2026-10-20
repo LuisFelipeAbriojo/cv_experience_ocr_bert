@@ -1,0 +1,122 @@
+{
+  "lines": [
+    {
+      "text": "STEPHANIE FOWLER",
+      "score": 0.9995847940444946,
+      "box": [
+        116,
+        89,
+        462,
+        122
+      ]
+    },
+    {
+      "text": "GA, USA | +1-361-242-3348 |stephanie.fowler@example.com",
+      "score": 0.9649350047111511,
+      "box": [
+        118,
+        152,
+        694,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9989514350891113,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Future Steps Academy, 2021.06—2021.12",
+      "score": 0.9948031306266785,
+      "box": [
+        116,
+        288,
+        851,
+        316
+      ]
+    },
+    {
+      "text": "- Reviewed homework assignments",
+      "score": 0.9806843996047974,
+      "box": [
+        125,
+        314,
+        457,
+        340
+      ]
+    },
+    {
+      "text": "- Recorded student feedback",
+      "score": 0.9995037913322449,
+      "box": [
+        127,
+        339,
+        399,
+        364
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999485015869141,
+      "box": [
+        116,
+        404,
+        268,
+        431
+      ]
+    },
+    {
+      "text": "Professional degree, Education Basics, Willow Creek University, 2015",
+      "score": 0.9860560297966003,
+      "box": [
+        116,
+        448,
+        765,
+        475
+      ]
+    },
+    {
+      "text": "Bachelor's, Social Science Studies, Ridgeway University, 2011",
+      "score": 0.986035943031311,
+      "box": [
+        117,
+        475,
+        695,
+        499
+      ]
+    },
+    {
+      "text": "• Studied principles of educational research basics",
+      "score": 0.9681417346000671,
+      "box": [
+        131,
+        500,
+        601,
+        524
+      ]
+    },
+    {
+      "text": "• Completed coursework in educational communication planning",
+      "score": 0.9769481420516968,
+      "box": [
+        132,
+        522,
+        726,
+        550
+      ]
+    }
+  ],
+  "seconds": 2.538844000082463,
+  "id": "15720",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

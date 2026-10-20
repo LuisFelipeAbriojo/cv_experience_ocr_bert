@@ -1,0 +1,112 @@
+{
+  "lines": [
+    {
+      "text": "ANNAKA LE",
+      "score": 0.9994689226150513,
+      "box": [
+        116,
+        89,
+        316,
+        123
+      ]
+    },
+    {
+      "text": "VA, USA | +1-820-555-5203 | annaka.le@example.com",
+      "score": 0.9942790269851685,
+      "box": [
+        116,
+        149,
+        631,
+        177
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9994645714759827,
+      "box": [
+        116,
+        243,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Accountants Auditors, CoreCount Group, 2020.10—2023.01",
+      "score": 0.9825247526168823,
+      "box": [
+        114,
+        287,
+        664,
+        315
+      ]
+    },
+    {
+      "text": "- Reviewed credit memos",
+      "score": 0.9910878539085388,
+      "box": [
+        125,
+        313,
+        366,
+        340
+      ]
+    },
+    {
+      "text": "- Prepared journal entries",
+      "score": 0.9987612962722778,
+      "box": [
+        125,
+        338,
+        367,
+        368
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999295473098755,
+      "box": [
+        116,
+        404,
+        269,
+        431
+      ]
+    },
+    {
+      "text": "Associate's degree, Administrative Studies, Cedarview University, 2023",
+      "score": 0.9969396591186523,
+      "box": [
+        116,
+        447,
+        777,
+        474
+      ]
+    },
+    {
+      "text": "•Studied principles of corporate finance",
+      "score": 0.9940353631973267,
+      "box": [
+        129,
+        474,
+        504,
+        499
+      ]
+    },
+    {
+      "text": "Studied principles of nonprofit accounting",
+      "score": 0.9866202473640442,
+      "box": [
+        131,
+        497,
+        530,
+        526
+      ]
+    }
+  ],
+  "seconds": 1.9491826999001205,
+  "id": "57330",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

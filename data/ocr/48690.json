@@ -1,0 +1,202 @@
+{
+  "lines": [
+    {
+      "text": "ELIZABETH ZIMMERMAN",
+      "score": 0.9996876120567322,
+      "box": [
+        118,
+        92,
+        522,
+        122
+      ]
+    },
+    {
+      "text": "TN, USA | +1-635-253-3387 | elizabeth.zimmerman@example.com",
+      "score": 0.9935144782066345,
+      "box": [
+        117,
+        149,
+        738,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9981793761253357,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, OpenWay Care Services, 2019.01—2023.01",
+      "score": 0.9805399179458618,
+      "box": [
+        117,
+        290,
+        705,
+        317
+      ]
+    },
+    {
+      "text": "- Developed staffing allocation models",
+      "score": 0.9647746086120605,
+      "box": [
+        126,
+        314,
+        483,
+        342
+      ]
+    },
+    {
+      "text": "- Managed clinical data analysis",
+      "score": 0.9869481325149536,
+      "box": [
+        126,
+        339,
+        427,
+        369
+      ]
+    },
+    {
+      "text": "Registered Nurses, NewHope Care Center, 2015.012019.01",
+      "score": 0.9997212290763855,
+      "box": [
+        116,
+        381,
+        686,
+        409
+      ]
+    },
+    {
+      "text": "- Developed interdisciplinary care strategies",
+      "score": 0.9813899397850037,
+      "box": [
+        125,
+        406,
+        534,
+        435
+      ]
+    },
+    {
+      "text": "- Managed clinical compliance programs",
+      "score": 0.9771151542663574,
+      "box": [
+        127,
+        431,
+        502,
+        460
+      ]
+    },
+    {
+      "text": "Registered Nurses, Harmony Nursing Services, 2010.12—2015.01",
+      "score": 0.9859604239463806,
+      "box": [
+        116,
+        471,
+        723,
+        499
+      ]
+    },
+    {
+      "text": "- Monitored infusion pump settings",
+      "score": 0.9986090660095215,
+      "box": [
+        126,
+        498,
+        450,
+        525
+      ]
+    },
+    {
+      "text": "- Managed intravenous therapy",
+      "score": 0.9802848696708679,
+      "box": [
+        127,
+        520,
+        418,
+        552
+      ]
+    },
+    {
+      "text": "Registered Nurses, WellSpring Nursing Services, 2006.112010.12",
+      "score": 0.9949936270713806,
+      "box": [
+        117,
+        564,
+        740,
+        591
+      ]
+    },
+    {
+      "text": "- Checked medication dosages",
+      "score": 0.9900370240211487,
+      "box": [
+        126,
+        589,
+        418,
+        619
+      ]
+    },
+    {
+      "text": "- Collected laboratory specimens",
+      "score": 0.9862943887710571,
+      "box": [
+        125,
+        612,
+        435,
+        645
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999227523803711,
+      "box": [
+        117,
+        681,
+        266,
+        705
+      ]
+    },
+    {
+      "text": "Bachelor's, Health Services Administration, Havenwood University, 2004",
+      "score": 0.9899636507034302,
+      "box": [
+        117,
+        726,
+        787,
+        749
+      ]
+    },
+    {
+      "text": "•Completed coursework in patient discharge planning",
+      "score": 0.9901590347290039,
+      "box": [
+        132,
+        748,
+        634,
+        777
+      ]
+    },
+    {
+      "text": "•Completed coursework in fluid and electrolyte balance",
+      "score": 0.9811804294586182,
+      "box": [
+        132,
+        772,
+        648,
+        801
+      ]
+    }
+  ],
+  "seconds": 3.170367000158876,
+  "id": "48690",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

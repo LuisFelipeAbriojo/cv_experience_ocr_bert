@@ -1,0 +1,11 @@
+id,occupation,y_true,bert,error,rule_on_ocr,n_jobs,gap_years,ocr_dates_ok,cause,explanation
+11716,accountants_auditors,16.26,14.95,-1.31,16.25,4,0.0,True,other: senior shrinkage,"4 jobs, long career: prediction pulled toward the mean"
+25879,registered_nurses,3.01,4.24,1.23,3.0,2,0.5,True,career gap,0.5y gap between jobs; BERT over-estimates toward the first-to-last span (3.5y)
+49533,construction_laborers,5.11,3.98,-1.13,5.08,2,0.67,True,other: arithmetic,OCR and dates correct (rule gives 5.08); BERT mis-adds 2 job durations
+30883,construction_laborers,5.79,6.61,0.82,5.75,2,1.5,True,career gap,1.5y gap between jobs; BERT over-estimates toward the first-to-last span (7.2y)
+01789,accountants_auditors,9.24,10.05,0.81,9.25,3,1.83,True,career gap,1.8y gap between jobs; BERT over-estimates toward the first-to-last span (11.1y)
+61320,construction_laborers,3.28,4.08,0.8,3.25,2,1.08,True,career gap,1.1y gap between jobs; BERT over-estimates toward the first-to-last span (4.3y)
+30425,software_developers,15.74,14.94,-0.8,15.75,4,1.17,True,other: senior shrinkage,"4 jobs, long career: prediction pulled toward the mean"
+58684,construction_laborers,3.76,4.53,0.77,3.75,2,1.08,True,career gap,1.1y gap between jobs; BERT over-estimates toward the first-to-last span (4.8y)
+60149,registered_nurses,3.68,4.44,0.76,3.67,2,0.67,True,career gap,0.7y gap between jobs; BERT over-estimates toward the first-to-last span (4.3y)
+51472,software_developers,11.2,10.45,-0.75,11.17,4,1.25,True,other: senior shrinkage,"4 jobs, long career: prediction pulled toward the mean"

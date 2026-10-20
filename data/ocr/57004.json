@@ -1,0 +1,182 @@
+{
+  "lines": [
+    {
+      "text": "SARA BROOKS",
+      "score": 0.9825125336647034,
+      "box": [
+        116,
+        90,
+        368,
+        122
+      ]
+    },
+    {
+      "text": "VA, USA | +1-701-764-4624 | sara.brooks@example.com",
+      "score": 0.988138735294342,
+      "box": [
+        118,
+        152,
+        647,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9906715750694275,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Safe Harbor Academy, 2020.07—2023.01",
+      "score": 0.978532612323761,
+      "box": [
+        117,
+        289,
+        842,
+        316
+      ]
+    },
+    {
+      "text": "- Established instructional best practices",
+      "score": 0.9866713285446167,
+      "box": [
+        126,
+        315,
+        501,
+        341
+      ]
+    },
+    {
+      "text": "- Developed teacher training modules",
+      "score": 0.9890034794807434,
+      "box": [
+        126,
+        339,
+        477,
+        369
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, CarePath Academy, 2017.12—2020.07",
+      "score": 0.9901899695396423,
+      "box": [
+        116,
+        380,
+        820,
+        410
+      ]
+    },
+    {
+      "text": "- Developed classroom assessment tools",
+      "score": 0.9924088716506958,
+      "box": [
+        125,
+        406,
+        510,
+        435
+      ]
+    },
+    {
+      "text": "- Implemented instructional modifications",
+      "score": 0.9912689924240112,
+      "box": [
+        128,
+        432,
+        507,
+        457
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Golden Steps Academy, 2013.102016.05",
+      "score": 0.9957522749900818,
+      "box": [
+        118,
+        472,
+        857,
+        499
+      ]
+    },
+    {
+      "text": "- Followed standard instructional schedules",
+      "score": 0.9899845719337463,
+      "box": [
+        126,
+        497,
+        530,
+        522
+      ]
+    },
+    {
+      "text": "- Maintained student folders",
+      "score": 0.998810350894928,
+      "box": [
+        127,
+        521,
+        388,
+        547
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999045133590698,
+      "box": [
+        117,
+        587,
+        267,
+        614
+      ]
+    },
+    {
+      "text": "Master's, Educational Practice, Fieldstone University, 2008",
+      "score": 0.9986283183097839,
+      "box": [
+        116,
+        632,
+        660,
+        657
+      ]
+    },
+    {
+      "text": "Bachelor's, Basic Child Development, Goldenridge University, 2006",
+      "score": 0.9955312609672546,
+      "box": [
+        115,
+        656,
+        740,
+        684
+      ]
+    },
+    {
+      "text": "• Studied principles of student engagement",
+      "score": 0.9815783500671387,
+      "box": [
+        131,
+        684,
+        534,
+        708
+      ]
+    },
+    {
+      "text": "•Studied principles of teaching effectiveness",
+      "score": 0.9815727472305298,
+      "box": [
+        131,
+        706,
+        549,
+        736
+      ]
+    }
+  ],
+  "seconds": 2.8869236996397376,
+  "id": "57004",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

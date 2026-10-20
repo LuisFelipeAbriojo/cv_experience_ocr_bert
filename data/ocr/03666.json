@@ -1,0 +1,142 @@
+{
+  "lines": [
+    {
+      "text": "ZACHARY NORTON",
+      "score": 0.9998151659965515,
+      "box": [
+        117,
+        91,
+        435,
+        121
+      ]
+    },
+    {
+      "text": "CA, USA | +1-799-661-3102 | zachary.norton@example.com",
+      "score": 0.9920791983604431,
+      "box": [
+        118,
+        152,
+        678,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9997584819793701,
+      "box": [
+        117,
+        243,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Accountants Auditors, SteadyLedger Financial Group, 2020.08—2022.02",
+      "score": 0.9865933060646057,
+      "box": [
+        115,
+        288,
+        784,
+        316
+      ]
+    },
+    {
+      "text": "- Established tax compliance frameworks",
+      "score": 0.9804033041000366,
+      "box": [
+        126,
+        315,
+        508,
+        340
+      ]
+    },
+    {
+      "text": "- Led audit programs",
+      "score": 0.9995411038398743,
+      "box": [
+        128,
+        340,
+        322,
+        368
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Reliable Accounts Co., 2018.042019.10",
+      "score": 0.9890801906585693,
+      "box": [
+        117,
+        381,
+        706,
+        408
+      ]
+    },
+    {
+      "text": "- Prepared supporting schedules",
+      "score": 0.9953025579452515,
+      "box": [
+        125,
+        406,
+        432,
+        434
+      ]
+    },
+    {
+      "text": "- Updated general ledger records",
+      "score": 0.9772415161132812,
+      "box": [
+        128,
+        430,
+        436,
+        458
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999210834503174,
+      "box": [
+        117,
+        494,
+        267,
+        521
+      ]
+    },
+    {
+      "text": "Bachelor's, Business Studies, Cloverfield University, 2012",
+      "score": 0.9857770800590515,
+      "box": [
+        116,
+        540,
+        651,
+        566
+      ]
+    },
+    {
+      "text": "• Completed coursework in segment reporting",
+      "score": 0.9940111041069031,
+      "box": [
+        132,
+        566,
+        557,
+        593
+      ]
+    },
+    {
+      "text": "Completed coursework in lease accounting",
+      "score": 0.9939095377922058,
+      "box": [
+        131,
+        589,
+        547,
+        619
+      ]
+    }
+  ],
+  "seconds": 2.340380699839443,
+  "id": "03666",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

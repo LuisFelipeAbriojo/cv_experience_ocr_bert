@@ -1,0 +1,142 @@
+{
+  "lines": [
+    {
+      "text": "MOLLY SLOAN",
+      "score": 0.9998195767402649,
+      "box": [
+        117,
+        91,
+        362,
+        121
+      ]
+    },
+    {
+      "text": "MD, USA | +1-285-645-1075 | molly.sloan@example.com",
+      "score": 0.9834455847740173,
+      "box": [
+        115,
+        149,
+        648,
+        177
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9991734027862549,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Learning Star Academy, 2018.11—2020.11",
+      "score": 0.9709024429321289,
+      "box": [
+        116,
+        288,
+        856,
+        318
+      ]
+    },
+    {
+      "text": "- Designed literacy development programs",
+      "score": 0.9997112154960632,
+      "box": [
+        125,
+        314,
+        522,
+        343
+      ]
+    },
+    {
+      "text": "- Directed instructional planning processes",
+      "score": 0.9723952412605286,
+      "box": [
+        126,
+        338,
+        523,
+        368
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Future Steps Academy, 2016.04—2018.05",
+      "score": 0.9896082282066345,
+      "box": [
+        115,
+        379,
+        852,
+        410
+      ]
+    },
+    {
+      "text": "- Distributed instructional handouts",
+      "score": 0.9746847152709961,
+      "box": [
+        126,
+        407,
+        452,
+        433
+      ]
+    },
+    {
+      "text": "- Set up classroom technology tools",
+      "score": 0.9949944615364075,
+      "box": [
+        126,
+        430,
+        459,
+        458
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999377727508545,
+      "box": [
+        117,
+        494,
+        268,
+        521
+      ]
+    },
+    {
+      "text": "Bachelor's, General Education, Skycrest University, 2011",
+      "score": 0.9715107679367065,
+      "box": [
+        115,
+        539,
+        644,
+        567
+      ]
+    },
+    {
+      "text": "•Completed coursework in writing instruction",
+      "score": 0.9955311417579651,
+      "box": [
+        131,
+        566,
+        551,
+        591
+      ]
+    },
+    {
+      "text": "• Studied principles of learner assessment",
+      "score": 0.9959229826927185,
+      "box": [
+        133,
+        592,
+        525,
+        616
+      ]
+    }
+  ],
+  "seconds": 2.425817799754441,
+  "id": "24302",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

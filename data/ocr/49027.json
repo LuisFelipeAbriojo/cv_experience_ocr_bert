@@ -1,0 +1,142 @@
+{
+  "lines": [
+    {
+      "text": "JONATHAN MAHONEY",
+      "score": 0.999873161315918,
+      "box": [
+        116,
+        92,
+        482,
+        122
+      ]
+    },
+    {
+      "text": "TN, USA | +1-921-695-9166 | jonathan.mahoney@example.com",
+      "score": 0.9857434630393982,
+      "box": [
+        117,
+        149,
+        711,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9991628527641296,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, SolidCraft Construction, 2021.072023.01",
+      "score": 0.9819258451461792,
+      "box": [
+        118,
+        290,
+        721,
+        314
+      ]
+    },
+    {
+      "text": "- Reviewed workflow efficiency reports",
+      "score": 0.9915019869804382,
+      "box": [
+        126,
+        314,
+        484,
+        341
+      ]
+    },
+    {
+      "text": "- Reviewed structural integrity assessments",
+      "score": 0.985017716884613,
+      "box": [
+        126,
+        338,
+        532,
+        367
+      ]
+    },
+    {
+      "text": "Construction Laborers, FirmStone Construction, 2020.01—2021.07",
+      "score": 0.9763414263725281,
+      "box": [
+        118,
+        383,
+        727,
+        407
+      ]
+    },
+    {
+      "text": "- Prepared scaffolding platforms",
+      "score": 0.990683913230896,
+      "box": [
+        127,
+        408,
+        426,
+        432
+      ]
+    },
+    {
+      "text": "- Assisted with framing support",
+      "score": 0.9925894141197205,
+      "box": [
+        128,
+        431,
+        417,
+        459
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999392032623291,
+      "box": [
+        117,
+        494,
+        268,
+        521
+      ]
+    },
+    {
+      "text": "Bachelor's, Construction Infrastructure, Cedar Valley University, 2019",
+      "score": 0.985624372959137,
+      "box": [
+        115,
+        539,
+        759,
+        567
+      ]
+    },
+    {
+      "text": "•Studied fundamentals of job site coordination",
+      "score": 0.9853828549385071,
+      "box": [
+        130,
+        566,
+        565,
+        591
+      ]
+    },
+    {
+      "text": "• Completed coursework in safety signage standards",
+      "score": 0.9901546239852905,
+      "box": [
+        132,
+        592,
+        620,
+        616
+      ]
+    }
+  ],
+  "seconds": 2.4026281000114977,
+  "id": "49027",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

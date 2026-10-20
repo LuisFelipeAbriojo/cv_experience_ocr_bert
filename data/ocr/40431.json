@@ -1,0 +1,182 @@
+{
+  "lines": [
+    {
+      "text": "HARLEN MILLER",
+      "score": 0.9869644641876221,
+      "box": [
+        117,
+        91,
+        390,
+        122
+      ]
+    },
+    {
+      "text": "NC, USA | +1-262-223-9354 | harlen.miller@example.com",
+      "score": 0.9900242686271667,
+      "box": [
+        116,
+        151,
+        655,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9990813732147217,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Balanced Path Services, 2019.112023.01",
+      "score": 0.9875307679176331,
+      "box": [
+        117,
+        289,
+        719,
+        313
+      ]
+    },
+    {
+      "text": "- Directed accounting operations planning",
+      "score": 0.9954173564910889,
+      "box": [
+        125,
+        314,
+        515,
+        344
+      ]
+    },
+    {
+      "text": "- Established financial reporting standards",
+      "score": 0.9776265621185303,
+      "box": [
+        126,
+        339,
+        518,
+        367
+      ]
+    },
+    {
+      "text": "Accountants Auditors, ClearBooks Services, 2016.092019.11",
+      "score": 0.9975826144218445,
+      "box": [
+        118,
+        383,
+        692,
+        407
+      ]
+    },
+    {
+      "text": "- Prepared consolidation entries",
+      "score": 0.9991955757141113,
+      "box": [
+        125,
+        407,
+        424,
+        433
+      ]
+    },
+    {
+      "text": "- Reviewed expense allocations",
+      "score": 0.9990106225013733,
+      "box": [
+        128,
+        434,
+        422,
+        457
+      ]
+    },
+    {
+      "text": "Accountants Auditors, TrustCount Advisors, 2013.06—2016.09",
+      "score": 0.9871742129325867,
+      "box": [
+        118,
+        473,
+        689,
+        497
+      ]
+    },
+    {
+      "text": "- Assisted with compliance documentation",
+      "score": 0.9997094869613647,
+      "box": [
+        127,
+        499,
+        518,
+        522
+      ]
+    },
+    {
+      "text": "- Reviewed account balances",
+      "score": 0.9942330718040466,
+      "box": [
+        128,
+        521,
+        404,
+        548
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999409914016724,
+      "box": [
+        118,
+        588,
+        266,
+        612
+      ]
+    },
+    {
+      "text": "Master's, Accounting and Finance, Springfield University, 2017",
+      "score": 0.9847082495689392,
+      "box": [
+        116,
+        632,
+        697,
+        659
+      ]
+    },
+    {
+      "text": "Bachelor's, Auditing, Forest Ridge University, 2015",
+      "score": 0.9932054877281189,
+      "box": [
+        117,
+        658,
+        589,
+        682
+      ]
+    },
+    {
+      "text": "•Studied fundamentals of professional writing",
+      "score": 0.9781122207641602,
+      "box": [
+        130,
+        681,
+        558,
+        710
+      ]
+    },
+    {
+      "text": "Completed coursework in audit ethics",
+      "score": 0.9963698983192444,
+      "box": [
+        132,
+        704,
+        496,
+        737
+      ]
+    }
+  ],
+  "seconds": 2.7805725997313857,
+  "id": "40431",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

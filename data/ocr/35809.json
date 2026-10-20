@@ -1,0 +1,112 @@
+{
+  "lines": [
+    {
+      "text": "MARCUS ZHANG",
+      "score": 0.9998462200164795,
+      "box": [
+        117,
+        91,
+        392,
+        122
+      ]
+    },
+    {
+      "text": "NY, USA | +1-743-975-7118 | marcus.zhang@example.com",
+      "score": 0.9807207584381104,
+      "box": [
+        116,
+        150,
+        672,
+        177
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9997474551200867,
+      "box": [
+        117,
+        243,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Accountants Auditors, TrustLedger Financial, 2021.11-2023.01",
+      "score": 0.9852835536003113,
+      "box": [
+        115,
+        287,
+        701,
+        315
+      ]
+    },
+    {
+      "text": "- Recorded payroll entries",
+      "score": 0.9992796182632446,
+      "box": [
+        124,
+        313,
+        369,
+        342
+      ]
+    },
+    {
+      "text": "- Prepared journal entries",
+      "score": 0.9850334525108337,
+      "box": [
+        126,
+        340,
+        367,
+        367
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999497532844543,
+      "box": [
+        116,
+        404,
+        268,
+        431
+      ]
+    },
+    {
+      "text": "Bachelor's, Business Operations, Stone Valley University, 2019",
+      "score": 0.9830229878425598,
+      "box": [
+        115,
+        446,
+        704,
+        474
+      ]
+    },
+    {
+      "text": "• Completed coursework in cash flow analysis",
+      "score": 0.9823794960975647,
+      "box": [
+        133,
+        474,
+        558,
+        498
+      ]
+    },
+    {
+      "text": "• Completed coursework in cost allocation methods",
+      "score": 0.9829500913619995,
+      "box": [
+        134,
+        499,
+        608,
+        523
+      ]
+    }
+  ],
+  "seconds": 2.020669700112194,
+  "id": "35809",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

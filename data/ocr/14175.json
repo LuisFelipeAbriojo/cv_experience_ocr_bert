@@ -1,0 +1,112 @@
+{
+  "lines": [
+    {
+      "text": "CHRISTOPHER GARRISON",
+      "score": 0.9977914690971375,
+      "box": [
+        118,
+        91,
+        550,
+        122
+      ]
+    },
+    {
+      "text": "FL, USA | +1-574-405-8091 | christopher.garrison@example.com",
+      "score": 0.9806233644485474,
+      "box": [
+        116,
+        149,
+        720,
+        177
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9997727274894714,
+      "box": [
+        117,
+        243,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Construction Laborers, IronWay Contractors, 2020.032022.02",
+      "score": 0.9988293647766113,
+      "box": [
+        117,
+        289,
+        700,
+        316
+      ]
+    },
+    {
+      "text": "- Followed blueprint instructions",
+      "score": 0.9965259432792664,
+      "box": [
+        126,
+        314,
+        423,
+        340
+      ]
+    },
+    {
+      "text": "- Assisted with drywall installation",
+      "score": 0.9842246174812317,
+      "box": [
+        127,
+        339,
+        440,
+        367
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999194741249084,
+      "box": [
+        116,
+        404,
+        268,
+        431
+      ]
+    },
+    {
+      "text": "Some college (no degree), Building Technology, Woodview University, 2012",
+      "score": 0.9663166403770447,
+      "box": [
+        116,
+        446,
+        822,
+        476
+      ]
+    },
+    {
+      "text": "•Studied principles of site drainage",
+      "score": 0.9875511527061462,
+      "box": [
+        130,
+        475,
+        460,
+        499
+      ]
+    },
+    {
+      "text": "• Completed coursework in construction measurements",
+      "score": 0.985106348991394,
+      "box": [
+        134,
+        499,
+        645,
+        523
+      ]
+    }
+  ],
+  "seconds": 1.8923329003155231,
+  "id": "14175",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

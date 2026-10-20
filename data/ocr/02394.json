@@ -1,0 +1,172 @@
+{
+  "lines": [
+    {
+      "text": "MANUEL NOBLE",
+      "score": 0.9983508586883545,
+      "box": [
+        117,
+        91,
+        387,
+        121
+      ]
+    },
+    {
+      "text": "AR, USA | +1-628-883-4424 | manuel.noble@example.com",
+      "score": 0.9777705669403076,
+      "box": [
+        118,
+        152,
+        665,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9990050792694092,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, NewWay Care Center, 2019.10—2023.01",
+      "score": 0.9717416167259216,
+      "box": [
+        115,
+        287,
+        679,
+        318
+      ]
+    },
+    {
+      "text": "- Managed patient safety reporting systems",
+      "score": 0.9820305109024048,
+      "box": [
+        125,
+        313,
+        530,
+        344
+      ]
+    },
+    {
+      "text": "- Managed clinical data analysis",
+      "score": 0.9890022277832031,
+      "box": [
+        126,
+        339,
+        426,
+        369
+      ]
+    },
+    {
+      "text": "Registered Nurses, LifeSpring Medical Services, 2016.062019.10",
+      "score": 0.995226263999939,
+      "box": [
+        117,
+        382,
+        734,
+        409
+      ]
+    },
+    {
+      "text": "- Managed geriatric care plans",
+      "score": 0.9988173842430115,
+      "box": [
+        125,
+        406,
+        414,
+        436
+      ]
+    },
+    {
+      "text": "- Coordinated patient discharge planning",
+      "score": 0.9942958950996399,
+      "box": [
+        127,
+        430,
+        505,
+        459
+      ]
+    },
+    {
+      "text": "Registered Nurses, KindHands Care Center, 2011.052014.09",
+      "score": 0.982123076915741,
+      "box": [
+        118,
+        473,
+        696,
+        497
+      ]
+    },
+    {
+      "text": "- Monitored intravenous lines",
+      "score": 0.9973957538604736,
+      "box": [
+        126,
+        497,
+        399,
+        523
+      ]
+    },
+    {
+      "text": "- Prepared medical equipment for use",
+      "score": 0.9898974895477295,
+      "box": [
+        128,
+        520,
+        479,
+        552
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999377727508545,
+      "box": [
+        118,
+        588,
+        266,
+        612
+      ]
+    },
+    {
+      "text": "Bachelor's, Health and Wellness, Harvest University, 2002",
+      "score": 0.9929007887840271,
+      "box": [
+        118,
+        632,
+        654,
+        656
+      ]
+    },
+    {
+      "text": "Studied principles of continuity of care",
+      "score": 0.9894790649414062,
+      "box": [
+        128,
+        657,
+        501,
+        685
+      ]
+    },
+    {
+      "text": "•Studied fundamentals of respiratory nursing",
+      "score": 0.989605188369751,
+      "box": [
+        129,
+        681,
+        552,
+        710
+      ]
+    }
+  ],
+  "seconds": 2.5442368001677096,
+  "id": "02394",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

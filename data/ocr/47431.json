@@ -1,0 +1,112 @@
+{
+  "lines": [
+    {
+      "text": "JENNIFER ELLIS",
+      "score": 0.9648203253746033,
+      "box": [
+        116,
+        91,
+        387,
+        122
+      ]
+    },
+    {
+      "text": "SC, USA | +1-493-326-8696 | jennifer.ellis@example.com",
+      "score": 0.9871386289596558,
+      "box": [
+        118,
+        152,
+        650,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9992851614952087,
+      "box": [
+        116,
+        243,
+        317,
+        270
+      ]
+    },
+    {
+      "text": "Registered Nurses, SunPath Care Group, 2019.11-2022.06",
+      "score": 0.9884730577468872,
+      "box": [
+        115,
+        287,
+        671,
+        317
+      ]
+    },
+    {
+      "text": "- Provided patient education materials",
+      "score": 0.9905281066894531,
+      "box": [
+        125,
+        312,
+        481,
+        341
+      ]
+    },
+    {
+      "text": "- Assisted with patient mobility",
+      "score": 0.9793384075164795,
+      "box": [
+        127,
+        338,
+        409,
+        368
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9998998641967773,
+      "box": [
+        116,
+        404,
+        268,
+        431
+      ]
+    },
+    {
+      "text": "Associate's degree, Health Care Studies, Northcrest University, 2003",
+      "score": 0.9902825951576233,
+      "box": [
+        116,
+        446,
+        756,
+        474
+      ]
+    },
+    {
+      "text": "• Completed coursework in care plan development",
+      "score": 0.9832137823104858,
+      "box": [
+        131,
+        475,
+        601,
+        499
+      ]
+    },
+    {
+      "text": "Studied principles of patient safety",
+      "score": 0.9997983574867249,
+      "box": [
+        132,
+        497,
+        466,
+        527
+      ]
+    }
+  ],
+  "seconds": 2.5684860995970666,
+  "id": "47431",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

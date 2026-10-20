@@ -1,0 +1,182 @@
+{
+  "lines": [
+    {
+      "text": "OSCAR MOYER",
+      "score": 0.9997196197509766,
+      "box": [
+        117,
+        91,
+        370,
+        122
+      ]
+    },
+    {
+      "text": "IL, USA | +1-616-462-1978 | oscar.moyer@example.com",
+      "score": 0.995153546333313,
+      "box": [
+        116,
+        150,
+        644,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9990952610969543,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Integrity Ledger Services Group, 2020.05—2023.01",
+      "score": 0.9831048250198364,
+      "box": [
+        114,
+        287,
+        795,
+        318
+      ]
+    },
+    {
+      "text": "- Developed financial analytics frameworks",
+      "score": 0.9785616993904114,
+      "box": [
+        126,
+        314,
+        525,
+        342
+      ]
+    },
+    {
+      "text": "- Managed consolidation processes",
+      "score": 0.983525812625885,
+      "box": [
+        127,
+        339,
+        458,
+        368
+      ]
+    },
+    {
+      "text": "Accountants Auditors, EverCount Group, 2017.08—2020.05",
+      "score": 0.9847720265388489,
+      "box": [
+        117,
+        382,
+        662,
+        407
+      ]
+    },
+    {
+      "text": "- Reviewed expense allocations",
+      "score": 0.9931538701057434,
+      "box": [
+        125,
+        406,
+        424,
+        434
+      ]
+    },
+    {
+      "text": "- Analyzed financial variances",
+      "score": 0.9972954988479614,
+      "box": [
+        128,
+        431,
+        405,
+        460
+      ]
+    },
+    {
+      "text": "Accountants Auditors, CoreLedger Advisors, 2013.092016.06",
+      "score": 0.9991359114646912,
+      "box": [
+        118,
+        473,
+        696,
+        497
+      ]
+    },
+    {
+      "text": "- Processed journal corrections",
+      "score": 0.9995725154876709,
+      "box": [
+        126,
+        499,
+        417,
+        523
+      ]
+    },
+    {
+      "text": "- Assisted with audit fieldwork",
+      "score": 0.999613344669342,
+      "box": [
+        127,
+        522,
+        405,
+        547
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999499917030334,
+      "box": [
+        118,
+        588,
+        266,
+        612
+      ]
+    },
+    {
+      "text": "Master's, Risk Management, Oakway University, 2011",
+      "score": 0.9894496202468872,
+      "box": [
+        117,
+        632,
+        618,
+        659
+      ]
+    },
+    {
+      "text": "Bachelor's, Taxation, Valley View University, 2009",
+      "score": 0.9816005229949951,
+      "box": [
+        117,
+        658,
+        582,
+        682
+      ]
+    },
+    {
+      "text": "Completed coursework in capital budgeting",
+      "score": 0.9989831447601318,
+      "box": [
+        131,
+        681,
+        548,
+        711
+      ]
+    },
+    {
+      "text": "Completed coursework in segment reporting",
+      "score": 0.9981098771095276,
+      "box": [
+        131,
+        703,
+        558,
+        739
+      ]
+    }
+  ],
+  "seconds": 2.880796699784696,
+  "id": "19613",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

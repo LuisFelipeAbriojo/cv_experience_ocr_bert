@@ -1,0 +1,172 @@
+{
+  "lines": [
+    {
+      "text": "LACEY WATKINS",
+      "score": 0.9995764493942261,
+      "box": [
+        117,
+        91,
+        396,
+        121
+      ]
+    },
+    {
+      "text": "MI, USA | +1-243-637-1559 | lacey.watkins@example.com",
+      "score": 0.9922377467155457,
+      "box": [
+        115,
+        150,
+        659,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9991946816444397,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Bright Start Academy, 2020.06—2023.01",
+      "score": 0.9920121431350708,
+      "box": [
+        115,
+        287,
+        834,
+        318
+      ]
+    },
+    {
+      "text": "- Directed cross-grade curriculum alignment",
+      "score": 0.9905300736427307,
+      "box": [
+        125,
+        314,
+        536,
+        342
+      ]
+    },
+    {
+      "text": "- Implemented learning system upgrades",
+      "score": 0.9975666999816895,
+      "box": [
+        126,
+        339,
+        508,
+        370
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Little Valley School, 2016.112019.06",
+      "score": 0.9833014011383057,
+      "box": [
+        116,
+        381,
+        816,
+        411
+      ]
+    },
+    {
+      "text": "- Prepared differentiated worksheets",
+      "score": 0.9745175242424011,
+      "box": [
+        127,
+        409,
+        465,
+        433
+      ]
+    },
+    {
+      "text": "- Designed math assessments",
+      "score": 0.9938331842422485,
+      "box": [
+        126,
+        432,
+        410,
+        458
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Future Minds School, 2012.10—2015.06",
+      "score": 0.9856378436088562,
+      "box": [
+        117,
+        471,
+        830,
+        499
+      ]
+    },
+    {
+      "text": "- Tracked student participation",
+      "score": 0.9951022863388062,
+      "box": [
+        126,
+        498,
+        412,
+        523
+      ]
+    },
+    {
+      "text": "- Prepared daily lesson plans aligned with curriculum guidelines",
+      "score": 0.9963709115982056,
+      "box": [
+        126,
+        520,
+        717,
+        551
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999232888221741,
+      "box": [
+        117,
+        587,
+        267,
+        614
+      ]
+    },
+    {
+      "text": "Bachelor's, Instructional Studies, Meadowway University, 2007",
+      "score": 0.9876034259796143,
+      "box": [
+        117,
+        632,
+        696,
+        659
+      ]
+    },
+    {
+      "text": "•Studied principles of instructional alignment",
+      "score": 0.9883196353912354,
+      "box": [
+        129,
+        657,
+        552,
+        685
+      ]
+    },
+    {
+      "text": "•Studied principles of student support systems",
+      "score": 0.9897251129150391,
+      "box": [
+        129,
+        681,
+        567,
+        710
+      ]
+    }
+  ],
+  "seconds": 2.7115989001467824,
+  "id": "27557",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

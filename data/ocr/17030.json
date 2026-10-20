@@ -1,0 +1,172 @@
+{
+  "lines": [
+    {
+      "text": "ETHAN NORTON",
+      "score": 0.9936981201171875,
+      "box": [
+        118,
+        91,
+        387,
+        121
+      ]
+    },
+    {
+      "text": "ID, USA | +1-923-556-8316 | ethan.norton@example.com",
+      "score": 0.9786328077316284,
+      "box": [
+        118,
+        152,
+        649,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9991493225097656,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, OpenLife Care Services, 2020.08—2023.01",
+      "score": 0.9931899905204773,
+      "box": [
+        117,
+        290,
+        696,
+        317
+      ]
+    },
+    {
+      "text": "- Implemented care pathway frameworks",
+      "score": 0.9949454069137573,
+      "box": [
+        127,
+        314,
+        507,
+        343
+      ]
+    },
+    {
+      "text": "- Implemented patient monitoring systems",
+      "score": 0.9948107004165649,
+      "box": [
+        127,
+        339,
+        517,
+        369
+      ]
+    },
+    {
+      "text": "Registered Nurses, WellBridge Health Group, 2018.032020.08",
+      "score": 0.9933634996414185,
+      "box": [
+        118,
+        383,
+        706,
+        407
+      ]
+    },
+    {
+      "text": "- Supervised clinical documentation",
+      "score": 0.9859566688537598,
+      "box": [
+        126,
+        409,
+        457,
+        432
+      ]
+    },
+    {
+      "text": "- Conducted quality assurance checks",
+      "score": 0.9990746974945068,
+      "box": [
+        129,
+        434,
+        481,
+        457
+      ]
+    },
+    {
+      "text": "Registered Nurses, BrightWay Nursing Services, 2015.09—2018.03",
+      "score": 0.993603527545929,
+      "box": [
+        116,
+        471,
+        737,
+        499
+      ]
+    },
+    {
+      "text": "- Collected patient health histories",
+      "score": 0.986912190914154,
+      "box": [
+        126,
+        496,
+        445,
+        525
+      ]
+    },
+    {
+      "text": "- Assisted with patient positioning",
+      "score": 0.9953770041465759,
+      "box": [
+        128,
+        521,
+        439,
+        551
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9998974204063416,
+      "box": [
+        117,
+        587,
+        267,
+        614
+      ]
+    },
+    {
+      "text": "Bachelor's, Human Biology, Elmwood Ridge University, 2013",
+      "score": 0.9960418343544006,
+      "box": [
+        116,
+        631,
+        681,
+        659
+      ]
+    },
+    {
+      "text": "• Completed coursework in metabolic disorders basics",
+      "score": 0.9932323694229126,
+      "box": [
+        131,
+        659,
+        635,
+        683
+      ]
+    },
+    {
+      "text": "•Studied fundamentals of skin integrity maintenance",
+      "score": 0.9946585297584534,
+      "box": [
+        131,
+        681,
+        620,
+        708
+      ]
+    }
+  ],
+  "seconds": 2.9213421996682882,
+  "id": "17030",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

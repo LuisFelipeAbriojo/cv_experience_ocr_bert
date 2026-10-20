@@ -1,0 +1,172 @@
+{
+  "lines": [
+    {
+      "text": "SHANNON LE",
+      "score": 0.9972197413444519,
+      "box": [
+        116,
+        89,
+        338,
+        122
+      ]
+    },
+    {
+      "text": "CA, USA | +1-232-329-3932 | shannon.le@example.com",
+      "score": 0.9936165809631348,
+      "box": [
+        118,
+        152,
+        642,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9990995526313782,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Reliable Ledger Services, 2020.10—2023.01",
+      "score": 0.9933323860168457,
+      "box": [
+        115,
+        288,
+        732,
+        316
+      ]
+    },
+    {
+      "text": "- Led accounting transformation projects",
+      "score": 0.9828079342842102,
+      "box": [
+        128,
+        316,
+        501,
+        340
+      ]
+    },
+    {
+      "text": "- Developed accounting innovation plans",
+      "score": 0.9917258024215698,
+      "box": [
+        128,
+        341,
+        504,
+        367
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Reliable Ledger Advisors, 2018.072020.10",
+      "score": 0.995657205581665,
+      "box": [
+        118,
+        383,
+        732,
+        407
+      ]
+    },
+    {
+      "text": "- Developed budget forecasts",
+      "score": 0.9904209971427917,
+      "box": [
+        127,
+        409,
+        403,
+        433
+      ]
+    },
+    {
+      "text": "- Conducted compliance reviews",
+      "score": 0.9998253583908081,
+      "box": [
+        129,
+        434,
+        431,
+        457
+      ]
+    },
+    {
+      "text": "Accountants Auditors, EverCount Group, 2016.042018.07",
+      "score": 0.9894230961799622,
+      "box": [
+        118,
+        473,
+        661,
+        497
+      ]
+    },
+    {
+      "text": "- Reconciled bank statements",
+      "score": 0.9816039204597473,
+      "box": [
+        127,
+        499,
+        406,
+        522
+      ]
+    },
+    {
+      "text": "- Matched invoices to purchase orders",
+      "score": 0.9901491403579712,
+      "box": [
+        127,
+        520,
+        483,
+        550
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999419450759888,
+      "box": [
+        118,
+        588,
+        266,
+        612
+      ]
+    },
+    {
+      "text": "Bachelor's, Business Economics, Golden Hills University, 2017",
+      "score": 0.9938417077064514,
+      "box": [
+        118,
+        633,
+        697,
+        657
+      ]
+    },
+    {
+      "text": "•Studied principles of quality control in auditing",
+      "score": 0.9905600547790527,
+      "box": [
+        129,
+        657,
+        572,
+        685
+      ]
+    },
+    {
+      "text": "• Completed coursework in cash flow analysis",
+      "score": 0.9886731505393982,
+      "box": [
+        133,
+        683,
+        557,
+        707
+      ]
+    }
+  ],
+  "seconds": 2.616220399737358,
+  "id": "08858",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

@@ -1,0 +1,152 @@
+{
+  "lines": [
+    {
+      "text": "TOREY MCDONALD",
+      "score": 0.9655606150627136,
+      "box": [
+        117,
+        90,
+        436,
+        121
+      ]
+    },
+    {
+      "text": "MA, USA | +1-980-981-2212 | torey.mcdonald@example.com",
+      "score": 0.9905251264572144,
+      "box": [
+        117,
+        152,
+        685,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.999116837978363,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Netline Technologies, 2021.07-2023.01",
+      "score": 0.9908010959625244,
+      "box": [
+        114,
+        287,
+        691,
+        318
+      ]
+    },
+    {
+      "text": "- Defined quality assurance frameworks",
+      "score": 0.9820814728736877,
+      "box": [
+        128,
+        315,
+        496,
+        342
+      ]
+    },
+    {
+      "text": "- Implemented core frameworks",
+      "score": 0.9992764592170715,
+      "box": [
+        129,
+        340,
+        423,
+        366
+      ]
+    },
+    {
+      "text": "Software Developers, Netfield Technologies, 2018.10—2020.04",
+      "score": 0.9939200282096863,
+      "box": [
+        116,
+        380,
+        698,
+        410
+      ]
+    },
+    {
+      "text": "- Updated documentation for implemented features",
+      "score": 0.9978458881378174,
+      "box": [
+        126,
+        408,
+        601,
+        433
+      ]
+    },
+    {
+      "text": "- Reviewed test coverage reports",
+      "score": 0.9775739908218384,
+      "box": [
+        127,
+        431,
+        436,
+        459
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999280571937561,
+      "box": [
+        116,
+        494,
+        268,
+        521
+      ]
+    },
+    {
+      "text": "Master's, Northwood University, 2009",
+      "score": 0.9924388527870178,
+      "box": [
+        115,
+        540,
+        464,
+        566
+      ]
+    },
+    {
+      "text": "Bachelor's, Pinewood University, 2007",
+      "score": 0.9872521162033081,
+      "box": [
+        115,
+        564,
+        473,
+        592
+      ]
+    },
+    {
+      "text": "•Completed coursework in scripting languages",
+      "score": 0.985512375831604,
+      "box": [
+        129,
+        591,
+        571,
+        618
+      ]
+    },
+    {
+      "text": "Studied fundamentals of hardware-software integration",
+      "score": 0.9974924325942993,
+      "box": [
+        130,
+        614,
+        655,
+        642
+      ]
+    }
+  ],
+  "seconds": 2.3080001999624074,
+  "id": "26164",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

@@ -1,0 +1,112 @@
+{
+  "lines": [
+    {
+      "text": "TERRANCE LIM",
+      "score": 0.9970650672912598,
+      "box": [
+        117,
+        91,
+        370,
+        122
+      ]
+    },
+    {
+      "text": "VA, USA | +1-666-374-3723 | terrance.lim@example.com",
+      "score": 0.9909934997558594,
+      "box": [
+        116,
+        149,
+        649,
+        177
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.999755322933197,
+      "box": [
+        117,
+        243,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Accountants Auditors, AccuLedger Advisors, 2021.03—2021.11",
+      "score": 0.9925609230995178,
+      "box": [
+        115,
+        287,
+        697,
+        315
+      ]
+    },
+    {
+      "text": "- Tracked budget expenditures",
+      "score": 0.9995967149734497,
+      "box": [
+        126,
+        314,
+        414,
+        341
+      ]
+    },
+    {
+      "text": "- Processed accounts receivable transactions",
+      "score": 0.9995905160903931,
+      "box": [
+        127,
+        339,
+        549,
+        365
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999443888664246,
+      "box": [
+        116,
+        404,
+        268,
+        431
+      ]
+    },
+    {
+      "text": "Bachelor's, Accounting Information Systems, Stonebrook University, 2019",
+      "score": 0.9884082674980164,
+      "box": [
+        115,
+        446,
+        801,
+        476
+      ]
+    },
+    {
+      "text": "•Studied principles of nonprofit accounting",
+      "score": 0.9853498935699463,
+      "box": [
+        130,
+        474,
+        530,
+        500
+      ]
+    },
+    {
+      "text": "Completed coursework in segment reporting",
+      "score": 0.9997842311859131,
+      "box": [
+        132,
+        497,
+        558,
+        527
+      ]
+    }
+  ],
+  "seconds": 2.116262100171298,
+  "id": "57818",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

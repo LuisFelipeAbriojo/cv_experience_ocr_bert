@@ -1,0 +1,152 @@
+{
+  "lines": [
+    {
+      "text": "EVELYN CAMPBELL",
+      "score": 0.9984100461006165,
+      "box": [
+        118,
+        92,
+        445,
+        122
+      ]
+    },
+    {
+      "text": "CA, USA | +1-416-486-7181 | evelyn.campbell@example.com",
+      "score": 0.9911341667175293,
+      "box": [
+        116,
+        150,
+        690,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9906715750694275,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Future Bridge Academy, 2019.03—2021.08",
+      "score": 0.9865140318870544,
+      "box": [
+        115,
+        287,
+        858,
+        318
+      ]
+    },
+    {
+      "text": "- Led curriculum alignment initiatives",
+      "score": 0.9998035430908203,
+      "box": [
+        126,
+        315,
+        466,
+        341
+      ]
+    },
+    {
+      "text": "- Led curriculum transformation initiatives",
+      "score": 0.9766191840171814,
+      "box": [
+        127,
+        340,
+        509,
+        366
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Learning Horizons School, 2016.012018.07",
+      "score": 0.9926226735115051,
+      "box": [
+        116,
+        381,
+        878,
+        411
+      ]
+    },
+    {
+      "text": "- Scheduled instructional activities",
+      "score": 0.9871454238891602,
+      "box": [
+        125,
+        407,
+        444,
+        433
+      ]
+    },
+    {
+      "text": "- Supported art instruction",
+      "score": 0.9878699779510498,
+      "box": [
+        129,
+        434,
+        370,
+        457
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999397993087769,
+      "box": [
+        116,
+        494,
+        267,
+        521
+      ]
+    },
+    {
+      "text": "Master's, Learning Skills, Harborview University, 2013",
+      "score": 0.9894238710403442,
+      "box": [
+        115,
+        541,
+        618,
+        568
+      ]
+    },
+    {
+      "text": "Bachelor's, Learning and Teaching Studies, High Meadow University, 2011",
+      "score": 0.9912680983543396,
+      "box": [
+        115,
+        564,
+        808,
+        593
+      ]
+    },
+    {
+      "text": "•Completed coursework in reading fluency strategies",
+      "score": 0.9883766174316406,
+      "box": [
+        129,
+        591,
+        628,
+        619
+      ]
+    },
+    {
+      "text": "•Studied principles of instructional communication",
+      "score": 0.990227222442627,
+      "box": [
+        131,
+        615,
+        601,
+        643
+      ]
+    }
+  ],
+  "seconds": 2.5408417000435293,
+  "id": "03874",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

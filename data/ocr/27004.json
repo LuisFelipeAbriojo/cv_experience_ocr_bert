@@ -1,0 +1,202 @@
+{
+  "lines": [
+    {
+      "text": "LUIS MANN",
+      "score": 0.9929046630859375,
+      "box": [
+        116,
+        89,
+        303,
+        122
+      ]
+    },
+    {
+      "text": "MI, USA | +1-827-425-1352 | luis.mann@example.com",
+      "score": 0.9889717698097229,
+      "box": [
+        116,
+        150,
+        624,
+        177
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9952030181884766,
+      "box": [
+        117,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, SafeHands Care Center, 2019.11—2023.01",
+      "score": 0.9856199026107788,
+      "box": [
+        117,
+        288,
+        696,
+        315
+      ]
+    },
+    {
+      "text": "- Developed care quality benchmarks",
+      "score": 0.9722758531570435,
+      "box": [
+        125,
+        314,
+        474,
+        342
+      ]
+    },
+    {
+      "text": "- Developed patient safety metrics",
+      "score": 0.9960209131240845,
+      "box": [
+        128,
+        341,
+        445,
+        367
+      ]
+    },
+    {
+      "text": "Registered Nurses, Compassion Health Group, 2016.082019.11",
+      "score": 0.991733968257904,
+      "box": [
+        117,
+        383,
+        721,
+        410
+      ]
+    },
+    {
+      "text": "- Managed patient outcome evaluation systems",
+      "score": 0.9908015727996826,
+      "box": [
+        125,
+        408,
+        566,
+        433
+      ]
+    },
+    {
+      "text": "- Directed patient care coordination",
+      "score": 0.977433443069458,
+      "box": [
+        127,
+        432,
+        454,
+        457
+      ]
+    },
+    {
+      "text": "Registered Nurses, GentleSpring Health, 2013.052016.08",
+      "score": 0.9898452162742615,
+      "box": [
+        118,
+        474,
+        664,
+        498
+      ]
+    },
+    {
+      "text": "- Conducted post-operative assessments",
+      "score": 0.9894884824752808,
+      "box": [
+        126,
+        497,
+        510,
+        526
+      ]
+    },
+    {
+      "text": "- Developed patient care plans",
+      "score": 0.9851508736610413,
+      "box": [
+        127,
+        521,
+        414,
+        551
+      ]
+    },
+    {
+      "text": "Registered Nurses, Helping Path Care, 2010.02—2013.05",
+      "score": 0.9861841797828674,
+      "box": [
+        118,
+        566,
+        646,
+        590
+      ]
+    },
+    {
+      "text": "- Recorded shift handoff notes",
+      "score": 0.9940046668052673,
+      "box": [
+        127,
+        591,
+        410,
+        615
+      ]
+    },
+    {
+      "text": "- Prepared medication trays",
+      "score": 0.9954094886779785,
+      "box": [
+        125,
+        613,
+        387,
+        644
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9998937249183655,
+      "box": [
+        117,
+        681,
+        266,
+        705
+      ]
+    },
+    {
+      "text": "Bachelor's, Health Studies, Riverdale University, 2008",
+      "score": 0.9907052516937256,
+      "box": [
+        117,
+        726,
+        616,
+        749
+      ]
+    },
+    {
+      "text": "•Studied principles of time management in care",
+      "score": 0.9816681146621704,
+      "box": [
+        131,
+        748,
+        579,
+        776
+      ]
+    },
+    {
+      "text": "Completed coursework in patient-centered care",
+      "score": 0.99955815076828,
+      "box": [
+        132,
+        772,
+        587,
+        801
+      ]
+    }
+  ],
+  "seconds": 3.102630800101906,
+  "id": "27004",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

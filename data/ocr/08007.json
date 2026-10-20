@@ -1,0 +1,112 @@
+{
+  "lines": [
+    {
+      "text": "CODY EVANS",
+      "score": 0.9600979685783386,
+      "box": [
+        116,
+        89,
+        340,
+        123
+      ]
+    },
+    {
+      "text": "CA, USA | +1-224-966-7323 | cody.evans@example.com",
+      "score": 0.9853515625,
+      "box": [
+        117,
+        150,
+        646,
+        177
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9997704029083252,
+      "box": [
+        117,
+        243,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Software Developers, Netbridge Tech, 2019.12—2022.04",
+      "score": 0.9824299216270447,
+      "box": [
+        117,
+        290,
+        639,
+        314
+      ]
+    },
+    {
+      "text": "- Monitored application logs",
+      "score": 0.9775185585021973,
+      "box": [
+        125,
+        312,
+        387,
+        342
+      ]
+    },
+    {
+      "text": "- Updated application dependencies",
+      "score": 0.9876505732536316,
+      "box": [
+        128,
+        339,
+        462,
+        367
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999264478683472,
+      "box": [
+        116,
+        404,
+        268,
+        431
+      ]
+    },
+    {
+      "text": "Bachelor's, Elmwood University, 2017",
+      "score": 0.9949654340744019,
+      "box": [
+        116,
+        447,
+        467,
+        474
+      ]
+    },
+    {
+      "text": "• Completed coursework in server-side development",
+      "score": 0.9857811331748962,
+      "box": [
+        133,
+        474,
+        619,
+        498
+      ]
+    },
+    {
+      "text": "Completed coursework in exception management",
+      "score": 0.9997120499610901,
+      "box": [
+        132,
+        497,
+        609,
+        525
+      ]
+    }
+  ],
+  "seconds": 2.1091638999059796,
+  "id": "08007",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

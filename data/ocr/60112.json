@@ -1,0 +1,142 @@
+{
+  "lines": [
+    {
+      "text": "LANCE SNYDER",
+      "score": 0.9996594786643982,
+      "box": [
+        117,
+        91,
+        381,
+        122
+      ]
+    },
+    {
+      "text": "WV, USA | +1-579-523-7789 | lance.snyder@example.com",
+      "score": 0.9900054931640625,
+      "box": [
+        115,
+        149,
+        664,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.999747097492218,
+      "box": [
+        117,
+        243,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Software Developers, Flowstack Digital, 2019.112022.01",
+      "score": 0.9968577027320862,
+      "box": [
+        116,
+        289,
+        652,
+        316
+      ]
+    },
+    {
+      "text": "- Led platform migrations",
+      "score": 0.9991351366043091,
+      "box": [
+        125,
+        314,
+        362,
+        343
+      ]
+    },
+    {
+      "text": "- Designed high-availability systems",
+      "score": 0.9974730610847473,
+      "box": [
+        128,
+        339,
+        461,
+        368
+      ]
+    },
+    {
+      "text": "Software Developers, Digital Meadow, 2016.102018.12",
+      "score": 0.9695522785186768,
+      "box": [
+        115,
+        379,
+        642,
+        410
+      ]
+    },
+    {
+      "text": "- Configured development environments",
+      "score": 0.9995676279067993,
+      "box": [
+        126,
+        407,
+        501,
+        432
+      ]
+    },
+    {
+      "text": "- Implemented error handling logic",
+      "score": 0.9950829744338989,
+      "box": [
+        127,
+        430,
+        447,
+        459
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999226331710815,
+      "box": [
+        116,
+        494,
+        268,
+        521
+      ]
+    },
+    {
+      "text": "Bachelor's, Maplewood University, 2012",
+      "score": 0.9883499145507812,
+      "box": [
+        117,
+        542,
+        490,
+        566
+      ]
+    },
+    {
+      "text": "•Completed coursework in real-time systems",
+      "score": 0.9887072443962097,
+      "box": [
+        130,
+        566,
+        553,
+        591
+      ]
+    },
+    {
+      "text": "Studied principles of static analysis",
+      "score": 0.998938262462616,
+      "box": [
+        130,
+        590,
+        473,
+        618
+      ]
+    }
+  ],
+  "seconds": 2.433481799904257,
+  "id": "60112",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

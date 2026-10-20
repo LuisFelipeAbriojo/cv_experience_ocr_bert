@@ -1,0 +1,172 @@
+{
+  "lines": [
+    {
+      "text": "JENNY TOWNSEND",
+      "score": 0.9996934533119202,
+      "box": [
+        116,
+        91,
+        434,
+        121
+      ]
+    },
+    {
+      "text": "GA, USA | +1-913-567-9866 | jenny.townsend@example.com",
+      "score": 0.9940887093544006,
+      "box": [
+        116,
+        150,
+        688,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.993905246257782,
+      "box": [
+        117,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, LifePath Health Services, 2020.112023.01",
+      "score": 0.9975974559783936,
+      "box": [
+        117,
+        289,
+        704,
+        316
+      ]
+    },
+    {
+      "text": "- Developed medication management policies",
+      "score": 0.9922590851783752,
+      "box": [
+        125,
+        314,
+        552,
+        343
+      ]
+    },
+    {
+      "text": "- Led infection control programs",
+      "score": 0.9858447909355164,
+      "box": [
+        127,
+        339,
+        424,
+        369
+      ]
+    },
+    {
+      "text": "Registered Nurses, GentleBridge Nursing, 2016.112019.01",
+      "score": 0.9892350435256958,
+      "box": [
+        116,
+        381,
+        674,
+        409
+      ]
+    },
+    {
+      "text": "- Interpreted laboratory results",
+      "score": 0.999474287033081,
+      "box": [
+        125,
+        406,
+        411,
+        434
+      ]
+    },
+    {
+      "text": "- Assisted with emergency interventions",
+      "score": 0.9986624121665955,
+      "box": [
+        127,
+        432,
+        496,
+        457
+      ]
+    },
+    {
+      "text": "Registered Nurses, OpenCare Nursing Services, 2013.12—2016.02",
+      "score": 0.9924548268318176,
+      "box": [
+        116,
+        471,
+        737,
+        499
+      ]
+    },
+    {
+      "text": "- Monitored intravenous lines",
+      "score": 0.9956955909729004,
+      "box": [
+        126,
+        497,
+        398,
+        523
+      ]
+    },
+    {
+      "text": "- Prepared treatment rooms",
+      "score": 0.9875797033309937,
+      "box": [
+        128,
+        520,
+        387,
+        551
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999486207962036,
+      "box": [
+        118,
+        588,
+        266,
+        612
+      ]
+    },
+    {
+      "text": "Bachelor's, Patient Care, Summit Ridge University, 2010",
+      "score": 0.9895468354225159,
+      "box": [
+        115,
+        630,
+        640,
+        659
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of patient care",
+      "score": 0.9696956276893616,
+      "box": [
+        130,
+        657,
+        489,
+        683
+      ]
+    },
+    {
+      "text": "Completed coursework in nursing informatics basics",
+      "score": 0.995070219039917,
+      "box": [
+        132,
+        681,
+        629,
+        709
+      ]
+    }
+  ],
+  "seconds": 2.6559930997900665,
+  "id": "15268",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

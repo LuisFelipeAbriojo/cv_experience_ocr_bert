@@ -1,0 +1,212 @@
+{
+  "lines": [
+    {
+      "text": "CHRISTINA SWEENEY",
+      "score": 0.9998025298118591,
+      "box": [
+        118,
+        92,
+        475,
+        122
+      ]
+    },
+    {
+      "text": "UT, USA | +1-874-500-8645 | christina.sweeney@example.com",
+      "score": 0.9932907223701477,
+      "box": [
+        116,
+        150,
+        705,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9993978142738342,
+      "box": [
+        116,
+        242,
+        316,
+        271
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Caring Start School, 2020.072023.01",
+      "score": 0.9921852350234985,
+      "box": [
+        116,
+        289,
+        818,
+        319
+      ]
+    },
+    {
+      "text": "- Designed instructional quality standards",
+      "score": 0.9791173338890076,
+      "box": [
+        127,
+        316,
+        511,
+        340
+      ]
+    },
+    {
+      "text": "- Directed instructional benchmarking",
+      "score": 0.9942553639411926,
+      "box": [
+        127,
+        337,
+        473,
+        369
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Future Steps Academy, 2018.01—2020.07",
+      "score": 0.988972544670105,
+      "box": [
+        115,
+        380,
+        851,
+        411
+      ]
+    },
+    {
+      "text": "- Developed district-aligned lesson frameworks",
+      "score": 0.9911330938339233,
+      "box": [
+        126,
+        408,
+        561,
+        433
+      ]
+    },
+    {
+      "text": "- Directed cross-grade curriculum alignment",
+      "score": 0.9908151030540466,
+      "box": [
+        125,
+        432,
+        536,
+        459
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Harmony Meadow Academy, 2014.012016.07",
+      "score": 0.9903160929679871,
+      "box": [
+        118,
+        472,
+        900,
+        499
+      ]
+    },
+    {
+      "text": "- Evaluated instructional effectiveness",
+      "score": 0.9949897527694702,
+      "box": [
+        126,
+        497,
+        480,
+        524
+      ]
+    },
+    {
+      "text": "- Aligned lesson objectives with standards",
+      "score": 0.9838575720787048,
+      "box": [
+        129,
+        524,
+        516,
+        548
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Kind Valley School, 2010.062013.01",
+      "score": 0.9877582788467407,
+      "box": [
+        117,
+        565,
+        811,
+        592
+      ]
+    },
+    {
+      "text": "- Reviewed lesson objectives",
+      "score": 0.9942899346351624,
+      "box": [
+        127,
+        592,
+        399,
+        616
+      ]
+    },
+    {
+      "text": "- Reviewed curriculum content",
+      "score": 0.999308705329895,
+      "box": [
+        125,
+        614,
+        412,
+        642
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999934196472168,
+      "box": [
+        117,
+        681,
+        266,
+        705
+      ]
+    },
+    {
+      "text": "Master's, Introductory Education, Riverhaven University, 2008",
+      "score": 0.9916120767593384,
+      "box": [
+        117,
+        726,
+        688,
+        749
+      ]
+    },
+    {
+      "text": "Bachelor's, Foundations of Learning, Pinecrest University, 2006",
+      "score": 0.9982826113700867,
+      "box": [
+        115,
+        746,
+        705,
+        777
+      ]
+    },
+    {
+      "text": "•Studied fundamentals of instructional pacing",
+      "score": 0.976093053817749,
+      "box": [
+        129,
+        772,
+        558,
+        802
+      ]
+    },
+    {
+      "text": "•Completed coursework in educational skill building",
+      "score": 0.983024537563324,
+      "box": [
+        132,
+        798,
+        614,
+        827
+      ]
+    }
+  ],
+  "seconds": 3.2548779998905957,
+  "id": "55526",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

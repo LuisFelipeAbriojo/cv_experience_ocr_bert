@@ -1,0 +1,172 @@
+{
+  "lines": [
+    {
+      "text": "JESSICA ALEXANDER",
+      "score": 0.9935934543609619,
+      "box": [
+        115,
+        89,
+        477,
+        122
+      ]
+    },
+    {
+      "text": "PA, USA | +1-385-520-4477 | jessica.alexander@example.com",
+      "score": 0.9712440371513367,
+      "box": [
+        117,
+        152,
+        700,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9990952610969543,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Reliable Ledger Advisors, 2020.08—2023.01",
+      "score": 0.9935327172279358,
+      "box": [
+        115,
+        288,
+        732,
+        316
+      ]
+    },
+    {
+      "text": "- Developed accounting innovation plans",
+      "score": 0.9885031580924988,
+      "box": [
+        126,
+        314,
+        506,
+        343
+      ]
+    },
+    {
+      "text": "- Established financial data governance",
+      "score": 0.9982368350028992,
+      "box": [
+        127,
+        340,
+        493,
+        367
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Integrity Books Co., 2018.03—2020.08",
+      "score": 0.9834210872650146,
+      "box": [
+        117,
+        382,
+        677,
+        409
+      ]
+    },
+    {
+      "text": "- Prepared working capital analysis",
+      "score": 0.9980391263961792,
+      "box": [
+        126,
+        409,
+        451,
+        433
+      ]
+    },
+    {
+      "text": "- Supervised junior accountants",
+      "score": 0.9916992783546448,
+      "box": [
+        127,
+        431,
+        422,
+        462
+      ]
+    },
+    {
+      "text": "Accountants Auditors, ClearView Accounting, 2014.08—2017.01",
+      "score": 0.9920802116394043,
+      "box": [
+        116,
+        471,
+        704,
+        501
+      ]
+    },
+    {
+      "text": "- Prepared aging reports",
+      "score": 0.9995612502098083,
+      "box": [
+        125,
+        497,
+        358,
+        526
+      ]
+    },
+    {
+      "text": "- Prepared basic financial reports",
+      "score": 0.9955773949623108,
+      "box": [
+        127,
+        519,
+        437,
+        553
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999499917030334,
+      "box": [
+        118,
+        588,
+        266,
+        612
+      ]
+    },
+    {
+      "text": "Bachelor's, Applied Finance, Crossfield University, 2008",
+      "score": 0.9987386465072632,
+      "box": [
+        117,
+        632,
+        635,
+        659
+      ]
+    },
+    {
+      "text": "•Studied principles of continuous auditing",
+      "score": 0.9832192659378052,
+      "box": [
+        129,
+        657,
+        523,
+        685
+      ]
+    },
+    {
+      "text": "• Completed coursework in management information systems",
+      "score": 0.9840320944786072,
+      "box": [
+        131,
+        681,
+        702,
+        709
+      ]
+    }
+  ],
+  "seconds": 2.5198607998900115,
+  "id": "45165",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

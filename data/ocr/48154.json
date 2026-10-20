@@ -1,0 +1,202 @@
+{
+  "lines": [
+    {
+      "text": "NATALIE GARNER",
+      "score": 0.9997531175613403,
+      "box": [
+        117,
+        92,
+        417,
+        122
+      ]
+    },
+    {
+      "text": "SD, USA | +1-368-335-6212 | natalie.garner@example.com",
+      "score": 0.9693429470062256,
+      "box": [
+        116,
+        150,
+        668,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9971685409545898,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, SunBridge Nursing, 2019.102023.01",
+      "score": 0.992763876914978,
+      "box": [
+        115,
+        288,
+        651,
+        319
+      ]
+    },
+    {
+      "text": "- Designed clinical documentation standards",
+      "score": 0.9962966442108154,
+      "box": [
+        125,
+        314,
+        539,
+        342
+      ]
+    },
+    {
+      "text": "- Managed patient outcome evaluation systems",
+      "score": 0.9863055944442749,
+      "box": [
+        126,
+        339,
+        566,
+        369
+      ]
+    },
+    {
+      "text": "Registered Nurses, GentleWay Health, 2016.072019.10",
+      "score": 0.9996469020843506,
+      "box": [
+        117,
+        382,
+        644,
+        409
+      ]
+    },
+    {
+      "text": "- Directed patient care coordination",
+      "score": 0.9991482496261597,
+      "box": [
+        125,
+        406,
+        455,
+        435
+      ]
+    },
+    {
+      "text": "- Designed clinical documentation standards",
+      "score": 0.9956905245780945,
+      "box": [
+        127,
+        433,
+        539,
+        459
+      ]
+    },
+    {
+      "text": "Registered Nurses, SafePath Health Services, 2013.04—2016.07",
+      "score": 0.9927785992622375,
+      "box": [
+        116,
+        471,
+        714,
+        499
+      ]
+    },
+    {
+      "text": "- Monitored patient response to treatments",
+      "score": 0.9854080677032471,
+      "box": [
+        125,
+        497,
+        523,
+        525
+      ]
+    },
+    {
+      "text": "- Developed patient care plans",
+      "score": 0.9966497421264648,
+      "box": [
+        127,
+        521,
+        415,
+        552
+      ]
+    },
+    {
+      "text": "Registered Nurses, OpenWay Nursing Services, 2010.012013.04",
+      "score": 0.9975036382675171,
+      "box": [
+        117,
+        565,
+        733,
+        592
+      ]
+    },
+    {
+      "text": "- Recorded patient vital signs",
+      "score": 0.984858512878418,
+      "box": [
+        125,
+        589,
+        400,
+        619
+      ]
+    },
+    {
+      "text": "- Provided post-procedure care",
+      "score": 0.9834311604499817,
+      "box": [
+        125,
+        614,
+        418,
+        644
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999920129776001,
+      "box": [
+        117,
+        681,
+        266,
+        705
+      ]
+    },
+    {
+      "text": "Associate's degree, Practical Nursing, Meadowcrest University, 2010",
+      "score": 0.9945658445358276,
+      "box": [
+        116,
+        723,
+        754,
+        750
+      ]
+    },
+    {
+      "text": "• Completed coursework in acute care nursing",
+      "score": 0.991642415523529,
+      "box": [
+        131,
+        750,
+        561,
+        775
+      ]
+    },
+    {
+      "text": "Studied principles of telemetry basics",
+      "score": 0.9874211549758911,
+      "box": [
+        132,
+        772,
+        494,
+        801
+      ]
+    }
+  ],
+  "seconds": 3.0486701000481844,
+  "id": "48154",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

@@ -1,0 +1,182 @@
+{
+  "lines": [
+    {
+      "text": "ERIN SHIELDS",
+      "score": 0.9997732043266296,
+      "box": [
+        118,
+        91,
+        351,
+        122
+      ]
+    },
+    {
+      "text": "FL, USA | +1-886-272-3023 | erin.shields@example.com",
+      "score": 0.9806973338127136,
+      "box": [
+        117,
+        150,
+        640,
+        177
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9990584850311279,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, CoreLedger Financial, 2020.04—2023.01",
+      "score": 0.9858536124229431,
+      "box": [
+        114,
+        287,
+        699,
+        318
+      ]
+    },
+    {
+      "text": "- Managed consolidation processes",
+      "score": 0.9830195307731628,
+      "box": [
+        126,
+        314,
+        460,
+        344
+      ]
+    },
+    {
+      "text": "- Designed financial modeling standards",
+      "score": 0.9607191681861877,
+      "box": [
+        127,
+        338,
+        502,
+        369
+      ]
+    },
+    {
+      "text": "Accountants Auditors, CoreLedger Financial, 2017.072020.04",
+      "score": 0.9941721558570862,
+      "box": [
+        117,
+        382,
+        700,
+        409
+      ]
+    },
+    {
+      "text": "- Conducted inventory valuation",
+      "score": 0.9961552619934082,
+      "box": [
+        127,
+        409,
+        423,
+        433
+      ]
+    },
+    {
+      "text": "- Prepared consolidation entries",
+      "score": 0.9854937791824341,
+      "box": [
+        128,
+        432,
+        425,
+        458
+      ]
+    },
+    {
+      "text": "Accountants Auditors, ClearCount Financial Group, 2014.09—2017.07",
+      "score": 0.9882301688194275,
+      "box": [
+        116,
+        471,
+        761,
+        501
+      ]
+    },
+    {
+      "text": "- Prepared trial balances",
+      "score": 0.9904184937477112,
+      "box": [
+        126,
+        497,
+        358,
+        524
+      ]
+    },
+    {
+      "text": "- Reviewed expense classifications",
+      "score": 0.9976552128791809,
+      "box": [
+        126,
+        519,
+        455,
+        552
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999116063117981,
+      "box": [
+        117,
+        587,
+        267,
+        614
+      ]
+    },
+    {
+      "text": "Master's, Accounting Information Systems, Meadowfield University, 2012",
+      "score": 0.9833947420120239,
+      "box": [
+        117,
+        633,
+        792,
+        657
+      ]
+    },
+    {
+      "text": "Bachelor's, Business Studies, Northwood University, 2010",
+      "score": 0.9842849373817444,
+      "box": [
+        115,
+        656,
+        656,
+        684
+      ]
+    },
+    {
+      "text": "•Studied principles of information management",
+      "score": 0.9785414934158325,
+      "box": [
+        130,
+        683,
+        573,
+        707
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of documentation standards",
+      "score": 0.985431432723999,
+      "box": [
+        131,
+        707,
+        613,
+        732
+      ]
+    }
+  ],
+  "seconds": 2.8916322998702526,
+  "id": "14360",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

@@ -1,0 +1,202 @@
+{
+  "lines": [
+    {
+      "text": "JANET SILVA",
+      "score": 0.9997187256813049,
+      "box": [
+        116,
+        91,
+        335,
+        122
+      ]
+    },
+    {
+      "text": "IN, USA | +1-267-856-4113 | janet.silva@example.com",
+      "score": 0.9775848984718323,
+      "box": [
+        117,
+        151,
+        624,
+        177
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9991876482963562,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, PrimeLedger Group, 2019.10—2023.01",
+      "score": 0.9868776202201843,
+      "box": [
+        114,
+        287,
+        683,
+        319
+      ]
+    },
+    {
+      "text": "- Directed enterprise accounting platforms",
+      "score": 0.9996249079704285,
+      "box": [
+        126,
+        316,
+        516,
+        341
+      ]
+    },
+    {
+      "text": "- Established tax compliance frameworks",
+      "score": 0.9872541427612305,
+      "box": [
+        127,
+        340,
+        508,
+        366
+      ]
+    },
+    {
+      "text": "Accountants Auditors, FairLedger Group, 2016.072019.10",
+      "score": 0.9976119995117188,
+      "box": [
+        118,
+        383,
+        665,
+        407
+      ]
+    },
+    {
+      "text": "- Developed financial risk models",
+      "score": 0.972236156463623,
+      "box": [
+        127,
+        409,
+        436,
+        432
+      ]
+    },
+    {
+      "text": "- Directed financial reporting processes",
+      "score": 0.9936420321464539,
+      "box": [
+        126,
+        431,
+        490,
+        458
+      ]
+    },
+    {
+      "text": "Accountants Auditors, ClearCount Financial Group, 2013.04—2016.07",
+      "score": 0.9921203851699829,
+      "box": [
+        115,
+        471,
+        760,
+        499
+      ]
+    },
+    {
+      "text": "- Implemented accounting procedures",
+      "score": 0.9988018870353699,
+      "box": [
+        125,
+        497,
+        481,
+        525
+      ]
+    },
+    {
+      "text": "- Reviewed journal entries",
+      "score": 0.9979183673858643,
+      "box": [
+        128,
+        521,
+        371,
+        551
+      ]
+    },
+    {
+      "text": "Accountants Auditors, CoreBalance Financial Group, 2009.12—2013.04",
+      "score": 0.9892910122871399,
+      "box": [
+        117,
+        566,
+        774,
+        590
+      ]
+    },
+    {
+      "text": "- Reviewed credit memos",
+      "score": 0.9961856603622437,
+      "box": [
+        126,
+        590,
+        366,
+        615
+      ]
+    },
+    {
+      "text": "- Performed data validation checks",
+      "score": 0.9771091341972351,
+      "box": [
+        127,
+        614,
+        451,
+        640
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999361038208008,
+      "box": [
+        117,
+        681,
+        266,
+        705
+      ]
+    },
+    {
+      "text": "Bachelor's, Taxation, Crossfield University, 2008",
+      "score": 0.9996808767318726,
+      "box": [
+        116,
+        724,
+        566,
+        749
+      ]
+    },
+    {
+      "text": "• Completed coursework in economics for accounting",
+      "score": 0.9830693006515503,
+      "box": [
+        132,
+        749,
+        625,
+        775
+      ]
+    },
+    {
+      "text": "Studied principles of business process analysis",
+      "score": 0.9813043475151062,
+      "box": [
+        132,
+        772,
+        585,
+        801
+      ]
+    }
+  ],
+  "seconds": 3.018309900071472,
+  "id": "20121",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

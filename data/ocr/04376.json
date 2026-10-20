@@ -1,0 +1,202 @@
+{
+  "lines": [
+    {
+      "text": "NANCY EATON",
+      "score": 0.9995524883270264,
+      "box": [
+        117,
+        91,
+        362,
+        121
+      ]
+    },
+    {
+      "text": "CA, USA | +1-461-907-8450 | nancy.eaton@example.com",
+      "score": 0.9806708693504333,
+      "box": [
+        116,
+        150,
+        654,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9990155100822449,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, Harmony Health Group, 2019.10—2023.01",
+      "score": 0.980951189994812,
+      "box": [
+        115,
+        287,
+        690,
+        318
+      ]
+    },
+    {
+      "text": "- Led infection control programs",
+      "score": 0.9894594550132751,
+      "box": [
+        128,
+        314,
+        423,
+        344
+      ]
+    },
+    {
+      "text": "- Managed nursing unit operations",
+      "score": 0.9818053841590881,
+      "box": [
+        127,
+        339,
+        447,
+        369
+      ]
+    },
+    {
+      "text": "Registered Nurses, OpenArms Care Services, 2016.062019.10",
+      "score": 0.9905277490615845,
+      "box": [
+        117,
+        382,
+        713,
+        409
+      ]
+    },
+    {
+      "text": "- Led patient experience improvement programs",
+      "score": 0.9883103966712952,
+      "box": [
+        128,
+        408,
+        573,
+        434
+      ]
+    },
+    {
+      "text": "- Established quality assurance systems",
+      "score": 0.9754653573036194,
+      "box": [
+        127,
+        432,
+        500,
+        458
+      ]
+    },
+    {
+      "text": "Registered Nurses, Helping Way Care, 2013.02—2016.06",
+      "score": 0.9878478646278381,
+      "box": [
+        118,
+        474,
+        644,
+        498
+      ]
+    },
+    {
+      "text": "- Coordinated patient follow-ups",
+      "score": 0.9990018606185913,
+      "box": [
+        125,
+        497,
+        426,
+        525
+      ]
+    },
+    {
+      "text": "- Administered blood transfusions",
+      "score": 0.9665294885635376,
+      "box": [
+        127,
+        522,
+        439,
+        548
+      ]
+    },
+    {
+      "text": "Registered Nurses, Helping Hands Medical, 2009.102013.02",
+      "score": 0.9943275451660156,
+      "box": [
+        118,
+        566,
+        690,
+        590
+      ]
+    },
+    {
+      "text": "- Assisted with emergency procedures",
+      "score": 0.9898108243942261,
+      "box": [
+        126,
+        590,
+        485,
+        618
+      ]
+    },
+    {
+      "text": "- Monitored oxygen therapy",
+      "score": 0.9773172736167908,
+      "box": [
+        125,
+        614,
+        384,
+        644
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999231696128845,
+      "box": [
+        117,
+        681,
+        266,
+        705
+      ]
+    },
+    {
+      "text": "Bachelor's, Pediatric Care, Clearfield University, 2009",
+      "score": 0.9985546469688416,
+      "box": [
+        117,
+        724,
+        612,
+        747
+      ]
+    },
+    {
+      "text": "•Studied fundamentals of trauma care",
+      "score": 0.9794852137565613,
+      "box": [
+        131,
+        749,
+        492,
+        774
+      ]
+    },
+    {
+      "text": "Completed coursework in pathophysiology",
+      "score": 0.9997058510780334,
+      "box": [
+        132,
+        772,
+        540,
+        802
+      ]
+    }
+  ],
+  "seconds": 3.1338147004134953,
+  "id": "04376",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

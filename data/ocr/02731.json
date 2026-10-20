@@ -1,0 +1,172 @@
+{
+  "lines": [
+    {
+      "text": "CODY DOUGHERTY",
+      "score": 0.9671593904495239,
+      "box": [
+        118,
+        91,
+        437,
+        121
+      ]
+    },
+    {
+      "text": "CA, USA | +1-981-411-8992 | cody.dougherty@example.com",
+      "score": 0.9809871912002563,
+      "box": [
+        118,
+        152,
+        682,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9990584850311279,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, FairBalance Accounting, 2020.04—2023.01",
+      "score": 0.9959732294082642,
+      "box": [
+        116,
+        289,
+        718,
+        314
+      ]
+    },
+    {
+      "text": "- Directed financial system architecture",
+      "score": 0.9943857192993164,
+      "box": [
+        126,
+        314,
+        489,
+        341
+      ]
+    },
+    {
+      "text": "- Led audit programs",
+      "score": 0.9994268417358398,
+      "box": [
+        128,
+        340,
+        322,
+        368
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Integrity Balance Financial, 2017.072020.04",
+      "score": 0.999670147895813,
+      "box": [
+        115,
+        380,
+        746,
+        408
+      ]
+    },
+    {
+      "text": "- Supervised junior accountants",
+      "score": 0.9889874458312988,
+      "box": [
+        126,
+        409,
+        422,
+        433
+      ]
+    },
+    {
+      "text": "- Developed audit plans",
+      "score": 0.9781797528266907,
+      "box": [
+        127,
+        431,
+        350,
+        461
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Integrity Ledger Advisors, 2014.092017.07",
+      "score": 0.9873539209365845,
+      "box": [
+        116,
+        472,
+        732,
+        499
+      ]
+    },
+    {
+      "text": "- Verified transaction accuracy",
+      "score": 0.9994483590126038,
+      "box": [
+        126,
+        497,
+        410,
+        524
+      ]
+    },
+    {
+      "text": "- Assisted with tax form preparation",
+      "score": 0.9897583723068237,
+      "box": [
+        127,
+        520,
+        457,
+        549
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999513626098633,
+      "box": [
+        118,
+        588,
+        266,
+        612
+      ]
+    },
+    {
+      "text": "Bachelor's, Economic Studies, Northfield University, 2019",
+      "score": 0.9952388405799866,
+      "box": [
+        118,
+        633,
+        649,
+        657
+      ]
+    },
+    {
+      "text": "Studied principles of audit sampling",
+      "score": 0.9996473789215088,
+      "box": [
+        128,
+        656,
+        478,
+        685
+      ]
+    },
+    {
+      "text": "Studied fundamentals of audit documentation",
+      "score": 0.9961716532707214,
+      "box": [
+        130,
+        681,
+        566,
+        705
+      ]
+    }
+  ],
+  "seconds": 2.590337600093335,
+  "id": "02731",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

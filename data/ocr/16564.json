@@ -1,0 +1,112 @@
+{
+  "lines": [
+    {
+      "text": "MAX POTTS",
+      "score": 0.9998682737350464,
+      "box": [
+        116,
+        89,
+        314,
+        123
+      ]
+    },
+    {
+      "text": "GA, USA | +1-350-811-4812 | max.potts@example.com",
+      "score": 0.9910309314727783,
+      "box": [
+        116,
+        149,
+        632,
+        177
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9993459582328796,
+      "box": [
+        116,
+        243,
+        317,
+        270
+      ]
+    },
+    {
+      "text": "Construction Laborers, SolidLine Construction, 2020.10—2023.01",
+      "score": 0.9947720766067505,
+      "box": [
+        118,
+        289,
+        715,
+        313
+      ]
+    },
+    {
+      "text": "- Installed basic flooring materials",
+      "score": 0.9799391627311707,
+      "box": [
+        126,
+        314,
+        439,
+        340
+      ]
+    },
+    {
+      "text": "- Performed basic plumbing assistance",
+      "score": 0.9981113076210022,
+      "box": [
+        128,
+        338,
+        488,
+        367
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9998915791511536,
+      "box": [
+        116,
+        404,
+        268,
+        431
+      ]
+    },
+    {
+      "text": "Some college (no degree), Construction Design, Pineview Ridge University, 2023",
+      "score": 0.9900771975517273,
+      "box": [
+        117,
+        447,
+        867,
+        474
+      ]
+    },
+    {
+      "text": "•Studied principles of framing methods",
+      "score": 0.9703893065452576,
+      "box": [
+        130,
+        474,
+        497,
+        498
+      ]
+    },
+    {
+      "text": "Studied principles of job site efficiency",
+      "score": 0.9928193688392639,
+      "box": [
+        131,
+        495,
+        501,
+        527
+      ]
+    }
+  ],
+  "seconds": 1.9716225997544825,
+  "id": "16564",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

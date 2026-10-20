@@ -1,0 +1,102 @@
+{
+  "lines": [
+    {
+      "text": "OLIVIA MORTON",
+      "score": 0.9998839497566223,
+      "box": [
+        117,
+        89,
+        387,
+        123
+      ]
+    },
+    {
+      "text": "IN, USA | +1-820-614-4045 | olivia.morton@example.com",
+      "score": 0.9880810379981995,
+      "box": [
+        116,
+        149,
+        651,
+        177
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9997269511222839,
+      "box": [
+        117,
+        243,
+        317,
+        270
+      ]
+    },
+    {
+      "text": "Construction Laborers, Durable Works, 2021.05—2023.01",
+      "score": 0.98704993724823,
+      "box": [
+        118,
+        289,
+        644,
+        313
+      ]
+    },
+    {
+      "text": "- Assisted with framing support",
+      "score": 0.9909946918487549,
+      "box": [
+        127,
+        316,
+        418,
+        340
+      ]
+    },
+    {
+      "text": "- Helped position heavy materials",
+      "score": 0.9959055781364441,
+      "box": [
+        128,
+        340,
+        438,
+        367
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999462962150574,
+      "box": [
+        116,
+        404,
+        268,
+        431
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Surveying Technology, Silverton High School, 2019",
+      "score": 0.9917348027229309,
+      "box": [
+        116,
+        446,
+        853,
+        475
+      ]
+    },
+    {
+      "text": "Completed coursework in basic site surveying",
+      "score": 0.9871734380722046,
+      "box": [
+        131,
+        472,
+        573,
+        501
+      ]
+    }
+  ],
+  "seconds": 1.879594000056386,
+  "id": "19676",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

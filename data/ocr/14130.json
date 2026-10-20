@@ -1,0 +1,182 @@
+{
+  "lines": [
+    {
+      "text": "SHAWN GORDON",
+      "score": 0.9991424083709717,
+      "box": [
+        116,
+        89,
+        404,
+        122
+      ]
+    },
+    {
+      "text": "FL, USA | +1-504-285-3053 | shawn.gordon@example.com",
+      "score": 0.9917557835578918,
+      "box": [
+        116,
+        150,
+        667,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9991834759712219,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, Harmony Hands Health Services, 2020.06—2023.01",
+      "score": 0.9889693260192871,
+      "box": [
+        115,
+        287,
+        779,
+        318
+      ]
+    },
+    {
+      "text": "- Supervised multidisciplinary care teams",
+      "score": 0.9932488203048706,
+      "box": [
+        125,
+        314,
+        509,
+        343
+      ]
+    },
+    {
+      "text": "- Directed nursing process improvements",
+      "score": 0.9981290102005005,
+      "box": [
+        127,
+        339,
+        510,
+        370
+      ]
+    },
+    {
+      "text": "Registered Nurses, Caring Nest Nursing, 2016.082019.04",
+      "score": 0.9939520955085754,
+      "box": [
+        116,
+        381,
+        664,
+        409
+      ]
+    },
+    {
+      "text": "- Assisted with emergency interventions",
+      "score": 0.9960684180259705,
+      "box": [
+        124,
+        406,
+        497,
+        435
+      ]
+    },
+    {
+      "text": "- Educated patients on treatment plans",
+      "score": 0.9817114472389221,
+      "box": [
+        126,
+        432,
+        487,
+        458
+      ]
+    },
+    {
+      "text": "Registered Nurses, WellWay Medical Group, 2013.012015.09",
+      "score": 0.9949280023574829,
+      "box": [
+        118,
+        474,
+        699,
+        498
+      ]
+    },
+    {
+      "text": "- Provided patient education materials",
+      "score": 0.9994332194328308,
+      "box": [
+        125,
+        496,
+        481,
+        525
+      ]
+    },
+    {
+      "text": "- Maintained infection control protocols",
+      "score": 0.9892610311508179,
+      "box": [
+        126,
+        520,
+        486,
+        550
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999254941940308,
+      "box": [
+        117,
+        587,
+        267,
+        614
+      ]
+    },
+    {
+      "text": "Master's, Health Care Technology, Crestview University, 2012",
+      "score": 0.9899184703826904,
+      "box": [
+        116,
+        632,
+        692,
+        659
+      ]
+    },
+    {
+      "text": "Bachelor's, Health Education, Rockland University, 2010",
+      "score": 0.9943823218345642,
+      "box": [
+        117,
+        659,
+        640,
+        683
+      ]
+    },
+    {
+      "text": "• Completed coursework in patient-centered care",
+      "score": 0.9835039377212524,
+      "box": [
+        133,
+        684,
+        587,
+        708
+      ]
+    },
+    {
+      "text": "• Studied principles of patient identification",
+      "score": 0.9831519722938538,
+      "box": [
+        132,
+        706,
+        528,
+        735
+      ]
+    }
+  ],
+  "seconds": 2.949696999974549,
+  "id": "14130",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

@@ -1,0 +1,122 @@
+{
+  "lines": [
+    {
+      "text": "TAYLOR SEXTON",
+      "score": 0.9996957778930664,
+      "box": [
+        117,
+        90,
+        402,
+        121
+      ]
+    },
+    {
+      "text": "WA, USA | +1-694-211-9566 | taylor.sexton@example.com",
+      "score": 0.990678608417511,
+      "box": [
+        117,
+        152,
+        663,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.999731719493866,
+      "box": [
+        117,
+        243,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Caring Start School, 2021.02—2022.02",
+      "score": 0.9875417351722717,
+      "box": [
+        116,
+        288,
+        820,
+        318
+      ]
+    },
+    {
+      "text": "- Supported individual student learning activities",
+      "score": 0.9717060923576355,
+      "box": [
+        127,
+        316,
+        572,
+        340
+      ]
+    },
+    {
+      "text": "- Reviewed homework assignments",
+      "score": 0.9874746203422546,
+      "box": [
+        127,
+        339,
+        458,
+        366
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999415874481201,
+      "box": [
+        116,
+        404,
+        268,
+        431
+      ]
+    },
+    {
+      "text": "Master's, Child Development, High Meadow University, 2019",
+      "score": 0.984166145324707,
+      "box": [
+        116,
+        448,
+        680,
+        475
+      ]
+    },
+    {
+      "text": "Bachelor's, Student Learning Studies, Parkview University, 2017",
+      "score": 0.9915911555290222,
+      "box": [
+        116,
+        473,
+        712,
+        500
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of instructional clarity",
+      "score": 0.9869133830070496,
+      "box": [
+        130,
+        498,
+        550,
+        525
+      ]
+    },
+    {
+      "text": "Completed coursework in classroom assessment techniques",
+      "score": 0.9989875555038452,
+      "box": [
+        132,
+        522,
+        708,
+        551
+      ]
+    }
+  ],
+  "seconds": 2.2113973000086844,
+  "id": "59541",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

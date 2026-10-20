@@ -1,0 +1,172 @@
+{
+  "lines": [
+    {
+      "text": "HEATHER BRANCH",
+      "score": 0.999853789806366,
+      "box": [
+        117,
+        92,
+        434,
+        122
+      ]
+    },
+    {
+      "text": "GA, USA | +1-764-399-5152 | heather.branch@example.com",
+      "score": 0.9832419157028198,
+      "box": [
+        118,
+        152,
+        682,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9991477131843567,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Sunny Horizons School, 2020.01—2023.01",
+      "score": 0.986278772354126,
+      "box": [
+        115,
+        287,
+        854,
+        318
+      ]
+    },
+    {
+      "text": "- Led instructional leadership initiatives",
+      "score": 0.997151792049408,
+      "box": [
+        126,
+        315,
+        488,
+        341
+      ]
+    },
+    {
+      "text": "- Directed assessment development efforts",
+      "score": 0.9924374222755432,
+      "box": [
+        127,
+        340,
+        526,
+        366
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Little Futures School, 2016.012019.01",
+      "score": 0.9885940551757812,
+      "box": [
+        117,
+        382,
+        827,
+        409
+      ]
+    },
+    {
+      "text": "- Designed reading intervention plans",
+      "score": 0.9857712984085083,
+      "box": [
+        126,
+        408,
+        475,
+        433
+      ]
+    },
+    {
+      "text": "- Maintained academic records",
+      "score": 0.9911150336265564,
+      "box": [
+        126,
+        431,
+        415,
+        457
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, New Leaf Learning, 2012.04—2015.04",
+      "score": 0.9927858114242554,
+      "box": [
+        116,
+        471,
+        813,
+        499
+      ]
+    },
+    {
+      "text": "- Managed classroom supplies",
+      "score": 0.9984813332557678,
+      "box": [
+        125,
+        497,
+        414,
+        526
+      ]
+    },
+    {
+      "text": "- Tracked student participation",
+      "score": 0.9980429410934448,
+      "box": [
+        127,
+        521,
+        411,
+        551
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999111890792847,
+      "box": [
+        117,
+        587,
+        267,
+        614
+      ]
+    },
+    {
+      "text": "Bachelor's, Elementary Education Preparation, Willowcrest University, 2008",
+      "score": 0.994547963142395,
+      "box": [
+        117,
+        632,
+        816,
+        659
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of lesson evaluation",
+      "score": 0.9893791079521179,
+      "box": [
+        130,
+        657,
+        542,
+        683
+      ]
+    },
+    {
+      "text": "• Completed coursework in classroom communication techniques",
+      "score": 0.9854030013084412,
+      "box": [
+        133,
+        682,
+        737,
+        708
+      ]
+    }
+  ],
+  "seconds": 2.7595047000795603,
+  "id": "16455",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

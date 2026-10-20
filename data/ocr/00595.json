@@ -1,0 +1,202 @@
+{
+  "lines": [
+    {
+      "text": "KEEFE BEIL",
+      "score": 0.9752413034439087,
+      "box": [
+        117,
+        92,
+        313,
+        120
+      ]
+    },
+    {
+      "text": "AL, USA | +1-364-991-5493 | keefe.beil@example.com",
+      "score": 0.9862265586853027,
+      "box": [
+        116,
+        150,
+        627,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9991067051887512,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Kind Steps School, 2019.04-2023.01",
+      "score": 0.9906502366065979,
+      "box": [
+        115,
+        287,
+        808,
+        318
+      ]
+    },
+    {
+      "text": "- Directed instructional planning processes",
+      "score": 0.9926870465278625,
+      "box": [
+        126,
+        315,
+        522,
+        342
+      ]
+    },
+    {
+      "text": "- Implemented data analysis frameworks",
+      "score": 0.9939272999763489,
+      "box": [
+        126,
+        339,
+        504,
+        368
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Learning Corner Academy, 2015.072019.04",
+      "score": 0.9964936971664429,
+      "box": [
+        117,
+        382,
+        881,
+        409
+      ]
+    },
+    {
+      "text": "- Led curriculum transformation initiatives",
+      "score": 0.993865966796875,
+      "box": [
+        126,
+        408,
+        509,
+        433
+      ]
+    },
+    {
+      "text": "- Directed academic intervention strategies",
+      "score": 0.9886690974235535,
+      "box": [
+        125,
+        430,
+        525,
+        459
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Sunny Start School, 2011.10—2015.07",
+      "score": 0.9928586483001709,
+      "box": [
+        116,
+        471,
+        817,
+        499
+      ]
+    },
+    {
+      "text": "- Implemented project-based learning activities",
+      "score": 0.9909327030181885,
+      "box": [
+        125,
+        497,
+        562,
+        525
+      ]
+    },
+    {
+      "text": "- Analyzed student performance data",
+      "score": 0.9809171557426453,
+      "box": [
+        127,
+        521,
+        473,
+        550
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Future Star Academy, 2008.01—2011.10",
+      "score": 0.9846156239509583,
+      "box": [
+        116,
+        564,
+        835,
+        592
+      ]
+    },
+    {
+      "text": "- Collected permission forms",
+      "score": 0.9848219156265259,
+      "box": [
+        126,
+        591,
+        396,
+        616
+      ]
+    },
+    {
+      "text": "- Scheduled instructional activities",
+      "score": 0.9797850847244263,
+      "box": [
+        125,
+        613,
+        445,
+        642
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999116063117981,
+      "box": [
+        117,
+        681,
+        266,
+        705
+      ]
+    },
+    {
+      "text": "Bachelor's, Foundations of Learning, Greenwood Ridge University, 2007",
+      "score": 0.9830455183982849,
+      "box": [
+        115,
+        723,
+        786,
+        750
+      ]
+    },
+    {
+      "text": "•Studied fundamentals of teaching strategy selection",
+      "score": 0.9674168229103088,
+      "box": [
+        129,
+        748,
+        628,
+        776
+      ]
+    },
+    {
+      "text": "Studied fundamentals of instructional support",
+      "score": 0.9935863018035889,
+      "box": [
+        131,
+        772,
+        569,
+        801
+      ]
+    }
+  ],
+  "seconds": 3.0707832002080977,
+  "id": "00595",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

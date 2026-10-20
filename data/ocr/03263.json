@@ -1,0 +1,142 @@
+{
+  "lines": [
+    {
+      "text": "AUSTIN BENTLEY",
+      "score": 0.9986327886581421,
+      "box": [
+        118,
+        91,
+        407,
+        121
+      ]
+    },
+    {
+      "text": "CA, USA | +1-792-655-8581 | austin.bentley@example.com",
+      "score": 0.9716581702232361,
+      "box": [
+        118,
+        152,
+        668,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9991834759712219,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, HardFrame Builders, 2021.04—2023.01",
+      "score": 0.9842978119850159,
+      "box": [
+        118,
+        290,
+        693,
+        314
+      ]
+    },
+    {
+      "text": "- Led structural installation projects",
+      "score": 0.9982965588569641,
+      "box": [
+        126,
+        315,
+        452,
+        341
+      ]
+    },
+    {
+      "text": "- Directed quality assurance programs",
+      "score": 0.9870569109916687,
+      "box": [
+        127,
+        339,
+        482,
+        368
+      ]
+    },
+    {
+      "text": "Construction Laborers, Precision Build Co., 2019.072021.04",
+      "score": 0.9769059419631958,
+      "box": [
+        116,
+        380,
+        685,
+        408
+      ]
+    },
+    {
+      "text": "- Assisted with equipment maintenance",
+      "score": 0.9977688193321228,
+      "box": [
+        124,
+        406,
+        493,
+        435
+      ]
+    },
+    {
+      "text": "- Set up ladders and basic scaffolding",
+      "score": 0.9992942810058594,
+      "box": [
+        126,
+        430,
+        478,
+        460
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999339580535889,
+      "box": [
+        117,
+        494,
+        268,
+        521
+      ]
+    },
+    {
+      "text": "Associate's degree, Construction Drafting, Highpoint University, 2023",
+      "score": 0.9815239310264587,
+      "box": [
+        117,
+        541,
+        755,
+        568
+      ]
+    },
+    {
+      "text": "•Completed coursework in basic plumbing concepts",
+      "score": 0.9920247197151184,
+      "box": [
+        130,
+        566,
+        619,
+        591
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of construction measurement tools",
+      "score": 0.9820660948753357,
+      "box": [
+        132,
+        590,
+        674,
+        615
+      ]
+    }
+  ],
+  "seconds": 2.2941522002220154,
+  "id": "03263",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

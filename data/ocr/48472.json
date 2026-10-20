@@ -1,0 +1,142 @@
+{
+  "lines": [
+    {
+      "text": "CIARA TUCKER",
+      "score": 0.9998803734779358,
+      "box": [
+        117,
+        89,
+        373,
+        123
+      ]
+    },
+    {
+      "text": "TN, USA | +1-267-600-6603 | ciara.tucker@example.com",
+      "score": 0.9835556745529175,
+      "box": [
+        117,
+        149,
+        648,
+        177
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9997707009315491,
+      "box": [
+        117,
+        243,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Registered Nurses, WellNest Medical Group, 2020.06—2023.01",
+      "score": 0.9867756962776184,
+      "box": [
+        117,
+        289,
+        700,
+        316
+      ]
+    },
+    {
+      "text": "- Directed care delivery improvements",
+      "score": 0.9880545139312744,
+      "box": [
+        125,
+        312,
+        481,
+        343
+      ]
+    },
+    {
+      "text": "- Managed clinical resource planning",
+      "score": 0.998236358165741,
+      "box": [
+        126,
+        338,
+        469,
+        369
+      ]
+    },
+    {
+      "text": "Registered Nurses, BrightNest Health Services, 2017.112020.06",
+      "score": 0.9679582118988037,
+      "box": [
+        115,
+        379,
+        727,
+        410
+      ]
+    },
+    {
+      "text": "- Prepared intravenous solutions",
+      "score": 0.9913778901100159,
+      "box": [
+        126,
+        407,
+        431,
+        433
+      ]
+    },
+    {
+      "text": "- Maintained infection control protocols",
+      "score": 0.9697003364562988,
+      "box": [
+        126,
+        429,
+        486,
+        458
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999927282333374,
+      "box": [
+        117,
+        494,
+        267,
+        521
+      ]
+    },
+    {
+      "text": "Bachelor's, Health Promotion, Stonehill University, 2020",
+      "score": 0.9956727027893066,
+      "box": [
+        116,
+        539,
+        632,
+        567
+      ]
+    },
+    {
+      "text": "•Studied principles of pain management",
+      "score": 0.9869357943534851,
+      "box": [
+        129,
+        566,
+        511,
+        591
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of care coordination",
+      "score": 0.993195652961731,
+      "box": [
+        132,
+        592,
+        539,
+        615
+      ]
+    }
+  ],
+  "seconds": 2.2240506997331977,
+  "id": "48472",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

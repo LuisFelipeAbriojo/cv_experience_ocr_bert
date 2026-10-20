@@ -1,0 +1,142 @@
+{
+  "lines": [
+    {
+      "text": "DOROTHY SWANSON",
+      "score": 0.9704126715660095,
+      "box": [
+        118,
+        91,
+        468,
+        121
+      ]
+    },
+    {
+      "text": "AL, USA | +1-737-216-5982 | dorothy.swanson@example.com",
+      "score": 0.988699197769165,
+      "box": [
+        118,
+        152,
+        695,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9990611672401428,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Learning Way Academy, 2021.02—2023.01",
+      "score": 0.9853507280349731,
+      "box": [
+        116,
+        288,
+        858,
+        318
+      ]
+    },
+    {
+      "text": "- Directed assessment development efforts",
+      "score": 0.9862732291221619,
+      "box": [
+        126,
+        315,
+        526,
+        341
+      ]
+    },
+    {
+      "text": "- Developed long-term instructional strategies",
+      "score": 0.9926762580871582,
+      "box": [
+        127,
+        340,
+        550,
+        368
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Open Door School, 2019.03—2021.02",
+      "score": 0.9904806613922119,
+      "box": [
+        115,
+        379,
+        811,
+        410
+      ]
+    },
+    {
+      "text": "- Supported individual student learning activities",
+      "score": 0.9982176423072815,
+      "box": [
+        126,
+        409,
+        571,
+        432
+      ]
+    },
+    {
+      "text": "- Conducted group reading activities",
+      "score": 0.9944342374801636,
+      "box": [
+        127,
+        430,
+        464,
+        458
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999294281005859,
+      "box": [
+        117,
+        494,
+        266,
+        521
+      ]
+    },
+    {
+      "text": "Associate's degree, Social Science Studies, Brookstone University, 2023",
+      "score": 0.9935814142227173,
+      "box": [
+        118,
+        542,
+        788,
+        566
+      ]
+    },
+    {
+      "text": "•Completed introductory coursework in educational psychology",
+      "score": 0.9909668564796448,
+      "box": [
+        130,
+        564,
+        720,
+        595
+      ]
+    },
+    {
+      "text": "• Completed coursework in instructional improvement methods",
+      "score": 0.9888081550598145,
+      "box": [
+        133,
+        592,
+        712,
+        616
+      ]
+    }
+  ],
+  "seconds": 2.6835034997202456,
+  "id": "00431",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

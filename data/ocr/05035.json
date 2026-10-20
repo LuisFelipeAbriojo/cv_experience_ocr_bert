@@ -1,0 +1,212 @@
+{
+  "lines": [
+    {
+      "text": "JENNIFER LIM",
+      "score": 0.9782387614250183,
+      "box": [
+        116,
+        91,
+        351,
+        122
+      ]
+    },
+    {
+      "text": "CA, USA | +1-431-273-4245 | jennifer.lim@example.com",
+      "score": 0.9790172576904297,
+      "box": [
+        116,
+        150,
+        641,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9990813732147217,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, CoreBalance Advisors, 2019.022023.01",
+      "score": 0.9911072254180908,
+      "box": [
+        117,
+        291,
+        704,
+        314
+      ]
+    },
+    {
+      "text": "- Developed regulatory reporting strategies",
+      "score": 0.9977061152458191,
+      "box": [
+        126,
+        316,
+        524,
+        342
+      ]
+    },
+    {
+      "text": "- Established financial quality controls",
+      "score": 0.9967576861381531,
+      "box": [
+        127,
+        340,
+        477,
+        367
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Reliable Ledger Services, 2015.032019.02",
+      "score": 0.9877473711967468,
+      "box": [
+        116,
+        381,
+        733,
+        409
+      ]
+    },
+    {
+      "text": "- Managed financial compliance programs",
+      "score": 0.9932069778442383,
+      "box": [
+        124,
+        406,
+        518,
+        435
+      ]
+    },
+    {
+      "text": "- Developed financial risk models",
+      "score": 0.983250617980957,
+      "box": [
+        127,
+        432,
+        436,
+        457
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Reliable Path Co., 2011.042015.03",
+      "score": 0.9808711409568787,
+      "box": [
+        117,
+        473,
+        662,
+        497
+      ]
+    },
+    {
+      "text": "- Prepared financial statements",
+      "score": 0.9823241829872131,
+      "box": [
+        126,
+        498,
+        420,
+        523
+      ]
+    },
+    {
+      "text": "- Performed revenue recognition analysis",
+      "score": 0.9767740964889526,
+      "box": [
+        127,
+        521,
+        509,
+        550
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Fairview Financial Services, 2007.05—2011.04",
+      "score": 0.9937692284584045,
+      "box": [
+        118,
+        565,
+        752,
+        589
+      ]
+    },
+    {
+      "text": "- Reviewed vendor payments",
+      "score": 0.993832528591156,
+      "box": [
+        126,
+        591,
+        401,
+        616
+      ]
+    },
+    {
+      "text": "- Reviewed expense classifications",
+      "score": 0.9884504675865173,
+      "box": [
+        125,
+        614,
+        453,
+        642
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999058842658997,
+      "box": [
+        117,
+        681,
+        266,
+        705
+      ]
+    },
+    {
+      "text": "Master's, Business Studies, Brightwater University, 2007",
+      "score": 0.9959892630577087,
+      "box": [
+        117,
+        725,
+        639,
+        748
+      ]
+    },
+    {
+      "text": "Bachelor's, Business Economics, Springdale University, 2005",
+      "score": 0.9875067472457886,
+      "box": [
+        116,
+        749,
+        685,
+        776
+      ]
+    },
+    {
+      "text": "•Studied principles of compliance auditing",
+      "score": 0.9860311150550842,
+      "box": [
+        129,
+        773,
+        527,
+        802
+      ]
+    },
+    {
+      "text": "Completed coursework in capital budgeting",
+      "score": 0.9979919791221619,
+      "box": [
+        131,
+        798,
+        546,
+        827
+      ]
+    }
+  ],
+  "seconds": 2.9398310002870858,
+  "id": "05035",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

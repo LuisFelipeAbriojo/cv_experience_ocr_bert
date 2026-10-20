@@ -1,0 +1,142 @@
+{
+  "lines": [
+    {
+      "text": "KIRA FLEMING",
+      "score": 0.9998542666435242,
+      "box": [
+        115,
+        87,
+        360,
+        123
+      ]
+    },
+    {
+      "text": "IN, USA | +1-494-998-3321 | kira.fleming@example.com",
+      "score": 0.9951765537261963,
+      "box": [
+        116,
+        149,
+        640,
+        177
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9997584819793701,
+      "box": [
+        117,
+        243,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Balanced Ledger Co., 2019.09—2022.04",
+      "score": 0.9955205321311951,
+      "box": [
+        115,
+        287,
+        697,
+        315
+      ]
+    },
+    {
+      "text": "- Led financial data standardization",
+      "score": 0.9857147932052612,
+      "box": [
+        128,
+        314,
+        453,
+        340
+      ]
+    },
+    {
+      "text": "- Led audit planning governance",
+      "score": 0.9988116025924683,
+      "box": [
+        127,
+        339,
+        429,
+        369
+      ]
+    },
+    {
+      "text": "Accountants Auditors, FairBooks Services, 2016.032018.11",
+      "score": 0.9990038871765137,
+      "box": [
+        118,
+        382,
+        679,
+        406
+      ]
+    },
+    {
+      "text": "- Reviewed ledger postings",
+      "score": 0.9992445707321167,
+      "box": [
+        125,
+        403,
+        382,
+        436
+      ]
+    },
+    {
+      "text": "- Updated general ledger records",
+      "score": 0.977899432182312,
+      "box": [
+        128,
+        430,
+        436,
+        458
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999396204948425,
+      "box": [
+        116,
+        494,
+        268,
+        521
+      ]
+    },
+    {
+      "text": "Bachelor's, Economics, Crestwood University, 2012",
+      "score": 0.9944646954536438,
+      "box": [
+        116,
+        540,
+        596,
+        566
+      ]
+    },
+    {
+      "text": "Studied fundamentals of financial reporting",
+      "score": 0.9963433146476746,
+      "box": [
+        129,
+        563,
+        545,
+        593
+      ]
+    },
+    {
+      "text": "• Completed coursework in cost allocation methods",
+      "score": 0.9864408373832703,
+      "box": [
+        132,
+        592,
+        608,
+        615
+      ]
+    }
+  ],
+  "seconds": 2.1380826998502016,
+  "id": "20162",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

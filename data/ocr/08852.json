@@ -1,0 +1,142 @@
+{
+  "lines": [
+    {
+      "text": "CHRISTIAN LARSON",
+      "score": 0.9999104142189026,
+      "box": [
+        117,
+        90,
+        450,
+        122
+      ]
+    },
+    {
+      "text": "CA, USA | +1-708-836-8928 | christian.larson@example.com",
+      "score": 0.9852486848831177,
+      "box": [
+        118,
+        152,
+        680,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9997466206550598,
+      "box": [
+        117,
+        243,
+        315,
+        270
+      ]
+    },
+    {
+      "text": "Construction Laborers, FirmBase Construction, 2019.03—2021.03",
+      "score": 0.9938158392906189,
+      "box": [
+        118,
+        289,
+        719,
+        313
+      ]
+    },
+    {
+      "text": "- Managed construction schedules",
+      "score": 0.9939530491828918,
+      "box": [
+        125,
+        313,
+        448,
+        341
+      ]
+    },
+    {
+      "text": "- Directed site safety audits",
+      "score": 0.9799863696098328,
+      "box": [
+        127,
+        339,
+        381,
+        366
+      ]
+    },
+    {
+      "text": "Construction Laborers, SureBuild Group, 2016.012018.01",
+      "score": 0.9995235800743103,
+      "box": [
+        117,
+        381,
+        660,
+        406
+      ]
+    },
+    {
+      "text": "- Transported waste materials",
+      "score": 0.9875590801239014,
+      "box": [
+        126,
+        408,
+        406,
+        432
+      ]
+    },
+    {
+      "text": "- Carried materials to designated work areas",
+      "score": 0.9994573593139648,
+      "box": [
+        126,
+        429,
+        541,
+        459
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9998810887336731,
+      "box": [
+        117,
+        494,
+        267,
+        521
+      ]
+    },
+    {
+      "text": "Some college (no degree), Construction Infrastructure, Riverbend University, 2013",
+      "score": 0.9941370487213135,
+      "box": [
+        117,
+        540,
+        877,
+        567
+      ]
+    },
+    {
+      "text": "• Completed coursework in structural layout",
+      "score": 0.9842881560325623,
+      "box": [
+        133,
+        567,
+        538,
+        591
+      ]
+    },
+    {
+      "text": "• Completed coursework in basic formwork",
+      "score": 0.9911783933639526,
+      "box": [
+        133,
+        592,
+        531,
+        615
+      ]
+    }
+  ],
+  "seconds": 2.380870499648154,
+  "id": "08852",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

@@ -1,0 +1,142 @@
+{
+  "lines": [
+    {
+      "text": "TAYLOR MARSHALL",
+      "score": 0.9987669587135315,
+      "box": [
+        116,
+        89,
+        452,
+        122
+      ]
+    },
+    {
+      "text": "GA, USA | +1-359-578-8839 |taylor.marshall@example.com",
+      "score": 0.9804877042770386,
+      "box": [
+        118,
+        152,
+        677,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.998914897441864,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, NewLife Care Center, 2018.07—2021.04",
+      "score": 0.9880450963973999,
+      "box": [
+        117,
+        289,
+        671,
+        316
+      ]
+    },
+    {
+      "text": "- Managed clinical data analysis",
+      "score": 0.9811726808547974,
+      "box": [
+        125,
+        313,
+        426,
+        344
+      ]
+    },
+    {
+      "text": "- Developed medication management policies",
+      "score": 0.9721371531486511,
+      "box": [
+        127,
+        339,
+        552,
+        367
+      ]
+    },
+    {
+      "text": "Registered Nurses, SafeHarbor Nursing, 2014.082017.06",
+      "score": 0.999869167804718,
+      "box": [
+        116,
+        380,
+        660,
+        408
+      ]
+    },
+    {
+      "text": "- Recorded shift handoff notes",
+      "score": 0.9940987229347229,
+      "box": [
+        125,
+        406,
+        409,
+        433
+      ]
+    },
+    {
+      "text": "- Recorded patient vital signs",
+      "score": 0.9604579210281372,
+      "box": [
+        126,
+        430,
+        399,
+        461
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999396204948425,
+      "box": [
+        116,
+        494,
+        268,
+        521
+      ]
+    },
+    {
+      "text": "Bachelor's, Medical Assisting, Northwood University, 2014",
+      "score": 0.9947105050086975,
+      "box": [
+        115,
+        539,
+        656,
+        567
+      ]
+    },
+    {
+      "text": "• Completed coursework in delegation principles",
+      "score": 0.9947469234466553,
+      "box": [
+        132,
+        568,
+        580,
+        592
+      ]
+    },
+    {
+      "text": "• Studied principles of healthcare ethics",
+      "score": 0.984038770198822,
+      "box": [
+        132,
+        592,
+        500,
+        616
+      ]
+    }
+  ],
+  "seconds": 2.41434680018574,
+  "id": "16071",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

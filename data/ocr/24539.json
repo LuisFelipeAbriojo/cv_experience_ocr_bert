@@ -1,0 +1,142 @@
+{
+  "lines": [
+    {
+      "text": "ROBERTO GOOD",
+      "score": 0.9997598528862,
+      "box": [
+        117,
+        90,
+        396,
+        121
+      ]
+    },
+    {
+      "text": "MD, USA | +1-551-791-4893 | roberto.good@example.com",
+      "score": 0.9750469923019409,
+      "box": [
+        115,
+        149,
+        662,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9997725486755371,
+      "box": [
+        117,
+        243,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Registered Nurses, KindWay Nursing Services, 2020.072023.01",
+      "score": 0.9848912358283997,
+      "box": [
+        116,
+        288,
+        722,
+        318
+      ]
+    },
+    {
+      "text": "- Managed clinical risk assessments",
+      "score": 0.9907678961753845,
+      "box": [
+        125,
+        313,
+        464,
+        341
+      ]
+    },
+    {
+      "text": "- Developed medication management policies",
+      "score": 0.9726494550704956,
+      "box": [
+        127,
+        339,
+        552,
+        367
+      ]
+    },
+    {
+      "text": "Registered Nurses, ClearPath Nursing Group, 2018.012020.07",
+      "score": 0.984138548374176,
+      "box": [
+        116,
+        379,
+        710,
+        410
+      ]
+    },
+    {
+      "text": "- Prepared medical equipment for use",
+      "score": 0.9909175038337708,
+      "box": [
+        126,
+        406,
+        478,
+        434
+      ]
+    },
+    {
+      "text": "- Assisted with patient positioning",
+      "score": 0.9898858070373535,
+      "box": [
+        128,
+        430,
+        438,
+        461
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999301433563232,
+      "box": [
+        117,
+        494,
+        267,
+        521
+      ]
+    },
+    {
+      "text": "Bachelor's, Health and Human Services, Brightfield Ridge University, 2021",
+      "score": 0.99668288230896,
+      "box": [
+        115,
+        539,
+        803,
+        567
+      ]
+    },
+    {
+      "text": "•Completed coursework in delegation principles",
+      "score": 0.9865537881851196,
+      "box": [
+        130,
+        566,
+        580,
+        592
+      ]
+    },
+    {
+      "text": "•Studied fundamentals of stress management in care",
+      "score": 0.9740512371063232,
+      "box": [
+        131,
+        588,
+        631,
+        619
+      ]
+    }
+  ],
+  "seconds": 3.0437048003077507,
+  "id": "24539",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

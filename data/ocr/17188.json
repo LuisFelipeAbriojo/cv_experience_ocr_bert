@@ -1,0 +1,172 @@
+{
+  "lines": [
+    {
+      "text": "GERALD PETERS",
+      "score": 0.9777215123176575,
+      "box": [
+        118,
+        91,
+        401,
+        122
+      ]
+    },
+    {
+      "text": "IL, USA | +1-456-901-7393 | gerald.peters@example.com",
+      "score": 0.986099898815155,
+      "box": [
+        118,
+        152,
+        650,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9990290999412537,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, Precision Build Co., 2020.112023.01",
+      "score": 0.9903803467750549,
+      "box": [
+        118,
+        290,
+        682,
+        314
+      ]
+    },
+    {
+      "text": "- Designed site logistics frameworks",
+      "score": 0.9792062044143677,
+      "box": [
+        126,
+        315,
+        461,
+        340
+      ]
+    },
+    {
+      "text": "- Supervised large structural repairs",
+      "score": 0.981802225112915,
+      "box": [
+        128,
+        341,
+        459,
+        366
+      ]
+    },
+    {
+      "text": "Construction Laborers, Unified Track Builders, 2018.092020.11",
+      "score": 0.9878859519958496,
+      "box": [
+        118,
+        383,
+        712,
+        407
+      ]
+    },
+    {
+      "text": "- Monitored project timelines",
+      "score": 0.9976312518119812,
+      "box": [
+        124,
+        406,
+        393,
+        435
+      ]
+    },
+    {
+      "text": "- Set up scaffolding systems",
+      "score": 0.9951105713844299,
+      "box": [
+        127,
+        430,
+        391,
+        461
+      ]
+    },
+    {
+      "text": "Construction Laborers, SolidForm Contractors, 2015.022017.04",
+      "score": 0.9968634843826294,
+      "box": [
+        118,
+        473,
+        717,
+        497
+      ]
+    },
+    {
+      "text": "- Installed insulation materials",
+      "score": 0.9878190755844116,
+      "box": [
+        126,
+        497,
+        406,
+        522
+      ]
+    },
+    {
+      "text": "- Applied basic sealants and adhesives",
+      "score": 0.9948452115058899,
+      "box": [
+        130,
+        523,
+        490,
+        547
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999144077301025,
+      "box": [
+        117,
+        586,
+        267,
+        613
+      ]
+    },
+    {
+      "text": "Some college (no degree), Concrete Technology, Aspen Grove University, 2002",
+      "score": 0.9942299127578735,
+      "box": [
+        118,
+        632,
+        854,
+        656
+      ]
+    },
+    {
+      "text": "•Studied fundamentals of job site communication",
+      "score": 0.9888355135917664,
+      "box": [
+        130,
+        659,
+        593,
+        683
+      ]
+    },
+    {
+      "text": "Completed coursework in construction waste management",
+      "score": 0.9996972680091858,
+      "box": [
+        132,
+        680,
+        692,
+        709
+      ]
+    }
+  ],
+  "seconds": 2.8397740996442735,
+  "id": "17188",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

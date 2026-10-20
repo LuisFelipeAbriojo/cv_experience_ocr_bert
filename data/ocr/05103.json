@@ -1,0 +1,112 @@
+{
+  "lines": [
+    {
+      "text": "JACOB ESTES",
+      "score": 0.9996544122695923,
+      "box": [
+        115,
+        89,
+        355,
+        123
+      ]
+    },
+    {
+      "text": "CA, USA | +1-258-440-7154 | jacob.estes@example.com",
+      "score": 0.97889244556427,
+      "box": [
+        116,
+        149,
+        647,
+        177
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9997574687004089,
+      "box": [
+        117,
+        243,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Accountants Auditors, AccuCount Advisors, 2020.02—2023.01",
+      "score": 0.9988191723823547,
+      "box": [
+        115,
+        288,
+        686,
+        313
+      ]
+    },
+    {
+      "text": "- Prepared aging reports",
+      "score": 0.9989249110221863,
+      "box": [
+        124,
+        313,
+        358,
+        342
+      ]
+    },
+    {
+      "text": "- Recorded cash receipts",
+      "score": 0.9995148181915283,
+      "box": [
+        125,
+        338,
+        362,
+        367
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999438524246216,
+      "box": [
+        116,
+        404,
+        268,
+        431
+      ]
+    },
+    {
+      "text": "Bachelor's, Statistics, Northway University, 2021",
+      "score": 0.9745983481407166,
+      "box": [
+        115,
+        446,
+        564,
+        474
+      ]
+    },
+    {
+      "text": "Completed coursework in audit risk modeling",
+      "score": 0.9869030714035034,
+      "box": [
+        129,
+        471,
+        564,
+        500
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of assurance services",
+      "score": 0.9841634631156921,
+      "box": [
+        132,
+        497,
+        559,
+        523
+      ]
+    }
+  ],
+  "seconds": 1.927665099967271,
+  "id": "05103",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

@@ -1,0 +1,112 @@
+{
+  "lines": [
+    {
+      "text": "CYLE VAUGHN",
+      "score": 0.999751627445221,
+      "box": [
+        118,
+        91,
+        362,
+        122
+      ]
+    },
+    {
+      "text": "TX, USA | +1-397-203-5382 | cyle.vaughn@example.com",
+      "score": 0.9935817122459412,
+      "box": [
+        116,
+        149,
+        650,
+        177
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.999749481678009,
+      "box": [
+        117,
+        243,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Software Developers, Softpeak Technologies, 2021.012023.01",
+      "score": 0.9975975155830383,
+      "box": [
+        116,
+        289,
+        708,
+        316
+      ]
+    },
+    {
+      "text": "- Updated frontend stylesheets",
+      "score": 0.9728775024414062,
+      "box": [
+        127,
+        316,
+        413,
+        340
+      ]
+    },
+    {
+      "text": "- Updated routing logic",
+      "score": 0.9489910006523132,
+      "box": [
+        127,
+        339,
+        340,
+        368
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999006986618042,
+      "box": [
+        116,
+        404,
+        268,
+        431
+      ]
+    },
+    {
+      "text": "Bachelor's, Fieldview University, 2019",
+      "score": 0.989493191242218,
+      "box": [
+        115,
+        446,
+        469,
+        474
+      ]
+    },
+    {
+      "text": "Completed coursework in software design patterns",
+      "score": 0.9914665222167969,
+      "box": [
+        130,
+        472,
+        617,
+        500
+      ]
+    },
+    {
+      "text": "Studied fundamentals of user interface development",
+      "score": 0.9834929704666138,
+      "box": [
+        131,
+        496,
+        632,
+        524
+      ]
+    }
+  ],
+  "seconds": 1.8549847002141178,
+  "id": "51103",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

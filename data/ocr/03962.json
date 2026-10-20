@@ -1,0 +1,152 @@
+{
+  "lines": [
+    {
+      "text": "EDWARD FISHER",
+      "score": 0.9995326399803162,
+      "box": [
+        118,
+        91,
+        400,
+        121
+      ]
+    },
+    {
+      "text": "CA, USA | +1-662-936-7054 | edward.fisher@example.com",
+      "score": 0.9780287742614746,
+      "box": [
+        118,
+        152,
+        665,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9991946816444397,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Evergreen Academy, 2020.10-2023.01",
+      "score": 0.9904839396476746,
+      "box": [
+        115,
+        287,
+        826,
+        318
+      ]
+    },
+    {
+      "text": "- Developed district-aligned lesson frameworks",
+      "score": 0.9899448752403259,
+      "box": [
+        125,
+        314,
+        562,
+        342
+      ]
+    },
+    {
+      "text": "- Led academic improvement programs",
+      "score": 0.9842188954353333,
+      "box": [
+        127,
+        340,
+        493,
+        369
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Bright Star School, 2018.072020.10",
+      "score": 0.9929302334785461,
+      "box": [
+        116,
+        381,
+        808,
+        411
+      ]
+    },
+    {
+      "text": "- Reviewed lesson objectives",
+      "score": 0.995847761631012,
+      "box": [
+        125,
+        407,
+        399,
+        434
+      ]
+    },
+    {
+      "text": "- Collected permission forms",
+      "score": 0.9871703386306763,
+      "box": [
+        126,
+        430,
+        394,
+        459
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999306797981262,
+      "box": [
+        116,
+        494,
+        267,
+        521
+      ]
+    },
+    {
+      "text": "Master's, Youth Development, Westbrook University, 2019",
+      "score": 0.984001100063324,
+      "box": [
+        116,
+        542,
+        658,
+        566
+      ]
+    },
+    {
+      "text": "Bachelor's, Developmental Studies, Fairmont University, 2017",
+      "score": 0.98589688539505,
+      "box": [
+        117,
+        567,
+        688,
+        591
+      ]
+    },
+    {
+      "text": "•Studied fundamentals of numeracy development",
+      "score": 0.9805287718772888,
+      "box": [
+        128,
+        590,
+        598,
+        619
+      ]
+    },
+    {
+      "text": "•Studied principles of lesson coherence",
+      "score": 0.978320300579071,
+      "box": [
+        130,
+        615,
+        507,
+        644
+      ]
+    }
+  ],
+  "seconds": 2.5959661002270877,
+  "id": "03962",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

@@ -1,0 +1,142 @@
+{
+  "lines": [
+    {
+      "text": "ERIN MCCANN",
+      "score": 0.9998659491539001,
+      "box": [
+        117,
+        89,
+        356,
+        122
+      ]
+    },
+    {
+      "text": "ID, USA | +1-569-368-2878 | erin.mccann@example.com",
+      "score": 0.9686776995658875,
+      "box": [
+        118,
+        152,
+        645,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9991771578788757,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, KindHands Health Services, 2020.09—2023.01",
+      "score": 0.9925925731658936,
+      "box": [
+        118,
+        290,
+        728,
+        314
+      ]
+    },
+    {
+      "text": "- Directed nursing operations planning",
+      "score": 0.9889369606971741,
+      "box": [
+        125,
+        313,
+        482,
+        343
+      ]
+    },
+    {
+      "text": "- Managed nursing unit operations",
+      "score": 0.9933018684387207,
+      "box": [
+        126,
+        339,
+        448,
+        368
+      ]
+    },
+    {
+      "text": "Registered Nurses, KindWay Care Center, 2018.04—2020.09",
+      "score": 0.9929760098457336,
+      "box": [
+        116,
+        380,
+        680,
+        408
+      ]
+    },
+    {
+      "text": "- Performed blood glucose testing",
+      "score": 0.9870049357414246,
+      "box": [
+        125,
+        405,
+        442,
+        436
+      ]
+    },
+    {
+      "text": "- Performed wound dressing changes",
+      "score": 0.9853640198707581,
+      "box": [
+        126,
+        429,
+        477,
+        460
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999290108680725,
+      "box": [
+        117,
+        494,
+        267,
+        521
+      ]
+    },
+    {
+      "text": "Bachelor's, Health Informatics, Briar Ridge University, 2018",
+      "score": 0.9916397333145142,
+      "box": [
+        115,
+        539,
+        666,
+        567
+      ]
+    },
+    {
+      "text": "• Completed coursework in sterile technique",
+      "score": 0.9893226623535156,
+      "box": [
+        132,
+        566,
+        541,
+        592
+      ]
+    },
+    {
+      "text": "Completed coursework in patient confidentiality",
+      "score": 0.9873865246772766,
+      "box": [
+        131,
+        590,
+        583,
+        618
+      ]
+    }
+  ],
+  "seconds": 2.388913400005549,
+  "id": "17119",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

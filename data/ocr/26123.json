@@ -1,0 +1,182 @@
+{
+  "lines": [
+    {
+      "text": "RACHEL CRAWFORD",
+      "score": 0.9848490357398987,
+      "box": [
+        117,
+        90,
+        464,
+        122
+      ]
+    },
+    {
+      "text": "MA, USA | +1-858-687-8581 | rachel.crawford@example.com",
+      "score": 0.9876779913902283,
+      "box": [
+        115,
+        150,
+        686,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9991436004638672,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Discovery Path Academy, 2020.12—2023.01",
+      "score": 0.9767272472381592,
+      "box": [
+        116,
+        289,
+        871,
+        319
+      ]
+    },
+    {
+      "text": "- Directed instructional planning processes",
+      "score": 0.9968481659889221,
+      "box": [
+        125,
+        314,
+        523,
+        344
+      ]
+    },
+    {
+      "text": "- Led instructional leadership initiatives",
+      "score": 0.9937019348144531,
+      "box": [
+        126,
+        339,
+        489,
+        368
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Harmony Minds Academy, 2018.10—2020.12",
+      "score": 0.9854344129562378,
+      "box": [
+        116,
+        381,
+        878,
+        411
+      ]
+    },
+    {
+      "text": "- Analyzed assessment trends",
+      "score": 0.9925617575645447,
+      "box": [
+        125,
+        409,
+        408,
+        433
+      ]
+    },
+    {
+      "text": "- Developed math enrichment lessons",
+      "score": 0.9992007613182068,
+      "box": [
+        125,
+        430,
+        481,
+        459
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Harmony Academy, 2016.082018.10",
+      "score": 0.9996002912521362,
+      "box": [
+        117,
+        472,
+        816,
+        499
+      ]
+    },
+    {
+      "text": "- Supervised transitions between lessons",
+      "score": 0.9832623600959778,
+      "box": [
+        126,
+        498,
+        509,
+        524
+      ]
+    },
+    {
+      "text": "- Implemented lesson pacing guidelines",
+      "score": 0.9875239133834839,
+      "box": [
+        128,
+        521,
+        496,
+        551
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9998878836631775,
+      "box": [
+        117,
+        587,
+        267,
+        614
+      ]
+    },
+    {
+      "text": "Master's, General Studies, Silverfield University, 2018",
+      "score": 0.9990691542625427,
+      "box": [
+        116,
+        632,
+        616,
+        658
+      ]
+    },
+    {
+      "text": "Bachelor's, Human Development, Riverside University, 2016",
+      "score": 0.9845525026321411,
+      "box": [
+        115,
+        656,
+        677,
+        684
+      ]
+    },
+    {
+      "text": "• Completed coursework in academic monitoring strategies",
+      "score": 0.9931994080543518,
+      "box": [
+        133,
+        683,
+        677,
+        709
+      ]
+    },
+    {
+      "text": "Completed coursework in early literacy instruction",
+      "score": 0.9714708924293518,
+      "box": [
+        131,
+        705,
+        610,
+        736
+      ]
+    }
+  ],
+  "seconds": 3.0640179999172688,
+  "id": "26123",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

@@ -1,0 +1,132 @@
+{
+  "lines": [
+    {
+      "text": "DEVANTE ROACH",
+      "score": 0.9991160035133362,
+      "box": [
+        118,
+        91,
+        410,
+        122
+      ]
+    },
+    {
+      "text": "IL, USA | +1-288-779-7168 | devante.roach@example.com",
+      "score": 0.9708911776542664,
+      "box": [
+        118,
+        152,
+        661,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9991331696510315,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, ClearView Construction, 2021.03—2023.01",
+      "score": 0.9896368384361267,
+      "box": [
+        118,
+        290,
+        724,
+        314
+      ]
+    },
+    {
+      "text": "- Managed subcontractor coordination",
+      "score": 0.9909150004386902,
+      "box": [
+        126,
+        315,
+        480,
+        341
+      ]
+    },
+    {
+      "text": "- Directed site optimization initiatives",
+      "score": 0.9776102304458618,
+      "box": [
+        127,
+        339,
+        467,
+        368
+      ]
+    },
+    {
+      "text": "Construction Laborers, Precision Build Co., 2017.092019.07",
+      "score": 0.979838490486145,
+      "box": [
+        116,
+        380,
+        685,
+        408
+      ]
+    },
+    {
+      "text": "- Loaded and unloaded construction materials",
+      "score": 0.9876048564910889,
+      "box": [
+        126,
+        407,
+        553,
+        432
+      ]
+    },
+    {
+      "text": "- Helped position heavy materials",
+      "score": 0.9922661185264587,
+      "box": [
+        128,
+        430,
+        439,
+        458
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999261498451233,
+      "box": [
+        117,
+        494,
+        268,
+        521
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Construction Planning, Crestview High School, 2014",
+      "score": 0.9994333982467651,
+      "box": [
+        116,
+        540,
+        861,
+        567
+      ]
+    },
+    {
+      "text": "•Studied principles of construction workflow analysis",
+      "score": 0.981552004814148,
+      "box": [
+        132,
+        565,
+        624,
+        593
+      ]
+    }
+  ],
+  "seconds": 2.2803423004224896,
+  "id": "17471",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

@@ -1,0 +1,142 @@
+{
+  "lines": [
+    {
+      "text": "SARAH KRUEGER",
+      "score": 0.972402036190033,
+      "box": [
+        117,
+        91,
+        413,
+        122
+      ]
+    },
+    {
+      "text": "WI, USA | +1-724-899-2567 | sarah.krueger@example.com",
+      "score": 0.9980378746986389,
+      "box": [
+        116,
+        149,
+        666,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9968635439872742,
+      "box": [
+        117,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, GentleLife Health, 2020.09—2022.06",
+      "score": 0.9860341548919678,
+      "box": [
+        118,
+        290,
+        636,
+        314
+      ]
+    },
+    {
+      "text": "- Directed nursing education initiatives",
+      "score": 0.9997259974479675,
+      "box": [
+        125,
+        313,
+        483,
+        342
+      ]
+    },
+    {
+      "text": "- Directed clinical training standards",
+      "score": 0.9721898436546326,
+      "box": [
+        127,
+        340,
+        458,
+        367
+      ]
+    },
+    {
+      "text": "Registered Nurses, EverHands Health Services, 2018.03—2020.01",
+      "score": 0.9944517016410828,
+      "box": [
+        116,
+        380,
+        730,
+        408
+      ]
+    },
+    {
+      "text": "- Collected patient health histories",
+      "score": 0.9971659779548645,
+      "box": [
+        126,
+        407,
+        443,
+        433
+      ]
+    },
+    {
+      "text": "- Prepared discharge instructions",
+      "score": 0.9720112085342407,
+      "box": [
+        127,
+        430,
+        436,
+        459
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.99992835521698,
+      "box": [
+        117,
+        494,
+        267,
+        521
+      ]
+    },
+    {
+      "text": "Bachelor's, Nursing, Highland University, 2016",
+      "score": 0.9913842678070068,
+      "box": [
+        117,
+        542,
+        549,
+        566
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of health assessment",
+      "score": 0.9739312529563904,
+      "box": [
+        130,
+        567,
+        554,
+        590
+      ]
+    },
+    {
+      "text": "•Studied principles of disease prevention",
+      "score": 0.9809420704841614,
+      "box": [
+        131,
+        591,
+        517,
+        616
+      ]
+    }
+  ],
+  "seconds": 2.7889736997894943,
+  "id": "61146",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

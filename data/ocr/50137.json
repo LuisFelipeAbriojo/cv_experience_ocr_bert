@@ -1,0 +1,162 @@
+{
+  "lines": [
+    {
+      "text": "MACIO BOONE",
+      "score": 0.9665573239326477,
+      "box": [
+        117,
+        90,
+        362,
+        121
+      ]
+    },
+    {
+      "text": "TX, USA | +1-376-971-4907 | macio.boone@example.com",
+      "score": 0.9838970899581909,
+      "box": [
+        117,
+        149,
+        658,
+        177
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9990596771240234,
+      "box": [
+        118,
+        245,
+        314,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, WorkStone Contractors, 2020.012023.01",
+      "score": 0.9930503368377686,
+      "box": [
+        118,
+        290,
+        723,
+        314
+      ]
+    },
+    {
+      "text": "- Directed equipment operations",
+      "score": 0.975343644618988,
+      "box": [
+        126,
+        314,
+        427,
+        342
+      ]
+    },
+    {
+      "text": "- Managed construction schedules",
+      "score": 0.9844660758972168,
+      "box": [
+        127,
+        340,
+        448,
+        365
+      ]
+    },
+    {
+      "text": "Construction Laborers, ClearFrame Construction, 2016.12—2020.01",
+      "score": 0.9842572212219238,
+      "box": [
+        118,
+        383,
+        740,
+        407
+      ]
+    },
+    {
+      "text": "- Installed plumbing fixtures",
+      "score": 0.9911353588104248,
+      "box": [
+        127,
+        409,
+        384,
+        433
+      ]
+    },
+    {
+      "text": "- Conducted material inspections",
+      "score": 0.999538779258728,
+      "box": [
+        129,
+        434,
+        433,
+        457
+      ]
+    },
+    {
+      "text": "Construction Laborers, Allied Craft Co., 2013.112016.12",
+      "score": 0.9942991733551025,
+      "box": [
+        118,
+        473,
+        649,
+        497
+      ]
+    },
+    {
+      "text": "- Assisted with concrete pouring",
+      "score": 0.9872692823410034,
+      "box": [
+        126,
+        495,
+        427,
+        526
+      ]
+    },
+    {
+      "text": "- Carried materials to designated work areas",
+      "score": 0.9878618717193604,
+      "box": [
+        127,
+        520,
+        541,
+        550
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999086856842041,
+      "box": [
+        117,
+        586,
+        267,
+        613
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Construction Foundations, Silverfield High School, 2011",
+      "score": 0.9980528950691223,
+      "box": [
+        118,
+        633,
+        891,
+        657
+      ]
+    },
+    {
+      "text": "• Studied principles of material estimation",
+      "score": 0.9856740236282349,
+      "box": [
+        131,
+        659,
+        518,
+        682
+      ]
+    }
+  ],
+  "seconds": 2.571165299974382,
+  "id": "50137",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

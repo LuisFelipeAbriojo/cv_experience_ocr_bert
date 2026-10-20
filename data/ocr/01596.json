@@ -1,0 +1,112 @@
+{
+  "lines": [
+    {
+      "text": "JENNA GARRETT",
+      "score": 0.9535770416259766,
+      "box": [
+        116,
+        91,
+        401,
+        122
+      ]
+    },
+    {
+      "text": "AZ, USA | +1-708-246-7627 | jenna.garrett@example.com",
+      "score": 0.990153968334198,
+      "box": [
+        118,
+        152,
+        655,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9994156956672668,
+      "box": [
+        116,
+        243,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Registered Nurses, GentleLife Nursing, 2021.032022.01",
+      "score": 0.9991219639778137,
+      "box": [
+        116,
+        288,
+        647,
+        316
+      ]
+    },
+    {
+      "text": "- Recorded nursing notes",
+      "score": 0.9994254112243652,
+      "box": [
+        125,
+        312,
+        365,
+        343
+      ]
+    },
+    {
+      "text": "- Prepared medical equipment for use",
+      "score": 0.9990265369415283,
+      "box": [
+        125,
+        338,
+        479,
+        368
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999552965164185,
+      "box": [
+        116,
+        404,
+        268,
+        431
+      ]
+    },
+    {
+      "text": "Bachelor's, Public Health, Cedar Valley University, 2019",
+      "score": 0.9889064431190491,
+      "box": [
+        115,
+        446,
+        636,
+        475
+      ]
+    },
+    {
+      "text": "•Studied fundamentals of intravenous therapy",
+      "score": 0.9907661080360413,
+      "box": [
+        129,
+        473,
+        562,
+        500
+      ]
+    },
+    {
+      "text": "•Studied fundamentals of infection diseases nursing",
+      "score": 0.9712094068527222,
+      "box": [
+        131,
+        498,
+        619,
+        525
+      ]
+    }
+  ],
+  "seconds": 2.119256100151688,
+  "id": "01596",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

@@ -1,0 +1,212 @@
+{
+  "lines": [
+    {
+      "text": "APRIL TODD",
+      "score": 0.9996137619018555,
+      "box": [
+        117,
+        90,
+        322,
+        121
+      ]
+    },
+    {
+      "text": "GA, USA | +1-310-289-5243 | april.todd@example.com",
+      "score": 0.988898754119873,
+      "box": [
+        116,
+        150,
+        628,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9990995526313782,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Little Meadow School, 2019.09—2023.01",
+      "score": 0.9861350655555725,
+      "box": [
+        118,
+        291,
+        834,
+        315
+      ]
+    },
+    {
+      "text": "- Established academic quality controls",
+      "score": 0.9918846487998962,
+      "box": [
+        125,
+        314,
+        490,
+        342
+      ]
+    },
+    {
+      "text": "- Developed system-wide assessment tools",
+      "score": 0.996623694896698,
+      "box": [
+        128,
+        341,
+        531,
+        368
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Discovery Tree Academy, 2016.052019.09",
+      "score": 0.9945603609085083,
+      "box": [
+        116,
+        381,
+        872,
+        411
+      ]
+    },
+    {
+      "text": "- Directed program effectiveness studies",
+      "score": 0.9927998781204224,
+      "box": [
+        126,
+        408,
+        503,
+        434
+      ]
+    },
+    {
+      "text": "- Developed student performance metrics",
+      "score": 0.9981974959373474,
+      "box": [
+        125,
+        430,
+        512,
+        460
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Growing Stars Academy, 2013.012016.05",
+      "score": 0.9798747301101685,
+      "box": [
+        117,
+        472,
+        863,
+        499
+      ]
+    },
+    {
+      "text": "- Aligned lesson objectives with standards",
+      "score": 0.983867347240448,
+      "box": [
+        127,
+        500,
+        517,
+        524
+      ]
+    },
+    {
+      "text": "- Evaluated learning outcomes",
+      "score": 0.9809433221817017,
+      "box": [
+        127,
+        522,
+        413,
+        551
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Discovery Start School, 2009.09—2013.01",
+      "score": 0.985451340675354,
+      "box": [
+        118,
+        566,
+        847,
+        590
+      ]
+    },
+    {
+      "text": "- Recorded student feedback",
+      "score": 0.9993428587913513,
+      "box": [
+        126,
+        590,
+        399,
+        615
+      ]
+    },
+    {
+      "text": "- Prepared daily instructional agendas",
+      "score": 0.9890413880348206,
+      "box": [
+        126,
+        613,
+        480,
+        643
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999098181724548,
+      "box": [
+        117,
+        681,
+        266,
+        705
+      ]
+    },
+    {
+      "text": "Master's, Instructional Studies, Southridge University, 2012",
+      "score": 0.9980777502059937,
+      "box": [
+        115,
+        723,
+        665,
+        750
+      ]
+    },
+    {
+      "text": "Bachelor's, Developmental Studies, Stone Valley University, 2010",
+      "score": 0.991663932800293,
+      "box": [
+        116,
+        749,
+        725,
+        776
+      ]
+    },
+    {
+      "text": "•Completed coursework in reading fluency strategies",
+      "score": 0.9705472588539124,
+      "box": [
+        130,
+        773,
+        627,
+        802
+      ]
+    },
+    {
+      "text": "Completed coursework in instructional adaptation",
+      "score": 0.9916915893554688,
+      "box": [
+        131,
+        798,
+        605,
+        827
+      ]
+    }
+  ],
+  "seconds": 3.264473000075668,
+  "id": "15642",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

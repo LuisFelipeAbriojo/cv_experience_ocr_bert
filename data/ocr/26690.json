@@ -1,0 +1,222 @@
+{
+  "lines": [
+    {
+      "text": "CHRISTINA WALTON",
+      "score": 0.9998021125793457,
+      "box": [
+        118,
+        92,
+        455,
+        122
+      ]
+    },
+    {
+      "text": "MA, USA | +1-418-299-5259 | christina.walton@example.com",
+      "score": 0.9934543967247009,
+      "box": [
+        115,
+        150,
+        688,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9949454665184021,
+      "box": [
+        117,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, KindSpring Care Center, 2020.05—2023.01",
+      "score": 0.9912745952606201,
+      "box": [
+        117,
+        290,
+        696,
+        317
+      ]
+    },
+    {
+      "text": "- Developed nursing training programs",
+      "score": 0.9805145263671875,
+      "box": [
+        126,
+        314,
+        485,
+        344
+      ]
+    },
+    {
+      "text": "- Managed patient safety reporting systems",
+      "score": 0.9945021867752075,
+      "box": [
+        126,
+        339,
+        529,
+        369
+      ]
+    },
+    {
+      "text": "Registered Nurses, Harmony Hands Health Services, 2017.092020.05",
+      "score": 0.9938879013061523,
+      "box": [
+        116,
+        381,
+        781,
+        411
+      ]
+    },
+    {
+      "text": "- Developed staffing allocation models",
+      "score": 0.9932640194892883,
+      "box": [
+        127,
+        409,
+        482,
+        433
+      ]
+    },
+    {
+      "text": "- Directed emergency response planning",
+      "score": 0.9854863882064819,
+      "box": [
+        126,
+        431,
+        505,
+        460
+      ]
+    },
+    {
+      "text": "Registered Nurses, TrueBridge Nursing, 2014.122017.09",
+      "score": 0.9964100122451782,
+      "box": [
+        118,
+        474,
+        655,
+        498
+      ]
+    },
+    {
+      "text": "- Administered sedation protocols",
+      "score": 0.9910265803337097,
+      "box": [
+        126,
+        497,
+        440,
+        525
+      ]
+    },
+    {
+      "text": "- Developed patient care plans",
+      "score": 0.9988990426063538,
+      "box": [
+        127,
+        521,
+        414,
+        551
+      ]
+    },
+    {
+      "text": "Registered Nurses, KindPath Care Center, 2009.032011.12",
+      "score": 0.9980010986328125,
+      "box": [
+        118,
+        566,
+        681,
+        590
+      ]
+    },
+    {
+      "text": "- Monitored patient recovery",
+      "score": 0.9954394698143005,
+      "box": [
+        126,
+        589,
+        390,
+        619
+      ]
+    },
+    {
+      "text": "- Administered prescribed medications",
+      "score": 0.9993944764137268,
+      "box": [
+        125,
+        614,
+        485,
+        643
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9998914003372192,
+      "box": [
+        117,
+        681,
+        266,
+        705
+      ]
+    },
+    {
+      "text": "Doctorate, Practical Nursing, Meadowridge University, 2007",
+      "score": 0.9988600611686707,
+      "box": [
+        116,
+        724,
+        669,
+        750
+      ]
+    },
+    {
+      "text": "Bachelor's, Patient Services, Greenway University, 2002",
+      "score": 0.9868884086608887,
+      "box": [
+        117,
+        748,
+        639,
+        775
+      ]
+    },
+    {
+      "text": "•Studied principles of fall prevention",
+      "score": 0.9782354235649109,
+      "box": [
+        128,
+        774,
+        472,
+        799
+      ]
+    },
+    {
+      "text": "•Studied fundamentals of patient care",
+      "score": 0.9743266701698303,
+      "box": [
+        130,
+        799,
+        488,
+        825
+      ]
+    },
+    {
+      "text": "Completed coursework in patient-centered care",
+      "score": 0.9834526181221008,
+      "box": [
+        131,
+        823,
+        587,
+        852
+      ]
+    }
+  ],
+  "seconds": 3.14199550030753,
+  "id": "26690",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

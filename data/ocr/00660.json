@@ -1,0 +1,122 @@
+{
+  "lines": [
+    {
+      "text": "LARRY REID",
+      "score": 0.999669075012207,
+      "box": [
+        116,
+        87,
+        322,
+        123
+      ]
+    },
+    {
+      "text": "AL, USA | +1-671-908-7849 | larry.reid@example.com",
+      "score": 0.9895427227020264,
+      "box": [
+        116,
+        149,
+        619,
+        177
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9872460961341858,
+      "box": [
+        116,
+        243,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Integrity Books Co., 2020.04—2023.01",
+      "score": 0.994874119758606,
+      "box": [
+        115,
+        287,
+        675,
+        315
+      ]
+    },
+    {
+      "text": "- Maintained vendor records",
+      "score": 0.9991692304611206,
+      "box": [
+        126,
+        314,
+        390,
+        339
+      ]
+    },
+    {
+      "text": "- Prepared variance reports",
+      "score": 0.9849899411201477,
+      "box": [
+        126,
+        338,
+        385,
+        368
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999549388885498,
+      "box": [
+        116,
+        404,
+        268,
+        431
+      ]
+    },
+    {
+      "text": "Master's, Administrative Studies, Lakeview University, 2023",
+      "score": 0.9945946931838989,
+      "box": [
+        114,
+        446,
+        668,
+        474
+      ]
+    },
+    {
+      "text": "Bachelor's, International Business, Northwood University, 2022",
+      "score": 0.9872902631759644,
+      "box": [
+        116,
+        474,
+        699,
+        498
+      ]
+    },
+    {
+      "text": "• Completed coursework in financial disclosure",
+      "score": 0.9931667447090149,
+      "box": [
+        131,
+        500,
+        566,
+        523
+      ]
+    },
+    {
+      "text": "•Studied fundamentals of financial management",
+      "score": 0.995114803314209,
+      "box": [
+        132,
+        522,
+        584,
+        548
+      ]
+    }
+  ],
+  "seconds": 16.691367299761623,
+  "id": "00660",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

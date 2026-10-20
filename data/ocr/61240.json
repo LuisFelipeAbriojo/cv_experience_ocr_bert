@@ -1,0 +1,142 @@
+{
+  "lines": [
+    {
+      "text": "MADISEN OCONNOR",
+      "score": 0.9991831183433533,
+      "box": [
+        118,
+        91,
+        454,
+        121
+      ]
+    },
+    {
+      "text": "WI, USA | +1-325-877-3947 | madisen.oconnor@example.com",
+      "score": 0.968667209148407,
+      "box": [
+        118,
+        152,
+        696,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9983782768249512,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, OpenBridge Nursing Services, 2021.052023.01",
+      "score": 0.9887714385986328,
+      "box": [
+        115,
+        287,
+        752,
+        320
+      ]
+    },
+    {
+      "text": "- Managed clinical compliance programs",
+      "score": 0.9878482818603516,
+      "box": [
+        125,
+        313,
+        504,
+        344
+      ]
+    },
+    {
+      "text": "- Directed nursing education initiatives",
+      "score": 0.9602689743041992,
+      "box": [
+        127,
+        339,
+        482,
+        368
+      ]
+    },
+    {
+      "text": "Registered Nurses, EverHands Health Group, 2019.092021.05",
+      "score": 0.9995837807655334,
+      "box": [
+        117,
+        382,
+        709,
+        409
+      ]
+    },
+    {
+      "text": "- Conducted basic patient assessments",
+      "score": 0.9854151010513306,
+      "box": [
+        124,
+        406,
+        493,
+        435
+      ]
+    },
+    {
+      "text": "- Maintained infection control protocols",
+      "score": 0.979453444480896,
+      "box": [
+        127,
+        431,
+        486,
+        458
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999494552612305,
+      "box": [
+        116,
+        494,
+        268,
+        521
+      ]
+    },
+    {
+      "text": "Bachelor's, Rehabilitation Sciences, Goldenbrook University, 2023",
+      "score": 0.9934612512588501,
+      "box": [
+        116,
+        540,
+        729,
+        567
+      ]
+    },
+    {
+      "text": "•Studied principles of fall prevention",
+      "score": 0.9862179160118103,
+      "box": [
+        130,
+        567,
+        473,
+        591
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of health disparities",
+      "score": 0.9690280556678772,
+      "box": [
+        132,
+        592,
+        536,
+        616
+      ]
+    }
+  ],
+  "seconds": 2.4703035997226834,
+  "id": "61240",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

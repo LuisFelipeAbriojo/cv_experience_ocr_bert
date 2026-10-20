@@ -1,0 +1,202 @@
+{
+  "lines": [
+    {
+      "text": "RYAN PERRY",
+      "score": 0.9997552633285522,
+      "box": [
+        118,
+        92,
+        338,
+        121
+      ]
+    },
+    {
+      "text": "AK, USA | +1-956-968-9584 | ryan.perry@example.com",
+      "score": 0.9859902858734131,
+      "box": [
+        118,
+        152,
+        632,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9986518025398254,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, BuildRight Contractors, 2019.09—2023.01",
+      "score": 0.9791489839553833,
+      "box": [
+        116,
+        288,
+        717,
+        316
+      ]
+    },
+    {
+      "text": "- Managed large-scale installations",
+      "score": 0.9971855282783508,
+      "box": [
+        126,
+        315,
+        452,
+        341
+      ]
+    },
+    {
+      "text": "- Led complex demolition projects",
+      "score": 0.9983174800872803,
+      "box": [
+        127,
+        339,
+        442,
+        368
+      ]
+    },
+    {
+      "text": "Construction Laborers, NextStep Construction, 2016.052019.09",
+      "score": 0.9993991851806641,
+      "box": [
+        117,
+        382,
+        717,
+        409
+      ]
+    },
+    {
+      "text": "- Developed project risk assessments",
+      "score": 0.9758380055427551,
+      "box": [
+        125,
+        406,
+        477,
+        434
+      ]
+    },
+    {
+      "text": "- Led complex demolition projects",
+      "score": 0.99844890832901,
+      "box": [
+        128,
+        432,
+        440,
+        458
+      ]
+    },
+    {
+      "text": "Construction Laborers, Precision Stone Builders, 2012.12—2016.05",
+      "score": 0.9805675745010376,
+      "box": [
+        118,
+        473,
+        736,
+        497
+      ]
+    },
+    {
+      "text": "- Prepared cost estimates",
+      "score": 0.9946616291999817,
+      "box": [
+        126,
+        498,
+        368,
+        523
+      ]
+    },
+    {
+      "text": "- Installed drainage systems",
+      "score": 0.993224561214447,
+      "box": [
+        127,
+        521,
+        390,
+        551
+      ]
+    },
+    {
+      "text": "Construction Laborers, Stoneway Construction, 2009.072012.12",
+      "score": 0.9829586744308472,
+      "box": [
+        118,
+        566,
+        724,
+        590
+      ]
+    },
+    {
+      "text": "- Transported waste materials",
+      "score": 0.9877033829689026,
+      "box": [
+        125,
+        590,
+        406,
+        615
+      ]
+    },
+    {
+      "text": "- Mixed concrete and mortar",
+      "score": 0.9980905055999756,
+      "box": [
+        126,
+        613,
+        392,
+        643
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9998700022697449,
+      "box": [
+        117,
+        681,
+        266,
+        705
+      ]
+    },
+    {
+      "text": "Some college (no degree), Industrial Maintenance, Clearwater University, 2007",
+      "score": 0.992539644241333,
+      "box": [
+        116,
+        723,
+        846,
+        750
+      ]
+    },
+    {
+      "text": "• Studied principles of construction workflow analysis",
+      "score": 0.9847625494003296,
+      "box": [
+        132,
+        750,
+        623,
+        774
+      ]
+    },
+    {
+      "text": "•Completed coursework in construction materials identification",
+      "score": 0.9921748042106628,
+      "box": [
+        132,
+        772,
+        715,
+        800
+      ]
+    }
+  ],
+  "seconds": 3.0302695999853313,
+  "id": "00893",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

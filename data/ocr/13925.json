@@ -1,0 +1,212 @@
+{
+  "lines": [
+    {
+      "text": "LATASHA POLLARD",
+      "score": 0.9985207915306091,
+      "box": [
+        117,
+        90,
+        448,
+        122
+      ]
+    },
+    {
+      "text": "FL, USA | +1-221-993-5121 | latasha.pollard@example.com",
+      "score": 0.9747625589370728,
+      "box": [
+        116,
+        149,
+        672,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9990584850311279,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, Helping Heart Nursing, 2020.072023.01",
+      "score": 0.9951201677322388,
+      "box": [
+        116,
+        287,
+        680,
+        319
+      ]
+    },
+    {
+      "text": "- Developed staffing allocation models",
+      "score": 0.9963920712471008,
+      "box": [
+        125,
+        314,
+        482,
+        342
+      ]
+    },
+    {
+      "text": "- Managed clinical data analysis",
+      "score": 0.9841423034667969,
+      "box": [
+        126,
+        339,
+        426,
+        368
+      ]
+    },
+    {
+      "text": "Registered Nurses, KindHeart Medical Services, 2018.012020.07",
+      "score": 0.9913903474807739,
+      "box": [
+        117,
+        382,
+        732,
+        409
+      ]
+    },
+    {
+      "text": "- Established quality assurance systems",
+      "score": 0.9823641777038574,
+      "box": [
+        125,
+        406,
+        500,
+        435
+      ]
+    },
+    {
+      "text": "- Managed nursing unit operations",
+      "score": 0.990257978439331,
+      "box": [
+        126,
+        431,
+        447,
+        459
+      ]
+    },
+    {
+      "text": "Registered Nurses, Caring Spring Nursing, 2013.062015.12",
+      "score": 0.9972439408302307,
+      "box": [
+        118,
+        474,
+        680,
+        498
+      ]
+    },
+    {
+      "text": "- Managed geriatric care plans",
+      "score": 0.987640380859375,
+      "box": [
+        125,
+        497,
+        414,
+        525
+      ]
+    },
+    {
+      "text": "- Monitored patient response to treatments",
+      "score": 0.992278516292572,
+      "box": [
+        127,
+        521,
+        522,
+        550
+      ]
+    },
+    {
+      "text": "Registered Nurses, CareBridge Health Services, 2010.052012.11",
+      "score": 0.9946863055229187,
+      "box": [
+        118,
+        566,
+        732,
+        590
+      ]
+    },
+    {
+      "text": "- Monitored patient skin condition",
+      "score": 0.9755955934524536,
+      "box": [
+        127,
+        590,
+        438,
+        615
+      ]
+    },
+    {
+      "text": "- Assisted with diagnostic procedures",
+      "score": 0.9982482194900513,
+      "box": [
+        125,
+        614,
+        473,
+        643
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999310970306396,
+      "box": [
+        117,
+        681,
+        266,
+        705
+      ]
+    },
+    {
+      "text": "Professional degree, Health Promotion, Westfield University, 2006",
+      "score": 0.9983075857162476,
+      "box": [
+        116,
+        724,
+        729,
+        750
+      ]
+    },
+    {
+      "text": "Bachelor's, Nursing, Highland University, 2002",
+      "score": 0.9843249917030334,
+      "box": [
+        116,
+        749,
+        549,
+        776
+      ]
+    },
+    {
+      "text": "• Studied principles of pain management",
+      "score": 0.9683595299720764,
+      "box": [
+        131,
+        776,
+        510,
+        800
+      ]
+    },
+    {
+      "text": "• Completed coursework in healthcare law basics",
+      "score": 0.9782636761665344,
+      "box": [
+        132,
+        799,
+        589,
+        826
+      ]
+    }
+  ],
+  "seconds": 2.8982382002286613,
+  "id": "13925",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

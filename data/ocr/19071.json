@@ -1,0 +1,172 @@
+{
+  "lines": [
+    {
+      "text": "APRIL HENSLEY",
+      "score": 0.9972600936889648,
+      "box": [
+        118,
+        91,
+        385,
+        121
+      ]
+    },
+    {
+      "text": "IL, USA | +1-321-335-6145 | april.hensley@example.com",
+      "score": 0.9976994395256042,
+      "box": [
+        116,
+        150,
+        646,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9991835951805115,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, FairBooks Advisors, 2020.03—2023.01",
+      "score": 0.9905575513839722,
+      "box": [
+        116,
+        289,
+        678,
+        314
+      ]
+    },
+    {
+      "text": "- Led financial data standardization",
+      "score": 0.9837691783905029,
+      "box": [
+        127,
+        315,
+        453,
+        340
+      ]
+    },
+    {
+      "text": "- Designed financial control environments",
+      "score": 0.9946673512458801,
+      "box": [
+        128,
+        340,
+        512,
+        366
+      ]
+    },
+    {
+      "text": "Accountants Auditors, OpenBalance Services, 2017.042020.03",
+      "score": 0.9975093603134155,
+      "box": [
+        117,
+        383,
+        712,
+        407
+      ]
+    },
+    {
+      "text": "- Implemented new accounting standards",
+      "score": 0.992337167263031,
+      "box": [
+        125,
+        406,
+        511,
+        434
+      ]
+    },
+    {
+      "text": "- Reviewed financial disclosures",
+      "score": 0.994857668876648,
+      "box": [
+        126,
+        431,
+        427,
+        457
+      ]
+    },
+    {
+      "text": "Accountants Auditors, FairLedger Financial Group, 2012.03—2015.02",
+      "score": 0.9827091097831726,
+      "box": [
+        116,
+        471,
+        755,
+        499
+      ]
+    },
+    {
+      "text": "- Prepared journal entries",
+      "score": 0.980764627456665,
+      "box": [
+        125,
+        497,
+        367,
+        526
+      ]
+    },
+    {
+      "text": "- Processed accounts payable invoices",
+      "score": 0.9968144297599792,
+      "box": [
+        127,
+        520,
+        491,
+        551
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999242424964905,
+      "box": [
+        117,
+        587,
+        267,
+        614
+      ]
+    },
+    {
+      "text": "Bachelor's, Business Operations, Oakview University, 2010",
+      "score": 0.9911102056503296,
+      "box": [
+        118,
+        633,
+        665,
+        657
+      ]
+    },
+    {
+      "text": "•Studied principles of accounting standards",
+      "score": 0.983361005783081,
+      "box": [
+        130,
+        659,
+        541,
+        683
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of documentation standards",
+      "score": 0.9836363792419434,
+      "box": [
+        130,
+        682,
+        613,
+        707
+      ]
+    }
+  ],
+  "seconds": 2.6250276998616755,
+  "id": "19071",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

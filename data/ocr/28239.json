@@ -1,0 +1,112 @@
+{
+  "lines": [
+    {
+      "text": "CODY CHRISTENSEN",
+      "score": 0.9987750053405762,
+      "box": [
+        118,
+        91,
+        462,
+        122
+      ]
+    },
+    {
+      "text": "MI, USA | +1-548-760-3695 | cody.christensen@example.com",
+      "score": 0.9869266152381897,
+      "box": [
+        115,
+        149,
+        692,
+        177
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9997541904449463,
+      "box": [
+        117,
+        243,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Software Developers, Cloudcrest Systems, 2020.022021.07",
+      "score": 0.9899489879608154,
+      "box": [
+        116,
+        289,
+        683,
+        316
+      ]
+    },
+    {
+      "text": "- Implemented basic authentication logic",
+      "score": 0.9985284805297852,
+      "box": [
+        126,
+        314,
+        501,
+        341
+      ]
+    },
+    {
+      "text": "- Wrote scripts for data processing tasks",
+      "score": 0.9872151613235474,
+      "box": [
+        127,
+        338,
+        501,
+        367
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9998809099197388,
+      "box": [
+        116,
+        404,
+        268,
+        431
+      ]
+    },
+    {
+      "text": "Bachelor's, Hillside University, 2018",
+      "score": 0.9869667291641235,
+      "box": [
+        115,
+        446,
+        449,
+        474
+      ]
+    },
+    {
+      "text": "•Completed coursework in computer programming fundamentals",
+      "score": 0.9799007773399353,
+      "box": [
+        130,
+        473,
+        736,
+        500
+      ]
+    },
+    {
+      "text": "•Studied fundamentals of software testing",
+      "score": 0.9828439950942993,
+      "box": [
+        131,
+        495,
+        526,
+        526
+      ]
+    }
+  ],
+  "seconds": 2.0948405996896327,
+  "id": "28239",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

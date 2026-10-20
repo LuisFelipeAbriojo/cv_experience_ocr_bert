@@ -1,0 +1,212 @@
+{
+  "lines": [
+    {
+      "text": "WILLIAM LIU",
+      "score": 0.9992738962173462,
+      "box": [
+        118,
+        93,
+        323,
+        121
+      ]
+    },
+    {
+      "text": "CA, USA | +1-457-503-9367 | william.liu@example.com",
+      "score": 0.9577257633209229,
+      "box": [
+        116,
+        150,
+        630,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9985144734382629,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Datafield Systems, 2020.05—2023.01",
+      "score": 0.9859563112258911,
+      "box": [
+        115,
+        289,
+        664,
+        317
+      ]
+    },
+    {
+      "text": "- Implemented core frameworks",
+      "score": 0.9890844225883484,
+      "box": [
+        127,
+        315,
+        423,
+        340
+      ]
+    },
+    {
+      "text": "- Implemented access control frameworks",
+      "score": 0.9802113175392151,
+      "box": [
+        127,
+        339,
+        515,
+        367
+      ]
+    },
+    {
+      "text": "Software Developers, Codewave Tech, 2017.09—2020.05",
+      "score": 0.9951294660568237,
+      "box": [
+        116,
+        382,
+        649,
+        409
+      ]
+    },
+    {
+      "text": "- Built core libraries",
+      "score": 0.9606142044067383,
+      "box": [
+        125,
+        407,
+        309,
+        433
+      ]
+    },
+    {
+      "text": "- Defined coding standards",
+      "score": 0.9867652058601379,
+      "box": [
+        126,
+        433,
+        379,
+        459
+      ]
+    },
+    {
+      "text": "Software Developers, Skyline Software, 2015.012017.09",
+      "score": 0.9920459389686584,
+      "box": [
+        116,
+        471,
+        653,
+        499
+      ]
+    },
+    {
+      "text": "- Integrated messaging systems",
+      "score": 0.9981434941291809,
+      "box": [
+        126,
+        499,
+        426,
+        525
+      ]
+    },
+    {
+      "text": "- Handled schema migrations",
+      "score": 0.9833385348320007,
+      "box": [
+        128,
+        522,
+        401,
+        550
+      ]
+    },
+    {
+      "text": "Software Developers, Netcore Labs, 2012.052015.01",
+      "score": 0.999779224395752,
+      "box": [
+        118,
+        566,
+        620,
+        590
+      ]
+    },
+    {
+      "text": "- Fixed software bugs identified through testing",
+      "score": 0.9857581257820129,
+      "box": [
+        127,
+        590,
+        563,
+        618
+      ]
+    },
+    {
+      "text": "- Wrote configuration parsers",
+      "score": 0.9521145224571228,
+      "box": [
+        125,
+        614,
+        401,
+        645
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9998593926429749,
+      "box": [
+        117,
+        681,
+        266,
+        705
+      ]
+    },
+    {
+      "text": "Master's, Pinefield University, 2013",
+      "score": 0.9979379177093506,
+      "box": [
+        117,
+        726,
+        444,
+        749
+      ]
+    },
+    {
+      "text": "Bachelor's, Oakway University, 2011",
+      "score": 0.9719257950782776,
+      "box": [
+        116,
+        749,
+        457,
+        776
+      ]
+    },
+    {
+      "text": "• Studied principles of embedded systems",
+      "score": 0.9874078631401062,
+      "box": [
+        130,
+        776,
+        522,
+        799
+      ]
+    },
+    {
+      "text": "•Studied fundamentals of NoSQL systems",
+      "score": 0.9802416563034058,
+      "box": [
+        131,
+        799,
+        529,
+        826
+      ]
+    }
+  ],
+  "seconds": 2.7021121000871062,
+  "id": "03351",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

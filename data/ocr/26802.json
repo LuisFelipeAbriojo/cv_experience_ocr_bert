@@ -1,0 +1,142 @@
+{
+  "lines": [
+    {
+      "text": "SARAH MARTIN",
+      "score": 0.9951729774475098,
+      "box": [
+        117,
+        91,
+        377,
+        122
+      ]
+    },
+    {
+      "text": "MI, USA | +1-262-340-2347 | sarah.martin@example.com",
+      "score": 0.9885219931602478,
+      "box": [
+        115,
+        149,
+        651,
+        177
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9997486472129822,
+      "box": [
+        117,
+        243,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Registered Nurses, GentleWay Nursing, 2020.102023.01",
+      "score": 0.9899159073829651,
+      "box": [
+        115,
+        287,
+        656,
+        318
+      ]
+    },
+    {
+      "text": "- Directed care delivery improvements",
+      "score": 0.988344669342041,
+      "box": [
+        124,
+        312,
+        482,
+        344
+      ]
+    },
+    {
+      "text": "- Developed medication management policies",
+      "score": 0.9797124266624451,
+      "box": [
+        126,
+        339,
+        552,
+        367
+      ]
+    },
+    {
+      "text": "Registered Nurses, WellPath Health Group, 2017.062019.09",
+      "score": 0.9919987320899963,
+      "box": [
+        116,
+        380,
+        689,
+        408
+      ]
+    },
+    {
+      "text": "- Checked medication dosages",
+      "score": 0.9746508002281189,
+      "box": [
+        125,
+        405,
+        417,
+        434
+      ]
+    },
+    {
+      "text": "- Monitored patient skin condition",
+      "score": 0.99881911277771,
+      "box": [
+        128,
+        433,
+        435,
+        456
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999258518218994,
+      "box": [
+        116,
+        494,
+        268,
+        521
+      ]
+    },
+    {
+      "text": "Bachelor's, Clinical Health, Meadowcrest University, 2011",
+      "score": 0.9763575196266174,
+      "box": [
+        117,
+        541,
+        648,
+        565
+      ]
+    },
+    {
+      "text": "•Studied fundamentals of patient mobility",
+      "score": 0.9837134480476379,
+      "box": [
+        129,
+        565,
+        517,
+        592
+      ]
+    },
+    {
+      "text": "•Studied fundamentals of infusion pump use",
+      "score": 0.9894593358039856,
+      "box": [
+        131,
+        590,
+        549,
+        617
+      ]
+    }
+  ],
+  "seconds": 2.4508560998365283,
+  "id": "26802",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

@@ -1,0 +1,112 @@
+{
+  "lines": [
+    {
+      "text": "HANNAH CUNNINGHAM",
+      "score": 0.9998358488082886,
+      "box": [
+        117,
+        92,
+        503,
+        122
+      ]
+    },
+    {
+      "text": "AZ, USA | +1-763-313-4097 | hannah.cunningham@example.com",
+      "score": 0.9960911273956299,
+      "box": [
+        116,
+        150,
+        728,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9997550845146179,
+      "box": [
+        117,
+        243,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Accountants Auditors, AccuLedger Advisors, 2020.01—2023.01",
+      "score": 0.9905458688735962,
+      "box": [
+        116,
+        289,
+        696,
+        316
+      ]
+    },
+    {
+      "text": "- Assisted with regulatory filings",
+      "score": 0.9786500334739685,
+      "box": [
+        125,
+        312,
+        423,
+        343
+      ]
+    },
+    {
+      "text": "- Processed accounts payable invoices",
+      "score": 0.9962452054023743,
+      "box": [
+        127,
+        339,
+        491,
+        367
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9996827244758606,
+      "box": [
+        116,
+        404,
+        268,
+        431
+      ]
+    },
+    {
+      "text": "Bachelor's, Information Systems, Willowbrook University, 2022",
+      "score": 0.977669894695282,
+      "box": [
+        115,
+        446,
+        696,
+        475
+      ]
+    },
+    {
+      "text": "Studied principles of continuous auditing",
+      "score": 0.9742369055747986,
+      "box": [
+        130,
+        473,
+        521,
+        501
+      ]
+    },
+    {
+      "text": "• Completed coursework in risk assessment",
+      "score": 0.9806206822395325,
+      "box": [
+        134,
+        499,
+        541,
+        523
+      ]
+    }
+  ],
+  "seconds": 1.9530629999935627,
+  "id": "01477",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

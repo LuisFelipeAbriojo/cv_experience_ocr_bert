@@ -1,0 +1,172 @@
+{
+  "lines": [
+    {
+      "text": "LINDSEY WILKERSON",
+      "score": 0.9872742891311646,
+      "box": [
+        118,
+        93,
+        475,
+        120
+      ]
+    },
+    {
+      "text": "WI, USA | +1-679-759-8462 | lindsey.wilkerson@example.com",
+      "score": 0.9970846772193909,
+      "box": [
+        116,
+        150,
+        696,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9991295337677002,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, ClearCount Financial, 2020.05—2023.01",
+      "score": 0.9878259301185608,
+      "box": [
+        117,
+        290,
+        693,
+        314
+      ]
+    },
+    {
+      "text": "- Developed financial performance metrics",
+      "score": 0.9929648637771606,
+      "box": [
+        128,
+        315,
+        520,
+        341
+      ]
+    },
+    {
+      "text": "- Designed financial oversight systems",
+      "score": 0.9861876964569092,
+      "box": [
+        127,
+        339,
+        485,
+        368
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Precise Balance Advisors, 2017.09—2020.05",
+      "score": 0.9817975759506226,
+      "box": [
+        117,
+        382,
+        738,
+        409
+      ]
+    },
+    {
+      "text": "- Analyzed financial variances",
+      "score": 0.9974831938743591,
+      "box": [
+        125,
+        407,
+        405,
+        433
+      ]
+    },
+    {
+      "text": "- Prepared management reports",
+      "score": 0.9875481724739075,
+      "box": [
+        126,
+        431,
+        427,
+        459
+      ]
+    },
+    {
+      "text": "Accountants Auditors, ClearBooks Group, 2013.082016.04",
+      "score": 0.9963058829307556,
+      "box": [
+        118,
+        474,
+        670,
+        498
+      ]
+    },
+    {
+      "text": "- Reviewed vendor payments",
+      "score": 0.9907891750335693,
+      "box": [
+        126,
+        498,
+        400,
+        525
+      ]
+    },
+    {
+      "text": "- Maintained accounting software records",
+      "score": 0.9911020398139954,
+      "box": [
+        127,
+        521,
+        511,
+        550
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9998812079429626,
+      "box": [
+        117,
+        587,
+        267,
+        614
+      ]
+    },
+    {
+      "text": "Bachelor's, Accounting and Auditing, Forest Ridge University, 2008",
+      "score": 0.9958562850952148,
+      "box": [
+        116,
+        631,
+        737,
+        659
+      ]
+    },
+    {
+      "text": "•Studied principles of nonprofit accounting",
+      "score": 0.989798367023468,
+      "box": [
+        129,
+        657,
+        530,
+        687
+      ]
+    },
+    {
+      "text": "• Completed coursework in financial disclosure",
+      "score": 0.983701765537262,
+      "box": [
+        132,
+        682,
+        565,
+        708
+      ]
+    }
+  ],
+  "seconds": 2.50977039989084,
+  "id": "61166",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

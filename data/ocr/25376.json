@@ -1,0 +1,142 @@
+{
+  "lines": [
+    {
+      "text": "CARINA HARPER",
+      "score": 0.9991633296012878,
+      "box": [
+        118,
+        91,
+        398,
+        122
+      ]
+    },
+    {
+      "text": "MA, USA | +1-578-480-6292 | carina.harper@example.com",
+      "score": 0.9844838380813599,
+      "box": [
+        115,
+        149,
+        666,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9991812109947205,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, WellBridge Health Group, 2020.102023.01",
+      "score": 0.9942826628684998,
+      "box": [
+        117,
+        289,
+        705,
+        316
+      ]
+    },
+    {
+      "text": "- Developed nursing policy frameworks",
+      "score": 0.9870770573616028,
+      "box": [
+        125,
+        313,
+        489,
+        343
+      ]
+    },
+    {
+      "text": "- Developed staffing allocation models",
+      "score": 0.9884243011474609,
+      "box": [
+        127,
+        339,
+        482,
+        368
+      ]
+    },
+    {
+      "text": "Registered Nurses, KindHands Health Services, 2018.072020.10",
+      "score": 0.9927148818969727,
+      "box": [
+        116,
+        380,
+        731,
+        408
+      ]
+    },
+    {
+      "text": "- Prepared medication trays",
+      "score": 0.9922240376472473,
+      "box": [
+        125,
+        404,
+        387,
+        434
+      ]
+    },
+    {
+      "text": "- Monitored intravenous lines",
+      "score": 0.9937530755996704,
+      "box": [
+        126,
+        430,
+        398,
+        459
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999316334724426,
+      "box": [
+        117,
+        494,
+        268,
+        521
+      ]
+    },
+    {
+      "text": "Bachelor's, Health Information Management, Larkspur University, 2018",
+      "score": 0.9844411015510559,
+      "box": [
+        115,
+        539,
+        773,
+        568
+      ]
+    },
+    {
+      "text": "• Completed coursework in laboratory values interpretation",
+      "score": 0.9771641492843628,
+      "box": [
+        132,
+        566,
+        675,
+        591
+      ]
+    },
+    {
+      "text": "• Completed coursework in geriatric nursing",
+      "score": 0.9890331625938416,
+      "box": [
+        132,
+        591,
+        537,
+        618
+      ]
+    }
+  ],
+  "seconds": 4.628594800364226,
+  "id": "25376",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

@@ -1,0 +1,182 @@
+{
+  "lines": [
+    {
+      "text": "MACKINZIE UNDERWOOD",
+      "score": 0.9996594786643982,
+      "box": [
+        116,
+        90,
+        538,
+        122
+      ]
+    },
+    {
+      "text": "GA, USA | +1-703-828-3272 | mackinzie.underwood@example.com",
+      "score": 0.9954426288604736,
+      "box": [
+        116,
+        150,
+        744,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.999116837978363,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, ClearLedger Services, 2020.02—2023.01",
+      "score": 0.9927292466163635,
+      "box": [
+        117,
+        291,
+        699,
+        315
+      ]
+    },
+    {
+      "text": "- Developed audit quality standards",
+      "score": 0.9985173940658569,
+      "box": [
+        128,
+        316,
+        455,
+        340
+      ]
+    },
+    {
+      "text": "- Developed long-term financial strategies",
+      "score": 0.9967613220214844,
+      "box": [
+        128,
+        340,
+        514,
+        369
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Reliable Path Co., 2017.03—2020.02",
+      "score": 0.9888327717781067,
+      "box": [
+        118,
+        383,
+        663,
+        407
+      ]
+    },
+    {
+      "text": "- Prepared financial projections",
+      "score": 0.9879506826400757,
+      "box": [
+        127,
+        409,
+        418,
+        433
+      ]
+    },
+    {
+      "text": "- Prepared cost allocation models",
+      "score": 0.9921358227729797,
+      "box": [
+        128,
+        434,
+        440,
+        457
+      ]
+    },
+    {
+      "text": "Accountants Auditors, FairLedger Advisors, 2014.042017.03",
+      "score": 0.9837498664855957,
+      "box": [
+        117,
+        472,
+        686,
+        499
+      ]
+    },
+    {
+      "text": "- Updated general ledger records",
+      "score": 0.9950818419456482,
+      "box": [
+        126,
+        497,
+        438,
+        525
+      ]
+    },
+    {
+      "text": "- Processed accounts payable invoices",
+      "score": 0.9852190017700195,
+      "box": [
+        128,
+        520,
+        490,
+        551
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9998887181282043,
+      "box": [
+        117,
+        587,
+        267,
+        614
+      ]
+    },
+    {
+      "text": "Professional degree, Business Technology, North Ridge University, 2023",
+      "score": 0.9853758811950684,
+      "box": [
+        117,
+        632,
+        792,
+        659
+      ]
+    },
+    {
+      "text": "Bachelor's, Professional Accounting, Riverstone University, 2019",
+      "score": 0.9952408075332642,
+      "box": [
+        116,
+        658,
+        719,
+        685
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of audit software tools",
+      "score": 0.9914088249206543,
+      "box": [
+        131,
+        684,
+        560,
+        708
+      ]
+    },
+    {
+      "text": "•Studied principles of business strategy",
+      "score": 0.9928539395332336,
+      "box": [
+        131,
+        706,
+        505,
+        736
+      ]
+    }
+  ],
+  "seconds": 2.641158699989319,
+  "id": "14710",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

@@ -1,0 +1,112 @@
+{
+  "lines": [
+    {
+      "text": "DYLAN HALE",
+      "score": 0.9997615814208984,
+      "box": [
+        117,
+        91,
+        333,
+        122
+      ]
+    },
+    {
+      "text": "IL, USA | +1-966-930-3079 | dylan.hale@example.com",
+      "score": 0.9905205368995667,
+      "box": [
+        117,
+        149,
+        624,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9997135996818542,
+      "box": [
+        117,
+        243,
+        317,
+        270
+      ]
+    },
+    {
+      "text": "Accountants Auditors, FairCount Advisors Group, 2020.02—2023.01",
+      "score": 0.9970774054527283,
+      "box": [
+        115,
+        287,
+        740,
+        315
+      ]
+    },
+    {
+      "text": "- Assisted with budget tracking",
+      "score": 0.9995166659355164,
+      "box": [
+        124,
+        311,
+        414,
+        343
+      ]
+    },
+    {
+      "text": "- Reconciled subsidiary ledgers",
+      "score": 0.9922659993171692,
+      "box": [
+        126,
+        337,
+        420,
+        368
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9998980760574341,
+      "box": [
+        116,
+        404,
+        268,
+        431
+      ]
+    },
+    {
+      "text": "Bachelor's, Financial Accounting, Cedar Valley University, 2018",
+      "score": 0.9898831844329834,
+      "box": [
+        115,
+        446,
+        706,
+        474
+      ]
+    },
+    {
+      "text": "•Studied fundamentals of assurance services",
+      "score": 0.9813486337661743,
+      "box": [
+        129,
+        473,
+        558,
+        499
+      ]
+    },
+    {
+      "text": "•Studied principles of transfer pricing",
+      "score": 0.9807918071746826,
+      "box": [
+        131,
+        497,
+        481,
+        527
+      ]
+    }
+  ],
+  "seconds": 1.8828830001875758,
+  "id": "17680",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

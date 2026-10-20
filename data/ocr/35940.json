@@ -1,0 +1,152 @@
+{
+  "lines": [
+    {
+      "text": "CARSON DODSON",
+      "score": 0.9998645186424255,
+      "box": [
+        116,
+        87,
+        420,
+        123
+      ]
+    },
+    {
+      "text": "NY, USA | +1-474-454-9964 |carson.dodson@example.com",
+      "score": 0.9830052256584167,
+      "box": [
+        117,
+        152,
+        677,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9990910887718201,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, TrueLedger Advisors, 2020.112023.01",
+      "score": 0.9991492033004761,
+      "box": [
+        116,
+        289,
+        693,
+        316
+      ]
+    },
+    {
+      "text": "- Managed financial governance",
+      "score": 0.9887341260910034,
+      "box": [
+        127,
+        315,
+        427,
+        342
+      ]
+    },
+    {
+      "text": "- Designed budgeting methodologies",
+      "score": 0.9988276362419128,
+      "box": [
+        128,
+        340,
+        468,
+        367
+      ]
+    },
+    {
+      "text": "Accountants Auditors, BrightPath Accounting Services, 2018.09—2020.11",
+      "score": 0.9774318933486938,
+      "box": [
+        117,
+        382,
+        793,
+        409
+      ]
+    },
+    {
+      "text": "- Processed accounts payable invoices",
+      "score": 0.9862875938415527,
+      "box": [
+        126,
+        407,
+        490,
+        433
+      ]
+    },
+    {
+      "text": "- Assisted with financial statement preparation",
+      "score": 0.9855433702468872,
+      "box": [
+        127,
+        431,
+        555,
+        458
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999271035194397,
+      "box": [
+        116,
+        494,
+        267,
+        521
+      ]
+    },
+    {
+      "text": "Professional degree, Organizational Management, Southridge University, 2022",
+      "score": 0.9932209253311157,
+      "box": [
+        116,
+        540,
+        844,
+        567
+      ]
+    },
+    {
+      "text": "Bachelor's, General Business, Elm Ridge University, 2018",
+      "score": 0.9891575574874878,
+      "box": [
+        116,
+        565,
+        655,
+        592
+      ]
+    },
+    {
+      "text": "Studied principles of audit sampling",
+      "score": 0.9915305376052856,
+      "box": [
+        128,
+        589,
+        478,
+        620
+      ]
+    },
+    {
+      "text": "Completed coursework in business mathematics",
+      "score": 0.9819516539573669,
+      "box": [
+        131,
+        615,
+        597,
+        643
+      ]
+    }
+  ],
+  "seconds": 2.376834800001234,
+  "id": "35940",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

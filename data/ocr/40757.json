@@ -1,0 +1,112 @@
+{
+  "lines": [
+    {
+      "text": "KEVIN TODD",
+      "score": 0.9997459650039673,
+      "box": [
+        116,
+        87,
+        324,
+        123
+      ]
+    },
+    {
+      "text": "NC, USA | +1-436-623-2781 | kevin.todd@example.com",
+      "score": 0.9921008348464966,
+      "box": [
+        115,
+        149,
+        637,
+        177
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9994683265686035,
+      "box": [
+        116,
+        243,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Balanced Ledger Co., 2020.06—2023.01",
+      "score": 0.9969767332077026,
+      "box": [
+        115,
+        287,
+        695,
+        315
+      ]
+    },
+    {
+      "text": "- Assisted with regulatory filings",
+      "score": 0.9782315492630005,
+      "box": [
+        125,
+        312,
+        423,
+        343
+      ]
+    },
+    {
+      "text": "- Assisted with compliance documentation",
+      "score": 0.984034538269043,
+      "box": [
+        129,
+        341,
+        518,
+        365
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999421238899231,
+      "box": [
+        116,
+        404,
+        268,
+        431
+      ]
+    },
+    {
+      "text": "Bachelor's, Accounting, Oakway University, 2022",
+      "score": 0.9985645413398743,
+      "box": [
+        115,
+        446,
+        573,
+        475
+      ]
+    },
+    {
+      "text": "•Studied principles of continuous auditing",
+      "score": 0.9902330040931702,
+      "box": [
+        130,
+        475,
+        522,
+        499
+      ]
+    },
+    {
+      "text": "•Studied fundamentals of forensic accounting",
+      "score": 0.9941631555557251,
+      "box": [
+        131,
+        497,
+        559,
+        525
+      ]
+    }
+  ],
+  "seconds": 2.0504211001098156,
+  "id": "40757",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

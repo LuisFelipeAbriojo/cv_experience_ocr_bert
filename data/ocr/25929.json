@@ -1,0 +1,112 @@
+{
+  "lines": [
+    {
+      "text": "TREVOR GREGORY",
+      "score": 0.9997603297233582,
+      "box": [
+        117,
+        90,
+        437,
+        121
+      ]
+    },
+    {
+      "text": "MA, USA | +1-522-632-1366 | trevor.gregory@example.com",
+      "score": 0.9919448494911194,
+      "box": [
+        116,
+        150,
+        673,
+        177
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9997584819793701,
+      "box": [
+        117,
+        243,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Software Developers, Riverstone Digital, 2022.07—2023.01",
+      "score": 0.986592173576355,
+      "box": [
+        117,
+        289,
+        657,
+        313
+      ]
+    },
+    {
+      "text": "- Assisted with container setup",
+      "score": 0.994848370552063,
+      "box": [
+        125,
+        311,
+        413,
+        342
+      ]
+    },
+    {
+      "text": "- Handled feature toggles",
+      "score": 0.9741592407226562,
+      "box": [
+        126,
+        338,
+        366,
+        367
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999103546142578,
+      "box": [
+        116,
+        404,
+        268,
+        431
+      ]
+    },
+    {
+      "text": "Bachelor's, Maplewood University, 2023",
+      "score": 0.9885420799255371,
+      "box": [
+        115,
+        446,
+        489,
+        474
+      ]
+    },
+    {
+      "text": "•Studied fundamentals of hardware-software integration",
+      "score": 0.9969063997268677,
+      "box": [
+        131,
+        474,
+        655,
+        498
+      ]
+    },
+    {
+      "text": "• Completed coursework in model-view-controller pattern",
+      "score": 0.9831323623657227,
+      "box": [
+        133,
+        499,
+        656,
+        523
+      ]
+    }
+  ],
+  "seconds": 1.8833655999042094,
+  "id": "25929",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

@@ -1,0 +1,122 @@
+{
+  "lines": [
+    {
+      "text": "KELLY ORTEGA",
+      "score": 0.9764876365661621,
+      "box": [
+        117,
+        91,
+        379,
+        122
+      ]
+    },
+    {
+      "text": "MD, USA | +1-870-584-6911 | kelly.ortega@example.com",
+      "score": 0.9761505722999573,
+      "box": [
+        115,
+        149,
+        651,
+        177
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9997500777244568,
+      "box": [
+        117,
+        243,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Bright Meadow School, 2021.12—2023.01",
+      "score": 0.9737353920936584,
+      "box": [
+        118,
+        290,
+        845,
+        314
+      ]
+    },
+    {
+      "text": "- Assisted with small group instruction activities",
+      "score": 0.9893854260444641,
+      "box": [
+        126,
+        314,
+        565,
+        340
+      ]
+    },
+    {
+      "text": "- Assisted with science experiments",
+      "score": 0.9997743964195251,
+      "box": [
+        127,
+        339,
+        460,
+        366
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999129176139832,
+      "box": [
+        116,
+        404,
+        268,
+        431
+      ]
+    },
+    {
+      "text": "Master's, Early Childhood Education, North Ridge University, 2022",
+      "score": 0.9893590807914734,
+      "box": [
+        116,
+        448,
+        733,
+        475
+      ]
+    },
+    {
+      "text": "Bachelor's, Basic Education Studies, Canyon View University, 2020",
+      "score": 0.9842916131019592,
+      "box": [
+        115,
+        472,
+        741,
+        500
+      ]
+    },
+    {
+      "text": "•Studied principles of content delivery",
+      "score": 0.9857082962989807,
+      "box": [
+        129,
+        498,
+        490,
+        527
+      ]
+    },
+    {
+      "text": "Studied principles of learner diversity",
+      "score": 0.9906027317047119,
+      "box": [
+        131,
+        522,
+        489,
+        551
+      ]
+    }
+  ],
+  "seconds": 2.2400119001977146,
+  "id": "24983",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

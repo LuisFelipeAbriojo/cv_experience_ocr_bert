@@ -1,0 +1,172 @@
+{
+  "lines": [
+    {
+      "text": "ADAM CONLEY",
+      "score": 0.9998148083686829,
+      "box": [
+        117,
+        91,
+        365,
+        121
+      ]
+    },
+    {
+      "text": "MO, USA | +1-259-445-9959 | adam.conley@example.com",
+      "score": 0.9971946477890015,
+      "box": [
+        115,
+        149,
+        664,
+        177
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9988461136817932,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Datagrid Labs, 2019.12—2023.01",
+      "score": 0.9921784400939941,
+      "box": [
+        116,
+        288,
+        624,
+        315
+      ]
+    },
+    {
+      "text": "- Defined API governance models",
+      "score": 0.980441153049469,
+      "box": [
+        128,
+        314,
+        442,
+        342
+      ]
+    },
+    {
+      "text": "- Implemented release management strategies",
+      "score": 0.9991522431373596,
+      "box": [
+        128,
+        339,
+        561,
+        368
+      ]
+    },
+    {
+      "text": "Software Developers, Stonepath Digital, 2016.052019.06",
+      "score": 0.9938832521438599,
+      "box": [
+        116,
+        382,
+        656,
+        409
+      ]
+    },
+    {
+      "text": "- Integrated analytics services",
+      "score": 0.9695596098899841,
+      "box": [
+        125,
+        407,
+        405,
+        433
+      ]
+    },
+    {
+      "text": "- Improved API performance",
+      "score": 0.9765735864639282,
+      "box": [
+        128,
+        430,
+        393,
+        461
+      ]
+    },
+    {
+      "text": "Software Developers, Skybridge Software, 2012.092015.10",
+      "score": 0.997004508972168,
+      "box": [
+        116,
+        472,
+        678,
+        499
+      ]
+    },
+    {
+      "text": "- Assisted with container setup",
+      "score": 0.9951655864715576,
+      "box": [
+        125,
+        495,
+        415,
+        525
+      ]
+    },
+    {
+      "text": "- Updated routing logic",
+      "score": 0.9850122928619385,
+      "box": [
+        128,
+        521,
+        340,
+        550
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999043941497803,
+      "box": [
+        117,
+        586,
+        268,
+        613
+      ]
+    },
+    {
+      "text": "Some college (no degree), Crestview University, 2004",
+      "score": 0.9944878816604614,
+      "box": [
+        118,
+        633,
+        616,
+        657
+      ]
+    },
+    {
+      "text": "• Completed coursework in numerical methods",
+      "score": 0.9877684116363525,
+      "box": [
+        130,
+        659,
+        566,
+        682
+      ]
+    },
+    {
+      "text": "•Studied fundamentals of software metrics",
+      "score": 0.9823964834213257,
+      "box": [
+        131,
+        681,
+        531,
+        706
+      ]
+    }
+  ],
+  "seconds": 2.292612500023097,
+  "id": "30578",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

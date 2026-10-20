@@ -1,0 +1,112 @@
+{
+  "lines": [
+    {
+      "text": "CORRINE OCONNELL",
+      "score": 0.9991776347160339,
+      "box": [
+        118,
+        91,
+        466,
+        122
+      ]
+    },
+    {
+      "text": "TN, USA | +1-284-825-1159 | corrine.oconnell@example.com",
+      "score": 0.9921245574951172,
+      "box": [
+        117,
+        149,
+        688,
+        177
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9997541904449463,
+      "box": [
+        117,
+        243,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Registered Nurses, EverHands Health Group, 2020.12—2022.07",
+      "score": 0.9903719425201416,
+      "box": [
+        117,
+        289,
+        709,
+        316
+      ]
+    },
+    {
+      "text": "- Assisted with physical therapy exercises",
+      "score": 0.9833697080612183,
+      "box": [
+        125,
+        313,
+        515,
+        342
+      ]
+    },
+    {
+      "text": "- Prepared intravenous solutions",
+      "score": 0.9838771820068359,
+      "box": [
+        127,
+        340,
+        430,
+        364
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9998809099197388,
+      "box": [
+        116,
+        404,
+        268,
+        431
+      ]
+    },
+    {
+      "text": "Bachelor's, Health Information Management, Cedar Ridge University, 2013",
+      "score": 0.9950509071350098,
+      "box": [
+        115,
+        445,
+        808,
+        476
+      ]
+    },
+    {
+      "text": "• Completed coursework in health promotion",
+      "score": 0.9914125800132751,
+      "box": [
+        131,
+        475,
+        544,
+        499
+      ]
+    },
+    {
+      "text": "Studied principles of patient identification",
+      "score": 0.9953439235687256,
+      "box": [
+        132,
+        497,
+        527,
+        525
+      ]
+    }
+  ],
+  "seconds": 3.9571225000545382,
+  "id": "48616",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

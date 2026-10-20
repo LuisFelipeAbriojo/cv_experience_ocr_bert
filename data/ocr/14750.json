@@ -1,0 +1,202 @@
+{
+  "lines": [
+    {
+      "text": "MATTHEW HOLLAND",
+      "score": 0.9710288643836975,
+      "box": [
+        117,
+        92,
+        460,
+        122
+      ]
+    },
+    {
+      "text": "GA, USA | +1-228-388-2283 | matthew.holland@example.com",
+      "score": 0.981935441493988,
+      "box": [
+        117,
+        151,
+        694,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9978609681129456,
+      "box": [
+        115,
+        242,
+        316,
+        271
+      ]
+    },
+    {
+      "text": "Registered Nurses, GentleCare Health, 2019.05—2023.01",
+      "score": 0.9869971871376038,
+      "box": [
+        116,
+        288,
+        648,
+        317
+      ]
+    },
+    {
+      "text": "- Established nursing performance metrics",
+      "score": 0.9856229424476624,
+      "box": [
+        127,
+        315,
+        520,
+        342
+      ]
+    },
+    {
+      "text": "- Designed clinical documentation standards",
+      "score": 0.9766606092453003,
+      "box": [
+        126,
+        339,
+        539,
+        367
+      ]
+    },
+    {
+      "text": "Registered Nurses, KindWay Care Center, 2015.092019.05",
+      "score": 0.9953724145889282,
+      "box": [
+        118,
+        384,
+        679,
+        408
+      ]
+    },
+    {
+      "text": "- Directed patient care coordination",
+      "score": 0.9991233348846436,
+      "box": [
+        125,
+        406,
+        456,
+        435
+      ]
+    },
+    {
+      "text": "- Implemented patient monitoring systems",
+      "score": 0.9984529614448547,
+      "box": [
+        127,
+        432,
+        517,
+        459
+      ]
+    },
+    {
+      "text": "Registered Nurses, GentleLife Health, 2011.122015.09",
+      "score": 0.9955483675003052,
+      "box": [
+        118,
+        474,
+        635,
+        498
+      ]
+    },
+    {
+      "text": "- Assisted with emergency interventions",
+      "score": 0.9967206120491028,
+      "box": [
+        126,
+        498,
+        497,
+        525
+      ]
+    },
+    {
+      "text": "- Managed patient fall prevention measures",
+      "score": 0.9847811460494995,
+      "box": [
+        127,
+        521,
+        531,
+        551
+      ]
+    },
+    {
+      "text": "Registered Nurses, EverCare Health Services, 2008.03—2011.12",
+      "score": 0.9915696978569031,
+      "box": [
+        118,
+        566,
+        716,
+        590
+      ]
+    },
+    {
+      "text": "- Provided catheter care",
+      "score": 0.9994825720787048,
+      "box": [
+        126,
+        590,
+        354,
+        616
+      ]
+    },
+    {
+      "text": "- Assisted with patient mobility",
+      "score": 0.9843510389328003,
+      "box": [
+        126,
+        614,
+        409,
+        642
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999316334724426,
+      "box": [
+        117,
+        681,
+        266,
+        705
+      ]
+    },
+    {
+      "text": "Bachelor's, Health Support Services, Pine Valley University, 2009",
+      "score": 0.9901597499847412,
+      "box": [
+        117,
+        726,
+        721,
+        749
+      ]
+    },
+    {
+      "text": "•Completed coursework in medical terminology",
+      "score": 0.9724507927894592,
+      "box": [
+        130,
+        748,
+        575,
+        777
+      ]
+    },
+    {
+      "text": "•Studied fundamentals of nursing communication",
+      "score": 0.9848839044570923,
+      "box": [
+        131,
+        772,
+        594,
+        801
+      ]
+    }
+  ],
+  "seconds": 5.072316499892622,
+  "id": "14750",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

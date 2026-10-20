@@ -1,0 +1,172 @@
+{
+  "lines": [
+    {
+      "text": "ERICA WARD",
+      "score": 0.9984391927719116,
+      "box": [
+        119,
+        92,
+        333,
+        120
+      ]
+    },
+    {
+      "text": "AR, USA | +1-778-448-6398 | erica.ward@example.com",
+      "score": 0.9793821573257446,
+      "box": [
+        117,
+        151,
+        636,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9964609146118164,
+      "box": [
+        117,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, Precision Structures, 2020.072023.01",
+      "score": 0.9939639568328857,
+      "box": [
+        118,
+        290,
+        693,
+        314
+      ]
+    },
+    {
+      "text": "- Directed site optimization initiatives",
+      "score": 0.9914098978042603,
+      "box": [
+        126,
+        314,
+        466,
+        341
+      ]
+    },
+    {
+      "text": "- Supervised foundation installations",
+      "score": 0.9946378469467163,
+      "box": [
+        127,
+        340,
+        464,
+        365
+      ]
+    },
+    {
+      "text": "Construction Laborers, CraftWay Builders, 2017.122020.07",
+      "score": 0.9897641539573669,
+      "box": [
+        118,
+        383,
+        676,
+        407
+      ]
+    },
+    {
+      "text": "- Monitored project timelines",
+      "score": 0.9832937121391296,
+      "box": [
+        125,
+        407,
+        393,
+        432
+      ]
+    },
+    {
+      "text": "- Installed electrical wiring supports",
+      "score": 0.9820248484611511,
+      "box": [
+        127,
+        431,
+        453,
+        457
+      ]
+    },
+    {
+      "text": "Construction Laborers, ClearPath Construction, 2015.052017.12",
+      "score": 0.9923503398895264,
+      "box": [
+        118,
+        473,
+        724,
+        497
+      ]
+    },
+    {
+      "text": "- Monitored material usage",
+      "score": 0.9983028769493103,
+      "box": [
+        126,
+        496,
+        379,
+        523
+      ]
+    },
+    {
+      "text": "- Performed basic demolition tasks",
+      "score": 0.9988894462585449,
+      "box": [
+        128,
+        520,
+        450,
+        547
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999392032623291,
+      "box": [
+        118,
+        588,
+        267,
+        612
+      ]
+    },
+    {
+      "text": "Some college (no degree), Building Systems, Meadowfield University, 2013",
+      "score": 0.9870637059211731,
+      "box": [
+        118,
+        633,
+        813,
+        657
+      ]
+    },
+    {
+      "text": "•Completed coursework in basic metalwork",
+      "score": 0.9940559267997742,
+      "box": [
+        131,
+        657,
+        541,
+        682
+      ]
+    },
+    {
+      "text": "Completed coursework in construction safety documentation",
+      "score": 0.9946572780609131,
+      "box": [
+        132,
+        680,
+        707,
+        708
+      ]
+    }
+  ],
+  "seconds": 2.6912439996376634,
+  "id": "02091",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

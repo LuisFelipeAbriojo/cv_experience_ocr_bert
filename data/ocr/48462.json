@@ -1,0 +1,172 @@
+{
+  "lines": [
+    {
+      "text": "TIFFINY JACOBSON",
+      "score": 0.9996758699417114,
+      "box": [
+        117,
+        91,
+        442,
+        121
+      ]
+    },
+    {
+      "text": "TN, USA | +1-247-380-9310 | tiffiny.jacobson@example.com",
+      "score": 0.9789422750473022,
+      "box": [
+        118,
+        152,
+        676,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9990813732147217,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, KindCare Medical Services, 2020.06—2023.01",
+      "score": 0.9883904457092285,
+      "box": [
+        117,
+        289,
+        725,
+        316
+      ]
+    },
+    {
+      "text": "- Led nursing workflow optimization",
+      "score": 0.9767704606056213,
+      "box": [
+        127,
+        314,
+        455,
+        343
+      ]
+    },
+    {
+      "text": "- Implemented care standardization",
+      "score": 0.9749298095703125,
+      "box": [
+        127,
+        340,
+        456,
+        365
+      ]
+    },
+    {
+      "text": "Registered Nurses, EverWay Nursing Services, 2016.042018.12",
+      "score": 0.987654983997345,
+      "box": [
+        117,
+        382,
+        725,
+        409
+      ]
+    },
+    {
+      "text": "- Supervised clinical documentation",
+      "score": 0.9973695874214172,
+      "box": [
+        126,
+        409,
+        458,
+        432
+      ]
+    },
+    {
+      "text": "- Performed patient triage",
+      "score": 0.9928401112556458,
+      "box": [
+        126,
+        430,
+        366,
+        461
+      ]
+    },
+    {
+      "text": "Registered Nurses, BrightCare Clinics, 2012.022014.10",
+      "score": 0.9998658895492554,
+      "box": [
+        116,
+        471,
+        644,
+        499
+      ]
+    },
+    {
+      "text": "- Assisted with patient transfers",
+      "score": 0.9862355589866638,
+      "box": [
+        127,
+        498,
+        421,
+        523
+      ]
+    },
+    {
+      "text": "- Prepared medical equipment for use",
+      "score": 0.9926755428314209,
+      "box": [
+        128,
+        521,
+        479,
+        551
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999879002571106,
+      "box": [
+        117,
+        587,
+        267,
+        614
+      ]
+    },
+    {
+      "text": "Bachelor's, Health Information Management, Prairie Ridge University, 2010",
+      "score": 0.9952073693275452,
+      "box": [
+        116,
+        631,
+        811,
+        659
+      ]
+    },
+    {
+      "text": "•Completed coursework in human anatomy and physiology",
+      "score": 0.9773387312889099,
+      "box": [
+        130,
+        656,
+        684,
+        686
+      ]
+    },
+    {
+      "text": "Completed coursework in patient discharge planning",
+      "score": 0.9998271465301514,
+      "box": [
+        132,
+        680,
+        633,
+        710
+      ]
+    }
+  ],
+  "seconds": 3.9492454999126494,
+  "id": "48462",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

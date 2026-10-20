@@ -1,0 +1,202 @@
+{
+  "lines": [
+    {
+      "text": "CLEVELAND KIRK",
+      "score": 0.9836124777793884,
+      "box": [
+        118,
+        91,
+        413,
+        122
+      ]
+    },
+    {
+      "text": "FL, USA | +1-585-720-9236 | cleveland.kirk@example.com",
+      "score": 0.9839929938316345,
+      "box": [
+        117,
+        150,
+        662,
+        177
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9965725541114807,
+      "box": [
+        117,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, WorkStone Contractors, 2020.06—2023.01",
+      "score": 0.9934152960777283,
+      "box": [
+        118,
+        290,
+        723,
+        314
+      ]
+    },
+    {
+      "text": "- Directed site construction operations",
+      "score": 0.9864726662635803,
+      "box": [
+        126,
+        315,
+        479,
+        341
+      ]
+    },
+    {
+      "text": "- Reviewed site inspection reports",
+      "score": 0.9817640781402588,
+      "box": [
+        126,
+        339,
+        444,
+        369
+      ]
+    },
+    {
+      "text": "Construction Laborers, Allied Craft Co., 2017.112020.06",
+      "score": 0.9970147013664246,
+      "box": [
+        118,
+        383,
+        648,
+        407
+      ]
+    },
+    {
+      "text": "- Developed construction workflows",
+      "score": 0.9896734952926636,
+      "box": [
+        127,
+        409,
+        457,
+        433
+      ]
+    },
+    {
+      "text": "- Implemented safety compliance strategies",
+      "score": 0.98982173204422,
+      "box": [
+        128,
+        432,
+        532,
+        459
+      ]
+    },
+    {
+      "text": "Construction Laborers, PrimeWay Construction, 2015.042017.11",
+      "score": 0.978948175907135,
+      "box": [
+        116,
+        471,
+        727,
+        499
+      ]
+    },
+    {
+      "text": "- Installed foundation elements",
+      "score": 0.9812944531440735,
+      "box": [
+        126,
+        498,
+        414,
+        523
+      ]
+    },
+    {
+      "text": "- Managed waste disposal operations",
+      "score": 0.9937310218811035,
+      "box": [
+        127,
+        521,
+        475,
+        550
+      ]
+    },
+    {
+      "text": "Construction Laborers, FirmBase Builders, 2009.09—2012.04",
+      "score": 0.9886975288391113,
+      "box": [
+        118,
+        566,
+        679,
+        590
+      ]
+    },
+    {
+      "text": "- Handled delivery documentation",
+      "score": 0.9875478744506836,
+      "box": [
+        128,
+        592,
+        441,
+        616
+      ]
+    },
+    {
+      "text": "- Marked measurements on materials",
+      "score": 0.992168664932251,
+      "box": [
+        128,
+        615,
+        474,
+        641
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999069571495056,
+      "box": [
+        117,
+        681,
+        266,
+        705
+      ]
+    },
+    {
+      "text": "Some college (no degree), Construction Foundations, Rolling Hills University, 2001",
+      "score": 0.9891982674598694,
+      "box": [
+        116,
+        723,
+        881,
+        749
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of foundation systems",
+      "score": 0.9910051822662354,
+      "box": [
+        132,
+        750,
+        560,
+        774
+      ]
+    },
+    {
+      "text": "•Completed coursework in concrete curing methods",
+      "score": 0.9888052344322205,
+      "box": [
+        132,
+        772,
+        618,
+        800
+      ]
+    }
+  ],
+  "seconds": 2.9021095000207424,
+  "id": "12897",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

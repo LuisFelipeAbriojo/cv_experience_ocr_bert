@@ -1,0 +1,132 @@
+{
+  "lines": [
+    {
+      "text": "TRUNG YODER",
+      "score": 0.9998772144317627,
+      "box": [
+        115,
+        87,
+        366,
+        123
+      ]
+    },
+    {
+      "text": "WA, USA | +1-730-382-2658 | trung.yoder@example.com",
+      "score": 0.9806937575340271,
+      "box": [
+        117,
+        152,
+        650,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9990305304527283,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, FirmLine Construction, 2020.06—2022.04",
+      "score": 0.9849840998649597,
+      "box": [
+        116,
+        288,
+        713,
+        316
+      ]
+    },
+    {
+      "text": "- Developed long-term construction strategies",
+      "score": 0.9894117712974548,
+      "box": [
+        127,
+        315,
+        550,
+        341
+      ]
+    },
+    {
+      "text": "- Implemented quality control systems",
+      "score": 0.9877135753631592,
+      "box": [
+        127,
+        339,
+        480,
+        368
+      ]
+    },
+    {
+      "text": "Construction Laborers, Allied Frame Co., 2017.06—2019.05",
+      "score": 0.9848028421401978,
+      "box": [
+        117,
+        381,
+        664,
+        407
+      ]
+    },
+    {
+      "text": "- Assisted with site cleanup and debris removal",
+      "score": 0.9924554228782654,
+      "box": [
+        125,
+        407,
+        565,
+        432
+      ]
+    },
+    {
+      "text": "- Applied basic sealants and adhesives",
+      "score": 0.9890238046646118,
+      "box": [
+        130,
+        434,
+        490,
+        456
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999487400054932,
+      "box": [
+        117,
+        494,
+        268,
+        521
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Construction Operations, Briarwood High School, 2014",
+      "score": 0.998234212398529,
+      "box": [
+        116,
+        540,
+        884,
+        567
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of construction safety",
+      "score": 0.989755392074585,
+      "box": [
+        132,
+        564,
+        552,
+        592
+      ]
+    }
+  ],
+  "seconds": 2.3836494996212423,
+  "id": "58684",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

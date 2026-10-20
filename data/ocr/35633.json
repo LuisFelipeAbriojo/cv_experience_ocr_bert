@@ -1,0 +1,202 @@
+{
+  "lines": [
+    {
+      "text": "MICHAEL SHEPHERD",
+      "score": 0.999822735786438,
+      "box": [
+        118,
+        92,
+        464,
+        122
+      ]
+    },
+    {
+      "text": "NY, USA | +1-790-972-3674 | michael.shepherd@example.com",
+      "score": 0.994374692440033,
+      "box": [
+        115,
+        150,
+        705,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9989409446716309,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Reliable Balance Services, 2019.12—2023.01",
+      "score": 0.9863049983978271,
+      "box": [
+        117,
+        291,
+        741,
+        315
+      ]
+    },
+    {
+      "text": "- Directed accounting system implementations",
+      "score": 0.9814667105674744,
+      "box": [
+        127,
+        316,
+        557,
+        342
+      ]
+    },
+    {
+      "text": "- Developed long-term financial strategies",
+      "score": 0.9936457872390747,
+      "box": [
+        127,
+        340,
+        515,
+        368
+      ]
+    },
+    {
+      "text": "Accountants Auditors, AccuCount Advisors, 2016.112019.12",
+      "score": 0.9995349645614624,
+      "box": [
+        118,
+        383,
+        688,
+        407
+      ]
+    },
+    {
+      "text": "- Developed financial risk models",
+      "score": 0.9734617471694946,
+      "box": [
+        126,
+        407,
+        436,
+        433
+      ]
+    },
+    {
+      "text": "- Designed financial documentation standards",
+      "score": 0.9959924817085266,
+      "box": [
+        129,
+        434,
+        552,
+        457
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Integrity Balance Co., 2013.10—2016.11",
+      "score": 0.973884642124176,
+      "box": [
+        116,
+        471,
+        693,
+        499
+      ]
+    },
+    {
+      "text": "- Reviewed tax provisions",
+      "score": 0.9951375722885132,
+      "box": [
+        126,
+        498,
+        368,
+        525
+      ]
+    },
+    {
+      "text": "- Prepared cost allocation models",
+      "score": 0.9857938289642334,
+      "box": [
+        128,
+        521,
+        440,
+        549
+      ]
+    },
+    {
+      "text": "Accountants Auditors, SteadyLedger Services, 2010.09—2013.10",
+      "score": 0.9922420978546143,
+      "box": [
+        118,
+        566,
+        716,
+        590
+      ]
+    },
+    {
+      "text": "- Matched invoices to purchase orders",
+      "score": 0.996780276298523,
+      "box": [
+        129,
+        592,
+        484,
+        616
+      ]
+    },
+    {
+      "text": "- Reviewed billing statements",
+      "score": 0.9953222870826721,
+      "box": [
+        127,
+        614,
+        403,
+        642
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9998867511749268,
+      "box": [
+        117,
+        681,
+        266,
+        705
+      ]
+    },
+    {
+      "text": "Bachelor's, Government Accounting, Pine Valley University, 2012",
+      "score": 0.9860246777534485,
+      "box": [
+        117,
+        726,
+        721,
+        749
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of break-even analysis",
+      "score": 0.9860024452209473,
+      "box": [
+        132,
+        749,
+        566,
+        775
+      ]
+    },
+    {
+      "text": "• Completed coursework in data analysis for accounting",
+      "score": 0.9859850406646729,
+      "box": [
+        132,
+        772,
+        648,
+        801
+      ]
+    }
+  ],
+  "seconds": 2.9485304998233914,
+  "id": "35633",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

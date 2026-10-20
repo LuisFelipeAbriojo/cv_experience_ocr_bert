@@ -1,0 +1,172 @@
+{
+  "lines": [
+    {
+      "text": "JACOB MURPHY",
+      "score": 0.9998647570610046,
+      "box": [
+        116,
+        91,
+        388,
+        121
+      ]
+    },
+    {
+      "text": "WV, USA | +1-290-691-4358 | jacob.murphy@example.com",
+      "score": 0.9935654401779175,
+      "box": [
+        117,
+        152,
+        670,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9991157650947571,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Reliable Ledger Services, 2020.09—2023.01",
+      "score": 0.9956042766571045,
+      "box": [
+        115,
+        288,
+        732,
+        316
+      ]
+    },
+    {
+      "text": "- Led accounting process optimization",
+      "score": 0.9868641495704651,
+      "box": [
+        125,
+        314,
+        480,
+        342
+      ]
+    },
+    {
+      "text": "- Developed financial risk models",
+      "score": 0.9919596314430237,
+      "box": [
+        128,
+        340,
+        436,
+        366
+      ]
+    },
+    {
+      "text": "Accountants Auditors, PrimeBalance Accounting, 2017.072019.11",
+      "score": 0.9955555200576782,
+      "box": [
+        116,
+        382,
+        738,
+        409
+      ]
+    },
+    {
+      "text": "- Reviewed journal entries",
+      "score": 0.9697475433349609,
+      "box": [
+        125,
+        407,
+        371,
+        433
+      ]
+    },
+    {
+      "text": "- Reviewed audit workpapers",
+      "score": 0.9971237778663635,
+      "box": [
+        126,
+        431,
+        399,
+        457
+      ]
+    },
+    {
+      "text": "Accountants Auditors, ExactCount Services, 2014.08—2016.12",
+      "score": 0.9847503900527954,
+      "box": [
+        117,
+        472,
+        694,
+        497
+      ]
+    },
+    {
+      "text": "- Assisted with compliance documentation",
+      "score": 0.9973582029342651,
+      "box": [
+        126,
+        499,
+        517,
+        523
+      ]
+    },
+    {
+      "text": "- Assisted with inventory counts",
+      "score": 0.9717670679092407,
+      "box": [
+        128,
+        522,
+        422,
+        549
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999502897262573,
+      "box": [
+        118,
+        588,
+        266,
+        612
+      ]
+    },
+    {
+      "text": "Bachelor's, Finance, Clearstone University, 2008",
+      "score": 0.9860755801200867,
+      "box": [
+        116,
+        630,
+        569,
+        658
+      ]
+    },
+    {
+      "text": "Completed coursework in corporate governance",
+      "score": 0.9917144179344177,
+      "box": [
+        130,
+        656,
+        594,
+        686
+      ]
+    },
+    {
+      "text": "Completed coursework in financial accounting",
+      "score": 0.9997051358222961,
+      "box": [
+        132,
+        680,
+        573,
+        709
+      ]
+    }
+  ],
+  "seconds": 2.4485965999774635,
+  "id": "60071",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

@@ -1,0 +1,142 @@
+{
+  "lines": [
+    {
+      "text": "HOLLY PHAM",
+      "score": 0.9997304677963257,
+      "box": [
+        115,
+        89,
+        339,
+        122
+      ]
+    },
+    {
+      "text": "AL, USA | +1-510-295-2746 | holly.pham@example.com",
+      "score": 0.9834249019622803,
+      "box": [
+        118,
+        151,
+        636,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9997507929801941,
+      "box": [
+        117,
+        243,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Software Developers, Flowline Systems, 2020.072023.01",
+      "score": 0.9966034889221191,
+      "box": [
+        116,
+        289,
+        657,
+        316
+      ]
+    },
+    {
+      "text": "- Designed CI/CD frameworks",
+      "score": 0.9573032259941101,
+      "box": [
+        126,
+        313,
+        407,
+        341
+      ]
+    },
+    {
+      "text": "- Implemented release management strategies",
+      "score": 0.9954283833503723,
+      "box": [
+        127,
+        338,
+        561,
+        369
+      ]
+    },
+    {
+      "text": "Software Developers, Brightnode Software, 2018.012020.07",
+      "score": 0.9898781180381775,
+      "box": [
+        115,
+        379,
+        687,
+        410
+      ]
+    },
+    {
+      "text": "- Assisted with container setup",
+      "score": 0.9984797835350037,
+      "box": [
+        125,
+        405,
+        414,
+        434
+      ]
+    },
+    {
+      "text": "- Wrote scripts for data processing tasks",
+      "score": 0.9692084193229675,
+      "box": [
+        126,
+        431,
+        501,
+        458
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999167323112488,
+      "box": [
+        117,
+        494,
+        268,
+        521
+      ]
+    },
+    {
+      "text": "Bachelor's, Willowstone University, 2017",
+      "score": 0.9861215353012085,
+      "box": [
+        116,
+        540,
+        493,
+        567
+      ]
+    },
+    {
+      "text": "Studied principles of software reliability",
+      "score": 0.9993645548820496,
+      "box": [
+        130,
+        566,
+        507,
+        590
+      ]
+    },
+    {
+      "text": "•Studied fundamentals of software maintenance",
+      "score": 0.979317307472229,
+      "box": [
+        130,
+        591,
+        583,
+        614
+      ]
+    }
+  ],
+  "seconds": 2.3109105001203716,
+  "id": "00103",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

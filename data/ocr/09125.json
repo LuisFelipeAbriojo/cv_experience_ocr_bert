@@ -1,0 +1,112 @@
+{
+  "lines": [
+    {
+      "text": "BLAKE GENTRY",
+      "score": 0.9997575283050537,
+      "box": [
+        116,
+        87,
+        383,
+        123
+      ]
+    },
+    {
+      "text": "CA, USA | +1-877-906-5032 | blake.gentry@example.com",
+      "score": 0.9882237315177917,
+      "box": [
+        117,
+        150,
+        654,
+        177
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9997491836547852,
+      "box": [
+        117,
+        243,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Software Developers, Flowpoint Tech, 2020.112023.01",
+      "score": 0.9997178912162781,
+      "box": [
+        116,
+        289,
+        637,
+        316
+      ]
+    },
+    {
+      "text": "- Assisted with system documentation",
+      "score": 0.9927056431770325,
+      "box": [
+        127,
+        316,
+        478,
+        340
+      ]
+    },
+    {
+      "text": "- Assisted with CI pipeline tasks",
+      "score": 0.9734197854995728,
+      "box": [
+        127,
+        338,
+        424,
+        367
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999154210090637,
+      "box": [
+        116,
+        404,
+        268,
+        431
+      ]
+    },
+    {
+      "text": "Bachelor's, Crestview University, 2023",
+      "score": 0.9997128844261169,
+      "box": [
+        115,
+        446,
+        474,
+        474
+      ]
+    },
+    {
+      "text": "Studied principles of mutexes and semaphores",
+      "score": 0.990365207195282,
+      "box": [
+        128,
+        472,
+        582,
+        500
+      ]
+    },
+    {
+      "text": "Studied fundamentals of indexing techniques",
+      "score": 0.9946059584617615,
+      "box": [
+        130,
+        497,
+        565,
+        525
+      ]
+    }
+  ],
+  "seconds": 2.1221080999821424,
+  "id": "09125",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

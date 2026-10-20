@@ -1,0 +1,142 @@
+{
+  "lines": [
+    {
+      "text": "CHRISTOPHER MORTON",
+      "score": 0.9997398853302002,
+      "box": [
+        118,
+        91,
+        517,
+        122
+      ]
+    },
+    {
+      "text": "NJ, USA | +1-570-635-7096 | christopher.morton@example.com",
+      "score": 0.9932325482368469,
+      "box": [
+        117,
+        152,
+        711,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9990336298942566,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, SolidCount Financial Group, 2019.02—2022.01",
+      "score": 0.9924336075782776,
+      "box": [
+        115,
+        288,
+        754,
+        316
+      ]
+    },
+    {
+      "text": "- Designed tax strategies",
+      "score": 0.9888101816177368,
+      "box": [
+        127,
+        315,
+        361,
+        342
+      ]
+    },
+    {
+      "text": "- Developed regulatory reporting strategies",
+      "score": 0.9920955300331116,
+      "box": [
+        127,
+        339,
+        525,
+        369
+      ]
+    },
+    {
+      "text": "Accountants Auditors, FairLedger Advisors, 2015.082018.08",
+      "score": 0.9841551780700684,
+      "box": [
+        118,
+        383,
+        687,
+        407
+      ]
+    },
+    {
+      "text": "- Prepared variance reports",
+      "score": 0.9988002181053162,
+      "box": [
+        125,
+        407,
+        384,
+        433
+      ]
+    },
+    {
+      "text": "- Maintained chart of accounts",
+      "score": 0.9879439473152161,
+      "box": [
+        126,
+        431,
+        409,
+        456
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9998986721038818,
+      "box": [
+        117,
+        494,
+        268,
+        521
+      ]
+    },
+    {
+      "text": "Bachelor's, Business Administration, Springdale University, 2003",
+      "score": 0.9948144555091858,
+      "box": [
+        116,
+        540,
+        715,
+        567
+      ]
+    },
+    {
+      "text": "•Studied principles of taxation",
+      "score": 0.9712039828300476,
+      "box": [
+        130,
+        566,
+        415,
+        590
+      ]
+    },
+    {
+      "text": "•Completed coursework in governmental accounting basics",
+      "score": 0.98993980884552,
+      "box": [
+        131,
+        590,
+        687,
+        617
+      ]
+    }
+  ],
+  "seconds": 2.4950993000529706,
+  "id": "33143",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

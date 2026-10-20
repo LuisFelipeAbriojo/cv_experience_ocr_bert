@@ -1,0 +1,112 @@
+{
+  "lines": [
+    {
+      "text": "JAEDEN WIGGINS",
+      "score": 0.976883053779602,
+      "box": [
+        116,
+        91,
+        411,
+        122
+      ]
+    },
+    {
+      "text": "PA, USA | +1-567-948-2179 | jaeden.wiggins@example.com",
+      "score": 0.9820278286933899,
+      "box": [
+        117,
+        152,
+        677,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9997622966766357,
+      "box": [
+        117,
+        243,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Construction Laborers, CraftTrack Builders, 2022.04—2023.01",
+      "score": 0.980056643486023,
+      "box": [
+        116,
+        287,
+        686,
+        315
+      ]
+    },
+    {
+      "text": "- Set up workstations for crews",
+      "score": 0.9739710092544556,
+      "box": [
+        125,
+        314,
+        415,
+        341
+      ]
+    },
+    {
+      "text": "- Followed blueprint instructions",
+      "score": 0.9840599894523621,
+      "box": [
+        128,
+        340,
+        423,
+        366
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999373555183411,
+      "box": [
+        116,
+        404,
+        268,
+        431
+      ]
+    },
+    {
+      "text": "Bachelor's, Construction Planning, Crossfield University, 2021",
+      "score": 0.9986904859542847,
+      "box": [
+        115,
+        446,
+        688,
+        475
+      ]
+    },
+    {
+      "text": "•Studied fundamentals of construction measurement tools",
+      "score": 0.9882503151893616,
+      "box": [
+        130,
+        473,
+        675,
+        498
+      ]
+    },
+    {
+      "text": "Completed coursework in structural layout",
+      "score": 0.9991641044616699,
+      "box": [
+        132,
+        497,
+        539,
+        525
+      ]
+    }
+  ],
+  "seconds": 1.9509647996164858,
+  "id": "46333",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

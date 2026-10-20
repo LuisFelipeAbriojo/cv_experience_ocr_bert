@@ -1,0 +1,122 @@
+{
+  "lines": [
+    {
+      "text": "BRETT VO",
+      "score": 0.9980608224868774,
+      "box": [
+        116,
+        89,
+        288,
+        123
+      ]
+    },
+    {
+      "text": "CA, USA | +1-777-778-3753 | brett.vo@example.com",
+      "score": 0.9875788688659668,
+      "box": [
+        117,
+        150,
+        611,
+        177
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.999752938747406,
+      "box": [
+        117,
+        243,
+        315,
+        270
+      ]
+    },
+    {
+      "text": "Software Developers, Datacore Labs, 2019.112022.04",
+      "score": 0.9911224246025085,
+      "box": [
+        117,
+        290,
+        632,
+        314
+      ]
+    },
+    {
+      "text": "- Assisted with build automation",
+      "score": 0.9993002414703369,
+      "box": [
+        126,
+        316,
+        424,
+        339
+      ]
+    },
+    {
+      "text": "- Reviewed test coverage reports",
+      "score": 0.9863409996032715,
+      "box": [
+        127,
+        339,
+        435,
+        366
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9998900890350342,
+      "box": [
+        116,
+        404,
+        268,
+        431
+      ]
+    },
+    {
+      "text": "Master's, Larkspur University, 2017",
+      "score": 0.9849853515625,
+      "box": [
+        115,
+        446,
+        447,
+        474
+      ]
+    },
+    {
+      "text": "Bachelor's, Pinewood University, 2015",
+      "score": 0.9820865988731384,
+      "box": [
+        116,
+        474,
+        474,
+        498
+      ]
+    },
+    {
+      "text": "•Studied fundamentals of user interface development",
+      "score": 0.9884594082832336,
+      "box": [
+        130,
+        499,
+        631,
+        523
+      ]
+    },
+    {
+      "text": "Completed coursework in logging and monitoring",
+      "score": 0.9990437626838684,
+      "box": [
+        132,
+        521,
+        602,
+        550
+      ]
+    }
+  ],
+  "seconds": 2.068930000066757,
+  "id": "03307",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

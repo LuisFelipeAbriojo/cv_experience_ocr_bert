@@ -1,0 +1,202 @@
+{
+  "lines": [
+    {
+      "text": "JASMINE PAUL",
+      "score": 0.9938263297080994,
+      "box": [
+        116,
+        91,
+        367,
+        122
+      ]
+    },
+    {
+      "text": "WV, USA | +1-931-530-3037 | jasmine.paul@example.com",
+      "score": 0.9947837591171265,
+      "box": [
+        115,
+        150,
+        662,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9993994235992432,
+      "box": [
+        116,
+        242,
+        316,
+        271
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Open Horizons School, 2019.03—2023.01",
+      "score": 0.9904766082763672,
+      "box": [
+        116,
+        289,
+        847,
+        319
+      ]
+    },
+    {
+      "text": "- Implemented performance evaluation systems",
+      "score": 0.9997116327285767,
+      "box": [
+        126,
+        316,
+        569,
+        341
+      ]
+    },
+    {
+      "text": "- Established instructional leadership protocols",
+      "score": 0.9832355380058289,
+      "box": [
+        126,
+        339,
+        561,
+        368
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Harmony Horizons Academy, 2015.05—2019.03",
+      "score": 0.9914658069610596,
+      "box": [
+        116,
+        381,
+        903,
+        409
+      ]
+    },
+    {
+      "text": "- Directed instructional planning processes",
+      "score": 0.9891491532325745,
+      "box": [
+        126,
+        407,
+        522,
+        434
+      ]
+    },
+    {
+      "text": "- Developed student performance metrics",
+      "score": 0.9910754561424255,
+      "box": [
+        126,
+        431,
+        513,
+        459
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Learning Minds Academy, 2011.062015.05",
+      "score": 0.994250476360321,
+      "box": [
+        119,
+        474,
+        872,
+        498
+      ]
+    },
+    {
+      "text": "- Implemented literacy development plans",
+      "score": 0.9739014506340027,
+      "box": [
+        125,
+        497,
+        516,
+        526
+      ]
+    },
+    {
+      "text": "- Aligned lesson objectives with standards",
+      "score": 0.988855242729187,
+      "box": [
+        130,
+        524,
+        516,
+        548
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Open Sky School, 2004.08—2008.07",
+      "score": 0.9810861349105835,
+      "box": [
+        117,
+        565,
+        799,
+        592
+      ]
+    },
+    {
+      "text": "- Reviewed curriculum content",
+      "score": 0.9923334717750549,
+      "box": [
+        127,
+        591,
+        413,
+        615
+      ]
+    },
+    {
+      "text": "- Maintained classroom attendance and grading records",
+      "score": 0.9810271263122559,
+      "box": [
+        125,
+        613,
+        645,
+        643
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999275207519531,
+      "box": [
+        117,
+        681,
+        266,
+        705
+      ]
+    },
+    {
+      "text": "Bachelor's, Student Development, Stonehill University, 2003",
+      "score": 0.9779254198074341,
+      "box": [
+        117,
+        726,
+        672,
+        749
+      ]
+    },
+    {
+      "text": "• Completed coursework in academic instruction methods",
+      "score": 0.9914674162864685,
+      "box": [
+        132,
+        748,
+        666,
+        776
+      ]
+    },
+    {
+      "text": "•Completed coursework in lesson reflection practices",
+      "score": 0.9714888334274292,
+      "box": [
+        132,
+        772,
+        630,
+        802
+      ]
+    }
+  ],
+  "seconds": 3.1849340996704996,
+  "id": "59934",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

@@ -1,0 +1,182 @@
+{
+  "lines": [
+    {
+      "text": "ALICIA JOHNSTON",
+      "score": 0.9946566820144653,
+      "box": [
+        118,
+        92,
+        425,
+        122
+      ]
+    },
+    {
+      "text": "VA, USA | +1-225-797-9596 | alicia.johnston@example.com",
+      "score": 0.9962688684463501,
+      "box": [
+        116,
+        150,
+        672,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9939599633216858,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Bright Minds School, 2020.10—2023.01",
+      "score": 0.9763519763946533,
+      "box": [
+        115,
+        287,
+        824,
+        320
+      ]
+    },
+    {
+      "text": "- Directed program effectiveness studies",
+      "score": 0.9927776455879211,
+      "box": [
+        125,
+        314,
+        504,
+        342
+      ]
+    },
+    {
+      "text": "- Implemented assessment policy frameworks",
+      "score": 0.9884049296379089,
+      "box": [
+        126,
+        338,
+        552,
+        370
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, BrightPath Learning Center, 2018.072020.10",
+      "score": 0.9883503317832947,
+      "box": [
+        116,
+        381,
+        893,
+        411
+      ]
+    },
+    {
+      "text": "- Developed classroom assessment tools",
+      "score": 0.9730584025382996,
+      "box": [
+        126,
+        408,
+        509,
+        433
+      ]
+    },
+    {
+      "text": "- Designed lesson plans aligned with curriculum standards",
+      "score": 0.9923439621925354,
+      "box": [
+        128,
+        434,
+        666,
+        457
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Golden Futures Academy, 2016.03—2018.07",
+      "score": 0.9889538884162903,
+      "box": [
+        117,
+        471,
+        874,
+        500
+      ]
+    },
+    {
+      "text": "- Organized classroom learning resources",
+      "score": 0.9745227694511414,
+      "box": [
+        126,
+        497,
+        518,
+        526
+      ]
+    },
+    {
+      "text": "- Recorded test results",
+      "score": 0.9742735028266907,
+      "box": [
+        126,
+        520,
+        341,
+        551
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999024868011475,
+      "box": [
+        117,
+        587,
+        267,
+        614
+      ]
+    },
+    {
+      "text": "Master's, Teaching Studies, Clearbrook University, 2021",
+      "score": 0.9943168759346008,
+      "box": [
+        117,
+        632,
+        636,
+        659
+      ]
+    },
+    {
+      "text": "Bachelor's, General Learning Studies, Brighton University, 2019",
+      "score": 0.9826340079307556,
+      "box": [
+        115,
+        656,
+        708,
+        685
+      ]
+    },
+    {
+      "text": "• Completed coursework in academic content planning",
+      "score": 0.9749729037284851,
+      "box": [
+        133,
+        683,
+        637,
+        709
+      ]
+    },
+    {
+      "text": "Completed coursework in classroom workflow organization",
+      "score": 0.9903823733329773,
+      "box": [
+        131,
+        705,
+        691,
+        736
+      ]
+    }
+  ],
+  "seconds": 3.2076828996650875,
+  "id": "56448",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

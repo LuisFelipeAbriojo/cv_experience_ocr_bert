@@ -1,0 +1,212 @@
+{
+  "lines": [
+    {
+      "text": "TRICIA YANG",
+      "score": 0.9996863007545471,
+      "box": [
+        117,
+        91,
+        334,
+        122
+      ]
+    },
+    {
+      "text": "CA, USA | +1-802-248-2532 | tricia.yang@example.com",
+      "score": 0.9930800795555115,
+      "box": [
+        116,
+        150,
+        636,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.997925341129303,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Softfield Tech, 2019.03—2023.01",
+      "score": 0.9861323237419128,
+      "box": [
+        117,
+        291,
+        622,
+        315
+      ]
+    },
+    {
+      "text": "- Led refactoring initiatives",
+      "score": 0.985961377620697,
+      "box": [
+        128,
+        316,
+        373,
+        340
+      ]
+    },
+    {
+      "text": "- Designed configuration management systems",
+      "score": 0.9822536110877991,
+      "box": [
+        129,
+        341,
+        565,
+        368
+      ]
+    },
+    {
+      "text": "Software Developers, Softnode Systems, 2015.052019.03",
+      "score": 0.9871653318405151,
+      "box": [
+        117,
+        383,
+        665,
+        407
+      ]
+    },
+    {
+      "text": "- Led database design efforts",
+      "score": 0.9768467545509338,
+      "box": [
+        129,
+        409,
+        400,
+        432
+      ]
+    },
+    {
+      "text": "- Led technical roadmap planning",
+      "score": 0.9992560744285583,
+      "box": [
+        127,
+        429,
+        439,
+        461
+      ]
+    },
+    {
+      "text": "Software Developers, Bluefield Technologies, 2011.072015.05",
+      "score": 0.9950096011161804,
+      "box": [
+        116,
+        471,
+        707,
+        499
+      ]
+    },
+    {
+      "text": "- Integrated messaging systems",
+      "score": 0.9829779863357544,
+      "box": [
+        126,
+        497,
+        427,
+        527
+      ]
+    },
+    {
+      "text": "- Implemented search features",
+      "score": 0.9843366742134094,
+      "box": [
+        128,
+        521,
+        414,
+        550
+      ]
+    },
+    {
+      "text": "Software Developers, Softpath Digital, 2007.092011.07",
+      "score": 0.9927483797073364,
+      "box": [
+        117,
+        566,
+        638,
+        590
+      ]
+    },
+    {
+      "text": "- Updated frontend stylesheets",
+      "score": 0.999618411064148,
+      "box": [
+        130,
+        592,
+        414,
+        616
+      ]
+    },
+    {
+      "text": "- Handled file uploads",
+      "score": 0.9929050207138062,
+      "box": [
+        127,
+        613,
+        332,
+        643
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999213814735413,
+      "box": [
+        117,
+        681,
+        266,
+        705
+      ]
+    },
+    {
+      "text": "Master's, Greenwood Ridge University, 2006",
+      "score": 0.9893075227737427,
+      "box": [
+        115,
+        723,
+        531,
+        750
+      ]
+    },
+    {
+      "text": "Bachelor's, Harvest University, 2004",
+      "score": 0.9866914749145508,
+      "box": [
+        117,
+        750,
+        454,
+        774
+      ]
+    },
+    {
+      "text": "• Completed coursework in project documentation",
+      "score": 0.9820239543914795,
+      "box": [
+        131,
+        775,
+        595,
+        799
+      ]
+    },
+    {
+      "text": "•Studied fundamentals of computer networks",
+      "score": 0.981817901134491,
+      "box": [
+        131,
+        799,
+        555,
+        824
+      ]
+    }
+  ],
+  "seconds": 2.637601299677044,
+  "id": "08275",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

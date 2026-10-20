@@ -1,0 +1,112 @@
+{
+  "lines": [
+    {
+      "text": "LUZ YODER",
+      "score": 0.9955485463142395,
+      "box": [
+        116,
+        89,
+        312,
+        123
+      ]
+    },
+    {
+      "text": "CT, USA | +1-560-202-9935 | luz.yoder@example.com",
+      "score": 0.9893059730529785,
+      "box": [
+        116,
+        149,
+        625,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9997507929801941,
+      "box": [
+        117,
+        243,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Software Developers, Softpath Labs, 2020.09—2023.01",
+      "score": 0.9903332591056824,
+      "box": [
+        116,
+        289,
+        624,
+        316
+      ]
+    },
+    {
+      "text": "- Updated localization files",
+      "score": 0.9760637879371643,
+      "box": [
+        127,
+        316,
+        374,
+        340
+      ]
+    },
+    {
+      "text": "- Handled input sanitization",
+      "score": 0.9973053336143494,
+      "box": [
+        128,
+        340,
+        382,
+        367
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999057054519653,
+      "box": [
+        116,
+        404,
+        268,
+        431
+      ]
+    },
+    {
+      "text": "Bachelor's, Woodview University, 2020",
+      "score": 0.9961296319961548,
+      "box": [
+        115,
+        446,
+        478,
+        474
+      ]
+    },
+    {
+      "text": "•Studied principles of backend frameworks",
+      "score": 0.9888955354690552,
+      "box": [
+        129,
+        473,
+        534,
+        498
+      ]
+    },
+    {
+      "text": "Studied fundamentals of refactoring techniques",
+      "score": 0.9945922493934631,
+      "box": [
+        130,
+        497,
+        585,
+        525
+      ]
+    }
+  ],
+  "seconds": 1.8274660003371537,
+  "id": "11323",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

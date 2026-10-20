@@ -1,0 +1,192 @@
+{
+  "lines": [
+    {
+      "text": "SHANE RANDALL",
+      "score": 0.9996697306632996,
+      "box": [
+        117,
+        92,
+        406,
+        122
+      ]
+    },
+    {
+      "text": "SC, USA | +1-438-870-9858 | shane.randall@example.com",
+      "score": 0.9779576659202576,
+      "box": [
+        118,
+        152,
+        665,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9988901019096375,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, NextStep Construction, 2020.01-2023.01",
+      "score": 0.9821925163269043,
+      "box": [
+        116,
+        288,
+        716,
+        316
+      ]
+    },
+    {
+      "text": "- Directed site optimization initiatives",
+      "score": 0.9932028651237488,
+      "box": [
+        126,
+        315,
+        466,
+        341
+      ]
+    },
+    {
+      "text": "- Designed site safety protocols",
+      "score": 0.9865778684616089,
+      "box": [
+        127,
+        339,
+        422,
+        369
+      ]
+    },
+    {
+      "text": "Construction Laborers, WorkLine Contractors, 2017.012020.01",
+      "score": 0.9812947511672974,
+      "box": [
+        118,
+        383,
+        707,
+        407
+      ]
+    },
+    {
+      "text": "- Developed long-term construction strategies",
+      "score": 0.9923585057258606,
+      "box": [
+        126,
+        408,
+        550,
+        433
+      ]
+    },
+    {
+      "text": "- Reviewed compliance documentation",
+      "score": 0.9992710947990417,
+      "box": [
+        127,
+        432,
+        487,
+        457
+      ]
+    },
+    {
+      "text": "Construction Laborers, Allied Structures, 2014.012017.01",
+      "score": 0.9870246052742004,
+      "box": [
+        117,
+        472,
+        658,
+        497
+      ]
+    },
+    {
+      "text": "- Prepared structural joints",
+      "score": 0.9795557856559753,
+      "box": [
+        127,
+        499,
+        375,
+        523
+      ]
+    },
+    {
+      "text": "- Supervised demolition tasks",
+      "score": 0.9970653057098389,
+      "box": [
+        127,
+        521,
+        402,
+        549
+      ]
+    },
+    {
+      "text": "Construction Laborers, MasterBuild Services, 2008.082011.09",
+      "score": 0.9774009585380554,
+      "box": [
+        117,
+        565,
+        704,
+        590
+      ]
+    },
+    {
+      "text": "- Assisted with basic electrical conduit placement",
+      "score": 0.9957118034362793,
+      "box": [
+        126,
+        590,
+        584,
+        615
+      ]
+    },
+    {
+      "text": "- Assisted with framing support",
+      "score": 0.9901419878005981,
+      "box": [
+        127,
+        614,
+        417,
+        643
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.99991774559021,
+      "box": [
+        117,
+        681,
+        266,
+        705
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Construction Site Management, Stonebrook High School, 2006",
+      "score": 0.994489848613739,
+      "box": [
+        116,
+        724,
+        959,
+        750
+      ]
+    },
+    {
+      "text": "• Studied principles of site hazard controls",
+      "score": 0.9778717160224915,
+      "box": [
+        131,
+        750,
+        524,
+        773
+      ]
+    }
+  ],
+  "seconds": 2.785766199696809,
+  "id": "47241",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

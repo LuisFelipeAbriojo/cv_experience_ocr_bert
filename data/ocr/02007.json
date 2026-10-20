@@ -1,0 +1,152 @@
+{
+  "lines": [
+    {
+      "text": "TANYA ANTHONY",
+      "score": 0.9997967481613159,
+      "box": [
+        117,
+        91,
+        406,
+        122
+      ]
+    },
+    {
+      "text": "AZ, USA | +1-618-242-1720 | tanya.anthony@example.com",
+      "score": 0.997867226600647,
+      "box": [
+        116,
+        150,
+        669,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9990642666816711,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Balanced Books Co., 2020.07—2023.01",
+      "score": 0.9848551154136658,
+      "box": [
+        116,
+        289,
+        687,
+        314
+      ]
+    },
+    {
+      "text": "- Established financial reporting standards",
+      "score": 0.9814914464950562,
+      "box": [
+        125,
+        314,
+        518,
+        342
+      ]
+    },
+    {
+      "text": "- Developed internal control systems",
+      "score": 0.9961197972297668,
+      "box": [
+        127,
+        339,
+        467,
+        370
+      ]
+    },
+    {
+      "text": "Accountants Auditors, AccuCount Group, 2016.112019.05",
+      "score": 0.9928515553474426,
+      "box": [
+        116,
+        380,
+        666,
+        409
+      ]
+    },
+    {
+      "text": "- Assisted with tax form preparation",
+      "score": 0.9947294592857361,
+      "box": [
+        125,
+        406,
+        457,
+        433
+      ]
+    },
+    {
+      "text": "- Processed accounts receivable transactions",
+      "score": 0.9955259561538696,
+      "box": [
+        126,
+        432,
+        549,
+        456
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999420642852783,
+      "box": [
+        116,
+        494,
+        267,
+        521
+      ]
+    },
+    {
+      "text": "Master's, Accounting Practice, Morningstar University, 2008",
+      "score": 0.9807513356208801,
+      "box": [
+        117,
+        542,
+        667,
+        566
+      ]
+    },
+    {
+      "text": "Bachelor's, Commerce, Windcrest University, 2006",
+      "score": 0.9992043375968933,
+      "box": [
+        116,
+        566,
+        588,
+        591
+      ]
+    },
+    {
+      "text": "•Studied principles of corporate finance",
+      "score": 0.9837318658828735,
+      "box": [
+        130,
+        593,
+        503,
+        617
+      ]
+    },
+    {
+      "text": "•Studied fundamentals of sustainability accounting basics",
+      "score": 0.969717264175415,
+      "box": [
+        129,
+        615,
+        669,
+        643
+      ]
+    }
+  ],
+  "seconds": 2.3977326001040637,
+  "id": "02007",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

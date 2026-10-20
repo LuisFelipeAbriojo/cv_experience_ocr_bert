@@ -1,0 +1,182 @@
+{
+  "lines": [
+    {
+      "text": "RONALD HICKMAN",
+      "score": 0.9995438456535339,
+      "box": [
+        116,
+        89,
+        428,
+        122
+      ]
+    },
+    {
+      "text": "TN, USA | +1-343-820-5858 | ronald.hickman@example.com",
+      "score": 0.9912663698196411,
+      "box": [
+        117,
+        150,
+        681,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9990910887718201,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Learning Hill Academy, 2019.12—2023.01",
+      "score": 0.9841060042381287,
+      "box": [
+        116,
+        289,
+        846,
+        319
+      ]
+    },
+    {
+      "text": "- Designed systemic intervention models",
+      "score": 0.9839851260185242,
+      "box": [
+        127,
+        317,
+        504,
+        341
+      ]
+    },
+    {
+      "text": "- Led instructional design reviews",
+      "score": 0.986599862575531,
+      "box": [
+        127,
+        340,
+        438,
+        367
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Growing Start Academy, 2016.112019.12",
+      "score": 0.9952905178070068,
+      "box": [
+        116,
+        381,
+        860,
+        411
+      ]
+    },
+    {
+      "text": "- Implemented formative assessment strategies",
+      "score": 0.9909452795982361,
+      "box": [
+        126,
+        408,
+        568,
+        434
+      ]
+    },
+    {
+      "text": "- Developed homework policies",
+      "score": 0.9997708797454834,
+      "box": [
+        127,
+        432,
+        420,
+        458
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Discovery Horizons School, 2012.03—2015.05",
+      "score": 0.9905791878700256,
+      "box": [
+        117,
+        471,
+        888,
+        499
+      ]
+    },
+    {
+      "text": "- Conducted spelling practice",
+      "score": 0.9973728656768799,
+      "box": [
+        125,
+        497,
+        401,
+        525
+      ]
+    },
+    {
+      "text": "- Supported standardized testing sessions",
+      "score": 0.9988240599632263,
+      "box": [
+        128,
+        521,
+        518,
+        551
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9998807907104492,
+      "box": [
+        117,
+        587,
+        267,
+        614
+      ]
+    },
+    {
+      "text": "Master's, Basic Education Studies, Northfield University, 2009",
+      "score": 0.9830066561698914,
+      "box": [
+        117,
+        633,
+        688,
+        657
+      ]
+    },
+    {
+      "text": "Bachelor's, Education Basics, Willowstone University, 2007",
+      "score": 0.9880753755569458,
+      "box": [
+        115,
+        656,
+        664,
+        684
+      ]
+    },
+    {
+      "text": "•Studied principles of inclusive education",
+      "score": 0.9924548864364624,
+      "box": [
+        130,
+        683,
+        518,
+        707
+      ]
+    },
+    {
+      "text": "•Studied fundamentals of numeracy development",
+      "score": 0.9897145628929138,
+      "box": [
+        130,
+        706,
+        597,
+        735
+      ]
+    }
+  ],
+  "seconds": 2.8540198002010584,
+  "id": "48583",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

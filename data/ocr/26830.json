@@ -1,0 +1,142 @@
+{
+  "lines": [
+    {
+      "text": "ANTHONY PETERSON",
+      "score": 0.9822964668273926,
+      "box": [
+        117,
+        90,
+        476,
+        122
+      ]
+    },
+    {
+      "text": "MI, USA | +1-226-202-6617 | anthony.peterson@example.com",
+      "score": 0.9904875159263611,
+      "box": [
+        115,
+        150,
+        696,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9991771578788757,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Netbridge Tech, 2021.06—2023.01",
+      "score": 0.9940487146377563,
+      "box": [
+        115,
+        288,
+        638,
+        316
+      ]
+    },
+    {
+      "text": "- Defined data governance policies",
+      "score": 0.9792513251304626,
+      "box": [
+        126,
+        314,
+        452,
+        343
+      ]
+    },
+    {
+      "text": "- Designed microservice architectures",
+      "score": 0.999457597732544,
+      "box": [
+        128,
+        339,
+        479,
+        367
+      ]
+    },
+    {
+      "text": "Software Developers, Netbridge Tech, 2019.102021.06",
+      "score": 0.9997694492340088,
+      "box": [
+        116,
+        380,
+        640,
+        409
+      ]
+    },
+    {
+      "text": "- Implemented caching logic",
+      "score": 0.9947823882102966,
+      "box": [
+        127,
+        409,
+        390,
+        433
+      ]
+    },
+    {
+      "text": "- Fixed software bugs identified through testing",
+      "score": 0.9853229522705078,
+      "box": [
+        127,
+        430,
+        562,
+        459
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999290108680725,
+      "box": [
+        117,
+        494,
+        267,
+        521
+      ]
+    },
+    {
+      "text": "Bachelor's, Skycrest University, 2023",
+      "score": 0.9849866628646851,
+      "box": [
+        117,
+        542,
+        460,
+        566
+      ]
+    },
+    {
+      "text": "•Completed coursework in cloud services integration",
+      "score": 0.9660118222236633,
+      "box": [
+        130,
+        565,
+        625,
+        593
+      ]
+    },
+    {
+      "text": "Studied principles of modular design",
+      "score": 0.9948088526725769,
+      "box": [
+        130,
+        590,
+        485,
+        619
+      ]
+    }
+  ],
+  "seconds": 2.2051641000434756,
+  "id": "26830",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

@@ -1,0 +1,152 @@
+{
+  "lines": [
+    {
+      "text": "DESTINY BUSH",
+      "score": 0.9891721606254578,
+      "box": [
+        117,
+        89,
+        367,
+        122
+      ]
+    },
+    {
+      "text": "PA, USA | +1-223-306-8755 | destiny.bush@example.com",
+      "score": 0.9903354644775391,
+      "box": [
+        116,
+        149,
+        655,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9991481304168701,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Growing Field Academy, 2020.09—2023.01",
+      "score": 0.9933879375457764,
+      "box": [
+        116,
+        288,
+        859,
+        318
+      ]
+    },
+    {
+      "text": "- Directed content standardization",
+      "score": 0.9975864291191101,
+      "box": [
+        126,
+        315,
+        442,
+        340
+      ]
+    },
+    {
+      "text": "- Developed learning progression models",
+      "score": 0.9869629144668579,
+      "box": [
+        126,
+        339,
+        510,
+        368
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Willow Grove School, 2018.05—2020.09",
+      "score": 0.967865526676178,
+      "box": [
+        117,
+        382,
+        831,
+        409
+      ]
+    },
+    {
+      "text": "- Distributed instructional handouts",
+      "score": 0.9749513268470764,
+      "box": [
+        126,
+        407,
+        452,
+        433
+      ]
+    },
+    {
+      "text": "- Supported individual student learning activities",
+      "score": 0.9728713035583496,
+      "box": [
+        129,
+        434,
+        571,
+        457
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999351501464844,
+      "box": [
+        116,
+        494,
+        267,
+        521
+      ]
+    },
+    {
+      "text": "Master's, Education Services, Forestfield University, 2021",
+      "score": 0.9929751753807068,
+      "box": [
+        115,
+        539,
+        647,
+        567
+      ]
+    },
+    {
+      "text": "Bachelor's, Student Development, Brookridge University, 2019",
+      "score": 0.9978926777839661,
+      "box": [
+        116,
+        566,
+        694,
+        593
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of academic support strategies",
+      "score": 0.9836553931236267,
+      "box": [
+        129,
+        591,
+        640,
+        618
+      ]
+    },
+    {
+      "text": "•Studied principles of student support systems",
+      "score": 0.9865836501121521,
+      "box": [
+        130,
+        615,
+        570,
+        644
+      ]
+    }
+  ],
+  "seconds": 2.604944800026715,
+  "id": "45625",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

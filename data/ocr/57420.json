@@ -1,0 +1,112 @@
+{
+  "lines": [
+    {
+      "text": "JENNIFER ROSALES",
+      "score": 0.9998942613601685,
+      "box": [
+        115,
+        89,
+        454,
+        123
+      ]
+    },
+    {
+      "text": "VA, USA|+1-243-728-3865 | jennifer.rosales@example.com",
+      "score": 0.9789893627166748,
+      "box": [
+        118,
+        151,
+        679,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9997578263282776,
+      "box": [
+        117,
+        243,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Accountants Auditors, ClearLedger Group, 2020.03—2021.10",
+      "score": 0.9966035485267639,
+      "box": [
+        116,
+        289,
+        679,
+        314
+      ]
+    },
+    {
+      "text": "- Reviewed vendor payments",
+      "score": 0.9847112894058228,
+      "box": [
+        125,
+        313,
+        400,
+        343
+      ]
+    },
+    {
+      "text": "- Assisted with tax form preparation",
+      "score": 0.9804574251174927,
+      "box": [
+        126,
+        339,
+        457,
+        367
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999421238899231,
+      "box": [
+        116,
+        404,
+        268,
+        431
+      ]
+    },
+    {
+      "text": "Bachelor's, Operations Management, Sagewood University, 2016",
+      "score": 0.9908892512321472,
+      "box": [
+        115,
+        445,
+        722,
+        476
+      ]
+    },
+    {
+      "text": "• Studied principles of information management",
+      "score": 0.981497585773468,
+      "box": [
+        131,
+        475,
+        573,
+        499
+      ]
+    },
+    {
+      "text": "Completed coursework in cash flow analysis",
+      "score": 0.9898106455802917,
+      "box": [
+        133,
+        497,
+        558,
+        525
+      ]
+    }
+  ],
+  "seconds": 2.292595500126481,
+  "id": "57420",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

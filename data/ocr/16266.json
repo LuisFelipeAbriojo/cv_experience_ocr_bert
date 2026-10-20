@@ -1,0 +1,152 @@
+{
+  "lines": [
+    {
+      "text": "STEPHANIE KENT",
+      "score": 0.999493420124054,
+      "box": [
+        116,
+        90,
+        409,
+        122
+      ]
+    },
+    {
+      "text": "GA, USA | +1-660-502-9820 |stephanie.kent@example.com",
+      "score": 0.9744027256965637,
+      "box": [
+        118,
+        152,
+        677,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9991938471794128,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, Harmony Care Group, 2020.09—2023.01",
+      "score": 0.98935467004776,
+      "box": [
+        115,
+        287,
+        675,
+        319
+      ]
+    },
+    {
+      "text": "- Directed nursing process improvements",
+      "score": 0.9981992840766907,
+      "box": [
+        125,
+        313,
+        510,
+        343
+      ]
+    },
+    {
+      "text": "- Managed clinical workflow redesign",
+      "score": 0.9734327793121338,
+      "box": [
+        126,
+        339,
+        470,
+        368
+      ]
+    },
+    {
+      "text": "Registered Nurses, Helping Bridge Nursing, 2016.022018.06",
+      "score": 0.9967221021652222,
+      "box": [
+        116,
+        381,
+        690,
+        409
+      ]
+    },
+    {
+      "text": "- Monitored patient pain levels",
+      "score": 0.9906615614891052,
+      "box": [
+        125,
+        406,
+        410,
+        434
+      ]
+    },
+    {
+      "text": "- Administered prescribed medications",
+      "score": 0.9844582080841064,
+      "box": [
+        128,
+        432,
+        483,
+        458
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999344944953918,
+      "box": [
+        116,
+        494,
+        267,
+        521
+      ]
+    },
+    {
+      "text": "Master's, Nursing Foundations, Brookhaven University, 2006",
+      "score": 0.9994945526123047,
+      "box": [
+        116,
+        542,
+        678,
+        566
+      ]
+    },
+    {
+      "text": "Bachelor's, Health Information Management, Parkview University, 2004",
+      "score": 0.9988391995429993,
+      "box": [
+        116,
+        566,
+        777,
+        593
+      ]
+    },
+    {
+      "text": "• Completed coursework in health promotion",
+      "score": 0.9816406965255737,
+      "box": [
+        130,
+        593,
+        546,
+        617
+      ]
+    },
+    {
+      "text": "Studied fundamentals of conflict resolution basics",
+      "score": 0.9786403775215149,
+      "box": [
+        130,
+        614,
+        606,
+        643
+      ]
+    }
+  ],
+  "seconds": 2.8066642000339925,
+  "id": "16266",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

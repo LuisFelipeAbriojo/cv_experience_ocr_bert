@@ -1,0 +1,102 @@
+{
+  "lines": [
+    {
+      "text": "ANTHONY BROWN",
+      "score": 0.9978268146514893,
+      "box": [
+        117,
+        89,
+        422,
+        123
+      ]
+    },
+    {
+      "text": "WA, USA | +1-613-369-8501 | anthony.brown@example.com",
+      "score": 0.9777935743331909,
+      "box": [
+        116,
+        149,
+        682,
+        177
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9997195601463318,
+      "box": [
+        117,
+        243,
+        317,
+        270
+      ]
+    },
+    {
+      "text": "Construction Laborers, ClearTrack Construction, 2017.09—2020.03",
+      "score": 0.9959151744842529,
+      "box": [
+        118,
+        289,
+        733,
+        313
+      ]
+    },
+    {
+      "text": "- Secured site fencing",
+      "score": 0.9982097744941711,
+      "box": [
+        124,
+        313,
+        332,
+        342
+      ]
+    },
+    {
+      "text": "- Sorted building materials",
+      "score": 0.9828748106956482,
+      "box": [
+        127,
+        340,
+        372,
+        367
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999521970748901,
+      "box": [
+        116,
+        404,
+        268,
+        431
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Construction Engineering Technology, Meadowview High School, 2012",
+      "score": 0.9880587458610535,
+      "box": [
+        116,
+        446,
+        1034,
+        475
+      ]
+    },
+    {
+      "text": "Completed coursework in construction site signage",
+      "score": 0.9955582618713379,
+      "box": [
+        131,
+        472,
+        621,
+        501
+      ]
+    }
+  ],
+  "seconds": 2.057595900259912,
+  "id": "59524",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

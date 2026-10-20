@@ -1,0 +1,142 @@
+{
+  "lines": [
+    {
+      "text": "KAYLA MEADOWS",
+      "score": 0.9997837543487549,
+      "box": [
+        117,
+        90,
+        420,
+        121
+      ]
+    },
+    {
+      "text": "MI, USA | +1-601-213-2704 | kayla.meadows@example.com",
+      "score": 0.9834560751914978,
+      "box": [
+        115,
+        149,
+        679,
+        177
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9997460842132568,
+      "box": [
+        117,
+        243,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Registered Nurses, OpenWay Care Services, 2019.012021.01",
+      "score": 0.9857217669487,
+      "box": [
+        116,
+        288,
+        705,
+        318
+      ]
+    },
+    {
+      "text": "- Directed care coordination strategies",
+      "score": 0.9996508359909058,
+      "box": [
+        126,
+        314,
+        481,
+        342
+      ]
+    },
+    {
+      "text": "- Managed nursing unit operations",
+      "score": 0.9844938516616821,
+      "box": [
+        126,
+        339,
+        447,
+        368
+      ]
+    },
+    {
+      "text": "Registered Nurses, OpenLife Nursing Services, 2016.032018.03",
+      "score": 0.9954679012298584,
+      "box": [
+        116,
+        380,
+        724,
+        408
+      ]
+    },
+    {
+      "text": "- Performed blood glucose testing",
+      "score": 0.9884850382804871,
+      "box": [
+        126,
+        406,
+        442,
+        434
+      ]
+    },
+    {
+      "text": "- Assisted with patient mobility",
+      "score": 0.990283727645874,
+      "box": [
+        127,
+        430,
+        409,
+        459
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999002814292908,
+      "box": [
+        117,
+        494,
+        267,
+        521
+      ]
+    },
+    {
+      "text": "Associate's degree, Health Care Studies, Blue Ridge University, 2011",
+      "score": 0.9824373722076416,
+      "box": [
+        117,
+        540,
+        760,
+        567
+      ]
+    },
+    {
+      "text": "•Completed coursework in disaster nursing basics",
+      "score": 0.9704739451408386,
+      "box": [
+        130,
+        566,
+        602,
+        592
+      ]
+    },
+    {
+      "text": "•Studied fundamentals of respiratory nursing",
+      "score": 0.989384651184082,
+      "box": [
+        131,
+        589,
+        553,
+        619
+      ]
+    }
+  ],
+  "seconds": 2.7159765996038914,
+  "id": "26955",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

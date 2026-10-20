@@ -1,0 +1,202 @@
+{
+  "lines": [
+    {
+      "text": "BRITNEY OSBORNE",
+      "score": 0.9992703795433044,
+      "box": [
+        117,
+        89,
+        442,
+        122
+      ]
+    },
+    {
+      "text": "WA, USA | +1-914-358-1590 | britney.0sborne@example.com",
+      "score": 0.9819099307060242,
+      "box": [
+        115,
+        150,
+        689,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9990715980529785,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, CoreBooks Financial Group, 2019.02—2023.01",
+      "score": 0.9899048805236816,
+      "box": [
+        115,
+        288,
+        756,
+        316
+      ]
+    },
+    {
+      "text": "- Developed financial performance metrics",
+      "score": 0.9948579668998718,
+      "box": [
+        128,
+        315,
+        520,
+        342
+      ]
+    },
+    {
+      "text": "- Led financial forecasting initiatives",
+      "score": 0.9879820346832275,
+      "box": [
+        128,
+        339,
+        458,
+        368
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Precise Balance Advisors, 2015.022019.02",
+      "score": 0.9910340905189514,
+      "box": [
+        118,
+        383,
+        737,
+        407
+      ]
+    },
+    {
+      "text": "- Established accounting policies",
+      "score": 0.9973447322845459,
+      "box": [
+        125,
+        407,
+        433,
+        433
+      ]
+    },
+    {
+      "text": "- Established financial quality controls",
+      "score": 0.9824072122573853,
+      "box": [
+        127,
+        434,
+        476,
+        457
+      ]
+    },
+    {
+      "text": "Accountants Auditors, EverBalance Services, 2011.02—2015.02",
+      "score": 0.9947991967201233,
+      "box": [
+        117,
+        473,
+        704,
+        497
+      ]
+    },
+    {
+      "text": "- Reviewed audit workpapers",
+      "score": 0.998267650604248,
+      "box": [
+        126,
+        498,
+        400,
+        524
+      ]
+    },
+    {
+      "text": "- Reviewed journal entries",
+      "score": 0.9891228079795837,
+      "box": [
+        127,
+        522,
+        370,
+        549
+      ]
+    },
+    {
+      "text": "Accountants Auditors, ClearBooks Advisors, 2007.022011.02",
+      "score": 0.9996300935745239,
+      "box": [
+        115,
+        563,
+        695,
+        591
+      ]
+    },
+    {
+      "text": "- Updated general ledger records",
+      "score": 0.9983793497085571,
+      "box": [
+        128,
+        591,
+        436,
+        615
+      ]
+    },
+    {
+      "text": "- Assisted with budget tracking",
+      "score": 0.9996349215507507,
+      "box": [
+        128,
+        614,
+        413,
+        644
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999258518218994,
+      "box": [
+        117,
+        681,
+        266,
+        705
+      ]
+    },
+    {
+      "text": "Associate's degree, Cost Accounting, Shoreline University, 2007",
+      "score": 0.9879485964775085,
+      "box": [
+        118,
+        726,
+        711,
+        749
+      ]
+    },
+    {
+      "text": "•Completed coursework in compliance testing",
+      "score": 0.9725801348686218,
+      "box": [
+        132,
+        748,
+        563,
+        776
+      ]
+    },
+    {
+      "text": "•Studied principles of social responsibility reporting",
+      "score": 0.9777306914329529,
+      "box": [
+        132,
+        772,
+        610,
+        802
+      ]
+    }
+  ],
+  "seconds": 2.900187000166625,
+  "id": "57879",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

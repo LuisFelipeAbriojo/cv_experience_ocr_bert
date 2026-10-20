@@ -1,0 +1,162 @@
+{
+  "lines": [
+    {
+      "text": "COLBY DICKERSON",
+      "score": 0.9670867919921875,
+      "box": [
+        118,
+        91,
+        443,
+        121
+      ]
+    },
+    {
+      "text": "MS, USA | +1-729-939-9941 | colby.dickerson@example.com",
+      "score": 0.9943550229072571,
+      "box": [
+        115,
+        149,
+        688,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9990645051002502,
+      "box": [
+        118,
+        245,
+        314,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, Precision Build Co., 2020.06—2023.01",
+      "score": 0.9846473336219788,
+      "box": [
+        118,
+        290,
+        682,
+        314
+      ]
+    },
+    {
+      "text": "- Designed site logistics frameworks",
+      "score": 0.9961465001106262,
+      "box": [
+        125,
+        314,
+        462,
+        342
+      ]
+    },
+    {
+      "text": "- Developed long-term construction strategies",
+      "score": 0.9951894879341125,
+      "box": [
+        128,
+        341,
+        550,
+        368
+      ]
+    },
+    {
+      "text": "Construction Laborers, MasterBuild Services, 2017.102020.06",
+      "score": 0.9943602085113525,
+      "box": [
+        116,
+        380,
+        705,
+        408
+      ]
+    },
+    {
+      "text": "- Aligned structural components",
+      "score": 0.9968355894088745,
+      "box": [
+        125,
+        407,
+        424,
+        432
+      ]
+    },
+    {
+      "text": "- Reviewed installation quality",
+      "score": 0.9990809559822083,
+      "box": [
+        126,
+        430,
+        405,
+        459
+      ]
+    },
+    {
+      "text": "Construction Laborers, SolidCore Contractors, 2015.022017.10",
+      "score": 0.9978455901145935,
+      "box": [
+        117,
+        472,
+        714,
+        499
+      ]
+    },
+    {
+      "text": "- Dug trenches for utility lines",
+      "score": 0.9673168659210205,
+      "box": [
+        127,
+        498,
+        401,
+        525
+      ]
+    },
+    {
+      "text": "- Carried materials to designated work areas",
+      "score": 0.9880914092063904,
+      "box": [
+        127,
+        520,
+        541,
+        550
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999415278434753,
+      "box": [
+        118,
+        588,
+        266,
+        612
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Construction Field Operations, Oakridge High School, 2016",
+      "score": 0.9931229948997498,
+      "box": [
+        118,
+        633,
+        926,
+        657
+      ]
+    },
+    {
+      "text": "• Completed coursework in basic structural demolition",
+      "score": 0.9846215844154358,
+      "box": [
+        133,
+        658,
+        631,
+        682
+      ]
+    }
+  ],
+  "seconds": 2.7784378002397716,
+  "id": "29614",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

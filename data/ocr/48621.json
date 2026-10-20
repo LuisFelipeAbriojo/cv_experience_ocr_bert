@@ -1,0 +1,172 @@
+{
+  "lines": [
+    {
+      "text": "BROOKE CALLAHAN",
+      "score": 0.9998089075088501,
+      "box": [
+        117,
+        89,
+        458,
+        122
+      ]
+    },
+    {
+      "text": "TN, USA | +1-346-461-7299 | brooke.callahan@example.com",
+      "score": 0.9941469430923462,
+      "box": [
+        117,
+        149,
+        688,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9991812109947205,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Future Grove Academy, 2020.07-2023.01",
+      "score": 0.9841105341911316,
+      "box": [
+        116,
+        287,
+        851,
+        318
+      ]
+    },
+    {
+      "text": "- Designed systemic intervention models",
+      "score": 0.9842173457145691,
+      "box": [
+        127,
+        317,
+        504,
+        341
+      ]
+    },
+    {
+      "text": "- Led academic improvement programs",
+      "score": 0.973250687122345,
+      "box": [
+        128,
+        341,
+        492,
+        368
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Inspire Learning School, 2017.062019.12",
+      "score": 0.9905251264572144,
+      "box": [
+        117,
+        382,
+        859,
+        409
+      ]
+    },
+    {
+      "text": "- Developed progress monitoring tools",
+      "score": 0.9829567670822144,
+      "box": [
+        125,
+        406,
+        483,
+        435
+      ]
+    },
+    {
+      "text": "- Conducted curriculum reviews",
+      "score": 0.9996215105056763,
+      "box": [
+        126,
+        431,
+        422,
+        457
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Golden Meadow Academy, 2014.052016.12",
+      "score": 0.9929928183555603,
+      "box": [
+        117,
+        472,
+        884,
+        499
+      ]
+    },
+    {
+      "text": "- Implemented classroom seating plans",
+      "score": 0.9861875176429749,
+      "box": [
+        125,
+        496,
+        494,
+        526
+      ]
+    },
+    {
+      "text": "- Supported standardized testing sessions",
+      "score": 0.989956259727478,
+      "box": [
+        127,
+        520,
+        519,
+        551
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999216794967651,
+      "box": [
+        117,
+        587,
+        267,
+        614
+      ]
+    },
+    {
+      "text": "Bachelor's, Education and Development, Redfield University, 2006",
+      "score": 0.9835693836212158,
+      "box": [
+        118,
+        633,
+        731,
+        657
+      ]
+    },
+    {
+      "text": "•Studied fundamentals of instructional consistency",
+      "score": 0.9824787974357605,
+      "box": [
+        129,
+        655,
+        607,
+        685
+      ]
+    },
+    {
+      "text": "•Completed coursework in lesson reflection practices",
+      "score": 0.9659833908081055,
+      "box": [
+        132,
+        680,
+        630,
+        710
+      ]
+    }
+  ],
+  "seconds": 2.7823095000348985,
+  "id": "48621",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

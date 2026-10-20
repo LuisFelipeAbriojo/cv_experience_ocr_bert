@@ -1,0 +1,162 @@
+{
+  "lines": [
+    {
+      "text": "MARCO HUGHES",
+      "score": 0.99961918592453,
+      "box": [
+        117,
+        91,
+        396,
+        122
+      ]
+    },
+    {
+      "text": "MI, USA | +1-692-933-3839 | marco.hughes@example.com",
+      "score": 0.9832150340080261,
+      "box": [
+        116,
+        150,
+        666,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9986692070960999,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, AnchorPoint Builders, 2020.06—2023.01",
+      "score": 0.9865381717681885,
+      "box": [
+        118,
+        290,
+        701,
+        314
+      ]
+    },
+    {
+      "text": "- Directed equipment operations",
+      "score": 0.996878445148468,
+      "box": [
+        125,
+        314,
+        427,
+        342
+      ]
+    },
+    {
+      "text": "- Led operational planning",
+      "score": 0.9969404935836792,
+      "box": [
+        127,
+        339,
+        371,
+        369
+      ]
+    },
+    {
+      "text": "Construction Laborers, SolidCore Contractors, 2017.10—2020.06",
+      "score": 0.9900261163711548,
+      "box": [
+        116,
+        380,
+        714,
+        408
+      ]
+    },
+    {
+      "text": "- Prepared structural joints",
+      "score": 0.9855933785438538,
+      "box": [
+        126,
+        409,
+        374,
+        432
+      ]
+    },
+    {
+      "text": "- Installed mechanical supports",
+      "score": 0.9788215160369873,
+      "box": [
+        127,
+        430,
+        417,
+        458
+      ]
+    },
+    {
+      "text": "Construction Laborers, WorkTrack Builders, 2015.02—2017.10",
+      "score": 0.992608904838562,
+      "box": [
+        117,
+        471,
+        690,
+        497
+      ]
+    },
+    {
+      "text": "- Mixed concrete and mortar",
+      "score": 0.9994734525680542,
+      "box": [
+        126,
+        497,
+        392,
+        522
+      ]
+    },
+    {
+      "text": "- Set up workstations for crews",
+      "score": 0.9929553270339966,
+      "box": [
+        126,
+        520,
+        416,
+        550
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9998744130134583,
+      "box": [
+        117,
+        586,
+        267,
+        613
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Construction Design, Stone Valley High School, 2014",
+      "score": 0.9993996620178223,
+      "box": [
+        117,
+        632,
+        871,
+        659
+      ]
+    },
+    {
+      "text": "•Studied principles of structural bracing",
+      "score": 0.9807737469673157,
+      "box": [
+        129,
+        656,
+        502,
+        685
+      ]
+    }
+  ],
+  "seconds": 2.4771998999640346,
+  "id": "26747",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

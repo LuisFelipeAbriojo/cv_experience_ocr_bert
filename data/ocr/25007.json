@@ -1,0 +1,112 @@
+{
+  "lines": [
+    {
+      "text": "CIARA NIELSEN",
+      "score": 0.9997996091842651,
+      "box": [
+        118,
+        91,
+        379,
+        122
+      ]
+    },
+    {
+      "text": "MD, USA | +1-559-568-4045 | ciara.nielsen@example.com",
+      "score": 0.9812244176864624,
+      "box": [
+        115,
+        149,
+        662,
+        177
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9997329711914062,
+      "box": [
+        117,
+        243,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Caring Steps School, 2020.05—2023.01",
+      "score": 0.9918981194496155,
+      "box": [
+        117,
+        289,
+        827,
+        316
+      ]
+    },
+    {
+      "text": "- Distributed instructional handouts",
+      "score": 0.9816678166389465,
+      "box": [
+        126,
+        314,
+        451,
+        340
+      ]
+    },
+    {
+      "text": "- Administered quizzes and short assessments",
+      "score": 0.998818576335907,
+      "box": [
+        129,
+        341,
+        561,
+        365
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999580383300781,
+      "box": [
+        116,
+        404,
+        268,
+        431
+      ]
+    },
+    {
+      "text": "Bachelor's, Education Preparation, Brightfield Ridge University, 2020",
+      "score": 0.9913927316665649,
+      "box": [
+        115,
+        446,
+        752,
+        475
+      ]
+    },
+    {
+      "text": "Completed coursework in academic content planning",
+      "score": 0.984294056892395,
+      "box": [
+        131,
+        472,
+        638,
+        501
+      ]
+    },
+    {
+      "text": "• Completed coursework in instructional evaluation",
+      "score": 0.9819894433021545,
+      "box": [
+        133,
+        499,
+        602,
+        523
+      ]
+    }
+  ],
+  "seconds": 2.318623300176114,
+  "id": "25007",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

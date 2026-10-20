@@ -1,0 +1,7 @@
+{
+  "train_seconds": 150.63565600011498,
+  "infer_seconds_per_cv": 0.021269733666752777,
+  "encoder": "BAAI/bge-small-en-v1.5",
+  "best_alpha": 0.03,
+  "val_mae": 1.2293823956213887
+}

@@ -1,0 +1,142 @@
+{
+  "lines": [
+    {
+      "text": "GABRIELA WEBER",
+      "score": 0.9984434247016907,
+      "box": [
+        117,
+        90,
+        426,
+        122
+      ]
+    },
+    {
+      "text": "CA, USA | +1-607-615-5335 | gabriela.weber@example.com",
+      "score": 0.984737753868103,
+      "box": [
+        118,
+        152,
+        677,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.99919193983078,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, Caring Path Nursing, 2021.032023.01",
+      "score": 0.9925364851951599,
+      "box": [
+        117,
+        289,
+        662,
+        316
+      ]
+    },
+    {
+      "text": "- Led clinical governance efforts",
+      "score": 0.9860860705375671,
+      "box": [
+        127,
+        314,
+        426,
+        342
+      ]
+    },
+    {
+      "text": "- Led nursing workflow optimization",
+      "score": 0.9872214198112488,
+      "box": [
+        129,
+        342,
+        455,
+        366
+      ]
+    },
+    {
+      "text": "Registered Nurses, Caring Life Nursing, 2019.052021.03",
+      "score": 0.9816996455192566,
+      "box": [
+        115,
+        379,
+        656,
+        410
+      ]
+    },
+    {
+      "text": "- Provided post-procedure care",
+      "score": 0.999667763710022,
+      "box": [
+        126,
+        407,
+        418,
+        433
+      ]
+    },
+    {
+      "text": "- Conducted basic patient assessments",
+      "score": 0.9693185687065125,
+      "box": [
+        128,
+        431,
+        492,
+        458
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.99992835521698,
+      "box": [
+        116,
+        494,
+        266,
+        521
+      ]
+    },
+    {
+      "text": "Bachelor's, Health Sciences, Riverhaven University, 2019",
+      "score": 0.9917643666267395,
+      "box": [
+        115,
+        538,
+        649,
+        567
+      ]
+    },
+    {
+      "text": "Completed coursework in patient counseling",
+      "score": 0.9813175201416016,
+      "box": [
+        130,
+        564,
+        558,
+        594
+      ]
+    },
+    {
+      "text": "• Studied principles of pain management",
+      "score": 0.9823014736175537,
+      "box": [
+        132,
+        591,
+        509,
+        618
+      ]
+    }
+  ],
+  "seconds": 2.1717288000509143,
+  "id": "04223",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

@@ -1,0 +1,172 @@
+{
+  "lines": [
+    {
+      "text": "NATHAN PATTERSON",
+      "score": 0.9997878074645996,
+      "box": [
+        118,
+        93,
+        472,
+        120
+      ]
+    },
+    {
+      "text": "GA, USA | +1-429-744-6829 | nathan.patterson@example.com",
+      "score": 0.992764949798584,
+      "box": [
+        116,
+        150,
+        698,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9990995526313782,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, BrightBridge Nursing Services, 2019.12—2023.01",
+      "score": 0.9785655736923218,
+      "box": [
+        115,
+        287,
+        754,
+        318
+      ]
+    },
+    {
+      "text": "- Established care delivery standards",
+      "score": 0.9896932244300842,
+      "box": [
+        126,
+        314,
+        472,
+        342
+      ]
+    },
+    {
+      "text": "- Led patient experience improvement programs",
+      "score": 0.9808385372161865,
+      "box": [
+        127,
+        340,
+        574,
+        369
+      ]
+    },
+    {
+      "text": "Registered Nurses, SunWell Nursing Services, 2016.112019.12",
+      "score": 0.9983982443809509,
+      "box": [
+        116,
+        381,
+        719,
+        409
+      ]
+    },
+    {
+      "text": "- Monitored patient compliance",
+      "score": 0.9912148714065552,
+      "box": [
+        125,
+        406,
+        416,
+        435
+      ]
+    },
+    {
+      "text": "- Implemented patient education programs",
+      "score": 0.9949820637702942,
+      "box": [
+        128,
+        432,
+        522,
+        459
+      ]
+    },
+    {
+      "text": "Registered Nurses, Compassion Bridge Care, 2013.10—2016.11",
+      "score": 0.9891270995140076,
+      "box": [
+        116,
+        471,
+        708,
+        499
+      ]
+    },
+    {
+      "text": "- Recorded nursing notes",
+      "score": 0.9657263159751892,
+      "box": [
+        125,
+        497,
+        366,
+        526
+      ]
+    },
+    {
+      "text": "- Recorded patient weight and height",
+      "score": 0.9826544523239136,
+      "box": [
+        127,
+        521,
+        471,
+        551
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9998828172683716,
+      "box": [
+        117,
+        587,
+        267,
+        614
+      ]
+    },
+    {
+      "text": "Bachelor's, Care Management, Goldenwood University, 2011",
+      "score": 0.9930324554443359,
+      "box": [
+        117,
+        632,
+        682,
+        659
+      ]
+    },
+    {
+      "text": "• Completed coursework in palliative care basics",
+      "score": 0.9767788052558899,
+      "box": [
+        131,
+        659,
+        582,
+        683
+      ]
+    },
+    {
+      "text": "•Studied fundamentals of patient advocacy",
+      "score": 0.9868174195289612,
+      "box": [
+        130,
+        680,
+        537,
+        711
+      ]
+    }
+  ],
+  "seconds": 2.514598499983549,
+  "id": "14837",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

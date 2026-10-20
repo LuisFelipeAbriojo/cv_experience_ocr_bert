@@ -1,0 +1,142 @@
+{
+  "lines": [
+    {
+      "text": "BRANDY MATHEWS",
+      "score": 0.9995271563529968,
+      "box": [
+        117,
+        89,
+        442,
+        122
+      ]
+    },
+    {
+      "text": "GA, USA | +1-917-885-5235 | brandy.mathews@example.com",
+      "score": 0.975944459438324,
+      "box": [
+        118,
+        152,
+        695,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9983782768249512,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Caring Hands School, 2020.03—2023.01",
+      "score": 0.992354154586792,
+      "box": [
+        116,
+        287,
+        835,
+        317
+      ]
+    },
+    {
+      "text": "- Developed teacher training modules",
+      "score": 0.9852349758148193,
+      "box": [
+        126,
+        315,
+        476,
+        341
+      ]
+    },
+    {
+      "text": "- Developed district-aligned lesson frameworks",
+      "score": 0.9976529479026794,
+      "box": [
+        127,
+        339,
+        562,
+        367
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Open Grove School, 2017.042020.03",
+      "score": 0.9946545958518982,
+      "box": [
+        116,
+        381,
+        823,
+        411
+      ]
+    },
+    {
+      "text": "- Supported art instruction",
+      "score": 0.98050856590271,
+      "box": [
+        128,
+        410,
+        370,
+        431
+      ]
+    },
+    {
+      "text": "- Conducted reading practice sessions",
+      "score": 0.997373104095459,
+      "box": [
+        127,
+        430,
+        484,
+        459
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999346137046814,
+      "box": [
+        117,
+        494,
+        268,
+        521
+      ]
+    },
+    {
+      "text": "Bachelor's, General Academic Studies, Amber Hills University, 2019",
+      "score": 0.9844227433204651,
+      "box": [
+        115,
+        539,
+        747,
+        567
+      ]
+    },
+    {
+      "text": "• Completed coursework in educational technology basics",
+      "score": 0.9981572031974792,
+      "box": [
+        132,
+        566,
+        667,
+        592
+      ]
+    },
+    {
+      "text": "• Completed coursework in instructional evaluation",
+      "score": 0.9892047643661499,
+      "box": [
+        133,
+        592,
+        602,
+        616
+      ]
+    }
+  ],
+  "seconds": 2.4448412000201643,
+  "id": "15960",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

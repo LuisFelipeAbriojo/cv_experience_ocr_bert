@@ -1,0 +1,112 @@
+{
+  "lines": [
+    {
+      "text": "JOSHUA PACHECO",
+      "score": 0.9759137034416199,
+      "box": [
+        116,
+        91,
+        433,
+        122
+      ]
+    },
+    {
+      "text": "CO, USA | +1-581-905-2818 | joshua.pacheco@example.com",
+      "score": 0.9891727566719055,
+      "box": [
+        118,
+        152,
+        688,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9997676014900208,
+      "box": [
+        117,
+        243,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Software Developers, Datagrid Labs, 2020.122023.01",
+      "score": 0.9897422194480896,
+      "box": [
+        116,
+        289,
+        625,
+        316
+      ]
+    },
+    {
+      "text": "- Implemented basic authentication logic",
+      "score": 0.9833342432975769,
+      "box": [
+        128,
+        314,
+        501,
+        341
+      ]
+    },
+    {
+      "text": "- Logged and tracked software defects",
+      "score": 0.9945455193519592,
+      "box": [
+        129,
+        340,
+        484,
+        364
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999324083328247,
+      "box": [
+        116,
+        404,
+        268,
+        431
+      ]
+    },
+    {
+      "text": "Bachelor's, Parkview University, 2023",
+      "score": 0.9965720176696777,
+      "box": [
+        115,
+        446,
+        466,
+        474
+      ]
+    },
+    {
+      "text": "•Studied fundamentals of software testing",
+      "score": 0.9690757393836975,
+      "box": [
+        129,
+        472,
+        526,
+        501
+      ]
+    },
+    {
+      "text": "Completed coursework in cloud computing basics",
+      "score": 0.9973118901252747,
+      "box": [
+        132,
+        497,
+        607,
+        525
+      ]
+    }
+  ],
+  "seconds": 1.9046642002649605,
+  "id": "10415",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

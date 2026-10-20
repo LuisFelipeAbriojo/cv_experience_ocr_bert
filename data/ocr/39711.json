@@ -1,0 +1,182 @@
+{
+  "lines": [
+    {
+      "text": "DRITON FIELDS",
+      "score": 0.9997877478599548,
+      "box": [
+        118,
+        91,
+        373,
+        122
+      ]
+    },
+    {
+      "text": "NC, USA | +1-748-312-9088 | driton.fields@example.com",
+      "score": 0.9736945629119873,
+      "box": [
+        116,
+        150,
+        647,
+        177
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.998914897441864,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, CoreBooks Financial, 2020.12—2023.01",
+      "score": 0.991249680519104,
+      "box": [
+        115,
+        288,
+        692,
+        316
+      ]
+    },
+    {
+      "text": "- Established financial quality controls",
+      "score": 0.9961339235305786,
+      "box": [
+        127,
+        315,
+        477,
+        341
+      ]
+    },
+    {
+      "text": "- Developed regulatory reporting strategies",
+      "score": 0.9823519587516785,
+      "box": [
+        127,
+        340,
+        525,
+        368
+      ]
+    },
+    {
+      "text": "Accountants Auditors, FairBalance Financial Group, 2018.112020.12",
+      "score": 0.9865989089012146,
+      "box": [
+        117,
+        382,
+        766,
+        409
+      ]
+    },
+    {
+      "text": "- Prepared audit reports",
+      "score": 0.9987704157829285,
+      "box": [
+        125,
+        407,
+        350,
+        434
+      ]
+    },
+    {
+      "text": "- Managed fixed asset accounting",
+      "score": 0.9832049608230591,
+      "box": [
+        127,
+        432,
+        441,
+        458
+      ]
+    },
+    {
+      "text": "Accountants Auditors, ClearCount Group, 2016.102018.11",
+      "score": 0.9896331429481506,
+      "box": [
+        116,
+        471,
+        668,
+        499
+      ]
+    },
+    {
+      "text": "- Prepared trial balances",
+      "score": 0.9860031008720398,
+      "box": [
+        127,
+        499,
+        358,
+        523
+      ]
+    },
+    {
+      "text": "- Assisted with tax form preparation",
+      "score": 0.9983521699905396,
+      "box": [
+        127,
+        520,
+        458,
+        551
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999076128005981,
+      "box": [
+        117,
+        587,
+        267,
+        614
+      ]
+    },
+    {
+      "text": "Master's, Business Studies, Ridgeway University, 2016",
+      "score": 0.990140974521637,
+      "box": [
+        117,
+        633,
+        626,
+        657
+      ]
+    },
+    {
+      "text": "Bachelor's, International Business, Elmwood Ridge University, 2014",
+      "score": 0.9911094307899475,
+      "box": [
+        116,
+        657,
+        746,
+        684
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of audit documentation",
+      "score": 0.9968255162239075,
+      "box": [
+        132,
+        684,
+        568,
+        707
+      ]
+    },
+    {
+      "text": "Completed coursework in financial disclosure",
+      "score": 0.9992876052856445,
+      "box": [
+        132,
+        705,
+        567,
+        734
+      ]
+    }
+  ],
+  "seconds": 2.7559086000546813,
+  "id": "39711",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

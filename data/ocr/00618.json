@@ -1,0 +1,112 @@
+{
+  "lines": [
+    {
+      "text": "LUCA HARDING",
+      "score": 0.9995653033256531,
+      "box": [
+        118,
+        91,
+        375,
+        122
+      ]
+    },
+    {
+      "text": "AL, USA | +1-811-369-6934 | luca.harding@example.com",
+      "score": 0.9904483556747437,
+      "box": [
+        118,
+        152,
+        650,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9996809363365173,
+      "box": [
+        117,
+        243,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Future Minds School, 2020.08—2022.02",
+      "score": 0.9906230568885803,
+      "box": [
+        118,
+        290,
+        829,
+        314
+      ]
+    },
+    {
+      "text": "- Reviewed curriculum content",
+      "score": 0.9989017844200134,
+      "box": [
+        125,
+        314,
+        412,
+        339
+      ]
+    },
+    {
+      "text": "- Reviewed homework assignments",
+      "score": 0.9882952570915222,
+      "box": [
+        126,
+        339,
+        457,
+        366
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999572038650513,
+      "box": [
+        116,
+        404,
+        268,
+        431
+      ]
+    },
+    {
+      "text": "Associate's degree, Teaching Studies, Northway University, 2009",
+      "score": 0.9949645400047302,
+      "box": [
+        117,
+        448,
+        721,
+        475
+      ]
+    },
+    {
+      "text": "• Completed coursework in foundational teaching practices",
+      "score": 0.9857446551322937,
+      "box": [
+        132,
+        473,
+        676,
+        499
+      ]
+    },
+    {
+      "text": "• Completed coursework in academic instruction methods",
+      "score": 0.9847903251647949,
+      "box": [
+        134,
+        499,
+        665,
+        523
+      ]
+    }
+  ],
+  "seconds": 2.3700445001013577,
+  "id": "00618",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

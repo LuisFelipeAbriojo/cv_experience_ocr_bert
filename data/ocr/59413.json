@@ -1,0 +1,212 @@
+{
+  "lines": [
+    {
+      "text": "CLAIRE ROWE",
+      "score": 0.9962424635887146,
+      "box": [
+        118,
+        91,
+        356,
+        122
+      ]
+    },
+    {
+      "text": "WA, USA | +1-527-260-5509 | claire.rowe@example.com",
+      "score": 0.9913941025733948,
+      "box": [
+        116,
+        150,
+        645,
+        177
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9968201518058777,
+      "box": [
+        117,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, Harmony Nursing Services, 2018.112023.01",
+      "score": 0.9967288374900818,
+      "box": [
+        115,
+        287,
+        724,
+        319
+      ]
+    },
+    {
+      "text": "- Directed clinical quality improvement initiatives",
+      "score": 0.9868047833442688,
+      "box": [
+        125,
+        313,
+        574,
+        343
+      ]
+    },
+    {
+      "text": "- Designed clinical documentation standards",
+      "score": 0.9767913818359375,
+      "box": [
+        126,
+        339,
+        539,
+        367
+      ]
+    },
+    {
+      "text": "Registered Nurses, SunBridge Nursing, 2014.092018.11",
+      "score": 0.9879736304283142,
+      "box": [
+        116,
+        381,
+        650,
+        410
+      ]
+    },
+    {
+      "text": "- Directed clinical quality improvement initiatives",
+      "score": 0.9932424426078796,
+      "box": [
+        125,
+        407,
+        573,
+        434
+      ]
+    },
+    {
+      "text": "- Directed nursing education initiatives",
+      "score": 0.9995740652084351,
+      "box": [
+        126,
+        432,
+        481,
+        458
+      ]
+    },
+    {
+      "text": "Registered Nurses, Harmony Care Center, 2010.072014.09",
+      "score": 0.9920427799224854,
+      "box": [
+        118,
+        474,
+        679,
+        498
+      ]
+    },
+    {
+      "text": "- Coordinated patient discharge planning",
+      "score": 0.9851890802383423,
+      "box": [
+        126,
+        497,
+        506,
+        527
+      ]
+    },
+    {
+      "text": "- Reviewed diagnostic imaging results",
+      "score": 0.9830395579338074,
+      "box": [
+        127,
+        521,
+        479,
+        550
+      ]
+    },
+    {
+      "text": "Registered Nurses, SunLife Care Group, 2006.042010.07",
+      "score": 0.9978893995285034,
+      "box": [
+        117,
+        565,
+        662,
+        592
+      ]
+    },
+    {
+      "text": "- Performed blood glucose testing",
+      "score": 0.9937334656715393,
+      "box": [
+        126,
+        589,
+        443,
+        618
+      ]
+    },
+    {
+      "text": "- Checked medication dosages",
+      "score": 0.9736778140068054,
+      "box": [
+        126,
+        614,
+        417,
+        643
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999129772186279,
+      "box": [
+        117,
+        681,
+        266,
+        705
+      ]
+    },
+    {
+      "text": "Master's, Patient Care, Cedarview University, 2010",
+      "score": 0.986808180809021,
+      "box": [
+        115,
+        724,
+        591,
+        749
+      ]
+    },
+    {
+      "text": "Bachelor's, Allied Health, Westview University, 2008",
+      "score": 0.9841029047966003,
+      "box": [
+        117,
+        750,
+        600,
+        774
+      ]
+    },
+    {
+      "text": "• Completed coursework in nursing standards of practice",
+      "score": 0.9882378578186035,
+      "box": [
+        131,
+        775,
+        656,
+        799
+      ]
+    },
+    {
+      "text": "Completed coursework in healthcare quality improvement",
+      "score": 0.9943271279335022,
+      "box": [
+        131,
+        798,
+        680,
+        826
+      ]
+    }
+  ],
+  "seconds": 9.52164960000664,
+  "id": "59413",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

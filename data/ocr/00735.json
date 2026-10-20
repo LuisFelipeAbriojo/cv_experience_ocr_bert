@@ -1,0 +1,172 @@
+{
+  "lines": [
+    {
+      "text": "CHAYA SHAW",
+      "score": 0.9997761845588684,
+      "box": [
+        118,
+        91,
+        348,
+        122
+      ]
+    },
+    {
+      "text": "AL, USA | +1-433-752-6517 | chaya.shaw@example.com",
+      "score": 0.9934262633323669,
+      "box": [
+        118,
+        152,
+        646,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.996690034866333,
+      "box": [
+        117,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, WellBridge Medical Group, 2020.09—2023.01",
+      "score": 0.9889722466468811,
+      "box": [
+        116,
+        288,
+        717,
+        316
+      ]
+    },
+    {
+      "text": "- Directed nursing education initiatives",
+      "score": 0.9960576891899109,
+      "box": [
+        125,
+        313,
+        483,
+        343
+      ]
+    },
+    {
+      "text": "- Implemented clinical decision support systems",
+      "score": 0.9841219186782837,
+      "box": [
+        126,
+        338,
+        572,
+        369
+      ]
+    },
+    {
+      "text": "Registered Nurses, LifePath Health Services, 2018.052020.09",
+      "score": 0.9978860020637512,
+      "box": [
+        118,
+        383,
+        703,
+        407
+      ]
+    },
+    {
+      "text": "- Monitored infusion pump settings",
+      "score": 0.977361798286438,
+      "box": [
+        125,
+        407,
+        449,
+        434
+      ]
+    },
+    {
+      "text": "- Assisted with emergency interventions",
+      "score": 0.9980238676071167,
+      "box": [
+        127,
+        432,
+        496,
+        457
+      ]
+    },
+    {
+      "text": "Registered Nurses, OpenPath Care Services, 2015.122018.05",
+      "score": 0.9905253052711487,
+      "box": [
+        116,
+        471,
+        707,
+        499
+      ]
+    },
+    {
+      "text": "- Checked medication dosages",
+      "score": 0.9809574484825134,
+      "box": [
+        127,
+        497,
+        417,
+        524
+      ]
+    },
+    {
+      "text": "- Assisted with specimen labeling",
+      "score": 0.9957705140113831,
+      "box": [
+        127,
+        520,
+        438,
+        551
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999520778656006,
+      "box": [
+        118,
+        588,
+        266,
+        612
+      ]
+    },
+    {
+      "text": "Bachelor's, Rehabilitation Sciences, Cedarview University, 2018",
+      "score": 0.9978773593902588,
+      "box": [
+        118,
+        633,
+        708,
+        657
+      ]
+    },
+    {
+      "text": "• Studied principles of fall prevention",
+      "score": 0.9727119207382202,
+      "box": [
+        130,
+        659,
+        473,
+        683
+      ]
+    },
+    {
+      "text": "•Studied fundamentals of surgical nursing",
+      "score": 0.9839205145835876,
+      "box": [
+        129,
+        680,
+        525,
+        710
+      ]
+    }
+  ],
+  "seconds": 2.7457409002818167,
+  "id": "00735",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

@@ -1,0 +1,202 @@
+{
+  "lines": [
+    {
+      "text": "LILY EVERETT",
+      "score": 0.9994472861289978,
+      "box": [
+        116,
+        89,
+        354,
+        122
+      ]
+    },
+    {
+      "text": "IN, USA | +1-804-636-6034 | lily.everett@example.com",
+      "score": 0.9798033833503723,
+      "box": [
+        117,
+        151,
+        626,
+        177
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9990952610969543,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Integrity Books Financial Group, 2019.11-2023.01",
+      "score": 0.9821187853813171,
+      "box": [
+        114,
+        287,
+        791,
+        318
+      ]
+    },
+    {
+      "text": "- Designed financial oversight systems",
+      "score": 0.9869135022163391,
+      "box": [
+        125,
+        314,
+        487,
+        343
+      ]
+    },
+    {
+      "text": "- Established financial data governance",
+      "score": 0.9929936528205872,
+      "box": [
+        126,
+        338,
+        494,
+        368
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Balanced Path Financial, 2016.09—2019.11",
+      "score": 0.9911490082740784,
+      "box": [
+        118,
+        383,
+        723,
+        407
+      ]
+    },
+    {
+      "text": "- Designed financial documentation standards",
+      "score": 0.998634397983551,
+      "box": [
+        126,
+        408,
+        552,
+        433
+      ]
+    },
+    {
+      "text": "- Designed financial policy frameworks",
+      "score": 0.9773808717727661,
+      "box": [
+        128,
+        432,
+        484,
+        457
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Balanced Path Services, 2013.072016.09",
+      "score": 0.9957937598228455,
+      "box": [
+        117,
+        472,
+        722,
+        497
+      ]
+    },
+    {
+      "text": "- Prepared consolidation entries",
+      "score": 0.9858090877532959,
+      "box": [
+        126,
+        498,
+        425,
+        524
+      ]
+    },
+    {
+      "text": "- Reviewed revenue forecasts",
+      "score": 0.9816080331802368,
+      "box": [
+        127,
+        522,
+        405,
+        548
+      ]
+    },
+    {
+      "text": "Accountants Auditors, ClearView Accounting, 2010.052013.07",
+      "score": 0.9950289726257324,
+      "box": [
+        117,
+        566,
+        703,
+        590
+      ]
+    },
+    {
+      "text": "- Reviewed vendor payments",
+      "score": 0.9928120374679565,
+      "box": [
+        126,
+        590,
+        401,
+        616
+      ]
+    },
+    {
+      "text": "- Performed data validation checks",
+      "score": 0.9792546629905701,
+      "box": [
+        126,
+        613,
+        452,
+        642
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999271035194397,
+      "box": [
+        117,
+        681,
+        266,
+        705
+      ]
+    },
+    {
+      "text": "Bachelor's, Strategic Management, Pinewood University, 2009",
+      "score": 0.9875573515892029,
+      "box": [
+        115,
+        723,
+        695,
+        750
+      ]
+    },
+    {
+      "text": "• Completed coursework in business mathematics",
+      "score": 0.9911167025566101,
+      "box": [
+        134,
+        751,
+        597,
+        775
+      ]
+    },
+    {
+      "text": "Completed coursework in expense cycle management",
+      "score": 0.9750277996063232,
+      "box": [
+        131,
+        771,
+        651,
+        802
+      ]
+    }
+  ],
+  "seconds": 3.349724099971354,
+  "id": "19713",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

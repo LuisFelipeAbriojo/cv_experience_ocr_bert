@@ -1,0 +1,182 @@
+{
+  "lines": [
+    {
+      "text": "ALICIA FLEMING",
+      "score": 0.999865710735321,
+      "box": [
+        118,
+        91,
+        388,
+        122
+      ]
+    },
+    {
+      "text": "IL, USA | +1-688-578-2132 | alicia.fleming@example.com",
+      "score": 0.9848393201828003,
+      "box": [
+        116,
+        150,
+        649,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.999011754989624,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Reliable Balance Co., 2020.09—2023.01",
+      "score": 0.995168924331665,
+      "box": [
+        115,
+        288,
+        694,
+        316
+      ]
+    },
+    {
+      "text": "- Developed accounting innovation plans",
+      "score": 0.9904643297195435,
+      "box": [
+        127,
+        314,
+        506,
+        343
+      ]
+    },
+    {
+      "text": "- Designed financial policy frameworks",
+      "score": 0.9850893616676331,
+      "box": [
+        128,
+        341,
+        484,
+        367
+      ]
+    },
+    {
+      "text": "Accountants Auditors, CoreLedger Advisors, 2018.052020.09",
+      "score": 0.9992215633392334,
+      "box": [
+        118,
+        383,
+        696,
+        407
+      ]
+    },
+    {
+      "text": "- Prepared cost allocation models",
+      "score": 0.9794558882713318,
+      "box": [
+        126,
+        409,
+        440,
+        432
+      ]
+    },
+    {
+      "text": "- Developed audit plans",
+      "score": 0.9782824516296387,
+      "box": [
+        126,
+        431,
+        350,
+        461
+      ]
+    },
+    {
+      "text": "Accountants Auditors, EverTrust Accounting, 2016.012018.05",
+      "score": 0.9940306544303894,
+      "box": [
+        118,
+        473,
+        699,
+        497
+      ]
+    },
+    {
+      "text": "- Reconciled bank statements",
+      "score": 0.981521487236023,
+      "box": [
+        126,
+        498,
+        405,
+        523
+      ]
+    },
+    {
+      "text": "- Tracked budget expenditures",
+      "score": 0.9827331304550171,
+      "box": [
+        127,
+        521,
+        413,
+        551
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999871015548706,
+      "box": [
+        117,
+        587,
+        267,
+        614
+      ]
+    },
+    {
+      "text": "Master's, Business Technology, Fairfield University, 2018",
+      "score": 0.9968850612640381,
+      "box": [
+        115,
+        631,
+        648,
+        659
+      ]
+    },
+    {
+      "text": "Bachelor's, Information Systems, Willowbrook University, 2016",
+      "score": 0.9810978174209595,
+      "box": [
+        115,
+        656,
+        696,
+        684
+      ]
+    },
+    {
+      "text": "• Completed coursework in financial data interpretation",
+      "score": 0.9830332398414612,
+      "box": [
+        134,
+        684,
+        640,
+        708
+      ]
+    },
+    {
+      "text": "Completed coursework in accounting case analysis",
+      "score": 0.9746648669242859,
+      "box": [
+        131,
+        705,
+        623,
+        738
+      ]
+    }
+  ],
+  "seconds": 2.573282599914819,
+  "id": "18457",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

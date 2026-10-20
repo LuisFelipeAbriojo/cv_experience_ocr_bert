@@ -1,0 +1,202 @@
+{
+  "lines": [
+    {
+      "text": "DAVID ROBINSON",
+      "score": 0.9993054270744324,
+      "box": [
+        117,
+        91,
+        411,
+        121
+      ]
+    },
+    {
+      "text": "WV, USA | +1-379-994-5209 | david.robinson@example.com",
+      "score": 0.9852560758590698,
+      "box": [
+        117,
+        152,
+        680,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9987471699714661,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, ClearFrame Construction, 2020.05—2023.01",
+      "score": 0.9909889698028564,
+      "box": [
+        118,
+        290,
+        739,
+        314
+      ]
+    },
+    {
+      "text": "- Reviewed material quality standards",
+      "score": 0.9993059039115906,
+      "box": [
+        125,
+        314,
+        477,
+        342
+      ]
+    },
+    {
+      "text": "- Directed site optimization initiatives",
+      "score": 0.9983221888542175,
+      "box": [
+        128,
+        340,
+        466,
+        368
+      ]
+    },
+    {
+      "text": "Construction Laborers, Allied Structures, 2017.092020.05",
+      "score": 0.9970034956932068,
+      "box": [
+        118,
+        383,
+        660,
+        407
+      ]
+    },
+    {
+      "text": "- Implemented workflow optimization",
+      "score": 0.9918628334999084,
+      "box": [
+        126,
+        408,
+        467,
+        433
+      ]
+    },
+    {
+      "text": "- Developed site performance metrics",
+      "score": 0.9980376362800598,
+      "box": [
+        128,
+        432,
+        475,
+        458
+      ]
+    },
+    {
+      "text": "Construction Laborers, TrueBuild Co., 2015.01—2017.09",
+      "score": 0.9802283048629761,
+      "box": [
+        117,
+        472,
+        636,
+        497
+      ]
+    },
+    {
+      "text": "- Installed drainage systems",
+      "score": 0.9894109964370728,
+      "box": [
+        127,
+        500,
+        390,
+        524
+      ]
+    },
+    {
+      "text": "- Installed plumbing fixtures",
+      "score": 0.9925126433372498,
+      "box": [
+        128,
+        522,
+        383,
+        550
+      ]
+    },
+    {
+      "text": "Construction Laborers, SolidBuild Contractors, 2010.05—2013.01",
+      "score": 0.9811609983444214,
+      "box": [
+        118,
+        566,
+        713,
+        590
+      ]
+    },
+    {
+      "text": "- Installed simple fixtures",
+      "score": 0.9939990043640137,
+      "box": [
+        126,
+        591,
+        360,
+        616
+      ]
+    },
+    {
+      "text": "- Handled power tools under supervision",
+      "score": 0.976944088935852,
+      "box": [
+        126,
+        614,
+        503,
+        642
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9998815059661865,
+      "box": [
+        117,
+        681,
+        266,
+        705
+      ]
+    },
+    {
+      "text": "Some college (no degree), Masonry, Maplewood University, 2006",
+      "score": 0.9829972982406616,
+      "box": [
+        118,
+        726,
+        723,
+        749
+      ]
+    },
+    {
+      "text": "•Studied principles of structural support systems",
+      "score": 0.9685869812965393,
+      "box": [
+        129,
+        748,
+        587,
+        776
+      ]
+    },
+    {
+      "text": "Studied principles of material estimation",
+      "score": 0.9993959069252014,
+      "box": [
+        130,
+        773,
+        519,
+        801
+      ]
+    }
+  ],
+  "seconds": 2.791947999969125,
+  "id": "60038",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

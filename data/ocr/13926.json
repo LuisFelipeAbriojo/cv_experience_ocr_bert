@@ -1,0 +1,192 @@
+{
+  "lines": [
+    {
+      "text": "JOHN PERRY",
+      "score": 0.9502695798873901,
+      "box": [
+        117,
+        92,
+        334,
+        120
+      ]
+    },
+    {
+      "text": "FL, USA | +1-803-967-8263 | john.perry@example.com",
+      "score": 0.9826967716217041,
+      "box": [
+        117,
+        151,
+        628,
+        177
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9953680038452148,
+      "box": [
+        117,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, Allied Structures, 2017.112023.01",
+      "score": 0.9866572022438049,
+      "box": [
+        118,
+        289,
+        657,
+        313
+      ]
+    },
+    {
+      "text": "- Directed site optimization initiatives",
+      "score": 0.9929496049880981,
+      "box": [
+        126,
+        315,
+        466,
+        341
+      ]
+    },
+    {
+      "text": "- Developed construction workflows",
+      "score": 0.9840897917747498,
+      "box": [
+        128,
+        341,
+        457,
+        366
+      ]
+    },
+    {
+      "text": "Construction Laborers, Precision Build Group, 2012.092017.11",
+      "score": 0.998746931552887,
+      "box": [
+        117,
+        382,
+        708,
+        407
+      ]
+    },
+    {
+      "text": "- Reviewed and approved project plans",
+      "score": 0.9865238070487976,
+      "box": [
+        125,
+        407,
+        491,
+        434
+      ]
+    },
+    {
+      "text": "- Coordinated large-scale material logistics",
+      "score": 0.9818841814994812,
+      "box": [
+        128,
+        433,
+        524,
+        459
+      ]
+    },
+    {
+      "text": "Construction Laborers, Reliable Works, 2006.12—2012.02",
+      "score": 0.9854377508163452,
+      "box": [
+        117,
+        472,
+        648,
+        497
+      ]
+    },
+    {
+      "text": "- Reviewed construction drawings",
+      "score": 0.9961355328559875,
+      "box": [
+        125,
+        495,
+        443,
+        526
+      ]
+    },
+    {
+      "text": "- Laid flooring materials",
+      "score": 0.9675648212432861,
+      "box": [
+        127,
+        521,
+        348,
+        550
+      ]
+    },
+    {
+      "text": "Construction Laborers, ClearLine Builders, 2001.012006.03",
+      "score": 0.9969071745872498,
+      "box": [
+        118,
+        566,
+        679,
+        589
+      ]
+    },
+    {
+      "text": "- Followed blueprint instructions",
+      "score": 0.9853636026382446,
+      "box": [
+        128,
+        591,
+        424,
+        615
+      ]
+    },
+    {
+      "text": "- Helped position heavy materials",
+      "score": 0.9980700016021729,
+      "box": [
+        127,
+        614,
+        438,
+        642
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999245405197144,
+      "box": [
+        117,
+        681,
+        266,
+        705
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Building Systems, Lakewood High School, 1998",
+      "score": 0.9873923063278198,
+      "box": [
+        116,
+        723,
+        820,
+        750
+      ]
+    },
+    {
+      "text": "• Completed coursework in construction site security",
+      "score": 0.9814978837966919,
+      "box": [
+        133,
+        749,
+        617,
+        773
+      ]
+    }
+  ],
+  "seconds": 2.925582299940288,
+  "id": "13926",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

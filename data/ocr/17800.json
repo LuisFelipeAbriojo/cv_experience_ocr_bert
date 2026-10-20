@@ -1,0 +1,112 @@
+{
+  "lines": [
+    {
+      "text": "RYAN FIELDS",
+      "score": 0.9957706928253174,
+      "box": [
+        116,
+        89,
+        341,
+        123
+      ]
+    },
+    {
+      "text": "IL, USA | +1-780-954-4754 | ryan.fields@example.com",
+      "score": 0.9942298531532288,
+      "box": [
+        117,
+        149,
+        623,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9993377327919006,
+      "box": [
+        116,
+        243,
+        317,
+        270
+      ]
+    },
+    {
+      "text": "Construction Laborers, FirmRise Construction, 2020.08—2023.01",
+      "score": 0.9939860701560974,
+      "box": [
+        118,
+        289,
+        712,
+        313
+      ]
+    },
+    {
+      "text": "- Followed blueprint instructions",
+      "score": 0.9907410144805908,
+      "box": [
+        126,
+        314,
+        424,
+        340
+      ]
+    },
+    {
+      "text": "- Assisted with concrete pouring",
+      "score": 0.9853644371032715,
+      "box": [
+        126,
+        337,
+        426,
+        368
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999919593334198,
+      "box": [
+        116,
+        404,
+        268,
+        431
+      ]
+    },
+    {
+      "text": "Bachelor's, Heavy Equipment Operation, Pinehaven University, 2019",
+      "score": 0.997218668460846,
+      "box": [
+        116,
+        447,
+        754,
+        474
+      ]
+    },
+    {
+      "text": "•Studied principles of material estimation",
+      "score": 0.9747007489204407,
+      "box": [
+        131,
+        474,
+        518,
+        498
+      ]
+    },
+    {
+      "text": "• Completed coursework in construction waste management",
+      "score": 0.9864957928657532,
+      "box": [
+        134,
+        499,
+        690,
+        523
+      ]
+    }
+  ],
+  "seconds": 1.9493678999133408,
+  "id": "17800",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

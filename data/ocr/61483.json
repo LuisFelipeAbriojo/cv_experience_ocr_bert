@@ -1,0 +1,142 @@
+{
+  "lines": [
+    {
+      "text": "JESSICA HAMPTON",
+      "score": 0.9990304708480835,
+      "box": [
+        116,
+        91,
+        439,
+        121
+      ]
+    },
+    {
+      "text": "WY, USA | +1-500-453-5754 | jessica.hampton@example.com",
+      "score": 0.9957357048988342,
+      "box": [
+        115,
+        149,
+        696,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9990910887718201,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, EverHands Health Services, 2020.12—2023.01",
+      "score": 0.9840640425682068,
+      "box": [
+        118,
+        290,
+        729,
+        314
+      ]
+    },
+    {
+      "text": "- Established care delivery standards",
+      "score": 0.9819211959838867,
+      "box": [
+        125,
+        313,
+        472,
+        342
+      ]
+    },
+    {
+      "text": "- Designed clinical care protocols",
+      "score": 0.9877067804336548,
+      "box": [
+        126,
+        339,
+        436,
+        368
+      ]
+    },
+    {
+      "text": "Registered Nurses, WellHands Nursing Group, 2017.022019.04",
+      "score": 0.9910539984703064,
+      "box": [
+        117,
+        382,
+        719,
+        409
+      ]
+    },
+    {
+      "text": "- Monitored patient skin condition",
+      "score": 0.9873117804527283,
+      "box": [
+        125,
+        407,
+        436,
+        433
+      ]
+    },
+    {
+      "text": "- Checked medication dosages",
+      "score": 0.9822277426719666,
+      "box": [
+        127,
+        431,
+        417,
+        459
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999092817306519,
+      "box": [
+        117,
+        494,
+        268,
+        521
+      ]
+    },
+    {
+      "text": "Associate's degree, Health Education, Briarwood University, 2004",
+      "score": 0.982489824295044,
+      "box": [
+        116,
+        539,
+        725,
+        567
+      ]
+    },
+    {
+      "text": "•Studied fundamentals of end-of-life care",
+      "score": 0.989017128944397,
+      "box": [
+        129,
+        566,
+        519,
+        591
+      ]
+    },
+    {
+      "text": "• Completed coursework in medication administration",
+      "score": 0.9887778162956238,
+      "box": [
+        132,
+        592,
+        625,
+        616
+      ]
+    }
+  ],
+  "seconds": 2.5995628000237048,
+  "id": "61483",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

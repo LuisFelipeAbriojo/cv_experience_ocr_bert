@@ -1,0 +1,182 @@
+{
+  "lines": [
+    {
+      "text": "KEVIN CHEN",
+      "score": 0.9830703735351562,
+      "box": [
+        118,
+        92,
+        323,
+        120
+      ]
+    },
+    {
+      "text": "CA, USA | +1-499-393-8225 | kevin.chen@example.com",
+      "score": 0.9689937829971313,
+      "box": [
+        116,
+        150,
+        640,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9990290999412537,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Softfield Labs, 2020.05—2023.01",
+      "score": 0.985858678817749,
+      "box": [
+        117,
+        291,
+        621,
+        315
+      ]
+    },
+    {
+      "text": "- Implemented performance optimization plans",
+      "score": 0.996482789516449,
+      "box": [
+        128,
+        315,
+        558,
+        341
+      ]
+    },
+    {
+      "text": "- Implemented data pipeline architectures",
+      "score": 0.999146044254303,
+      "box": [
+        129,
+        340,
+        512,
+        366
+      ]
+    },
+    {
+      "text": "Software Developers, Openframe Labs, 2017.09—2020.05",
+      "score": 0.9906081557273865,
+      "box": [
+        116,
+        382,
+        653,
+        409
+      ]
+    },
+    {
+      "text": "- Implemented search features",
+      "score": 0.998723566532135,
+      "box": [
+        125,
+        408,
+        413,
+        433
+      ]
+    },
+    {
+      "text": "- Built reusable libraries",
+      "score": 0.9897238612174988,
+      "box": [
+        126,
+        430,
+        348,
+        458
+      ]
+    },
+    {
+      "text": "Software Developers, Coreline Labs, 2012.032014.11",
+      "score": 0.999468207359314,
+      "box": [
+        118,
+        473,
+        624,
+        497
+      ]
+    },
+    {
+      "text": "- Implemented logging features",
+      "score": 0.9915159940719604,
+      "box": [
+        126,
+        497,
+        419,
+        525
+      ]
+    },
+    {
+      "text": "- Reviewed API documentation",
+      "score": 0.9853819012641907,
+      "box": [
+        128,
+        521,
+        415,
+        547
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999510645866394,
+      "box": [
+        118,
+        588,
+        266,
+        612
+      ]
+    },
+    {
+      "text": "Master's, Highland University, 2005",
+      "score": 0.9793456792831421,
+      "box": [
+        116,
+        632,
+        446,
+        659
+      ]
+    },
+    {
+      "text": "Bachelor's, Fairview Ridge University, 2003",
+      "score": 0.9886993765830994,
+      "box": [
+        115,
+        656,
+        519,
+        684
+      ]
+    },
+    {
+      "text": "•Studied fundamentals of hash tables",
+      "score": 0.9893526434898376,
+      "box": [
+        131,
+        683,
+        486,
+        707
+      ]
+    },
+    {
+      "text": "•Studied principles of augmented reality",
+      "score": 0.9848400950431824,
+      "box": [
+        131,
+        706,
+        507,
+        735
+      ]
+    }
+  ],
+  "seconds": 2.6375830001197755,
+  "id": "08754",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

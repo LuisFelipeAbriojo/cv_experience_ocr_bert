@@ -1,0 +1,112 @@
+{
+  "lines": [
+    {
+      "text": "HEATHER CALDWELL",
+      "score": 0.999862790107727,
+      "box": [
+        117,
+        91,
+        474,
+        122
+      ]
+    },
+    {
+      "text": "CA, USA | +1-564-351-8601 | heather.caldwell@example.com",
+      "score": 0.9827378392219543,
+      "box": [
+        118,
+        152,
+        691,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9997689723968506,
+      "box": [
+        117,
+        243,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Software Developers, Cloudpath Digital, 2019.042021.06",
+      "score": 0.9884768724441528,
+      "box": [
+        116,
+        289,
+        656,
+        316
+      ]
+    },
+    {
+      "text": "- Performed basic APl integrations",
+      "score": 0.978431224822998,
+      "box": [
+        126,
+        313,
+        448,
+        342
+      ]
+    },
+    {
+      "text": "- Performed basic performance profiling",
+      "score": 0.9862698316574097,
+      "box": [
+        127,
+        339,
+        495,
+        368
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999232888221741,
+      "box": [
+        116,
+        404,
+        268,
+        431
+      ]
+    },
+    {
+      "text": "Bachelor's, Vista University, 2014",
+      "score": 0.9986834526062012,
+      "box": [
+        115,
+        446,
+        430,
+        474
+      ]
+    },
+    {
+      "text": "Studied principles of garbage collection",
+      "score": 0.999882698059082,
+      "box": [
+        130,
+        474,
+        512,
+        501
+      ]
+    },
+    {
+      "text": "•Completed coursework in configuration management",
+      "score": 0.9894993901252747,
+      "box": [
+        132,
+        497,
+        637,
+        526
+      ]
+    }
+  ],
+  "seconds": 1.855822699610144,
+  "id": "08401",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

@@ -1,0 +1,182 @@
+{
+  "lines": [
+    {
+      "text": "RICHARD FRANCIS",
+      "score": 0.9999008774757385,
+      "box": [
+        118,
+        91,
+        430,
+        122
+      ]
+    },
+    {
+      "text": "GA, USA | +1-311-574-2669 | richard.francis@example.com",
+      "score": 0.9916266798973083,
+      "box": [
+        116,
+        150,
+        673,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9991832375526428,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Little Bridge School, 2020.112023.01",
+      "score": 0.9942247867584229,
+      "box": [
+        117,
+        290,
+        816,
+        317
+      ]
+    },
+    {
+      "text": "- Implemented academic policy updates",
+      "score": 0.9868566393852234,
+      "box": [
+        125,
+        314,
+        498,
+        343
+      ]
+    },
+    {
+      "text": "- Designed instructional accountability systems",
+      "score": 0.9904114603996277,
+      "box": [
+        127,
+        339,
+        562,
+        369
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Open Sky School, 2018.092020.11",
+      "score": 0.9937956929206848,
+      "box": [
+        115,
+        380,
+        801,
+        413
+      ]
+    },
+    {
+      "text": "- Evaluated student portfolios",
+      "score": 0.9810981750488281,
+      "box": [
+        125,
+        409,
+        399,
+        433
+      ]
+    },
+    {
+      "text": "- Designed math assessments",
+      "score": 0.9926250576972961,
+      "box": [
+        125,
+        431,
+        411,
+        459
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Future Minds School, 2014.082016.10",
+      "score": 0.9975725412368774,
+      "box": [
+        118,
+        472,
+        830,
+        499
+      ]
+    },
+    {
+      "text": "- Maintained classroom attendance and grading records",
+      "score": 0.9867749214172363,
+      "box": [
+        125,
+        496,
+        646,
+        526
+      ]
+    },
+    {
+      "text": "- Prepared instructional materials and worksheets",
+      "score": 0.9757174253463745,
+      "box": [
+        127,
+        520,
+        589,
+        550
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999268651008606,
+      "box": [
+        117,
+        587,
+        267,
+        614
+      ]
+    },
+    {
+      "text": "Master's, Liberal Arts, Seabreeze University, 2012",
+      "score": 0.9993128776550293,
+      "box": [
+        115,
+        631,
+        583,
+        659
+      ]
+    },
+    {
+      "text": "Bachelor's, Education Services, Windridge University, 2010",
+      "score": 0.9737728238105774,
+      "box": [
+        116,
+        657,
+        666,
+        684
+      ]
+    },
+    {
+      "text": "• Completed coursework in mathematics education basics",
+      "score": 0.9886652827262878,
+      "box": [
+        134,
+        683,
+        666,
+        707
+      ]
+    },
+    {
+      "text": "•Completed coursework in introductory child psychology",
+      "score": 0.9845249056816101,
+      "box": [
+        132,
+        706,
+        656,
+        737
+      ]
+    }
+  ],
+  "seconds": 2.883826400153339,
+  "id": "15535",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

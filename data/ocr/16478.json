@@ -1,0 +1,142 @@
+{
+  "lines": [
+    {
+      "text": "EMMANUEL ELLIOTT",
+      "score": 0.9996848106384277,
+      "box": [
+        118,
+        91,
+        457,
+        121
+      ]
+    },
+    {
+      "text": "GA, USA | +1-720-745-1656 |emmanuel.elliott@example.com",
+      "score": 0.9748870134353638,
+      "box": [
+        118,
+        152,
+        693,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9991641640663147,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, Unified Structures, 2020.102023.01",
+      "score": 0.9902307987213135,
+      "box": [
+        117,
+        289,
+        673,
+        316
+      ]
+    },
+    {
+      "text": "- Reviewed site inspection reports",
+      "score": 0.987930417060852,
+      "box": [
+        126,
+        315,
+        442,
+        341
+      ]
+    },
+    {
+      "text": "- Managed subcontractor coordination",
+      "score": 0.9978569746017456,
+      "box": [
+        128,
+        340,
+        480,
+        366
+      ]
+    },
+    {
+      "text": "Construction Laborers, Reliable Works, 2016.092018.12",
+      "score": 0.9917945861816406,
+      "box": [
+        116,
+        380,
+        650,
+        408
+      ]
+    },
+    {
+      "text": "- Assisted with concrete pouring",
+      "score": 0.9895733594894409,
+      "box": [
+        124,
+        406,
+        425,
+        434
+      ]
+    },
+    {
+      "text": "- Transported waste materials",
+      "score": 0.9992796778678894,
+      "box": [
+        125,
+        430,
+        407,
+        458
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999927282333374,
+      "box": [
+        117,
+        494,
+        267,
+        521
+      ]
+    },
+    {
+      "text": "Some college (no degree), Construction Technology, Skyview University, 2015",
+      "score": 0.993282675743103,
+      "box": [
+        117,
+        541,
+        843,
+        568
+      ]
+    },
+    {
+      "text": "•Completed coursework in construction logistics planning",
+      "score": 0.995116651058197,
+      "box": [
+        130,
+        566,
+        666,
+        593
+      ]
+    },
+    {
+      "text": "• Studied principles of job site efficiency",
+      "score": 0.9926344156265259,
+      "box": [
+        132,
+        591,
+        500,
+        618
+      ]
+    }
+  ],
+  "seconds": 2.490385300014168,
+  "id": "16478",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

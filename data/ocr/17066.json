@@ -1,0 +1,162 @@
+{
+  "lines": [
+    {
+      "text": "GARRETT MCCOY",
+      "score": 0.9998117089271545,
+      "box": [
+        117,
+        90,
+        413,
+        122
+      ]
+    },
+    {
+      "text": "ID, USA | +1-356-525-4330 | garrett.mccoy@example.com",
+      "score": 0.9885406494140625,
+      "box": [
+        116,
+        150,
+        659,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9991946816444397,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, SteadyHand Builders, 2020.06—2023.01",
+      "score": 0.9962506294250488,
+      "box": [
+        117,
+        288,
+        702,
+        315
+      ]
+    },
+    {
+      "text": "- Led operational planning",
+      "score": 0.9825409650802612,
+      "box": [
+        125,
+        314,
+        371,
+        344
+      ]
+    },
+    {
+      "text": "- Developed long-term construction strategies",
+      "score": 0.9911692142486572,
+      "box": [
+        127,
+        340,
+        549,
+        367
+      ]
+    },
+    {
+      "text": "Construction Laborers, HardRock Construction, 2017.102020.06",
+      "score": 0.997869610786438,
+      "box": [
+        118,
+        383,
+        724,
+        407
+      ]
+    },
+    {
+      "text": "- Interpreted blueprints for task execution",
+      "score": 0.9874392747879028,
+      "box": [
+        126,
+        408,
+        508,
+        433
+      ]
+    },
+    {
+      "text": "- Installed retaining structures",
+      "score": 0.9854915142059326,
+      "box": [
+        128,
+        432,
+        404,
+        457
+      ]
+    },
+    {
+      "text": "Construction Laborers, NextStep Construction, 2013.042015.12",
+      "score": 0.9912993311882019,
+      "box": [
+        117,
+        472,
+        719,
+        499
+      ]
+    },
+    {
+      "text": "- Measured and cut basic building materials",
+      "score": 0.9861400723457336,
+      "box": [
+        125,
+        496,
+        533,
+        525
+      ]
+    },
+    {
+      "text": "- Performed basic sanding and painting",
+      "score": 0.9830724000930786,
+      "box": [
+        127,
+        520,
+        493,
+        551
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999531507492065,
+      "box": [
+        118,
+        588,
+        266,
+        612
+      ]
+    },
+    {
+      "text": "High school graduate/GED, HVAC Technology, Meadowridge Valley High School, 2002",
+      "score": 0.9961425065994263,
+      "box": [
+        117,
+        632,
+        925,
+        659
+      ]
+    },
+    {
+      "text": "• Studied principles of structural reinforcement",
+      "score": 0.9753844141960144,
+      "box": [
+        131,
+        659,
+        563,
+        683
+      ]
+    }
+  ],
+  "seconds": 2.3256764002144337,
+  "id": "17066",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

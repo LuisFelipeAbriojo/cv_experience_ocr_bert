@@ -1,0 +1,172 @@
+{
+  "lines": [
+    {
+      "text": "RASHOD MCDANIEL",
+      "score": 0.999857485294342,
+      "box": [
+        118,
+        91,
+        448,
+        121
+      ]
+    },
+    {
+      "text": "AR, USA | +1-227-783-9522 | rashod.mcdaniel@example.com",
+      "score": 0.985390841960907,
+      "box": [
+        118,
+        152,
+        693,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9988835453987122,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, TrueWay Health Group, 2020.06—2023.01",
+      "score": 0.9891620874404907,
+      "box": [
+        115,
+        287,
+        690,
+        318
+      ]
+    },
+    {
+      "text": "- Designed clinical care protocols",
+      "score": 0.9724670648574829,
+      "box": [
+        125,
+        314,
+        437,
+        342
+      ]
+    },
+    {
+      "text": "- Developed staffing allocation models",
+      "score": 0.9697979092597961,
+      "box": [
+        127,
+        339,
+        482,
+        367
+      ]
+    },
+    {
+      "text": "Registered Nurses, ClearPath Health, 2015.092018.05",
+      "score": 0.9893725514411926,
+      "box": [
+        118,
+        383,
+        635,
+        407
+      ]
+    },
+    {
+      "text": "- Provided rehabilitation nursing care",
+      "score": 0.9983291625976562,
+      "box": [
+        125,
+        407,
+        469,
+        433
+      ]
+    },
+    {
+      "text": "- Conducted clinical audits",
+      "score": 0.9712414145469666,
+      "box": [
+        127,
+        431,
+        374,
+        456
+      ]
+    },
+    {
+      "text": "Registered Nurses, SunSpring Nursing, 2012.052015.01",
+      "score": 0.9899265766143799,
+      "box": [
+        118,
+        474,
+        648,
+        498
+      ]
+    },
+    {
+      "text": "- Collected laboratory specimens",
+      "score": 0.9947311282157898,
+      "box": [
+        126,
+        497,
+        435,
+        526
+      ]
+    },
+    {
+      "text": "- Monitored patient dietary needs",
+      "score": 0.9977063536643982,
+      "box": [
+        127,
+        521,
+        435,
+        549
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9998629689216614,
+      "box": [
+        117,
+        587,
+        267,
+        614
+      ]
+    },
+    {
+      "text": "Associate's degree, Medical Sciences, Wildflower University, 2004",
+      "score": 0.9931455254554749,
+      "box": [
+        117,
+        632,
+        730,
+        659
+      ]
+    },
+    {
+      "text": "Studied fundamentals of tracheostomy care",
+      "score": 0.9948111772537231,
+      "box": [
+        127,
+        656,
+        553,
+        685
+      ]
+    },
+    {
+      "text": "•Studied fundamentals of nursing communication",
+      "score": 0.98024582862854,
+      "box": [
+        130,
+        680,
+        594,
+        709
+      ]
+    }
+  ],
+  "seconds": 2.55750639969483,
+  "id": "02215",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

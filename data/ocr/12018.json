@@ -1,0 +1,152 @@
+{
+  "lines": [
+    {
+      "text": "BILLY PRICE",
+      "score": 0.9998220205307007,
+      "box": [
+        118,
+        91,
+        327,
+        122
+      ]
+    },
+    {
+      "text": "FL, USA | +1-356-980-3244 | billy.price@example.com",
+      "score": 0.9863918423652649,
+      "box": [
+        117,
+        150,
+        623,
+        177
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9983782768249512,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, OpenBalance Advisors, 2019.072021.09",
+      "score": 0.9911236763000488,
+      "box": [
+        116,
+        289,
+        713,
+        316
+      ]
+    },
+    {
+      "text": "- Led accounting process optimization",
+      "score": 0.9979605674743652,
+      "box": [
+        129,
+        317,
+        479,
+        341
+      ]
+    },
+    {
+      "text": "- Established financial reporting standards",
+      "score": 0.9832376837730408,
+      "box": [
+        127,
+        339,
+        518,
+        367
+      ]
+    },
+    {
+      "text": "Accountants Auditors, ClearBalance Services, 2016.032018.06",
+      "score": 0.9993705749511719,
+      "box": [
+        118,
+        383,
+        711,
+        407
+      ]
+    },
+    {
+      "text": "- Processed accounts payable invoices",
+      "score": 0.9996058344841003,
+      "box": [
+        125,
+        406,
+        491,
+        435
+      ]
+    },
+    {
+      "text": "- Assisted with budget tracking",
+      "score": 0.9964060187339783,
+      "box": [
+        127,
+        430,
+        414,
+        461
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999494552612305,
+      "box": [
+        116,
+        494,
+        268,
+        521
+      ]
+    },
+    {
+      "text": "Master's, Business Analytics, Pine Valley University, 2006",
+      "score": 0.989899754524231,
+      "box": [
+        114,
+        539,
+        653,
+        567
+      ]
+    },
+    {
+      "text": "Bachelor's, Business Analytics, Brookside University, 2004",
+      "score": 0.9941751956939697,
+      "box": [
+        117,
+        567,
+        659,
+        591
+      ]
+    },
+    {
+      "text": "•Studied fundamentals of forensic accounting",
+      "score": 0.9754487872123718,
+      "box": [
+        128,
+        589,
+        561,
+        619
+      ]
+    },
+    {
+      "text": "Completed coursework in accounting research methods",
+      "score": 0.9961328506469727,
+      "box": [
+        130,
+        614,
+        664,
+        643
+      ]
+    }
+  ],
+  "seconds": 2.440862199757248,
+  "id": "12018",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

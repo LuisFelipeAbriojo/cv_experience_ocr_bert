@@ -1,0 +1,202 @@
+{
+  "lines": [
+    {
+      "text": "MARIO SANFORD",
+      "score": 0.9997749328613281,
+      "box": [
+        117,
+        91,
+        403,
+        121
+      ]
+    },
+    {
+      "text": "NY, USA | +1-520-513-6831 | mario.sanford@example.com",
+      "score": 0.9723133444786072,
+      "box": [
+        117,
+        152,
+        668,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9989409446716309,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, ClearView Accounting, 2020.01—2023.01",
+      "score": 0.9889612197875977,
+      "box": [
+        115,
+        288,
+        704,
+        316
+      ]
+    },
+    {
+      "text": "- Led cross-functional financial integration",
+      "score": 0.9980600476264954,
+      "box": [
+        126,
+        315,
+        513,
+        341
+      ]
+    },
+    {
+      "text": "- Directed budget planning cycles",
+      "score": 0.9892026782035828,
+      "box": [
+        127,
+        339,
+        439,
+        368
+      ]
+    },
+    {
+      "text": "Accountants Auditors, AccuLedger Services, 2016.122020.01",
+      "score": 0.9982937574386597,
+      "box": [
+        118,
+        383,
+        694,
+        407
+      ]
+    },
+    {
+      "text": "- Designed financial modeling standards",
+      "score": 0.976900041103363,
+      "box": [
+        127,
+        409,
+        500,
+        432
+      ]
+    },
+    {
+      "text": "- Managed financial governance",
+      "score": 0.9753863215446472,
+      "box": [
+        127,
+        432,
+        427,
+        458
+      ]
+    },
+    {
+      "text": "Accountants Auditors, EverCount Services, 2013.112016.12",
+      "score": 0.995223343372345,
+      "box": [
+        117,
+        472,
+        685,
+        497
+      ]
+    },
+    {
+      "text": "- Reviewed tax provisions",
+      "score": 0.9924619793891907,
+      "box": [
+        127,
+        500,
+        368,
+        524
+      ]
+    },
+    {
+      "text": "- Reviewed expense allocations",
+      "score": 0.9743776917457581,
+      "box": [
+        126,
+        521,
+        424,
+        550
+      ]
+    },
+    {
+      "text": "Accountants Auditors, OpenLedger Financial Group, 2010.10—2013.11",
+      "score": 0.9743028879165649,
+      "box": [
+        117,
+        566,
+        768,
+        590
+      ]
+    },
+    {
+      "text": "- Assisted with internal control testing",
+      "score": 0.9956077337265015,
+      "box": [
+        125,
+        588,
+        475,
+        618
+      ]
+    },
+    {
+      "text": "- Matched invoices to purchase orders",
+      "score": 0.9892469644546509,
+      "box": [
+        127,
+        613,
+        483,
+        643
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9998867511749268,
+      "box": [
+        117,
+        681,
+        266,
+        705
+      ]
+    },
+    {
+      "text": "Bachelor's, Data Analytics, Valley View University, 2011",
+      "score": 0.9977553486824036,
+      "box": [
+        116,
+        725,
+        633,
+        751
+      ]
+    },
+    {
+      "text": "•Studied fundamentals of professional judgment",
+      "score": 0.9765474200248718,
+      "box": [
+        130,
+        749,
+        586,
+        776
+      ]
+    },
+    {
+      "text": "•Studied fundamentals of substantive testing",
+      "score": 0.9866411089897156,
+      "box": [
+        131,
+        773,
+        551,
+        800
+      ]
+    }
+  ],
+  "seconds": 3.1636594999581575,
+  "id": "35425",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

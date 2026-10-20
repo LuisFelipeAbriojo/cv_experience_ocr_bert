@@ -1,0 +1,182 @@
+{
+  "lines": [
+    {
+      "text": "DUANE YANG",
+      "score": 0.9993295669555664,
+      "box": [
+        117,
+        91,
+        342,
+        122
+      ]
+    },
+    {
+      "text": "TX, USA | +1-416-870-1908 | duane.yang@example.com",
+      "score": 0.9847961664199829,
+      "box": [
+        116,
+        149,
+        647,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9988259673118591,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Corecrest Labs, 2020.10—2023.01",
+      "score": 0.9909476637840271,
+      "box": [
+        116,
+        289,
+        637,
+        316
+      ]
+    },
+    {
+      "text": "- Defined API governance models",
+      "score": 0.9860075116157532,
+      "box": [
+        127,
+        316,
+        442,
+        340
+      ]
+    },
+    {
+      "text": "- Reviewed architectural proposals",
+      "score": 0.986847460269928,
+      "box": [
+        128,
+        339,
+        449,
+        367
+      ]
+    },
+    {
+      "text": "Software Developers, Datacrest Software, 2018.062020.10",
+      "score": 0.9867526888847351,
+      "box": [
+        117,
+        383,
+        674,
+        407
+      ]
+    },
+    {
+      "text": "- Improved API performance",
+      "score": 0.9899248480796814,
+      "box": [
+        127,
+        409,
+        392,
+        433
+      ]
+    },
+    {
+      "text": "- Developed CI/CD scripts",
+      "score": 0.9944775104522705,
+      "box": [
+        127,
+        430,
+        371,
+        460
+      ]
+    },
+    {
+      "text": "Software Developers, Flowpoint Tech, 2016.02—2018.06",
+      "score": 0.984550416469574,
+      "box": [
+        117,
+        472,
+        638,
+        499
+      ]
+    },
+    {
+      "text": "- Implemented basic features in existing codebases",
+      "score": 0.9899153113365173,
+      "box": [
+        128,
+        499,
+        604,
+        523
+      ]
+    },
+    {
+      "text": "- Monitored application logs",
+      "score": 0.9986282587051392,
+      "box": [
+        127,
+        520,
+        386,
+        551
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999344348907471,
+      "box": [
+        118,
+        588,
+        266,
+        612
+      ]
+    },
+    {
+      "text": "Master's, Rolling Hills University, 2018",
+      "score": 0.9968932867050171,
+      "box": [
+        118,
+        633,
+        472,
+        657
+      ]
+    },
+    {
+      "text": "Bachelor's, Brookway University, 2016",
+      "score": 0.9908146262168884,
+      "box": [
+        115,
+        656,
+        474,
+        684
+      ]
+    },
+    {
+      "text": "•Studied fundamentals of error handling",
+      "score": 0.9695167541503906,
+      "box": [
+        129,
+        682,
+        508,
+        710
+      ]
+    },
+    {
+      "text": "•Studied principles of computational thinking",
+      "score": 0.9887810349464417,
+      "box": [
+        131,
+        706,
+        549,
+        735
+      ]
+    }
+  ],
+  "seconds": 2.3773236996494234,
+  "id": "50620",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

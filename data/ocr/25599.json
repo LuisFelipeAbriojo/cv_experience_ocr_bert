@@ -1,0 +1,112 @@
+{
+  "lines": [
+    {
+      "text": "DOMINIQUE HARDING",
+      "score": 0.9997254610061646,
+      "box": [
+        118,
+        91,
+        475,
+        122
+      ]
+    },
+    {
+      "text": "MA, USA | +1-964-689-9413 | dominique.harding@example.com",
+      "score": 0.9876527786254883,
+      "box": [
+        117,
+        152,
+        713,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9997683167457581,
+      "box": [
+        117,
+        243,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Software Developers, Brightstack Labs, 2020.10—2023.01",
+      "score": 0.992277204990387,
+      "box": [
+        116,
+        288,
+        649,
+        315
+      ]
+    },
+    {
+      "text": "- Optimized simple queries",
+      "score": 0.9958075881004333,
+      "box": [
+        125,
+        314,
+        377,
+        343
+      ]
+    },
+    {
+      "text": "- Configured development environments",
+      "score": 0.9995350241661072,
+      "box": [
+        128,
+        339,
+        501,
+        367
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999253749847412,
+      "box": [
+        116,
+        404,
+        268,
+        431
+      ]
+    },
+    {
+      "text": "Bachelor's, Clearstone University, 2019",
+      "score": 0.9910725355148315,
+      "box": [
+        115,
+        446,
+        483,
+        474
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of responsive design",
+      "score": 0.9751325845718384,
+      "box": [
+        130,
+        473,
+        547,
+        500
+      ]
+    },
+    {
+      "text": "Completed coursework in pointer arithmetic basics",
+      "score": 0.988103449344635,
+      "box": [
+        132,
+        497,
+        615,
+        525
+      ]
+    }
+  ],
+  "seconds": 2.083141800016165,
+  "id": "25599",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

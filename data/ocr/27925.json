@@ -1,0 +1,102 @@
+{
+  "lines": [
+    {
+      "text": "JEREMIAH WATSON",
+      "score": 0.9996322989463806,
+      "box": [
+        116,
+        91,
+        449,
+        122
+      ]
+    },
+    {
+      "text": "MI, USA | +1-333-704-7982 | jeremiah.watson@example.com",
+      "score": 0.9925240278244019,
+      "box": [
+        115,
+        149,
+        688,
+        177
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9997313022613525,
+      "box": [
+        117,
+        243,
+        317,
+        270
+      ]
+    },
+    {
+      "text": "Construction Laborers, SolidForm Construction, 2020.05—2023.01",
+      "score": 0.9937748908996582,
+      "box": [
+        118,
+        290,
+        724,
+        314
+      ]
+    },
+    {
+      "text": "- Monitored material usage",
+      "score": 0.9985951781272888,
+      "box": [
+        125,
+        314,
+        378,
+        341
+      ]
+    },
+    {
+      "text": "- Carried materials to designated work areas",
+      "score": 0.9822377562522888,
+      "box": [
+        126,
+        338,
+        541,
+        367
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999449253082275,
+      "box": [
+        116,
+        404,
+        268,
+        431
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Electrical Technology, Forest Hill High School, 2020",
+      "score": 0.9947523474693298,
+      "box": [
+        115,
+        445,
+        858,
+        476
+      ]
+    },
+    {
+      "text": "Completed coursework in basic waterproofing",
+      "score": 0.9976696372032166,
+      "box": [
+        131,
+        472,
+        571,
+        501
+      ]
+    }
+  ],
+  "seconds": 1.8645429997704923,
+  "id": "27925",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

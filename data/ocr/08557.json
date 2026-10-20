@@ -1,0 +1,202 @@
+{
+  "lines": [
+    {
+      "text": "CHARLES HUYNH",
+      "score": 0.9747289419174194,
+      "box": [
+        118,
+        92,
+        408,
+        122
+      ]
+    },
+    {
+      "text": "CA, USA | +1-292-291-2694 | charles.huynh@example.com",
+      "score": 0.9914839267730713,
+      "box": [
+        116,
+        150,
+        670,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9994783401489258,
+      "box": [
+        116,
+        242,
+        316,
+        271
+      ]
+    },
+    {
+      "text": "Software Developers, Stonefield Software, 2020.06—2023.01",
+      "score": 0.9953727126121521,
+      "box": [
+        116,
+        290,
+        676,
+        317
+      ]
+    },
+    {
+      "text": "- Implemented access control frameworks",
+      "score": 0.9691397547721863,
+      "box": [
+        127,
+        317,
+        515,
+        340
+      ]
+    },
+    {
+      "text": "- Led architectural reviews",
+      "score": 0.9857463836669922,
+      "box": [
+        128,
+        339,
+        374,
+        367
+      ]
+    },
+    {
+      "text": "Software Developers, Brightscale Labs, 2017.102020.06",
+      "score": 0.9948611855506897,
+      "box": [
+        117,
+        384,
+        650,
+        408
+      ]
+    },
+    {
+      "text": "- Implemented infrastructure automation",
+      "score": 0.9850013852119446,
+      "box": [
+        127,
+        408,
+        500,
+        434
+      ]
+    },
+    {
+      "text": "- Implemented release management strategies",
+      "score": 0.9966388940811157,
+      "box": [
+        127,
+        432,
+        561,
+        460
+      ]
+    },
+    {
+      "text": "Software Developers, Dataframe Solutions, 2013.102016.06",
+      "score": 0.9892449975013733,
+      "box": [
+        116,
+        471,
+        686,
+        499
+      ]
+    },
+    {
+      "text": "- Implemented error handling frameworks",
+      "score": 0.9959458708763123,
+      "box": [
+        126,
+        497,
+        511,
+        525
+      ]
+    },
+    {
+      "text": "- Integrated messaging systems",
+      "score": 0.988297164440155,
+      "box": [
+        128,
+        521,
+        427,
+        553
+      ]
+    },
+    {
+      "text": "Software Developers, Codefield Software, 2009.112012.07",
+      "score": 0.9998700022697449,
+      "box": [
+        116,
+        565,
+        673,
+        592
+      ]
+    },
+    {
+      "text": "- Debugged runtime errors",
+      "score": 0.9851759076118469,
+      "box": [
+        126,
+        590,
+        376,
+        619
+      ]
+    },
+    {
+      "text": "- Assisted with database queries",
+      "score": 0.9792040586471558,
+      "box": [
+        127,
+        614,
+        431,
+        643
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9998764395713806,
+      "box": [
+        117,
+        681,
+        266,
+        705
+      ]
+    },
+    {
+      "text": "Bachelor's, Brightfield University, 2009",
+      "score": 0.9895998239517212,
+      "box": [
+        117,
+        726,
+        474,
+        749
+      ]
+    },
+    {
+      "text": "• Completed coursework in microprocessor programming",
+      "score": 0.9805274605751038,
+      "box": [
+        131,
+        749,
+        661,
+        778
+      ]
+    },
+    {
+      "text": "Studied principles of database design",
+      "score": 0.9953032732009888,
+      "box": [
+        131,
+        772,
+        495,
+        802
+      ]
+    }
+  ],
+  "seconds": 2.815143800340593,
+  "id": "08557",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

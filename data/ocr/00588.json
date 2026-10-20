@@ -1,0 +1,112 @@
+{
+  "lines": [
+    {
+      "text": "LATRICE DANIELS",
+      "score": 0.998069167137146,
+      "box": [
+        118,
+        91,
+        418,
+        122
+      ]
+    },
+    {
+      "text": "AL, USA | +1-628-987-9715 | latrice.daniels@example.com",
+      "score": 0.9894128441810608,
+      "box": [
+        117,
+        150,
+        665,
+        177
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9997344017028809,
+      "box": [
+        117,
+        243,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Registered Nurses, OpenHands Care Services, 2020.05—2022.06",
+      "score": 0.9891905784606934,
+      "box": [
+        116,
+        289,
+        724,
+        316
+      ]
+    },
+    {
+      "text": "- Monitored patient dietary needs",
+      "score": 0.9920257925987244,
+      "box": [
+        125,
+        313,
+        435,
+        341
+      ]
+    },
+    {
+      "text": "- Assisted with hygiene care",
+      "score": 0.9737147688865662,
+      "box": [
+        127,
+        339,
+        391,
+        368
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999277591705322,
+      "box": [
+        116,
+        404,
+        268,
+        431
+      ]
+    },
+    {
+      "text": "Some college (no degree), Health Care, Brightfield Ridge University, 2006",
+      "score": 0.9931491017341614,
+      "box": [
+        115,
+        445,
+        801,
+        476
+      ]
+    },
+    {
+      "text": "•Studied principles of infection surveillance",
+      "score": 0.9841163754463196,
+      "box": [
+        130,
+        475,
+        537,
+        499
+      ]
+    },
+    {
+      "text": "•Studied fundamentals of stress management in care",
+      "score": 0.9887029528617859,
+      "box": [
+        131,
+        498,
+        630,
+        525
+      ]
+    }
+  ],
+  "seconds": 1.9678472001105547,
+  "id": "00588",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

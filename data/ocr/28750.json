@@ -1,0 +1,132 @@
+{
+  "lines": [
+    {
+      "text": "MAJID FRENCH",
+      "score": 0.9927096962928772,
+      "box": [
+        116,
+        89,
+        371,
+        122
+      ]
+    },
+    {
+      "text": "MN, USA | +1-745-345-1734 | majid.french@example.com",
+      "score": 0.9779332280158997,
+      "box": [
+        115,
+        149,
+        658,
+        177
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9990642666816711,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, StrongForm Builders, 2019.062022.04",
+      "score": 0.9986991882324219,
+      "box": [
+        117,
+        289,
+        700,
+        316
+      ]
+    },
+    {
+      "text": "- Led structural installation projects",
+      "score": 0.9996625781059265,
+      "box": [
+        126,
+        314,
+        453,
+        341
+      ]
+    },
+    {
+      "text": "- Developed project risk assessments",
+      "score": 0.9816839694976807,
+      "box": [
+        128,
+        340,
+        476,
+        365
+      ]
+    },
+    {
+      "text": "Construction Laborers, Unified Track Builders, 2015.022017.12",
+      "score": 0.9874982833862305,
+      "box": [
+        116,
+        380,
+        714,
+        408
+      ]
+    },
+    {
+      "text": "- Supported crew leaders during tasks",
+      "score": 0.9861018061637878,
+      "box": [
+        125,
+        407,
+        480,
+        432
+      ]
+    },
+    {
+      "text": "- Handled power tools under supervision",
+      "score": 0.985955536365509,
+      "box": [
+        126,
+        431,
+        503,
+        458
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999920129776001,
+      "box": [
+        117,
+        494,
+        267,
+        521
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Construction Inspection, Morningstar High School, 2003",
+      "score": 0.9924042820930481,
+      "box": [
+        116,
+        540,
+        893,
+        567
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of job site coordination",
+      "score": 0.9864196181297302,
+      "box": [
+        133,
+        567,
+        565,
+        591
+      ]
+    }
+  ],
+  "seconds": 2.367723099887371,
+  "id": "28750",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

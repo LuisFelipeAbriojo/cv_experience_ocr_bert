@@ -1,0 +1,182 @@
+{
+  "lines": [
+    {
+      "text": "JAZMIN PATEL",
+      "score": 0.9998924136161804,
+      "box": [
+        116,
+        91,
+        362,
+        122
+      ]
+    },
+    {
+      "text": "HI, USA | +1-457-610-1016 | jazmin.patel@example.com",
+      "score": 0.9944103956222534,
+      "box": [
+        115,
+        150,
+        644,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9991553425788879,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, Caring Path Nursing, 2019.122023.01",
+      "score": 0.9931662082672119,
+      "box": [
+        116,
+        289,
+        663,
+        319
+      ]
+    },
+    {
+      "text": "- Directed clinical training standards",
+      "score": 0.9882757067680359,
+      "box": [
+        125,
+        314,
+        460,
+        342
+      ]
+    },
+    {
+      "text": "- Established nursing performance metrics",
+      "score": 0.9757454991340637,
+      "box": [
+        126,
+        339,
+        521,
+        368
+      ]
+    },
+    {
+      "text": "Registered Nurses, SunLife Nursing Services, 2016.102019.12",
+      "score": 0.9972637891769409,
+      "box": [
+        116,
+        381,
+        712,
+        409
+      ]
+    },
+    {
+      "text": "- Assisted with emergency interventions",
+      "score": 0.9837748408317566,
+      "box": [
+        124,
+        406,
+        497,
+        435
+      ]
+    },
+    {
+      "text": "- Educated patients on treatment plans",
+      "score": 0.9953387379646301,
+      "box": [
+        125,
+        431,
+        488,
+        459
+      ]
+    },
+    {
+      "text": "Registered Nurses, GentleCare Health, 2013.082016.10",
+      "score": 0.9997697472572327,
+      "box": [
+        118,
+        474,
+        649,
+        497
+      ]
+    },
+    {
+      "text": "- Recorded shift handoff notes",
+      "score": 0.998694658279419,
+      "box": [
+        126,
+        497,
+        410,
+        523
+      ]
+    },
+    {
+      "text": "- Prepared medical equipment for use",
+      "score": 0.9990373253822327,
+      "box": [
+        128,
+        521,
+        479,
+        551
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999163746833801,
+      "box": [
+        117,
+        587,
+        267,
+        614
+      ]
+    },
+    {
+      "text": "Master's, Health Care Management, Fairhill University, 2013",
+      "score": 0.9924630522727966,
+      "box": [
+        115,
+        631,
+        675,
+        659
+      ]
+    },
+    {
+      "text": "Bachelor's, Health and Human Services, Larkspur University, 2011",
+      "score": 0.9918932914733887,
+      "box": [
+        115,
+        656,
+        733,
+        684
+      ]
+    },
+    {
+      "text": "•Studied fundamentals of skin integrity maintenance",
+      "score": 0.9797642230987549,
+      "box": [
+        129,
+        681,
+        622,
+        711
+      ]
+    },
+    {
+      "text": "•Studied fundamentals of nursing communication",
+      "score": 0.9911573529243469,
+      "box": [
+        130,
+        706,
+        595,
+        735
+      ]
+    }
+  ],
+  "seconds": 4.921710999682546,
+  "id": "16670",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

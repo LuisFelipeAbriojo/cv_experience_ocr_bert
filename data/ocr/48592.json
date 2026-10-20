@@ -1,0 +1,102 @@
+{
+  "lines": [
+    {
+      "text": "JOSEPH SELLERS",
+      "score": 0.9998937845230103,
+      "box": [
+        115,
+        89,
+        417,
+        123
+      ]
+    },
+    {
+      "text": "TN, USA | +1-246-801-3787 | joseph.sellers@example.com",
+      "score": 0.9936533570289612,
+      "box": [
+        117,
+        149,
+        667,
+        177
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.999708354473114,
+      "box": [
+        117,
+        243,
+        317,
+        270
+      ]
+    },
+    {
+      "text": "Construction Laborers, Durable Works, 2021.012023.01",
+      "score": 0.9950724840164185,
+      "box": [
+        118,
+        290,
+        644,
+        314
+      ]
+    },
+    {
+      "text": "- Helped position heavy materials",
+      "score": 0.9760435819625854,
+      "box": [
+        125,
+        313,
+        439,
+        341
+      ]
+    },
+    {
+      "text": "- Prepared scaffolding platforms",
+      "score": 0.9853492975234985,
+      "box": [
+        127,
+        339,
+        426,
+        368
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999375939369202,
+      "box": [
+        116,
+        404,
+        268,
+        431
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Building Maintenance, Cloverfield High School, 2019",
+      "score": 0.9778187870979309,
+      "box": [
+        116,
+        446,
+        864,
+        475
+      ]
+    },
+    {
+      "text": "Completed coursework in basic sealant application",
+      "score": 0.9924161434173584,
+      "box": [
+        131,
+        472,
+        618,
+        500
+      ]
+    }
+  ],
+  "seconds": 2.012407900299877,
+  "id": "48592",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

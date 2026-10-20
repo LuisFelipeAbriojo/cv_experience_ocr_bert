@@ -1,0 +1,142 @@
+{
+  "lines": [
+    {
+      "text": "KYLE OLIVER",
+      "score": 0.9992772936820984,
+      "box": [
+        115,
+        87,
+        342,
+        123
+      ]
+    },
+    {
+      "text": "MD, USA | +1-362-572-1268 | kyle.oliver@example.com",
+      "score": 0.9900854229927063,
+      "box": [
+        115,
+        149,
+        637,
+        177
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9997572898864746,
+      "box": [
+        117,
+        243,
+        315,
+        270
+      ]
+    },
+    {
+      "text": "Construction Laborers, SureBuild Co., 2020.12—2023.01",
+      "score": 0.9922418594360352,
+      "box": [
+        118,
+        290,
+        635,
+        314
+      ]
+    },
+    {
+      "text": "- Developed cost estimation models",
+      "score": 0.9863755702972412,
+      "box": [
+        126,
+        314,
+        460,
+        340
+      ]
+    },
+    {
+      "text": "- Developed construction workflows",
+      "score": 0.9876192808151245,
+      "box": [
+        128,
+        340,
+        457,
+        365
+      ]
+    },
+    {
+      "text": "Construction Laborers, PillarWorks, 2018.10—2020.12",
+      "score": 0.9792436957359314,
+      "box": [
+        117,
+        381,
+        615,
+        406
+      ]
+    },
+    {
+      "text": "- Assisted with concrete pouring",
+      "score": 0.999285101890564,
+      "box": [
+        123,
+        403,
+        426,
+        435
+      ]
+    },
+    {
+      "text": "- Secured site fencing",
+      "score": 0.9860217571258545,
+      "box": [
+        125,
+        428,
+        332,
+        460
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999189376831055,
+      "box": [
+        117,
+        494,
+        268,
+        521
+      ]
+    },
+    {
+      "text": "Associate's degree, Plumbing Technology, Willow Creek University, 2021",
+      "score": 0.9938100576400757,
+      "box": [
+        117,
+        540,
+        792,
+        567
+      ]
+    },
+    {
+      "text": "•Completed coursework in surveying basics",
+      "score": 0.9920798540115356,
+      "box": [
+        131,
+        566,
+        545,
+        591
+      ]
+    },
+    {
+      "text": "• Completed coursework in construction cost basics",
+      "score": 0.9965837001800537,
+      "box": [
+        133,
+        592,
+        611,
+        615
+      ]
+    }
+  ],
+  "seconds": 2.317491200286895,
+  "id": "24195",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

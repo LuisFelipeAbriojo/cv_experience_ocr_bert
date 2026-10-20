@@ -1,0 +1,212 @@
+{
+  "lines": [
+    {
+      "text": "ABRAHAM WOODARD",
+      "score": 0.9863064289093018,
+      "box": [
+        117,
+        90,
+        479,
+        122
+      ]
+    },
+    {
+      "text": "CA, USA | +1-827-525-5601 | abraham.woodard@example.com",
+      "score": 0.9695507287979126,
+      "box": [
+        118,
+        152,
+        708,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9991223216056824,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Learning Springs School, 2018.11-2023.01",
+      "score": 0.9904202222824097,
+      "box": [
+        115,
+        287,
+        865,
+        318
+      ]
+    },
+    {
+      "text": "- Established instructional best practices",
+      "score": 0.9971638917922974,
+      "box": [
+        126,
+        315,
+        501,
+        341
+      ]
+    },
+    {
+      "text": "- Implemented academic policy updates",
+      "score": 0.9803388714790344,
+      "box": [
+        126,
+        339,
+        497,
+        369
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Friendly Grove School, 2014.092018.11",
+      "score": 0.9940620064735413,
+      "box": [
+        116,
+        381,
+        845,
+        411
+      ]
+    },
+    {
+      "text": "- Directed instructional planning processes",
+      "score": 0.9888570308685303,
+      "box": [
+        126,
+        407,
+        521,
+        434
+      ]
+    },
+    {
+      "text": "- Developed student performance metrics",
+      "score": 0.9905415177345276,
+      "box": [
+        126,
+        431,
+        513,
+        459
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Learning Roots Academy, 2010.072014.09",
+      "score": 0.9894610047340393,
+      "box": [
+        118,
+        472,
+        872,
+        499
+      ]
+    },
+    {
+      "text": "- Prepared remediation materials",
+      "score": 0.9937115907669067,
+      "box": [
+        126,
+        497,
+        435,
+        525
+      ]
+    },
+    {
+      "text": "- Implemented classroom improvement plans",
+      "score": 0.9978929162025452,
+      "box": [
+        127,
+        521,
+        546,
+        551
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Open Meadow School, 2006.04—2010.07",
+      "score": 0.9837422966957092,
+      "box": [
+        116,
+        563,
+        844,
+        591
+      ]
+    },
+    {
+      "text": "- Implemented classroom seating plans",
+      "score": 0.989863932132721,
+      "box": [
+        126,
+        590,
+        494,
+        618
+      ]
+    },
+    {
+      "text": "- Organized classroom learning resources",
+      "score": 0.9920970797538757,
+      "box": [
+        126,
+        613,
+        518,
+        647
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999182820320129,
+      "box": [
+        117,
+        681,
+        266,
+        705
+      ]
+    },
+    {
+      "text": "Master's, Child and Youth Studies, Ironwood University, 2013",
+      "score": 0.9932294487953186,
+      "box": [
+        115,
+        723,
+        685,
+        750
+      ]
+    },
+    {
+      "text": "Bachelor's, Introductory Education, Riverside University, 2011",
+      "score": 0.9964357018470764,
+      "box": [
+        114,
+        746,
+        690,
+        777
+      ]
+    },
+    {
+      "text": "• Completed coursework in educational communication planning",
+      "score": 0.9721778631210327,
+      "box": [
+        130,
+        775,
+        726,
+        802
+      ]
+    },
+    {
+      "text": "•Studied foundational teaching methods",
+      "score": 0.9821428060531616,
+      "box": [
+        132,
+        799,
+        509,
+        826
+      ]
+    }
+  ],
+  "seconds": 3.706533499993384,
+  "id": "04537",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

@@ -1,0 +1,172 @@
+{
+  "lines": [
+    {
+      "text": "JOSEPH BERGER",
+      "score": 0.9997685551643372,
+      "box": [
+        115,
+        89,
+        406,
+        122
+      ]
+    },
+    {
+      "text": "CA, USA | +1-577-323-7415 | joseph.berger@example.com",
+      "score": 0.9870339035987854,
+      "box": [
+        116,
+        150,
+        668,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9985945820808411,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Softpath Digital, 2020.12—2023.01",
+      "score": 0.9801560640335083,
+      "box": [
+        117,
+        290,
+        635,
+        314
+      ]
+    },
+    {
+      "text": "- Implemented data pipeline architectures",
+      "score": 0.9873684048652649,
+      "box": [
+        127,
+        314,
+        513,
+        343
+      ]
+    },
+    {
+      "text": "- Designed logging infrastructures",
+      "score": 0.9846605658531189,
+      "box": [
+        128,
+        339,
+        443,
+        369
+      ]
+    },
+    {
+      "text": "Software Developers, Softway Solutions, 2018.112020.12",
+      "score": 0.9847091436386108,
+      "box": [
+        117,
+        382,
+        664,
+        409
+      ]
+    },
+    {
+      "text": "- Improved application performance",
+      "score": 0.9839567542076111,
+      "box": [
+        127,
+        409,
+        457,
+        433
+      ]
+    },
+    {
+      "text": "- Integrated messaging systems",
+      "score": 0.9655628800392151,
+      "box": [
+        127,
+        431,
+        426,
+        459
+      ]
+    },
+    {
+      "text": "Software Developers, Softpath Labs, 2014.092016.11",
+      "score": 0.9920156598091125,
+      "box": [
+        117,
+        472,
+        625,
+        499
+      ]
+    },
+    {
+      "text": "- Implemented logging features",
+      "score": 0.9985566735267639,
+      "box": [
+        127,
+        497,
+        419,
+        525
+      ]
+    },
+    {
+      "text": "- Handled feature toggles",
+      "score": 0.9993480443954468,
+      "box": [
+        128,
+        520,
+        365,
+        551
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999053478240967,
+      "box": [
+        117,
+        587,
+        267,
+        614
+      ]
+    },
+    {
+      "text": "Bachelor's, Goldenridge University, 2008",
+      "score": 0.9805536270141602,
+      "box": [
+        117,
+        632,
+        495,
+        659
+      ]
+    },
+    {
+      "text": "•Studied principles of virtualization",
+      "score": 0.9803018569946289,
+      "box": [
+        129,
+        657,
+        460,
+        685
+      ]
+    },
+    {
+      "text": "Completed coursework in code refactoring",
+      "score": 0.9975468516349792,
+      "box": [
+        131,
+        681,
+        539,
+        710
+      ]
+    }
+  ],
+  "seconds": 2.181601899676025,
+  "id": "03158",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

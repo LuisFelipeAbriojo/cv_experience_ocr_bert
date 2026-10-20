@@ -1,0 +1,142 @@
+{
+  "lines": [
+    {
+      "text": "SERGIO GENTRY",
+      "score": 0.9691519141197205,
+      "box": [
+        117,
+        91,
+        395,
+        121
+      ]
+    },
+    {
+      "text": "NY, USA | +1-834-305-4606 | sergio.gentry@example.com",
+      "score": 0.9894485473632812,
+      "box": [
+        115,
+        149,
+        661,
+        177
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9997680187225342,
+      "box": [
+        117,
+        243,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Integrity Ledger Group, 2019.112021.07",
+      "score": 0.9848887324333191,
+      "box": [
+        116,
+        289,
+        709,
+        316
+      ]
+    },
+    {
+      "text": "- Led financial data standardization",
+      "score": 0.9875619411468506,
+      "box": [
+        128,
+        314,
+        454,
+        341
+      ]
+    },
+    {
+      "text": "- Developed audit quality standards",
+      "score": 0.9938362240791321,
+      "box": [
+        128,
+        339,
+        457,
+        367
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Integrity Ledger Group, 2017.042018.12",
+      "score": 0.9910170435905457,
+      "box": [
+        116,
+        380,
+        710,
+        408
+      ]
+    },
+    {
+      "text": "- Prepared aging reports",
+      "score": 0.9792129397392273,
+      "box": [
+        124,
+        406,
+        357,
+        434
+      ]
+    },
+    {
+      "text": "- Compiled audit evidence",
+      "score": 0.969096302986145,
+      "box": [
+        128,
+        432,
+        371,
+        458
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999268054962158,
+      "box": [
+        117,
+        494,
+        268,
+        521
+      ]
+    },
+    {
+      "text": "Bachelor's, Finance, Springfield University, 2016",
+      "score": 0.9966738224029541,
+      "box": [
+        116,
+        540,
+        566,
+        566
+      ]
+    },
+    {
+      "text": "• Completed coursework in accounting analytics basics",
+      "score": 0.9817541837692261,
+      "box": [
+        132,
+        566,
+        642,
+        592
+      ]
+    },
+    {
+      "text": "• Completed coursework in accounting research methods",
+      "score": 0.9885145425796509,
+      "box": [
+        133,
+        591,
+        661,
+        615
+      ]
+    }
+  ],
+  "seconds": 2.1810262999497354,
+  "id": "37775",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

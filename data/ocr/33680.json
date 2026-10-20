@@ -1,0 +1,142 @@
+{
+  "lines": [
+    {
+      "text": "SARAH BLACKBURN",
+      "score": 0.9920415282249451,
+      "box": [
+        116,
+        90,
+        458,
+        122
+      ]
+    },
+    {
+      "text": "NJ, USA | +1-476-926-4079 |sarah.blackburn@example.com",
+      "score": 0.970187783241272,
+      "box": [
+        117,
+        151,
+        684,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.999011754989624,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, EverCount Group, 2019.03—2020.11",
+      "score": 0.9879814982414246,
+      "box": [
+        115,
+        288,
+        662,
+        316
+      ]
+    },
+    {
+      "text": "- Directed accounting system implementations",
+      "score": 0.9879361987113953,
+      "box": [
+        127,
+        314,
+        557,
+        342
+      ]
+    },
+    {
+      "text": "- Designed accounting frameworks",
+      "score": 0.990356981754303,
+      "box": [
+        128,
+        339,
+        452,
+        368
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Integrity Ledger Financial, 2016.10—2018.06",
+      "score": 0.9781100153923035,
+      "box": [
+        115,
+        379,
+        736,
+        410
+      ]
+    },
+    {
+      "text": "- Reconciled bank statements",
+      "score": 0.9868962168693542,
+      "box": [
+        125,
+        407,
+        404,
+        433
+      ]
+    },
+    {
+      "text": "- Prepared basic financial reports",
+      "score": 0.9925256371498108,
+      "box": [
+        127,
+        430,
+        436,
+        460
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9998915791511536,
+      "box": [
+        117,
+        494,
+        268,
+        521
+      ]
+    },
+    {
+      "text": "Bachelor's, Accounting and Auditing, Crestline University, 2006",
+      "score": 0.9961364269256592,
+      "box": [
+        115,
+        539,
+        700,
+        567
+      ]
+    },
+    {
+      "text": "• Completed coursework in audit ethics",
+      "score": 0.9881475567817688,
+      "box": [
+        132,
+        566,
+        495,
+        591
+      ]
+    },
+    {
+      "text": "•Completed coursework in accounting software applications",
+      "score": 0.9901877045631409,
+      "box": [
+        132,
+        591,
+        690,
+        618
+      ]
+    }
+  ],
+  "seconds": 2.315123699605465,
+  "id": "33680",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

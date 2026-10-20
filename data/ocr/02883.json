@@ -1,0 +1,142 @@
+{
+  "lines": [
+    {
+      "text": "EBONY LARSON",
+      "score": 0.9988166689872742,
+      "box": [
+        118,
+        91,
+        387,
+        121
+      ]
+    },
+    {
+      "text": "CA, USA | +1-331-334-3005 | ebony.larson@example.com",
+      "score": 0.97885662317276,
+      "box": [
+        116,
+        150,
+        660,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9991362690925598,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Learning Garden Academy, 2020.01—2022.0",
+      "score": 0.9888033270835876,
+      "box": [
+        115,
+        287,
+        877,
+        318
+      ]
+    },
+    {
+      "text": "- Directed instructional planning processes",
+      "score": 0.9822809100151062,
+      "box": [
+        126,
+        315,
+        522,
+        342
+      ]
+    },
+    {
+      "text": "- Led instructional design reviews",
+      "score": 0.9685654640197754,
+      "box": [
+        127,
+        340,
+        438,
+        366
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Future Star Academy, 2016.10—2019.04",
+      "score": 0.9902880787849426,
+      "box": [
+        115,
+        379,
+        836,
+        410
+      ]
+    },
+    {
+      "text": "- Prepared daily instructional agendas",
+      "score": 0.9930397868156433,
+      "box": [
+        125,
+        406,
+        481,
+        434
+      ]
+    },
+    {
+      "text": "- Prepared daily lesson plans aligned with curriculum guidelines",
+      "score": 0.9936943054199219,
+      "box": [
+        127,
+        431,
+        716,
+        458
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999403357505798,
+      "box": [
+        117,
+        494,
+        267,
+        521
+      ]
+    },
+    {
+      "text": "Bachelor's, Foundational Education, Westbrook University, 2013",
+      "score": 0.9923641681671143,
+      "box": [
+        115,
+        539,
+        712,
+        567
+      ]
+    },
+    {
+      "text": "• Completed coursework in educational communication",
+      "score": 0.9886434674263,
+      "box": [
+        131,
+        566,
+        642,
+        591
+      ]
+    },
+    {
+      "text": "Studied principles of behavior management",
+      "score": 0.9824827313423157,
+      "box": [
+        130,
+        590,
+        552,
+        618
+      ]
+    }
+  ],
+  "seconds": 2.458425600081682,
+  "id": "02883",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

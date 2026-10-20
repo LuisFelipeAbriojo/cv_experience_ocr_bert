@@ -1,0 +1,172 @@
+{
+  "lines": [
+    {
+      "text": "TRACEY HART",
+      "score": 0.9593068957328796,
+      "box": [
+        117,
+        91,
+        357,
+        121
+      ]
+    },
+    {
+      "text": "TN, USA | +1-706-616-5584 | tracey.hart@example.com",
+      "score": 0.9816640019416809,
+      "box": [
+        117,
+        151,
+        637,
+        177
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9991820454597473,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, LifeWay Health Services, 2020.02—2023.01",
+      "score": 0.9899863004684448,
+      "box": [
+        115,
+        287,
+        703,
+        318
+      ]
+    },
+    {
+      "text": "- Managed clinical compliance programs",
+      "score": 0.9821365475654602,
+      "box": [
+        126,
+        314,
+        502,
+        344
+      ]
+    },
+    {
+      "text": "- Directed clinical training standards",
+      "score": 0.9896960854530334,
+      "box": [
+        127,
+        340,
+        459,
+        367
+      ]
+    },
+    {
+      "text": "Registered Nurses, BrightCare Nursing, 2015.062018.05",
+      "score": 0.9924176335334778,
+      "box": [
+        116,
+        381,
+        653,
+        410
+      ]
+    },
+    {
+      "text": "- Provided perioperative nursing care",
+      "score": 0.9997270107269287,
+      "box": [
+        126,
+        408,
+        472,
+        434
+      ]
+    },
+    {
+      "text": "- Monitored patient compliance",
+      "score": 0.9850366711616516,
+      "box": [
+        126,
+        431,
+        417,
+        459
+      ]
+    },
+    {
+      "text": "Registered Nurses, SunBridge Nursing, 2011.122014.11",
+      "score": 0.9867511987686157,
+      "box": [
+        118,
+        474,
+        649,
+        498
+      ]
+    },
+    {
+      "text": "- Monitored oxygen therapy",
+      "score": 0.9994786381721497,
+      "box": [
+        127,
+        497,
+        385,
+        527
+      ]
+    },
+    {
+      "text": "- Assisted with respiratory treatments",
+      "score": 0.9773067831993103,
+      "box": [
+        128,
+        521,
+        473,
+        550
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999164938926697,
+      "box": [
+        117,
+        587,
+        267,
+        614
+      ]
+    },
+    {
+      "text": "Associate's degree, Health Services, Brookstone University, 2008",
+      "score": 0.9935632348060608,
+      "box": [
+        117,
+        632,
+        724,
+        659
+      ]
+    },
+    {
+      "text": "•Completed coursework in health policy basics",
+      "score": 0.9840261936187744,
+      "box": [
+        131,
+        658,
+        571,
+        685
+      ]
+    },
+    {
+      "text": "•Completed coursework in patient triage",
+      "score": 0.9851570129394531,
+      "box": [
+        132,
+        681,
+        510,
+        710
+      ]
+    }
+  ],
+  "seconds": 2.5811823001131415,
+  "id": "48524",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

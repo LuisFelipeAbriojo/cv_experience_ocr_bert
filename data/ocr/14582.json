@@ -1,0 +1,192 @@
+{
+  "lines": [
+    {
+      "text": "STEVEN ZIMMERMAN",
+      "score": 0.995893120765686,
+      "box": [
+        117,
+        92,
+        468,
+        122
+      ]
+    },
+    {
+      "text": "GA, USA | +1-898-971-6276 | steven.zimmerman@example.com",
+      "score": 0.9953089952468872,
+      "box": [
+        116,
+        150,
+        719,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9989755749702454,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, SolidPoint Construction, 2019.05—2023.01",
+      "score": 0.9913793206214905,
+      "box": [
+        118,
+        290,
+        722,
+        314
+      ]
+    },
+    {
+      "text": "- Managed large-scale installations",
+      "score": 0.9844033122062683,
+      "box": [
+        126,
+        314,
+        452,
+        342
+      ]
+    },
+    {
+      "text": "- Coordinated large-scale material logistics",
+      "score": 0.9834495782852173,
+      "box": [
+        127,
+        340,
+        524,
+        368
+      ]
+    },
+    {
+      "text": "Construction Laborers, Unified Structures, 2015.092019.05",
+      "score": 0.9882225394248962,
+      "box": [
+        118,
+        383,
+        674,
+        407
+      ]
+    },
+    {
+      "text": "- Supervised high-risk operations",
+      "score": 0.9806119799613953,
+      "box": [
+        127,
+        409,
+        434,
+        433
+      ]
+    },
+    {
+      "text": "- Managed multi-phase projects",
+      "score": 0.9926853775978088,
+      "box": [
+        126,
+        431,
+        422,
+        459
+      ]
+    },
+    {
+      "text": "Construction Laborers, Allied Track Co., 2011.04—2014.12",
+      "score": 0.9823952913284302,
+      "box": [
+        116,
+        471,
+        657,
+        499
+      ]
+    },
+    {
+      "text": "- Prepared and poured concrete forms",
+      "score": 0.9796856641769409,
+      "box": [
+        129,
+        500,
+        484,
+        524
+      ]
+    },
+    {
+      "text": "- Installed electrical wiring supports",
+      "score": 0.9945353269577026,
+      "box": [
+        128,
+        522,
+        454,
+        549
+      ]
+    },
+    {
+      "text": "Construction Laborers, NextBuild Contractors, 2006.042010.01",
+      "score": 0.9915926456451416,
+      "box": [
+        118,
+        566,
+        710,
+        590
+      ]
+    },
+    {
+      "text": "- Secured site fencing",
+      "score": 0.9701228737831116,
+      "box": [
+        126,
+        588,
+        332,
+        618
+      ]
+    },
+    {
+      "text": "- Assisted with framing support",
+      "score": 0.9913862347602844,
+      "box": [
+        125,
+        613,
+        418,
+        644
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9998893737792969,
+      "box": [
+        117,
+        681,
+        266,
+        705
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Construction Infrastructure, Maple Ridge High School, 1999",
+      "score": 0.9940204620361328,
+      "box": [
+        115,
+        723,
+        928,
+        750
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of surface preparation",
+      "score": 0.9678957462310791,
+      "box": [
+        131,
+        750,
+        560,
+        773
+      ]
+    }
+  ],
+  "seconds": 2.783132799901068,
+  "id": "14582",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

@@ -1,0 +1,202 @@
+{
+  "lines": [
+    {
+      "text": "JORDAN BURNS",
+      "score": 0.9998472332954407,
+      "box": [
+        116,
+        91,
+        387,
+        122
+      ]
+    },
+    {
+      "text": "AR, USA | +1-676-549-1502 | jordan.burns@example.com",
+      "score": 0.9848324656486511,
+      "box": [
+        116,
+        150,
+        656,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.993263304233551,
+      "box": [
+        117,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, BrightSpring Health Services, 2019.02—2023.01",
+      "score": 0.988598644733429,
+      "box": [
+        116,
+        289,
+        743,
+        319
+      ]
+    },
+    {
+      "text": "- Implemented patient monitoring systems",
+      "score": 0.9893280863761902,
+      "box": [
+        126,
+        314,
+        518,
+        343
+      ]
+    },
+    {
+      "text": "- Managed clinical compliance programs",
+      "score": 0.9907658100128174,
+      "box": [
+        127,
+        339,
+        503,
+        369
+      ]
+    },
+    {
+      "text": "Registered Nurses, NewBridge Care Center, 2015.022019.02",
+      "score": 0.9854708909988403,
+      "box": [
+        118,
+        383,
+        697,
+        407
+      ]
+    },
+    {
+      "text": "- Directed emergency response planning",
+      "score": 0.9996805787086487,
+      "box": [
+        125,
+        406,
+        505,
+        435
+      ]
+    },
+    {
+      "text": "- Developed nursing policy frameworks",
+      "score": 0.9862216114997864,
+      "box": [
+        126,
+        431,
+        489,
+        459
+      ]
+    },
+    {
+      "text": "Registered Nurses, BrightLife Health Services, 2011.022015.02",
+      "score": 0.9995280504226685,
+      "box": [
+        116,
+        471,
+        717,
+        499
+      ]
+    },
+    {
+      "text": "- Monitored cardiac telemetry",
+      "score": 0.9884346723556519,
+      "box": [
+        126,
+        496,
+        400,
+        526
+      ]
+    },
+    {
+      "text": "- Provided wound care management",
+      "score": 0.9985204935073853,
+      "box": [
+        127,
+        520,
+        467,
+        552
+      ]
+    },
+    {
+      "text": "Registered Nurses, LifeSpring Nursing, 2005.072009.07",
+      "score": 0.9960523843765259,
+      "box": [
+        118,
+        566,
+        646,
+        590
+      ]
+    },
+    {
+      "text": "- Monitored patient recovery",
+      "score": 0.9739958643913269,
+      "box": [
+        126,
+        589,
+        390,
+        618
+      ]
+    },
+    {
+      "text": "- Recorded shift handoff notes",
+      "score": 0.9738043546676636,
+      "box": [
+        125,
+        613,
+        410,
+        643
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9998700022697449,
+      "box": [
+        117,
+        681,
+        266,
+        705
+      ]
+    },
+    {
+      "text": "Associate's degree, Health Services Administration, Foxwood University, 2001",
+      "score": 0.9957938194274902,
+      "box": [
+        117,
+        725,
+        838,
+        748
+      ]
+    },
+    {
+      "text": "•Studied fundamentals of trauma care",
+      "score": 0.9916237592697144,
+      "box": [
+        131,
+        749,
+        492,
+        774
+      ]
+    },
+    {
+      "text": "Completed coursework in clinical audits basics",
+      "score": 0.9953480362892151,
+      "box": [
+        132,
+        772,
+        580,
+        800
+      ]
+    }
+  ],
+  "seconds": 3.279893800150603,
+  "id": "02317",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

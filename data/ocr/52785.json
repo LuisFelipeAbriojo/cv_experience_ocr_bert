@@ -1,0 +1,202 @@
+{
+  "lines": [
+    {
+      "text": "JAMES HODGES",
+      "score": 0.9997674822807312,
+      "box": [
+        116,
+        91,
+        387,
+        122
+      ]
+    },
+    {
+      "text": "TX, USA | +1-324-970-7245 | james.hodges@example.com",
+      "score": 0.9800838232040405,
+      "box": [
+        117,
+        151,
+        667,
+        177
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9991140365600586,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, Stronghold Construction, 2020.06—2023.01",
+      "score": 0.9810217022895813,
+      "box": [
+        117,
+        290,
+        732,
+        317
+      ]
+    },
+    {
+      "text": "- Designed site logistics frameworks",
+      "score": 0.9825667142868042,
+      "box": [
+        126,
+        314,
+        461,
+        342
+      ]
+    },
+    {
+      "text": "- Developed site performance metrics",
+      "score": 0.9885959625244141,
+      "box": [
+        127,
+        340,
+        477,
+        368
+      ]
+    },
+    {
+      "text": "Construction Laborers, AnchorBuild Co., 2017.112020.06",
+      "score": 0.9963986277580261,
+      "box": [
+        118,
+        383,
+        659,
+        407
+      ]
+    },
+    {
+      "text": "- Implemented workflow optimization",
+      "score": 0.9889660477638245,
+      "box": [
+        127,
+        409,
+        467,
+        432
+      ]
+    },
+    {
+      "text": "- Reviewed workflow efficiency reports",
+      "score": 0.9934611916542053,
+      "box": [
+        127,
+        432,
+        484,
+        457
+      ]
+    },
+    {
+      "text": "Construction Laborers, Precision Line Contractors, 2014.09—2017.05",
+      "score": 0.9939839839935303,
+      "box": [
+        116,
+        471,
+        754,
+        499
+      ]
+    },
+    {
+      "text": "- Laid flooring materials",
+      "score": 0.9769943356513977,
+      "box": [
+        127,
+        500,
+        347,
+        524
+      ]
+    },
+    {
+      "text": "- Installed roofing materials",
+      "score": 0.9780229926109314,
+      "box": [
+        127,
+        521,
+        380,
+        550
+      ]
+    },
+    {
+      "text": "Construction Laborers, PillarWorks, 2011.072014.03",
+      "score": 0.9973045587539673,
+      "box": [
+        118,
+        566,
+        614,
+        589
+      ]
+    },
+    {
+      "text": "- Maintained cleanliness of work areas",
+      "score": 0.9848397970199585,
+      "box": [
+        126,
+        589,
+        485,
+        616
+      ]
+    },
+    {
+      "text": "- Applied basic sealants and adhesives",
+      "score": 0.9868894815444946,
+      "box": [
+        128,
+        615,
+        490,
+        641
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999048709869385,
+      "box": [
+        117,
+        681,
+        266,
+        705
+      ]
+    },
+    {
+      "text": "Bachelor's, Construction Planning, Autumn Ridge University, 2006",
+      "score": 0.9842555522918701,
+      "box": [
+        116,
+        724,
+        728,
+        749
+      ]
+    },
+    {
+      "text": "• Completed coursework in construction workflow",
+      "score": 0.9839627742767334,
+      "box": [
+        132,
+        750,
+        590,
+        774
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of foundation systems",
+      "score": 0.986610472202301,
+      "box": [
+        132,
+        773,
+        559,
+        799
+      ]
+    }
+  ],
+  "seconds": 3.053206699900329,
+  "id": "52785",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

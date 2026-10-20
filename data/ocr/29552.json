@@ -1,0 +1,182 @@
+{
+  "lines": [
+    {
+      "text": "VINCENT HO",
+      "score": 0.9997565150260925,
+      "box": [
+        117,
+        91,
+        324,
+        122
+      ]
+    },
+    {
+      "text": "MN, USA | +1-413-690-4287 | vincent.ho@example.com",
+      "score": 0.9650176763534546,
+      "box": [
+        116,
+        151,
+        639,
+        177
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.988528311252594,
+      "box": [
+        118,
+        245,
+        314,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Flowstack Tech, 2020.12—2023.01",
+      "score": 0.9863434433937073,
+      "box": [
+        117,
+        291,
+        640,
+        315
+      ]
+    },
+    {
+      "text": "- Implemented infrastructure automation",
+      "score": 0.9956100583076477,
+      "box": [
+        128,
+        315,
+        500,
+        340
+      ]
+    },
+    {
+      "text": "- Implemented long-term maintenance plans",
+      "score": 0.9861753582954407,
+      "box": [
+        129,
+        339,
+        537,
+        368
+      ]
+    },
+    {
+      "text": "Software Developers, Cleargrid Systems, 2018.112020.12",
+      "score": 0.9927406311035156,
+      "box": [
+        117,
+        382,
+        669,
+        409
+      ]
+    },
+    {
+      "text": "- Integrated third-party services",
+      "score": 0.9884189367294312,
+      "box": [
+        127,
+        409,
+        418,
+        433
+      ]
+    },
+    {
+      "text": "- Implemented feature flags",
+      "score": 0.9977474212646484,
+      "box": [
+        127,
+        430,
+        384,
+        461
+      ]
+    },
+    {
+      "text": "Software Developers, Corefield Software, 2016.102018.11",
+      "score": 0.9889448285102844,
+      "box": [
+        117,
+        472,
+        668,
+        499
+      ]
+    },
+    {
+      "text": "- Handled feature toggles",
+      "score": 0.9811149835586548,
+      "box": [
+        126,
+        497,
+        365,
+        525
+      ]
+    },
+    {
+      "text": "- Updated frontend stylesheets",
+      "score": 0.9824730157852173,
+      "box": [
+        128,
+        521,
+        414,
+        550
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999486207962036,
+      "box": [
+        118,
+        588,
+        266,
+        612
+      ]
+    },
+    {
+      "text": "Master's, Foxwood University, 2016",
+      "score": 0.9853987097740173,
+      "box": [
+        117,
+        633,
+        448,
+        657
+      ]
+    },
+    {
+      "text": "Bachelor's, Stonewood University, 2014",
+      "score": 0.9939842224121094,
+      "box": [
+        116,
+        657,
+        487,
+        684
+      ]
+    },
+    {
+      "text": "• Completed coursework in computer programming fundamentals",
+      "score": 0.9988316297531128,
+      "box": [
+        133,
+        684,
+        735,
+        708
+      ]
+    },
+    {
+      "text": "Completed coursework in system programming",
+      "score": 0.9956706762313843,
+      "box": [
+        131,
+        703,
+        586,
+        739
+      ]
+    }
+  ],
+  "seconds": 2.449241700116545,
+  "id": "29552",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

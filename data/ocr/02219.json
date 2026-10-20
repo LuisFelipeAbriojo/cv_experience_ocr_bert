@@ -1,0 +1,112 @@
+{
+  "lines": [
+    {
+      "text": "CELESTINO HOOVER",
+      "score": 0.9996592998504639,
+      "box": [
+        118,
+        91,
+        462,
+        122
+      ]
+    },
+    {
+      "text": "AR, USA | +1-589-480-8959 | celestino.hoover@example.com",
+      "score": 0.9800432324409485,
+      "box": [
+        118,
+        152,
+        692,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9997135996818542,
+      "box": [
+        117,
+        243,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Accountants Auditors, SteadyLedger Financial Group, 2020.03—2023.01",
+      "score": 0.9908167123794556,
+      "box": [
+        116,
+        289,
+        782,
+        316
+      ]
+    },
+    {
+      "text": "- Assisted with budget tracking",
+      "score": 0.9966628551483154,
+      "box": [
+        125,
+        312,
+        414,
+        343
+      ]
+    },
+    {
+      "text": "- Assisted with compliance documentation",
+      "score": 0.9833561182022095,
+      "box": [
+        129,
+        341,
+        518,
+        365
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999479651451111,
+      "box": [
+        116,
+        404,
+        268,
+        431
+      ]
+    },
+    {
+      "text": "Bachelor's, Financial Management, Greenfield Ridge University, 2023",
+      "score": 0.9884488582611084,
+      "box": [
+        114,
+        445,
+        761,
+        476
+      ]
+    },
+    {
+      "text": "Completed coursework in strategic cost management",
+      "score": 0.9981030821800232,
+      "box": [
+        131,
+        472,
+        641,
+        501
+      ]
+    },
+    {
+      "text": "• Completed coursework in accounting project management",
+      "score": 0.9706792235374451,
+      "box": [
+        132,
+        497,
+        687,
+        526
+      ]
+    }
+  ],
+  "seconds": 2.1941303997300565,
+  "id": "02219",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

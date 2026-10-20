@@ -1,0 +1,112 @@
+{
+  "lines": [
+    {
+      "text": "BRETT TOWNSEND",
+      "score": 0.9997946619987488,
+      "box": [
+        118,
+        91,
+        434,
+        122
+      ]
+    },
+    {
+      "text": "MO, USA | +1-900-251-1929 | brett.townsend@example.com",
+      "score": 0.9962170124053955,
+      "box": [
+        115,
+        149,
+        683,
+        177
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9997389912605286,
+      "box": [
+        117,
+        243,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Software Developers, Skybridge Software, 2020.012023.01",
+      "score": 0.9998708963394165,
+      "box": [
+        116,
+        289,
+        676,
+        316
+      ]
+    },
+    {
+      "text": "- Updated frontend stylesheets",
+      "score": 0.9700957536697388,
+      "box": [
+        127,
+        316,
+        414,
+        340
+      ]
+    },
+    {
+      "text": "- Assisted with database queries",
+      "score": 0.9910327792167664,
+      "box": [
+        127,
+        338,
+        431,
+        368
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999213814735413,
+      "box": [
+        116,
+        404,
+        268,
+        431
+      ]
+    },
+    {
+      "text": "Bachelor's, Greenfield Ridge University, 2020",
+      "score": 0.9926890730857849,
+      "box": [
+        115,
+        446,
+        539,
+        474
+      ]
+    },
+    {
+      "text": " Completed coursework in programming in C++",
+      "score": 0.9856467247009277,
+      "box": [
+        131,
+        472,
+        581,
+        501
+      ]
+    },
+    {
+      "text": "Completed coursework in database optimization",
+      "score": 0.999375581741333,
+      "box": [
+        132,
+        497,
+        593,
+        525
+      ]
+    }
+  ],
+  "seconds": 1.9014391000382602,
+  "id": "30153",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

@@ -1,0 +1,112 @@
+{
+  "lines": [
+    {
+      "text": "ANDREW CLARKE",
+      "score": 0.9994738698005676,
+      "box": [
+        115,
+        87,
+        417,
+        123
+      ]
+    },
+    {
+      "text": "NJ, USA | +1-459-700-9844 | andrew.clarke@example.com",
+      "score": 0.9925362467765808,
+      "box": [
+        115,
+        149,
+        668,
+        177
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9997170567512512,
+      "box": [
+        117,
+        243,
+        317,
+        270
+      ]
+    },
+    {
+      "text": "Accountants Auditors, FairBalance Accounting, 2020.03—2023.01",
+      "score": 0.9856738448143005,
+      "box": [
+        115,
+        287,
+        719,
+        315
+      ]
+    },
+    {
+      "text": "- Reconciled subsidiary ledgers",
+      "score": 0.9972518682479858,
+      "box": [
+        125,
+        312,
+        420,
+        342
+      ]
+    },
+    {
+      "text": "- Prepared expense reports",
+      "score": 0.9871251583099365,
+      "box": [
+        127,
+        339,
+        384,
+        368
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999259114265442,
+      "box": [
+        116,
+        404,
+        268,
+        431
+      ]
+    },
+    {
+      "text": "Bachelor's, Organizational Management, Clearway University, 2022",
+      "score": 0.9888105392456055,
+      "box": [
+        115,
+        446,
+        742,
+        474
+      ]
+    },
+    {
+      "text": "Studied fundamentals of audit evidence",
+      "score": 0.9828420877456665,
+      "box": [
+        130,
+        473,
+        514,
+        498
+      ]
+    },
+    {
+      "text": "• Completed coursework in financial controls",
+      "score": 0.9868026375770569,
+      "box": [
+        134,
+        499,
+        545,
+        523
+      ]
+    }
+  ],
+  "seconds": 2.122307399753481,
+  "id": "33606",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

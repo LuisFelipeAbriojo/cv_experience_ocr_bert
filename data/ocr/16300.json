@@ -1,0 +1,202 @@
+{
+  "lines": [
+    {
+      "text": "KEVIN REESE",
+      "score": 0.9943841695785522,
+      "box": [
+        117,
+        91,
+        343,
+        121
+      ]
+    },
+    {
+      "text": "GA, USA | +1-634-857-4958 | kevin.reese@example.com",
+      "score": 0.997247576713562,
+      "box": [
+        116,
+        150,
+        648,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9991335868835449,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Balanced Path Accounting, 2020.06—2023.01",
+      "score": 0.9941352009773254,
+      "box": [
+        115,
+        287,
+        744,
+        318
+      ]
+    },
+    {
+      "text": "- Designed financial control environments",
+      "score": 0.9881888628005981,
+      "box": [
+        128,
+        316,
+        512,
+        341
+      ]
+    },
+    {
+      "text": "- Led audit planning governance",
+      "score": 0.9884257912635803,
+      "box": [
+        127,
+        340,
+        429,
+        370
+      ]
+    },
+    {
+      "text": "Accountants Auditors, OpenBalance Financial, 2017.112020.06",
+      "score": 0.9984717965126038,
+      "box": [
+        118,
+        383,
+        716,
+        407
+      ]
+    },
+    {
+      "text": "- Directed financial system architecture",
+      "score": 0.9792238473892212,
+      "box": [
+        125,
+        408,
+        489,
+        433
+      ]
+    },
+    {
+      "text": "- Directed accounting system implementations",
+      "score": 0.9994596838951111,
+      "box": [
+        126,
+        433,
+        556,
+        457
+      ]
+    },
+    {
+      "text": "Accountants Auditors, SolidBalance Financial, 2015.042017.11",
+      "score": 0.9935857653617859,
+      "box": [
+        118,
+        474,
+        710,
+        498
+      ]
+    },
+    {
+      "text": "- Reviewed tax provisions",
+      "score": 0.9846169948577881,
+      "box": [
+        126,
+        500,
+        367,
+        524
+      ]
+    },
+    {
+      "text": "- Performed revenue recognition analysis",
+      "score": 0.9780065417289734,
+      "box": [
+        127,
+        521,
+        509,
+        550
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Integrity Count Co., 2012.082015.04",
+      "score": 0.9874688386917114,
+      "box": [
+        117,
+        566,
+        674,
+        590
+      ]
+    },
+    {
+      "text": "- Compiled financial schedules",
+      "score": 0.9745670557022095,
+      "box": [
+        128,
+        592,
+        414,
+        615
+      ]
+    },
+    {
+      "text": "- Updated accounting policies documentation",
+      "score": 0.9885042905807495,
+      "box": [
+        128,
+        614,
+        546,
+        642
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999294281005859,
+      "box": [
+        117,
+        681,
+        266,
+        705
+      ]
+    },
+    {
+      "text": "Bachelor's, Corporate Finance, Silverview University, 2012",
+      "score": 0.9922484755516052,
+      "box": [
+        117,
+        726,
+        660,
+        749
+      ]
+    },
+    {
+      "text": "•Studied fundamentals of assurance services",
+      "score": 0.9910541772842407,
+      "box": [
+        131,
+        749,
+        558,
+        774
+      ]
+    },
+    {
+      "text": "•Completed coursework in cost accounting",
+      "score": 0.9868947863578796,
+      "box": [
+        132,
+        772,
+        535,
+        801
+      ]
+    }
+  ],
+  "seconds": 2.9371099998243153,
+  "id": "16300",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

@@ -1,0 +1,142 @@
+{
+  "lines": [
+    {
+      "text": "JASON CALHOUN",
+      "score": 0.9997388124465942,
+      "box": [
+        116,
+        91,
+        410,
+        122
+      ]
+    },
+    {
+      "text": "IN, USA | +1-672-999-9048 | jason.calhoun@example.com",
+      "score": 0.9800543189048767,
+      "box": [
+        118,
+        152,
+        661,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9991202354431152,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, CoreCount Services, 2018.08—2020.12",
+      "score": 0.9975140690803528,
+      "box": [
+        116,
+        289,
+        688,
+        314
+      ]
+    },
+    {
+      "text": "- Managed financial compliance programs",
+      "score": 0.9905903339385986,
+      "box": [
+        125,
+        314,
+        518,
+        343
+      ]
+    },
+    {
+      "text": "- Developed internal control systems",
+      "score": 0.9991009831428528,
+      "box": [
+        128,
+        339,
+        467,
+        368
+      ]
+    },
+    {
+      "text": "Accountants Auditors, ClearBooks Advisors, 2015.082018.01",
+      "score": 0.985000729560852,
+      "box": [
+        116,
+        380,
+        693,
+        408
+      ]
+    },
+    {
+      "text": "- Matched invoices to purchase orders",
+      "score": 0.9973722100257874,
+      "box": [
+        125,
+        405,
+        484,
+        435
+      ]
+    },
+    {
+      "text": "- Prepared expense reports",
+      "score": 0.9853922128677368,
+      "box": [
+        127,
+        431,
+        385,
+        460
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999324083328247,
+      "box": [
+        116,
+        494,
+        267,
+        521
+      ]
+    },
+    {
+      "text": "Bachelor's, Investment Management, Clearfield University, 2014",
+      "score": 0.9906924962997437,
+      "box": [
+        115,
+        539,
+        712,
+        567
+      ]
+    },
+    {
+      "text": "•Studied fundamentals of audit evidence evaluation",
+      "score": 0.9780669212341309,
+      "box": [
+        129,
+        566,
+        615,
+        591
+      ]
+    },
+    {
+      "text": "Studied principles of nonprofit accounting",
+      "score": 0.99629145860672,
+      "box": [
+        130,
+        589,
+        530,
+        619
+      ]
+    }
+  ],
+  "seconds": 2.6276381998322904,
+  "id": "20309",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

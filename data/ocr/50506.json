@@ -1,0 +1,132 @@
+{
+  "lines": [
+    {
+      "text": "DYLAN CROSBY",
+      "score": 0.9983226656913757,
+      "box": [
+        117,
+        90,
+        385,
+        121
+      ]
+    },
+    {
+      "text": "TX, USA | +1-248-972-9437 | dylan.crosby@example.com",
+      "score": 0.9950803518295288,
+      "box": [
+        117,
+        149,
+        656,
+        177
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9997413754463196,
+      "box": [
+        117,
+        243,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Construction Laborers, Unified Stone Builders, 2021.06—2023.01",
+      "score": 0.9916216135025024,
+      "box": [
+        118,
+        290,
+        713,
+        314
+      ]
+    },
+    {
+      "text": "- Reviewed structural integrity assessments",
+      "score": 0.9977044463157654,
+      "box": [
+        125,
+        314,
+        532,
+        341
+      ]
+    },
+    {
+      "text": "- Directed site safety audits",
+      "score": 0.9735220670700073,
+      "box": [
+        127,
+        339,
+        381,
+        367
+      ]
+    },
+    {
+      "text": "Construction Laborers, AnchorBuild Services, 2019.112021.06",
+      "score": 0.9930955171585083,
+      "box": [
+        116,
+        380,
+        707,
+        408
+      ]
+    },
+    {
+      "text": "- Operated hand tools for assembly tasks",
+      "score": 0.9991299510002136,
+      "box": [
+        126,
+        408,
+        509,
+        432
+      ]
+    },
+    {
+      "text": "- Sorted building materials",
+      "score": 0.9762591123580933,
+      "box": [
+        127,
+        430,
+        373,
+        460
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999254941940308,
+      "box": [
+        117,
+        494,
+        267,
+        521
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Plumbing Technology, Highpoint High School, 2020",
+      "score": 0.9923710227012634,
+      "box": [
+        117,
+        541,
+        852,
+        565
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of job site coordination",
+      "score": 0.9867838025093079,
+      "box": [
+        133,
+        567,
+        565,
+        591
+      ]
+    }
+  ],
+  "seconds": 2.318235400132835,
+  "id": "50506",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

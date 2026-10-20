@@ -1,0 +1,112 @@
+{
+  "lines": [
+    {
+      "text": "JENNIFER MORRISON",
+      "score": 0.9998671412467957,
+      "box": [
+        116,
+        91,
+        476,
+        122
+      ]
+    },
+    {
+      "text": "SC, USA | +1-358-584-9143 | jennifer.morrison@example.com",
+      "score": 0.9927446246147156,
+      "box": [
+        118,
+        152,
+        696,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9997622966766357,
+      "box": [
+        117,
+        243,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Registered Nurses, BrightLife Health Services, 2020.082021.11",
+      "score": 0.9970447421073914,
+      "box": [
+        116,
+        289,
+        716,
+        316
+      ]
+    },
+    {
+      "text": "- Maintained infection control protocols",
+      "score": 0.9996646642684937,
+      "box": [
+        126,
+        314,
+        486,
+        340
+      ]
+    },
+    {
+      "text": "- Monitored patient dietary needs",
+      "score": 0.9974692463874817,
+      "box": [
+        127,
+        339,
+        436,
+        367
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999373555183411,
+      "box": [
+        116,
+        404,
+        268,
+        431
+      ]
+    },
+    {
+      "text": "Bachelor's, Health Care Technology, Greenfield University, 2007",
+      "score": 0.9816421270370483,
+      "box": [
+        115,
+        446,
+        715,
+        476
+      ]
+    },
+    {
+      "text": "•Studied fundamentals of infusion pump use",
+      "score": 0.963965117931366,
+      "box": [
+        129,
+        472,
+        550,
+        501
+      ]
+    },
+    {
+      "text": "Studied principles of continuity of care",
+      "score": 0.9920587539672852,
+      "box": [
+        132,
+        499,
+        501,
+        526
+      ]
+    }
+  ],
+  "seconds": 2.054849300067872,
+  "id": "48052",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

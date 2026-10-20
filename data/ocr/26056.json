@@ -1,0 +1,112 @@
+{
+  "lines": [
+    {
+      "text": "AISLINN WHEELER",
+      "score": 0.9949577450752258,
+      "box": [
+        118,
+        91,
+        428,
+        122
+      ]
+    },
+    {
+      "text": "MA, USA | +1-443-712-1010 | aislinn.wheeler@example.com",
+      "score": 0.9953808188438416,
+      "box": [
+        116,
+        150,
+        681,
+        177
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9997636675834656,
+      "box": [
+        117,
+        243,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Registered Nurses, GentlePath Nursing, 2020.052023.01",
+      "score": 0.9995888471603394,
+      "box": [
+        117,
+        289,
+        656,
+        316
+      ]
+    },
+    {
+      "text": "- Prepared sterile supplies",
+      "score": 0.9951052665710449,
+      "box": [
+        125,
+        312,
+        373,
+        343
+      ]
+    },
+    {
+      "text": "- Prepared discharge instructions",
+      "score": 0.9936985969543457,
+      "box": [
+        126,
+        338,
+        436,
+        369
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999380111694336,
+      "box": [
+        116,
+        404,
+        268,
+        431
+      ]
+    },
+    {
+      "text": "Bachelor's, Nursing, Larkspur University, 2023",
+      "score": 0.9983935356140137,
+      "box": [
+        116,
+        448,
+        547,
+        475
+      ]
+    },
+    {
+      "text": "•Studied fundamentals of interdisciplinary care",
+      "score": 0.969095766544342,
+      "box": [
+        130,
+        473,
+        569,
+        499
+      ]
+    },
+    {
+      "text": "Completed coursework in clinical pharmacology",
+      "score": 0.9995243549346924,
+      "box": [
+        132,
+        496,
+        589,
+        527
+      ]
+    }
+  ],
+  "seconds": 2.3241870999336243,
+  "id": "26056",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

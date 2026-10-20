@@ -1,0 +1,192 @@
+{
+  "lines": [
+    {
+      "text": "ADAM SPARKS",
+      "score": 0.9986459612846375,
+      "box": [
+        117,
+        91,
+        365,
+        122
+      ]
+    },
+    {
+      "text": "WI, USA | +1-653-949-6694 | adam.sparks@example.com",
+      "score": 0.9832408428192139,
+      "box": [
+        117,
+        150,
+        655,
+        177
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9990995526313782,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, TrueNorth Builders, 2020.02—2023.01",
+      "score": 0.9932968616485596,
+      "box": [
+        116,
+        288,
+        682,
+        316
+      ]
+    },
+    {
+      "text": "- Directed project execution strategies",
+      "score": 0.9866138100624084,
+      "box": [
+        125,
+        314,
+        480,
+        343
+      ]
+    },
+    {
+      "text": "- Directed quality assurance programs",
+      "score": 0.9881761074066162,
+      "box": [
+        127,
+        340,
+        482,
+        369
+      ]
+    },
+    {
+      "text": "Construction Laborers, FirmStone Construction, 2017.02—2020.02",
+      "score": 0.9900444149971008,
+      "box": [
+        118,
+        383,
+        727,
+        407
+      ]
+    },
+    {
+      "text": "- Led complex demolition projects",
+      "score": 0.999761164188385,
+      "box": [
+        126,
+        407,
+        441,
+        433
+      ]
+    },
+    {
+      "text": "- Supervised foundation installations",
+      "score": 0.991963267326355,
+      "box": [
+        128,
+        432,
+        464,
+        457
+      ]
+    },
+    {
+      "text": "Construction Laborers, Reliable Build Co., 2014.02—2017.02",
+      "score": 0.9904192090034485,
+      "box": [
+        116,
+        471,
+        675,
+        499
+      ]
+    },
+    {
+      "text": "- Supervised junior laborers",
+      "score": 0.9816604256629944,
+      "box": [
+        125,
+        498,
+        386,
+        525
+      ]
+    },
+    {
+      "text": "- Installed plumbing fixtures",
+      "score": 0.9824951887130737,
+      "box": [
+        127,
+        521,
+        384,
+        550
+      ]
+    },
+    {
+      "text": "Construction Laborers, CraftFrame Builders, 2008.03—2011.03",
+      "score": 0.9831855297088623,
+      "box": [
+        117,
+        564,
+        695,
+        589
+      ]
+    },
+    {
+      "text": "- Performed basic demolition tasks",
+      "score": 0.9854087829589844,
+      "box": [
+        127,
+        591,
+        449,
+        614
+      ]
+    },
+    {
+      "text": "- Measured and cut basic building materials",
+      "score": 0.969540536403656,
+      "box": [
+        126,
+        613,
+        533,
+        642
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999098181724548,
+      "box": [
+        117,
+        681,
+        266,
+        705
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Construction Operations, Edgewood High School, 2006",
+      "score": 0.9920768141746521,
+      "box": [
+        116,
+        724,
+        888,
+        750
+      ]
+    },
+    {
+      "text": "•Studied principles of site access planning",
+      "score": 0.9860679507255554,
+      "box": [
+        129,
+        748,
+        531,
+        776
+      ]
+    }
+  ],
+  "seconds": 2.881437100004405,
+  "id": "61277",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

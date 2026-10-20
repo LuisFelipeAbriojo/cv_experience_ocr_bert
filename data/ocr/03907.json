@@ -1,0 +1,172 @@
+{
+  "lines": [
+    {
+      "text": "JOSEPH HARDIN",
+      "score": 0.9996293187141418,
+      "box": [
+        115,
+        89,
+        393,
+        122
+      ]
+    },
+    {
+      "text": "CA, USA | +1-624-348-5956 | joseph.hardin@example.com",
+      "score": 0.9938768148422241,
+      "box": [
+        116,
+        150,
+        666,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9985249042510986,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Skyfield Software, 2020.06—2023.01",
+      "score": 0.9959777593612671,
+      "box": [
+        115,
+        288,
+        657,
+        316
+      ]
+    },
+    {
+      "text": "- Designed deployment strategies",
+      "score": 0.9950841665267944,
+      "box": [
+        127,
+        314,
+        442,
+        344
+      ]
+    },
+    {
+      "text": "- Defined data governance policies",
+      "score": 0.9950727820396423,
+      "box": [
+        127,
+        340,
+        450,
+        368
+      ]
+    },
+    {
+      "text": "Software Developers, Corestack Software, 2017.102020.06",
+      "score": 0.9951167106628418,
+      "box": [
+        116,
+        382,
+        680,
+        409
+      ]
+    },
+    {
+      "text": "- Improved build processes",
+      "score": 0.9917373061180115,
+      "box": [
+        126,
+        408,
+        381,
+        434
+      ]
+    },
+    {
+      "text": "- Integrated messaging systems",
+      "score": 0.9806948900222778,
+      "box": [
+        127,
+        431,
+        426,
+        459
+      ]
+    },
+    {
+      "text": "Software Developers, Brightpoint Software, 2015.022017.10",
+      "score": 0.9796243906021118,
+      "box": [
+        117,
+        472,
+        685,
+        499
+      ]
+    },
+    {
+      "text": "- Wrote integration tests",
+      "score": 0.9715216755867004,
+      "box": [
+        126,
+        498,
+        353,
+        525
+      ]
+    },
+    {
+      "text": "- Implemented caching logic",
+      "score": 0.9977846741676331,
+      "box": [
+        127,
+        521,
+        390,
+        552
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9998534321784973,
+      "box": [
+        117,
+        587,
+        267,
+        614
+      ]
+    },
+    {
+      "text": "Bachelor's, Meadowland University, 2013",
+      "score": 0.9901131987571716,
+      "box": [
+        117,
+        632,
+        501,
+        659
+      ]
+    },
+    {
+      "text": "•Studied principles of software usability",
+      "score": 0.9832682013511658,
+      "box": [
+        129,
+        657,
+        502,
+        685
+      ]
+    },
+    {
+      "text": "Completed coursework in performance benchmarking",
+      "score": 0.997474193572998,
+      "box": [
+        131,
+        681,
+        643,
+        709
+      ]
+    }
+  ],
+  "seconds": 2.4211348998360336,
+  "id": "03907",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

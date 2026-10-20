@@ -1,0 +1,142 @@
+{
+  "lines": [
+    {
+      "text": "ROBERT BAUER",
+      "score": 0.9686346650123596,
+      "box": [
+        117,
+        90,
+        387,
+        121
+      ]
+    },
+    {
+      "text": "NV, USA | +1-685-674-1202 | robert.bauer@example.com",
+      "score": 0.9841563105583191,
+      "box": [
+        115,
+        149,
+        655,
+        177
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9993305802345276,
+      "box": [
+        116,
+        243,
+        315,
+        270
+      ]
+    },
+    {
+      "text": "Software Developers, Openstack Digital, 2019.072022.03",
+      "score": 0.9958834052085876,
+      "box": [
+        117,
+        289,
+        658,
+        313
+      ]
+    },
+    {
+      "text": "- Defined API standards",
+      "score": 0.9936251640319824,
+      "box": [
+        126,
+        315,
+        352,
+        339
+      ]
+    },
+    {
+      "text": "- Built core libraries",
+      "score": 0.9869927763938904,
+      "box": [
+        126,
+        338,
+        309,
+        365
+      ]
+    },
+    {
+      "text": "Software Developers, Datapoint Labs, 2016.042019.01",
+      "score": 0.9913321137428284,
+      "box": [
+        117,
+        382,
+        635,
+        406
+      ]
+    },
+    {
+      "text": "- Handled input sanitization",
+      "score": 0.988388180732727,
+      "box": [
+        125,
+        406,
+        382,
+        431
+      ]
+    },
+    {
+      "text": "- Created test data sets",
+      "score": 0.970533549785614,
+      "box": [
+        127,
+        430,
+        347,
+        457
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999260306358337,
+      "box": [
+        116,
+        494,
+        267,
+        521
+      ]
+    },
+    {
+      "text": "Bachelor's, Clearwater University, 2014",
+      "score": 0.9994685053825378,
+      "box": [
+        117,
+        541,
+        482,
+        565
+      ]
+    },
+    {
+      "text": "•Studied fundamentals of collaborative development",
+      "score": 0.9847428202629089,
+      "box": [
+        129,
+        565,
+        623,
+        590
+      ]
+    },
+    {
+      "text": "• Completed coursework in software design patterns",
+      "score": 0.989694356918335,
+      "box": [
+        132,
+        592,
+        616,
+        616
+      ]
+    }
+  ],
+  "seconds": 2.2220797999762,
+  "id": "32262",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

@@ -1,0 +1,212 @@
+{
+  "lines": [
+    {
+      "text": "ANGEL LIN",
+      "score": 0.998580813407898,
+      "box": [
+        117,
+        91,
+        299,
+        122
+      ]
+    },
+    {
+      "text": "WA, USA | +1-524-220-9532 | angel.lin@example.com",
+      "score": 0.9838097095489502,
+      "box": [
+        116,
+        151,
+        623,
+        177
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9989755749702454,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, SolidLedger Financial, 2019.04—2023.01",
+      "score": 0.9899033904075623,
+      "box": [
+        115,
+        288,
+        700,
+        316
+      ]
+    },
+    {
+      "text": "- Directed strategic accounting initiatives",
+      "score": 0.9725409150123596,
+      "box": [
+        126,
+        314,
+        503,
+        343
+      ]
+    },
+    {
+      "text": "- Designed financial oversight systems",
+      "score": 0.9977842569351196,
+      "box": [
+        127,
+        339,
+        485,
+        368
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Summit Accounting Services, 2015.072019.04",
+      "score": 0.9954978823661804,
+      "box": [
+        118,
+        383,
+        765,
+        407
+      ]
+    },
+    {
+      "text": "- Led cross-functional financial integration",
+      "score": 0.9784694314002991,
+      "box": [
+        127,
+        409,
+        513,
+        432
+      ]
+    },
+    {
+      "text": "- Established tax compliance frameworks",
+      "score": 0.9984509348869324,
+      "box": [
+        127,
+        431,
+        508,
+        457
+      ]
+    },
+    {
+      "text": "Accountants Auditors, AccuCount Financial, 2011.10—2015.07",
+      "score": 0.9876931309700012,
+      "box": [
+        117,
+        472,
+        691,
+        497
+      ]
+    },
+    {
+      "text": "- Reviewed payroll reconciliations",
+      "score": 0.9984404444694519,
+      "box": [
+        125,
+        497,
+        441,
+        525
+      ]
+    },
+    {
+      "text": "- Conducted variance investigations",
+      "score": 0.998994767665863,
+      "box": [
+        127,
+        522,
+        459,
+        549
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Precise Balance Advisors, 2008.012011.10",
+      "score": 0.9873548746109009,
+      "box": [
+        117,
+        566,
+        737,
+        589
+      ]
+    },
+    {
+      "text": "- Prepared basic financial reports",
+      "score": 0.9980593323707581,
+      "box": [
+        125,
+        589,
+        438,
+        617
+      ]
+    },
+    {
+      "text": "- Compiled audit evidence",
+      "score": 0.9757254719734192,
+      "box": [
+        126,
+        613,
+        373,
+        644
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9998893737792969,
+      "box": [
+        117,
+        681,
+        266,
+        705
+      ]
+    },
+    {
+      "text": "Master's, Business Studies, Forest Hill University, 2008",
+      "score": 0.9884267449378967,
+      "box": [
+        116,
+        724,
+        628,
+        749
+      ]
+    },
+    {
+      "text": "Bachelor's, Business Law, Skyview University, 2006",
+      "score": 0.9744808673858643,
+      "box": [
+        117,
+        750,
+        599,
+        774
+      ]
+    },
+    {
+      "text": "•Studied fundamentals of journal entries",
+      "score": 0.9883468747138977,
+      "box": [
+        129,
+        774,
+        510,
+        799
+      ]
+    },
+    {
+      "text": "•Studied fundamentals of governmental auditing",
+      "score": 0.988577663898468,
+      "box": [
+        131,
+        799,
+        584,
+        826
+      ]
+    }
+  ],
+  "seconds": 2.9927758001722395,
+  "id": "58556",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

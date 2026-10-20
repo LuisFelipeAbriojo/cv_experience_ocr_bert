@@ -1,0 +1,202 @@
+{
+  "lines": [
+    {
+      "text": "HEATHER WEAVER",
+      "score": 0.9998003840446472,
+      "box": [
+        117,
+        92,
+        435,
+        122
+      ]
+    },
+    {
+      "text": "GA, USA | +1-625-704-8817 | heather.weaver@example.com",
+      "score": 0.9900471568107605,
+      "box": [
+        116,
+        150,
+        686,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9991481304168701,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, EverBalance Services, 2019.11—2023.01",
+      "score": 0.989136815071106,
+      "box": [
+        115,
+        288,
+        704,
+        316
+      ]
+    },
+    {
+      "text": "- Established compliance monitoring systems",
+      "score": 0.9981520771980286,
+      "box": [
+        128,
+        316,
+        546,
+        342
+      ]
+    },
+    {
+      "text": "- Developed regulatory reporting strategies",
+      "score": 0.9812085628509521,
+      "box": [
+        127,
+        340,
+        525,
+        368
+      ]
+    },
+    {
+      "text": "Accountants Auditors, SolidCount Financial Group, 2016.09—2019.11",
+      "score": 0.9873690009117126,
+      "box": [
+        116,
+        381,
+        755,
+        409
+      ]
+    },
+    {
+      "text": "- Directed accounting training programs",
+      "score": 0.9885991215705872,
+      "box": [
+        125,
+        408,
+        494,
+        434
+      ]
+    },
+    {
+      "text": "- Established compliance monitoring systems",
+      "score": 0.9957451224327087,
+      "box": [
+        126,
+        432,
+        546,
+        458
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Reliable Accounts Group, 2012.042015.06",
+      "score": 0.99640953540802,
+      "box": [
+        118,
+        474,
+        731,
+        498
+      ]
+    },
+    {
+      "text": "- Managed general ledger maintenance",
+      "score": 0.994263768196106,
+      "box": [
+        125,
+        497,
+        494,
+        526
+      ]
+    },
+    {
+      "text": "- Conducted account reconciliations",
+      "score": 0.9844937920570374,
+      "box": [
+        127,
+        522,
+        458,
+        549
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Precise Balance Group, 2008.072011.09",
+      "score": 0.9985371232032776,
+      "box": [
+        117,
+        566,
+        714,
+        590
+      ]
+    },
+    {
+      "text": "- Compiled financial schedules",
+      "score": 0.9871314764022827,
+      "box": [
+        127,
+        592,
+        413,
+        615
+      ]
+    },
+    {
+      "text": "- Maintained chart of accounts",
+      "score": 0.9920915961265564,
+      "box": [
+        126,
+        613,
+        411,
+        643
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999196529388428,
+      "box": [
+        117,
+        681,
+        266,
+        705
+      ]
+    },
+    {
+      "text": "Bachelor's, Management Information Systems, Riverfield University, 2006",
+      "score": 0.9843031167984009,
+      "box": [
+        115,
+        723,
+        798,
+        750
+      ]
+    },
+    {
+      "text": "• Completed coursework in expense allocation",
+      "score": 0.9900522828102112,
+      "box": [
+        132,
+        751,
+        565,
+        775
+      ]
+    },
+    {
+      "text": "•Studied fundamentals of revenue cycle management",
+      "score": 0.9736730456352234,
+      "box": [
+        131,
+        772,
+        636,
+        801
+      ]
+    }
+  ],
+  "seconds": 3.081361100077629,
+  "id": "15487",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

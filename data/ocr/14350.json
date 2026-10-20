@@ -1,0 +1,102 @@
+{
+  "lines": [
+    {
+      "text": "ANTHONY WHITNEY",
+      "score": 0.9953900575637817,
+      "box": [
+        117,
+        90,
+        446,
+        122
+      ]
+    },
+    {
+      "text": "FL, USA | +1-415-337-9802 | anthony.whitney@example.com",
+      "score": 0.9854498505592346,
+      "box": [
+        116,
+        149,
+        687,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9997198581695557,
+      "box": [
+        117,
+        243,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Construction Laborers, TrueStep Builders, 2020.042023.01",
+      "score": 0.98712557554245,
+      "box": [
+        118,
+        290,
+        673,
+        314
+      ]
+    },
+    {
+      "text": "- Performed basic demolition tasks",
+      "score": 0.9995145201683044,
+      "box": [
+        126,
+        314,
+        449,
+        339
+      ]
+    },
+    {
+      "text": "- Installed insulation materials",
+      "score": 0.9977560043334961,
+      "box": [
+        127,
+        339,
+        405,
+        364
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999622702598572,
+      "box": [
+        116,
+        404,
+        268,
+        431
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Drafting Technology, Westbrook High School, 2019",
+      "score": 0.999838650226593,
+      "box": [
+        117,
+        448,
+        852,
+        475
+      ]
+    },
+    {
+      "text": "Completed coursework in equipment maintenance basics",
+      "score": 0.9960981011390686,
+      "box": [
+        131,
+        472,
+        677,
+        501
+      ]
+    }
+  ],
+  "seconds": 2.2332649002783,
+  "id": "14350",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

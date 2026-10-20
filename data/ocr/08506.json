@@ -1,0 +1,152 @@
+{
+  "lines": [
+    {
+      "text": "CATHRYN NGUYEN",
+      "score": 0.9996991753578186,
+      "box": [
+        117,
+        89,
+        434,
+        122
+      ]
+    },
+    {
+      "text": "CA, USA | +1-621-756-1842 | cathryn.nguyen@example.com",
+      "score": 0.98459392786026,
+      "box": [
+        118,
+        152,
+        682,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9997701048851013,
+      "box": [
+        117,
+        243,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Software Developers, Softpeak Technologies, 2020.06—2023.01",
+      "score": 0.9885637164115906,
+      "box": [
+        115,
+        288,
+        708,
+        316
+      ]
+    },
+    {
+      "text": "- Reviewed architectural proposals",
+      "score": 0.9992965459823608,
+      "box": [
+        126,
+        314,
+        450,
+        340
+      ]
+    },
+    {
+      "text": "- Built core libraries",
+      "score": 0.9778978824615479,
+      "box": [
+        127,
+        339,
+        309,
+        366
+      ]
+    },
+    {
+      "text": "Software Developers, Brightcode Solutions, 2017.102020.06",
+      "score": 0.9997315406799316,
+      "box": [
+        116,
+        382,
+        688,
+        409
+      ]
+    },
+    {
+      "text": "- Wrote integration tests",
+      "score": 0.997175931930542,
+      "box": [
+        125,
+        407,
+        351,
+        433
+      ]
+    },
+    {
+      "text": "- Assisted with version control operations",
+      "score": 0.9995788335800171,
+      "box": [
+        127,
+        431,
+        508,
+        457
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999459385871887,
+      "box": [
+        116,
+        494,
+        268,
+        521
+      ]
+    },
+    {
+      "text": "Master's, Riverside University, 2016",
+      "score": 0.9922502040863037,
+      "box": [
+        115,
+        540,
+        450,
+        566
+      ]
+    },
+    {
+      "text": "Bachelor's, Crestline University, 2014",
+      "score": 0.9981077909469604,
+      "box": [
+        117,
+        566,
+        463,
+        590
+      ]
+    },
+    {
+      "text": "•Studied principles of image processing",
+      "score": 0.9869735836982727,
+      "box": [
+        128,
+        590,
+        506,
+        620
+      ]
+    },
+    {
+      "text": "Completed coursework in cloud computing basics",
+      "score": 0.9990925192832947,
+      "box": [
+        130,
+        613,
+        607,
+        644
+      ]
+    }
+  ],
+  "seconds": 2.2475343998521566,
+  "id": "08506",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

@@ -1,0 +1,182 @@
+{
+  "lines": [
+    {
+      "text": "TAWNYA WILKINS",
+      "score": 0.9997754693031311,
+      "box": [
+        116,
+        89,
+        414,
+        122
+      ]
+    },
+    {
+      "text": "AR, USA | +1-321-911-7788 | tawnya.wilkins@example.com",
+      "score": 0.9934176206588745,
+      "box": [
+        116,
+        150,
+        674,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9991812109947205,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Future Path Academy, 2021.012023.01",
+      "score": 0.9935882687568665,
+      "box": [
+        117,
+        290,
+        838,
+        317
+      ]
+    },
+    {
+      "text": "- Implemented curriculum governance structures",
+      "score": 0.9985976219177246,
+      "box": [
+        126,
+        316,
+        577,
+        341
+      ]
+    },
+    {
+      "text": "- Designed performance monitoring systems",
+      "score": 0.9985488057136536,
+      "box": [
+        127,
+        340,
+        539,
+        369
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Bright Learning School, 2019.012021.01",
+      "score": 0.9976551532745361,
+      "box": [
+        115,
+        380,
+        850,
+        413
+      ]
+    },
+    {
+      "text": "- Prepared instructional guides",
+      "score": 0.9817146062850952,
+      "box": [
+        126,
+        408,
+        413,
+        434
+      ]
+    },
+    {
+      "text": "- Implemented formative assessment strategies",
+      "score": 0.996573805809021,
+      "box": [
+        127,
+        432,
+        569,
+        460
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Learning View Academy, 2014.05—2016.06",
+      "score": 0.984295129776001,
+      "box": [
+        119,
+        474,
+        862,
+        498
+      ]
+    },
+    {
+      "text": "- Prepared daily instructional agendas",
+      "score": 0.9892510771751404,
+      "box": [
+        126,
+        497,
+        481,
+        526
+      ]
+    },
+    {
+      "text": "- Prepared lesson summaries",
+      "score": 0.9991627335548401,
+      "box": [
+        128,
+        521,
+        404,
+        552
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999216794967651,
+      "box": [
+        117,
+        587,
+        267,
+        614
+      ]
+    },
+    {
+      "text": "Master's, Basic Child Development, Greenwood University, 2010",
+      "score": 0.9882669448852539,
+      "box": [
+        116,
+        632,
+        716,
+        659
+      ]
+    },
+    {
+      "text": "Bachelor's, Child and Family Studies, Stonehill University, 2008",
+      "score": 0.9898439049720764,
+      "box": [
+        115,
+        656,
+        705,
+        684
+      ]
+    },
+    {
+      "text": "• Completed coursework in reading instruction",
+      "score": 0.9943907856941223,
+      "box": [
+        133,
+        683,
+        561,
+        709
+      ]
+    },
+    {
+      "text": "• Completed coursework in educational communication planning",
+      "score": 0.9898557662963867,
+      "box": [
+        132,
+        706,
+        726,
+        736
+      ]
+    }
+  ],
+  "seconds": 2.8488356000743806,
+  "id": "02277",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

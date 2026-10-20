@@ -1,0 +1,112 @@
+{
+  "lines": [
+    {
+      "text": "NICOLAS NORMAN",
+      "score": 0.9908543229103088,
+      "box": [
+        117,
+        90,
+        429,
+        121
+      ]
+    },
+    {
+      "text": "NM, USA | +1-522-814-8307 | nicolas.norman@example.com",
+      "score": 0.9924404621124268,
+      "box": [
+        115,
+        149,
+        686,
+        177
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9997382164001465,
+      "box": [
+        117,
+        243,
+        317,
+        270
+      ]
+    },
+    {
+      "text": "Accountants Auditors, AccuLedger Services, 2019.09—2021.11",
+      "score": 0.9969656467437744,
+      "box": [
+        115,
+        287,
+        697,
+        315
+      ]
+    },
+    {
+      "text": "- Reconciled bank statements",
+      "score": 0.9987083673477173,
+      "box": [
+        126,
+        314,
+        405,
+        340
+      ]
+    },
+    {
+      "text": "- Reviewed account balances",
+      "score": 0.9955325126647949,
+      "box": [
+        126,
+        339,
+        402,
+        365
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999359846115112,
+      "box": [
+        116,
+        404,
+        268,
+        431
+      ]
+    },
+    {
+      "text": "Bachelor's, Financial Services, Northway University, 2015",
+      "score": 0.9991927146911621,
+      "box": [
+        115,
+        446,
+        652,
+        475
+      ]
+    },
+    {
+      "text": "Studied principles of nonprofit accounting",
+      "score": 0.9993823170661926,
+      "box": [
+        128,
+        472,
+        531,
+        501
+      ]
+    },
+    {
+      "text": "•Studied fundamentals of statistics for business",
+      "score": 0.9919336438179016,
+      "box": [
+        131,
+        498,
+        577,
+        523
+      ]
+    }
+  ],
+  "seconds": 1.8972278996370733,
+  "id": "34901",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

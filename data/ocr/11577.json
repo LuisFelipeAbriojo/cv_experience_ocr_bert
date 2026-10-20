@@ -1,0 +1,152 @@
+{
+  "lines": [
+    {
+      "text": "ENRIQUE DOUGHERTY",
+      "score": 0.9998093843460083,
+      "box": [
+        118,
+        91,
+        491,
+        121
+      ]
+    },
+    {
+      "text": "DE, USA | +1-639-729-1356 | enrique.dougherty@example.com",
+      "score": 0.9887712597846985,
+      "box": [
+        116,
+        150,
+        709,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9991585612297058,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Reliable Accounts Group, 2021.05—2023.01",
+      "score": 0.9879189729690552,
+      "box": [
+        115,
+        288,
+        730,
+        317
+      ]
+    },
+    {
+      "text": "- Managed consolidation processes",
+      "score": 0.9931464791297913,
+      "box": [
+        126,
+        314,
+        457,
+        342
+      ]
+    },
+    {
+      "text": "- Established audit governance structures",
+      "score": 0.9741965532302856,
+      "box": [
+        127,
+        339,
+        514,
+        368
+      ]
+    },
+    {
+      "text": "Accountants Auditors, TrustCount Financial, 2019.09—2021.05",
+      "score": 0.988513171672821,
+      "box": [
+        118,
+        383,
+        692,
+        407
+      ]
+    },
+    {
+      "text": "- Prepared basic financial reports",
+      "score": 0.9996663331985474,
+      "box": [
+        125,
+        407,
+        436,
+        433
+      ]
+    },
+    {
+      "text": "- Maintained chart of accounts",
+      "score": 0.9770131707191467,
+      "box": [
+        127,
+        431,
+        409,
+        456
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999423623085022,
+      "box": [
+        116,
+        494,
+        267,
+        521
+      ]
+    },
+    {
+      "text": "Master's, Accounting Information Systems, Silverwood University, 2018",
+      "score": 0.9891023635864258,
+      "box": [
+        114,
+        539,
+        776,
+        568
+      ]
+    },
+    {
+      "text": "Bachelor's, Financial Management, Windridge University, 2016",
+      "score": 0.98152756690979,
+      "box": [
+        116,
+        566,
+        699,
+        593
+      ]
+    },
+    {
+      "text": "Completed coursework in capital budgeting",
+      "score": 0.99944007396698,
+      "box": [
+        128,
+        591,
+        549,
+        619
+      ]
+    },
+    {
+      "text": "Studied fundamentals of governmental auditing",
+      "score": 0.9946430921554565,
+      "box": [
+        130,
+        614,
+        585,
+        644
+      ]
+    }
+  ],
+  "seconds": 2.492957899812609,
+  "id": "11577",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

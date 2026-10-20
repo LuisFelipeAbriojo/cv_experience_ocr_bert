@@ -1,0 +1,212 @@
+{
+  "lines": [
+    {
+      "text": "CHRISTOPHER FARLEY",
+      "score": 0.9974726438522339,
+      "box": [
+        118,
+        91,
+        503,
+        122
+      ]
+    },
+    {
+      "text": "AZ, USA | +1-893-261-8184 | christopher.farley@example.com",
+      "score": 0.9967591762542725,
+      "box": [
+        116,
+        150,
+        698,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9989409446716309,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, Frontier Build Co., 2019.012023.01",
+      "score": 0.976534366607666,
+      "box": [
+        118,
+        291,
+        669,
+        315
+      ]
+    },
+    {
+      "text": "- Established project documentation systems",
+      "score": 0.9938899874687195,
+      "box": [
+        126,
+        316,
+        543,
+        342
+      ]
+    },
+    {
+      "text": "- Reviewed engineering drawings",
+      "score": 0.9832161664962769,
+      "box": [
+        127,
+        340,
+        439,
+        369
+      ]
+    },
+    {
+      "text": "Construction Laborers, CraftWay Builders, 2015.012019.01",
+      "score": 0.9841581583023071,
+      "box": [
+        116,
+        381,
+        676,
+        409
+      ]
+    },
+    {
+      "text": "- Coordinated large-scale material logistics",
+      "score": 0.9996946454048157,
+      "box": [
+        126,
+        408,
+        523,
+        433
+      ]
+    },
+    {
+      "text": "- Directed training programs for crews",
+      "score": 0.9810007810592651,
+      "box": [
+        126,
+        431,
+        479,
+        459
+      ]
+    },
+    {
+      "text": "Construction Laborers, LevelLine Builders, 2010.12—2015.01",
+      "score": 0.9891383647918701,
+      "box": [
+        116,
+        471,
+        678,
+        499
+      ]
+    },
+    {
+      "text": "- Prepared site reports",
+      "score": 0.9953503608703613,
+      "box": [
+        125,
+        497,
+        338,
+        526
+      ]
+    },
+    {
+      "text": "- Reviewed construction drawings",
+      "score": 0.9952537417411804,
+      "box": [
+        126,
+        520,
+        442,
+        551
+      ]
+    },
+    {
+      "text": "Construction Laborers, AnchorBuild Services, 2006.112010.12",
+      "score": 0.9950622320175171,
+      "box": [
+        118,
+        566,
+        708,
+        590
+      ]
+    },
+    {
+      "text": "- Followed blueprint instructions",
+      "score": 0.9860318303108215,
+      "box": [
+        127,
+        589,
+        425,
+        617
+      ]
+    },
+    {
+      "text": "- Installed basic formwork",
+      "score": 0.991139829158783,
+      "box": [
+        129,
+        616,
+        367,
+        640
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9998867511749268,
+      "box": [
+        117,
+        681,
+        266,
+        705
+      ]
+    },
+    {
+      "text": "Master's, Construction Coordination, Sunfield University, 2005",
+      "score": 0.9905967116355896,
+      "box": [
+        116,
+        724,
+        692,
+        750
+      ]
+    },
+    {
+      "text": "Bachelor's, Industrial Maintenance, Prairie View University, 2003",
+      "score": 0.9902400970458984,
+      "box": [
+        117,
+        750,
+        713,
+        774
+      ]
+    },
+    {
+      "text": "•Studied principles of workplace safety",
+      "score": 0.9866816997528076,
+      "box": [
+        128,
+        773,
+        499,
+        802
+      ]
+    },
+    {
+      "text": "• Studied principles of insulation techniques",
+      "score": 0.9902809262275696,
+      "box": [
+        132,
+        800,
+        537,
+        827
+      ]
+    }
+  ],
+  "seconds": 2.950384599622339,
+  "id": "01206",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

@@ -1,0 +1,112 @@
+{
+  "lines": [
+    {
+      "text": "AYZHA BROCK",
+      "score": 0.9998580813407898,
+      "box": [
+        116,
+        89,
+        366,
+        123
+      ]
+    },
+    {
+      "text": "CA, USA | +1-408-413-5221 | ayzha.brock@example.com",
+      "score": 0.9743927717208862,
+      "box": [
+        116,
+        149,
+        654,
+        177
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9993970394134521,
+      "box": [
+        116,
+        243,
+        317,
+        270
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Accurate Path Accounting, 2021.04—2023.01",
+      "score": 0.9933176636695862,
+      "box": [
+        115,
+        287,
+        740,
+        315
+      ]
+    },
+    {
+      "text": "- Maintained chart of accounts",
+      "score": 0.9849105477333069,
+      "box": [
+        126,
+        314,
+        410,
+        339
+      ]
+    },
+    {
+      "text": "- Assisted with regulatory filings",
+      "score": 0.9995047450065613,
+      "box": [
+        128,
+        339,
+        422,
+        368
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999306797981262,
+      "box": [
+        116,
+        404,
+        268,
+        431
+      ]
+    },
+    {
+      "text": "Bachelor's, Financial Accounting, Ridgeway University, 2020",
+      "score": 0.9912375807762146,
+      "box": [
+        115,
+        446,
+        676,
+        475
+      ]
+    },
+    {
+      "text": "Completed coursework in audit reporting",
+      "score": 0.9975033402442932,
+      "box": [
+        131,
+        471,
+        523,
+        501
+      ]
+    },
+    {
+      "text": "• Completed coursework in financial disclosure",
+      "score": 0.9810407757759094,
+      "box": [
+        133,
+        499,
+        564,
+        523
+      ]
+    }
+  ],
+  "seconds": 2.027489800006151,
+  "id": "09237",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

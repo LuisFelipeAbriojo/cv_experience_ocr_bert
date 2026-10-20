@@ -1,0 +1,142 @@
+{
+  "lines": [
+    {
+      "text": "TRACE WARNER",
+      "score": 0.9642835259437561,
+      "box": [
+        117,
+        91,
+        393,
+        121
+      ]
+    },
+    {
+      "text": "TX, USA | +1-809-239-3955 |trace.warner@example.com",
+      "score": 0.9827726483345032,
+      "box": [
+        118,
+        151,
+        653,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9987226128578186,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, Reliable Build Group, 2021.072023.01",
+      "score": 0.9994432926177979,
+      "box": [
+        117,
+        289,
+        698,
+        316
+      ]
+    },
+    {
+      "text": "- Led operational planning",
+      "score": 0.9876041412353516,
+      "box": [
+        125,
+        312,
+        372,
+        344
+      ]
+    },
+    {
+      "text": "- Reviewed engineering drawings",
+      "score": 0.9964988827705383,
+      "box": [
+        127,
+        339,
+        438,
+        370
+      ]
+    },
+    {
+      "text": "Construction Laborers, SureStep Builders, 2019.122021.07",
+      "score": 0.9929074048995972,
+      "box": [
+        116,
+        380,
+        677,
+        408
+      ]
+    },
+    {
+      "text": "- Installed safety signage",
+      "score": 0.9959243535995483,
+      "box": [
+        125,
+        405,
+        361,
+        434
+      ]
+    },
+    {
+      "text": "- Dug trenches for utility lines",
+      "score": 0.9752103090286255,
+      "box": [
+        128,
+        433,
+        399,
+        459
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999110102653503,
+      "box": [
+        117,
+        494,
+        268,
+        521
+      ]
+    },
+    {
+      "text": "Associate's degree, Mechanical Technology, Highpoint University, 2022",
+      "score": 0.9957805275917053,
+      "box": [
+        116,
+        539,
+        781,
+        569
+      ]
+    },
+    {
+      "text": "•Completed coursework in construction terminology",
+      "score": 0.9726669788360596,
+      "box": [
+        129,
+        564,
+        616,
+        594
+      ]
+    },
+    {
+      "text": "Studied fundamentals of masonry",
+      "score": 0.989136815071106,
+      "box": [
+        131,
+        587,
+        461,
+        619
+      ]
+    }
+  ],
+  "seconds": 2.2334455996751785,
+  "id": "51925",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

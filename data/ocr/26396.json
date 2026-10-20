@@ -1,0 +1,112 @@
+{
+  "lines": [
+    {
+      "text": "PEYTON MARSH",
+      "score": 0.996905505657196,
+      "box": [
+        117,
+        91,
+        388,
+        122
+      ]
+    },
+    {
+      "text": "MA, USA | +1-830-380-8040 | peyton.marsh@example.com",
+      "score": 0.9939683079719543,
+      "box": [
+        115,
+        149,
+        670,
+        177
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9994049072265625,
+      "box": [
+        116,
+        243,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Registered Nurses, OpenLife Nursing Services, 2022.102023.01",
+      "score": 0.9923919439315796,
+      "box": [
+        116,
+        289,
+        723,
+        316
+      ]
+    },
+    {
+      "text": "- Assisted with patient transfers",
+      "score": 0.9993830323219299,
+      "box": [
+        126,
+        314,
+        419,
+        340
+      ]
+    },
+    {
+      "text": "- Monitored patient pain levels",
+      "score": 0.9996214509010315,
+      "box": [
+        128,
+        340,
+        409,
+        367
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999129176139832,
+      "box": [
+        116,
+        404,
+        268,
+        431
+      ]
+    },
+    {
+      "text": "Bachelor's, Health Care Operations, Meadowfield University, 2020",
+      "score": 0.990073025226593,
+      "box": [
+        117,
+        448,
+        728,
+        472
+      ]
+    },
+    {
+      "text": "Studied fundamentals of patient mobility",
+      "score": 0.984390139579773,
+      "box": [
+        128,
+        472,
+        518,
+        500
+      ]
+    },
+    {
+      "text": "Studied principles of endocrine nursing",
+      "score": 0.9886205792427063,
+      "box": [
+        131,
+        497,
+        509,
+        526
+      ]
+    }
+  ],
+  "seconds": 1.8604021999053657,
+  "id": "26396",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

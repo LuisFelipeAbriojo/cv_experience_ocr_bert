@@ -1,0 +1,202 @@
+{
+  "lines": [
+    {
+      "text": "SARAH BARRETT",
+      "score": 0.9628413319587708,
+      "box": [
+        116,
+        90,
+        406,
+        122
+      ]
+    },
+    {
+      "text": "MA, USA | +1-351-320-7024 | sarah.barrett@example.com",
+      "score": 0.9815748929977417,
+      "box": [
+        117,
+        152,
+        661,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9989557266235352,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, LifeBridge Health Group, 2019.04—2023.01",
+      "score": 0.9779436588287354,
+      "box": [
+        115,
+        287,
+        699,
+        318
+      ]
+    },
+    {
+      "text": "- Managed long-term care strategies",
+      "score": 0.9983507394790649,
+      "box": [
+        125,
+        314,
+        466,
+        343
+      ]
+    },
+    {
+      "text": "- Led infection control programs",
+      "score": 0.9834283590316772,
+      "box": [
+        128,
+        340,
+        422,
+        369
+      ]
+    },
+    {
+      "text": "Registered Nurses, SafeHands Health Group, 2015.072019.04",
+      "score": 0.981076717376709,
+      "box": [
+        118,
+        383,
+        708,
+        407
+      ]
+    },
+    {
+      "text": "- Developed clinical performance dashboards",
+      "score": 0.9833454489707947,
+      "box": [
+        126,
+        407,
+        548,
+        433
+      ]
+    },
+    {
+      "text": "- Directed care delivery improvements",
+      "score": 0.999656081199646,
+      "box": [
+        126,
+        431,
+        480,
+        459
+      ]
+    },
+    {
+      "text": "Registered Nurses, KindHands Care Center, 2011.092015.07",
+      "score": 0.9925406575202942,
+      "box": [
+        117,
+        472,
+        696,
+        498
+      ]
+    },
+    {
+      "text": "- Managed pain control plans",
+      "score": 0.9982225298881531,
+      "box": [
+        125,
+        497,
+        400,
+        525
+      ]
+    },
+    {
+      "text": "- Provided pediatric nursing care",
+      "score": 0.9953914880752563,
+      "box": [
+        127,
+        521,
+        431,
+        551
+      ]
+    },
+    {
+      "text": "Registered Nurses, KindHands Nursing, 2007.112011.09",
+      "score": 0.996616780757904,
+      "box": [
+        118,
+        566,
+        655,
+        590
+      ]
+    },
+    {
+      "text": "- Collected laboratory specimens",
+      "score": 0.9985679388046265,
+      "box": [
+        128,
+        589,
+        434,
+        618
+      ]
+    },
+    {
+      "text": "- Monitored intravenous lines",
+      "score": 0.9876987934112549,
+      "box": [
+        126,
+        613,
+        398,
+        643
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999205470085144,
+      "box": [
+        117,
+        681,
+        266,
+        705
+      ]
+    },
+    {
+      "text": "Bachelor's, Public Health, Stone Valley University, 2008",
+      "score": 0.9835423231124878,
+      "box": [
+        117,
+        726,
+        632,
+        749
+      ]
+    },
+    {
+      "text": "• Studied principles of telemetry basics",
+      "score": 0.9816915392875671,
+      "box": [
+        133,
+        750,
+        494,
+        774
+      ]
+    },
+    {
+      "text": "•Completed coursework in dosage calculations",
+      "score": 0.988665759563446,
+      "box": [
+        132,
+        772,
+        574,
+        801
+      ]
+    }
+  ],
+  "seconds": 3.0202148999087512,
+  "id": "25751",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

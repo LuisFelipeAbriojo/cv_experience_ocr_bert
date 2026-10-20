@@ -1,0 +1,142 @@
+{
+  "lines": [
+    {
+      "text": "JAIMIE STEIN",
+      "score": 0.9991838335990906,
+      "box": [
+        116,
+        91,
+        338,
+        122
+      ]
+    },
+    {
+      "text": "WA, USA | +1-857-935-5787 | jaimie.stein@example.com",
+      "score": 0.9864518046379089,
+      "box": [
+        117,
+        152,
+        648,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9991461634635925,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, TrueHands Nursing Services, 2020.04—2022.05",
+      "score": 0.9919028878211975,
+      "box": [
+        117,
+        289,
+        744,
+        316
+      ]
+    },
+    {
+      "text": "- Developed nursing policy frameworks",
+      "score": 0.999701201915741,
+      "box": [
+        125,
+        313,
+        489,
+        343
+      ]
+    },
+    {
+      "text": "- Developed patient safety metrics",
+      "score": 0.997140109539032,
+      "box": [
+        127,
+        339,
+        446,
+        368
+      ]
+    },
+    {
+      "text": "Registered Nurses, ClearSpring Health Group, 2017.022019.04",
+      "score": 0.9858733415603638,
+      "box": [
+        116,
+        379,
+        716,
+        410
+      ]
+    },
+    {
+      "text": "- Recorded nursing notes",
+      "score": 0.9951140880584717,
+      "box": [
+        125,
+        407,
+        365,
+        433
+      ]
+    },
+    {
+      "text": "- Assisted with diagnostic procedures",
+      "score": 0.9962312579154968,
+      "box": [
+        127,
+        431,
+        474,
+        458
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999098181724548,
+      "box": [
+        117,
+        494,
+        267,
+        521
+      ]
+    },
+    {
+      "text": "Associate's degree, Health Services Administration, Greenfield University, 2011",
+      "score": 0.990234375,
+      "box": [
+        118,
+        541,
+        850,
+        565
+      ]
+    },
+    {
+      "text": "•Completed coursework in dosage calculations",
+      "score": 0.9867097735404968,
+      "box": [
+        130,
+        566,
+        573,
+        592
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of skin integrity maintenance",
+      "score": 0.9872021079063416,
+      "box": [
+        132,
+        590,
+        620,
+        617
+      ]
+    }
+  ],
+  "seconds": 2.523350500036031,
+  "id": "59474",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

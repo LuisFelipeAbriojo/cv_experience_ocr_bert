@@ -1,0 +1,112 @@
+{
+  "lines": [
+    {
+      "text": "MANUEL HODGES",
+      "score": 0.9995641112327576,
+      "box": [
+        118,
+        91,
+        414,
+        122
+      ]
+    },
+    {
+      "text": "WI, USA | +1-989-767-4863 | manuel.hodges@example.com",
+      "score": 0.9841349720954895,
+      "box": [
+        116,
+        149,
+        680,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.999408483505249,
+      "box": [
+        116,
+        243,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Registered Nurses, Harmony Care Group, 2019.09—2020.10",
+      "score": 0.9805780053138733,
+      "box": [
+        116,
+        289,
+        676,
+        316
+      ]
+    },
+    {
+      "text": "- Collected patient health histories",
+      "score": 0.9946844577789307,
+      "box": [
+        126,
+        314,
+        444,
+        340
+      ]
+    },
+    {
+      "text": "- Assisted with surgical prep",
+      "score": 0.9726600646972656,
+      "box": [
+        126,
+        336,
+        390,
+        369
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999566674232483,
+      "box": [
+        116,
+        404,
+        268,
+        431
+      ]
+    },
+    {
+      "text": "Bachelor's, Health Education, Greenway University, 2015",
+      "score": 0.9894561171531677,
+      "box": [
+        115,
+        446,
+        648,
+        475
+      ]
+    },
+    {
+      "text": "Completed coursework in healthcare quality improvement",
+      "score": 0.9959326982498169,
+      "box": [
+        131,
+        472,
+        680,
+        501
+      ]
+    },
+    {
+      "text": "Completed coursework in pressure injury prevention",
+      "score": 0.9949246048927307,
+      "box": [
+        132,
+        497,
+        630,
+        526
+      ]
+    }
+  ],
+  "seconds": 2.079666600096971,
+  "id": "61224",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

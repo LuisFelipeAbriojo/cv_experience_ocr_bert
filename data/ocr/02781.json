@@ -1,0 +1,212 @@
+{
+  "lines": [
+    {
+      "text": "DANIEL LARA",
+      "score": 0.9897641539573669,
+      "box": [
+        117,
+        91,
+        344,
+        122
+      ]
+    },
+    {
+      "text": "CA, USA | +1-903-950-1571 | daniel.lara@example.com",
+      "score": 0.9835690259933472,
+      "box": [
+        118,
+        152,
+        636,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9989409446716309,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Northstar Software, 2020.012023.01",
+      "score": 0.9978120923042297,
+      "box": [
+        117,
+        291,
+        669,
+        315
+      ]
+    },
+    {
+      "text": "- Implemented long-term maintenance plans",
+      "score": 0.9931182861328125,
+      "box": [
+        128,
+        316,
+        536,
+        340
+      ]
+    },
+    {
+      "text": "- Implemented performance optimization plans",
+      "score": 0.9874382615089417,
+      "box": [
+        128,
+        339,
+        558,
+        368
+      ]
+    },
+    {
+      "text": "Software Developers, Codepath Tech, 2016.122020.01",
+      "score": 0.9997438788414001,
+      "box": [
+        118,
+        383,
+        637,
+        407
+      ]
+    },
+    {
+      "text": "- Designed high-availability systems",
+      "score": 0.9829893112182617,
+      "box": [
+        127,
+        409,
+        461,
+        433
+      ]
+    },
+    {
+      "text": "- Designed microservice architectures",
+      "score": 0.9863784313201904,
+      "box": [
+        129,
+        434,
+        477,
+        457
+      ]
+    },
+    {
+      "text": "Software Developers, Openline Labs, 2013.112016.12",
+      "score": 0.9926537871360779,
+      "box": [
+        117,
+        472,
+        633,
+        499
+      ]
+    },
+    {
+      "text": "- Designed data models",
+      "score": 0.9928503632545471,
+      "box": [
+        125,
+        497,
+        351,
+        526
+      ]
+    },
+    {
+      "text": "- Built reusable libraries",
+      "score": 0.9920700788497925,
+      "box": [
+        126,
+        520,
+        349,
+        550
+      ]
+    },
+    {
+      "text": "Software Developers, Stonepath Software, 2010.102013.11",
+      "score": 0.9915276765823364,
+      "box": [
+        115,
+        563,
+        681,
+        591
+      ]
+    },
+    {
+      "text": "- Handled basic deployment tasks",
+      "score": 0.9930075407028198,
+      "box": [
+        127,
+        589,
+        444,
+        617
+      ]
+    },
+    {
+      "text": "- Updated monitoring dashboards",
+      "score": 0.979351818561554,
+      "box": [
+        128,
+        614,
+        440,
+        642
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9998867511749268,
+      "box": [
+        117,
+        681,
+        266,
+        705
+      ]
+    },
+    {
+      "text": "Professional degree, Clearstone University, 2011",
+      "score": 0.9993863701820374,
+      "box": [
+        116,
+        724,
+        571,
+        750
+      ]
+    },
+    {
+      "text": "Bachelor's, Seabreeze University, 2007",
+      "score": 0.9732812643051147,
+      "box": [
+        117,
+        750,
+        483,
+        774
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of artificial intelligence",
+      "score": 0.9782742857933044,
+      "box": [
+        129,
+        775,
+        560,
+        798
+      ]
+    },
+    {
+      "text": "•Studied fundamentals of stack and heap usage",
+      "score": 0.9777870178222656,
+      "box": [
+        130,
+        797,
+        584,
+        827
+      ]
+    }
+  ],
+  "seconds": 2.8963619000278413,
+  "id": "02781",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

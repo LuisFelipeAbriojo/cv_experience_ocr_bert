@@ -1,0 +1,202 @@
+{
+  "lines": [
+    {
+      "text": "ASHLEY GARRISON",
+      "score": 0.9986532330513,
+      "box": [
+        117,
+        90,
+        442,
+        122
+      ]
+    },
+    {
+      "text": "AL, USA | +1-697-457-3262 | ashley.garrison@example.com",
+      "score": 0.9877055287361145,
+      "box": [
+        118,
+        152,
+        677,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9959490895271301,
+      "box": [
+        117,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, ClearLife Health Group, 2019.08—2023.01",
+      "score": 0.9947860240936279,
+      "box": [
+        116,
+        288,
+        688,
+        316
+      ]
+    },
+    {
+      "text": "- Developed patient care algorithms",
+      "score": 0.990923285484314,
+      "box": [
+        126,
+        313,
+        459,
+        344
+      ]
+    },
+    {
+      "text": "- Implemented patient monitoring systems",
+      "score": 0.993579089641571,
+      "box": [
+        127,
+        339,
+        517,
+        369
+      ]
+    },
+    {
+      "text": "Registered Nurses, Caring Path Care, 2016.032019.08",
+      "score": 0.9964486956596375,
+      "box": [
+        118,
+        383,
+        636,
+        407
+      ]
+    },
+    {
+      "text": "- Directed nursing education initiatives",
+      "score": 0.9960716366767883,
+      "box": [
+        125,
+        407,
+        481,
+        433
+      ]
+    },
+    {
+      "text": "- Managed nursing unit operations",
+      "score": 0.9833193421363831,
+      "box": [
+        126,
+        431,
+        447,
+        459
+      ]
+    },
+    {
+      "text": "Registered Nurses, Helping Heart Nursing, 2012.102016.03",
+      "score": 0.9818742871284485,
+      "box": [
+        116,
+        471,
+        681,
+        499
+      ]
+    },
+    {
+      "text": "- Supervised clinical documentation",
+      "score": 0.9865063428878784,
+      "box": [
+        127,
+        499,
+        458,
+        523
+      ]
+    },
+    {
+      "text": "- Performed patient triage",
+      "score": 0.9991270899772644,
+      "box": [
+        128,
+        521,
+        366,
+        550
+      ]
+    },
+    {
+      "text": "Registered Nurses, TrueCare Nursing, 2009.042012.10",
+      "score": 0.9960395097732544,
+      "box": [
+        118,
+        565,
+        640,
+        589
+      ]
+    },
+    {
+      "text": "- Monitored intravenous lines",
+      "score": 0.9884185791015625,
+      "box": [
+        126,
+        590,
+        398,
+        615
+      ]
+    },
+    {
+      "text": "- Maintained supply inventory",
+      "score": 0.9811370968818665,
+      "box": [
+        125,
+        613,
+        402,
+        644
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999105930328369,
+      "box": [
+        116,
+        679,
+        267,
+        706
+      ]
+    },
+    {
+      "text": "Bachelor's, Mental Health Studies, Oakway University, 2010",
+      "score": 0.9772167205810547,
+      "box": [
+        115,
+        723,
+        673,
+        750
+      ]
+    },
+    {
+      "text": "•Completed coursework in first aid principles",
+      "score": 0.9955857992172241,
+      "box": [
+        131,
+        749,
+        551,
+        775
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of skin integrity maintenance",
+      "score": 0.98860764503479,
+      "box": [
+        132,
+        773,
+        620,
+        800
+      ]
+    }
+  ],
+  "seconds": 2.953640699852258,
+  "id": "00365",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

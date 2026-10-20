@@ -1,0 +1,212 @@
+{
+  "lines": [
+    {
+      "text": "ALICIA LANDRY",
+      "score": 0.9827934503555298,
+      "box": [
+        118,
+        92,
+        377,
+        122
+      ]
+    },
+    {
+      "text": "GA, USA | +1-298-666-1137 | alicia.landry@example.com",
+      "score": 0.9949200749397278,
+      "box": [
+        116,
+        150,
+        652,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9991835951805115,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Learning Horizons Academy, 2018.01—2023.",
+      "score": 0.9859446287155151,
+      "box": [
+        116,
+        289,
+        877,
+        319
+      ]
+    },
+    {
+      "text": "- Led instructional technology integration",
+      "score": 0.9962611198425293,
+      "box": [
+        126,
+        315,
+        505,
+        343
+      ]
+    },
+    {
+      "text": "- Led professional development planning",
+      "score": 0.9995031356811523,
+      "box": [
+        127,
+        339,
+        505,
+        370
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Bright Futures Academy, 2013.012018.01",
+      "score": 0.9958118796348572,
+      "box": [
+        116,
+        381,
+        860,
+        411
+      ]
+    },
+    {
+      "text": "- Directed academic intervention strategies",
+      "score": 0.9980003833770752,
+      "box": [
+        126,
+        408,
+        524,
+        434
+      ]
+    },
+    {
+      "text": "- Designed instructional quality standards",
+      "score": 0.9877251386642456,
+      "box": [
+        127,
+        432,
+        511,
+        457
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Sunny Bridge School, 2008.01—2013.01",
+      "score": 0.984281063079834,
+      "box": [
+        117,
+        471,
+        831,
+        499
+      ]
+    },
+    {
+      "text": "- Coordinated group learning activities",
+      "score": 0.9849806427955627,
+      "box": [
+        127,
+        500,
+        481,
+        524
+      ]
+    },
+    {
+      "text": "- Reviewed and updated curriculum materials",
+      "score": 0.9889450073242188,
+      "box": [
+        127,
+        523,
+        548,
+        549
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Kind Meadow School, 2003.01-2008.01",
+      "score": 0.9820870757102966,
+      "box": [
+        116,
+        563,
+        833,
+        592
+      ]
+    },
+    {
+      "text": "- Monitored independent work sessions",
+      "score": 0.9961087107658386,
+      "box": [
+        127,
+        592,
+        493,
+        616
+      ]
+    },
+    {
+      "text": "- Provided math drill exercises",
+      "score": 0.9934124946594238,
+      "box": [
+        126,
+        615,
+        410,
+        641
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999409914016724,
+      "box": [
+        117,
+        681,
+        266,
+        705
+      ]
+    },
+    {
+      "text": "Master's, Introductory Education, Riverstone University, 2006",
+      "score": 0.9927723407745361,
+      "box": [
+        117,
+        726,
+        683,
+        749
+      ]
+    },
+    {
+      "text": "Bachelor's, Education and Development, Brightfield University, 2004",
+      "score": 0.9897014498710632,
+      "box": [
+        114,
+        746,
+        749,
+        777
+      ]
+    },
+    {
+      "text": "•Studied principles of learner diversity",
+      "score": 0.9794252514839172,
+      "box": [
+        129,
+        774,
+        489,
+        802
+      ]
+    },
+    {
+      "text": "•Completed coursework in lesson effectiveness analysis",
+      "score": 0.9908981323242188,
+      "box": [
+        131,
+        798,
+        658,
+        828
+      ]
+    }
+  ],
+  "seconds": 3.1972550000064075,
+  "id": "15564",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

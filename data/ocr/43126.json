@@ -1,0 +1,172 @@
+{
+  "lines": [
+    {
+      "text": "TAMMY ARCHER",
+      "score": 0.9991558194160461,
+      "box": [
+        117,
+        91,
+        393,
+        121
+      ]
+    },
+    {
+      "text": "OH, USA | +1-323-377-9572 | tammy.archer@example.com",
+      "score": 0.983755350112915,
+      "box": [
+        118,
+        152,
+        670,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9990155100822449,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, ClearLedger Group, 2021.01-2023.01",
+      "score": 0.9790570139884949,
+      "box": [
+        115,
+        288,
+        677,
+        316
+      ]
+    },
+    {
+      "text": "- Led financial data standardization",
+      "score": 0.9865546822547913,
+      "box": [
+        128,
+        315,
+        453,
+        341
+      ]
+    },
+    {
+      "text": "- Designed budgeting methodologies",
+      "score": 0.9735442996025085,
+      "box": [
+        128,
+        340,
+        469,
+        368
+      ]
+    },
+    {
+      "text": "Accountants Auditors, FairCount Advisors, 2018.12—2021.01",
+      "score": 0.9833241701126099,
+      "box": [
+        118,
+        383,
+        676,
+        407
+      ]
+    },
+    {
+      "text": "- Reviewed financial disclosures",
+      "score": 0.9986076354980469,
+      "box": [
+        125,
+        407,
+        427,
+        433
+      ]
+    },
+    {
+      "text": "- Analyzed financial variances",
+      "score": 0.9976305365562439,
+      "box": [
+        128,
+        431,
+        406,
+        460
+      ]
+    },
+    {
+      "text": "Accountants Auditors, ClearCount Group, 2015.062017.07",
+      "score": 0.9941303133964539,
+      "box": [
+        118,
+        473,
+        668,
+        497
+      ]
+    },
+    {
+      "text": "- Tracked budget expenditures",
+      "score": 0.9888902306556702,
+      "box": [
+        125,
+        496,
+        414,
+        526
+      ]
+    },
+    {
+      "text": "- Prepared basic financial reports",
+      "score": 0.9971482753753662,
+      "box": [
+        128,
+        521,
+        436,
+        552
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.99990314245224,
+      "box": [
+        117,
+        587,
+        267,
+        614
+      ]
+    },
+    {
+      "text": "Associate's degree, Financial Planning, Harborview University, 2005",
+      "score": 0.9983266592025757,
+      "box": [
+        118,
+        633,
+        747,
+        657
+      ]
+    },
+    {
+      "text": "•Studied fundamentals of employee benefit accounting",
+      "score": 0.9838944673538208,
+      "box": [
+        128,
+        655,
+        645,
+        686
+      ]
+    },
+    {
+      "text": "•Completed coursework in tax accounting",
+      "score": 0.9854153394699097,
+      "box": [
+        132,
+        680,
+        525,
+        710
+      ]
+    }
+  ],
+  "seconds": 2.642502299975604,
+  "id": "43126",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

@@ -1,0 +1,112 @@
+{
+  "lines": [
+    {
+      "text": "LUIS CHUNG",
+      "score": 0.999899685382843,
+      "box": [
+        116,
+        89,
+        325,
+        123
+      ]
+    },
+    {
+      "text": "MA, USA | +1-950-619-2791 | luis.chung@example.com",
+      "score": 0.9955697059631348,
+      "box": [
+        115,
+        149,
+        637,
+        177
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9997613430023193,
+      "box": [
+        117,
+        243,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Software Developers, Openwave Solutions, 2019.072021.12",
+      "score": 0.9997708201408386,
+      "box": [
+        116,
+        288,
+        688,
+        315
+      ]
+    },
+    {
+      "text": "- Reviewed test coverage reports",
+      "score": 0.9996050596237183,
+      "box": [
+        125,
+        313,
+        437,
+        342
+      ]
+    },
+    {
+      "text": "- Updated documentation for implemented features",
+      "score": 0.9805652499198914,
+      "box": [
+        128,
+        339,
+        601,
+        367
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999404549598694,
+      "box": [
+        116,
+        404,
+        268,
+        431
+      ]
+    },
+    {
+      "text": "Bachelor's, Sagewood University, 2016",
+      "score": 0.9849929809570312,
+      "box": [
+        115,
+        446,
+        481,
+        474
+      ]
+    },
+    {
+      "text": "• Studied principles of distributed systems",
+      "score": 0.9674230813980103,
+      "box": [
+        131,
+        475,
+        521,
+        499
+      ]
+    },
+    {
+      "text": "•Completed coursework in information retrieval",
+      "score": 0.9889564514160156,
+      "box": [
+        134,
+        499,
+        574,
+        523
+      ]
+    }
+  ],
+  "seconds": 2.019741099793464,
+  "id": "25817",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

@@ -1,0 +1,142 @@
+{
+  "lines": [
+    {
+      "text": "DAIJA ROSALES",
+      "score": 0.9997047185897827,
+      "box": [
+        117,
+        89,
+        390,
+        123
+      ]
+    },
+    {
+      "text": "PA, USA | +1-977-904-4626 | daija.rosales@example.com",
+      "score": 0.9800861477851868,
+      "box": [
+        117,
+        152,
+        656,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9997704029083252,
+      "box": [
+        117,
+        243,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Registered Nurses, GentleLife Health, 2020.122023.01",
+      "score": 0.9954208135604858,
+      "box": [
+        118,
+        290,
+        635,
+        314
+      ]
+    },
+    {
+      "text": "- Developed patient safety metrics",
+      "score": 0.9984427094459534,
+      "box": [
+        125,
+        313,
+        446,
+        343
+      ]
+    },
+    {
+      "text": "- Directed emergency response planning",
+      "score": 0.9991899728775024,
+      "box": [
+        127,
+        339,
+        505,
+        369
+      ]
+    },
+    {
+      "text": "Registered Nurses, TruePath Health Services, 2018.112020.12",
+      "score": 0.994408369064331,
+      "box": [
+        118,
+        383,
+        714,
+        407
+      ]
+    },
+    {
+      "text": "- Monitored patient skin condition",
+      "score": 0.9865365028381348,
+      "box": [
+        125,
+        406,
+        437,
+        432
+      ]
+    },
+    {
+      "text": "- Monitored intravenous lines",
+      "score": 0.9929982423782349,
+      "box": [
+        126,
+        430,
+        398,
+        456
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999439716339111,
+      "box": [
+        116,
+        494,
+        268,
+        521
+      ]
+    },
+    {
+      "text": "Bachelor's, Clinical Studies, Edgewood University, 2018",
+      "score": 0.9788662791252136,
+      "box": [
+        115,
+        539,
+        634,
+        567
+      ]
+    },
+    {
+      "text": "•Studied principles of continuity of care",
+      "score": 0.9804284572601318,
+      "box": [
+        130,
+        567,
+        500,
+        591
+      ]
+    },
+    {
+      "text": "Studied fundamentals of surgical nursing",
+      "score": 0.9891389608383179,
+      "box": [
+        129,
+        588,
+        525,
+        619
+      ]
+    }
+  ],
+  "seconds": 2.4023432000540197,
+  "id": "46926",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

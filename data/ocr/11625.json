@@ -1,0 +1,142 @@
+{
+  "lines": [
+    {
+      "text": "CHRISTOPHER MCKENZIE",
+      "score": 0.9997928738594055,
+      "box": [
+        117,
+        90,
+        544,
+        122
+      ]
+    },
+    {
+      "text": "DE, USA | +1-736-903-5798 | christopher.mckenzie@example.com",
+      "score": 0.9871515035629272,
+      "box": [
+        116,
+        150,
+        738,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9991628527641296,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, TrueLine Services, 2020.06—2023.01",
+      "score": 0.9872958660125732,
+      "box": [
+        116,
+        288,
+        676,
+        316
+      ]
+    },
+    {
+      "text": "- Reviewed structural integrity assessments",
+      "score": 0.9892328977584839,
+      "box": [
+        126,
+        313,
+        531,
+        343
+      ]
+    },
+    {
+      "text": "- Implemented quality control systems",
+      "score": 0.9821787476539612,
+      "box": [
+        127,
+        339,
+        480,
+        369
+      ]
+    },
+    {
+      "text": "Construction Laborers, CornerCraft Builders, 2017.112020.06",
+      "score": 0.993360698223114,
+      "box": [
+        118,
+        383,
+        698,
+        407
+      ]
+    },
+    {
+      "text": "- Operated hand tools for assembly tasks",
+      "score": 0.9937111735343933,
+      "box": [
+        127,
+        409,
+        509,
+        433
+      ]
+    },
+    {
+      "text": "- Installed basic flooring materials",
+      "score": 0.9915605187416077,
+      "box": [
+        128,
+        432,
+        439,
+        457
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999377727508545,
+      "box": [
+        117,
+        494,
+        267,
+        521
+      ]
+    },
+    {
+      "text": "Some college (no degree), Construction Estimating, Meadowridge University, 2021",
+      "score": 0.988615870475769,
+      "box": [
+        115,
+        538,
+        880,
+        569
+      ]
+    },
+    {
+      "text": "•Studied fundamentals of construction quality assurance",
+      "score": 0.9821127653121948,
+      "box": [
+        130,
+        566,
+        660,
+        592
+      ]
+    },
+    {
+      "text": "Completed coursework in basic site grading",
+      "score": 0.9904242753982544,
+      "box": [
+        130,
+        589,
+        553,
+        619
+      ]
+    }
+  ],
+  "seconds": 2.419553800020367,
+  "id": "11625",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

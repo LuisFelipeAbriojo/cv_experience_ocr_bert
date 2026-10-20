@@ -1,0 +1,212 @@
+{
+  "lines": [
+    {
+      "text": "EMILY BELL",
+      "score": 0.9997167587280273,
+      "box": [
+        118,
+        91,
+        316,
+        122
+      ]
+    },
+    {
+      "text": "PA, USA | +1-388-747-8210 | emily.bell@example.com",
+      "score": 0.9848183989524841,
+      "box": [
+        116,
+        151,
+        626,
+        177
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9991410374641418,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Bright River Academy, 2019.112023.01",
+      "score": 0.9878050088882446,
+      "box": [
+        117,
+        289,
+        837,
+        316
+      ]
+    },
+    {
+      "text": "- Led curriculum transformation initiatives",
+      "score": 0.9938192367553711,
+      "box": [
+        126,
+        316,
+        510,
+        341
+      ]
+    },
+    {
+      "text": "- Directed academic intervention strategies",
+      "score": 0.9864981770515442,
+      "box": [
+        127,
+        340,
+        525,
+        367
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Caring Meadow School, 2016.08—2019.11",
+      "score": 0.9819878339767456,
+      "box": [
+        117,
+        382,
+        852,
+        409
+      ]
+    },
+    {
+      "text": "- Developed system-wide assessment tools",
+      "score": 0.9890562295913696,
+      "box": [
+        127,
+        409,
+        530,
+        433
+      ]
+    },
+    {
+      "text": "- Established data reporting standards",
+      "score": 0.9818832278251648,
+      "box": [
+        126,
+        432,
+        481,
+        458
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Discovery Path Academy, 2013.05—2016.08",
+      "score": 0.9879130721092224,
+      "box": [
+        117,
+        472,
+        871,
+        499
+      ]
+    },
+    {
+      "text": "- Implemented instructional modifications",
+      "score": 0.9853155612945557,
+      "box": [
+        125,
+        497,
+        509,
+        525
+      ]
+    },
+    {
+      "text": "- Aligned instruction with benchmarks",
+      "score": 0.9850503206253052,
+      "box": [
+        128,
+        521,
+        475,
+        550
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Golden Oak Academy, 2010.02—2013.05",
+      "score": 0.9908209443092346,
+      "box": [
+        117,
+        565,
+        842,
+        592
+      ]
+    },
+    {
+      "text": "- Implemented classroom seating plans",
+      "score": 0.999775767326355,
+      "box": [
+        125,
+        589,
+        494,
+        619
+      ]
+    },
+    {
+      "text": "- Administered quizzes and short assessments",
+      "score": 0.9853357076644897,
+      "box": [
+        126,
+        613,
+        562,
+        644
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999436140060425,
+      "box": [
+        117,
+        681,
+        266,
+        705
+      ]
+    },
+    {
+      "text": "Master's, Student Development, Pinecrest University, 2013",
+      "score": 0.9977250099182129,
+      "box": [
+        116,
+        723,
+        662,
+        749
+      ]
+    },
+    {
+      "text": "Bachelor's, Foundational Education, Windridge University, 2011",
+      "score": 0.9980533123016357,
+      "box": [
+        114,
+        746,
+        706,
+        777
+      ]
+    },
+    {
+      "text": "•Studied principles of academic progress tracking",
+      "score": 0.9805364608764648,
+      "box": [
+        130,
+        774,
+        597,
+        801
+      ]
+    },
+    {
+      "text": "• Completed coursework in instructional evaluation",
+      "score": 0.9831278920173645,
+      "box": [
+        132,
+        799,
+        602,
+        826
+      ]
+    }
+  ],
+  "seconds": 3.788064599968493,
+  "id": "46836",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

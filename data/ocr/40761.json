@@ -1,0 +1,212 @@
+{
+  "lines": [
+    {
+      "text": "ERIC FISCHER",
+      "score": 0.966107189655304,
+      "box": [
+        118,
+        91,
+        354,
+        122
+      ]
+    },
+    {
+      "text": "NC, USA | +1-822-300-2001 | eric.fischer@example.com",
+      "score": 0.9900849461555481,
+      "box": [
+        115,
+        150,
+        643,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9989233016967773,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Balanced Books Group, 2019.07-2023.01",
+      "score": 0.9924121499061584,
+      "box": [
+        115,
+        288,
+        714,
+        316
+      ]
+    },
+    {
+      "text": "- Designed financial documentation standards",
+      "score": 0.9963025450706482,
+      "box": [
+        127,
+        317,
+        552,
+        340
+      ]
+    },
+    {
+      "text": "- Directed revenue recognition policies",
+      "score": 0.9951017498970032,
+      "box": [
+        127,
+        339,
+        485,
+        369
+      ]
+    },
+    {
+      "text": "Accountants Auditors, ClearBooks Group, 2016.012019.07",
+      "score": 0.9847232103347778,
+      "box": [
+        116,
+        381,
+        672,
+        409
+      ]
+    },
+    {
+      "text": "- Developed financial performance metrics",
+      "score": 0.9926643371582031,
+      "box": [
+        126,
+        408,
+        520,
+        433
+      ]
+    },
+    {
+      "text": "- Directed strategic accounting initiatives",
+      "score": 0.970391035079956,
+      "box": [
+        127,
+        432,
+        502,
+        458
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Reliable Balance Advisors, 2012.072016.01",
+      "score": 0.9993833303451538,
+      "box": [
+        115,
+        471,
+        742,
+        499
+      ]
+    },
+    {
+      "text": "- Analyzed financial variances",
+      "score": 0.994645893573761,
+      "box": [
+        127,
+        500,
+        406,
+        524
+      ]
+    },
+    {
+      "text": "- Reviewed payroll reconciliations",
+      "score": 0.9979000091552734,
+      "box": [
+        127,
+        521,
+        440,
+        552
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Integrity Balance Advisors, 2008.12—2012.07",
+      "score": 0.9842991232872009,
+      "box": [
+        115,
+        563,
+        742,
+        592
+      ]
+    },
+    {
+      "text": "- Assisted with inventory counts",
+      "score": 0.9927272200584412,
+      "box": [
+        127,
+        592,
+        422,
+        616
+      ]
+    },
+    {
+      "text": "- Compiled financial schedules",
+      "score": 0.9904224872589111,
+      "box": [
+        126,
+        614,
+        414,
+        642
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9998914003372192,
+      "box": [
+        117,
+        681,
+        266,
+        705
+      ]
+    },
+    {
+      "text": "Master's, Supply Chain Management, Northview University, 2007",
+      "score": 0.9917434453964233,
+      "box": [
+        115,
+        723,
+        719,
+        750
+      ]
+    },
+    {
+      "text": "Bachelor's, Business Law, Cedar Ridge University, 2005",
+      "score": 0.9929087162017822,
+      "box": [
+        116,
+        749,
+        640,
+        776
+      ]
+    },
+    {
+      "text": "• Completed coursework in accounting ethics",
+      "score": 0.9896461367607117,
+      "box": [
+        131,
+        776,
+        551,
+        800
+      ]
+    },
+    {
+      "text": "•Studied principles of audit sampling",
+      "score": 0.9788817167282104,
+      "box": [
+        131,
+        798,
+        477,
+        828
+      ]
+    }
+  ],
+  "seconds": 3.051584600005299,
+  "id": "40761",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

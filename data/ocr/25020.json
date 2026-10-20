@@ -1,0 +1,212 @@
+{
+  "lines": [
+    {
+      "text": "MICHAL TERRELL",
+      "score": 0.9967129826545715,
+      "box": [
+        117,
+        92,
+        410,
+        122
+      ]
+    },
+    {
+      "text": "MD, USA | +1-876-589-1544 | michal.terrell@example.com",
+      "score": 0.9748783707618713,
+      "box": [
+        115,
+        150,
+        663,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9991202354431152,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Kind Start School, 2019.03—2023.01",
+      "score": 0.9715114831924438,
+      "box": [
+        117,
+        290,
+        798,
+        317
+      ]
+    },
+    {
+      "text": "- Developed student performance metrics",
+      "score": 0.9801983833312988,
+      "box": [
+        126,
+        316,
+        512,
+        341
+      ]
+    },
+    {
+      "text": "- Designed performance monitoring systems",
+      "score": 0.9981404542922974,
+      "box": [
+        127,
+        340,
+        539,
+        368
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Golden Steps Academy, 2015.052019.03",
+      "score": 0.9982084631919861,
+      "box": [
+        115,
+        380,
+        857,
+        411
+      ]
+    },
+    {
+      "text": "- Directed academic intervention strategies",
+      "score": 0.994381844997406,
+      "box": [
+        126,
+        408,
+        525,
+        434
+      ]
+    },
+    {
+      "text": "- Implemented data analysis frameworks",
+      "score": 0.9877241849899292,
+      "box": [
+        128,
+        432,
+        504,
+        457
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Open Valley School, 2011.062015.05",
+      "score": 0.9901735782623291,
+      "box": [
+        116,
+        471,
+        822,
+        500
+      ]
+    },
+    {
+      "text": "- Developed classroom assessment tools",
+      "score": 0.9992674589157104,
+      "box": [
+        125,
+        497,
+        511,
+        525
+      ]
+    },
+    {
+      "text": "- Implemented classroom routines",
+      "score": 0.9923612475395203,
+      "box": [
+        127,
+        521,
+        446,
+        551
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Meadowbrook Academy, 2007.07-2011.06",
+      "score": 0.9764188528060913,
+      "box": [
+        116,
+        564,
+        862,
+        592
+      ]
+    },
+    {
+      "text": "- Reviewed curriculum content",
+      "score": 0.9783956408500671,
+      "box": [
+        127,
+        592,
+        412,
+        615
+      ]
+    },
+    {
+      "text": "- Conducted reading practice sessions",
+      "score": 0.9911442399024963,
+      "box": [
+        126,
+        614,
+        485,
+        643
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999169111251831,
+      "box": [
+        117,
+        681,
+        266,
+        705
+      ]
+    },
+    {
+      "text": "Master's, Child and Youth Studies, Crossfield University, 2008",
+      "score": 0.9956668019294739,
+      "box": [
+        116,
+        723,
+        691,
+        749
+      ]
+    },
+    {
+      "text": "Bachelor's, Educational Support, Goldenwood University, 2006",
+      "score": 0.991468071937561,
+      "box": [
+        114,
+        746,
+        699,
+        777
+      ]
+    },
+    {
+      "text": "•Studied principles of instructional materials development",
+      "score": 0.9966281652450562,
+      "box": [
+        129,
+        774,
+        669,
+        799
+      ]
+    },
+    {
+      "text": "•Studied fundamentals of academic support strategies",
+      "score": 0.9829070568084717,
+      "box": [
+        130,
+        798,
+        640,
+        828
+      ]
+    }
+  ],
+  "seconds": 3.1980530000291765,
+  "id": "25020",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

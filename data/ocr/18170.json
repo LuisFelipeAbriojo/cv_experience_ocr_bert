@@ -1,0 +1,112 @@
+{
+  "lines": [
+    {
+      "text": "ISAAC CANNON",
+      "score": 0.9850630760192871,
+      "box": [
+        117,
+        90,
+        377,
+        121
+      ]
+    },
+    {
+      "text": "IL, USA | +1-668-345-8323 | isaac.cannon@example.com",
+      "score": 0.9932032227516174,
+      "box": [
+        116,
+        149,
+        653,
+        177
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9993009567260742,
+      "box": [
+        116,
+        243,
+        317,
+        270
+      ]
+    },
+    {
+      "text": "Accountants Auditors, AccuCount Solutions, 2020.01—2023.01",
+      "score": 0.9904123544692993,
+      "box": [
+        116,
+        288,
+        692,
+        313
+      ]
+    },
+    {
+      "text": "- Assisted with tax form preparation",
+      "score": 0.9836829304695129,
+      "box": [
+        125,
+        314,
+        457,
+        339
+      ]
+    },
+    {
+      "text": "- Entered financial data into accounting systems",
+      "score": 0.9856443405151367,
+      "box": [
+        126,
+        339,
+        572,
+        366
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999489188194275,
+      "box": [
+        116,
+        403,
+        268,
+        431
+      ]
+    },
+    {
+      "text": "Bachelor's, Investment Management, Stonecrest University, 2022",
+      "score": 0.9964563250541687,
+      "box": [
+        116,
+        447,
+        723,
+        474
+      ]
+    },
+    {
+      "text": "Completed coursework in accounts receivable",
+      "score": 0.9932898879051208,
+      "box": [
+        130,
+        473,
+        574,
+        498
+      ]
+    },
+    {
+      "text": "•Studied fundamentals of forensic accounting",
+      "score": 0.9789438247680664,
+      "box": [
+        131,
+        495,
+        560,
+        526
+      ]
+    }
+  ],
+  "seconds": 2.1831196998246014,
+  "id": "18170",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

@@ -1,0 +1,112 @@
+{
+  "lines": [
+    {
+      "text": "TIMOTHY SHAFFER",
+      "score": 0.9990161061286926,
+      "box": [
+        118,
+        91,
+        435,
+        122
+      ]
+    },
+    {
+      "text": "NE, USA | +1-938-438-3698 | timothy.shaffer@example.com",
+      "score": 0.9866248369216919,
+      "box": [
+        115,
+        149,
+        678,
+        177
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.999755859375,
+      "box": [
+        117,
+        243,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Construction Laborers, SureStone Construction, 2020.04—2023.01",
+      "score": 0.9910619258880615,
+      "box": [
+        116,
+        287,
+        729,
+        315
+      ]
+    },
+    {
+      "text": "- Sorted building materials",
+      "score": 0.999212384223938,
+      "box": [
+        125,
+        313,
+        372,
+        342
+      ]
+    },
+    {
+      "text": "- Transported waste materials",
+      "score": 0.988609254360199,
+      "box": [
+        127,
+        341,
+        405,
+        365
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9965437650680542,
+      "box": [
+        116,
+        404,
+        268,
+        431
+      ]
+    },
+    {
+      "text": "Some college (no degree), Construction Site Management, Brookside University, 2023",
+      "score": 0.9833720326423645,
+      "box": [
+        116,
+        446,
+        916,
+        476
+      ]
+    },
+    {
+      "text": "• Completed coursework in construction safety documentation",
+      "score": 0.98323655128479,
+      "box": [
+        132,
+        475,
+        706,
+        499
+      ]
+    },
+    {
+      "text": "Studied principles of material estimation",
+      "score": 0.9851868152618408,
+      "box": [
+        132,
+        497,
+        519,
+        525
+      ]
+    }
+  ],
+  "seconds": 1.9241940998472273,
+  "id": "31933",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

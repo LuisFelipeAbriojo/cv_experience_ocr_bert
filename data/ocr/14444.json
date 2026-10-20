@@ -1,0 +1,142 @@
+{
+  "lines": [
+    {
+      "text": "BRENDA RICHMOND",
+      "score": 0.9997605085372925,
+      "box": [
+        118,
+        92,
+        452,
+        122
+      ]
+    },
+    {
+      "text": "FL, USA | +1-577-709-8357 | brenda.richmond@example.com",
+      "score": 0.9876874685287476,
+      "box": [
+        116,
+        150,
+        693,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.999126136302948,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Harmony Start Academy, 2021.03—2023.01",
+      "score": 0.9802060127258301,
+      "box": [
+        115,
+        287,
+        864,
+        318
+      ]
+    },
+    {
+      "text": "- Designed systemic intervention models",
+      "score": 0.97882479429245,
+      "box": [
+        127,
+        317,
+        504,
+        341
+      ]
+    },
+    {
+      "text": "- Designed learning analytics frameworks",
+      "score": 0.9900757670402527,
+      "box": [
+        127,
+        340,
+        511,
+        368
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Little Start School, 2017.072019.05",
+      "score": 0.9992213845252991,
+      "box": [
+        117,
+        382,
+        802,
+        409
+      ]
+    },
+    {
+      "text": "- Prepared daily instructional agendas",
+      "score": 0.9984386563301086,
+      "box": [
+        126,
+        409,
+        479,
+        433
+      ]
+    },
+    {
+      "text": "- Supported standardized testing sessions",
+      "score": 0.9993900060653687,
+      "box": [
+        129,
+        434,
+        517,
+        457
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999436140060425,
+      "box": [
+        116,
+        494,
+        268,
+        521
+      ]
+    },
+    {
+      "text": "Bachelor's, Liberal Arts, Cedarfield University, 2014",
+      "score": 0.9827705025672913,
+      "box": [
+        116,
+        541,
+        594,
+        566
+      ]
+    },
+    {
+      "text": "•Studied principles of academic progress tracking",
+      "score": 0.9840224981307983,
+      "box": [
+        130,
+        565,
+        596,
+        594
+      ]
+    },
+    {
+      "text": "• Completed coursework in educational communication skills",
+      "score": 0.9954330325126648,
+      "box": [
+        132,
+        592,
+        692,
+        616
+      ]
+    }
+  ],
+  "seconds": 2.4110790002159774,
+  "id": "14444",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

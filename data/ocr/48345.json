@@ -1,0 +1,192 @@
+{
+  "lines": [
+    {
+      "text": "RYAN NASH",
+      "score": 0.9997523427009583,
+      "box": [
+        117,
+        91,
+        317,
+        122
+      ]
+    },
+    {
+      "text": "TN, USA | +1-885-227-1203 | ryan.nash@example.com",
+      "score": 0.9862619638442993,
+      "box": [
+        117,
+        151,
+        631,
+        177
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9940333962440491,
+      "box": [
+        117,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, Allied Structures, 2020.05—2023.01",
+      "score": 0.9868040084838867,
+      "box": [
+        118,
+        289,
+        657,
+        313
+      ]
+    },
+    {
+      "text": "- Led operational planning",
+      "score": 0.9996456503868103,
+      "box": [
+        125,
+        313,
+        372,
+        343
+      ]
+    },
+    {
+      "text": "- Established site layout plans",
+      "score": 0.9992228150367737,
+      "box": [
+        126,
+        338,
+        406,
+        368
+      ]
+    },
+    {
+      "text": "Construction Laborers, MasterBuild Services, 2017.09—2020.05",
+      "score": 0.9876705408096313,
+      "box": [
+        118,
+        383,
+        704,
+        406
+      ]
+    },
+    {
+      "text": "- Reviewed material specifications",
+      "score": 0.9924785494804382,
+      "box": [
+        125,
+        407,
+        445,
+        432
+      ]
+    },
+    {
+      "text": "- Led complex demolition projects",
+      "score": 0.9925784468650818,
+      "box": [
+        128,
+        432,
+        441,
+        457
+      ]
+    },
+    {
+      "text": "Construction Laborers, NextBuild Contractors, 2015.012017.09",
+      "score": 0.9900689721107483,
+      "box": [
+        118,
+        473,
+        712,
+        497
+      ]
+    },
+    {
+      "text": "- Installed foundation elements",
+      "score": 0.9863497018814087,
+      "box": [
+        127,
+        499,
+        414,
+        522
+      ]
+    },
+    {
+      "text": "- Installed drainage systems",
+      "score": 0.9790639877319336,
+      "box": [
+        127,
+        522,
+        389,
+        550
+      ]
+    },
+    {
+      "text": "Construction Laborers, MasterBuild Services, 2010.082013.04",
+      "score": 0.9945492148399353,
+      "box": [
+        118,
+        566,
+        704,
+        589
+      ]
+    },
+    {
+      "text": "- Helped position heavy materials",
+      "score": 0.9815194010734558,
+      "box": [
+        125,
+        589,
+        440,
+        617
+      ]
+    },
+    {
+      "text": "- Assisted with excavation tasks",
+      "score": 0.9921454787254333,
+      "box": [
+        127,
+        614,
+        424,
+        641
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.99991774559021,
+      "box": [
+        117,
+        681,
+        266,
+        705
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Construction Practices, Windfield High School, 2002",
+      "score": 0.9932088255882263,
+      "box": [
+        118,
+        725,
+        859,
+        748
+      ]
+    },
+    {
+      "text": "• Completed coursework in structural reinforcement methods",
+      "score": 0.9963636994361877,
+      "box": [
+        133,
+        750,
+        695,
+        774
+      ]
+    }
+  ],
+  "seconds": 3.0116293001919985,
+  "id": "48345",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

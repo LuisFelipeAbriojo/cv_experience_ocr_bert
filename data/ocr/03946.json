@@ -1,0 +1,112 @@
+{
+  "lines": [
+    {
+      "text": "LEE MCKENZIE",
+      "score": 0.9996553063392639,
+      "box": [
+        117,
+        91,
+        366,
+        122
+      ]
+    },
+    {
+      "text": "CA, USA | +1-381-578-5292 | lee.mckenzie@example.com",
+      "score": 0.9809258580207825,
+      "box": [
+        117,
+        150,
+        663,
+        177
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9997589588165283,
+      "box": [
+        117,
+        243,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Accountants Auditors, ClearLedger Group, 2021.01-2022.04",
+      "score": 0.9766982197761536,
+      "box": [
+        115,
+        287,
+        679,
+        315
+      ]
+    },
+    {
+      "text": "- Prepared aging reports",
+      "score": 0.9707226753234863,
+      "box": [
+        125,
+        313,
+        357,
+        343
+      ]
+    },
+    {
+      "text": "- Reviewed ledger postings",
+      "score": 0.9935783743858337,
+      "box": [
+        126,
+        338,
+        382,
+        368
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999411106109619,
+      "box": [
+        116,
+        404,
+        268,
+        431
+      ]
+    },
+    {
+      "text": "Bachelor's, Professional Accounting, Bayside University, 2011",
+      "score": 0.9859199523925781,
+      "box": [
+        115,
+        446,
+        690,
+        474
+      ]
+    },
+    {
+      "text": "Studied fundamentals of audit software tools",
+      "score": 0.9946675896644592,
+      "box": [
+        130,
+        473,
+        559,
+        498
+      ]
+    },
+    {
+      "text": "Completed coursework in accounting ethics",
+      "score": 0.9920530319213867,
+      "box": [
+        132,
+        497,
+        552,
+        525
+      ]
+    }
+  ],
+  "seconds": 1.924525999929756,
+  "id": "03946",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

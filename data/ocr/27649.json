@@ -1,0 +1,142 @@
+{
+  "lines": [
+    {
+      "text": "RUSSELL TERRELL",
+      "score": 0.9996278285980225,
+      "box": [
+        117,
+        89,
+        438,
+        122
+      ]
+    },
+    {
+      "text": "MI, USA | +1-813-748-8171 | russell.terrell@example.com",
+      "score": 0.9881884455680847,
+      "box": [
+        117,
+        151,
+        651,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9991553425788879,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Corewave Labs, 2019.03—2021.01",
+      "score": 0.9862995743751526,
+      "box": [
+        116,
+        289,
+        641,
+        316
+      ]
+    },
+    {
+      "text": "- Designed system architectures",
+      "score": 0.9774190187454224,
+      "box": [
+        126,
+        314,
+        429,
+        342
+      ]
+    },
+    {
+      "text": "- Designed configuration management systems",
+      "score": 0.9953070282936096,
+      "box": [
+        128,
+        339,
+        565,
+        368
+      ]
+    },
+    {
+      "text": "Software Developers, Netline Solutions, 2016.072018.05",
+      "score": 0.9935874342918396,
+      "box": [
+        115,
+        380,
+        654,
+        408
+      ]
+    },
+    {
+      "text": "- Updated application dependencies",
+      "score": 0.9858143925666809,
+      "box": [
+        125,
+        406,
+        463,
+        435
+      ]
+    },
+    {
+      "text": "- Updated configuration files",
+      "score": 0.9934295415878296,
+      "box": [
+        130,
+        434,
+        390,
+        457
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999264478683472,
+      "box": [
+        117,
+        494,
+        267,
+        521
+      ]
+    },
+    {
+      "text": "Some college (no degree), Greenway University, 2016",
+      "score": 0.9820848107337952,
+      "box": [
+        116,
+        539,
+        621,
+        567
+      ]
+    },
+    {
+      "text": "•Studied fundamentals of programming paradigms",
+      "score": 0.9922904372215271,
+      "box": [
+        128,
+        565,
+        606,
+        594
+      ]
+    },
+    {
+      "text": "•Studied fundamentals of data analysis",
+      "score": 0.9775493144989014,
+      "box": [
+        131,
+        589,
+        500,
+        618
+      ]
+    }
+  ],
+  "seconds": 2.1326294001191854,
+  "id": "27649",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

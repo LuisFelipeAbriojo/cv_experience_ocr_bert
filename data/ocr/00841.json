@@ -1,0 +1,202 @@
+{
+  "lines": [
+    {
+      "text": "KENDRA WILSON",
+      "score": 0.9996005296707153,
+      "box": [
+        117,
+        91,
+        404,
+        121
+      ]
+    },
+    {
+      "text": "AL, USA | +1-530-859-8758 | kendra.wilson@example.com",
+      "score": 0.9891881346702576,
+      "box": [
+        118,
+        152,
+        664,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9991410374641418,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Precise Balance Advisors, 2019.10—2023.01",
+      "score": 0.9924405813217163,
+      "box": [
+        117,
+        290,
+        735,
+        314
+      ]
+    },
+    {
+      "text": "- Established reporting automation systems",
+      "score": 0.9890161156654358,
+      "box": [
+        127,
+        316,
+        529,
+        341
+      ]
+    },
+    {
+      "text": "- Designed financial documentation standards",
+      "score": 0.989004373550415,
+      "box": [
+        129,
+        342,
+        552,
+        366
+      ]
+    },
+    {
+      "text": "Accountants Auditors, CoreCount Advisors, 2016.072019.10",
+      "score": 0.9866356253623962,
+      "box": [
+        118,
+        383,
+        687,
+        407
+      ]
+    },
+    {
+      "text": "- Led accounting transformation projects",
+      "score": 0.9966028332710266,
+      "box": [
+        128,
+        409,
+        500,
+        433
+      ]
+    },
+    {
+      "text": "- Directed accounting training programs",
+      "score": 0.9944552779197693,
+      "box": [
+        127,
+        432,
+        494,
+        459
+      ]
+    },
+    {
+      "text": "Accountants Auditors, SolidBalance Advisors Group, 2013.042016.07",
+      "score": 0.9861680269241333,
+      "box": [
+        117,
+        472,
+        772,
+        499
+      ]
+    },
+    {
+      "text": "- Reviewed financial disclosures",
+      "score": 0.9994598627090454,
+      "box": [
+        126,
+        498,
+        428,
+        523
+      ]
+    },
+    {
+      "text": "- Performed revenue recognition analysis",
+      "score": 0.9748796224594116,
+      "box": [
+        127,
+        520,
+        510,
+        550
+      ]
+    },
+    {
+      "text": "Accountants Auditors, OpenBooks Advisors, 2007.112011.02",
+      "score": 0.9832342863082886,
+      "box": [
+        118,
+        566,
+        696,
+        590
+      ]
+    },
+    {
+      "text": "- Prepared audit confirmations",
+      "score": 0.9862478971481323,
+      "box": [
+        127,
+        592,
+        411,
+        616
+      ]
+    },
+    {
+      "text": "- Assisted with monthly close procedures",
+      "score": 0.9823681116104126,
+      "box": [
+        128,
+        615,
+        507,
+        642
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999436140060425,
+      "box": [
+        117,
+        681,
+        266,
+        705
+      ]
+    },
+    {
+      "text": "Bachelor's, Business Studies, Windridge University, 2004",
+      "score": 0.9824358820915222,
+      "box": [
+        117,
+        726,
+        646,
+        749
+      ]
+    },
+    {
+      "text": "Studied fundamentals of substantive testing",
+      "score": 0.9859375953674316,
+      "box": [
+        129,
+        747,
+        553,
+        776
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of internal controls",
+      "score": 0.985088586807251,
+      "box": [
+        132,
+        773,
+        526,
+        798
+      ]
+    }
+  ],
+  "seconds": 3.123313999734819,
+  "id": "00841",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

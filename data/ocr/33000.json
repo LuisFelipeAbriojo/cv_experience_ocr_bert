@@ -1,0 +1,212 @@
+{
+  "lines": [
+    {
+      "text": "MARSHALL WILEY",
+      "score": 0.9993471503257751,
+      "box": [
+        117,
+        92,
+        420,
+        122
+      ]
+    },
+    {
+      "text": "NJ, USA | +1-965-906-3944 | marshall.wiley@example.com",
+      "score": 0.993354082107544,
+      "box": [
+        116,
+        149,
+        667,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9991443157196045,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, ClearBalance Advisors, 2018.03—2023.01",
+      "score": 0.9912594556808472,
+      "box": [
+        115,
+        288,
+        710,
+        316
+      ]
+    },
+    {
+      "text": "- Directed revenue recognition policies",
+      "score": 0.9857937693595886,
+      "box": [
+        128,
+        316,
+        484,
+        342
+      ]
+    },
+    {
+      "text": "- Led accounting process optimization",
+      "score": 0.9942591786384583,
+      "box": [
+        127,
+        340,
+        480,
+        368
+      ]
+    },
+    {
+      "text": "Accountants Auditors, SolidCount Advisors, 2013.052018.03",
+      "score": 0.9986295104026794,
+      "box": [
+        118,
+        383,
+        688,
+        407
+      ]
+    },
+    {
+      "text": "- Designed financial control environments",
+      "score": 0.9963580965995789,
+      "box": [
+        126,
+        408,
+        512,
+        433
+      ]
+    },
+    {
+      "text": "- Established financial quality controls",
+      "score": 0.9936510920524597,
+      "box": [
+        126,
+        431,
+        476,
+        457
+      ]
+    },
+    {
+      "text": "Accountants Auditors, FairBalance Advisors, 2008.072013.05",
+      "score": 0.9896944761276245,
+      "box": [
+        118,
+        473,
+        697,
+        497
+      ]
+    },
+    {
+      "text": "- Prepared financial projections",
+      "score": 0.9886000156402588,
+      "box": [
+        125,
+        497,
+        420,
+        525
+      ]
+    },
+    {
+      "text": "- Conducted variance investigations",
+      "score": 0.9906059503555298,
+      "box": [
+        126,
+        521,
+        460,
+        550
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Reliable Ledger Advisors, 2003.08—2008.07",
+      "score": 0.9911915063858032,
+      "box": [
+        117,
+        565,
+        731,
+        589
+      ]
+    },
+    {
+      "text": "- Maintained chart of accounts",
+      "score": 0.9843451976776123,
+      "box": [
+        126,
+        590,
+        411,
+        615
+      ]
+    },
+    {
+      "text": "- Reviewed expense classifications",
+      "score": 0.9875214695930481,
+      "box": [
+        126,
+        613,
+        454,
+        644
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999934196472168,
+      "box": [
+        117,
+        681,
+        266,
+        705
+      ]
+    },
+    {
+      "text": "Professional degree, Business Administration, Riverway University, 2011",
+      "score": 0.9971010684967041,
+      "box": [
+        115,
+        723,
+        789,
+        750
+      ]
+    },
+    {
+      "text": "Bachelor's, Administrative Studies, Pinecrest University, 2007",
+      "score": 0.9915174245834351,
+      "box": [
+        117,
+        750,
+        685,
+        774
+      ]
+    },
+    {
+      "text": "•Completed coursework in internal reporting systems",
+      "score": 0.9917840361595154,
+      "box": [
+        130,
+        774,
+        628,
+        800
+      ]
+    },
+    {
+      "text": "• Completed coursework in business taxation",
+      "score": 0.980102002620697,
+      "box": [
+        132,
+        799,
+        551,
+        825
+      ]
+    }
+  ],
+  "seconds": 3.0301652997732162,
+  "id": "33000",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

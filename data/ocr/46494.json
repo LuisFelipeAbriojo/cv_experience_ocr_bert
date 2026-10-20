@@ -1,0 +1,142 @@
+{
+  "lines": [
+    {
+      "text": "CHRISTINA CARPENTER",
+      "score": 0.9841792583465576,
+      "box": [
+        118,
+        91,
+        517,
+        122
+      ]
+    },
+    {
+      "text": "PA, USA | +1-505-331-3196 | christina.carpenter@example.com",
+      "score": 0.982750415802002,
+      "box": [
+        115,
+        149,
+        711,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9991067051887512,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, TrueWell Nursing, 2021.012023.01",
+      "score": 0.9998368620872498,
+      "box": [
+        116,
+        288,
+        636,
+        316
+      ]
+    },
+    {
+      "text": "- Managed clinical risk assessments",
+      "score": 0.9807193279266357,
+      "box": [
+        125,
+        313,
+        463,
+        342
+      ]
+    },
+    {
+      "text": "- Developed care quality benchmarks",
+      "score": 0.9843868613243103,
+      "box": [
+        127,
+        339,
+        473,
+        367
+      ]
+    },
+    {
+      "text": "Registered Nurses, GentleWay Health, 2019.012021.01",
+      "score": 0.9921755194664001,
+      "box": [
+        118,
+        383,
+        644,
+        407
+      ]
+    },
+    {
+      "text": "- Monitored patient intake and output",
+      "score": 0.9836739301681519,
+      "box": [
+        125,
+        407,
+        469,
+        433
+      ]
+    },
+    {
+      "text": "- Provided post-procedure care",
+      "score": 0.9969931244850159,
+      "box": [
+        127,
+        430,
+        419,
+        459
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999258518218994,
+      "box": [
+        116,
+        494,
+        268,
+        521
+      ]
+    },
+    {
+      "text": "Bachelor's, Health and Wellness, Clearway University, 2020",
+      "score": 0.9786657691001892,
+      "box": [
+        115,
+        539,
+        671,
+        568
+      ]
+    },
+    {
+      "text": "•Studied fundamentals of vital signs monitoring",
+      "score": 0.9911162257194519,
+      "box": [
+        128,
+        564,
+        575,
+        594
+      ]
+    },
+    {
+      "text": "•Studied fundamentals of diet therapy basics",
+      "score": 0.9665064215660095,
+      "box": [
+        131,
+        590,
+        552,
+        616
+      ]
+    }
+  ],
+  "seconds": 3.4966321997344494,
+  "id": "46494",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

@@ -1,0 +1,172 @@
+{
+  "lines": [
+    {
+      "text": "JOHN ZIMMERMAN",
+      "score": 0.9869064688682556,
+      "box": [
+        116,
+        92,
+        429,
+        122
+      ]
+    },
+    {
+      "text": "CA, USA | +1-343-927-2127 | john.zimmerman@example.com",
+      "score": 0.9957591891288757,
+      "box": [
+        116,
+        150,
+        696,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9987226128578186,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Precise Ledger Financial, 2020.10—2023.01",
+      "score": 0.9930708408355713,
+      "box": [
+        115,
+        288,
+        729,
+        316
+      ]
+    },
+    {
+      "text": "- Directed accounting operations planning",
+      "score": 0.9850422739982605,
+      "box": [
+        125,
+        314,
+        514,
+        343
+      ]
+    },
+    {
+      "text": "- Led audit programs",
+      "score": 0.9918204545974731,
+      "box": [
+        128,
+        341,
+        322,
+        368
+      ]
+    },
+    {
+      "text": "Accountants Auditors, SteadyLedger Financial, 2018.062020.10",
+      "score": 0.9875909090042114,
+      "box": [
+        117,
+        383,
+        719,
+        407
+      ]
+    },
+    {
+      "text": "- Reviewed tax provisions",
+      "score": 0.9862154126167297,
+      "box": [
+        124,
+        407,
+        367,
+        434
+      ]
+    },
+    {
+      "text": "- Reviewed journal entries",
+      "score": 0.9995014667510986,
+      "box": [
+        125,
+        430,
+        371,
+        460
+      ]
+    },
+    {
+      "text": "Accountants Auditors, FairBalance Financial, 2014.072016.11",
+      "score": 0.9923654198646545,
+      "box": [
+        117,
+        473,
+        699,
+        497
+      ]
+    },
+    {
+      "text": "- Performed data validation checks",
+      "score": 0.99952632188797,
+      "box": [
+        126,
+        497,
+        451,
+        523
+      ]
+    },
+    {
+      "text": "- Assisted with forecasting data",
+      "score": 0.9886943101882935,
+      "box": [
+        128,
+        522,
+        418,
+        548
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999462962150574,
+      "box": [
+        118,
+        588,
+        266,
+        612
+      ]
+    },
+    {
+      "text": "Bachelor's, Data Analytics, Clearfield Ridge University, 2005",
+      "score": 0.9922544360160828,
+      "box": [
+        118,
+        633,
+        673,
+        657
+      ]
+    },
+    {
+      "text": "Completed coursework in accounting ethics",
+      "score": 0.9878010749816895,
+      "box": [
+        130,
+        656,
+        552,
+        685
+      ]
+    },
+    {
+      "text": "• Completed coursework in tax accounting",
+      "score": 0.9745140075683594,
+      "box": [
+        132,
+        680,
+        524,
+        710
+      ]
+    }
+  ],
+  "seconds": 2.525320299901068,
+  "id": "07566",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

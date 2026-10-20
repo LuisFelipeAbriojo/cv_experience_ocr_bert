@@ -1,0 +1,202 @@
+{
+  "lines": [
+    {
+      "text": "ALDO MOSS",
+      "score": 0.999713659286499,
+      "box": [
+        116,
+        89,
+        321,
+        123
+      ]
+    },
+    {
+      "text": "CA, USA | +1-870-626-2741 | aldo.moss@example.com",
+      "score": 0.9867091178894043,
+      "box": [
+        116,
+        150,
+        636,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9991436004638672,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, OpenBooks Financial, 2019.122023.01",
+      "score": 0.9986799359321594,
+      "box": [
+        117,
+        291,
+        696,
+        315
+      ]
+    },
+    {
+      "text": "- Developed financial analytics frameworks",
+      "score": 0.9820652008056641,
+      "box": [
+        128,
+        315,
+        524,
+        340
+      ]
+    },
+    {
+      "text": "- Developed long-term financial strategies",
+      "score": 0.9977982640266418,
+      "box": [
+        128,
+        340,
+        515,
+        368
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Balanced Books Group, 2016.102019.12",
+      "score": 0.9857980608940125,
+      "box": [
+        116,
+        382,
+        717,
+        409
+      ]
+    },
+    {
+      "text": "- Led financial forecasting initiatives",
+      "score": 0.997662365436554,
+      "box": [
+        129,
+        409,
+        458,
+        433
+      ]
+    },
+    {
+      "text": "- Designed financial modeling standards",
+      "score": 0.9794663786888123,
+      "box": [
+        128,
+        433,
+        501,
+        459
+      ]
+    },
+    {
+      "text": "Accountants Auditors, ClearBalance Group, 2013.082016.10",
+      "score": 0.9843249320983887,
+      "box": [
+        116,
+        471,
+        690,
+        499
+      ]
+    },
+    {
+      "text": "- Prepared working capital analysis",
+      "score": 0.9890335202217102,
+      "box": [
+        125,
+        497,
+        454,
+        525
+      ]
+    },
+    {
+      "text": "- Reviewed journal entries",
+      "score": 0.9885281920433044,
+      "box": [
+        127,
+        521,
+        372,
+        551
+      ]
+    },
+    {
+      "text": "Accountants Auditors, OpenBook Accounting, 2009.022012.04",
+      "score": 0.998935341835022,
+      "box": [
+        115,
+        562,
+        709,
+        594
+      ]
+    },
+    {
+      "text": "- Entered financial data into accounting systems",
+      "score": 0.9912659525871277,
+      "box": [
+        125,
+        589,
+        574,
+        617
+      ]
+    },
+    {
+      "text": "- Processed expense reimbursements",
+      "score": 0.9985476136207581,
+      "box": [
+        125,
+        613,
+        482,
+        643
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999147057533264,
+      "box": [
+        117,
+        681,
+        266,
+        705
+      ]
+    },
+    {
+      "text": "Bachelor's, Financial Accounting, Timberline University, 2003",
+      "score": 0.9878643751144409,
+      "box": [
+        116,
+        724,
+        682,
+        749
+      ]
+    },
+    {
+      "text": "•Studied fundamentals of quantitative analysis",
+      "score": 0.9818994402885437,
+      "box": [
+        131,
+        750,
+        568,
+        774
+      ]
+    },
+    {
+      "text": "Studied principles of professional responsibility",
+      "score": 0.993446946144104,
+      "box": [
+        131,
+        772,
+        581,
+        801
+      ]
+    }
+  ],
+  "seconds": 2.9651160002686083,
+  "id": "06158",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

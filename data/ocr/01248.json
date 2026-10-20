@@ -1,0 +1,182 @@
+{
+  "lines": [
+    {
+      "text": "ZACHARY SHEPPARD",
+      "score": 0.9996556043624878,
+      "box": [
+        117,
+        91,
+        475,
+        121
+      ]
+    },
+    {
+      "text": "AZ, USA | +1-776-999-5654 | zachary.sheppard@example.com",
+      "score": 0.9954916834831238,
+      "box": [
+        116,
+        150,
+        704,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9990734457969666,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Balanced Ledger Co., 2020.01—2023.01",
+      "score": 0.9931573271751404,
+      "box": [
+        115,
+        288,
+        695,
+        316
+      ]
+    },
+    {
+      "text": "- Directed enterprise accounting platforms",
+      "score": 0.9676140546798706,
+      "box": [
+        127,
+        314,
+        518,
+        343
+      ]
+    },
+    {
+      "text": "- Designed accounting frameworks",
+      "score": 0.9956042766571045,
+      "box": [
+        128,
+        341,
+        450,
+        367
+      ]
+    },
+    {
+      "text": "Accountants Auditors, TrustCount Group, 2016.12—2020.01",
+      "score": 0.9752382040023804,
+      "box": [
+        118,
+        383,
+        664,
+        407
+      ]
+    },
+    {
+      "text": "- Conducted risk assessments",
+      "score": 0.9995452165603638,
+      "box": [
+        125,
+        407,
+        410,
+        432
+      ]
+    },
+    {
+      "text": "- Managed accounting system updates",
+      "score": 0.9877930879592896,
+      "box": [
+        127,
+        434,
+        486,
+        457
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Integrity Count Co., 2013.112016.12",
+      "score": 0.9836140871047974,
+      "box": [
+        117,
+        472,
+        676,
+        499
+      ]
+    },
+    {
+      "text": "- Tracked budget expenditures",
+      "score": 0.9832460880279541,
+      "box": [
+        126,
+        498,
+        413,
+        524
+      ]
+    },
+    {
+      "text": "- Reviewed billing statements",
+      "score": 0.9958513975143433,
+      "box": [
+        127,
+        521,
+        402,
+        549
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9998707175254822,
+      "box": [
+        117,
+        587,
+        267,
+        614
+      ]
+    },
+    {
+      "text": "Master's, Corporate Finance, Brookside University, 2015",
+      "score": 0.999658465385437,
+      "box": [
+        117,
+        633,
+        640,
+        657
+      ]
+    },
+    {
+      "text": "Bachelor's, Supply Chain Management, Shoreline University, 2013",
+      "score": 0.97600257396698,
+      "box": [
+        115,
+        656,
+        734,
+        684
+      ]
+    },
+    {
+      "text": "• Studied principles of financial regulations",
+      "score": 0.9855451583862305,
+      "box": [
+        131,
+        683,
+        526,
+        707
+      ]
+    },
+    {
+      "text": "Completed coursework in corporate governance",
+      "score": 0.9983577728271484,
+      "box": [
+        131,
+        706,
+        593,
+        736
+      ]
+    }
+  ],
+  "seconds": 2.507242300081998,
+  "id": "01248",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

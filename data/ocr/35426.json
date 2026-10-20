@@ -1,0 +1,172 @@
+{
+  "lines": [
+    {
+      "text": "SHAUNA ADAMS",
+      "score": 0.9998111128807068,
+      "box": [
+        117,
+        91,
+        392,
+        122
+      ]
+    },
+    {
+      "text": "NY, USA | +1-246-239-1048 |shauna.adams@example.com",
+      "score": 0.9864241480827332,
+      "box": [
+        117,
+        152,
+        677,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9991585612297058,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Accurate Balance Services, 2020.10—2023.01",
+      "score": 0.9923596382141113,
+      "box": [
+        116,
+        289,
+        749,
+        316
+      ]
+    },
+    {
+      "text": "- Established accounting policies",
+      "score": 0.9993306994438171,
+      "box": [
+        126,
+        315,
+        432,
+        341
+      ]
+    },
+    {
+      "text": "- Directed accounting system implementations",
+      "score": 0.9887160658836365,
+      "box": [
+        127,
+        339,
+        557,
+        368
+      ]
+    },
+    {
+      "text": "Accountants Auditors, OpenBalance Services, 2018.072020.10",
+      "score": 0.9994361400604248,
+      "box": [
+        118,
+        383,
+        712,
+        407
+      ]
+    },
+    {
+      "text": "- Conducted internal audits",
+      "score": 0.9990978837013245,
+      "box": [
+        125,
+        407,
+        380,
+        432
+      ]
+    },
+    {
+      "text": "- Managed accounting system updates",
+      "score": 0.9924361109733582,
+      "box": [
+        126,
+        431,
+        488,
+        459
+      ]
+    },
+    {
+      "text": "Accountants Auditors, PrimeBalance Accounting, 2016.042018.07",
+      "score": 0.9841542840003967,
+      "box": [
+        117,
+        472,
+        740,
+        499
+      ]
+    },
+    {
+      "text": "- Reviewed expense classifications",
+      "score": 0.9900949001312256,
+      "box": [
+        126,
+        498,
+        452,
+        524
+      ]
+    },
+    {
+      "text": "- Processed journal corrections",
+      "score": 0.9886870980262756,
+      "box": [
+        127,
+        520,
+        418,
+        551
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999123811721802,
+      "box": [
+        117,
+        587,
+        267,
+        614
+      ]
+    },
+    {
+      "text": "Bachelor's, Government Accounting, Skyline University, 2020",
+      "score": 0.999522864818573,
+      "box": [
+        118,
+        633,
+        683,
+        657
+      ]
+    },
+    {
+      "text": "•Completed coursework in segment reporting",
+      "score": 0.975935161113739,
+      "box": [
+        129,
+        656,
+        559,
+        686
+      ]
+    },
+    {
+      "text": "• Studied principles of microeconomics",
+      "score": 0.983962893486023,
+      "box": [
+        132,
+        682,
+        493,
+        707
+      ]
+    }
+  ],
+  "seconds": 2.5629356000572443,
+  "id": "35426",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

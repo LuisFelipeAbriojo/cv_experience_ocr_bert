@@ -1,0 +1,192 @@
+{
+  "lines": [
+    {
+      "text": "HERIBERTO FITZGERALD",
+      "score": 0.9997237324714661,
+      "box": [
+        117,
+        92,
+        534,
+        122
+      ]
+    },
+    {
+      "text": "GA, USA | +1-636-874-2105 | heriberto.fitzgerald@example.com",
+      "score": 0.9920547008514404,
+      "box": [
+        116,
+        150,
+        714,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9990715980529785,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, BuildStone Group, 2018.10—2023.01",
+      "score": 0.9836016893386841,
+      "box": [
+        116,
+        288,
+        672,
+        317
+      ]
+    },
+    {
+      "text": "- Coordinated large-scale material logistics",
+      "score": 0.9996206164360046,
+      "box": [
+        126,
+        316,
+        524,
+        341
+      ]
+    },
+    {
+      "text": "- Established construction benchmarks",
+      "score": 0.9804750680923462,
+      "box": [
+        127,
+        340,
+        487,
+        365
+      ]
+    },
+    {
+      "text": "Construction Laborers, Highmark Builders, 2014.062018.10",
+      "score": 0.9933654069900513,
+      "box": [
+        118,
+        383,
+        679,
+        407
+      ]
+    },
+    {
+      "text": "- Directed construction audits",
+      "score": 0.9911325573921204,
+      "box": [
+        126,
+        409,
+        400,
+        432
+      ]
+    },
+    {
+      "text": "- Led cross-functional coordination",
+      "score": 0.9984874129295349,
+      "box": [
+        128,
+        434,
+        448,
+        456
+      ]
+    },
+    {
+      "text": "Construction Laborers, Crafted Structures, 2010.02—2014.06",
+      "score": 0.9890834093093872,
+      "box": [
+        117,
+        472,
+        677,
+        497
+      ]
+    },
+    {
+      "text": "- Conducted site safety inspections",
+      "score": 0.9774392247200012,
+      "box": [
+        126,
+        498,
+        453,
+        523
+      ]
+    },
+    {
+      "text": "- Operated heavy equipment",
+      "score": 0.9851095676422119,
+      "box": [
+        128,
+        522,
+        396,
+        551
+      ]
+    },
+    {
+      "text": "Construction Laborers, Unified Stone Builders, 2005.102010.02",
+      "score": 0.9956161379814148,
+      "box": [
+        118,
+        566,
+        716,
+        590
+      ]
+    },
+    {
+      "text": "- Installed temporary supports",
+      "score": 0.9833652377128601,
+      "box": [
+        127,
+        590,
+        407,
+        618
+      ]
+    },
+    {
+      "text": "- Handled delivery documentation",
+      "score": 0.9990396499633789,
+      "box": [
+        127,
+        614,
+        442,
+        642
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999258518218994,
+      "box": [
+        117,
+        681,
+        266,
+        705
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Construction Design, Forest Hill High School, 2003",
+      "score": 0.999448299407959,
+      "box": [
+        117,
+        724,
+        847,
+        750
+      ]
+    },
+    {
+      "text": "• Completed coursework in concrete basics",
+      "score": 0.9912542104721069,
+      "box": [
+        133,
+        750,
+        535,
+        774
+      ]
+    }
+  ],
+  "seconds": 2.8688643001951277,
+  "id": "16221",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

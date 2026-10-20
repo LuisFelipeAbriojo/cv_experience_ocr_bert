@@ -1,0 +1,102 @@
+{
+  "lines": [
+    {
+      "text": "DENZEL GIBSON",
+      "score": 0.997902512550354,
+      "box": [
+        118,
+        91,
+        393,
+        122
+      ]
+    },
+    {
+      "text": "TN, USA | +1-748-861-4501 | denzel.gibson@example.com",
+      "score": 0.9898037314414978,
+      "box": [
+        117,
+        149,
+        669,
+        177
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9997443556785583,
+      "box": [
+        117,
+        243,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Construction Laborers, SteadyWorks Construction, 2022.05—2023.01",
+      "score": 0.9865163564682007,
+      "box": [
+        115,
+        286,
+        755,
+        317
+      ]
+    },
+    {
+      "text": "- Stacked and organized construction supplies",
+      "score": 0.9795161485671997,
+      "box": [
+        124,
+        313,
+        557,
+        342
+      ]
+    },
+    {
+      "text": "- Mixed concrete and mortar",
+      "score": 0.9994955658912659,
+      "box": [
+        126,
+        339,
+        392,
+        365
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999532699584961,
+      "box": [
+        116,
+        404,
+        268,
+        431
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Construction Workflow, Cedarfield High School, 2023",
+      "score": 0.999710202217102,
+      "box": [
+        116,
+        447,
+        868,
+        474
+      ]
+    },
+    {
+      "text": "•Studied fundamentals of job site inspections",
+      "score": 0.9779528379440308,
+      "box": [
+        129,
+        473,
+        556,
+        499
+      ]
+    }
+  ],
+  "seconds": 2.198149200063199,
+  "id": "48698",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

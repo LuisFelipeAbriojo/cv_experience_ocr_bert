@@ -1,0 +1,142 @@
+{
+  "lines": [
+    {
+      "text": "TIFFANI AHMED",
+      "score": 0.9980688691139221,
+      "box": [
+        117,
+        91,
+        378,
+        121
+      ]
+    },
+    {
+      "text": "MD, USA | +1-512-383-2616 |tiffani.ahmed@example.com",
+      "score": 0.9833464026451111,
+      "box": [
+        116,
+        151,
+        663,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9991037249565125,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Learning Garden Academy, 2020.10—2023.0",
+      "score": 0.9898031949996948,
+      "box": [
+        115,
+        287,
+        877,
+        318
+      ]
+    },
+    {
+      "text": "- Implemented data analysis frameworks",
+      "score": 0.9860305786132812,
+      "box": [
+        126,
+        315,
+        503,
+        340
+      ]
+    },
+    {
+      "text": "- Developed instructional evaluation metrics",
+      "score": 0.9862478375434875,
+      "box": [
+        128,
+        340,
+        532,
+        365
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Little Start School, 2016.10—2019.01",
+      "score": 0.9874083995819092,
+      "box": [
+        116,
+        380,
+        800,
+        408
+      ]
+    },
+    {
+      "text": "- Recorded behavioral observations",
+      "score": 0.9980902671813965,
+      "box": [
+        125,
+        407,
+        458,
+        432
+      ]
+    },
+    {
+      "text": "- Collected student assignments",
+      "score": 0.9974218010902405,
+      "box": [
+        127,
+        431,
+        426,
+        456
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999279379844666,
+      "box": [
+        117,
+        494,
+        267,
+        521
+      ]
+    },
+    {
+      "text": "Bachelor's, Family and Child Studies, Springdale University, 2013",
+      "score": 0.9880416989326477,
+      "box": [
+        117,
+        542,
+        723,
+        566
+      ]
+    },
+    {
+      "text": "• Completed coursework in foundational assessment tools",
+      "score": 0.988064169883728,
+      "box": [
+        132,
+        568,
+        669,
+        591
+      ]
+    },
+    {
+      "text": "• Completed coursework in instructional review methods",
+      "score": 0.9978720545768738,
+      "box": [
+        133,
+        592,
+        652,
+        615
+      ]
+    }
+  ],
+  "seconds": 2.7438789000734687,
+  "id": "25027",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

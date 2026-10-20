@@ -1,0 +1,172 @@
+{
+  "lines": [
+    {
+      "text": "IMARA PHAN",
+      "score": 0.9997194409370422,
+      "box": [
+        118,
+        92,
+        330,
+        120
+      ]
+    },
+    {
+      "text": "AR, USA | +1-918-212-3755 | imara.phan@example.com",
+      "score": 0.9588284492492676,
+      "box": [
+        117,
+        152,
+        644,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9988656044006348,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Codewave Software, 2020.11—2023.01",
+      "score": 0.992607831954956,
+      "box": [
+        116,
+        289,
+        682,
+        316
+      ]
+    },
+    {
+      "text": "- Led system reliability programs",
+      "score": 0.9771498441696167,
+      "box": [
+        126,
+        314,
+        429,
+        343
+      ]
+    },
+    {
+      "text": "- Defined coding standards",
+      "score": 0.979987382888794,
+      "box": [
+        128,
+        341,
+        380,
+        368
+      ]
+    },
+    {
+      "text": "Software Developers, Codecrest Tech, 2018.092020.11",
+      "score": 0.9974189400672913,
+      "box": [
+        117,
+        383,
+        643,
+        407
+      ]
+    },
+    {
+      "text": "- Built feature management systems",
+      "score": 0.9959574341773987,
+      "box": [
+        125,
+        407,
+        463,
+        433
+      ]
+    },
+    {
+      "text": "- Built frontend components",
+      "score": 0.9831154346466064,
+      "box": [
+        126,
+        431,
+        386,
+        457
+      ]
+    },
+    {
+      "text": "Software Developers, Flowframe Labs, 2016.06—2018.09",
+      "score": 0.9908660054206848,
+      "box": [
+        118,
+        473,
+        644,
+        497
+      ]
+    },
+    {
+      "text": "- Performed basic performance profiling",
+      "score": 0.9965381026268005,
+      "box": [
+        125,
+        495,
+        496,
+        526
+      ]
+    },
+    {
+      "text": "- Handled file uploads",
+      "score": 0.972210168838501,
+      "box": [
+        127,
+        521,
+        332,
+        549
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999352693557739,
+      "box": [
+        118,
+        588,
+        266,
+        612
+      ]
+    },
+    {
+      "text": "Bachelor's, Pinehaven University, 2018",
+      "score": 0.9735321998596191,
+      "box": [
+        116,
+        631,
+        481,
+        657
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of hash tables",
+      "score": 0.9791385531425476,
+      "box": [
+        129,
+        658,
+        485,
+        681
+      ]
+    },
+    {
+      "text": "•Studied fundamentals of software testing",
+      "score": 0.9884621500968933,
+      "box": [
+        130,
+        680,
+        524,
+        708
+      ]
+    }
+  ],
+  "seconds": 2.2749819001182914,
+  "id": "02122",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

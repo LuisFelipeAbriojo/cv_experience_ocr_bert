@@ -1,0 +1,172 @@
+{
+  "lines": [
+    {
+      "text": "JOSEPH WONG",
+      "score": 0.9994916915893555,
+      "box": [
+        116,
+        91,
+        370,
+        122
+      ]
+    },
+    {
+      "text": "MA, USA | +1-530-329-1376 | joseph.wong@example.com",
+      "score": 0.9787446856498718,
+      "box": [
+        116,
+        151,
+        659,
+        177
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9861333966255188,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Brightstack Systems, 2020.102023.01",
+      "score": 0.9984216690063477,
+      "box": [
+        116,
+        290,
+        684,
+        317
+      ]
+    },
+    {
+      "text": "- Defined engineering best practices",
+      "score": 0.9722792506217957,
+      "box": [
+        129,
+        317,
+        463,
+        341
+      ]
+    },
+    {
+      "text": "- Built fault-tolerant systems",
+      "score": 0.9968547224998474,
+      "box": [
+        127,
+        339,
+        388,
+        369
+      ]
+    },
+    {
+      "text": "Software Developers, Brightpoint Software, 2018.072020.10",
+      "score": 0.998763382434845,
+      "box": [
+        116,
+        382,
+        685,
+        409
+      ]
+    },
+    {
+      "text": "- Built frontend components",
+      "score": 0.980779230594635,
+      "box": [
+        125,
+        407,
+        385,
+        434
+      ]
+    },
+    {
+      "text": "- Managed deployment pipelines",
+      "score": 0.9913790822029114,
+      "box": [
+        126,
+        431,
+        432,
+        459
+      ]
+    },
+    {
+      "text": "Software Developers, Openwave Labs, 2016.042018.07",
+      "score": 0.9939591884613037,
+      "box": [
+        117,
+        472,
+        648,
+        499
+      ]
+    },
+    {
+      "text": "- Performed code formatting",
+      "score": 0.9944044947624207,
+      "box": [
+        126,
+        494,
+        391,
+        526
+      ]
+    },
+    {
+      "text": "- Wrote configuration parsers",
+      "score": 0.9860852956771851,
+      "box": [
+        126,
+        520,
+        400,
+        551
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9998486042022705,
+      "box": [
+        117,
+        587,
+        267,
+        614
+      ]
+    },
+    {
+      "text": "Bachelor's, Southridge University, 2017",
+      "score": 0.9852935671806335,
+      "box": [
+        118,
+        633,
+        482,
+        657
+      ]
+    },
+    {
+      "text": "• Completed coursework in transaction management",
+      "score": 0.9951855540275574,
+      "box": [
+        131,
+        659,
+        620,
+        683
+      ]
+    },
+    {
+      "text": "•Studied fundamentals of indexing techniques",
+      "score": 0.9836828112602234,
+      "box": [
+        131,
+        680,
+        564,
+        709
+      ]
+    }
+  ],
+  "seconds": 2.2098166001960635,
+  "id": "26013",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

@@ -1,0 +1,172 @@
+{
+  "lines": [
+    {
+      "text": "ANNE YANG",
+      "score": 0.9989846348762512,
+      "box": [
+        117,
+        91,
+        318,
+        122
+      ]
+    },
+    {
+      "text": "IN, USA | +1-734-324-3080 | anne.yang@example.com",
+      "score": 0.9707629680633545,
+      "box": [
+        117,
+        151,
+        629,
+        177
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9991140365600586,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, AccuCount Group, 2020.01—2023.01",
+      "score": 0.9911043643951416,
+      "box": [
+        115,
+        288,
+        665,
+        316
+      ]
+    },
+    {
+      "text": "- Directed budget planning cycles",
+      "score": 0.9990448355674744,
+      "box": [
+        125,
+        314,
+        439,
+        343
+      ]
+    },
+    {
+      "text": "- Directed accounting training programs",
+      "score": 0.9912641644477844,
+      "box": [
+        127,
+        339,
+        494,
+        369
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Reliable Accounts Services, 2017.012020.01",
+      "score": 0.9952191710472107,
+      "box": [
+        117,
+        382,
+        752,
+        409
+      ]
+    },
+    {
+      "text": "- Supervised junior accountants",
+      "score": 0.9873220324516296,
+      "box": [
+        126,
+        408,
+        422,
+        433
+      ]
+    },
+    {
+      "text": "- Implemented accounting procedures",
+      "score": 0.9981561899185181,
+      "box": [
+        127,
+        431,
+        480,
+        459
+      ]
+    },
+    {
+      "text": "Accountants Auditors, AccuLedger Services, 2012.082015.09",
+      "score": 0.9986225366592407,
+      "box": [
+        116,
+        472,
+        698,
+        499
+      ]
+    },
+    {
+      "text": "- Prepared account reconciliations",
+      "score": 0.9888646602630615,
+      "box": [
+        127,
+        499,
+        445,
+        523
+      ]
+    },
+    {
+      "text": "- Reviewed ledger postings",
+      "score": 0.9835947751998901,
+      "box": [
+        127,
+        520,
+        382,
+        551
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9998769760131836,
+      "box": [
+        117,
+        587,
+        267,
+        614
+      ]
+    },
+    {
+      "text": "Bachelor's, Applied Accounting, Meadowcrest University, 2004",
+      "score": 0.9986888766288757,
+      "box": [
+        116,
+        631,
+        696,
+        659
+      ]
+    },
+    {
+      "text": "• Completed coursework in financial compliance basics",
+      "score": 0.9907371401786804,
+      "box": [
+        132,
+        659,
+        642,
+        683
+      ]
+    },
+    {
+      "text": "Completed coursework in cost allocation methods",
+      "score": 0.9987229108810425,
+      "box": [
+        132,
+        680,
+        608,
+        708
+      ]
+    }
+  ],
+  "seconds": 2.4465371002443135,
+  "id": "20194",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

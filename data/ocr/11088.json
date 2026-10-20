@@ -1,0 +1,202 @@
+{
+  "lines": [
+    {
+      "text": "JOHN ARELLANO",
+      "score": 0.9998546838760376,
+      "box": [
+        116,
+        91,
+        405,
+        122
+      ]
+    },
+    {
+      "text": "CT, USA | +1-963-632-1010 | john.arellano@example.com",
+      "score": 0.9846926331520081,
+      "box": [
+        116,
+        150,
+        659,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.999614417552948,
+      "box": [
+        116,
+        242,
+        316,
+        271
+      ]
+    },
+    {
+      "text": "Software Developers, Openpoint Tech, 2020.03—2023.01",
+      "score": 0.9901109337806702,
+      "box": [
+        116,
+        290,
+        644,
+        317
+      ]
+    },
+    {
+      "text": "- Implemented long-term maintenance plans",
+      "score": 0.9962335228919983,
+      "box": [
+        128,
+        316,
+        537,
+        342
+      ]
+    },
+    {
+      "text": "- Implemented data pipeline architectures",
+      "score": 0.988494873046875,
+      "box": [
+        128,
+        339,
+        513,
+        368
+      ]
+    },
+    {
+      "text": "Software Developers, Brightscale Labs, 2017.052020.03",
+      "score": 0.9828624129295349,
+      "box": [
+        116,
+        381,
+        652,
+        411
+      ]
+    },
+    {
+      "text": "- Built fault-tolerant systems",
+      "score": 0.9983835816383362,
+      "box": [
+        127,
+        409,
+        388,
+        433
+      ]
+    },
+    {
+      "text": "- Led database design efforts",
+      "score": 0.9968215227127075,
+      "box": [
+        128,
+        434,
+        400,
+        457
+      ]
+    },
+    {
+      "text": "Software Developers, Stonepath Software, 2014.072017.05",
+      "score": 0.9779718518257141,
+      "box": [
+        116,
+        471,
+        681,
+        499
+      ]
+    },
+    {
+      "text": "- Improved application performance",
+      "score": 0.990773618221283,
+      "box": [
+        129,
+        500,
+        457,
+        524
+      ]
+    },
+    {
+      "text": "- Designed documentation templates",
+      "score": 0.9909404516220093,
+      "box": [
+        129,
+        523,
+        468,
+        549
+      ]
+    },
+    {
+      "text": "Software Developers, Brightway Systems, 2011.082014.07",
+      "score": 0.9930649399757385,
+      "box": [
+        117,
+        565,
+        674,
+        592
+      ]
+    },
+    {
+      "text": "- Fixed software bugs identified through testing",
+      "score": 0.9875733852386475,
+      "box": [
+        128,
+        590,
+        562,
+        618
+      ]
+    },
+    {
+      "text": "- Implemented basic authentication logic",
+      "score": 0.9986333847045898,
+      "box": [
+        128,
+        614,
+        502,
+        643
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999152421951294,
+      "box": [
+        117,
+        681,
+        266,
+        705
+      ]
+    },
+    {
+      "text": "Bachelor's, Silverwood University, 2010",
+      "score": 0.9689457416534424,
+      "box": [
+        115,
+        723,
+        485,
+        750
+      ]
+    },
+    {
+      "text": "•Completed coursework in accessibility standards",
+      "score": 0.9881086349487305,
+      "box": [
+        132,
+        748,
+        599,
+        776
+      ]
+    },
+    {
+      "text": "Completed coursework in web development basics",
+      "score": 0.9754535555839539,
+      "box": [
+        131,
+        771,
+        620,
+        802
+      ]
+    }
+  ],
+  "seconds": 2.7222585999406874,
+  "id": "11088",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

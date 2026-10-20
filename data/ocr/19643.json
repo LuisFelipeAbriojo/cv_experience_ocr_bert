@@ -1,0 +1,102 @@
+{
+  "lines": [
+    {
+      "text": "JOSHUA ANDRADE",
+      "score": 0.9823240041732788,
+      "box": [
+        116,
+        91,
+        433,
+        122
+      ]
+    },
+    {
+      "text": "IN, USA | +1-929-680-2742 | joshua.andrade@example.com",
+      "score": 0.9846287965774536,
+      "box": [
+        116,
+        149,
+        677,
+        177
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9997195601463318,
+      "box": [
+        117,
+        243,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Construction Laborers, BuildWell Contractors, 2021.01—2023.01",
+      "score": 0.983979344367981,
+      "box": [
+        116,
+        287,
+        708,
+        315
+      ]
+    },
+    {
+      "text": "- Dug trenches for utility lines",
+      "score": 0.9875521659851074,
+      "box": [
+        126,
+        316,
+        399,
+        340
+      ]
+    },
+    {
+      "text": "- Assisted with basic electrical conduit placement",
+      "score": 0.995907187461853,
+      "box": [
+        126,
+        339,
+        583,
+        365
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999502897262573,
+      "box": [
+        116,
+        404,
+        268,
+        431
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Building Systems, Edgewood High School, 2022",
+      "score": 0.9985055923461914,
+      "box": [
+        116,
+        447,
+        823,
+        474
+      ]
+    },
+    {
+      "text": "Studied principles of dust control",
+      "score": 0.9933338165283203,
+      "box": [
+        129,
+        472,
+        450,
+        500
+      ]
+    }
+  ],
+  "seconds": 1.9821140998974442,
+  "id": "19643",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

@@ -1,0 +1,182 @@
+{
+  "lines": [
+    {
+      "text": "CAITLYN HEBERT",
+      "score": 0.9651045799255371,
+      "box": [
+        117,
+        90,
+        409,
+        122
+      ]
+    },
+    {
+      "text": "AL, USA | +1-383-304-9362 | caitlyn.hebert@example.com",
+      "score": 0.996675968170166,
+      "box": [
+        116,
+        150,
+        661,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9991269111633301,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, KindWay Care Center, 2020.08—2023.01",
+      "score": 0.9813922643661499,
+      "box": [
+        115,
+        287,
+        679,
+        319
+      ]
+    },
+    {
+      "text": "- Directed interdisciplinary workflow alignment",
+      "score": 0.9896542429924011,
+      "box": [
+        125,
+        314,
+        554,
+        342
+      ]
+    },
+    {
+      "text": "- Directed emergency response planning",
+      "score": 0.9832257628440857,
+      "box": [
+        127,
+        340,
+        505,
+        369
+      ]
+    },
+    {
+      "text": "Registered Nurses, Helping Bridge Care, 2018.02—2020.08",
+      "score": 0.9828669428825378,
+      "box": [
+        116,
+        381,
+        664,
+        409
+      ]
+    },
+    {
+      "text": "- Educated patients on treatment plans",
+      "score": 0.9708765149116516,
+      "box": [
+        124,
+        406,
+        489,
+        435
+      ]
+    },
+    {
+      "text": "- Managed pain control plans",
+      "score": 0.9973804354667664,
+      "box": [
+        125,
+        431,
+        399,
+        460
+      ]
+    },
+    {
+      "text": "Registered Nurses, EverBridge Health Services, 2015.08—2018.02",
+      "score": 0.9926615953445435,
+      "box": [
+        116,
+        471,
+        732,
+        499
+      ]
+    },
+    {
+      "text": "- Prepared patients for examinations",
+      "score": 0.9856019616127014,
+      "box": [
+        125,
+        496,
+        467,
+        526
+      ]
+    },
+    {
+      "text": "- Recorded shift handoff notes",
+      "score": 0.9804435968399048,
+      "box": [
+        128,
+        521,
+        410,
+        548
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999139308929443,
+      "box": [
+        117,
+        587,
+        267,
+        614
+      ]
+    },
+    {
+      "text": "Master's, Human Biology, Willowview University, 2017",
+      "score": 0.9848944544792175,
+      "box": [
+        116,
+        632,
+        619,
+        659
+      ]
+    },
+    {
+      "text": "Bachelor's, Biomedical Sciences, Sunnyside University, 2015",
+      "score": 0.9864450693130493,
+      "box": [
+        115,
+        656,
+        685,
+        684
+      ]
+    },
+    {
+      "text": "• Completed coursework in perioperative care",
+      "score": 0.9720888733863831,
+      "box": [
+        132,
+        683,
+        558,
+        709
+      ]
+    },
+    {
+      "text": "•Studied principles of infection prevention",
+      "score": 0.9898346066474915,
+      "box": [
+        132,
+        706,
+        523,
+        736
+      ]
+    }
+  ],
+  "seconds": 2.522299900185317,
+  "id": "00268",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

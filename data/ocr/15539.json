@@ -1,0 +1,202 @@
+{
+  "lines": [
+    {
+      "text": "VINESSA GILL",
+      "score": 0.9997754693031311,
+      "box": [
+        117,
+        91,
+        350,
+        122
+      ]
+    },
+    {
+      "text": "GA, USA | +1-494-206-8447 | vinessa.gill@example.com",
+      "score": 0.9978585839271545,
+      "box": [
+        116,
+        150,
+        644,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9991834759712219,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Safe Harbor Academy, 2020.07-2023.01",
+      "score": 0.9900774955749512,
+      "box": [
+        115,
+        287,
+        843,
+        318
+      ]
+    },
+    {
+      "text": "- Developed learning progression models",
+      "score": 0.9919235110282898,
+      "box": [
+        125,
+        314,
+        510,
+        343
+      ]
+    },
+    {
+      "text": "- Developed data-driven teaching models",
+      "score": 0.9939386248588562,
+      "box": [
+        127,
+        339,
+        510,
+        369
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Golden Meadow Academy, 2018.01—2020.07",
+      "score": 0.9877817034721375,
+      "box": [
+        115,
+        379,
+        884,
+        411
+      ]
+    },
+    {
+      "text": "- Established curriculum evaluation protocols",
+      "score": 0.9939766526222229,
+      "box": [
+        125,
+        408,
+        543,
+        433
+      ]
+    },
+    {
+      "text": "- Established academic quality controls",
+      "score": 0.9524363279342651,
+      "box": [
+        126,
+        432,
+        490,
+        457
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Friendly Grove School, 2015.072018.01",
+      "score": 0.9918017983436584,
+      "box": [
+        116,
+        471,
+        843,
+        499
+      ]
+    },
+    {
+      "text": "- Implemented instructional modifications",
+      "score": 0.9902065396308899,
+      "box": [
+        126,
+        498,
+        508,
+        524
+      ]
+    },
+    {
+      "text": "- Developed progress monitoring tools",
+      "score": 0.9814773797988892,
+      "box": [
+        127,
+        521,
+        482,
+        551
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Inspire Learning School, 2010.072013.02",
+      "score": 0.9813505411148071,
+      "box": [
+        117,
+        565,
+        858,
+        592
+      ]
+    },
+    {
+      "text": "- Administered learning games",
+      "score": 0.9983301758766174,
+      "box": [
+        126,
+        590,
+        414,
+        618
+      ]
+    },
+    {
+      "text": "- Organized classroom learning resources",
+      "score": 0.9978674054145813,
+      "box": [
+        127,
+        615,
+        517,
+        644
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999419450759888,
+      "box": [
+        117,
+        681,
+        266,
+        705
+      ]
+    },
+    {
+      "text": "Bachelor's, Education Studies, Prairie Ridge University, 2004",
+      "score": 0.9825357794761658,
+      "box": [
+        115,
+        723,
+        682,
+        750
+      ]
+    },
+    {
+      "text": "• Completed coursework in foundational teaching practices",
+      "score": 0.9915209412574768,
+      "box": [
+        132,
+        748,
+        678,
+        776
+      ]
+    },
+    {
+      "text": "• Completed coursework in foundational pedagogy practices",
+      "score": 0.979753851890564,
+      "box": [
+        132,
+        772,
+        690,
+        802
+      ]
+    }
+  ],
+  "seconds": 2.9935476002283394,
+  "id": "15539",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

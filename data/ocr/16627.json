@@ -1,0 +1,102 @@
+{
+  "lines": [
+    {
+      "text": "JOSHUA FELIX",
+      "score": 0.9946573376655579,
+      "box": [
+        116,
+        91,
+        362,
+        122
+      ]
+    },
+    {
+      "text": "GA, USA | +1-627-479-7979 | joshua.felix@example.com",
+      "score": 0.9749025106430054,
+      "box": [
+        118,
+        152,
+        646,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9997658729553223,
+      "box": [
+        117,
+        243,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Registered Nurses, Harmony Bridge Health, 2017.07-2020.06",
+      "score": 0.9846587777137756,
+      "box": [
+        114,
+        286,
+        694,
+        318
+      ]
+    },
+    {
+      "text": "- Monitored patient intake and output",
+      "score": 0.9720949530601501,
+      "box": [
+        125,
+        313,
+        471,
+        342
+      ]
+    },
+    {
+      "text": "- Checked laboratory results",
+      "score": 0.9924238324165344,
+      "box": [
+        127,
+        338,
+        391,
+        368
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999353885650635,
+      "box": [
+        116,
+        404,
+        268,
+        431
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Clinical Studies, Oakwood High School, 2015",
+      "score": 0.9915831089019775,
+      "box": [
+        117,
+        447,
+        797,
+        474
+      ]
+    },
+    {
+      "text": "• Studied principles of health informatics",
+      "score": 0.9755986332893372,
+      "box": [
+        131,
+        475,
+        505,
+        499
+      ]
+    }
+  ],
+  "seconds": 2.008386400062591,
+  "id": "16627",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

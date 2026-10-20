@@ -1,0 +1,172 @@
+{
+  "lines": [
+    {
+      "text": "ASHLEY SANDERS",
+      "score": 0.9676121473312378,
+      "box": [
+        117,
+        91,
+        426,
+        122
+      ]
+    },
+    {
+      "text": "AZ, USA | +1-286-659-2072 | ashley.sanders@example.com",
+      "score": 0.9925590753555298,
+      "box": [
+        116,
+        150,
+        679,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9991812109947205,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, Compassion Life Medical, 2020.06—2023.01",
+      "score": 0.9781866669654846,
+      "box": [
+        115,
+        287,
+        709,
+        318
+      ]
+    },
+    {
+      "text": "- Managed clinical compliance programs",
+      "score": 0.9938212037086487,
+      "box": [
+        126,
+        315,
+        502,
+        343
+      ]
+    },
+    {
+      "text": "- Managed patient safety reporting systems",
+      "score": 0.9901789426803589,
+      "box": [
+        127,
+        339,
+        529,
+        368
+      ]
+    },
+    {
+      "text": "Registered Nurses, KindWay Care Center, 2017.112020.06",
+      "score": 0.995875895023346,
+      "box": [
+        118,
+        383,
+        678,
+        407
+      ]
+    },
+    {
+      "text": "- Managed care for chronic conditions",
+      "score": 0.9809476733207703,
+      "box": [
+        124,
+        406,
+        479,
+        434
+      ]
+    },
+    {
+      "text": "- Managed patient nutritional support",
+      "score": 0.9944531321525574,
+      "box": [
+        126,
+        431,
+        471,
+        459
+      ]
+    },
+    {
+      "text": "Registered Nurses, ClearPath Health, 2015.032017.11",
+      "score": 0.9927676916122437,
+      "box": [
+        118,
+        474,
+        632,
+        497
+      ]
+    },
+    {
+      "text": "- Recorded patient weight and height",
+      "score": 0.9763697385787964,
+      "box": [
+        126,
+        497,
+        472,
+        525
+      ]
+    },
+    {
+      "text": "- Administered prescribed medications",
+      "score": 0.9947687387466431,
+      "box": [
+        127,
+        521,
+        485,
+        549
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999216794967651,
+      "box": [
+        117,
+        587,
+        267,
+        614
+      ]
+    },
+    {
+      "text": "Bachelor's, Patient Care, Elmwood University, 2014",
+      "score": 0.9752583503723145,
+      "box": [
+        117,
+        632,
+        594,
+        657
+      ]
+    },
+    {
+      "text": "• Completed coursework in patient confidentiality",
+      "score": 0.9813553690910339,
+      "box": [
+        131,
+        658,
+        585,
+        685
+      ]
+    },
+    {
+      "text": "• Completed coursework in fluid and electrolyte balance",
+      "score": 0.9757539629936218,
+      "box": [
+        133,
+        682,
+        647,
+        708
+      ]
+    }
+  ],
+  "seconds": 2.550426200032234,
+  "id": "01709",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

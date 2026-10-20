@@ -1,0 +1,172 @@
+{
+  "lines": [
+    {
+      "text": "JOSEPH GOOD",
+      "score": 0.9996483325958252,
+      "box": [
+        116,
+        90,
+        365,
+        121
+      ]
+    },
+    {
+      "text": "KY, USA | +1-327-213-6038 | joseph.good@example.com",
+      "score": 0.983972430229187,
+      "box": [
+        117,
+        152,
+        652,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9991876482963562,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, TrueBuild Group, 2020.10—2023.01",
+      "score": 0.9908150434494019,
+      "box": [
+        116,
+        288,
+        660,
+        316
+      ]
+    },
+    {
+      "text": "- Designed construction staging plans",
+      "score": 0.9738878607749939,
+      "box": [
+        125,
+        314,
+        478,
+        343
+      ]
+    },
+    {
+      "text": "- Led cross-functional coordination",
+      "score": 0.984118640422821,
+      "box": [
+        127,
+        339,
+        449,
+        365
+      ]
+    },
+    {
+      "text": "Construction Laborers, HardWay Builders, 2018.062020.10",
+      "score": 0.9897902011871338,
+      "box": [
+        118,
+        383,
+        676,
+        407
+      ]
+    },
+    {
+      "text": "- Prepared site reports",
+      "score": 0.9820713996887207,
+      "box": [
+        126,
+        410,
+        336,
+        431
+      ]
+    },
+    {
+      "text": "- Installed mechanical supports",
+      "score": 0.9741127490997314,
+      "box": [
+        127,
+        431,
+        417,
+        457
+      ]
+    },
+    {
+      "text": "Construction Laborers, MasterFrame Builders, 2014.122017.04",
+      "score": 0.9950904250144958,
+      "box": [
+        118,
+        473,
+        713,
+        496
+      ]
+    },
+    {
+      "text": "- Maintained cleanliness of work areas",
+      "score": 0.9878921508789062,
+      "box": [
+        126,
+        497,
+        485,
+        523
+      ]
+    },
+    {
+      "text": "- Assembled prefabricated components",
+      "score": 0.996781051158905,
+      "box": [
+        128,
+        522,
+        492,
+        547
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999523162841797,
+      "box": [
+        118,
+        588,
+        266,
+        612
+      ]
+    },
+    {
+      "text": "Some college (no degree), Building Construction, Redwood University, 2004",
+      "score": 0.9936656951904297,
+      "box": [
+        117,
+        632,
+        822,
+        659
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of construction inspection",
+      "score": 0.9929695725440979,
+      "box": [
+        128,
+        657,
+        593,
+        683
+      ]
+    },
+    {
+      "text": "•Studied fundamentals of construction quality assurance",
+      "score": 0.9794344902038574,
+      "box": [
+        130,
+        680,
+        660,
+        709
+      ]
+    }
+  ],
+  "seconds": 2.5530460998415947,
+  "id": "22129",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

@@ -1,0 +1,142 @@
+{
+  "lines": [
+    {
+      "text": "COLE PARK",
+      "score": 0.998516321182251,
+      "box": [
+        116,
+        89,
+        316,
+        123
+      ]
+    },
+    {
+      "text": "WA, USA | +1-489-294-6664 | cole.park@example.com",
+      "score": 0.9813763499259949,
+      "box": [
+        116,
+        149,
+        630,
+        177
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9995665550231934,
+      "box": [
+        116,
+        241,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Construction Laborers, ClearRise Builders, 2020.12—2023.01",
+      "score": 0.9887304902076721,
+      "box": [
+        118,
+        290,
+        679,
+        313
+      ]
+    },
+    {
+      "text": "- Managed construction schedules",
+      "score": 0.9911591410636902,
+      "box": [
+        126,
+        314,
+        447,
+        340
+      ]
+    },
+    {
+      "text": "- Established site layout plans",
+      "score": 0.983995795249939,
+      "box": [
+        127,
+        339,
+        406,
+        367
+      ]
+    },
+    {
+      "text": "Construction Laborers, StrongLine Construction, 2018.112020.12",
+      "score": 0.9914051294326782,
+      "box": [
+        117,
+        381,
+        733,
+        408
+      ]
+    },
+    {
+      "text": "- Performed basic plumbing assistance",
+      "score": 0.9889941811561584,
+      "box": [
+        126,
+        407,
+        489,
+        433
+      ]
+    },
+    {
+      "text": "- Prepared tools and equipment for daily tasks",
+      "score": 0.9920502305030823,
+      "box": [
+        128,
+        432,
+        555,
+        458
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999547600746155,
+      "box": [
+        118,
+        495,
+        267,
+        519
+      ]
+    },
+    {
+      "text": "Some college (no degree), Construction Inspection, Riverdale University, 2019",
+      "score": 0.9862977266311646,
+      "box": [
+        117,
+        540,
+        843,
+        567
+      ]
+    },
+    {
+      "text": "• Completed coursework in building codes overview",
+      "score": 0.9927667379379272,
+      "box": [
+        131,
+        567,
+        612,
+        591
+      ]
+    },
+    {
+      "text": "•Studied principles of insulation techniques",
+      "score": 0.9886767864227295,
+      "box": [
+        132,
+        591,
+        537,
+        617
+      ]
+    }
+  ],
+  "seconds": 2.588664799928665,
+  "id": "59596",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

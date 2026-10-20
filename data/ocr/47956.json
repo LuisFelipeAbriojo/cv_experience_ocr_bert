@@ -1,0 +1,172 @@
+{
+  "lines": [
+    {
+      "text": "KEYARRA KNIGHT",
+      "score": 0.986583411693573,
+      "box": [
+        117,
+        90,
+        420,
+        122
+      ]
+    },
+    {
+      "text": "SC, USA | +1-205-608-9576 | keyarra.knight@example.com",
+      "score": 0.9788880944252014,
+      "box": [
+        116,
+        150,
+        672,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9991067051887512,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, KindHands Care Center, 2020.102023.01",
+      "score": 0.9995635151863098,
+      "box": [
+        117,
+        289,
+        696,
+        316
+      ]
+    },
+    {
+      "text": "- Managed long-term care strategies",
+      "score": 0.9943488240242004,
+      "box": [
+        125,
+        314,
+        466,
+        343
+      ]
+    },
+    {
+      "text": "- Developed clinical performance dashboards",
+      "score": 0.978449285030365,
+      "box": [
+        127,
+        339,
+        548,
+        367
+      ]
+    },
+    {
+      "text": "Registered Nurses, Helping Path Care, 2018.06—2020.10",
+      "score": 0.9829885959625244,
+      "box": [
+        118,
+        383,
+        646,
+        407
+      ]
+    },
+    {
+      "text": "- Documented clinical care activities",
+      "score": 0.9934350848197937,
+      "box": [
+        125,
+        407,
+        461,
+        433
+      ]
+    },
+    {
+      "text": "- Reviewed diagnostic imaging results",
+      "score": 0.9915532469749451,
+      "box": [
+        126,
+        432,
+        479,
+        459
+      ]
+    },
+    {
+      "text": "Registered Nurses, LifePath Nursing Services, 2016.02—2018.06",
+      "score": 0.989916205406189,
+      "box": [
+        118,
+        474,
+        715,
+        498
+      ]
+    },
+    {
+      "text": "- Recorded patient vital signs",
+      "score": 0.9572053551673889,
+      "box": [
+        126,
+        497,
+        401,
+        525
+      ]
+    },
+    {
+      "text": "- Assisted with respiratory treatments",
+      "score": 0.987480640411377,
+      "box": [
+        127,
+        521,
+        473,
+        550
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9998847246170044,
+      "box": [
+        117,
+        587,
+        267,
+        614
+      ]
+    },
+    {
+      "text": "Bachelor's, Health Administration, Fairview University, 2019",
+      "score": 0.9951193928718567,
+      "box": [
+        118,
+        633,
+        669,
+        657
+      ]
+    },
+    {
+      "text": "• Completed coursework in patient triage",
+      "score": 0.9816926717758179,
+      "box": [
+        132,
+        658,
+        511,
+        684
+      ]
+    },
+    {
+      "text": "Completed coursework in maternal health nursing",
+      "score": 0.9992470145225525,
+      "box": [
+        132,
+        680,
+        608,
+        709
+      ]
+    }
+  ],
+  "seconds": 2.792687499895692,
+  "id": "47956",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

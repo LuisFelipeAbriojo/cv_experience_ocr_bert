@@ -1,0 +1,142 @@
+{
+  "lines": [
+    {
+      "text": "REBECCA LOWE",
+      "score": 0.9836747050285339,
+      "box": [
+        117,
+        90,
+        393,
+        121
+      ]
+    },
+    {
+      "text": "MA, USA | +1-421-890-6417 | rebecca.lowe@example.com",
+      "score": 0.9895111322402954,
+      "box": [
+        117,
+        152,
+        665,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9997549057006836,
+      "box": [
+        117,
+        243,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Registered Nurses, Helping Way Care, 2020.08—2022.06",
+      "score": 0.9815968871116638,
+      "box": [
+        115,
+        287,
+        646,
+        318
+      ]
+    },
+    {
+      "text": "- Designed clinical care protocols",
+      "score": 0.9955427646636963,
+      "box": [
+        126,
+        313,
+        438,
+        344
+      ]
+    },
+    {
+      "text": "- Implemented care pathway frameworks",
+      "score": 0.9978830218315125,
+      "box": [
+        126,
+        337,
+        507,
+        371
+      ]
+    },
+    {
+      "text": "Registered Nurses, Harmony Nursing Services, 2017.122019.11",
+      "score": 0.9934172630310059,
+      "box": [
+        118,
+        383,
+        723,
+        407
+      ]
+    },
+    {
+      "text": "- Monitored patient alarms",
+      "score": 0.9953380823135376,
+      "box": [
+        125,
+        407,
+        372,
+        433
+      ]
+    },
+    {
+      "text": "- Administered prescribed medications",
+      "score": 0.9862728714942932,
+      "box": [
+        129,
+        434,
+        483,
+        457
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999001026153564,
+      "box": [
+        117,
+        494,
+        267,
+        521
+      ]
+    },
+    {
+      "text": "Bachelor's, Medical Technology, Ridgeway University, 2014",
+      "score": 0.9943022727966309,
+      "box": [
+        115,
+        539,
+        670,
+        567
+      ]
+    },
+    {
+      "text": "Studied principles of health screening",
+      "score": 0.9941868185997009,
+      "box": [
+        129,
+        564,
+        496,
+        594
+      ]
+    },
+    {
+      "text": "Completed coursework in patient counseling",
+      "score": 0.9835410118103027,
+      "box": [
+        131,
+        589,
+        557,
+        619
+      ]
+    }
+  ],
+  "seconds": 2.696400100365281,
+  "id": "25092",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

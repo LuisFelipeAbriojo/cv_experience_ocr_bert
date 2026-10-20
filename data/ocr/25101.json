@@ -1,0 +1,202 @@
+{
+  "lines": [
+    {
+      "text": "KRISTI LESTER",
+      "score": 0.9991336464881897,
+      "box": [
+        117,
+        91,
+        369,
+        121
+      ]
+    },
+    {
+      "text": "MA, USA | +1-650-913-8637 | kristi.lester@example.com",
+      "score": 0.9903457164764404,
+      "box": [
+        115,
+        150,
+        643,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9990584850311279,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, TrueBridge Nursing, 2019.072023.01",
+      "score": 0.9847931265830994,
+      "box": [
+        115,
+        288,
+        656,
+        319
+      ]
+    },
+    {
+      "text": "- Managed care delivery innovation",
+      "score": 0.991717517375946,
+      "box": [
+        125,
+        314,
+        456,
+        345
+      ]
+    },
+    {
+      "text": "- Directed care coordination strategies",
+      "score": 0.9887356162071228,
+      "box": [
+        126,
+        339,
+        482,
+        368
+      ]
+    },
+    {
+      "text": "Registered Nurses, WellWay Medical Group, 2016.012019.07",
+      "score": 0.9996810555458069,
+      "box": [
+        116,
+        381,
+        700,
+        409
+      ]
+    },
+    {
+      "text": "- Managed nursing unit operations",
+      "score": 0.9836553931236267,
+      "box": [
+        126,
+        407,
+        447,
+        434
+      ]
+    },
+    {
+      "text": "- Managed patient outcome evaluation systems",
+      "score": 0.9876422882080078,
+      "box": [
+        126,
+        432,
+        567,
+        459
+      ]
+    },
+    {
+      "text": "Registered Nurses, ClearWay Health Group, 2012.072016.01",
+      "score": 0.997236430644989,
+      "box": [
+        118,
+        474,
+        695,
+        498
+      ]
+    },
+    {
+      "text": "- Managed patient fall prevention measures",
+      "score": 0.999478816986084,
+      "box": [
+        125,
+        497,
+        532,
+        526
+      ]
+    },
+    {
+      "text": "- Monitored patient compliance",
+      "score": 0.9975928068161011,
+      "box": [
+        127,
+        521,
+        417,
+        551
+      ]
+    },
+    {
+      "text": "Registered Nurses, EverWell Health Services, 2008.12—2012.07",
+      "score": 0.9728147983551025,
+      "box": [
+        118,
+        566,
+        711,
+        590
+      ]
+    },
+    {
+      "text": "- Prepared medical equipment for use",
+      "score": 0.986052393913269,
+      "box": [
+        126,
+        589,
+        479,
+        618
+      ]
+    },
+    {
+      "text": "- Monitored patient intake and output",
+      "score": 0.9852089881896973,
+      "box": [
+        126,
+        613,
+        471,
+        645
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999310970306396,
+      "box": [
+        117,
+        681,
+        266,
+        705
+      ]
+    },
+    {
+      "text": "Bachelor's, Geriatric Care, Greenway University, 2010",
+      "score": 0.9842776656150818,
+      "box": [
+        117,
+        726,
+        618,
+        749
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of medication reconciliation",
+      "score": 0.9812355637550354,
+      "box": [
+        131,
+        750,
+        608,
+        774
+      ]
+    },
+    {
+      "text": "• Studied principles of emergency nursing",
+      "score": 0.9761035442352295,
+      "box": [
+        132,
+        774,
+        519,
+        800
+      ]
+    }
+  ],
+  "seconds": 3.0121182003058493,
+  "id": "25101",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

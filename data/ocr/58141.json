@@ -1,0 +1,202 @@
+{
+  "lines": [
+    {
+      "text": "BRITTANIE HICKMAN",
+      "score": 0.9997477531433105,
+      "box": [
+        118,
+        92,
+        462,
+        122
+      ]
+    },
+    {
+      "text": "WA, USA | +1-758-304-4697 | brittanie.hickman@example.com",
+      "score": 0.9814794659614563,
+      "box": [
+        116,
+        150,
+        704,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.999103844165802,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Growing Minds Academy, 2020.05—2023.01",
+      "score": 0.9927882552146912,
+      "box": [
+        116,
+        289,
+        869,
+        319
+      ]
+    },
+    {
+      "text": "- Designed assessment systems",
+      "score": 0.9944299459457397,
+      "box": [
+        125,
+        314,
+        432,
+        345
+      ]
+    },
+    {
+      "text": "- Implemented academic policy updates",
+      "score": 0.9776342511177063,
+      "box": [
+        126,
+        339,
+        497,
+        369
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Learning View Academy, 2017.09—2020.05",
+      "score": 0.9843705296516418,
+      "box": [
+        116,
+        381,
+        864,
+        411
+      ]
+    },
+    {
+      "text": "- Designed assessment systems",
+      "score": 0.9993453025817871,
+      "box": [
+        126,
+        408,
+        431,
+        434
+      ]
+    },
+    {
+      "text": "- Implemented academic policy updates",
+      "score": 0.9940701127052307,
+      "box": [
+        127,
+        431,
+        497,
+        459
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Little Bridge School, 2015.01—2017.09",
+      "score": 0.9857870936393738,
+      "box": [
+        117,
+        471,
+        818,
+        499
+      ]
+    },
+    {
+      "text": "- Reviewed instructional content",
+      "score": 0.9905102849006653,
+      "box": [
+        126,
+        498,
+        427,
+        523
+      ]
+    },
+    {
+      "text": "- Reviewed assessment results",
+      "score": 0.9889371991157532,
+      "box": [
+        127,
+        522,
+        418,
+        548
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Kind Path School, 2012.052015.01",
+      "score": 0.9960452318191528,
+      "box": [
+        118,
+        566,
+        797,
+        590
+      ]
+    },
+    {
+      "text": "- Implemented classroom seating plans",
+      "score": 0.9783284068107605,
+      "box": [
+        127,
+        590,
+        494,
+        618
+      ]
+    },
+    {
+      "text": "- Prepared daily instructional agendas",
+      "score": 0.9860290884971619,
+      "box": [
+        127,
+        614,
+        480,
+        644
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999028444290161,
+      "box": [
+        117,
+        681,
+        266,
+        705
+      ]
+    },
+    {
+      "text": "Bachelor's, Developmental Studies, Lakeside University, 2011",
+      "score": 0.9838108420372009,
+      "box": [
+        117,
+        726,
+        688,
+        749
+      ]
+    },
+    {
+      "text": "• Completed coursework in lesson delivery techniques",
+      "score": 0.9857995510101318,
+      "box": [
+        134,
+        751,
+        635,
+        775
+      ]
+    },
+    {
+      "text": "•Completed coursework in foundational teaching practices",
+      "score": 0.9648047089576721,
+      "box": [
+        132,
+        772,
+        676,
+        802
+      ]
+    }
+  ],
+  "seconds": 3.3224973999895155,
+  "id": "58141",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

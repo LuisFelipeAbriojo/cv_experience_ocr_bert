@@ -1,0 +1,172 @@
+{
+  "lines": [
+    {
+      "text": "MICHELLE LEE",
+      "score": 0.9991955161094666,
+      "box": [
+        117,
+        91,
+        363,
+        121
+      ]
+    },
+    {
+      "text": "WA, USA | +1-345-610-8671 | michelle.lee@example.com",
+      "score": 0.9914702773094177,
+      "box": [
+        116,
+        151,
+        655,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.999011754989624,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, WellNest Medical Group, 2019.092023.01",
+      "score": 0.9920389652252197,
+      "box": [
+        116,
+        288,
+        700,
+        317
+      ]
+    },
+    {
+      "text": "- Developed interdisciplinary care strategies",
+      "score": 0.9876457452774048,
+      "box": [
+        125,
+        313,
+        534,
+        344
+      ]
+    },
+    {
+      "text": "- Managed clinical data analysis",
+      "score": 0.9882895946502686,
+      "box": [
+        126,
+        339,
+        427,
+        369
+      ]
+    },
+    {
+      "text": "Registered Nurses, Caring Touch Health, 2016.052019.09",
+      "score": 0.9997857213020325,
+      "box": [
+        116,
+        381,
+        668,
+        409
+      ]
+    },
+    {
+      "text": "- Monitored patient response to treatments",
+      "score": 0.9905385375022888,
+      "box": [
+        126,
+        408,
+        522,
+        433
+      ]
+    },
+    {
+      "text": "- Assisted with emergency interventions",
+      "score": 0.9902119040489197,
+      "box": [
+        126,
+        431,
+        497,
+        459
+      ]
+    },
+    {
+      "text": "Registered Nurses, Helping Hands Medical, 2010.102014.02",
+      "score": 0.9935490489006042,
+      "box": [
+        118,
+        474,
+        690,
+        498
+      ]
+    },
+    {
+      "text": "- Prepared intravenous solutions",
+      "score": 0.9852868318557739,
+      "box": [
+        126,
+        496,
+        432,
+        525
+      ]
+    },
+    {
+      "text": "- Documented patient observations",
+      "score": 0.998971164226532,
+      "box": [
+        127,
+        521,
+        454,
+        550
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999871015548706,
+      "box": [
+        117,
+        587,
+        267,
+        614
+      ]
+    },
+    {
+      "text": "Bachelor's, Health Management, Northfield University, 2003",
+      "score": 0.9840915203094482,
+      "box": [
+        118,
+        633,
+        669,
+        657
+      ]
+    },
+    {
+      "text": "•Studied principles of population health",
+      "score": 0.9861736297607422,
+      "box": [
+        129,
+        657,
+        502,
+        685
+      ]
+    },
+    {
+      "text": "•Studied principles of evidence-based practice",
+      "score": 0.9876089692115784,
+      "box": [
+        129,
+        681,
+        569,
+        709
+      ]
+    }
+  ],
+  "seconds": 2.785038699861616,
+  "id": "58751",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

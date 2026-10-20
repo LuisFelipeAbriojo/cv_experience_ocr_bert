@@ -1,0 +1,142 @@
+{
+  "lines": [
+    {
+      "text": "DESTINY TUCKER",
+      "score": 0.9872950315475464,
+      "box": [
+        117,
+        89,
+        411,
+        122
+      ]
+    },
+    {
+      "text": "TN, USA | +1-909-788-1890 | destiny.tucker@example.com",
+      "score": 0.9890359044075012,
+      "box": [
+        119,
+        152,
+        667,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9991776347160339,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, TrueHands Nursing Services, 2019.06—2021.04",
+      "score": 0.9972826242446899,
+      "box": [
+        116,
+        288,
+        744,
+        316
+      ]
+    },
+    {
+      "text": "- Developed clinical performance dashboards",
+      "score": 0.9995771050453186,
+      "box": [
+        125,
+        313,
+        549,
+        342
+      ]
+    },
+    {
+      "text": "- Established nursing performance metrics",
+      "score": 0.9817967414855957,
+      "box": [
+        127,
+        340,
+        520,
+        367
+      ]
+    },
+    {
+      "text": "Registered Nurses, OpenWay Nursing Services, 2016.102018.08",
+      "score": 0.988793134689331,
+      "box": [
+        117,
+        382,
+        733,
+        409
+      ]
+    },
+    {
+      "text": "- Assisted with diagnostic procedures",
+      "score": 0.9981253147125244,
+      "box": [
+        124,
+        406,
+        473,
+        434
+      ]
+    },
+    {
+      "text": "- Recorded patient weight and height",
+      "score": 0.9881443381309509,
+      "box": [
+        127,
+        432,
+        470,
+        458
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999396204948425,
+      "box": [
+        116,
+        494,
+        267,
+        521
+      ]
+    },
+    {
+      "text": "Bachelor's, Medical Assisting, Skycrest University, 2016",
+      "score": 0.9785383939743042,
+      "box": [
+        115,
+        539,
+        634,
+        567
+      ]
+    },
+    {
+      "text": "•Studied principles of time management in care",
+      "score": 0.9768993258476257,
+      "box": [
+        130,
+        566,
+        577,
+        592
+      ]
+    },
+    {
+      "text": "Completed coursework in geriatric nursing",
+      "score": 0.9888209700584412,
+      "box": [
+        131,
+        589,
+        538,
+        620
+      ]
+    }
+  ],
+  "seconds": 2.54111299989745,
+  "id": "48634",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

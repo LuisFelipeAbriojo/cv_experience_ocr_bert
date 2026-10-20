@@ -1,0 +1,162 @@
+{
+  "lines": [
+    {
+      "text": "RAYMOND CARPENTER",
+      "score": 0.9998514652252197,
+      "box": [
+        118,
+        91,
+        507,
+        121
+      ]
+    },
+    {
+      "text": "MI, USA | +1-836-332-2376 | raymond.carpenter@example.com",
+      "score": 0.9845203757286072,
+      "box": [
+        115,
+        150,
+        710,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9991125464439392,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, SureBuild Group, 2020.07—2023.01",
+      "score": 0.9662867188453674,
+      "box": [
+        116,
+        288,
+        661,
+        316
+      ]
+    },
+    {
+      "text": "- Directed site safety audits",
+      "score": 0.9802079200744629,
+      "box": [
+        125,
+        314,
+        382,
+        343
+      ]
+    },
+    {
+      "text": "- Reviewed compliance documentation",
+      "score": 0.9920657277107239,
+      "box": [
+        127,
+        339,
+        488,
+        367
+      ]
+    },
+    {
+      "text": "Construction Laborers, BuildLine Co., 2018.01—2020.07",
+      "score": 0.9799764156341553,
+      "box": [
+        116,
+        380,
+        633,
+        408
+      ]
+    },
+    {
+      "text": "- Prepared site reports",
+      "score": 0.999484658241272,
+      "box": [
+        126,
+        409,
+        338,
+        433
+      ]
+    },
+    {
+      "text": "- Operated power tools independently",
+      "score": 0.9972080588340759,
+      "box": [
+        127,
+        431,
+        477,
+        459
+      ]
+    },
+    {
+      "text": "Construction Laborers, SolidWay Contractors, 2015.06—2018.01",
+      "score": 0.9843848347663879,
+      "box": [
+        118,
+        473,
+        708,
+        497
+      ]
+    },
+    {
+      "text": "- Maintained cleanliness of work areas",
+      "score": 0.9871236085891724,
+      "box": [
+        126,
+        497,
+        485,
+        523
+      ]
+    },
+    {
+      "text": "- Moved equipment between work zones",
+      "score": 0.9871273040771484,
+      "box": [
+        127,
+        520,
+        505,
+        549
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9998867511749268,
+      "box": [
+        117,
+        587,
+        267,
+        614
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Carpentry, North Ridge High School, 2013",
+      "score": 0.9960181713104248,
+      "box": [
+        117,
+        632,
+        769,
+        659
+      ]
+    },
+    {
+      "text": "•Studied principles of construction record keeping",
+      "score": 0.9920978546142578,
+      "box": [
+        129,
+        657,
+        599,
+        685
+      ]
+    }
+  ],
+  "seconds": 2.401693600229919,
+  "id": "27888",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

@@ -1,0 +1,102 @@
+{
+  "lines": [
+    {
+      "text": "TANNER OSBORNE",
+      "score": 0.9974127411842346,
+      "box": [
+        117,
+        90,
+        435,
+        121
+      ]
+    },
+    {
+      "text": "TX, USA | +1-467-912-7657 | tanner.osborne@example.com",
+      "score": 0.9941924810409546,
+      "box": [
+        117,
+        149,
+        679,
+        177
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9997344017028809,
+      "box": [
+        117,
+        243,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Construction Laborers, Pillar Construction, 2018.06—2020.01",
+      "score": 0.990298330783844,
+      "box": [
+        116,
+        287,
+        676,
+        315
+      ]
+    },
+    {
+      "text": "- Stacked and organized construction supplies",
+      "score": 0.9917252659797668,
+      "box": [
+        125,
+        313,
+        557,
+        342
+      ]
+    },
+    {
+      "text": "- Monitored material usage",
+      "score": 0.997166097164154,
+      "box": [
+        125,
+        337,
+        379,
+        368
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999277591705322,
+      "box": [
+        116,
+        404,
+        268,
+        431
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Masonry, Maplewood High School, 2011",
+      "score": 0.9998132586479187,
+      "box": [
+        117,
+        448,
+        752,
+        475
+      ]
+    },
+    {
+      "text": "Completed coursework in basic site surveying",
+      "score": 0.9738864898681641,
+      "box": [
+        131,
+        472,
+        572,
+        501
+      ]
+    }
+  ],
+  "seconds": 1.8685177001170814,
+  "id": "53786",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

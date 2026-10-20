@@ -1,0 +1,172 @@
+{
+  "lines": [
+    {
+      "text": "CHRISTIAN KNIGHT",
+      "score": 0.9998968839645386,
+      "box": [
+        118,
+        92,
+        437,
+        122
+      ]
+    },
+    {
+      "text": "TX, USA | +1-584-589-5976 | christian.knight@example.com",
+      "score": 0.9874973893165588,
+      "box": [
+        117,
+        149,
+        677,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9991585612297058,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, BuildRight Contractors, 2021.01—2023.01",
+      "score": 0.9871712327003479,
+      "box": [
+        116,
+        288,
+        716,
+        316
+      ]
+    },
+    {
+      "text": "- Led cross-functional coordination",
+      "score": 0.999071478843689,
+      "box": [
+        126,
+        315,
+        448,
+        340
+      ]
+    },
+    {
+      "text": "- Managed workforce allocation",
+      "score": 0.9708477258682251,
+      "box": [
+        127,
+        340,
+        420,
+        366
+      ]
+    },
+    {
+      "text": "Construction Laborers, FirmStep Builders, 2017.062019.06",
+      "score": 0.9952726364135742,
+      "box": [
+        118,
+        383,
+        674,
+        407
+      ]
+    },
+    {
+      "text": "- Installed electrical wiring supports",
+      "score": 0.9983621835708618,
+      "box": [
+        126,
+        407,
+        454,
+        433
+      ]
+    },
+    {
+      "text": "- Installed framing components",
+      "score": 0.98581862449646,
+      "box": [
+        127,
+        431,
+        416,
+        459
+      ]
+    },
+    {
+      "text": "Construction Laborers, SteadyRise Construction, 2014.03—2016.04",
+      "score": 0.9874836802482605,
+      "box": [
+        116,
+        471,
+        739,
+        499
+      ]
+    },
+    {
+      "text": "- Assisted with framing support",
+      "score": 0.9902640581130981,
+      "box": [
+        129,
+        500,
+        417,
+        524
+      ]
+    },
+    {
+      "text": "- Assisted with roofing material handling",
+      "score": 0.9854623675346375,
+      "box": [
+        128,
+        519,
+        498,
+        551
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999511241912842,
+      "box": [
+        118,
+        588,
+        266,
+        612
+      ]
+    },
+    {
+      "text": "Some college (no degree), Carpentry, Windfield University, 2011",
+      "score": 0.9976498484611511,
+      "box": [
+        117,
+        632,
+        713,
+        659
+      ]
+    },
+    {
+      "text": "• Completed coursework in basic roofing installation",
+      "score": 0.988551139831543,
+      "box": [
+        131,
+        659,
+        613,
+        683
+      ]
+    },
+    {
+      "text": "•Studied principles of load-bearing structures",
+      "score": 0.9900985956192017,
+      "box": [
+        131,
+        681,
+        557,
+        710
+      ]
+    }
+  ],
+  "seconds": 2.6354759000241756,
+  "id": "49787",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

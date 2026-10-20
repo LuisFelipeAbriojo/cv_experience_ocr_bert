@@ -1,0 +1,142 @@
+{
+  "lines": [
+    {
+      "text": "AMBER SIMS",
+      "score": 0.9997888803482056,
+      "box": [
+        117,
+        91,
+        331,
+        122
+      ]
+    },
+    {
+      "text": "MI, USA | +1-378-501-9538 | amber.sims@example.com",
+      "score": 0.9839703440666199,
+      "box": [
+        116,
+        151,
+        642,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.999094545841217,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Learning Star Academy, 2020.09—2023.01",
+      "score": 0.9953696727752686,
+      "box": [
+        115,
+        287,
+        856,
+        318
+      ]
+    },
+    {
+      "text": "- Designed performance monitoring systems",
+      "score": 0.9912665486335754,
+      "box": [
+        125,
+        314,
+        540,
+        343
+      ]
+    },
+    {
+      "text": "- Developed learning progression models",
+      "score": 0.9856970310211182,
+      "box": [
+        127,
+        339,
+        510,
+        368
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Bright Horizons School, 2016.082018.12",
+      "score": 0.9916650652885437,
+      "box": [
+        116,
+        381,
+        853,
+        411
+      ]
+    },
+    {
+      "text": "- Supervised transitions between lessons",
+      "score": 0.999089241027832,
+      "box": [
+        125,
+        408,
+        509,
+        433
+      ]
+    },
+    {
+      "text": "- Maintained student folders",
+      "score": 0.9966618418693542,
+      "box": [
+        126,
+        431,
+        388,
+        456
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999254941940308,
+      "box": [
+        117,
+        494,
+        267,
+        521
+      ]
+    },
+    {
+      "text": "Bachelor's, Learning Foundations, Cloverfield University, 2010",
+      "score": 0.9758910536766052,
+      "box": [
+        117,
+        542,
+        692,
+        566
+      ]
+    },
+    {
+      "text": "• Completed coursework in classroom structure planning",
+      "score": 0.989769697189331,
+      "box": [
+        132,
+        567,
+        655,
+        592
+      ]
+    },
+    {
+      "text": "• Completed coursework in instructional evaluation",
+      "score": 0.9810256958007812,
+      "box": [
+        133,
+        592,
+        602,
+        616
+      ]
+    }
+  ],
+  "seconds": 2.4682017997838557,
+  "id": "27684",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

@@ -1,0 +1,142 @@
+{
+  "lines": [
+    {
+      "text": "IBAN VINCENT",
+      "score": 0.9990527033805847,
+      "box": [
+        117,
+        91,
+        355,
+        121
+      ]
+    },
+    {
+      "text": "CA, USA | +1-330-656-8119 | iban.vincent@example.com",
+      "score": 0.9833751916885376,
+      "box": [
+        118,
+        152,
+        651,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.999753475189209,
+      "box": [
+        117,
+        243,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Reliable Path Co., 2020.112023.01",
+      "score": 0.9833661913871765,
+      "box": [
+        117,
+        290,
+        660,
+        314
+      ]
+    },
+    {
+      "text": "- Designed tax strategies",
+      "score": 0.995068371295929,
+      "box": [
+        127,
+        313,
+        361,
+        344
+      ]
+    },
+    {
+      "text": "- Designed financial documentation standards",
+      "score": 0.9879726767539978,
+      "box": [
+        129,
+        341,
+        552,
+        365
+      ]
+    },
+    {
+      "text": "Accountants Auditors, SteadyLedger Financial, 2018.09—2020.11",
+      "score": 0.9830876588821411,
+      "box": [
+        116,
+        380,
+        719,
+        408
+      ]
+    },
+    {
+      "text": "- Prepared variance reports",
+      "score": 0.9989327788352966,
+      "box": [
+        125,
+        407,
+        384,
+        432
+      ]
+    },
+    {
+      "text": "- Filed financial documents",
+      "score": 0.9817375540733337,
+      "box": [
+        126,
+        430,
+        378,
+        457
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999350309371948,
+      "box": [
+        116,
+        494,
+        267,
+        521
+      ]
+    },
+    {
+      "text": "Bachelor's, Operations Management, Meadowridge University, 2017",
+      "score": 0.9989205598831177,
+      "box": [
+        116,
+        540,
+        748,
+        567
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of internal controls",
+      "score": 0.9869325160980225,
+      "box": [
+        130,
+        567,
+        527,
+        590
+      ]
+    },
+    {
+      "text": "• Studied principles of financial review procedures",
+      "score": 0.9847418665885925,
+      "box": [
+        132,
+        592,
+        595,
+        616
+      ]
+    }
+  ],
+  "seconds": 2.2497450998052955,
+  "id": "03790",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

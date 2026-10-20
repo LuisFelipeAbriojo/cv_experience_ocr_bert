@@ -1,0 +1,212 @@
+{
+  "lines": [
+    {
+      "text": "CHARLES WOODS",
+      "score": 0.9998267292976379,
+      "box": [
+        117,
+        90,
+        418,
+        122
+      ]
+    },
+    {
+      "text": "SC, USA | +1-842-875-4727 | charles.woods@example.com",
+      "score": 0.978779673576355,
+      "box": [
+        118,
+        152,
+        674,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.998914897441864,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Corefield Software, 2019.042023.01",
+      "score": 0.9956240653991699,
+      "box": [
+        117,
+        291,
+        666,
+        315
+      ]
+    },
+    {
+      "text": "- Led database design efforts",
+      "score": 0.9981824159622192,
+      "box": [
+        128,
+        315,
+        399,
+        341
+      ]
+    },
+    {
+      "text": "- Implemented security architectures",
+      "score": 0.9930875301361084,
+      "box": [
+        127,
+        339,
+        466,
+        367
+      ]
+    },
+    {
+      "text": "Software Developers, Openpoint Digital, 2015.072019.04",
+      "score": 0.9910778403282166,
+      "box": [
+        115,
+        381,
+        657,
+        409
+      ]
+    },
+    {
+      "text": "- Implemented disaster recovery plans",
+      "score": 0.9892873764038086,
+      "box": [
+        126,
+        408,
+        482,
+        434
+      ]
+    },
+    {
+      "text": "- Defined data governance policies",
+      "score": 0.9822202324867249,
+      "box": [
+        126,
+        431,
+        451,
+        459
+      ]
+    },
+    {
+      "text": "Software Developers, Skyline Software, 2011.102015.07",
+      "score": 0.9918357729911804,
+      "box": [
+        116,
+        471,
+        652,
+        499
+      ]
+    },
+    {
+      "text": "- Improved application performance",
+      "score": 0.9941821098327637,
+      "box": [
+        127,
+        500,
+        457,
+        524
+      ]
+    },
+    {
+      "text": "- Built data visualization tools",
+      "score": 0.9721696376800537,
+      "box": [
+        127,
+        522,
+        399,
+        548
+      ]
+    },
+    {
+      "text": "Software Developers, Nextwave Systems, 2005.11—2009.08",
+      "score": 0.9889214038848877,
+      "box": [
+        116,
+        565,
+        674,
+        592
+      ]
+    },
+    {
+      "text": "- Updated application dependencies",
+      "score": 0.9994320869445801,
+      "box": [
+        130,
+        592,
+        462,
+        616
+      ]
+    },
+    {
+      "text": "- Monitored application logs",
+      "score": 0.9959282279014587,
+      "box": [
+        127,
+        613,
+        387,
+        644
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999275207519531,
+      "box": [
+        117,
+        681,
+        266,
+        705
+      ]
+    },
+    {
+      "text": "Master's, Riverstone University, 2005",
+      "score": 0.9967237710952759,
+      "box": [
+        116,
+        724,
+        463,
+        749
+      ]
+    },
+    {
+      "text": "Bachelor's, Riverhaven University, 2003",
+      "score": 0.9767462015151978,
+      "box": [
+        115,
+        747,
+        488,
+        775
+      ]
+    },
+    {
+      "text": "•Studied fundamentals of cybersecurity",
+      "score": 0.9799435138702393,
+      "box": [
+        130,
+        774,
+        501,
+        799
+      ]
+    },
+    {
+      "text": "• Completed coursework in RESTful services",
+      "score": 0.9766859412193298,
+      "box": [
+        134,
+        800,
+        549,
+        824
+      ]
+    }
+  ],
+  "seconds": 2.735224099829793,
+  "id": "47841",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

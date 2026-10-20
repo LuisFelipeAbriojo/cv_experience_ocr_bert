@@ -1,0 +1,172 @@
+{
+  "lines": [
+    {
+      "text": "CORI MOYER",
+      "score": 0.995141327381134,
+      "box": [
+        118,
+        91,
+        333,
+        122
+      ]
+    },
+    {
+      "text": "WA, USA | +1-513-392-8586 | cori.moyer@example.com",
+      "score": 0.9840583205223083,
+      "box": [
+        116,
+        151,
+        641,
+        177
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.997925341129303,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Balanced Books Group, 2020.02—2023.01",
+      "score": 0.9950047135353088,
+      "box": [
+        115,
+        288,
+        713,
+        316
+      ]
+    },
+    {
+      "text": "- Designed audit methodologies",
+      "score": 0.9810461401939392,
+      "box": [
+        125,
+        314,
+        424,
+        342
+      ]
+    },
+    {
+      "text": "- Directed accounting system implementations",
+      "score": 0.9883911609649658,
+      "box": [
+        127,
+        339,
+        557,
+        367
+      ]
+    },
+    {
+      "text": "Accountants Auditors, AccuCount Group, 2015.072018.07",
+      "score": 0.9982362389564514,
+      "box": [
+        118,
+        383,
+        665,
+        407
+      ]
+    },
+    {
+      "text": "- Prepared cost allocation models",
+      "score": 0.9686176776885986,
+      "box": [
+        125,
+        407,
+        440,
+        432
+      ]
+    },
+    {
+      "text": "- Prepared tax returns",
+      "score": 0.992127001285553,
+      "box": [
+        127,
+        431,
+        333,
+        460
+      ]
+    },
+    {
+      "text": "Accountants Auditors, SteadyBooks Group, 2011.062014.06",
+      "score": 0.9878935217857361,
+      "box": [
+        117,
+        473,
+        687,
+        497
+      ]
+    },
+    {
+      "text": "- Filed financial documents",
+      "score": 0.9996163249015808,
+      "box": [
+        126,
+        497,
+        379,
+        522
+      ]
+    },
+    {
+      "text": "- Assisted with regulatory filings",
+      "score": 0.9987112879753113,
+      "box": [
+        127,
+        520,
+        422,
+        551
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999486207962036,
+      "box": [
+        118,
+        588,
+        266,
+        612
+      ]
+    },
+    {
+      "text": "Bachelor's, Management Information Systems, Cloverfield University, 2006",
+      "score": 0.9938895106315613,
+      "box": [
+        118,
+        633,
+        808,
+        657
+      ]
+    },
+    {
+      "text": "•Studied fundamentals of audit documentation",
+      "score": 0.9832346439361572,
+      "box": [
+        129,
+        657,
+        569,
+        682
+      ]
+    },
+    {
+      "text": "Completed coursework in mergers and acquisitions basics",
+      "score": 0.9899396896362305,
+      "box": [
+        132,
+        680,
+        686,
+        709
+      ]
+    }
+  ],
+  "seconds": 2.751650699879974,
+  "id": "59771",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

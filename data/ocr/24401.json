@@ -1,0 +1,212 @@
+{
+  "lines": [
+    {
+      "text": "TERRA PARRISH",
+      "score": 0.9997215867042542,
+      "box": [
+        116,
+        89,
+        394,
+        122
+      ]
+    },
+    {
+      "text": "MD, USA | +1-911-627-1583 | terra.parrish@example.com",
+      "score": 0.9803661704063416,
+      "box": [
+        115,
+        150,
+        656,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9991753101348877,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Little Field School, 2016.09—2023.01",
+      "score": 0.984788715839386,
+      "box": [
+        118,
+        291,
+        800,
+        315
+      ]
+    },
+    {
+      "text": "- Led instructional leadership initiatives",
+      "score": 0.9932848811149597,
+      "box": [
+        128,
+        317,
+        487,
+        341
+      ]
+    },
+    {
+      "text": "- Designed instructional accountability systems",
+      "score": 0.9978381991386414,
+      "box": [
+        127,
+        339,
+        562,
+        369
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Golden Steps School, 2010.052016.09",
+      "score": 0.9924995303153992,
+      "box": [
+        117,
+        382,
+        834,
+        409
+      ]
+    },
+    {
+      "text": "- Designed instructional governance models",
+      "score": 0.9857994318008423,
+      "box": [
+        126,
+        408,
+        535,
+        433
+      ]
+    },
+    {
+      "text": "- Led curriculum transformation initiatives",
+      "score": 0.9917985796928406,
+      "box": [
+        126,
+        432,
+        509,
+        457
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Caring Hills School, 2004.012010.05",
+      "score": 0.9929132461547852,
+      "box": [
+        117,
+        471,
+        815,
+        500
+      ]
+    },
+    {
+      "text": "- Analyzed assessment trends",
+      "score": 0.9994315505027771,
+      "box": [
+        125,
+        497,
+        411,
+        527
+      ]
+    },
+    {
+      "text": "- Prepared instructional pacing guides",
+      "score": 0.9979243874549866,
+      "box": [
+        127,
+        521,
+        480,
+        551
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Bright Field Academy, 1997.08—2004.01",
+      "score": 0.9882598519325256,
+      "box": [
+        116,
+        564,
+        835,
+        592
+      ]
+    },
+    {
+      "text": "- Implemented basic literacy lessons",
+      "score": 0.9884304404258728,
+      "box": [
+        127,
+        592,
+        465,
+        616
+      ]
+    },
+    {
+      "text": "- Reviewed homework assignments",
+      "score": 0.9974840879440308,
+      "box": [
+        126,
+        613,
+        460,
+        645
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999338984489441,
+      "box": [
+        117,
+        681,
+        266,
+        705
+      ]
+    },
+    {
+      "text": "Master's, Education Studies, Elm Valley University, 2004",
+      "score": 0.9990496039390564,
+      "box": [
+        115,
+        723,
+        642,
+        750
+      ]
+    },
+    {
+      "text": "Bachelor's, Teaching Foundations, Rolling Hills University, 2002",
+      "score": 0.9917092323303223,
+      "box": [
+        116,
+        749,
+        709,
+        776
+      ]
+    },
+    {
+      "text": "•Studied principles of cooperative learning",
+      "score": 0.9656924605369568,
+      "box": [
+        129,
+        773,
+        531,
+        803
+      ]
+    },
+    {
+      "text": "•Completed coursework in interactive learning methods",
+      "score": 0.9810662865638733,
+      "box": [
+        132,
+        797,
+        650,
+        828
+      ]
+    }
+  ],
+  "seconds": 3.3582353997044265,
+  "id": "24401",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

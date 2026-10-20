@@ -1,0 +1,122 @@
+{
+  "lines": [
+    {
+      "text": "FAITH CONRAD",
+      "score": 0.9998627305030823,
+      "box": [
+        115,
+        87,
+        372,
+        123
+      ]
+    },
+    {
+      "text": "GA, USA | +1-892-370-2316 | faith.conrad@example.com",
+      "score": 0.9757445454597473,
+      "box": [
+        118,
+        152,
+        650,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9997587203979492,
+      "box": [
+        117,
+        243,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Growing Start Academy, 2020.04—2023.01",
+      "score": 0.9924741983413696,
+      "box": [
+        116,
+        288,
+        856,
+        316
+      ]
+    },
+    {
+      "text": "- Maintained classroom bulletin boards",
+      "score": 0.9991664886474609,
+      "box": [
+        126,
+        314,
+        486,
+        339
+      ]
+    },
+    {
+      "text": "- Supervised transitions between lessons",
+      "score": 0.9964370727539062,
+      "box": [
+        128,
+        340,
+        509,
+        365
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999426603317261,
+      "box": [
+        116,
+        404,
+        268,
+        431
+      ]
+    },
+    {
+      "text": "Master's, Education Preparation, Goldenridge University, 2023",
+      "score": 0.9991222023963928,
+      "box": [
+        116,
+        448,
+        695,
+        475
+      ]
+    },
+    {
+      "text": "Bachelor's, Academic Support Studies, Greenwood Ridge University, 2022",
+      "score": 0.984038770198822,
+      "box": [
+        116,
+        474,
+        807,
+        501
+      ]
+    },
+    {
+      "text": "•Studied principles of cooperative learning",
+      "score": 0.9737383723258972,
+      "box": [
+        129,
+        498,
+        531,
+        527
+      ]
+    },
+    {
+      "text": "•Completed introductory coursework in educational psychology",
+      "score": 0.985524594783783,
+      "box": [
+        132,
+        521,
+        720,
+        553
+      ]
+    }
+  ],
+  "seconds": 2.356018700171262,
+  "id": "16193",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

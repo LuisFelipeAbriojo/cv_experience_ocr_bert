@@ -1,0 +1,142 @@
+{
+  "lines": [
+    {
+      "text": "SHAWN SHARP",
+      "score": 0.9997687935829163,
+      "box": [
+        117,
+        91,
+        371,
+        122
+      ]
+    },
+    {
+      "text": "MD, USA | +1-921-645-6953 | shawn.sharp@example.com",
+      "score": 0.986438512802124,
+      "box": [
+        116,
+        150,
+        661,
+        177
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9991243481636047,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Caring Meadow School, 2021.06—2023.01",
+      "score": 0.9864245653152466,
+      "box": [
+        116,
+        288,
+        853,
+        318
+      ]
+    },
+    {
+      "text": "- Developed instructional innovation plans",
+      "score": 0.9873564839363098,
+      "box": [
+        126,
+        313,
+        517,
+        343
+      ]
+    },
+    {
+      "text": "- Implemented assessment policy frameworks",
+      "score": 0.9793444275856018,
+      "box": [
+        125,
+        337,
+        554,
+        370
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Golden Bridge Academy, 2019.102021.06",
+      "score": 0.99839848279953,
+      "box": [
+        115,
+        379,
+        865,
+        411
+      ]
+    },
+    {
+      "text": "- Prepared lesson summaries",
+      "score": 0.9975794553756714,
+      "box": [
+        125,
+        407,
+        403,
+        433
+      ]
+    },
+    {
+      "text": "- Reviewed curriculum content",
+      "score": 0.9934583902359009,
+      "box": [
+        126,
+        430,
+        411,
+        456
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999189376831055,
+      "box": [
+        117,
+        494,
+        268,
+        521
+      ]
+    },
+    {
+      "text": "Bachelor's, Community Education, Crestview University, 2021",
+      "score": 0.9853766560554504,
+      "box": [
+        117,
+        542,
+        686,
+        566
+      ]
+    },
+    {
+      "text": "•Studied fundamentals of classroom engagement",
+      "score": 0.990990936756134,
+      "box": [
+        128,
+        565,
+        597,
+        593
+      ]
+    },
+    {
+      "text": "Studied fundamentals of instructional objectives",
+      "score": 0.9874311089515686,
+      "box": [
+        130,
+        588,
+        590,
+        618
+      ]
+    }
+  ],
+  "seconds": 2.5463051996193826,
+  "id": "24159",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

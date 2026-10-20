@@ -1,0 +1,15 @@
+setup,model,MAE
+raw OCR,Median,3.507273567860883
+raw OCR,Date rules (bonus),3.138419171485009
+raw OCR,TF-IDF + Ridge,0.8214921862223218
+raw OCR,Embeddings + Ridge,1.2632726188354337
+cleaned OCR,Median,3.507273567860883
+cleaned OCR,Date rules (bonus),0.024925122887887077
+cleaned OCR,TF-IDF + Ridge,0.8742860548493292
+cleaned OCR,Embeddings + Ridge,1.2225738009114904
+"cleaned, low-conf lines removed",Median,3.507273567860883
+"cleaned, low-conf lines removed",Date rules (bonus),0.5932015837754837
+"cleaned, low-conf lines removed",TF-IDF + Ridge,1.1210574533141795
+"cleaned, low-conf lines removed",Embeddings + Ridge,1.4386677464362636
+TF-IDF digits kept,TF-IDF + Ridge,0.8742860548493292
+TF-IDF digits removed,TF-IDF + Ridge,1.6918081722660903

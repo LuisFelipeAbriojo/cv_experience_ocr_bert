@@ -1,0 +1,152 @@
+{
+  "lines": [
+    {
+      "text": "SHAYLA SIMPSON",
+      "score": 0.9997559785842896,
+      "box": [
+        117,
+        92,
+        419,
+        122
+      ]
+    },
+    {
+      "text": "SC, USA | +1-336-221-6886 | shayla.simpson@example.com",
+      "score": 0.9820124506950378,
+      "box": [
+        116,
+        150,
+        684,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9991493225097656,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Harmony Start Academy, 2020.02—2023.01",
+      "score": 0.9918826222419739,
+      "box": [
+        115,
+        287,
+        864,
+        319
+      ]
+    },
+    {
+      "text": "- Designed performance monitoring systems",
+      "score": 0.9918223023414612,
+      "box": [
+        125,
+        314,
+        539,
+        343
+      ]
+    },
+    {
+      "text": "- Directed instructional planning processes",
+      "score": 0.9850853085517883,
+      "box": [
+        126,
+        339,
+        523,
+        368
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Kind Field School, 2015.102018.10",
+      "score": 0.9946093559265137,
+      "box": [
+        117,
+        382,
+        801,
+        409
+      ]
+    },
+    {
+      "text": "- Maintained classroom attendance and grading records",
+      "score": 0.9924322962760925,
+      "box": [
+        125,
+        407,
+        645,
+        435
+      ]
+    },
+    {
+      "text": "- Tracked student participation",
+      "score": 0.9985585808753967,
+      "box": [
+        127,
+        431,
+        411,
+        459
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999436140060425,
+      "box": [
+        116,
+        494,
+        267,
+        521
+      ]
+    },
+    {
+      "text": "Master's, Family and Child Studies, Stonebrook University, 2004",
+      "score": 0.9923660159111023,
+      "box": [
+        116,
+        542,
+        711,
+        566
+      ]
+    },
+    {
+      "text": "Bachelor's, Teaching Support, Meadowland University, 2002",
+      "score": 0.9965930581092834,
+      "box": [
+        117,
+        568,
+        676,
+        592
+      ]
+    },
+    {
+      "text": "• Studied principles of student assessment",
+      "score": 0.9751803278923035,
+      "box": [
+        129,
+        592,
+        529,
+        617
+      ]
+    },
+    {
+      "text": "Completed coursework in classroom assessment techniques",
+      "score": 0.9806264042854309,
+      "box": [
+        131,
+        615,
+        709,
+        643
+      ]
+    }
+  ],
+  "seconds": 2.5061734998598695,
+  "id": "47460",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

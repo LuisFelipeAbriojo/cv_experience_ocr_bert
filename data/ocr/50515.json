@@ -1,0 +1,142 @@
+{
+  "lines": [
+    {
+      "text": "NATALIE KNOX",
+      "score": 0.9632174372673035,
+      "box": [
+        117,
+        91,
+        369,
+        121
+      ]
+    },
+    {
+      "text": "TX, USA | +1-747-713-8326 | natalie.knox@example.com",
+      "score": 0.9884485602378845,
+      "box": [
+        117,
+        149,
+        650,
+        177
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9994556307792664,
+      "box": [
+        116,
+        243,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Construction Laborers, Reliable Build Co., 2021.06—2023.01",
+      "score": 0.9950164556503296,
+      "box": [
+        118,
+        290,
+        672,
+        313
+      ]
+    },
+    {
+      "text": "- Led cross-functional coordination",
+      "score": 0.9912782907485962,
+      "box": [
+        127,
+        316,
+        448,
+        339
+      ]
+    },
+    {
+      "text": "- Established construction benchmarks",
+      "score": 0.9996060729026794,
+      "box": [
+        126,
+        339,
+        487,
+        364
+      ]
+    },
+    {
+      "text": "Construction Laborers, Reliable Build Co., 2019.11—2021.06",
+      "score": 0.9618415236473083,
+      "box": [
+        117,
+        381,
+        674,
+        406
+      ]
+    },
+    {
+      "text": "- Secured materials with fasteners",
+      "score": 0.9936485290527344,
+      "box": [
+        125,
+        407,
+        446,
+        432
+      ]
+    },
+    {
+      "text": "- Installed temporary supports",
+      "score": 0.9788559675216675,
+      "box": [
+        126,
+        430,
+        406,
+        461
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999463558197021,
+      "box": [
+        116,
+        494,
+        268,
+        521
+      ]
+    },
+    {
+      "text": "Bachelor's, Building Construction, Shoreline University, 2022",
+      "score": 0.9898350834846497,
+      "box": [
+        117,
+        542,
+        677,
+        566
+      ]
+    },
+    {
+      "text": "•Studied fundamentals of power tool operation",
+      "score": 0.9851939082145691,
+      "box": [
+        130,
+        567,
+        569,
+        591
+      ]
+    },
+    {
+      "text": "•Studied fundamentals of trench safety",
+      "score": 0.9882564544677734,
+      "box": [
+        131,
+        590,
+        498,
+        616
+      ]
+    }
+  ],
+  "seconds": 2.373646999709308,
+  "id": "50515",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

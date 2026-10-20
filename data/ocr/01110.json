@@ -1,0 +1,112 @@
+{
+  "lines": [
+    {
+      "text": "JOSHUA JOHNS",
+      "score": 0.9999170899391174,
+      "box": [
+        116,
+        91,
+        381,
+        122
+      ]
+    },
+    {
+      "text": "AZ, USA | +1-706-591-3281 | joshua.johns@example.com",
+      "score": 0.9894145727157593,
+      "box": [
+        117,
+        150,
+        656,
+        177
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9997677803039551,
+      "box": [
+        117,
+        243,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Software Developers, Softframe Labs, 2020.10—2022.07",
+      "score": 0.9892286062240601,
+      "box": [
+        116,
+        289,
+        638,
+        316
+      ]
+    },
+    {
+      "text": "- Wrote configuration parsers",
+      "score": 0.9986726641654968,
+      "box": [
+        125,
+        313,
+        400,
+        343
+      ]
+    },
+    {
+      "text": "- Assisted with system documentation",
+      "score": 0.9982500076293945,
+      "box": [
+        128,
+        340,
+        476,
+        364
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999268651008606,
+      "box": [
+        116,
+        404,
+        268,
+        431
+      ]
+    },
+    {
+      "text": "Bachelor's, Parkview University, 2006",
+      "score": 0.979178249835968,
+      "box": [
+        116,
+        446,
+        465,
+        474
+      ]
+    },
+    {
+      "text": "•Studied fundamentals of discrete mathematics",
+      "score": 0.9791107177734375,
+      "box": [
+        130,
+        474,
+        575,
+        498
+      ]
+    },
+    {
+      "text": "•Studied principles of algorithm complexity",
+      "score": 0.975290060043335,
+      "box": [
+        131,
+        497,
+        532,
+        527
+      ]
+    }
+  ],
+  "seconds": 1.9851691001094878,
+  "id": "01110",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

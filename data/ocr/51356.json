@@ -1,0 +1,202 @@
+{
+  "lines": [
+    {
+      "text": "TAYLOR RAMSEY",
+      "score": 0.998970627784729,
+      "box": [
+        116,
+        89,
+        407,
+        122
+      ]
+    },
+    {
+      "text": "TX, USA | +1-361-922-6740 | taylor.ramsey@example.com",
+      "score": 0.9980482459068298,
+      "box": [
+        117,
+        150,
+        663,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9985501170158386,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Codecrest Tech, 2020.072023.01",
+      "score": 0.9975927472114563,
+      "box": [
+        117,
+        291,
+        642,
+        315
+      ]
+    },
+    {
+      "text": "- Designed scalable services",
+      "score": 0.968082070350647,
+      "box": [
+        126,
+        314,
+        396,
+        343
+      ]
+    },
+    {
+      "text": "- Led technical roadmap planning",
+      "score": 0.9902834892272949,
+      "box": [
+        128,
+        340,
+        437,
+        368
+      ]
+    },
+    {
+      "text": "Software Developers, Softnode Systems, 2018.012020.07",
+      "score": 0.9840402603149414,
+      "box": [
+        117,
+        382,
+        666,
+        409
+      ]
+    },
+    {
+      "text": "- Designed scalable services",
+      "score": 0.9718964695930481,
+      "box": [
+        127,
+        409,
+        396,
+        433
+      ]
+    },
+    {
+      "text": "- Defined scalability roadmaps",
+      "score": 0.9705550074577332,
+      "box": [
+        126,
+        431,
+        410,
+        459
+      ]
+    },
+    {
+      "text": "Software Developers, Openframe Digital, 2015.062018.01",
+      "score": 0.99114990234375,
+      "box": [
+        116,
+        471,
+        663,
+        499
+      ]
+    },
+    {
+      "text": "- Reviewed pull requests",
+      "score": 0.9985694289207458,
+      "box": [
+        128,
+        500,
+        359,
+        524
+      ]
+    },
+    {
+      "text": "- Implemented logging frameworks",
+      "score": 0.9760682582855225,
+      "box": [
+        128,
+        522,
+        449,
+        550
+      ]
+    },
+    {
+      "text": "Software Developers, Corecrest Software, 2011.052013.12",
+      "score": 0.9911156892776489,
+      "box": [
+        117,
+        566,
+        676,
+        590
+      ]
+    },
+    {
+      "text": "- Resolved merge conflicts",
+      "score": 0.9917706847190857,
+      "box": [
+        127,
+        589,
+        377,
+        618
+      ]
+    },
+    {
+      "text": "- Implemented logging features",
+      "score": 0.9819658398628235,
+      "box": [
+        128,
+        614,
+        418,
+        644
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9998672008514404,
+      "box": [
+        117,
+        681,
+        266,
+        705
+      ]
+    },
+    {
+      "text": "Associate's degree, Fieldstone University, 2006",
+      "score": 0.9870615005493164,
+      "box": [
+        118,
+        726,
+        556,
+        749
+      ]
+    },
+    {
+      "text": "•Studied fundamentals of software maintenance",
+      "score": 0.9885146021842957,
+      "box": [
+        131,
+        749,
+        583,
+        774
+      ]
+    },
+    {
+      "text": "•Completed coursework in RESTful services",
+      "score": 0.9903329014778137,
+      "box": [
+        132,
+        772,
+        550,
+        800
+      ]
+    }
+  ],
+  "seconds": 2.694427600130439,
+  "id": "51356",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

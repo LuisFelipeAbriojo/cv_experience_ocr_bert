@@ -1,0 +1,122 @@
+{
+  "lines": [
+    {
+      "text": "MYESHA NICHOLSON",
+      "score": 0.999753475189209,
+      "box": [
+        118,
+        91,
+        469,
+        121
+      ]
+    },
+    {
+      "text": "MI, USA | +1-385-863-3841 | myesha.nicholson@example.com",
+      "score": 0.9929208159446716,
+      "box": [
+        117,
+        152,
+        702,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.99974125623703,
+      "box": [
+        117,
+        243,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Bright Minds School, 2020.112021.07",
+      "score": 0.9992740154266357,
+      "box": [
+        117,
+        289,
+        824,
+        316
+      ]
+    },
+    {
+      "text": "- Administered quizzes and short assessments",
+      "score": 0.9986908435821533,
+      "box": [
+        126,
+        315,
+        561,
+        340
+      ]
+    },
+    {
+      "text": "- Followed standard instructional schedules",
+      "score": 0.9950392842292786,
+      "box": [
+        127,
+        339,
+        530,
+        365
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999549388885498,
+      "box": [
+        116,
+        404,
+        268,
+        431
+      ]
+    },
+    {
+      "text": "Master's, Educational Assistance, Sunfield University, 2018",
+      "score": 0.9843851327896118,
+      "box": [
+        114,
+        446,
+        667,
+        474
+      ]
+    },
+    {
+      "text": "Bachelor's, Child Studies, High Meadow University, 2016",
+      "score": 0.9866382479667664,
+      "box": [
+        115,
+        472,
+        645,
+        500
+      ]
+    },
+    {
+      "text": "• Completed coursework in basic tutoring methods",
+      "score": 0.9862686991691589,
+      "box": [
+        132,
+        500,
+        600,
+        524
+      ]
+    },
+    {
+      "text": "Completed coursework in instructional adaptation",
+      "score": 0.9994568228721619,
+      "box": [
+        132,
+        521,
+        605,
+        550
+      ]
+    }
+  ],
+  "seconds": 2.4796747998334467,
+  "id": "27729",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

@@ -1,0 +1,202 @@
+{
+  "lines": [
+    {
+      "text": "ERIC FLOYD",
+      "score": 0.9997612833976746,
+      "box": [
+        117,
+        91,
+        321,
+        122
+      ]
+    },
+    {
+      "text": "MA, USA | +1-650-203-5893 | eric.floyd@example.com",
+      "score": 0.9777049422264099,
+      "box": [
+        114,
+        150,
+        627,
+        179
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9991269111633301,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Future Star Academy, 2020.07—2023.01",
+      "score": 0.9891278147697449,
+      "box": [
+        116,
+        288,
+        834,
+        317
+      ]
+    },
+    {
+      "text": "- Established instructional leadership protocols",
+      "score": 0.993945300579071,
+      "box": [
+        126,
+        315,
+        559,
+        341
+      ]
+    },
+    {
+      "text": "- Led instructional leadership initiatives",
+      "score": 0.9904617071151733,
+      "box": [
+        127,
+        340,
+        488,
+        367
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Little Field School, 2017.122020.07",
+      "score": 0.9925479292869568,
+      "box": [
+        118,
+        383,
+        801,
+        407
+      ]
+    },
+    {
+      "text": "- Established instructional best practices",
+      "score": 0.9984375238418579,
+      "box": [
+        125,
+        408,
+        501,
+        433
+      ]
+    },
+    {
+      "text": "- Directed curriculum revision cycles",
+      "score": 0.9973418712615967,
+      "box": [
+        126,
+        432,
+        463,
+        458
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Golden Steps School, 2015.052017.12",
+      "score": 0.9993800520896912,
+      "box": [
+        119,
+        474,
+        835,
+        498
+      ]
+    },
+    {
+      "text": "- Reviewed assessment results",
+      "score": 0.9963615536689758,
+      "box": [
+        126,
+        498,
+        418,
+        524
+      ]
+    },
+    {
+      "text": "- Prepared test review sessions",
+      "score": 0.988422691822052,
+      "box": [
+        128,
+        521,
+        421,
+        551
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Future Bridge Academy, 2012.102015.05",
+      "score": 0.988562285900116,
+      "box": [
+        117,
+        565,
+        857,
+        592
+      ]
+    },
+    {
+      "text": "- Reviewed curriculum content",
+      "score": 0.9981527924537659,
+      "box": [
+        126,
+        591,
+        412,
+        616
+      ]
+    },
+    {
+      "text": "- Maintained lesson documentation",
+      "score": 0.9954479336738586,
+      "box": [
+        125,
+        613,
+        454,
+        642
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999933123588562,
+      "box": [
+        117,
+        681,
+        266,
+        705
+      ]
+    },
+    {
+      "text": "Bachelor's, General Academic Studies, Riverway University, 2012",
+      "score": 0.9850183129310608,
+      "box": [
+        115,
+        722,
+        726,
+        751
+      ]
+    },
+    {
+      "text": "• Completed coursework in lesson effectiveness analysis",
+      "score": 0.9829877018928528,
+      "box": [
+        131,
+        749,
+        659,
+        774
+      ]
+    },
+    {
+      "text": "•Studied fundamentals of group learning dynamics",
+      "score": 0.9946988224983215,
+      "box": [
+        132,
+        773,
+        607,
+        800
+      ]
+    }
+  ],
+  "seconds": 3.1259766002185643,
+  "id": "25710",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

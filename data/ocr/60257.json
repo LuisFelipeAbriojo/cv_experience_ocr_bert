@@ -1,0 +1,112 @@
+{
+  "lines": [
+    {
+      "text": "CHAD FREEMAN",
+      "score": 0.9998288750648499,
+      "box": [
+        118,
+        91,
+        390,
+        122
+      ]
+    },
+    {
+      "text": "WI, USA | +1-740-881-2523 | chad.freeman@example.com",
+      "score": 0.9976661205291748,
+      "box": [
+        116,
+        149,
+        665,
+        177
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9997690320014954,
+      "box": [
+        117,
+        243,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Software Developers, Flowcrest Tech, 2021.052023.01",
+      "score": 0.9997856020927429,
+      "box": [
+        116,
+        289,
+        637,
+        316
+      ]
+    },
+    {
+      "text": "- Logged and tracked software defects",
+      "score": 0.9939153790473938,
+      "box": [
+        127,
+        316,
+        485,
+        340
+      ]
+    },
+    {
+      "text": "- Reviewed test coverage reports",
+      "score": 0.9943722486495972,
+      "box": [
+        128,
+        339,
+        436,
+        367
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999290108680725,
+      "box": [
+        116,
+        404,
+        268,
+        431
+      ]
+    },
+    {
+      "text": "Bachelor's, Shady Grove University, 2023",
+      "score": 0.9855263829231262,
+      "box": [
+        116,
+        448,
+        504,
+        475
+      ]
+    },
+    {
+      "text": "•Studied fundamentals of refactoring techniques",
+      "score": 0.9799507856369019,
+      "box": [
+        129,
+        472,
+        585,
+        501
+      ]
+    },
+    {
+      "text": "Completed coursework in schema design",
+      "score": 0.9994832873344421,
+      "box": [
+        132,
+        497,
+        530,
+        526
+      ]
+    }
+  ],
+  "seconds": 1.8660257002338767,
+  "id": "60257",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

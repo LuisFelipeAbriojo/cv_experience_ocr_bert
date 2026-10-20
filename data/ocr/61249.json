@@ -1,0 +1,202 @@
+{
+  "lines": [
+    {
+      "text": "GRAIG CHRISTIAN",
+      "score": 0.9854661226272583,
+      "box": [
+        118,
+        91,
+        419,
+        122
+      ]
+    },
+    {
+      "text": "WI, USA | +1-542-877-6982 | graig.christian@example.com",
+      "score": 0.9898282885551453,
+      "box": [
+        117,
+        150,
+        667,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9987919926643372,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Corewave Software, 2018.02—2023.01",
+      "score": 0.9895418286323547,
+      "box": [
+        117,
+        291,
+        677,
+        315
+      ]
+    },
+    {
+      "text": "- Defined technical documentation standards",
+      "score": 0.9997557997703552,
+      "box": [
+        127,
+        315,
+        541,
+        340
+      ]
+    },
+    {
+      "text": "- Designed high-availability systems",
+      "score": 0.9928866624832153,
+      "box": [
+        128,
+        340,
+        461,
+        369
+      ]
+    },
+    {
+      "text": "Software Developers, Brightway Systems, 2013.032018.02",
+      "score": 0.9965224266052246,
+      "box": [
+        115,
+        381,
+        675,
+        409
+      ]
+    },
+    {
+      "text": "- Implemented access control frameworks",
+      "score": 0.9771816730499268,
+      "box": [
+        127,
+        409,
+        515,
+        433
+      ]
+    },
+    {
+      "text": "- Designed deployment strategies",
+      "score": 0.9872292876243591,
+      "box": [
+        127,
+        431,
+        441,
+        460
+      ]
+    },
+    {
+      "text": "Software Developers, Datacrest Software, 2008.04—2013.03",
+      "score": 0.9794778823852539,
+      "box": [
+        116,
+        471,
+        675,
+        499
+      ]
+    },
+    {
+      "text": "- Developed access control logic",
+      "score": 0.9937317371368408,
+      "box": [
+        125,
+        497,
+        431,
+        525
+      ]
+    },
+    {
+      "text": "- Improved memory usage",
+      "score": 0.9992396235466003,
+      "box": [
+        127,
+        521,
+        375,
+        553
+      ]
+    },
+    {
+      "text": "Software Developers, Corepath Solutions, 2003.05—2008.04",
+      "score": 0.9854704141616821,
+      "box": [
+        118,
+        566,
+        674,
+        590
+      ]
+    },
+    {
+      "text": "- Handled input sanitization",
+      "score": 0.9899942278862,
+      "box": [
+        127,
+        591,
+        381,
+        615
+      ]
+    },
+    {
+      "text": "- Wrote configuration parsers",
+      "score": 0.9729146361351013,
+      "box": [
+        125,
+        613,
+        400,
+        645
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999150037765503,
+      "box": [
+        117,
+        681,
+        266,
+        705
+      ]
+    },
+    {
+      "text": "Some college (no degree), Pinefield University, 2002",
+      "score": 0.9893986582756042,
+      "box": [
+        116,
+        723,
+        606,
+        750
+      ]
+    },
+    {
+      "text": "•Completed coursework in computer programming fundamentals",
+      "score": 0.9874605536460876,
+      "box": [
+        132,
+        748,
+        737,
+        776
+      ]
+    },
+    {
+      "text": "•Completed coursework in message queues",
+      "score": 0.9894905090332031,
+      "box": [
+        132,
+        772,
+        550,
+        803
+      ]
+    }
+  ],
+  "seconds": 2.8328161002136767,
+  "id": "61249",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

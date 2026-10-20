@@ -1,0 +1,172 @@
+{
+  "lines": [
+    {
+      "text": "ANTHONY AVERY",
+      "score": 0.9821051359176636,
+      "box": [
+        117,
+        89,
+        407,
+        122
+      ]
+    },
+    {
+      "text": "CA, USA | +1-344-820-1304 | anthony.avery@example.com",
+      "score": 0.9818642139434814,
+      "box": [
+        116,
+        150,
+        672,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9658131003379822,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Softline Digital, 2020.08—2023.01",
+      "score": 0.9928784966468811,
+      "box": [
+        115,
+        288,
+        629,
+        316
+      ]
+    },
+    {
+      "text": "- Defined code review processes",
+      "score": 0.9948554635047913,
+      "box": [
+        126,
+        315,
+        433,
+        342
+      ]
+    },
+    {
+      "text": "- Led technical roadmap planning",
+      "score": 0.9995489716529846,
+      "box": [
+        129,
+        340,
+        437,
+        368
+      ]
+    },
+    {
+      "text": "Software Developers, Brightstream Labs, 2018.032020.08",
+      "score": 0.9932410717010498,
+      "box": [
+        117,
+        382,
+        666,
+        409
+      ]
+    },
+    {
+      "text": "- Developed microservices",
+      "score": 0.9940980672836304,
+      "box": [
+        127,
+        409,
+        376,
+        433
+      ]
+    },
+    {
+      "text": "- Improved build processes",
+      "score": 0.9952839612960815,
+      "box": [
+        128,
+        432,
+        380,
+        459
+      ]
+    },
+    {
+      "text": "Software Developers, Cloudcrest Systems, 2015.092018.03",
+      "score": 0.9982381463050842,
+      "box": [
+        116,
+        472,
+        681,
+        499
+      ]
+    },
+    {
+      "text": "- Created test data sets",
+      "score": 0.9856905937194824,
+      "box": [
+        128,
+        499,
+        347,
+        523
+      ]
+    },
+    {
+      "text": "- Wrote utility scripts",
+      "score": 0.9956545829772949,
+      "box": [
+        126,
+        520,
+        318,
+        551
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.99989914894104,
+      "box": [
+        117,
+        587,
+        267,
+        614
+      ]
+    },
+    {
+      "text": "Bachelor's, Greenwood University, 2014",
+      "score": 0.9887397885322571,
+      "box": [
+        118,
+        633,
+        490,
+        657
+      ]
+    },
+    {
+      "text": "Completed coursework in message queues",
+      "score": 0.9953259825706482,
+      "box": [
+        130,
+        656,
+        550,
+        686
+      ]
+    },
+    {
+      "text": "Completed coursework in thread synchronization",
+      "score": 0.9946054220199585,
+      "box": [
+        132,
+        680,
+        601,
+        709
+      ]
+    }
+  ],
+  "seconds": 2.385366099886596,
+  "id": "02998",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

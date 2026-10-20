@@ -1,0 +1,142 @@
+{
+  "lines": [
+    {
+      "text": "MILAD DANIELS",
+      "score": 0.9796149730682373,
+      "box": [
+        118,
+        91,
+        379,
+        122
+      ]
+    },
+    {
+      "text": "OH, USA | +1-438-592-8204 |milad.daniels@example.com",
+      "score": 0.9816932082176208,
+      "box": [
+        118,
+        151,
+        663,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9997689723968506,
+      "box": [
+        117,
+        243,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Construction Laborers, FirmBuild Services, 2019.08—2021.04",
+      "score": 0.9811891913414001,
+      "box": [
+        118,
+        290,
+        682,
+        314
+      ]
+    },
+    {
+      "text": "- Established project documentation systems",
+      "score": 0.9833348989486694,
+      "box": [
+        126,
+        315,
+        544,
+        340
+      ]
+    },
+    {
+      "text": "- Designed site logistics frameworks",
+      "score": 0.9835970997810364,
+      "box": [
+        127,
+        339,
+        462,
+        367
+      ]
+    },
+    {
+      "text": "Construction Laborers, SolidWorks Builders, 2016.09—2018.05",
+      "score": 0.9861931204795837,
+      "box": [
+        116,
+        380,
+        697,
+        408
+      ]
+    },
+    {
+      "text": "- Performed basic sanding and painting",
+      "score": 0.9910972714424133,
+      "box": [
+        125,
+        405,
+        493,
+        435
+      ]
+    },
+    {
+      "text": "- Prepared scaffolding platforms",
+      "score": 0.9792830944061279,
+      "box": [
+        127,
+        430,
+        427,
+        458
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999321699142456,
+      "box": [
+        117,
+        494,
+        267,
+        521
+      ]
+    },
+    {
+      "text": "Associate's degree, Construction Planning, Sunrise University, 2014",
+      "score": 0.9910299777984619,
+      "box": [
+        116,
+        539,
+        748,
+        567
+      ]
+    },
+    {
+      "text": "• Completed coursework in construction site organization",
+      "score": 0.9906409382820129,
+      "box": [
+        131,
+        566,
+        659,
+        591
+      ]
+    },
+    {
+      "text": "• Completed coursework in building codes overview",
+      "score": 0.9834948182106018,
+      "box": [
+        132,
+        591,
+        612,
+        616
+      ]
+    }
+  ],
+  "seconds": 2.381953800097108,
+  "id": "43248",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

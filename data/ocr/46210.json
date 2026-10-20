@@ -1,0 +1,182 @@
+{
+  "lines": [
+    {
+      "text": "JASON RICE",
+      "score": 0.9998639822006226,
+      "box": [
+        116,
+        91,
+        322,
+        122
+      ]
+    },
+    {
+      "text": "PA, USA | +1-263-286-9319 | jason.rice@example.com",
+      "score": 0.9841434955596924,
+      "box": [
+        116,
+        151,
+        628,
+        177
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9991481304168701,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Kind Futures School, 2019.112023.01",
+      "score": 0.9960641860961914,
+      "box": [
+        116,
+        288,
+        824,
+        317
+      ]
+    },
+    {
+      "text": "- Directed instructional planning processes",
+      "score": 0.983528196811676,
+      "box": [
+        126,
+        314,
+        522,
+        344
+      ]
+    },
+    {
+      "text": "- Designed literacy development programs",
+      "score": 0.9767004251480103,
+      "box": [
+        126,
+        340,
+        521,
+        369
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Bright Learning School, 2016.092019.11",
+      "score": 0.9837994575500488,
+      "box": [
+        115,
+        380,
+        851,
+        413
+      ]
+    },
+    {
+      "text": "- Created assessment rubrics",
+      "score": 0.9917432069778442,
+      "box": [
+        126,
+        408,
+        403,
+        433
+      ]
+    },
+    {
+      "text": "- Developed instructional resources",
+      "score": 0.9987594485282898,
+      "box": [
+        128,
+        434,
+        456,
+        457
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Learning Stone Academy, 2013.06—2016.09",
+      "score": 0.9854574203491211,
+      "box": [
+        117,
+        471,
+        872,
+        500
+      ]
+    },
+    {
+      "text": "- Prepared visual teaching aids",
+      "score": 0.9817910194396973,
+      "box": [
+        126,
+        497,
+        419,
+        525
+      ]
+    },
+    {
+      "text": "- Prepared daily lesson plans aligned with curriculum guidelines",
+      "score": 0.980168342590332,
+      "box": [
+        127,
+        520,
+        717,
+        552
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9998947978019714,
+      "box": [
+        117,
+        587,
+        267,
+        614
+      ]
+    },
+    {
+      "text": "Master's, General Academic Studies, Meadowview University, 2014",
+      "score": 0.9992489814758301,
+      "box": [
+        115,
+        631,
+        743,
+        659
+      ]
+    },
+    {
+      "text": "Bachelor's, Child Development, Morningstar University, 2012",
+      "score": 0.9904357194900513,
+      "box": [
+        117,
+        659,
+        680,
+        683
+      ]
+    },
+    {
+      "text": "• Completed coursework in foundational assessment tools",
+      "score": 0.9938898086547852,
+      "box": [
+        133,
+        684,
+        669,
+        708
+      ]
+    },
+    {
+      "text": "•Studied principles of academic progress tracking",
+      "score": 0.9811254143714905,
+      "box": [
+        132,
+        706,
+        597,
+        736
+      ]
+    }
+  ],
+  "seconds": 2.8975173998624086,
+  "id": "46210",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

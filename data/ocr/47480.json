@@ -1,0 +1,112 @@
+{
+  "lines": [
+    {
+      "text": "COREY GARNER",
+      "score": 0.9977700710296631,
+      "box": [
+        117,
+        89,
+        392,
+        123
+      ]
+    },
+    {
+      "text": "SC, USA | +1-786-961-7270 | corey.garner@example.com",
+      "score": 0.9853447675704956,
+      "box": [
+        117,
+        150,
+        658,
+        177
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9993670582771301,
+      "box": [
+        116,
+        243,
+        317,
+        270
+      ]
+    },
+    {
+      "text": "Construction Laborers, Reliable Frame Co., 2021.05—2021.07",
+      "score": 0.9926885366439819,
+      "box": [
+        118,
+        289,
+        687,
+        313
+      ]
+    },
+    {
+      "text": "- Applied basic sealants and adhesives",
+      "score": 0.9928094744682312,
+      "box": [
+        126,
+        315,
+        491,
+        339
+      ]
+    },
+    {
+      "text": "- Secured site fencing",
+      "score": 0.9798364639282227,
+      "box": [
+        126,
+        337,
+        333,
+        368
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999513626098633,
+      "box": [
+        116,
+        404,
+        268,
+        431
+      ]
+    },
+    {
+      "text": "Some college (no degree), HVAC Technology, Brookway University, 2010",
+      "score": 0.9879785180091858,
+      "box": [
+        115,
+        445,
+        801,
+        477
+      ]
+    },
+    {
+      "text": "•Completed coursework in construction waste management",
+      "score": 0.9905202388763428,
+      "box": [
+        132,
+        473,
+        691,
+        500
+      ]
+    },
+    {
+      "text": "Completed coursework in construction site security",
+      "score": 0.9813355207443237,
+      "box": [
+        132,
+        497,
+        618,
+        526
+      ]
+    }
+  ],
+  "seconds": 2.0621369001455605,
+  "id": "47480",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

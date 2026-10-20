@@ -1,0 +1,122 @@
+{
+  "lines": [
+    {
+      "text": "ASHLEY STEPHENSON",
+      "score": 0.9996255040168762,
+      "box": [
+        116,
+        90,
+        492,
+        122
+      ]
+    },
+    {
+      "text": "MA, USA | +1-702-234-8269 |ashley.stephenson@example.com",
+      "score": 0.9832475781440735,
+      "box": [
+        117,
+        152,
+        716,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9990105628967285,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Golden Futures Academy, 2019.08—2020.04",
+      "score": 0.9907082319259644,
+      "box": [
+        116,
+        288,
+        875,
+        316
+      ]
+    },
+    {
+      "text": "- Implemented basic classroom management procedures",
+      "score": 0.9916184544563293,
+      "box": [
+        125,
+        314,
+        656,
+        342
+      ]
+    },
+    {
+      "text": "- Recorded behavioral observations",
+      "score": 0.9995596408843994,
+      "box": [
+        127,
+        339,
+        459,
+        365
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999532699584961,
+      "box": [
+        116,
+        404,
+        268,
+        431
+      ]
+    },
+    {
+      "text": "Master's, General Education, Greenway University, 2008",
+      "score": 0.9903439879417419,
+      "box": [
+        114,
+        447,
+        643,
+        475
+      ]
+    },
+    {
+      "text": "Bachelor's, Introductory Education, Clearhaven University, 2006",
+      "score": 0.9770544171333313,
+      "box": [
+        115,
+        472,
+        709,
+        500
+      ]
+    },
+    {
+      "text": "Completed coursework in educational skill building",
+      "score": 0.9937171339988708,
+      "box": [
+        131,
+        497,
+        616,
+        527
+      ]
+    },
+    {
+      "text": "Completed coursework in basic mentoring strategies",
+      "score": 0.9998427033424377,
+      "box": [
+        132,
+        521,
+        634,
+        552
+      ]
+    }
+  ],
+  "seconds": 2.594227399677038,
+  "id": "25819",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

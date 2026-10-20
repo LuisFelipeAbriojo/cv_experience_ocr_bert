@@ -1,0 +1,212 @@
+{
+  "lines": [
+    {
+      "text": "OLIVIA WILSON",
+      "score": 0.9997727870941162,
+      "box": [
+        117,
+        91,
+        373,
+        122
+      ]
+    },
+    {
+      "text": "FL, USA | +1-865-913-8978 | olivia.wilson@example.com",
+      "score": 0.975943922996521,
+      "box": [
+        117,
+        150,
+        647,
+        177
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9991753101348877,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, SteadyCount Group, 2018.09—2023.01",
+      "score": 0.9963003396987915,
+      "box": [
+        115,
+        288,
+        683,
+        317
+      ]
+    },
+    {
+      "text": "- Established financial quality controls",
+      "score": 0.9813909530639648,
+      "box": [
+        128,
+        317,
+        477,
+        341
+      ]
+    },
+    {
+      "text": "- Developed regulatory reporting strategies",
+      "score": 0.997947633266449,
+      "box": [
+        128,
+        340,
+        525,
+        368
+      ]
+    },
+    {
+      "text": "Accountants Auditors, FairLedger Financial Group, 2014.042018.09",
+      "score": 0.9888997673988342,
+      "box": [
+        116,
+        381,
+        754,
+        409
+      ]
+    },
+    {
+      "text": "- Led financial data standardization",
+      "score": 0.9849245548248291,
+      "box": [
+        126,
+        409,
+        453,
+        432
+      ]
+    },
+    {
+      "text": "- Directed accounting system implementations",
+      "score": 0.9799931049346924,
+      "box": [
+        127,
+        432,
+        556,
+        458
+      ]
+    },
+    {
+      "text": "Accountants Auditors, AccuCount Financial, 2009.112014.04",
+      "score": 0.9993400573730469,
+      "box": [
+        118,
+        474,
+        692,
+        498
+      ]
+    },
+    {
+      "text": "- Managed monthly close processes",
+      "score": 0.9788312911987305,
+      "box": [
+        125,
+        497,
+        465,
+        526
+      ]
+    },
+    {
+      "text": "- Prepared cost allocation models",
+      "score": 0.9860126376152039,
+      "box": [
+        127,
+        521,
+        440,
+        549
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Precision Ledger, 2005.06—2009.11",
+      "score": 0.9922342896461487,
+      "box": [
+        117,
+        566,
+        655,
+        590
+      ]
+    },
+    {
+      "text": "- Verified financial transactions",
+      "score": 0.9990403056144714,
+      "box": [
+        126,
+        590,
+        415,
+        616
+      ]
+    },
+    {
+      "text": "- Assisted with financial statement preparation",
+      "score": 0.9798170328140259,
+      "box": [
+        126,
+        613,
+        555,
+        642
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999338984489441,
+      "box": [
+        117,
+        681,
+        266,
+        705
+      ]
+    },
+    {
+      "text": "Master's, Economics, Willowgate University, 2013",
+      "score": 0.9747665524482727,
+      "box": [
+        116,
+        724,
+        579,
+        750
+      ]
+    },
+    {
+      "text": "Bachelor's, Business Management, Vista University, 2011",
+      "score": 0.9866448640823364,
+      "box": [
+        115,
+        747,
+        651,
+        776
+      ]
+    },
+    {
+      "text": "• Completed coursework in financial modeling basics",
+      "score": 0.9875098466873169,
+      "box": [
+        131,
+        775,
+        620,
+        799
+      ]
+    },
+    {
+      "text": "•Studied fundamentals of financial management",
+      "score": 0.9863150715827942,
+      "box": [
+        130,
+        798,
+        585,
+        826
+      ]
+    }
+  ],
+  "seconds": 2.931701000314206,
+  "id": "11857",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

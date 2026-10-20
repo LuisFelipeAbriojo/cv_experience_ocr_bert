@@ -1,0 +1,172 @@
+{
+  "lines": [
+    {
+      "text": "CANDICE DICKSON",
+      "score": 0.9998157620429993,
+      "box": [
+        117,
+        90,
+        434,
+        122
+      ]
+    },
+    {
+      "text": "SC, USA | +1-303-209-6952 | candice.dickson@example.com",
+      "score": 0.9813334345817566,
+      "box": [
+        116,
+        150,
+        689,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9991812109947205,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Future Horizons Academy, 2020.09—2023.01",
+      "score": 0.987891435623169,
+      "box": [
+        117,
+        289,
+        878,
+        316
+      ]
+    },
+    {
+      "text": "- Directed program effectiveness studies",
+      "score": 0.9907417297363281,
+      "box": [
+        124,
+        314,
+        503,
+        343
+      ]
+    },
+    {
+      "text": "- Established instructional best practices",
+      "score": 0.9984045624732971,
+      "box": [
+        126,
+        340,
+        501,
+        367
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Learning Start School, 2017.082019.12",
+      "score": 0.9974436163902283,
+      "box": [
+        116,
+        381,
+        841,
+        411
+      ]
+    },
+    {
+      "text": "- Developed math enrichment lessons",
+      "score": 0.9995010495185852,
+      "box": [
+        125,
+        406,
+        481,
+        435
+      ]
+    },
+    {
+      "text": "- Evaluated learning outcomes",
+      "score": 0.9972335696220398,
+      "box": [
+        126,
+        431,
+        412,
+        461
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Bright Steps Academy, 2014.042016.08",
+      "score": 0.9967436194419861,
+      "box": [
+        117,
+        471,
+        845,
+        501
+      ]
+    },
+    {
+      "text": "- Implemented classroom seating plans",
+      "score": 0.9861783981323242,
+      "box": [
+        125,
+        496,
+        494,
+        526
+      ]
+    },
+    {
+      "text": "- Supervised classroom activities",
+      "score": 0.9821346402168274,
+      "box": [
+        127,
+        520,
+        435,
+        551
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999216794967651,
+      "box": [
+        117,
+        587,
+        267,
+        614
+      ]
+    },
+    {
+      "text": "Associate's degree, Learning and Development, Brookwood University, 2010",
+      "score": 0.9968970417976379,
+      "box": [
+        116,
+        631,
+        827,
+        659
+      ]
+    },
+    {
+      "text": "• Studied principles of lesson planning",
+      "score": 0.9815924167633057,
+      "box": [
+        128,
+        658,
+        487,
+        686
+      ]
+    },
+    {
+      "text": "•Studied principles of student engagement",
+      "score": 0.9797598719596863,
+      "box": [
+        130,
+        681,
+        534,
+        709
+      ]
+    }
+  ],
+  "seconds": 3.302966400049627,
+  "id": "47858",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

@@ -1,0 +1,202 @@
+{
+  "lines": [
+    {
+      "text": "SARAH BURKE",
+      "score": 0.9982427954673767,
+      "box": [
+        117,
+        91,
+        363,
+        122
+      ]
+    },
+    {
+      "text": "TN, USA | +1-668-454-2380 | sarah.burke@example.com",
+      "score": 0.971791684627533,
+      "box": [
+        119,
+        152,
+        648,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9991461634635925,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, Caring Hands Care, 2018.06—2023.01",
+      "score": 0.9863103032112122,
+      "box": [
+        117,
+        290,
+        653,
+        317
+      ]
+    },
+    {
+      "text": "- Developed nursing training programs",
+      "score": 0.9954653382301331,
+      "box": [
+        125,
+        314,
+        486,
+        344
+      ]
+    },
+    {
+      "text": "- Established quality assurance systems",
+      "score": 0.9935691952705383,
+      "box": [
+        126,
+        339,
+        501,
+        369
+      ]
+    },
+    {
+      "text": "Registered Nurses, GentleLife Health, 2013.112018.06",
+      "score": 0.9952465891838074,
+      "box": [
+        118,
+        383,
+        636,
+        407
+      ]
+    },
+    {
+      "text": "- Developed nursing policy frameworks",
+      "score": 0.999696671962738,
+      "box": [
+        125,
+        406,
+        489,
+        434
+      ]
+    },
+    {
+      "text": "- Implemented care pathway frameworks",
+      "score": 0.995749294757843,
+      "box": [
+        127,
+        431,
+        506,
+        459
+      ]
+    },
+    {
+      "text": "Registered Nurses, BrightCare Clinics, 2009.042013.11",
+      "score": 0.9936141967773438,
+      "box": [
+        118,
+        474,
+        640,
+        498
+      ]
+    },
+    {
+      "text": "- Conducted comprehensive patient assessments",
+      "score": 0.972969114780426,
+      "box": [
+        126,
+        497,
+        587,
+        526
+      ]
+    },
+    {
+      "text": "- Coordinated interdisciplinary care",
+      "score": 0.9902575016021729,
+      "box": [
+        127,
+        521,
+        455,
+        551
+      ]
+    },
+    {
+      "text": "Registered Nurses, Harmony Care Group, 2004.09—2009.04",
+      "score": 0.9703884720802307,
+      "box": [
+        118,
+        566,
+        675,
+        590
+      ]
+    },
+    {
+      "text": "- Monitored patient recovery",
+      "score": 0.9978817105293274,
+      "box": [
+        127,
+        589,
+        393,
+        619
+      ]
+    },
+    {
+      "text": "- Performed basic life support procedures",
+      "score": 0.9823790788650513,
+      "box": [
+        126,
+        613,
+        513,
+        643
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999163746833801,
+      "box": [
+        117,
+        681,
+        266,
+        705
+      ]
+    },
+    {
+      "text": "Associate's degree, Health and Human Services, Meadowfield University, 2005",
+      "score": 0.9937699437141418,
+      "box": [
+        116,
+        723,
+        848,
+        750
+      ]
+    },
+    {
+      "text": "• Completed coursework in nutrition for health",
+      "score": 0.9934866428375244,
+      "box": [
+        134,
+        750,
+        557,
+        774
+      ]
+    },
+    {
+      "text": "Completed coursework in clinical reporting",
+      "score": 0.9992901682853699,
+      "box": [
+        132,
+        772,
+        541,
+        802
+      ]
+    }
+  ],
+  "seconds": 16.707466300111264,
+  "id": "48630",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

@@ -1,0 +1,172 @@
+{
+  "lines": [
+    {
+      "text": "GIANNA KNAPP",
+      "score": 0.9997453689575195,
+      "box": [
+        117,
+        89,
+        376,
+        122
+      ]
+    },
+    {
+      "text": "CA, USA | +1-995-800-1279 | gianna.knapp@example.com",
+      "score": 0.9889668822288513,
+      "box": [
+        116,
+        150,
+        666,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9990584850311279,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, KindHands Health Services, 2020.06—2023.01",
+      "score": 0.9922804832458496,
+      "box": [
+        118,
+        290,
+        728,
+        314
+      ]
+    },
+    {
+      "text": "- Developed staffing allocation models",
+      "score": 0.9979004859924316,
+      "box": [
+        125,
+        313,
+        483,
+        342
+      ]
+    },
+    {
+      "text": "- Managed clinical resource planning",
+      "score": 0.9925271272659302,
+      "box": [
+        127,
+        340,
+        468,
+        368
+      ]
+    },
+    {
+      "text": "Registered Nurses, Harmony Way Health, 2017.112020.06",
+      "score": 0.9902936816215515,
+      "box": [
+        117,
+        382,
+        674,
+        409
+      ]
+    },
+    {
+      "text": "- Monitored infusion pump settings",
+      "score": 0.9727343320846558,
+      "box": [
+        125,
+        407,
+        450,
+        434
+      ]
+    },
+    {
+      "text": "- Monitored cardiac telemetry",
+      "score": 0.9791119694709778,
+      "box": [
+        126,
+        430,
+        399,
+        460
+      ]
+    },
+    {
+      "text": "Registered Nurses, Compassion Health Group, 2015.032017.11",
+      "score": 0.9916799664497375,
+      "box": [
+        117,
+        472,
+        721,
+        499
+      ]
+    },
+    {
+      "text": "- Recorded shift handoff notes",
+      "score": 0.9986390471458435,
+      "box": [
+        126,
+        497,
+        410,
+        523
+      ]
+    },
+    {
+      "text": "- Monitored oxygen therapy",
+      "score": 0.9992998838424683,
+      "box": [
+        127,
+        520,
+        384,
+        552
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999513626098633,
+      "box": [
+        118,
+        588,
+        266,
+        612
+      ]
+    },
+    {
+      "text": "Associate's degree, Health Services Administration, Brookside University, 2014",
+      "score": 0.9886021018028259,
+      "box": [
+        118,
+        632,
+        847,
+        656
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of vital signs monitoring",
+      "score": 0.9884287714958191,
+      "box": [
+        129,
+        657,
+        574,
+        684
+      ]
+    },
+    {
+      "text": "Completed coursework in metabolic disorders basics",
+      "score": 0.9997180104255676,
+      "box": [
+        132,
+        680,
+        636,
+        709
+      ]
+    }
+  ],
+  "seconds": 4.052133399993181,
+  "id": "02583",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

@@ -1,0 +1,202 @@
+{
+  "lines": [
+    {
+      "text": "MARY PERRY",
+      "score": 0.999285876750946,
+      "box": [
+        117,
+        91,
+        341,
+        121
+      ]
+    },
+    {
+      "text": "AZ, USA | +1-311-882-3783 | mary.perry@example.com",
+      "score": 0.9920404553413391,
+      "box": [
+        116,
+        150,
+        638,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9613265991210938,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Bright River Academy, 2018.112023.01",
+      "score": 0.9965816140174866,
+      "box": [
+        117,
+        290,
+        838,
+        317
+      ]
+    },
+    {
+      "text": "- Implemented data analysis frameworks",
+      "score": 0.9909299612045288,
+      "box": [
+        125,
+        314,
+        505,
+        342
+      ]
+    },
+    {
+      "text": "- Led professional development planning",
+      "score": 0.98833829164505,
+      "box": [
+        127,
+        339,
+        505,
+        369
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Discovery Start School, 2014.092018.11",
+      "score": 0.9985023140907288,
+      "box": [
+        116,
+        381,
+        850,
+        411
+      ]
+    },
+    {
+      "text": "- Directed instructional planning processes",
+      "score": 0.9906976222991943,
+      "box": [
+        125,
+        407,
+        522,
+        434
+      ]
+    },
+    {
+      "text": "- Established curriculum evaluation protocols",
+      "score": 0.9974818825721741,
+      "box": [
+        125,
+        430,
+        544,
+        459
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Bright Meadows Academy, 2010.06—2014.09",
+      "score": 0.9933827519416809,
+      "box": [
+        117,
+        472,
+        880,
+        499
+      ]
+    },
+    {
+      "text": "- Developed math enrichment lessons",
+      "score": 0.9948439598083496,
+      "box": [
+        126,
+        498,
+        480,
+        524
+      ]
+    },
+    {
+      "text": "- Created assessment rubrics",
+      "score": 0.9916608929634094,
+      "box": [
+        127,
+        522,
+        402,
+        548
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Golden Grove Academy, 2006.03—2010.06",
+      "score": 0.9894856214523315,
+      "box": [
+        116,
+        564,
+        861,
+        592
+      ]
+    },
+    {
+      "text": "- Assisted with small group instruction activities",
+      "score": 0.993878185749054,
+      "box": [
+        126,
+        591,
+        564,
+        615
+      ]
+    },
+    {
+      "text": "- Prepared visual teaching aids",
+      "score": 0.9846881031990051,
+      "box": [
+        126,
+        614,
+        417,
+        642
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999229907989502,
+      "box": [
+        117,
+        681,
+        266,
+        705
+      ]
+    },
+    {
+      "text": "Some college (no degree), Student Development, Riverfield University, 2007",
+      "score": 0.9918561577796936,
+      "box": [
+        116,
+        723,
+        824,
+        750
+      ]
+    },
+    {
+      "text": "• Completed coursework in academic content planning",
+      "score": 0.9952539205551147,
+      "box": [
+        132,
+        751,
+        637,
+        775
+      ]
+    },
+    {
+      "text": "Studied foundational teaching methods",
+      "score": 0.9993130564689636,
+      "box": [
+        131,
+        772,
+        510,
+        800
+      ]
+    }
+  ],
+  "seconds": 3.1841194997541606,
+  "id": "01017",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

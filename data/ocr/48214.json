@@ -1,0 +1,202 @@
+{
+  "lines": [
+    {
+      "text": "LATORIE KLEIN",
+      "score": 0.9998286962509155,
+      "box": [
+        117,
+        91,
+        373,
+        122
+      ]
+    },
+    {
+      "text": "SD, USA | +1-383-800-5712 | latorie.klein@example.com",
+      "score": 0.9773105978965759,
+      "box": [
+        116,
+        150,
+        646,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9991641640663147,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Kindlewood School, 2019.072023.01",
+      "score": 0.9982591271400452,
+      "box": [
+        117,
+        290,
+        814,
+        317
+      ]
+    },
+    {
+      "text": "- Designed learning analytics frameworks",
+      "score": 0.9930816888809204,
+      "box": [
+        127,
+        317,
+        510,
+        341
+      ]
+    },
+    {
+      "text": "- Designed instructional governance models",
+      "score": 0.9771140217781067,
+      "box": [
+        126,
+        340,
+        535,
+        368
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Little Meadow School, 2016.012019.07",
+      "score": 0.9897850155830383,
+      "box": [
+        117,
+        382,
+        836,
+        409
+      ]
+    },
+    {
+      "text": "- Developed instructional evaluation metrics",
+      "score": 0.9888741970062256,
+      "box": [
+        126,
+        408,
+        533,
+        433
+      ]
+    },
+    {
+      "text": "- Developed learning progression models",
+      "score": 0.9733427166938782,
+      "box": [
+        126,
+        431,
+        510,
+        459
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Learning Stone Academy, 2011.08—2015.02",
+      "score": 0.9909553527832031,
+      "box": [
+        116,
+        470,
+        873,
+        501
+      ]
+    },
+    {
+      "text": "- Prepared test review sessions",
+      "score": 0.9986363649368286,
+      "box": [
+        126,
+        498,
+        422,
+        524
+      ]
+    },
+    {
+      "text": "- Analyzed student performance data",
+      "score": 0.9810487031936646,
+      "box": [
+        127,
+        521,
+        472,
+        550
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Bright Oaks School, 2007.082011.02",
+      "score": 0.9915476441383362,
+      "box": [
+        118,
+        566,
+        816,
+        590
+      ]
+    },
+    {
+      "text": "- Recorded student progress data",
+      "score": 0.9868000745773315,
+      "box": [
+        126,
+        590,
+        442,
+        617
+      ]
+    },
+    {
+      "text": "- Distributed instructional handouts",
+      "score": 0.9958353042602539,
+      "box": [
+        125,
+        613,
+        452,
+        642
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999363422393799,
+      "box": [
+        117,
+        681,
+        266,
+        705
+      ]
+    },
+    {
+      "text": "Bachelor's, Learning and Teaching Studies, Meadowfield University, 2006",
+      "score": 0.9966369271278381,
+      "box": [
+        115,
+        723,
+        800,
+        750
+      ]
+    },
+    {
+      "text": "• Studied principles of early childhood education",
+      "score": 0.9908614754676819,
+      "box": [
+        132,
+        750,
+        579,
+        774
+      ]
+    },
+    {
+      "text": "•Completed coursework in classroom structure planning",
+      "score": 0.9925464391708374,
+      "box": [
+        132,
+        772,
+        656,
+        802
+      ]
+    }
+  ],
+  "seconds": 3.281630299985409,
+  "id": "48214",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

@@ -1,0 +1,212 @@
+{
+  "lines": [
+    {
+      "text": "AMBER WASHINGTON",
+      "score": 0.9997621774673462,
+      "box": [
+        118,
+        92,
+        482,
+        122
+      ]
+    },
+    {
+      "text": "IL, USA | +1-888-594-6462 | amber.washington@example.com",
+      "score": 0.9954988360404968,
+      "box": [
+        116,
+        150,
+        700,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.999011754989624,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, FairLedger Group, 2020.05—2023.01",
+      "score": 0.990039050579071,
+      "box": [
+        115,
+        288,
+        664,
+        318
+      ]
+    },
+    {
+      "text": "- Established accounting policies",
+      "score": 0.9888738989830017,
+      "box": [
+        127,
+        317,
+        433,
+        341
+      ]
+    },
+    {
+      "text": "- Established financial reporting standards",
+      "score": 0.9917535781860352,
+      "box": [
+        126,
+        339,
+        518,
+        368
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Integrity Books Co., 2017.09—2020.05",
+      "score": 0.9852989912033081,
+      "box": [
+        117,
+        382,
+        677,
+        409
+      ]
+    },
+    {
+      "text": "- Led financial forecasting initiatives",
+      "score": 0.9932572841644287,
+      "box": [
+        128,
+        408,
+        459,
+        434
+      ]
+    },
+    {
+      "text": "- Established audit governance structures",
+      "score": 0.9640025496482849,
+      "box": [
+        127,
+        431,
+        513,
+        459
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Integrity Books Financial Group, 2014.12—2017.09",
+      "score": 0.9846861958503723,
+      "box": [
+        115,
+        471,
+        792,
+        499
+      ]
+    },
+    {
+      "text": "- Developed financial models",
+      "score": 0.9996733665466309,
+      "box": [
+        125,
+        497,
+        399,
+        526
+      ]
+    },
+    {
+      "text": "- Prepared cash flow statements",
+      "score": 0.9731559753417969,
+      "box": [
+        127,
+        521,
+        430,
+        550
+      ]
+    },
+    {
+      "text": "Accountants Auditors, FairBalance Financial, 2010.082013.05",
+      "score": 0.9982996582984924,
+      "box": [
+        118,
+        566,
+        701,
+        590
+      ]
+    },
+    {
+      "text": "- Maintained supporting documentation",
+      "score": 0.9968336224555969,
+      "box": [
+        127,
+        590,
+        491,
+        618
+      ]
+    },
+    {
+      "text": "- Reviewed credit memos",
+      "score": 0.9961056113243103,
+      "box": [
+        127,
+        614,
+        367,
+        643
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9998980760574341,
+      "box": [
+        117,
+        681,
+        266,
+        705
+      ]
+    },
+    {
+      "text": "Master's, Supply Chain Management, Forestview University, 2007",
+      "score": 0.9983963370323181,
+      "box": [
+        115,
+        723,
+        728,
+        751
+      ]
+    },
+    {
+      "text": "Bachelor's, Accounting and Finance, Brightwater University, 2005",
+      "score": 0.9922186136245728,
+      "box": [
+        116,
+        748,
+        723,
+        775
+      ]
+    },
+    {
+      "text": "•Completed coursework in segment reporting",
+      "score": 0.9738511443138123,
+      "box": [
+        129,
+        773,
+        558,
+        802
+      ]
+    },
+    {
+      "text": "•Completed coursework in public sector accounting",
+      "score": 0.982175886631012,
+      "box": [
+        131,
+        798,
+        613,
+        827
+      ]
+    }
+  ],
+  "seconds": 3.062824400141835,
+  "id": "18757",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

@@ -1,0 +1,172 @@
+{
+  "lines": [
+    {
+      "text": "JEFFREY MILLS",
+      "score": 0.977980375289917,
+      "box": [
+        116,
+        91,
+        377,
+        121
+      ]
+    },
+    {
+      "text": "CA, USA | +1-800-279-3601 | jeffrey.mills@example.com",
+      "score": 0.9863828420639038,
+      "box": [
+        118,
+        152,
+        644,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.999116837978363,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, EverBuild Co., 2019.112023.01",
+      "score": 0.9948312044143677,
+      "box": [
+        118,
+        290,
+        633,
+        314
+      ]
+    },
+    {
+      "text": "- Established project documentation systems",
+      "score": 0.983954668045044,
+      "box": [
+        126,
+        315,
+        543,
+        341
+      ]
+    },
+    {
+      "text": "- Supervised high-risk operations",
+      "score": 0.9882106184959412,
+      "box": [
+        127,
+        340,
+        435,
+        368
+      ]
+    },
+    {
+      "text": "Construction Laborers, HardStone Builders, 2016.082019.11",
+      "score": 0.9881560206413269,
+      "box": [
+        118,
+        383,
+        688,
+        407
+      ]
+    },
+    {
+      "text": "- Conducted site safety inspections",
+      "score": 0.9882283806800842,
+      "box": [
+        126,
+        408,
+        453,
+        432
+      ]
+    },
+    {
+      "text": "- Reviewed installation quality",
+      "score": 0.9988676309585571,
+      "box": [
+        127,
+        430,
+        404,
+        459
+      ]
+    },
+    {
+      "text": "Construction Laborers, NextLine Construction, 2010.072013.10",
+      "score": 0.9912238717079163,
+      "box": [
+        119,
+        473,
+        713,
+        497
+      ]
+    },
+    {
+      "text": "- Stacked and organized construction supplies",
+      "score": 0.972651481628418,
+      "box": [
+        126,
+        498,
+        558,
+        525
+      ]
+    },
+    {
+      "text": "- Marked measurements on materials",
+      "score": 0.9934192895889282,
+      "box": [
+        128,
+        521,
+        475,
+        547
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9998965859413147,
+      "box": [
+        117,
+        586,
+        267,
+        613
+      ]
+    },
+    {
+      "text": "Some college (no degree), Construction Fundamentals, Willowcrest University, 2004",
+      "score": 0.9968907833099365,
+      "box": [
+        117,
+        632,
+        897,
+        659
+      ]
+    },
+    {
+      "text": "• Completed coursework in basic painting techniques",
+      "score": 0.9931422472000122,
+      "box": [
+        132,
+        659,
+        624,
+        683
+      ]
+    },
+    {
+      "text": "Completed coursework in construction mathematics",
+      "score": 0.9990394711494446,
+      "box": [
+        132,
+        680,
+        626,
+        708
+      ]
+    }
+  ],
+  "seconds": 2.717350199818611,
+  "id": "04344",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

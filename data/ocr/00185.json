@@ -1,0 +1,132 @@
+{
+  "lines": [
+    {
+      "text": "JACOB WEBER",
+      "score": 0.9992828965187073,
+      "box": [
+        116,
+        90,
+        369,
+        121
+      ]
+    },
+    {
+      "text": "AL, USA | +1-358-435-6598 | jacob.weber@example.com",
+      "score": 0.9819487929344177,
+      "box": [
+        116,
+        149,
+        650,
+        177
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9997825622558594,
+      "box": [
+        117,
+        243,
+        315,
+        270
+      ]
+    },
+    {
+      "text": "Construction Laborers, MasterBuild Services, 2021.032023.01",
+      "score": 0.9985977411270142,
+      "box": [
+        118,
+        290,
+        703,
+        314
+      ]
+    },
+    {
+      "text": "- Led structural installation projects",
+      "score": 0.9944343566894531,
+      "box": [
+        126,
+        314,
+        452,
+        340
+      ]
+    },
+    {
+      "text": "- Designed construction staging plans",
+      "score": 0.9981884360313416,
+      "box": [
+        127,
+        338,
+        477,
+        368
+      ]
+    },
+    {
+      "text": "Construction Laborers, PrimeStone Contractors, 2019.05—2021.03",
+      "score": 0.9810797572135925,
+      "box": [
+        116,
+        380,
+        732,
+        408
+      ]
+    },
+    {
+      "text": "- Followed blueprint instructions",
+      "score": 0.9971105456352234,
+      "box": [
+        125,
+        406,
+        424,
+        432
+      ]
+    },
+    {
+      "text": "- Maintained cleanliness of work areas",
+      "score": 0.9973031878471375,
+      "box": [
+        127,
+        430,
+        484,
+        456
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999487400054932,
+      "box": [
+        118,
+        495,
+        266,
+        519
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Construction Drafting, Aspen Grove High School, 2020",
+      "score": 0.9885826110839844,
+      "box": [
+        118,
+        541,
+        881,
+        565
+      ]
+    },
+    {
+      "text": "•Studied principles of building materials",
+      "score": 0.9862848520278931,
+      "box": [
+        134,
+        567,
+        505,
+        591
+      ]
+    }
+  ],
+  "seconds": 2.316019400022924,
+  "id": "00185",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

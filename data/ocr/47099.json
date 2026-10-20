@@ -1,0 +1,172 @@
+{
+  "lines": [
+    {
+      "text": "TARA HOOD",
+      "score": 0.9949557781219482,
+      "box": [
+        117,
+        90,
+        320,
+        121
+      ]
+    },
+    {
+      "text": "RI, USA | +1-400-906-2065 | tara.hood@example.com",
+      "score": 0.9752746820449829,
+      "box": [
+        117,
+        151,
+        621,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.999103844165802,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, LifeSpring Medical Services, 2020.02—2023.01",
+      "score": 0.9904440641403198,
+      "box": [
+        116,
+        288,
+        733,
+        318
+      ]
+    },
+    {
+      "text": "- Managed clinical risk assessments",
+      "score": 0.9895073175430298,
+      "box": [
+        126,
+        313,
+        463,
+        342
+      ]
+    },
+    {
+      "text": "- Implemented care standardization",
+      "score": 0.9916974306106567,
+      "box": [
+        127,
+        338,
+        457,
+        367
+      ]
+    },
+    {
+      "text": "Registered Nurses, TrueWell Nursing, 2017.032020.02",
+      "score": 0.9943935871124268,
+      "box": [
+        118,
+        383,
+        636,
+        407
+      ]
+    },
+    {
+      "text": "- Reviewed care plan outcomes",
+      "score": 0.9940500855445862,
+      "box": [
+        125,
+        407,
+        422,
+        434
+      ]
+    },
+    {
+      "text": "- Supervised medication administration",
+      "score": 0.9875872731208801,
+      "box": [
+        129,
+        434,
+        488,
+        457
+      ]
+    },
+    {
+      "text": "Registered Nurses, Caring Hands Health, 2012.042015.04",
+      "score": 0.9971156120300293,
+      "box": [
+        116,
+        471,
+        670,
+        499
+      ]
+    },
+    {
+      "text": "- Assisted with respiratory treatments",
+      "score": 0.9819241762161255,
+      "box": [
+        127,
+        497,
+        473,
+        525
+      ]
+    },
+    {
+      "text": "- Assisted with patient positioning",
+      "score": 0.9964436292648315,
+      "box": [
+        128,
+        521,
+        439,
+        551
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999406337738037,
+      "box": [
+        118,
+        588,
+        266,
+        612
+      ]
+    },
+    {
+      "text": "Bachelor's, Health Management, North Ridge University, 2003",
+      "score": 0.9979905486106873,
+      "box": [
+        118,
+        633,
+        691,
+        657
+      ]
+    },
+    {
+      "text": "•Studied principles of oxygen therapy",
+      "score": 0.9799826145172119,
+      "box": [
+        129,
+        657,
+        485,
+        686
+      ]
+    },
+    {
+      "text": "Completed coursework in patient triage",
+      "score": 0.9987366199493408,
+      "box": [
+        131,
+        680,
+        510,
+        711
+      ]
+    }
+  ],
+  "seconds": 3.0930865998379886,
+  "id": "47099",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

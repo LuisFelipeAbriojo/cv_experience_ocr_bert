@@ -1,0 +1,132 @@
+{
+  "lines": [
+    {
+      "text": "XANDER ROBERTS",
+      "score": 0.9997965097427368,
+      "box": [
+        117,
+        91,
+        431,
+        122
+      ]
+    },
+    {
+      "text": "WI, USA | +1-963-794-2729 | xander.roberts@example.com",
+      "score": 0.9872807264328003,
+      "box": [
+        116,
+        149,
+        672,
+        177
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9997745156288147,
+      "box": [
+        117,
+        243,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Construction Laborers, Precision Structures, 2021.05—2023.01",
+      "score": 0.9910980463027954,
+      "box": [
+        118,
+        290,
+        693,
+        314
+      ]
+    },
+    {
+      "text": "- Managed workforce allocation",
+      "score": 0.9843976497650146,
+      "box": [
+        126,
+        314,
+        419,
+        341
+      ]
+    },
+    {
+      "text": "- Directed site optimization initiatives",
+      "score": 0.9911162257194519,
+      "box": [
+        127,
+        339,
+        467,
+        367
+      ]
+    },
+    {
+      "text": "Construction Laborers, Reliable Build Co., 2019.09—2021.05",
+      "score": 0.9847835898399353,
+      "box": [
+        116,
+        380,
+        675,
+        408
+      ]
+    },
+    {
+      "text": "- Set up workstations for crews",
+      "score": 0.996338963508606,
+      "box": [
+        125,
+        407,
+        416,
+        432
+      ]
+    },
+    {
+      "text": "- Assisted with roofing material handling",
+      "score": 0.9751862287521362,
+      "box": [
+        127,
+        429,
+        497,
+        460
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999170303344727,
+      "box": [
+        117,
+        494,
+        266,
+        521
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Masonry, Vista High School, 2018",
+      "score": 0.9957693815231323,
+      "box": [
+        116,
+        539,
+        692,
+        567
+      ]
+    },
+    {
+      "text": "• Completed coursework in construction materials handling",
+      "score": 0.9923380017280579,
+      "box": [
+        132,
+        565,
+        677,
+        594
+      ]
+    }
+  ],
+  "seconds": 2.082800599746406,
+  "id": "61292",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

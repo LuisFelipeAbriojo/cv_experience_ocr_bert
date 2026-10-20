@@ -1,0 +1,112 @@
+{
+  "lines": [
+    {
+      "text": "JOSEPH DAUGHERTY",
+      "score": 0.999855637550354,
+      "box": [
+        116,
+        91,
+        472,
+        122
+      ]
+    },
+    {
+      "text": "TX, USA | +1-214-708-2789 | joseph.daugherty@example.com",
+      "score": 0.9975327253341675,
+      "box": [
+        117,
+        149,
+        698,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9997573494911194,
+      "box": [
+        117,
+        243,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Software Developers, Digital Meadow, 2020.02—2022.03",
+      "score": 0.9974613189697266,
+      "box": [
+        116,
+        288,
+        639,
+        315
+      ]
+    },
+    {
+      "text": "- Updated database schemas",
+      "score": 0.9782000184059143,
+      "box": [
+        128,
+        316,
+        403,
+        341
+      ]
+    },
+    {
+      "text": "- Performed basic APl integrations",
+      "score": 0.9873095154762268,
+      "box": [
+        127,
+        338,
+        448,
+        368
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9998970031738281,
+      "box": [
+        116,
+        404,
+        268,
+        431
+      ]
+    },
+    {
+      "text": "Bachelor's, Springdale University, 2014",
+      "score": 0.9967823624610901,
+      "box": [
+        116,
+        448,
+        482,
+        475
+      ]
+    },
+    {
+      "text": "• Completed coursework in release management",
+      "score": 0.9885383248329163,
+      "box": [
+        131,
+        475,
+        586,
+        499
+      ]
+    },
+    {
+      "text": "•Studied principles of algorithm complexity",
+      "score": 0.9780644178390503,
+      "box": [
+        132,
+        497,
+        532,
+        527
+      ]
+    }
+  ],
+  "seconds": 1.8218060997314751,
+  "id": "51369",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

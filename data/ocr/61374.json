@@ -1,0 +1,202 @@
+{
+  "lines": [
+    {
+      "text": "JUSTIN HUFFMAN",
+      "score": 0.9722962975502014,
+      "box": [
+        116,
+        92,
+        411,
+        122
+      ]
+    },
+    {
+      "text": "WI, USA | +1-356-911-8759 | justin.huffman@example.com",
+      "score": 0.9942916631698608,
+      "box": [
+        116,
+        150,
+        668,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9991820454597473,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, Sunrise Health Services, 2018.112023.01",
+      "score": 0.9881730079650879,
+      "box": [
+        117,
+        290,
+        697,
+        317
+      ]
+    },
+    {
+      "text": "- Developed nursing training programs",
+      "score": 0.9777433276176453,
+      "box": [
+        126,
+        314,
+        485,
+        344
+      ]
+    },
+    {
+      "text": "- Managed clinical workflow redesign",
+      "score": 0.9762870073318481,
+      "box": [
+        126,
+        339,
+        470,
+        368
+      ]
+    },
+    {
+      "text": "Registered Nurses, WellWay Nursing Services, 2014.092018.11",
+      "score": 0.9996870160102844,
+      "box": [
+        116,
+        381,
+        721,
+        409
+      ]
+    },
+    {
+      "text": "- Developed interdisciplinary care strategies",
+      "score": 0.9910876154899597,
+      "box": [
+        125,
+        406,
+        535,
+        435
+      ]
+    },
+    {
+      "text": "- Managed patient outcome evaluation systems",
+      "score": 0.9876300692558289,
+      "box": [
+        126,
+        432,
+        567,
+        459
+      ]
+    },
+    {
+      "text": "Registered Nurses, LifeSpring Medical Services, 2010.06—2014.09",
+      "score": 0.9915375113487244,
+      "box": [
+        118,
+        474,
+        733,
+        498
+      ]
+    },
+    {
+      "text": "- Implemented patient education programs",
+      "score": 0.9825008511543274,
+      "box": [
+        125,
+        497,
+        522,
+        526
+      ]
+    },
+    {
+      "text": "- Educated patients on treatment plans",
+      "score": 0.9846134185791016,
+      "box": [
+        126,
+        521,
+        488,
+        551
+      ]
+    },
+    {
+      "text": "Registered Nurses, GentleLife Nursing, 2006.03—2010.06",
+      "score": 0.9920098185539246,
+      "box": [
+        116,
+        564,
+        649,
+        592
+      ]
+    },
+    {
+      "text": "- Recorded patient vital signs",
+      "score": 0.9996492862701416,
+      "box": [
+        125,
+        589,
+        400,
+        618
+      ]
+    },
+    {
+      "text": "- Checked laboratory results",
+      "score": 0.9965561628341675,
+      "box": [
+        125,
+        614,
+        391,
+        644
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999349117279053,
+      "box": [
+        117,
+        681,
+        266,
+        705
+      ]
+    },
+    {
+      "text": "Bachelor's, Rehabilitation Sciences, Briar Ridge University, 2004",
+      "score": 0.9950394630432129,
+      "box": [
+        117,
+        726,
+        713,
+        749
+      ]
+    },
+    {
+      "text": "•Studied principles of mental health nursing",
+      "score": 0.9894094467163086,
+      "box": [
+        131,
+        748,
+        544,
+        777
+      ]
+    },
+    {
+      "text": "• Completed coursework in basic life support concepts",
+      "score": 0.9850537180900574,
+      "box": [
+        132,
+        772,
+        634,
+        802
+      ]
+    }
+  ],
+  "seconds": 3.1656649000942707,
+  "id": "61374",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

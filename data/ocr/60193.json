@@ -1,0 +1,112 @@
+{
+  "lines": [
+    {
+      "text": "LARK DALTON",
+      "score": 0.9999112486839294,
+      "box": [
+        116,
+        89,
+        360,
+        123
+      ]
+    },
+    {
+      "text": "WV, USA | +1-737-653-4653 | lark.dalton@example.com",
+      "score": 0.9813234806060791,
+      "box": [
+        115,
+        149,
+        642,
+        177
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9993839263916016,
+      "box": [
+        116,
+        243,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Registered Nurses, NewPath Nursing Group, 2021.04—2023.01",
+      "score": 0.98602294921875,
+      "box": [
+        114,
+        286,
+        702,
+        317
+      ]
+    },
+    {
+      "text": "- Provided catheter care",
+      "score": 0.9992931485176086,
+      "box": [
+        126,
+        313,
+        354,
+        340
+      ]
+    },
+    {
+      "text": "- Conducted basic patient assessments",
+      "score": 0.9959183931350708,
+      "box": [
+        127,
+        338,
+        493,
+        367
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999412894248962,
+      "box": [
+        116,
+        404,
+        268,
+        431
+      ]
+    },
+    {
+      "text": "Bachelor's, Health Systems, Stonehill University, 2019",
+      "score": 0.9892196655273438,
+      "box": [
+        116,
+        448,
+        621,
+        475
+      ]
+    },
+    {
+      "text": "• Completed coursework in nursing informatics basics",
+      "score": 0.9820943474769592,
+      "box": [
+        131,
+        475,
+        628,
+        499
+      ]
+    },
+    {
+      "text": "•Studied fundamentals of wound assessment",
+      "score": 0.9913268685340881,
+      "box": [
+        132,
+        497,
+        560,
+        523
+      ]
+    }
+  ],
+  "seconds": 2.2035081000067294,
+  "id": "60193",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

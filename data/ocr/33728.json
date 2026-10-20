@@ -1,0 +1,112 @@
+{
+  "lines": [
+    {
+      "text": "LUTHER KOCH",
+      "score": 0.9812635183334351,
+      "box": [
+        117,
+        91,
+        361,
+        122
+      ]
+    },
+    {
+      "text": "NJ, USA | +1-630-822-7640 | luther.koch@example.com",
+      "score": 0.9966892004013062,
+      "box": [
+        115,
+        149,
+        640,
+        177
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9997439384460449,
+      "box": [
+        117,
+        243,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Accountants Auditors, FairLedger Group, 2020.05—2023.01",
+      "score": 0.9918546080589294,
+      "box": [
+        114,
+        287,
+        664,
+        317
+      ]
+    },
+    {
+      "text": "- Updated fixed asset registers",
+      "score": 0.9924677014350891,
+      "box": [
+        125,
+        314,
+        415,
+        342
+      ]
+    },
+    {
+      "text": "- Reconciled subsidiary ledgers",
+      "score": 0.9868232607841492,
+      "box": [
+        127,
+        338,
+        420,
+        369
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999529719352722,
+      "box": [
+        116,
+        404,
+        268,
+        431
+      ]
+    },
+    {
+      "text": "Bachelor's, Business Management, Brookridge University, 2023",
+      "score": 0.9876376390457153,
+      "box": [
+        114,
+        445,
+        706,
+        476
+      ]
+    },
+    {
+      "text": "• Completed coursework in accounting theory",
+      "score": 0.9830498695373535,
+      "box": [
+        132,
+        473,
+        554,
+        500
+      ]
+    },
+    {
+      "text": "Completed coursework in trial balance preparation",
+      "score": 0.9872444272041321,
+      "box": [
+        133,
+        497,
+        613,
+        525
+      ]
+    }
+  ],
+  "seconds": 1.8723674998618662,
+  "id": "33728",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

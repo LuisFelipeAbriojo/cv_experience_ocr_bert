@@ -1,0 +1,172 @@
+{
+  "lines": [
+    {
+      "text": "TIMOTHY CHOI",
+      "score": 0.997429609298706,
+      "box": [
+        117,
+        91,
+        362,
+        122
+      ]
+    },
+    {
+      "text": "SC, USA | +1-744-946-6216 | timothy.choi@example.com",
+      "score": 0.9971482753753662,
+      "box": [
+        116,
+        150,
+        652,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9987983107566833,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Softline Digital, 2020.02—2023.01",
+      "score": 0.9894070029258728,
+      "box": [
+        115,
+        288,
+        628,
+        316
+      ]
+    },
+    {
+      "text": "- Defined scalability roadmaps",
+      "score": 0.9983507990837097,
+      "box": [
+        126,
+        315,
+        410,
+        342
+      ]
+    },
+    {
+      "text": "- Designed microservice architectures",
+      "score": 0.998947262763977,
+      "box": [
+        128,
+        339,
+        479,
+        367
+      ]
+    },
+    {
+      "text": "Software Developers, Cloudframe Software, 2015.05-2018.04",
+      "score": 0.9660708904266357,
+      "box": [
+        115,
+        379,
+        694,
+        410
+      ]
+    },
+    {
+      "text": "- Refactored legacy code",
+      "score": 0.9972128868103027,
+      "box": [
+        125,
+        406,
+        363,
+        435
+      ]
+    },
+    {
+      "text": "- Integrated messaging systems",
+      "score": 0.9594316482543945,
+      "box": [
+        127,
+        431,
+        426,
+        459
+      ]
+    },
+    {
+      "text": "Software Developers, Codefield Systems, 2011.072014.07",
+      "score": 0.9849163293838501,
+      "box": [
+        117,
+        472,
+        671,
+        499
+      ]
+    },
+    {
+      "text": "- Implemented error handling logic",
+      "score": 0.9861459136009216,
+      "box": [
+        127,
+        498,
+        446,
+        524
+      ]
+    },
+    {
+      "text": "- Handled basic deployment tasks",
+      "score": 0.9838975071907043,
+      "box": [
+        128,
+        520,
+        444,
+        551
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999066591262817,
+      "box": [
+        117,
+        587,
+        267,
+        614
+      ]
+    },
+    {
+      "text": "Bachelor's, Northfield University, 2003",
+      "score": 0.9767634272575378,
+      "box": [
+        115,
+        630,
+        471,
+        658
+      ]
+    },
+    {
+      "text": "•Studied fundamentals of deployment pipelines",
+      "score": 0.9895814657211304,
+      "box": [
+        128,
+        656,
+        576,
+        685
+      ]
+    },
+    {
+      "text": "Completed coursework in parallel computing",
+      "score": 0.9905692338943481,
+      "box": [
+        132,
+        680,
+        559,
+        710
+      ]
+    }
+  ],
+  "seconds": 2.394932399969548,
+  "id": "47629",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

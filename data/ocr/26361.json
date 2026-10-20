@@ -1,0 +1,172 @@
+{
+  "lines": [
+    {
+      "text": "ZACHARY MATHIS",
+      "score": 0.9997537732124329,
+      "box": [
+        117,
+        91,
+        418,
+        121
+      ]
+    },
+    {
+      "text": "MA, USA | +1-993-211-3029 | zachary.mathis@example.com",
+      "score": 0.9856026768684387,
+      "box": [
+        117,
+        152,
+        682,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9956267476081848,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Openpoint Tech, 2020.112023.01",
+      "score": 0.9924504160881042,
+      "box": [
+        115,
+        288,
+        644,
+        316
+      ]
+    },
+    {
+      "text": "- Designed caching infrastructures",
+      "score": 0.984290599822998,
+      "box": [
+        125,
+        314,
+        447,
+        343
+      ]
+    },
+    {
+      "text": "- Defined coding standards",
+      "score": 0.9995545744895935,
+      "box": [
+        127,
+        339,
+        380,
+        370
+      ]
+    },
+    {
+      "text": "Software Developers, Netfield Labs, 2017.122020.02",
+      "score": 0.9956811666488647,
+      "box": [
+        117,
+        383,
+        619,
+        407
+      ]
+    },
+    {
+      "text": "- Developed background jobs",
+      "score": 0.9946586489677429,
+      "box": [
+        125,
+        406,
+        402,
+        434
+      ]
+    },
+    {
+      "text": "- Improved build processes",
+      "score": 0.9721577167510986,
+      "box": [
+        127,
+        431,
+        381,
+        460
+      ]
+    },
+    {
+      "text": "Software Developers, Cloudpath Digital, 2015.032017.05",
+      "score": 0.9851123690605164,
+      "box": [
+        117,
+        472,
+        657,
+        499
+      ]
+    },
+    {
+      "text": "- Assisted with build automation",
+      "score": 0.9798298478126526,
+      "box": [
+        126,
+        497,
+        424,
+        523
+      ]
+    },
+    {
+      "text": "- Updated monitoring dashboards",
+      "score": 0.9765774607658386,
+      "box": [
+        128,
+        521,
+        439,
+        549
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999477863311768,
+      "box": [
+        118,
+        588,
+        266,
+        612
+      ]
+    },
+    {
+      "text": "Bachelor's, Canyon View University, 2013",
+      "score": 0.9984208941459656,
+      "box": [
+        118,
+        633,
+        505,
+        657
+      ]
+    },
+    {
+      "text": "•Studied principles of software reliability",
+      "score": 0.9879875183105469,
+      "box": [
+        130,
+        658,
+        508,
+        685
+      ]
+    },
+    {
+      "text": "Completed coursework in dynamic analysis",
+      "score": 0.9884697198867798,
+      "box": [
+        131,
+        681,
+        549,
+        709
+      ]
+    }
+  ],
+  "seconds": 2.3006623997353017,
+  "id": "26361",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

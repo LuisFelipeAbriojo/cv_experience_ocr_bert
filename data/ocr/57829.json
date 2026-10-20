@@ -1,0 +1,112 @@
+{
+  "lines": [
+    {
+      "text": "BRODIE MCCLAIN",
+      "score": 0.9976671934127808,
+      "box": [
+        116,
+        87,
+        412,
+        123
+      ]
+    },
+    {
+      "text": "WA, USA | +1-346-665-3053 | brodie.mcclain@example.com",
+      "score": 0.9855744242668152,
+      "box": [
+        116,
+        149,
+        680,
+        177
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9997134804725647,
+      "box": [
+        117,
+        243,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Construction Laborers, PrimeWorks Contractors, 2021.06—2023.01",
+      "score": 0.9914695024490356,
+      "box": [
+        116,
+        287,
+        735,
+        315
+      ]
+    },
+    {
+      "text": "- Monitored material usage",
+      "score": 0.9821140766143799,
+      "box": [
+        125,
+        313,
+        379,
+        341
+      ]
+    },
+    {
+      "text": "- Supported crew leaders during tasks",
+      "score": 0.9962946772575378,
+      "box": [
+        129,
+        341,
+        480,
+        365
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999533891677856,
+      "box": [
+        116,
+        404,
+        268,
+        431
+      ]
+    },
+    {
+      "text": "Some college (no degree), Building Systems, Cedarview University, 2023",
+      "score": 0.9965456128120422,
+      "box": [
+        115,
+        445,
+        796,
+        476
+      ]
+    },
+    {
+      "text": "Completed coursework in construction drawing interpretation",
+      "score": 0.9853717088699341,
+      "box": [
+        131,
+        472,
+        709,
+        500
+      ]
+    },
+    {
+      "text": "Completed coursework in basic earthmoving techniques",
+      "score": 0.9998201727867126,
+      "box": [
+        132,
+        497,
+        666,
+        526
+      ]
+    }
+  ],
+  "seconds": 2.0686038001440465,
+  "id": "57829",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

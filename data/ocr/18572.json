@@ -1,0 +1,112 @@
+{
+  "lines": [
+    {
+      "text": "EMANUEL PIERCE",
+      "score": 0.9779641032218933,
+      "box": [
+        117,
+        89,
+        417,
+        122
+      ]
+    },
+    {
+      "text": "IL, USA | +1-904-343-9680 | emanuel.pierce@example.com",
+      "score": 0.9820875525474548,
+      "box": [
+        118,
+        152,
+        671,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9997243285179138,
+      "box": [
+        117,
+        243,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Construction Laborers, Bluebeam Construction, 2022.09—2023.01",
+      "score": 0.9856411218643188,
+      "box": [
+        118,
+        290,
+        723,
+        314
+      ]
+    },
+    {
+      "text": "- Operated hand tools for assembly tasks",
+      "score": 0.9819787740707397,
+      "box": [
+        126,
+        315,
+        509,
+        340
+      ]
+    },
+    {
+      "text": "- Installed temporary site barriers",
+      "score": 0.9795799255371094,
+      "box": [
+        127,
+        339,
+        436,
+        367
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999940037727356,
+      "box": [
+        116,
+        404,
+        268,
+        431
+      ]
+    },
+    {
+      "text": "Some college (no degree), Industrial Maintenance, Bright Ridge University, 2023",
+      "score": 0.9799213409423828,
+      "box": [
+        117,
+        447,
+        860,
+        474
+      ]
+    },
+    {
+      "text": "Studied fundamentals of site preparation planning",
+      "score": 0.98974609375,
+      "box": [
+        129,
+        472,
+        609,
+        501
+      ]
+    },
+    {
+      "text": "•Completed coursework in construction quality control",
+      "score": 0.9885175228118896,
+      "box": [
+        132,
+        497,
+        637,
+        526
+      ]
+    }
+  ],
+  "seconds": 2.035999699961394,
+  "id": "18572",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

@@ -1,0 +1,102 @@
+{
+  "lines": [
+    {
+      "text": "CHASE WOODARD",
+      "score": 0.9994418621063232,
+      "box": [
+        116,
+        87,
+        425,
+        123
+      ]
+    },
+    {
+      "text": "MS, USA | +1-454-264-3308 | chase.woodard@example.com",
+      "score": 0.9877402782440186,
+      "box": [
+        115,
+        149,
+        685,
+        177
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9993276596069336,
+      "box": [
+        116,
+        243,
+        317,
+        270
+      ]
+    },
+    {
+      "text": "Construction Laborers, CraftFrame Builders, 2019.11—2022.01",
+      "score": 0.9772920608520508,
+      "box": [
+        118,
+        289,
+        693,
+        313
+      ]
+    },
+    {
+      "text": "- Performed basic demolition tasks",
+      "score": 0.9899320006370544,
+      "box": [
+        126,
+        313,
+        450,
+        339
+      ]
+    },
+    {
+      "text": "- Dug trenches for utility lines",
+      "score": 0.9822089076042175,
+      "box": [
+        126,
+        338,
+        400,
+        367
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999420642852783,
+      "box": [
+        116,
+        403,
+        268,
+        431
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Mechanical Technology, Harvest High School, 2003",
+      "score": 0.9992528557777405,
+      "box": [
+        116,
+        447,
+        855,
+        474
+      ]
+    },
+    {
+      "text": "•Studied fundamentals of job site coordination",
+      "score": 0.9947673082351685,
+      "box": [
+        130,
+        474,
+        566,
+        498
+      ]
+    }
+  ],
+  "seconds": 1.9118769997730851,
+  "id": "29985",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

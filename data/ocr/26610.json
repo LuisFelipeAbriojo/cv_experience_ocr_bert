@@ -1,0 +1,202 @@
+{
+  "lines": [
+    {
+      "text": "LINDA SWANSON",
+      "score": 0.9998926520347595,
+      "box": [
+        118,
+        91,
+        404,
+        121
+      ]
+    },
+    {
+      "text": "MA, USA | +1-596-326-9787 | linda.swanson@example.com",
+      "score": 0.9852158427238464,
+      "box": [
+        115,
+        150,
+        675,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9960148930549622,
+      "box": [
+        117,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, EverHands Health Group, 2020.04-2023.01",
+      "score": 0.9832733273506165,
+      "box": [
+        115,
+        287,
+        709,
+        318
+      ]
+    },
+    {
+      "text": "- Directed care coordination strategies",
+      "score": 0.9993096590042114,
+      "box": [
+        125,
+        312,
+        482,
+        344
+      ]
+    },
+    {
+      "text": "- Developed patient care algorithms",
+      "score": 0.9745590090751648,
+      "box": [
+        127,
+        339,
+        458,
+        370
+      ]
+    },
+    {
+      "text": "Registered Nurses, WellPath Medical Group, 2017.072020.04",
+      "score": 0.9908615350723267,
+      "box": [
+        117,
+        382,
+        701,
+        409
+      ]
+    },
+    {
+      "text": "- Managed clinical risk assessments",
+      "score": 0.9865291118621826,
+      "box": [
+        126,
+        407,
+        463,
+        433
+      ]
+    },
+    {
+      "text": "- Developed clinical performance dashboards",
+      "score": 0.9962829947471619,
+      "box": [
+        129,
+        434,
+        548,
+        457
+      ]
+    },
+    {
+      "text": "Registered Nurses, Harmony Bridge Health, 2014.092017.07",
+      "score": 0.9956220388412476,
+      "box": [
+        116,
+        471,
+        693,
+        499
+      ]
+    },
+    {
+      "text": "- Provided catheter and ostomy care",
+      "score": 0.999400794506073,
+      "box": [
+        125,
+        496,
+        467,
+        526
+      ]
+    },
+    {
+      "text": "- Monitored infusion pump settings",
+      "score": 0.9873404502868652,
+      "box": [
+        126,
+        521,
+        449,
+        551
+      ]
+    },
+    {
+      "text": "Registered Nurses, OpenPath Nursing Services, 2010.072013.05",
+      "score": 0.9962781071662903,
+      "box": [
+        118,
+        566,
+        733,
+        590
+      ]
+    },
+    {
+      "text": "- Assisted with patient mobility",
+      "score": 0.9985044598579407,
+      "box": [
+        125,
+        589,
+        410,
+        618
+      ]
+    },
+    {
+      "text": "- Assisted with respiratory treatments",
+      "score": 0.9983339905738831,
+      "box": [
+        125,
+        614,
+        473,
+        643
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.99992835521698,
+      "box": [
+        117,
+        681,
+        266,
+        705
+      ]
+    },
+    {
+      "text": "Bachelor's, Health Services Administration, Pine Valley University, 2005",
+      "score": 0.988667905330658,
+      "box": [
+        116,
+        724,
+        782,
+        750
+      ]
+    },
+    {
+      "text": "• Completed coursework in nutrition for health",
+      "score": 0.9951297044754028,
+      "box": [
+        133,
+        750,
+        557,
+        774
+      ]
+    },
+    {
+      "text": "Studied principles of evidence-based practice",
+      "score": 0.9947258830070496,
+      "box": [
+        132,
+        772,
+        569,
+        801
+      ]
+    }
+  ],
+  "seconds": 3.3603850002400577,
+  "id": "26610",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

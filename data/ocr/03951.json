@@ -1,0 +1,172 @@
+{
+  "lines": [
+    {
+      "text": "BRANDON SPARKS",
+      "score": 0.9996097683906555,
+      "box": [
+        118,
+        91,
+        437,
+        121
+      ]
+    },
+    {
+      "text": "CA, USA | +1-626-496-6903 | brandon.sparks@example.com",
+      "score": 0.9791581034660339,
+      "box": [
+        116,
+        150,
+        684,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9990448951721191,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Netline Labs, 2020.112023.01",
+      "score": 0.996921718120575,
+      "box": [
+        117,
+        289,
+        611,
+        313
+      ]
+    },
+    {
+      "text": "- Led technical audits",
+      "score": 0.9939171075820923,
+      "box": [
+        127,
+        316,
+        326,
+        337
+      ]
+    },
+    {
+      "text": "- Defined API standards",
+      "score": 0.9908170104026794,
+      "box": [
+        127,
+        339,
+        351,
+        364
+      ]
+    },
+    {
+      "text": "Software Developers, Corecrest Software, 2016.122019.03",
+      "score": 0.9996848106384277,
+      "box": [
+        115,
+        380,
+        676,
+        408
+      ]
+    },
+    {
+      "text": "- Implemented search features",
+      "score": 0.9990484714508057,
+      "box": [
+        126,
+        408,
+        413,
+        433
+      ]
+    },
+    {
+      "text": "- Managed deployment pipelines",
+      "score": 0.9988435506820679,
+      "box": [
+        127,
+        433,
+        432,
+        459
+      ]
+    },
+    {
+      "text": "Software Developers, Softfield Tech, 2014.022016.05",
+      "score": 0.98598313331604,
+      "box": [
+        117,
+        472,
+        625,
+        499
+      ]
+    },
+    {
+      "text": "- Updated application dependencies",
+      "score": 0.9961195588111877,
+      "box": [
+        128,
+        498,
+        462,
+        524
+      ]
+    },
+    {
+      "text": "- Fixed software bugs identified through testing",
+      "score": 0.9872947335243225,
+      "box": [
+        127,
+        520,
+        562,
+        550
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999491572380066,
+      "box": [
+        118,
+        588,
+        266,
+        612
+      ]
+    },
+    {
+      "text": "Bachelor's, Willowbrook University, 2013",
+      "score": 0.9838180541992188,
+      "box": [
+        117,
+        631,
+        494,
+        657
+      ]
+    },
+    {
+      "text": "• Completed coursework in machine learning basics",
+      "score": 0.9801537394523621,
+      "box": [
+        132,
+        657,
+        613,
+        683
+      ]
+    },
+    {
+      "text": "Completed coursework in containerization basics",
+      "score": 0.9917158484458923,
+      "box": [
+        132,
+        680,
+        602,
+        709
+      ]
+    }
+  ],
+  "seconds": 2.3165408996865153,
+  "id": "03951",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

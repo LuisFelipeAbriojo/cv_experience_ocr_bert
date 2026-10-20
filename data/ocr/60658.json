@@ -1,0 +1,202 @@
+{
+  "lines": [
+    {
+      "text": "MILDRED TOWNSEND",
+      "score": 0.9997125864028931,
+      "box": [
+        118,
+        91,
+        473,
+        121
+      ]
+    },
+    {
+      "text": "WI, USA | +1-649-494-6525 | mildred.townsend@example.com",
+      "score": 0.99619060754776,
+      "box": [
+        116,
+        149,
+        701,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9989565014839172,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Reliable Path Co., 2019.112023.01",
+      "score": 0.9899047613143921,
+      "box": [
+        115,
+        288,
+        661,
+        316
+      ]
+    },
+    {
+      "text": "- Designed financial policy frameworks",
+      "score": 0.9896727204322815,
+      "box": [
+        129,
+        317,
+        485,
+        341
+      ]
+    },
+    {
+      "text": "- Designed tax strategies",
+      "score": 0.9970353841781616,
+      "box": [
+        127,
+        339,
+        362,
+        369
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Precise Balance Group, 2016.092019.11",
+      "score": 0.9805657267570496,
+      "box": [
+        116,
+        381,
+        714,
+        409
+      ]
+    },
+    {
+      "text": "- Designed financial accountability systems",
+      "score": 0.9974589943885803,
+      "box": [
+        126,
+        408,
+        526,
+        433
+      ]
+    },
+    {
+      "text": "- Directed accounting training programs",
+      "score": 0.9791666865348816,
+      "box": [
+        127,
+        432,
+        494,
+        458
+      ]
+    },
+    {
+      "text": "Accountants Auditors, TrustCount Advisors, 2013.072016.09",
+      "score": 0.9914218187332153,
+      "box": [
+        116,
+        471,
+        690,
+        499
+      ]
+    },
+    {
+      "text": "- Analyzed financial trends",
+      "score": 0.985541045665741,
+      "box": [
+        125,
+        497,
+        376,
+        526
+      ]
+    },
+    {
+      "text": "- Reviewed revenue forecasts",
+      "score": 0.9823427796363831,
+      "box": [
+        128,
+        522,
+        405,
+        548
+      ]
+    },
+    {
+      "text": "Accountants Auditors, OpenLedger Financial Group, 2010.042013.07",
+      "score": 0.999120831489563,
+      "box": [
+        118,
+        566,
+        769,
+        590
+      ]
+    },
+    {
+      "text": "- Assisted with budget tracking",
+      "score": 0.992042601108551,
+      "box": [
+        127,
+        589,
+        415,
+        618
+      ]
+    },
+    {
+      "text": "- Processed expense reimbursements",
+      "score": 0.989189624786377,
+      "box": [
+        127,
+        614,
+        481,
+        642
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9998937249183655,
+      "box": [
+        117,
+        681,
+        266,
+        705
+      ]
+    },
+    {
+      "text": "Bachelor's, Information Systems, Fairway University, 2013",
+      "score": 0.9997408390045166,
+      "box": [
+        116,
+        724,
+        656,
+        750
+      ]
+    },
+    {
+      "text": "• Completed coursework in business taxation",
+      "score": 0.991610586643219,
+      "box": [
+        134,
+        750,
+        552,
+        774
+      ]
+    },
+    {
+      "text": "Completed coursework in business law basics",
+      "score": 0.9997760653495789,
+      "box": [
+        132,
+        772,
+        575,
+        800
+      ]
+    }
+  ],
+  "seconds": 2.754430199973285,
+  "id": "60658",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

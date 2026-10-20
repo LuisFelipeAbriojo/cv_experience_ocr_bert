@@ -1,0 +1,142 @@
+{
+  "lines": [
+    {
+      "text": "ASHLEY HO",
+      "score": 0.9770517349243164,
+      "box": [
+        117,
+        91,
+        312,
+        122
+      ]
+    },
+    {
+      "text": "NV, USA | +1-375-396-4055 | ashley.ho@example.com",
+      "score": 0.996453046798706,
+      "box": [
+        115,
+        149,
+        630,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9997403025627136,
+      "box": [
+        117,
+        243,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Accountants Auditors, AccuCount Advisors, 2021.062023.01",
+      "score": 0.9924315214157104,
+      "box": [
+        117,
+        290,
+        686,
+        314
+      ]
+    },
+    {
+      "text": "- Developed long-term financial strategies",
+      "score": 0.9879798889160156,
+      "box": [
+        126,
+        315,
+        514,
+        341
+      ]
+    },
+    {
+      "text": "- Established financial reporting standards",
+      "score": 0.9871448278427124,
+      "box": [
+        127,
+        340,
+        517,
+        366
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Integrity Books Financial Group, 2019.10—2021.06",
+      "score": 0.9902065992355347,
+      "box": [
+        115,
+        379,
+        793,
+        410
+      ]
+    },
+    {
+      "text": "- Assisted with regulatory filings",
+      "score": 0.9988055229187012,
+      "box": [
+        125,
+        405,
+        422,
+        434
+      ]
+    },
+    {
+      "text": "- Reconciled bank statements",
+      "score": 0.997201144695282,
+      "box": [
+        126,
+        430,
+        405,
+        456
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999264478683472,
+      "box": [
+        117,
+        494,
+        267,
+        521
+      ]
+    },
+    {
+      "text": "Bachelor's, Financial Management, Hawthorne University, 2017",
+      "score": 0.9952673316001892,
+      "box": [
+        117,
+        541,
+        705,
+        565
+      ]
+    },
+    {
+      "text": "Studied fundamentals of professional writing",
+      "score": 0.9963998198509216,
+      "box": [
+        128,
+        564,
+        558,
+        594
+      ]
+    },
+    {
+      "text": "•Studied principles of sampling techniques",
+      "score": 0.9734667539596558,
+      "box": [
+        130,
+        590,
+        533,
+        618
+      ]
+    }
+  ],
+  "seconds": 2.5049386001192033,
+  "id": "31993",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

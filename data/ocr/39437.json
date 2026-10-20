@@ -1,0 +1,172 @@
+{
+  "lines": [
+    {
+      "text": "EUGENE MCCANN",
+      "score": 0.9896857142448425,
+      "box": [
+        118,
+        91,
+        418,
+        121
+      ]
+    },
+    {
+      "text": "NC, USA | +1-926-868-2504 | eugene.mccann@example.com",
+      "score": 0.9888612031936646,
+      "box": [
+        115,
+        150,
+        691,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9987257122993469,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Reliable Path Advisors, 2020.11—2023.01",
+      "score": 0.9787553548812866,
+      "box": [
+        117,
+        289,
+        707,
+        313
+      ]
+    },
+    {
+      "text": "- Developed accounting innovation plans",
+      "score": 0.9901089668273926,
+      "box": [
+        127,
+        314,
+        506,
+        343
+      ]
+    },
+    {
+      "text": "- Led regulatory compliance initiatives",
+      "score": 0.9839037656784058,
+      "box": [
+        128,
+        340,
+        479,
+        368
+      ]
+    },
+    {
+      "text": "Accountants Auditors, EverBalance Services, 2017.022019.04",
+      "score": 0.999518632888794,
+      "box": [
+        118,
+        383,
+        704,
+        407
+      ]
+    },
+    {
+      "text": "- Conducted internal audits",
+      "score": 0.9940730333328247,
+      "box": [
+        127,
+        408,
+        380,
+        432
+      ]
+    },
+    {
+      "text": "- Prepared working capital analysis",
+      "score": 0.9795085191726685,
+      "box": [
+        127,
+        433,
+        453,
+        459
+      ]
+    },
+    {
+      "text": "Accountants Auditors, ClearBalance Advisors, 2013.112016.01",
+      "score": 0.9887696504592896,
+      "box": [
+        118,
+        473,
+        709,
+        497
+      ]
+    },
+    {
+      "text": "- Prepared expense reports",
+      "score": 0.9835749864578247,
+      "box": [
+        127,
+        500,
+        384,
+        524
+      ]
+    },
+    {
+      "text": "- Assisted with budget tracking",
+      "score": 0.9989928603172302,
+      "box": [
+        127,
+        520,
+        412,
+        551
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9998481273651123,
+      "box": [
+        117,
+        587,
+        267,
+        614
+      ]
+    },
+    {
+      "text": "Bachelor's, Administrative Studies, Clearwater University, 2005",
+      "score": 0.9957324266433716,
+      "box": [
+        117,
+        632,
+        699,
+        657
+      ]
+    },
+    {
+      "text": "•Completed coursework in spreadsheet applications",
+      "score": 0.9907231330871582,
+      "box": [
+        130,
+        658,
+        620,
+        682
+      ]
+    },
+    {
+      "text": "•Studied principles of sampling techniques",
+      "score": 0.9882046580314636,
+      "box": [
+        131,
+        681,
+        534,
+        710
+      ]
+    }
+  ],
+  "seconds": 2.66028940025717,
+  "id": "39437",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

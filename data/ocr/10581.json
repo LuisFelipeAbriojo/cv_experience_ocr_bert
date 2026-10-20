@@ -1,0 +1,172 @@
+{
+  "lines": [
+    {
+      "text": "ANDREW HOWE",
+      "score": 0.999014675617218,
+      "box": [
+        117,
+        91,
+        382,
+        121
+      ]
+    },
+    {
+      "text": "CO, USA | +1-574-487-3696 | andrew.howe@example.com",
+      "score": 0.9823362827301025,
+      "box": [
+        118,
+        152,
+        667,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9981793761253357,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Stoneframe Software, 2019.10—2023.01",
+      "score": 0.9918264150619507,
+      "box": [
+        116,
+        288,
+        691,
+        315
+      ]
+    },
+    {
+      "text": "- Defined coding standards",
+      "score": 0.9921369552612305,
+      "box": [
+        127,
+        316,
+        378,
+        340
+      ]
+    },
+    {
+      "text": "- Led architectural reviews",
+      "score": 0.9844235777854919,
+      "box": [
+        128,
+        340,
+        374,
+        365
+      ]
+    },
+    {
+      "text": "Software Developers, Codefield Tech, 2016.072019.10",
+      "score": 0.9995753169059753,
+      "box": [
+        116,
+        381,
+        638,
+        408
+      ]
+    },
+    {
+      "text": "- Handled load testing",
+      "score": 0.9947191476821899,
+      "box": [
+        124,
+        402,
+        334,
+        436
+      ]
+    },
+    {
+      "text": "- Improved API performance",
+      "score": 0.9864820837974548,
+      "box": [
+        129,
+        434,
+        392,
+        457
+      ]
+    },
+    {
+      "text": "Software Developers, Cleargrid Systems, 2013.032016.07",
+      "score": 0.9925913214683533,
+      "box": [
+        117,
+        472,
+        666,
+        499
+      ]
+    },
+    {
+      "text": "- Reviewed code changes for syntax and logic issues",
+      "score": 0.996026873588562,
+      "box": [
+        126,
+        497,
+        622,
+        525
+      ]
+    },
+    {
+      "text": "- Assisted with database queries",
+      "score": 0.9979753494262695,
+      "box": [
+        128,
+        522,
+        430,
+        548
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999091029167175,
+      "box": [
+        117,
+        586,
+        267,
+        613
+      ]
+    },
+    {
+      "text": "Associate's degree, Elmwood Ridge University, 2014",
+      "score": 0.9931250214576721,
+      "box": [
+        117,
+        632,
+        608,
+        659
+      ]
+    },
+    {
+      "text": "•Studied principles of version control systems",
+      "score": 0.9776749610900879,
+      "box": [
+        130,
+        659,
+        561,
+        683
+      ]
+    },
+    {
+      "text": "Studied fundamentals of user interface development",
+      "score": 0.9950193166732788,
+      "box": [
+        129,
+        680,
+        632,
+        708
+      ]
+    }
+  ],
+  "seconds": 2.3483613999560475,
+  "id": "10581",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

@@ -1,0 +1,142 @@
+{
+  "lines": [
+    {
+      "text": "PATRIC CLARKE",
+      "score": 0.9971942901611328,
+      "box": [
+        117,
+        91,
+        391,
+        121
+      ]
+    },
+    {
+      "text": "AR, USA | +1-321-813-1199 | patric.clarke@example.com",
+      "score": 0.9715112447738647,
+      "box": [
+        118,
+        152,
+        652,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9991641640663147,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Golden Meadow Academy, 2020.06—2023.01",
+      "score": 0.9888899326324463,
+      "box": [
+        117,
+        289,
+        880,
+        316
+      ]
+    },
+    {
+      "text": "- Led strategic curriculum planning",
+      "score": 0.9924740195274353,
+      "box": [
+        126,
+        314,
+        449,
+        342
+      ]
+    },
+    {
+      "text": "- Directed content standardization",
+      "score": 0.997698187828064,
+      "box": [
+        126,
+        339,
+        442,
+        365
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Little Oak Learning, 2017.112020.06",
+      "score": 0.9780551195144653,
+      "box": [
+        115,
+        379,
+        815,
+        412
+      ]
+    },
+    {
+      "text": "- Recorded test results",
+      "score": 0.9986962080001831,
+      "box": [
+        126,
+        407,
+        340,
+        433
+      ]
+    },
+    {
+      "text": "- Prepared instructional materials and worksheets",
+      "score": 0.9893172979354858,
+      "box": [
+        127,
+        431,
+        588,
+        458
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999291896820068,
+      "box": [
+        117,
+        494,
+        268,
+        521
+      ]
+    },
+    {
+      "text": "Bachelor's, Applied Education, Wildflower University, 2021",
+      "score": 0.9900988936424255,
+      "box": [
+        117,
+        541,
+        655,
+        565
+      ]
+    },
+    {
+      "text": "•Studied principles of lesson coherence",
+      "score": 0.9716761708259583,
+      "box": [
+        130,
+        566,
+        505,
+        590
+      ]
+    },
+    {
+      "text": "• Completed coursework in developmental psychology basics",
+      "score": 0.9891537427902222,
+      "box": [
+        132,
+        592,
+        699,
+        616
+      ]
+    }
+  ],
+  "seconds": 2.35725470026955,
+  "id": "02235",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

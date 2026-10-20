@@ -1,0 +1,152 @@
+{
+  "lines": [
+    {
+      "text": "JEREMY BATES",
+      "score": 0.9957711696624756,
+      "box": [
+        115,
+        89,
+        377,
+        122
+      ]
+    },
+    {
+      "text": "NC, USA | +1-216-204-2842 | jeremy.bates@example.com",
+      "score": 0.9827347993850708,
+      "box": [
+        117,
+        152,
+        660,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9991355538368225,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, ClearBalance Advisors, 2020.05—2023.01",
+      "score": 0.9983085989952087,
+      "box": [
+        116,
+        289,
+        710,
+        314
+      ]
+    },
+    {
+      "text": "- Developed financial performance metrics",
+      "score": 0.9855693578720093,
+      "box": [
+        127,
+        314,
+        521,
+        343
+      ]
+    },
+    {
+      "text": "- Led audit planning governance",
+      "score": 0.9876386523246765,
+      "box": [
+        128,
+        340,
+        429,
+        369
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Balanced Books Advisors, 2017.092020.05",
+      "score": 0.9934700131416321,
+      "box": [
+        116,
+        380,
+        738,
+        408
+      ]
+    },
+    {
+      "text": "- Assisted with internal control testing",
+      "score": 0.9874421954154968,
+      "box": [
+        124,
+        405,
+        474,
+        435
+      ]
+    },
+    {
+      "text": "- Compiled audit evidence",
+      "score": 0.9665403962135315,
+      "box": [
+        126,
+        430,
+        372,
+        460
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999924898147583,
+      "box": [
+        116,
+        494,
+        268,
+        521
+      ]
+    },
+    {
+      "text": "Master's, Business Analytics, Oakfield University, 2020",
+      "score": 0.9785527586936951,
+      "box": [
+        114,
+        539,
+        624,
+        567
+      ]
+    },
+    {
+      "text": "Bachelor's, Statistics, Cedar Valley University, 2018",
+      "score": 0.9851997494697571,
+      "box": [
+        117,
+        567,
+        597,
+        591
+      ]
+    },
+    {
+      "text": "•Studied principles of business process analysis",
+      "score": 0.9860737919807434,
+      "box": [
+        129,
+        592,
+        585,
+        619
+      ]
+    },
+    {
+      "text": "Studied principles of audit sampling",
+      "score": 0.9954158067703247,
+      "box": [
+        129,
+        615,
+        477,
+        644
+      ]
+    }
+  ],
+  "seconds": 2.37487250007689,
+  "id": "40656",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

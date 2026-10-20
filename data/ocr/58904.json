@@ -1,0 +1,112 @@
+{
+  "lines": [
+    {
+      "text": "TANYA WANG",
+      "score": 0.9998652338981628,
+      "box": [
+        115,
+        87,
+        349,
+        123
+      ]
+    },
+    {
+      "text": "WA, USA | +1-245-431-4978 | tanya.wang@example.com",
+      "score": 0.9865964651107788,
+      "box": [
+        116,
+        150,
+        652,
+        177
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9997712969779968,
+      "box": [
+        117,
+        243,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Registered Nurses, Caring Bridge Nursing, 2021.092023.01",
+      "score": 0.9911370277404785,
+      "box": [
+        116,
+        289,
+        680,
+        316
+      ]
+    },
+    {
+      "text": "- Monitored patient dietary needs",
+      "score": 0.9961753487586975,
+      "box": [
+        125,
+        313,
+        436,
+        341
+      ]
+    },
+    {
+      "text": "- Maintained supply inventory",
+      "score": 0.9979183077812195,
+      "box": [
+        126,
+        337,
+        402,
+        369
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.99992436170578,
+      "box": [
+        116,
+        404,
+        268,
+        431
+      ]
+    },
+    {
+      "text": "Bachelor's, Registered Nursing, Larkspur University, 2021",
+      "score": 0.992221474647522,
+      "box": [
+        114,
+        445,
+        652,
+        476
+      ]
+    },
+    {
+      "text": "Completed coursework in maternal health nursing",
+      "score": 0.9829126000404358,
+      "box": [
+        129,
+        472,
+        608,
+        501
+      ]
+    },
+    {
+      "text": "Studied principles of health informatics",
+      "score": 0.9991163015365601,
+      "box": [
+        132,
+        497,
+        507,
+        525
+      ]
+    }
+  ],
+  "seconds": 1.860476200003177,
+  "id": "58904",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

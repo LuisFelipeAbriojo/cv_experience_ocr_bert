@@ -1,0 +1,142 @@
+{
+  "lines": [
+    {
+      "text": "JULIA WALSH",
+      "score": 0.9991257190704346,
+      "box": [
+        116,
+        91,
+        347,
+        122
+      ]
+    },
+    {
+      "text": "DC, USA | +1-699-378-9391|julia.walsh@example.com",
+      "score": 0.9855995774269104,
+      "box": [
+        118,
+        151,
+        636,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9990290999412537,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, CoreBooks Group, 2021.06—2023.01",
+      "score": 0.9967156052589417,
+      "box": [
+        116,
+        289,
+        665,
+        314
+      ]
+    },
+    {
+      "text": "- Led internal audit functions",
+      "score": 0.9857785105705261,
+      "box": [
+        126,
+        314,
+        392,
+        340
+      ]
+    },
+    {
+      "text": "- Established financial data governance",
+      "score": 0.9793691635131836,
+      "box": [
+        127,
+        339,
+        493,
+        367
+      ]
+    },
+    {
+      "text": "Accountants Auditors, OpenBooks Financial Group, 2019.10—2021.06",
+      "score": 0.9927196502685547,
+      "box": [
+        115,
+        379,
+        764,
+        410
+      ]
+    },
+    {
+      "text": "- Reconciled bank statements",
+      "score": 0.987700343132019,
+      "box": [
+        125,
+        407,
+        405,
+        432
+      ]
+    },
+    {
+      "text": "- Compiled audit evidence",
+      "score": 0.9965656399726868,
+      "box": [
+        127,
+        430,
+        372,
+        460
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999408721923828,
+      "box": [
+        116,
+        494,
+        268,
+        521
+      ]
+    },
+    {
+      "text": "Bachelor's, Financial Planning, Skyline University, 2020",
+      "score": 0.9915726780891418,
+      "box": [
+        115,
+        539,
+        630,
+        567
+      ]
+    },
+    {
+      "text": "•Completed coursework in environmental accounting basics",
+      "score": 0.9781642556190491,
+      "box": [
+        130,
+        565,
+        692,
+        593
+      ]
+    },
+    {
+      "text": "Studied principles of information management",
+      "score": 0.9846175909042358,
+      "box": [
+        130,
+        590,
+        575,
+        618
+      ]
+    }
+  ],
+  "seconds": 2.257940299808979,
+  "id": "11712",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

@@ -1,0 +1,192 @@
+{
+  "lines": [
+    {
+      "text": "MALINDA JENSEN",
+      "score": 0.9972351789474487,
+      "box": [
+        117,
+        92,
+        415,
+        122
+      ]
+    },
+    {
+      "text": "NC, USA | +1-605-886-5685 | malinda.jensen@example.com",
+      "score": 0.9910499453544617,
+      "box": [
+        115,
+        150,
+        682,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9991222023963928,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, SteadyCount Group, 2019.112023.01",
+      "score": 0.9997453093528748,
+      "box": [
+        115,
+        288,
+        683,
+        317
+      ]
+    },
+    {
+      "text": "- Established financial quality controls",
+      "score": 0.9934089779853821,
+      "box": [
+        127,
+        317,
+        477,
+        341
+      ]
+    },
+    {
+      "text": "- Established reporting automation systems",
+      "score": 0.9916834235191345,
+      "box": [
+        127,
+        339,
+        529,
+        369
+      ]
+    },
+    {
+      "text": "Accountants Auditors, OpenBalance Accounting, 2016.092019.11",
+      "score": 0.9900124073028564,
+      "box": [
+        116,
+        381,
+        736,
+        409
+      ]
+    },
+    {
+      "text": "- Developed accounting innovation plans",
+      "score": 0.9961434602737427,
+      "box": [
+        126,
+        408,
+        505,
+        433
+      ]
+    },
+    {
+      "text": "- Designed financial control environments",
+      "score": 0.9898847937583923,
+      "box": [
+        128,
+        432,
+        512,
+        457
+      ]
+    },
+    {
+      "text": "Accountants Auditors, CoreBalance Financial, 2013.072016.09",
+      "score": 0.9978975057601929,
+      "box": [
+        117,
+        474,
+        710,
+        498
+      ]
+    },
+    {
+      "text": "- Managed monthly close processes",
+      "score": 0.9834573864936829,
+      "box": [
+        125,
+        498,
+        464,
+        526
+      ]
+    },
+    {
+      "text": "- Analyzed financial variances",
+      "score": 0.9779831767082214,
+      "box": [
+        127,
+        521,
+        407,
+        551
+      ]
+    },
+    {
+      "text": "Accountants Auditors, SolidBooks Services, 2008.042011.07",
+      "score": 0.9968713521957397,
+      "box": [
+        117,
+        566,
+        689,
+        590
+      ]
+    },
+    {
+      "text": "- Entered financial data into accounting systems",
+      "score": 0.9898763298988342,
+      "box": [
+        125,
+        589,
+        574,
+        617
+      ]
+    },
+    {
+      "text": "- Reviewed timesheets for payroll",
+      "score": 0.9912891983985901,
+      "box": [
+        125,
+        613,
+        440,
+        642
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999069571495056,
+      "box": [
+        117,
+        681,
+        266,
+        705
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Auditing, Pine Valley High School, 2000",
+      "score": 0.9838833808898926,
+      "box": [
+        117,
+        726,
+        744,
+        749
+      ]
+    },
+    {
+      "text": "• Studied principles of information management",
+      "score": 0.9749694466590881,
+      "box": [
+        131,
+        750,
+        574,
+        774
+      ]
+    }
+  ],
+  "seconds": 2.7442211001180112,
+  "id": "39796",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

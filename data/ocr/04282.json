@@ -1,0 +1,172 @@
+{
+  "lines": [
+    {
+      "text": "BRITTANY RICHMOND",
+      "score": 0.9980560541152954,
+      "box": [
+        118,
+        92,
+        478,
+        122
+      ]
+    },
+    {
+      "text": "CA, USA | +1-278-677-3354 | brittany.richmond@example.com",
+      "score": 0.9832237362861633,
+      "box": [
+        116,
+        150,
+        701,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.984839677810669,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Little Field School, 2020.05—2023.01",
+      "score": 0.9836778044700623,
+      "box": [
+        115,
+        287,
+        802,
+        318
+      ]
+    },
+    {
+      "text": "- Designed performance monitoring systems",
+      "score": 0.9664023518562317,
+      "box": [
+        125,
+        314,
+        539,
+        344
+      ]
+    },
+    {
+      "text": "- Developed instructional innovation plans",
+      "score": 0.9887745380401611,
+      "box": [
+        127,
+        339,
+        516,
+        369
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Bright Meadows Academy, 2017.012019.09",
+      "score": 0.9901368618011475,
+      "box": [
+        116,
+        381,
+        881,
+        411
+      ]
+    },
+    {
+      "text": "- Prepared instructional guides",
+      "score": 0.9942759871482849,
+      "box": [
+        127,
+        409,
+        414,
+        433
+      ]
+    },
+    {
+      "text": "- Prepared differentiated worksheets",
+      "score": 0.981054961681366,
+      "box": [
+        128,
+        434,
+        464,
+        457
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Growing Horizons School, 2013.09—2016.05",
+      "score": 0.9831182956695557,
+      "box": [
+        118,
+        472,
+        874,
+        499
+      ]
+    },
+    {
+      "text": "- Delivered structured lectures",
+      "score": 0.996616780757904,
+      "box": [
+        126,
+        497,
+        409,
+        524
+      ]
+    },
+    {
+      "text": "- Delivered structured lessons in reading and mathematics",
+      "score": 0.9873079657554626,
+      "box": [
+        126,
+        520,
+        667,
+        550
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999259114265442,
+      "box": [
+        117,
+        587,
+        267,
+        614
+      ]
+    },
+    {
+      "text": "Bachelor's, Student Development, Clearfield University, 2010",
+      "score": 0.9919494390487671,
+      "box": [
+        117,
+        632,
+        682,
+        659
+      ]
+    },
+    {
+      "text": "• Completed coursework in classroom facilitation",
+      "score": 0.9936049580574036,
+      "box": [
+        133,
+        659,
+        584,
+        683
+      ]
+    },
+    {
+      "text": "• Completed coursework in child development fundamentals",
+      "score": 0.9910458326339722,
+      "box": [
+        134,
+        683,
+        688,
+        707
+      ]
+    }
+  ],
+  "seconds": 3.723891200032085,
+  "id": "04282",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

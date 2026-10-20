@@ -1,0 +1,142 @@
+{
+  "lines": [
+    {
+      "text": "JUSTIN SOLOMON",
+      "score": 0.9939846396446228,
+      "box": [
+        117,
+        91,
+        419,
+        121
+      ]
+    },
+    {
+      "text": "PA, USA | +1-362-775-2553 | justin.solomon@example.com",
+      "score": 0.9798460602760315,
+      "box": [
+        117,
+        152,
+        672,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9997474551200867,
+      "box": [
+        117,
+        243,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Software Developers, Corecrest Software, 2020.12—2023.01",
+      "score": 0.9905878901481628,
+      "box": [
+        116,
+        289,
+        674,
+        316
+      ]
+    },
+    {
+      "text": "- Built fault-tolerant systems",
+      "score": 0.9939325451850891,
+      "box": [
+        126,
+        314,
+        387,
+        342
+      ]
+    },
+    {
+      "text": "- Defined coding standards",
+      "score": 0.9953957200050354,
+      "box": [
+        127,
+        339,
+        380,
+        369
+      ]
+    },
+    {
+      "text": "Software Developers, Clearbyte Software, 2018.102020.12",
+      "score": 0.9910565614700317,
+      "box": [
+        116,
+        380,
+        676,
+        408
+      ]
+    },
+    {
+      "text": "- Fixed software bugs identified through testing",
+      "score": 0.9917241930961609,
+      "box": [
+        124,
+        405,
+        563,
+        435
+      ]
+    },
+    {
+      "text": "- Configured development environments",
+      "score": 0.9953871965408325,
+      "box": [
+        128,
+        431,
+        501,
+        458
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999381303787231,
+      "box": [
+        116,
+        494,
+        268,
+        521
+      ]
+    },
+    {
+      "text": "Bachelor's, Stonegate University, 2023",
+      "score": 0.9970828890800476,
+      "box": [
+        117,
+        542,
+        476,
+        566
+      ]
+    },
+    {
+      "text": "•Studied fundamentals of API development",
+      "score": 0.9834924936294556,
+      "box": [
+        130,
+        567,
+        539,
+        591
+      ]
+    },
+    {
+      "text": "•Studied principles of database design",
+      "score": 0.9847222566604614,
+      "box": [
+        131,
+        591,
+        494,
+        617
+      ]
+    }
+  ],
+  "seconds": 2.4081413000822067,
+  "id": "45342",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

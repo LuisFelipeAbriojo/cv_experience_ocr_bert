@@ -1,0 +1,102 @@
+{
+  "lines": [
+    {
+      "text": "BERKLEY BROWN",
+      "score": 0.999653697013855,
+      "box": [
+        118,
+        90,
+        418,
+        121
+      ]
+    },
+    {
+      "text": "AL, USA | +1-958-425-3031 | berkley.brown@example.com",
+      "score": 0.9918055534362793,
+      "box": [
+        117,
+        149,
+        666,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9994058609008789,
+      "box": [
+        116,
+        243,
+        317,
+        270
+      ]
+    },
+    {
+      "text": "Registered Nurses, GentleBridge Nursing, 2019.04-2021.10",
+      "score": 0.9798506498336792,
+      "box": [
+        114,
+        286,
+        677,
+        317
+      ]
+    },
+    {
+      "text": "- Monitored patient skin condition",
+      "score": 0.999575138092041,
+      "box": [
+        126,
+        314,
+        437,
+        339
+      ]
+    },
+    {
+      "text": "- Performed blood glucose testing",
+      "score": 0.9699735045433044,
+      "box": [
+        126,
+        336,
+        442,
+        369
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999367594718933,
+      "box": [
+        116,
+        404,
+        268,
+        431
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Health Care Operations, Riverside High School, 2012",
+      "score": 0.9959577322006226,
+      "box": [
+        116,
+        447,
+        872,
+        474
+      ]
+    },
+    {
+      "text": "Studied principles of infection surveillance",
+      "score": 0.9946361780166626,
+      "box": [
+        129,
+        472,
+        538,
+        500
+      ]
+    }
+  ],
+  "seconds": 2.096621099859476,
+  "id": "00227",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

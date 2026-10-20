@@ -1,0 +1,182 @@
+{
+  "lines": [
+    {
+      "text": "MONICA ORTEGA",
+      "score": 0.9968615174293518,
+      "box": [
+        117,
+        91,
+        405,
+        122
+      ]
+    },
+    {
+      "text": "PA, USA | +1-477-460-8288 | monica.ortega@example.com",
+      "score": 0.9778712391853333,
+      "box": [
+        115,
+        149,
+        672,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9991039633750916,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Discovery Grove School, 2020.04—2023.01",
+      "score": 0.9847471714019775,
+      "box": [
+        117,
+        290,
+        861,
+        317
+      ]
+    },
+    {
+      "text": "- Led instructional leadership initiatives",
+      "score": 0.9969040751457214,
+      "box": [
+        126,
+        315,
+        487,
+        341
+      ]
+    },
+    {
+      "text": "- Developed student performance metrics",
+      "score": 0.9985891580581665,
+      "box": [
+        128,
+        341,
+        512,
+        367
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Kind Field School, 2016.082019.05",
+      "score": 0.9942960143089294,
+      "box": [
+        117,
+        382,
+        801,
+        409
+      ]
+    },
+    {
+      "text": "- Aligned lesson objectives with standards",
+      "score": 0.9881123900413513,
+      "box": [
+        126,
+        409,
+        516,
+        433
+      ]
+    },
+    {
+      "text": "- Evaluated instructional effectiveness",
+      "score": 0.9953373670578003,
+      "box": [
+        126,
+        431,
+        479,
+        459
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Harmony Grove Academy, 2012.09—2015.07",
+      "score": 0.9846590757369995,
+      "box": [
+        117,
+        471,
+        879,
+        501
+      ]
+    },
+    {
+      "text": "- Supported individual student learning activities",
+      "score": 0.9993302822113037,
+      "box": [
+        125,
+        497,
+        573,
+        525
+      ]
+    },
+    {
+      "text": "- Prepared visual teaching aids",
+      "score": 0.9925329089164734,
+      "box": [
+        127,
+        520,
+        418,
+        554
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999069571495056,
+      "box": [
+        117,
+        587,
+        267,
+        614
+      ]
+    },
+    {
+      "text": "Master's, Educational Readiness, Oakfield University, 2008",
+      "score": 0.9926710724830627,
+      "box": [
+        117,
+        633,
+        663,
+        657
+      ]
+    },
+    {
+      "text": "Bachelor's, Instructional Studies, Oakway University, 2006",
+      "score": 0.9926531314849854,
+      "box": [
+        115,
+        656,
+        657,
+        684
+      ]
+    },
+    {
+      "text": "• Completed coursework in classroom organization",
+      "score": 0.9974573254585266,
+      "box": [
+        133,
+        684,
+        605,
+        708
+      ]
+    },
+    {
+      "text": "Studied principles of learner motivation",
+      "score": 0.9971505999565125,
+      "box": [
+        132,
+        706,
+        509,
+        735
+      ]
+    }
+  ],
+  "seconds": 2.922984499949962,
+  "id": "46816",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

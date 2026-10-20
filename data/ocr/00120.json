@@ -1,0 +1,152 @@
+{
+  "lines": [
+    {
+      "text": "SAMANTHA STEVENSON",
+      "score": 0.9820484519004822,
+      "box": [
+        118,
+        92,
+        524,
+        122
+      ]
+    },
+    {
+      "text": "AL, USA | +1-931-293-6258 | samantha.stevenson@example.com",
+      "score": 0.9975001811981201,
+      "box": [
+        116,
+        150,
+        730,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9991941452026367,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Discovery Horizons School, 2020.05—2022.06",
+      "score": 0.9889577031135559,
+      "box": [
+        116,
+        288,
+        888,
+        318
+      ]
+    },
+    {
+      "text": "- Established data reporting standards",
+      "score": 0.9920454621315002,
+      "box": [
+        125,
+        314,
+        482,
+        342
+      ]
+    },
+    {
+      "text": "- Developed system-wide assessment tools",
+      "score": 0.9905967712402344,
+      "box": [
+        127,
+        340,
+        530,
+        367
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Learning Field School, 2017.042019.06",
+      "score": 0.9916867017745972,
+      "box": [
+        116,
+        381,
+        841,
+        411
+      ]
+    },
+    {
+      "text": "- Delivered structured lectures",
+      "score": 0.9898202419281006,
+      "box": [
+        126,
+        405,
+        408,
+        435
+      ]
+    },
+    {
+      "text": "- Prepared lesson summaries",
+      "score": 0.9777393341064453,
+      "box": [
+        126,
+        430,
+        403,
+        462
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9997468590736389,
+      "box": [
+        116,
+        494,
+        267,
+        521
+      ]
+    },
+    {
+      "text": "Master's, Education Services, Springdale University, 2015",
+      "score": 0.9859640598297119,
+      "box": [
+        114,
+        539,
+        653,
+        567
+      ]
+    },
+    {
+      "text": "Bachelor's, Developmental Studies, Brightfield University, 2013",
+      "score": 0.9897766709327698,
+      "box": [
+        116,
+        566,
+        701,
+        593
+      ]
+    },
+    {
+      "text": "•Completed coursework in educational skill building",
+      "score": 0.9771133661270142,
+      "box": [
+        129,
+        590,
+        616,
+        619
+      ]
+    },
+    {
+      "text": "Completed coursework in writing instruction",
+      "score": 0.9949920773506165,
+      "box": [
+        131,
+        614,
+        552,
+        644
+      ]
+    }
+  ],
+  "seconds": 2.532698300201446,
+  "id": "00120",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

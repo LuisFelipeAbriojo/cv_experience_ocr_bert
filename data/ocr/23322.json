@@ -1,0 +1,172 @@
+{
+  "lines": [
+    {
+      "text": "MATTHEW SANDERS",
+      "score": 0.9994654059410095,
+      "box": [
+        117,
+        92,
+        460,
+        122
+      ]
+    },
+    {
+      "text": "LA, USA |+1-233-343-1179 |matthew.sanders@example.com",
+      "score": 0.987525463104248,
+      "box": [
+        117,
+        151,
+        695,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9989857077598572,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, StrongCraft Construction, 2021.012023.01",
+      "score": 0.9981449842453003,
+      "box": [
+        117,
+        289,
+        737,
+        316
+      ]
+    },
+    {
+      "text": "- Directed project scheduling",
+      "score": 0.9696894884109497,
+      "box": [
+        125,
+        314,
+        395,
+        343
+      ]
+    },
+    {
+      "text": "- Developed structural reinforcement plans",
+      "score": 0.9824416041374207,
+      "box": [
+        127,
+        339,
+        523,
+        367
+      ]
+    },
+    {
+      "text": "Construction Laborers, StrongWay Construction, 2018.06—2020.07",
+      "score": 0.9809626340866089,
+      "box": [
+        116,
+        380,
+        735,
+        408
+      ]
+    },
+    {
+      "text": "- Installed door and window frames",
+      "score": 0.9992606043815613,
+      "box": [
+        126,
+        407,
+        453,
+        433
+      ]
+    },
+    {
+      "text": "- Prepared structural joints",
+      "score": 0.9917588829994202,
+      "box": [
+        128,
+        432,
+        374,
+        458
+      ]
+    },
+    {
+      "text": "Construction Laborers, TrueCraft Builders, 2015.112017.12",
+      "score": 0.9840366840362549,
+      "box": [
+        118,
+        473,
+        678,
+        497
+      ]
+    },
+    {
+      "text": "- Monitored material usage",
+      "score": 0.9756569266319275,
+      "box": [
+        126,
+        496,
+        379,
+        524
+      ]
+    },
+    {
+      "text": "- Assisted with roofing material handling",
+      "score": 0.9812197089195251,
+      "box": [
+        127,
+        521,
+        498,
+        550
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999485015869141,
+      "box": [
+        118,
+        588,
+        266,
+        612
+      ]
+    },
+    {
+      "text": "Some college (no degree), Construction Design, Willow Creek University, 2004",
+      "score": 0.985759437084198,
+      "box": [
+        117,
+        632,
+        846,
+        659
+      ]
+    },
+    {
+      "text": "• Completed coursework in construction site security",
+      "score": 0.9740597009658813,
+      "box": [
+        131,
+        658,
+        619,
+        685
+      ]
+    },
+    {
+      "text": "•Completed coursework in basic waterproofing",
+      "score": 0.9780929684638977,
+      "box": [
+        132,
+        680,
+        571,
+        710
+      ]
+    }
+  ],
+  "seconds": 2.57215359993279,
+  "id": "23322",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

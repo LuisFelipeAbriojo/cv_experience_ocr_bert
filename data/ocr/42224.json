@@ -1,0 +1,212 @@
+{
+  "lines": [
+    {
+      "text": "JAMIE KEMP",
+      "score": 0.9836269617080688,
+      "box": [
+        117,
+        92,
+        325,
+        120
+      ]
+    },
+    {
+      "text": "OH, USA | +1-469-771-6262 | jamie.kemp@example.com",
+      "score": 0.9842543005943298,
+      "box": [
+        116,
+        150,
+        649,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.997925341129303,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, FairBooks Accounting, 2018.12—2023.01",
+      "score": 0.9824556112289429,
+      "box": [
+        115,
+        288,
+        702,
+        317
+      ]
+    },
+    {
+      "text": "- Developed financial analytics frameworks",
+      "score": 0.9946778416633606,
+      "box": [
+        127,
+        314,
+        525,
+        342
+      ]
+    },
+    {
+      "text": "- Designed audit methodologies",
+      "score": 0.9977250695228577,
+      "box": [
+        127,
+        339,
+        424,
+        370
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Integrity Balance Co., 2014.10—2018.12",
+      "score": 0.9867873787879944,
+      "box": [
+        117,
+        382,
+        696,
+        409
+      ]
+    },
+    {
+      "text": "- Developed audit quality standards",
+      "score": 0.9873550534248352,
+      "box": [
+        127,
+        409,
+        456,
+        433
+      ]
+    },
+    {
+      "text": "- Designed financial documentation standards",
+      "score": 0.986382246017456,
+      "box": [
+        127,
+        431,
+        553,
+        458
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Reliable Accounts Advisors, 2010.082014.10",
+      "score": 0.9981273412704468,
+      "box": [
+        117,
+        473,
+        753,
+        497
+      ]
+    },
+    {
+      "text": "- Reviewed balance sheet accounts",
+      "score": 0.9990299344062805,
+      "box": [
+        126,
+        497,
+        459,
+        522
+      ]
+    },
+    {
+      "text": "- Conducted internal audits",
+      "score": 0.9841606020927429,
+      "box": [
+        127,
+        521,
+        379,
+        547
+      ]
+    },
+    {
+      "text": "Accountants Auditors, EverCount Services, 2006.06—2010.08",
+      "score": 0.9942301511764526,
+      "box": [
+        118,
+        566,
+        684,
+        590
+      ]
+    },
+    {
+      "text": "- Reviewed billing statements",
+      "score": 0.9907841682434082,
+      "box": [
+        127,
+        592,
+        402,
+        616
+      ]
+    },
+    {
+      "text": "- Assisted with inventory counts",
+      "score": 0.997235119342804,
+      "box": [
+        125,
+        614,
+        422,
+        643
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999213814735413,
+      "box": [
+        117,
+        681,
+        266,
+        705
+      ]
+    },
+    {
+      "text": "Master's, Finance, Prairie Ridge University, 2004",
+      "score": 0.9988672733306885,
+      "box": [
+        116,
+        723,
+        570,
+        749
+      ]
+    },
+    {
+      "text": "Bachelor's, Financial Accounting, Parkview University, 2002",
+      "score": 0.9925786852836609,
+      "box": [
+        115,
+        747,
+        671,
+        775
+      ]
+    },
+    {
+      "text": "• Studied principles of business analytics",
+      "score": 0.9736822843551636,
+      "box": [
+        131,
+        775,
+        511,
+        799
+      ]
+    },
+    {
+      "text": "Completed coursework in internal auditing",
+      "score": 0.998498797416687,
+      "box": [
+        131,
+        798,
+        537,
+        827
+      ]
+    }
+  ],
+  "seconds": 3.1700941999442875,
+  "id": "42224",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

@@ -1,0 +1,142 @@
+{
+  "lines": [
+    {
+      "text": "DAVID BARTON",
+      "score": 0.9995520710945129,
+      "box": [
+        117,
+        91,
+        374,
+        121
+      ]
+    },
+    {
+      "text": "AZ, USA | +1-901-613-6193 | david.barton@example.com",
+      "score": 0.9839516878128052,
+      "box": [
+        118,
+        152,
+        652,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9991247057914734,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Learning Corner Academy, 2020.07—2023.01",
+      "score": 0.9876576662063599,
+      "box": [
+        115,
+        287,
+        880,
+        318
+      ]
+    },
+    {
+      "text": "- Designed systemic intervention models",
+      "score": 0.9901598691940308,
+      "box": [
+        125,
+        314,
+        505,
+        342
+      ]
+    },
+    {
+      "text": "- Led curriculum integration projects",
+      "score": 0.9990372657775879,
+      "box": [
+        127,
+        339,
+        461,
+        368
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Golden Futures Academy, 2018.012020.07",
+      "score": 0.9884682297706604,
+      "box": [
+        118,
+        383,
+        873,
+        407
+      ]
+    },
+    {
+      "text": "- Implemented basic classroom management procedures",
+      "score": 0.999470591545105,
+      "box": [
+        126,
+        407,
+        656,
+        434
+      ]
+    },
+    {
+      "text": "- Maintained classroom bulletin boards",
+      "score": 0.9954972267150879,
+      "box": [
+        128,
+        433,
+        487,
+        455
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999463558197021,
+      "box": [
+        116,
+        494,
+        267,
+        521
+      ]
+    },
+    {
+      "text": "Bachelor's, Education Basics, Parkview University, 2018",
+      "score": 0.9934154748916626,
+      "box": [
+        115,
+        539,
+        638,
+        567
+      ]
+    },
+    {
+      "text": "•Studied principles of learning outcomes assessment",
+      "score": 0.9805735349655151,
+      "box": [
+        130,
+        567,
+        631,
+        591
+      ]
+    },
+    {
+      "text": "•Studied fundamentals of language arts education",
+      "score": 0.9882750511169434,
+      "box": [
+        131,
+        591,
+        601,
+        616
+      ]
+    }
+  ],
+  "seconds": 2.5261154999025166,
+  "id": "01373",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

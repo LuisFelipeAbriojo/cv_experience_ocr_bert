@@ -1,0 +1,202 @@
+{
+  "lines": [
+    {
+      "text": "KENNETH BOOTH",
+      "score": 0.9998249411582947,
+      "box": [
+        117,
+        91,
+        410,
+        121
+      ]
+    },
+    {
+      "text": "AZ, USA | +1-481-333-4043 | kenneth.booth@example.com",
+      "score": 0.9926980137825012,
+      "box": [
+        118,
+        152,
+        670,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9987983107566833,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Integrity Ledger Services, 2020.05—2023.01",
+      "score": 0.9844889640808105,
+      "box": [
+        114,
+        287,
+        731,
+        318
+      ]
+    },
+    {
+      "text": "- Directed accounting training programs",
+      "score": 0.9863099455833435,
+      "box": [
+        128,
+        316,
+        494,
+        342
+      ]
+    },
+    {
+      "text": "- Led accounting transformation projects",
+      "score": 0.9978621602058411,
+      "box": [
+        127,
+        340,
+        502,
+        368
+      ]
+    },
+    {
+      "text": "Accountants Auditors, ClearCount Services, 2017.092020.05",
+      "score": 0.9964282512664795,
+      "box": [
+        118,
+        383,
+        691,
+        407
+      ]
+    },
+    {
+      "text": "- Directed accounting operations planning",
+      "score": 0.9884847402572632,
+      "box": [
+        125,
+        408,
+        514,
+        434
+      ]
+    },
+    {
+      "text": "- Directed financial reporting processes",
+      "score": 0.9947805404663086,
+      "box": [
+        126,
+        432,
+        491,
+        458
+      ]
+    },
+    {
+      "text": "Accountants Auditors, BlueLine Accounting, 2013.12—2016.08",
+      "score": 0.9873813390731812,
+      "box": [
+        116,
+        472,
+        690,
+        497
+      ]
+    },
+    {
+      "text": "- Coordinated audit schedules",
+      "score": 0.9870532751083374,
+      "box": [
+        127,
+        499,
+        407,
+        523
+      ]
+    },
+    {
+      "text": "- Prepared tax compliance filings",
+      "score": 0.9946552515029907,
+      "box": [
+        127,
+        521,
+        433,
+        551
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Integrity Count Group, 2010.03—2012.11",
+      "score": 0.9881866574287415,
+      "box": [
+        117,
+        565,
+        700,
+        592
+      ]
+    },
+    {
+      "text": "- Processed accounts payable invoices",
+      "score": 0.9920480847358704,
+      "box": [
+        126,
+        590,
+        490,
+        617
+      ]
+    },
+    {
+      "text": "- Prepared account reconciliations",
+      "score": 0.971111536026001,
+      "box": [
+        127,
+        613,
+        447,
+        644
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999264478683472,
+      "box": [
+        117,
+        681,
+        266,
+        705
+      ]
+    },
+    {
+      "text": "Bachelor's, Statistics, Willowbrook University, 2005",
+      "score": 0.9851043224334717,
+      "box": [
+        117,
+        726,
+        588,
+        749
+      ]
+    },
+    {
+      "text": "•Studied fundamentals of variance analysis",
+      "score": 0.9730179309844971,
+      "box": [
+        130,
+        749,
+        540,
+        775
+      ]
+    },
+    {
+      "text": "•Studied fundamentals of sustainability accounting basics",
+      "score": 0.9758883118629456,
+      "box": [
+        131,
+        772,
+        670,
+        801
+      ]
+    }
+  ],
+  "seconds": 2.7548802997916937,
+  "id": "01750",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

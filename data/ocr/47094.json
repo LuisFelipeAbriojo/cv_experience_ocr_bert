@@ -1,0 +1,112 @@
+{
+  "lines": [
+    {
+      "text": "CHRISTINE TAYLOR",
+      "score": 0.9936656951904297,
+      "box": [
+        116,
+        87,
+        446,
+        123
+      ]
+    },
+    {
+      "text": "RI, USA | +1-449-480-9560 | christine.taylor@example.com",
+      "score": 0.9925697445869446,
+      "box": [
+        116,
+        149,
+        667,
+        177
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9997713565826416,
+      "box": [
+        117,
+        243,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Software Developers, Clearline Systems, 2020.092023.01",
+      "score": 0.9982017874717712,
+      "box": [
+        116,
+        289,
+        664,
+        316
+      ]
+    },
+    {
+      "text": "- Implemented validation logic",
+      "score": 0.9989498853683472,
+      "box": [
+        125,
+        313,
+        407,
+        342
+      ]
+    },
+    {
+      "text": "- Updated frontend stylesheets",
+      "score": 0.9997607469558716,
+      "box": [
+        130,
+        341,
+        413,
+        365
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999205470085144,
+      "box": [
+        116,
+        404,
+        268,
+        431
+      ]
+    },
+    {
+      "text": "Bachelor's, Pinewood University, 2021",
+      "score": 0.9766045808792114,
+      "box": [
+        116,
+        447,
+        472,
+        474
+      ]
+    },
+    {
+      "text": "Completed coursework in virtual reality basics",
+      "score": 0.9761062264442444,
+      "box": [
+        129,
+        472,
+        573,
+        500
+      ]
+    },
+    {
+      "text": "Studied principles of virtualization",
+      "score": 0.9997411370277405,
+      "box": [
+        132,
+        497,
+        459,
+        525
+      ]
+    }
+  ],
+  "seconds": 1.7896489002741873,
+  "id": "47094",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

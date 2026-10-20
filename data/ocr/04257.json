@@ -1,0 +1,202 @@
+{
+  "lines": [
+    {
+      "text": "DION VO",
+      "score": 0.9915879368782043,
+      "box": [
+        117,
+        90,
+        260,
+        122
+      ]
+    },
+    {
+      "text": "CA, USA | +1-528-664-7991 | dion.vo@example.com",
+      "score": 0.9809777140617371,
+      "box": [
+        116,
+        150,
+        609,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9988835453987122,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, FairLedger Financial Group, 2018.11-2023.01",
+      "score": 0.9920023083686829,
+      "box": [
+        115,
+        288,
+        753,
+        316
+      ]
+    },
+    {
+      "text": "- Developed long-term financial strategies",
+      "score": 0.9826443791389465,
+      "box": [
+        127,
+        315,
+        515,
+        343
+      ]
+    },
+    {
+      "text": "- Established financial quality controls",
+      "score": 0.9830093383789062,
+      "box": [
+        126,
+        338,
+        477,
+        368
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Summit Accounting Services, 2014.08—2018.11",
+      "score": 0.9759118556976318,
+      "box": [
+        116,
+        382,
+        765,
+        409
+      ]
+    },
+    {
+      "text": "- Led internal audit functions",
+      "score": 0.9910826086997986,
+      "box": [
+        128,
+        407,
+        392,
+        433
+      ]
+    },
+    {
+      "text": "- Designed financial oversight systems",
+      "score": 0.9843045473098755,
+      "box": [
+        128,
+        432,
+        484,
+        457
+      ]
+    },
+    {
+      "text": "Accountants Auditors, EverCount Group, 2010.052014.08",
+      "score": 0.9925787448883057,
+      "box": [
+        117,
+        474,
+        662,
+        498
+      ]
+    },
+    {
+      "text": "- Supervised junior accountants",
+      "score": 0.9836058020591736,
+      "box": [
+        127,
+        500,
+        422,
+        524
+      ]
+    },
+    {
+      "text": "- Managed accounts payable cycles",
+      "score": 0.9838818907737732,
+      "box": [
+        127,
+        521,
+        461,
+        551
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Accurate Balance Advisors, 2003.08—2007.11",
+      "score": 0.9934191107749939,
+      "box": [
+        117,
+        566,
+        748,
+        590
+      ]
+    },
+    {
+      "text": "- Recorded cash receipts",
+      "score": 0.9993788599967957,
+      "box": [
+        126,
+        590,
+        362,
+        616
+      ]
+    },
+    {
+      "text": "- Prepared journal entries",
+      "score": 0.9750185012817383,
+      "box": [
+        126,
+        614,
+        366,
+        643
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9998889565467834,
+      "box": [
+        117,
+        681,
+        266,
+        705
+      ]
+    },
+    {
+      "text": "Bachelor's, Forensic Accounting, Brightfield Ridge University, 2003",
+      "score": 0.9844556450843811,
+      "box": [
+        115,
+        723,
+        736,
+        750
+      ]
+    },
+    {
+      "text": "•Studied fundamentals of financial reporting",
+      "score": 0.9622141122817993,
+      "box": [
+        129,
+        747,
+        545,
+        776
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of depreciation methods",
+      "score": 0.985133707523346,
+      "box": [
+        132,
+        773,
+        578,
+        798
+      ]
+    }
+  ],
+  "seconds": 2.802492500282824,
+  "id": "04257",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

@@ -1,0 +1,142 @@
+{
+  "lines": [
+    {
+      "text": "AMANDA HUANG",
+      "score": 0.9998176693916321,
+      "box": [
+        118,
+        91,
+        397,
+        122
+      ]
+    },
+    {
+      "text": "CA, USA | +1-875-743-4837 | amanda.huang@example.com",
+      "score": 0.9898192882537842,
+      "box": [
+        116,
+        150,
+        680,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.999754011631012,
+      "box": [
+        117,
+        243,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Software Developers, Digital Meadow, 2020.05—2023.01",
+      "score": 0.9925920963287354,
+      "box": [
+        116,
+        289,
+        638,
+        316
+      ]
+    },
+    {
+      "text": "- Designed system architectures",
+      "score": 0.9915545582771301,
+      "box": [
+        127,
+        316,
+        428,
+        340
+      ]
+    },
+    {
+      "text": "- Led technical audits",
+      "score": 0.9975566864013672,
+      "box": [
+        128,
+        339,
+        327,
+        365
+      ]
+    },
+    {
+      "text": "Software Developers, Softfield Tech, 2014.102017.06",
+      "score": 0.9899737238883972,
+      "box": [
+        115,
+        380,
+        625,
+        408
+      ]
+    },
+    {
+      "text": "- Implemented UI components based on design specs",
+      "score": 0.9902142882347107,
+      "box": [
+        126,
+        407,
+        628,
+        433
+      ]
+    },
+    {
+      "text": "- Implemented validation logic",
+      "score": 0.987569272518158,
+      "box": [
+        127,
+        430,
+        407,
+        459
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999186396598816,
+      "box": [
+        116,
+        494,
+        268,
+        521
+      ]
+    },
+    {
+      "text": "Bachelor's, Stonefield University, 2013",
+      "score": 0.9964941143989563,
+      "box": [
+        116,
+        540,
+        474,
+        566
+      ]
+    },
+    {
+      "text": "• Studied principles of backend frameworks",
+      "score": 0.9803192615509033,
+      "box": [
+        131,
+        567,
+        534,
+        591
+      ]
+    },
+    {
+      "text": "• Completed coursework in project documentation",
+      "score": 0.9791120886802673,
+      "box": [
+        131,
+        591,
+        594,
+        616
+      ]
+    }
+  ],
+  "seconds": 2.3656331999227405,
+  "id": "03706",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

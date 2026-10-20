@@ -1,0 +1,112 @@
+{
+  "lines": [
+    {
+      "text": "ARIYANNA DURHAM",
+      "score": 0.9987450838088989,
+      "box": [
+        118,
+        91,
+        451,
+        122
+      ]
+    },
+    {
+      "text": "NJ, USA | +1-603-530-2301 | ariyanna.durham@example.com",
+      "score": 0.9959593415260315,
+      "box": [
+        115,
+        149,
+        694,
+        177
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9997448325157166,
+      "box": [
+        117,
+        243,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Reliable Accounts Advisors, 2021.07-2023.01",
+      "score": 0.9775729179382324,
+      "box": [
+        115,
+        287,
+        752,
+        315
+      ]
+    },
+    {
+      "text": "- Assisted with budget tracking",
+      "score": 0.9965317845344543,
+      "box": [
+        125,
+        312,
+        414,
+        343
+      ]
+    },
+    {
+      "text": "- Compiled financial schedules",
+      "score": 0.9981644749641418,
+      "box": [
+        129,
+        341,
+        413,
+        365
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999521970748901,
+      "box": [
+        116,
+        404,
+        268,
+        431
+      ]
+    },
+    {
+      "text": "Bachelor's, Government Accounting, Summit University, 2023",
+      "score": 0.9963631629943848,
+      "box": [
+        115,
+        446,
+        688,
+        475
+      ]
+    },
+    {
+      "text": "Completed coursework in spreadsheet applications",
+      "score": 0.9983407855033875,
+      "box": [
+        131,
+        472,
+        622,
+        501
+      ]
+    },
+    {
+      "text": "Completed coursework in strategic cost management",
+      "score": 0.9997090697288513,
+      "box": [
+        132,
+        497,
+        641,
+        526
+      ]
+    }
+  ],
+  "seconds": 2.1361044999212027,
+  "id": "33290",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

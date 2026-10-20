@@ -1,0 +1,152 @@
+{
+  "lines": [
+    {
+      "text": "ROBERT BECKER",
+      "score": 0.9831680059432983,
+      "box": [
+        117,
+        91,
+        410,
+        121
+      ]
+    },
+    {
+      "text": "MA, USA | +1-265-220-2780 | robert.becker@example.com",
+      "score": 0.9933333396911621,
+      "box": [
+        117,
+        152,
+        665,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9968535304069519,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Future Start Academy, 2018.08—2021.07",
+      "score": 0.9811927080154419,
+      "box": [
+        115,
+        287,
+        841,
+        318
+      ]
+    },
+    {
+      "text": "- Designed instructional quality standards",
+      "score": 0.970685601234436,
+      "box": [
+        125,
+        314,
+        511,
+        342
+      ]
+    },
+    {
+      "text": "- Developed long-term instructional strategies",
+      "score": 0.9941232204437256,
+      "box": [
+        127,
+        340,
+        550,
+        368
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, ClearView Academy, 2014.102017.10",
+      "score": 0.9953993558883667,
+      "box": [
+        116,
+        381,
+        826,
+        411
+      ]
+    },
+    {
+      "text": "- Supported art instruction",
+      "score": 0.9789447784423828,
+      "box": [
+        126,
+        409,
+        370,
+        433
+      ]
+    },
+    {
+      "text": "- Prepared lesson summaries",
+      "score": 0.977052628993988,
+      "box": [
+        126,
+        430,
+        403,
+        462
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999392032623291,
+      "box": [
+        116,
+        494,
+        267,
+        521
+      ]
+    },
+    {
+      "text": "Master's, Educational Practice, Oakridge University, 2013",
+      "score": 0.9866132140159607,
+      "box": [
+        114,
+        539,
+        650,
+        567
+      ]
+    },
+    {
+      "text": "Bachelor's, Elementary Education Preparation, Windcrest University, 2011",
+      "score": 0.9782370328903198,
+      "box": [
+        117,
+        567,
+        801,
+        591
+      ]
+    },
+    {
+      "text": "• Completed coursework in educational communication",
+      "score": 0.9853907823562622,
+      "box": [
+        130,
+        593,
+        642,
+        617
+      ]
+    },
+    {
+      "text": "Studied foundational learning strategies",
+      "score": 0.9896019697189331,
+      "box": [
+        130,
+        614,
+        516,
+        644
+      ]
+    }
+  ],
+  "seconds": 2.7287941998802125,
+  "id": "26191",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

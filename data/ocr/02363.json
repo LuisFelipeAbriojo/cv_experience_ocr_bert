@@ -1,0 +1,162 @@
+{
+  "lines": [
+    {
+      "text": "RYAN BERRY",
+      "score": 0.9597829580307007,
+      "box": [
+        117,
+        91,
+        339,
+        121
+      ]
+    },
+    {
+      "text": "AR, USA | +1-800-709-6916 | ryan.berry@example.com",
+      "score": 0.9845905303955078,
+      "box": [
+        118,
+        152,
+        633,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9990336298942566,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, Unified Craft Builders, 2021.012023.01",
+      "score": 0.9915270209312439,
+      "box": [
+        118,
+        290,
+        704,
+        314
+      ]
+    },
+    {
+      "text": "- Developed site performance metrics",
+      "score": 0.9837116599082947,
+      "box": [
+        126,
+        315,
+        476,
+        341
+      ]
+    },
+    {
+      "text": "- Supervised foundation installations",
+      "score": 0.9952670931816101,
+      "box": [
+        128,
+        340,
+        465,
+        365
+      ]
+    },
+    {
+      "text": "Construction Laborers, TrueBuild Co., 2019.01—2021.01",
+      "score": 0.986152708530426,
+      "box": [
+        117,
+        381,
+        633,
+        406
+      ]
+    },
+    {
+      "text": "- Monitored safety compliance",
+      "score": 0.9990909099578857,
+      "box": [
+        125,
+        407,
+        408,
+        433
+      ]
+    },
+    {
+      "text": "- Monitored project timelines",
+      "score": 0.9789127111434937,
+      "box": [
+        126,
+        430,
+        393,
+        459
+      ]
+    },
+    {
+      "text": "Construction Laborers, SolidWay Construction, 2015.052017.05",
+      "score": 0.9978621602058411,
+      "box": [
+        118,
+        473,
+        719,
+        497
+      ]
+    },
+    {
+      "text": "- Set up workstations for crews",
+      "score": 0.9878175854682922,
+      "box": [
+        126,
+        498,
+        416,
+        523
+      ]
+    },
+    {
+      "text": "- Handled delivery documentation",
+      "score": 0.987589955329895,
+      "box": [
+        127,
+        520,
+        441,
+        549
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9998859763145447,
+      "box": [
+        117,
+        586,
+        267,
+        613
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Structural Technology, Westfield High School, 2012",
+      "score": 0.9952781200408936,
+      "box": [
+        118,
+        633,
+        854,
+        657
+      ]
+    },
+    {
+      "text": "• Completed coursework in construction fundamentals",
+      "score": 0.9948163628578186,
+      "box": [
+        132,
+        658,
+        633,
+        682
+      ]
+    }
+  ],
+  "seconds": 2.480083900038153,
+  "id": "02363",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

@@ -1,0 +1,182 @@
+{
+  "lines": [
+    {
+      "text": "MELISSA MOODY",
+      "score": 0.9996287822723389,
+      "box": [
+        118,
+        91,
+        402,
+        121
+      ]
+    },
+    {
+      "text": "GA, USA | +1-298-685-5779 | melissa.moody@example.com",
+      "score": 0.9962707161903381,
+      "box": [
+        116,
+        150,
+        680,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9991222023963928,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Future Star Academy, 2019.11-2023.01",
+      "score": 0.9761484861373901,
+      "box": [
+        115,
+        287,
+        835,
+        318
+      ]
+    },
+    {
+      "text": "- Led strategic curriculum planning",
+      "score": 0.9836910963058472,
+      "box": [
+        126,
+        316,
+        448,
+        342
+      ]
+    },
+    {
+      "text": "- Developed instructional evaluation metrics",
+      "score": 0.9905723333358765,
+      "box": [
+        127,
+        339,
+        534,
+        367
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Golden Field Academy, 2016.032019.05",
+      "score": 0.9976997971534729,
+      "box": [
+        116,
+        381,
+        850,
+        411
+      ]
+    },
+    {
+      "text": "- Evaluated student portfolios",
+      "score": 0.9901317954063416,
+      "box": [
+        127,
+        409,
+        400,
+        433
+      ]
+    },
+    {
+      "text": "- Prepared differentiated worksheets",
+      "score": 0.9866545796394348,
+      "box": [
+        127,
+        434,
+        464,
+        457
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Golden Bridge School, 2012.03—2015.06",
+      "score": 0.9814603328704834,
+      "box": [
+        117,
+        471,
+        841,
+        499
+      ]
+    },
+    {
+      "text": "- Conducted reading practice sessions",
+      "score": 0.9952126741409302,
+      "box": [
+        125,
+        497,
+        486,
+        525
+      ]
+    },
+    {
+      "text": "- Distributed assessment rubrics",
+      "score": 0.9853357672691345,
+      "box": [
+        128,
+        522,
+        428,
+        547
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9998791217803955,
+      "box": [
+        117,
+        587,
+        267,
+        614
+      ]
+    },
+    {
+      "text": "Master's, Early Childhood Education, Briarwood University, 2009",
+      "score": 0.986522912979126,
+      "box": [
+        116,
+        631,
+        714,
+        659
+      ]
+    },
+    {
+      "text": "Bachelor's, Foundational Education, Meadowridge Valley University, 2007",
+      "score": 0.9964988827705383,
+      "box": [
+        115,
+        656,
+        800,
+        684
+      ]
+    },
+    {
+      "text": "• Studied principles of early childhood education",
+      "score": 0.9936503171920776,
+      "box": [
+        132,
+        684,
+        578,
+        708
+      ]
+    },
+    {
+      "text": "•Completed coursework in writing instruction",
+      "score": 0.9747989773750305,
+      "box": [
+        132,
+        706,
+        552,
+        736
+      ]
+    }
+  ],
+  "seconds": 6.802358299959451,
+  "id": "15694",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

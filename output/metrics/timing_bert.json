@@ -1,0 +1,23 @@
+{
+  "train_seconds": 5289.957499504089,
+  "infer_seconds_per_cv": 0.0311205328333502,
+  "best_val_mae": 0.19688120319474395,
+  "epochs_run": 13,
+  "hardware": "Intel64 Family 6 Model 186 Stepping 2, GenuineIntel (CPU only)",
+  "torch_threads": 10,
+  "text_col": "text",
+  "model_name": "distilbert-base-uncased",
+  "max_len": 256,
+  "strategy": "head_tail",
+  "head": 128,
+  "loss": "mse",
+  "huber_delta": 0.1,
+  "lr": 5e-05,
+  "batch_size": 16,
+  "epochs": 15,
+  "patience": 3,
+  "warmup": 0.1,
+  "weight_decay": 0.01,
+  "seed": 42,
+  "stride": 64
+}

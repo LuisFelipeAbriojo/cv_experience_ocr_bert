@@ -1,0 +1,202 @@
+{
+  "lines": [
+    {
+      "text": "MAIRA HOBBS",
+      "score": 0.9997400641441345,
+      "box": [
+        116,
+        89,
+        358,
+        122
+      ]
+    },
+    {
+      "text": "NJ, USA | +1-889-332-9425 | maira.hobbs@example.com",
+      "score": 0.9787930250167847,
+      "box": [
+        116,
+        150,
+        651,
+        177
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9990155100822449,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Accurate Ledger Group, 2019.12—2023.01",
+      "score": 0.9918391108512878,
+      "box": [
+        114,
+        287,
+        716,
+        318
+      ]
+    },
+    {
+      "text": "- Led financial data standardization",
+      "score": 0.9908859729766846,
+      "box": [
+        127,
+        315,
+        453,
+        340
+      ]
+    },
+    {
+      "text": "- Designed financial control environments",
+      "score": 0.9952175617218018,
+      "box": [
+        128,
+        340,
+        512,
+        366
+      ]
+    },
+    {
+      "text": "Accountants Auditors, OpenPath Advisors, 2016.112019.12",
+      "score": 0.9924800395965576,
+      "box": [
+        118,
+        383,
+        680,
+        407
+      ]
+    },
+    {
+      "text": "- Led audit planning governance",
+      "score": 0.9825496673583984,
+      "box": [
+        127,
+        409,
+        429,
+        433
+      ]
+    },
+    {
+      "text": "- Established tax compliance frameworks",
+      "score": 0.9934360980987549,
+      "box": [
+        128,
+        434,
+        508,
+        457
+      ]
+    },
+    {
+      "text": "Accountants Auditors, ClearLedger Group, 2013.102016.11",
+      "score": 0.9971988797187805,
+      "box": [
+        118,
+        474,
+        676,
+        498
+      ]
+    },
+    {
+      "text": "- Developed audit plans",
+      "score": 0.9995986223220825,
+      "box": [
+        125,
+        497,
+        351,
+        526
+      ]
+    },
+    {
+      "text": "- Prepared cost allocation models",
+      "score": 0.9897693395614624,
+      "box": [
+        127,
+        521,
+        440,
+        549
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Integrity Balance Services, 2010.09—2013.10",
+      "score": 0.9826227426528931,
+      "box": [
+        116,
+        565,
+        742,
+        592
+      ]
+    },
+    {
+      "text": "- Assisted with budget tracking",
+      "score": 0.9993484616279602,
+      "box": [
+        125,
+        589,
+        415,
+        618
+      ]
+    },
+    {
+      "text": "- Assisted with monthly close procedures",
+      "score": 0.989604651927948,
+      "box": [
+        127,
+        614,
+        508,
+        642
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999231696128845,
+      "box": [
+        117,
+        681,
+        266,
+        705
+      ]
+    },
+    {
+      "text": "Bachelor's, Financial Accounting, Prairie Ridge University, 2011",
+      "score": 0.9900827407836914,
+      "box": [
+        116,
+        723,
+        704,
+        749
+      ]
+    },
+    {
+      "text": "Studied fundamentals of financial reporting",
+      "score": 0.9767963290214539,
+      "box": [
+        129,
+        747,
+        545,
+        776
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of depreciation methods",
+      "score": 0.982761025428772,
+      "box": [
+        132,
+        773,
+        577,
+        798
+      ]
+    }
+  ],
+  "seconds": 3.0438818000257015,
+  "id": "34082",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

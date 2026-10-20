@@ -1,0 +1,212 @@
+{
+  "lines": [
+    {
+      "text": "TROY ABBOTT",
+      "score": 0.9985601305961609,
+      "box": [
+        117,
+        90,
+        359,
+        121
+      ]
+    },
+    {
+      "text": "MI, USA | +1-720-432-2108 | troy.abbott@example.com",
+      "score": 0.986783504486084,
+      "box": [
+        115,
+        150,
+        633,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9945735931396484,
+      "box": [
+        117,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, Harmony Care Center, 2019.11—2023.01",
+      "score": 0.9725093245506287,
+      "box": [
+        115,
+        287,
+        680,
+        318
+      ]
+    },
+    {
+      "text": "- Led nursing audit programs",
+      "score": 0.9956582188606262,
+      "box": [
+        126,
+        315,
+        396,
+        343
+      ]
+    },
+    {
+      "text": "- Established clinical evaluation protocols",
+      "score": 0.9584243893623352,
+      "box": [
+        126,
+        339,
+        510,
+        367
+      ]
+    },
+    {
+      "text": "Registered Nurses, EverWell Health Services, 2016.082019.11",
+      "score": 0.9982808232307434,
+      "box": [
+        117,
+        382,
+        710,
+        409
+      ]
+    },
+    {
+      "text": "- Implemented clinical decision support systems",
+      "score": 0.9940927624702454,
+      "box": [
+        124,
+        406,
+        571,
+        435
+      ]
+    },
+    {
+      "text": "- Directed care coordination strategies",
+      "score": 0.9995004534721375,
+      "box": [
+        126,
+        432,
+        481,
+        459
+      ]
+    },
+    {
+      "text": "Registered Nurses, BrightWell Health Services, 2013.052016.08",
+      "score": 0.9985676407814026,
+      "box": [
+        116,
+        471,
+        724,
+        499
+      ]
+    },
+    {
+      "text": "- Managed geriatric care plans",
+      "score": 0.9904558062553406,
+      "box": [
+        125,
+        497,
+        414,
+        525
+      ]
+    },
+    {
+      "text": "- Assisted with emergency interventions",
+      "score": 0.9963217377662659,
+      "box": [
+        127,
+        521,
+        497,
+        550
+      ]
+    },
+    {
+      "text": "Registered Nurses, BrightNest Health Services, 2010.022013.05",
+      "score": 0.9970188736915588,
+      "box": [
+        118,
+        565,
+        724,
+        589
+      ]
+    },
+    {
+      "text": "- Prepared treatment rooms",
+      "score": 0.981174111366272,
+      "box": [
+        126,
+        589,
+        390,
+        619
+      ]
+    },
+    {
+      "text": "- Performed wound dressing changes",
+      "score": 0.9750737547874451,
+      "box": [
+        126,
+        613,
+        477,
+        645
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999205470085144,
+      "box": [
+        117,
+        681,
+        266,
+        705
+      ]
+    },
+    {
+      "text": "Master's, Life Sciences, Clear Spring University, 2011",
+      "score": 0.983435332775116,
+      "box": [
+        117,
+        726,
+        613,
+        749
+      ]
+    },
+    {
+      "text": "Bachelor's, Nursing, Redfield University, 2009",
+      "score": 0.9832908511161804,
+      "box": [
+        117,
+        750,
+        542,
+        774
+      ]
+    },
+    {
+      "text": "•Studied fundamentals of health disparities",
+      "score": 0.9542921185493469,
+      "box": [
+        130,
+        774,
+        536,
+        799
+      ]
+    },
+    {
+      "text": "•Completed coursework in rehabilitation nursing",
+      "score": 0.9869133234024048,
+      "box": [
+        132,
+        798,
+        582,
+        827
+      ]
+    }
+  ],
+  "seconds": 3.2935890001244843,
+  "id": "27695",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

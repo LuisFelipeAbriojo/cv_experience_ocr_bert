@@ -1,0 +1,112 @@
+{
+  "lines": [
+    {
+      "text": "ISABELLE VALENTINE",
+      "score": 0.9996813535690308,
+      "box": [
+        117,
+        91,
+        481,
+        121
+      ]
+    },
+    {
+      "text": "AL, USA | +1-395-513-7474 | isabelle.valentine@example.com",
+      "score": 0.9864897727966309,
+      "box": [
+        118,
+        152,
+        696,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9997394680976868,
+      "box": [
+        117,
+        243,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Registered Nurses, WellBridge Medical Group, 2021.052023.01",
+      "score": 0.9991517663002014,
+      "box": [
+        116,
+        289,
+        717,
+        316
+      ]
+    },
+    {
+      "text": "- Administered injections under supervision",
+      "score": 0.9900527596473694,
+      "box": [
+        126,
+        314,
+        526,
+        340
+      ]
+    },
+    {
+      "text": "- Assisted with diagnostic procedures",
+      "score": 0.9890024065971375,
+      "box": [
+        127,
+        339,
+        474,
+        367
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999322891235352,
+      "box": [
+        116,
+        404,
+        268,
+        431
+      ]
+    },
+    {
+      "text": "Associate's degree, Nursing Practice, Forestfield University, 2020",
+      "score": 0.9828635454177856,
+      "box": [
+        116,
+        446,
+        722,
+        474
+      ]
+    },
+    {
+      "text": "Studied principles of health screening",
+      "score": 0.9776690602302551,
+      "box": [
+        129,
+        472,
+        495,
+        501
+      ]
+    },
+    {
+      "text": "Completed coursework in basic life support concepts",
+      "score": 0.990162193775177,
+      "box": [
+        132,
+        497,
+        635,
+        526
+      ]
+    }
+  ],
+  "seconds": 3.1256141997873783,
+  "id": "00774",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

@@ -1,0 +1,132 @@
+{
+  "lines": [
+    {
+      "text": "BRANDON BURNETT",
+      "score": 0.9998167157173157,
+      "box": [
+        117,
+        90,
+        455,
+        122
+      ]
+    },
+    {
+      "text": "IA, USA | +1-725-804-7460 | brandon.burnett@example.com",
+      "score": 0.9787228107452393,
+      "box": [
+        118,
+        152,
+        678,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9991222023963928,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, Precision Build Group, 2019.08—2022.07",
+      "score": 0.9757065773010254,
+      "box": [
+        116,
+        288,
+        710,
+        316
+      ]
+    },
+    {
+      "text": "- Reviewed site inspection reports",
+      "score": 0.9864733219146729,
+      "box": [
+        126,
+        315,
+        443,
+        341
+      ]
+    },
+    {
+      "text": "- Directed installation methodologies",
+      "score": 0.975559413433075,
+      "box": [
+        126,
+        338,
+        465,
+        368
+      ]
+    },
+    {
+      "text": "Construction Laborers, BuildWell Contractors, 2016.032019.02",
+      "score": 0.991633951663971,
+      "box": [
+        116,
+        380,
+        710,
+        408
+      ]
+    },
+    {
+      "text": "- Assisted with excavation tasks",
+      "score": 0.9970542192459106,
+      "box": [
+        125,
+        407,
+        424,
+        432
+      ]
+    },
+    {
+      "text": "- Assisted with site cleanup and debris removal",
+      "score": 0.9781489968299866,
+      "box": [
+        127,
+        431,
+        565,
+        458
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999028444290161,
+      "box": [
+        117,
+        494,
+        267,
+        521
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Construction Drafting, Goldenview High School, 2005",
+      "score": 0.9958476424217224,
+      "box": [
+        117,
+        540,
+        870,
+        567
+      ]
+    },
+    {
+      "text": "•Studied principles of site drainage",
+      "score": 0.9869553446769714,
+      "box": [
+        132,
+        565,
+        461,
+        594
+      ]
+    }
+  ],
+  "seconds": 2.19408220006153,
+  "id": "21028",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

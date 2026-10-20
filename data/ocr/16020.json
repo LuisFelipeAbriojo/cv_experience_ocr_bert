@@ -1,0 +1,172 @@
+{
+  "lines": [
+    {
+      "text": "JENIFFER FLOWERS",
+      "score": 0.9994050860404968,
+      "box": [
+        115,
+        89,
+        454,
+        122
+      ]
+    },
+    {
+      "text": "GA, USA | +1-690-203-4501 | jeniffer.flowers@example.com",
+      "score": 0.9887997508049011,
+      "box": [
+        116,
+        150,
+        676,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9990995526313782,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, SafeHands Nursing Services, 2020.11—2023.01",
+      "score": 0.9852861166000366,
+      "box": [
+        115,
+        287,
+        743,
+        318
+      ]
+    },
+    {
+      "text": "- Implemented patient monitoring systems",
+      "score": 0.9812337160110474,
+      "box": [
+        127,
+        314,
+        518,
+        343
+      ]
+    },
+    {
+      "text": "- Implemented clinical decision support systems",
+      "score": 0.9895771145820618,
+      "box": [
+        127,
+        339,
+        571,
+        369
+      ]
+    },
+    {
+      "text": "Registered Nurses, Caring Nest Nursing, 2018.03—2020.05",
+      "score": 0.9875476956367493,
+      "box": [
+        116,
+        381,
+        664,
+        409
+      ]
+    },
+    {
+      "text": "- Managed intravenous therapy",
+      "score": 0.9989789128303528,
+      "box": [
+        124,
+        404,
+        419,
+        436
+      ]
+    },
+    {
+      "text": "- Provided wound care management",
+      "score": 0.9859638214111328,
+      "box": [
+        126,
+        429,
+        467,
+        460
+      ]
+    },
+    {
+      "text": "Registered Nurses, KindHands Care Center, 2015.072017.09",
+      "score": 0.9987439513206482,
+      "box": [
+        116,
+        471,
+        698,
+        499
+      ]
+    },
+    {
+      "text": "- Provided post-procedure care",
+      "score": 0.9735151529312134,
+      "box": [
+        126,
+        497,
+        420,
+        526
+      ]
+    },
+    {
+      "text": "- Monitored patient intake and output",
+      "score": 0.9984011054039001,
+      "box": [
+        127,
+        521,
+        470,
+        550
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9998828172683716,
+      "box": [
+        117,
+        587,
+        267,
+        614
+      ]
+    },
+    {
+      "text": "Bachelor's, Health Management, Stonecrest University, 2011",
+      "score": 0.9953238368034363,
+      "box": [
+        117,
+        632,
+        678,
+        657
+      ]
+    },
+    {
+      "text": "• Completed coursework in electronic health records",
+      "score": 0.9914509654045105,
+      "box": [
+        133,
+        659,
+        617,
+        683
+      ]
+    },
+    {
+      "text": "Completed coursework in cardiovascular nursing basics",
+      "score": 0.9933707118034363,
+      "box": [
+        132,
+        680,
+        663,
+        709
+      ]
+    }
+  ],
+  "seconds": 2.649399499874562,
+  "id": "16020",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

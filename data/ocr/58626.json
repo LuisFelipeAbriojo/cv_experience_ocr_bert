@@ -1,0 +1,112 @@
+{
+  "lines": [
+    {
+      "text": "TIFFANE OLSON",
+      "score": 0.999796450138092,
+      "box": [
+        117,
+        90,
+        387,
+        121
+      ]
+    },
+    {
+      "text": "WA, USA | +1-258-462-2567 | tiffane.olson@example.com",
+      "score": 0.986793577671051,
+      "box": [
+        115,
+        149,
+        658,
+        177
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9992759227752686,
+      "box": [
+        116,
+        243,
+        317,
+        270
+      ]
+    },
+    {
+      "text": "Registered Nurses, SunPath Care Group, 2018.12—2020.12",
+      "score": 0.9887600541114807,
+      "box": [
+        115,
+        287,
+        673,
+        317
+      ]
+    },
+    {
+      "text": "- Recorded medication administration times",
+      "score": 0.9994891881942749,
+      "box": [
+        126,
+        314,
+        531,
+        340
+      ]
+    },
+    {
+      "text": "- Assisted with specimen labeling",
+      "score": 0.9778703451156616,
+      "box": [
+        126,
+        337,
+        438,
+        368
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999533891677856,
+      "box": [
+        116,
+        404,
+        268,
+        431
+      ]
+    },
+    {
+      "text": "Associate's degree, Health Care, Prairie Ridge University, 2009",
+      "score": 0.9883406162261963,
+      "box": [
+        117,
+        448,
+        704,
+        475
+      ]
+    },
+    {
+      "text": "Completed coursework in cardiovascular nursing basics",
+      "score": 0.9856913685798645,
+      "box": [
+        130,
+        472,
+        664,
+        501
+      ]
+    },
+    {
+      "text": "Completed coursework in laboratory values interpretation",
+      "score": 0.9995444416999817,
+      "box": [
+        132,
+        497,
+        676,
+        526
+      ]
+    }
+  ],
+  "seconds": 2.6082427999936044,
+  "id": "58626",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

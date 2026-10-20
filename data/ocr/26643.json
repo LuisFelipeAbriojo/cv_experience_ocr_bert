@@ -1,0 +1,212 @@
+{
+  "lines": [
+    {
+      "text": "TYLER YODER",
+      "score": 0.9996176362037659,
+      "box": [
+        117,
+        91,
+        355,
+        121
+      ]
+    },
+    {
+      "text": "MA, USA | +1-408-950-6483 | tyler.yoder@example.com",
+      "score": 0.9781104922294617,
+      "box": [
+        115,
+        151,
+        639,
+        177
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.998323380947113,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Softframe Labs, 2019.12—2023.01",
+      "score": 0.9977017045021057,
+      "box": [
+        115,
+        288,
+        637,
+        316
+      ]
+    },
+    {
+      "text": "- Designed system architectures",
+      "score": 0.9903325438499451,
+      "box": [
+        125,
+        314,
+        429,
+        342
+      ]
+    },
+    {
+      "text": "- Reviewed system design documents",
+      "score": 0.9979090094566345,
+      "box": [
+        127,
+        340,
+        481,
+        368
+      ]
+    },
+    {
+      "text": "Software Developers, Brightgrid Software, 2016.102019.12",
+      "score": 0.9868500828742981,
+      "box": [
+        117,
+        382,
+        676,
+        409
+      ]
+    },
+    {
+      "text": "- Built fault-tolerant systems",
+      "score": 0.9981582164764404,
+      "box": [
+        126,
+        408,
+        387,
+        433
+      ]
+    },
+    {
+      "text": "- Designed data storage strategies",
+      "score": 0.9973748326301575,
+      "box": [
+        127,
+        431,
+        450,
+        460
+      ]
+    },
+    {
+      "text": "Software Developers, Cloudfield Digital, 2012.102015.12",
+      "score": 0.9873652458190918,
+      "box": [
+        117,
+        472,
+        654,
+        499
+      ]
+    },
+    {
+      "text": "- Designed service interfaces",
+      "score": 0.9782872796058655,
+      "box": [
+        127,
+        499,
+        399,
+        523
+      ]
+    },
+    {
+      "text": "- Handled load testing",
+      "score": 0.9682053923606873,
+      "box": [
+        126,
+        520,
+        333,
+        551
+      ]
+    },
+    {
+      "text": "Software Developers, Flowline Tech, 2008.12—2012.02",
+      "score": 0.9934499859809875,
+      "box": [
+        115,
+        563,
+        626,
+        591
+      ]
+    },
+    {
+      "text": "- Implemented REST endpoints",
+      "score": 0.9720197916030884,
+      "box": [
+        127,
+        589,
+        423,
+        617
+      ]
+    },
+    {
+      "text": "- Implemented error handling logic",
+      "score": 0.9973931312561035,
+      "box": [
+        128,
+        613,
+        446,
+        644
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999239444732666,
+      "box": [
+        117,
+        681,
+        266,
+        705
+      ]
+    },
+    {
+      "text": "Master's, Clearbrook University, 2006",
+      "score": 0.9872245788574219,
+      "box": [
+        115,
+        724,
+        466,
+        750
+      ]
+    },
+    {
+      "text": "Bachelor's, Stonebrook University, 2004",
+      "score": 0.974212646484375,
+      "box": [
+        117,
+        750,
+        489,
+        774
+      ]
+    },
+    {
+      "text": "• Completed coursework in configuration management",
+      "score": 0.9895651340484619,
+      "box": [
+        131,
+        775,
+        636,
+        799
+      ]
+    },
+    {
+      "text": "•Studied principles of microservices architecture",
+      "score": 0.9809603095054626,
+      "box": [
+        131,
+        798,
+        586,
+        826
+      ]
+    }
+  ],
+  "seconds": 2.7456464003771544,
+  "id": "26643",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

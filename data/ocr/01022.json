@@ -1,0 +1,142 @@
+{
+  "lines": [
+    {
+      "text": "ELIZABETH GARRETT",
+      "score": 0.9997889399528503,
+      "box": [
+        118,
+        92,
+        474,
+        122
+      ]
+    },
+    {
+      "text": "AZ, USA | +1-738-467-1898 | elizabeth.garrett@example.com",
+      "score": 0.9921526312828064,
+      "box": [
+        116,
+        150,
+        688,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9991562962532043,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Growing Bridge Academy, 2018.05—2020.12",
+      "score": 0.989578127861023,
+      "box": [
+        115,
+        287,
+        877,
+        318
+      ]
+    },
+    {
+      "text": "- Developed instructional evaluation metrics",
+      "score": 0.9995917677879333,
+      "box": [
+        125,
+        314,
+        534,
+        342
+      ]
+    },
+    {
+      "text": "- Directed program effectiveness studies",
+      "score": 0.9932705163955688,
+      "box": [
+        127,
+        339,
+        503,
+        368
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Bright Futures Learning, 2014.12—2017.08",
+      "score": 0.986816942691803,
+      "box": [
+        117,
+        382,
+        856,
+        409
+      ]
+    },
+    {
+      "text": "- Recorded student feedback",
+      "score": 0.99934321641922,
+      "box": [
+        126,
+        407,
+        398,
+        432
+      ]
+    },
+    {
+      "text": "- Supported standardized testing sessions",
+      "score": 0.9958508014678955,
+      "box": [
+        128,
+        434,
+        516,
+        457
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999385476112366,
+      "box": [
+        117,
+        494,
+        267,
+        521
+      ]
+    },
+    {
+      "text": "Associate's degree, Applied Education, Elm Ridge University, 2008",
+      "score": 0.9880501627922058,
+      "box": [
+        117,
+        541,
+        736,
+        568
+      ]
+    },
+    {
+      "text": "• Completed coursework in interactive learning methods",
+      "score": 0.9952501654624939,
+      "box": [
+        132,
+        568,
+        649,
+        591
+      ]
+    },
+    {
+      "text": "Completed coursework in basic curriculum planning",
+      "score": 0.9959784746170044,
+      "box": [
+        131,
+        589,
+        626,
+        619
+      ]
+    }
+  ],
+  "seconds": 2.6283076000399888,
+  "id": "01022",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

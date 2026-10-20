@@ -1,0 +1,192 @@
+{
+  "lines": [
+    {
+      "text": "SCOTT KING",
+      "score": 0.9928923845291138,
+      "box": [
+        116,
+        89,
+        324,
+        123
+      ]
+    },
+    {
+      "text": "IN, USA | +1-619-583-1178 | scott.king@example.com",
+      "score": 0.9773380160331726,
+      "box": [
+        117,
+        150,
+        621,
+        177
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.995638906955719,
+      "box": [
+        117,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, StrongPoint Builders, 2020.04—2023.01",
+      "score": 0.983392059803009,
+      "box": [
+        118,
+        291,
+        696,
+        315
+      ]
+    },
+    {
+      "text": "- Implemented quality control systems",
+      "score": 0.9917598366737366,
+      "box": [
+        126,
+        315,
+        479,
+        342
+      ]
+    },
+    {
+      "text": "- Supervised large structural repairs",
+      "score": 0.982330858707428,
+      "box": [
+        128,
+        341,
+        459,
+        367
+      ]
+    },
+    {
+      "text": "Construction Laborers, PrimeWorks Contractors, 2017.072020.04",
+      "score": 0.9942839741706848,
+      "box": [
+        118,
+        383,
+        735,
+        407
+      ]
+    },
+    {
+      "text": "- Supervised high-risk operations",
+      "score": 0.991682231426239,
+      "box": [
+        126,
+        409,
+        435,
+        433
+      ]
+    },
+    {
+      "text": "- Established site layout plans",
+      "score": 0.9831615090370178,
+      "box": [
+        128,
+        434,
+        405,
+        457
+      ]
+    },
+    {
+      "text": "Construction Laborers, PrimeStone Co., 2014.10—2017.07",
+      "score": 0.979887068271637,
+      "box": [
+        117,
+        472,
+        655,
+        497
+      ]
+    },
+    {
+      "text": "- Installed roofing materials",
+      "score": 0.999734103679657,
+      "box": [
+        125,
+        497,
+        381,
+        526
+      ]
+    },
+    {
+      "text": "- Monitored safety compliance",
+      "score": 0.9986034631729126,
+      "box": [
+        127,
+        521,
+        409,
+        550
+      ]
+    },
+    {
+      "text": "Construction Laborers, Precision Frame Builders, 2010.072013.05",
+      "score": 0.9972482919692993,
+      "box": [
+        118,
+        566,
+        742,
+        589
+      ]
+    },
+    {
+      "text": "- Assisted with site cleanup and debris removal",
+      "score": 0.9934550523757935,
+      "box": [
+        127,
+        591,
+        566,
+        615
+      ]
+    },
+    {
+      "text": "- Maintained cleanliness of work areas",
+      "score": 0.9971237182617188,
+      "box": [
+        127,
+        614,
+        485,
+        641
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9998998641967773,
+      "box": [
+        116,
+        679,
+        267,
+        706
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Construction Planning, Clear Ridge High School, 1999",
+      "score": 0.9923685789108276,
+      "box": [
+        116,
+        723,
+        879,
+        750
+      ]
+    },
+    {
+      "text": "• Completed coursework in construction logistics planning",
+      "score": 0.9929585456848145,
+      "box": [
+        132,
+        749,
+        666,
+        775
+      ]
+    }
+  ],
+  "seconds": 2.857629199977964,
+  "id": "20347",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

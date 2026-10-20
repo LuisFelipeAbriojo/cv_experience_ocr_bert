@@ -1,0 +1,212 @@
+{
+  "lines": [
+    {
+      "text": "KATHERINE TRUONG",
+      "score": 0.9970552325248718,
+      "box": [
+        117,
+        91,
+        464,
+        122
+      ]
+    },
+    {
+      "text": "CA, USA | +1-217-610-4637 | katherine.truong@example.com",
+      "score": 0.982854425907135,
+      "box": [
+        117,
+        151,
+        692,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9995973110198975,
+      "box": [
+        117,
+        244,
+        316,
+        271
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Caring Field School, 2019.09—2023.01",
+      "score": 0.9895607233047485,
+      "box": [
+        116,
+        289,
+        820,
+        319
+      ]
+    },
+    {
+      "text": "- Led professional development planning",
+      "score": 0.9997262358665466,
+      "box": [
+        125,
+        315,
+        506,
+        343
+      ]
+    },
+    {
+      "text": "- Established instructional leadership protocols",
+      "score": 0.98448246717453,
+      "box": [
+        126,
+        339,
+        560,
+        367
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Golden Steps School, 2016.04—2019.09",
+      "score": 0.9830741286277771,
+      "box": [
+        116,
+        381,
+        834,
+        409
+      ]
+    },
+    {
+      "text": "- Developed district-aligned lesson frameworks",
+      "score": 0.9891668558120728,
+      "box": [
+        126,
+        408,
+        561,
+        433
+      ]
+    },
+    {
+      "text": "- Established instructional leadership protocols",
+      "score": 0.993023693561554,
+      "box": [
+        126,
+        431,
+        560,
+        459
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Future Star Academy, 2012.112016.04",
+      "score": 0.9912777543067932,
+      "box": [
+        118,
+        473,
+        835,
+        500
+      ]
+    },
+    {
+      "text": "- Developed progress monitoring tools",
+      "score": 0.9861816167831421,
+      "box": [
+        125,
+        497,
+        483,
+        525
+      ]
+    },
+    {
+      "text": "- Administered standardized assessments",
+      "score": 0.9993263483047485,
+      "box": [
+        127,
+        522,
+        516,
+        548
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Kind Field School, 2009.06—2012.11",
+      "score": 0.990992546081543,
+      "box": [
+        116,
+        563,
+        801,
+        592
+      ]
+    },
+    {
+      "text": "- Prepared visual teaching aids",
+      "score": 0.9974143505096436,
+      "box": [
+        125,
+        590,
+        418,
+        618
+      ]
+    },
+    {
+      "text": "- Assisted with science experiments",
+      "score": 0.9684887528419495,
+      "box": [
+        126,
+        614,
+        459,
+        645
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999066591262817,
+      "box": [
+        116,
+        680,
+        267,
+        707
+      ]
+    },
+    {
+      "text": "Master's, Child and Youth Studies, Summit University, 2011",
+      "score": 0.9861294031143188,
+      "box": [
+        115,
+        723,
+        669,
+        750
+      ]
+    },
+    {
+      "text": "Bachelor's, General Learning Studies, Clear Ridge University, 2009",
+      "score": 0.9919690489768982,
+      "box": [
+        116,
+        749,
+        741,
+        776
+      ]
+    },
+    {
+      "text": "•Completed coursework in academic content planning",
+      "score": 0.989143967628479,
+      "box": [
+        129,
+        773,
+        637,
+        803
+      ]
+    },
+    {
+      "text": "•Completed coursework in early literacy instruction",
+      "score": 0.9845137000083923,
+      "box": [
+        132,
+        798,
+        608,
+        828
+      ]
+    }
+  ],
+  "seconds": 3.207581200171262,
+  "id": "03354",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

@@ -1,0 +1,162 @@
+{
+  "lines": [
+    {
+      "text": "JEFFERY MORENO",
+      "score": 0.973169207572937,
+      "box": [
+        116,
+        91,
+        427,
+        121
+      ]
+    },
+    {
+      "text": "CA, USA | +1-456-301-4126 | jeffery.moreno@example.com",
+      "score": 0.9853805899620056,
+      "box": [
+        116,
+        150,
+        674,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9997560381889343,
+      "box": [
+        117,
+        243,
+        315,
+        270
+      ]
+    },
+    {
+      "text": "Software Developers, Openline Labs, 2020.062022.06",
+      "score": 0.9898251295089722,
+      "box": [
+        117,
+        291,
+        631,
+        315
+      ]
+    },
+    {
+      "text": "- Implemented infrastructure automation",
+      "score": 0.9950687885284424,
+      "box": [
+        128,
+        315,
+        500,
+        341
+      ]
+    },
+    {
+      "text": "- Designed high-availability systems",
+      "score": 0.9873756766319275,
+      "box": [
+        128,
+        339,
+        461,
+        369
+      ]
+    },
+    {
+      "text": "Software Developers, Corecrest Labs, 2017.012019.02",
+      "score": 0.9897813200950623,
+      "box": [
+        116,
+        380,
+        639,
+        408
+      ]
+    },
+    {
+      "text": "- Assisted with version control operations",
+      "score": 0.9948905110359192,
+      "box": [
+        125,
+        406,
+        508,
+        433
+      ]
+    },
+    {
+      "text": "- Wrote unit tests for application modules",
+      "score": 0.9984655976295471,
+      "box": [
+        126,
+        431,
+        506,
+        457
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999155402183533,
+      "box": [
+        117,
+        494,
+        268,
+        521
+      ]
+    },
+    {
+      "text": "Doctorate, Foxwood University, 2013",
+      "score": 0.9996266961097717,
+      "box": [
+        115,
+        539,
+        461,
+        567
+      ]
+    },
+    {
+      "text": "Bachelor's, Cedar Valley University, 2008",
+      "score": 0.9790684580802917,
+      "box": [
+        117,
+        567,
+        500,
+        591
+      ]
+    },
+    {
+      "text": "Completed coursework in release management",
+      "score": 0.9996797442436218,
+      "box": [
+        128,
+        590,
+        587,
+        617
+      ]
+    },
+    {
+      "text": "Completed coursework in network security",
+      "score": 0.9939373135566711,
+      "box": [
+        128,
+        612,
+        542,
+        647
+      ]
+    },
+    {
+      "text": "•Completed coursework in programming in C++",
+      "score": 0.9827409982681274,
+      "box": [
+        132,
+        639,
+        580,
+        669
+      ]
+    }
+  ],
+  "seconds": 2.269194600172341,
+  "id": "08993",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

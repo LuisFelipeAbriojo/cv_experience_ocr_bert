@@ -1,0 +1,172 @@
+{
+  "lines": [
+    {
+      "text": "KENDRA HINES",
+      "score": 0.9995231032371521,
+      "box": [
+        117,
+        91,
+        371,
+        121
+      ]
+    },
+    {
+      "text": "NJ, USA | +1-716-728-5994 | kendra.hines@example.com",
+      "score": 0.9823777079582214,
+      "box": [
+        116,
+        150,
+        656,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9991104602813721,
+      "box": [
+        118,
+        245,
+        314,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Accurate Path Accounting, 2020.07—2023.01",
+      "score": 0.9919161200523376,
+      "box": [
+        115,
+        288,
+        740,
+        316
+      ]
+    },
+    {
+      "text": "- Developed regulatory reporting strategies",
+      "score": 0.9875573515892029,
+      "box": [
+        126,
+        314,
+        525,
+        343
+      ]
+    },
+    {
+      "text": "- Developed financial analytics frameworks",
+      "score": 0.9986249804496765,
+      "box": [
+        129,
+        342,
+        524,
+        366
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Integrity Ledger Financial, 2018.01—2020.07",
+      "score": 0.9822604656219482,
+      "box": [
+        118,
+        383,
+        734,
+        407
+      ]
+    },
+    {
+      "text": "- Reviewed tax provisions",
+      "score": 0.9817471504211426,
+      "box": [
+        125,
+        407,
+        367,
+        433
+      ]
+    },
+    {
+      "text": "- Conducted account reconciliations",
+      "score": 0.9755094051361084,
+      "box": [
+        127,
+        431,
+        460,
+        456
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Precise Ledger Services, 2012.06—2015.01",
+      "score": 0.9911379218101501,
+      "box": [
+        118,
+        473,
+        724,
+        497
+      ]
+    },
+    {
+      "text": "- Matched invoices to purchase orders",
+      "score": 0.9990479946136475,
+      "box": [
+        126,
+        498,
+        483,
+        524
+      ]
+    },
+    {
+      "text": "- Prepared account reconciliations",
+      "score": 0.9880938529968262,
+      "box": [
+        128,
+        520,
+        447,
+        551
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999454021453857,
+      "box": [
+        118,
+        588,
+        266,
+        612
+      ]
+    },
+    {
+      "text": "Bachelor's, Business Technology, Greenwood Ridge University, 2012",
+      "score": 0.9938856959342957,
+      "box": [
+        117,
+        632,
+        760,
+        659
+      ]
+    },
+    {
+      "text": "•Completed coursework in accounting project management",
+      "score": 0.9839411377906799,
+      "box": [
+        130,
+        656,
+        689,
+        685
+      ]
+    },
+    {
+      "text": "• Completed coursework in general ledger accounting",
+      "score": 0.9809558987617493,
+      "box": [
+        132,
+        680,
+        630,
+        711
+      ]
+    }
+  ],
+  "seconds": 2.550154199823737,
+  "id": "33240",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

@@ -1,0 +1,172 @@
+{
+  "lines": [
+    {
+      "text": "NANCY SUTTON",
+      "score": 0.9993155002593994,
+      "box": [
+        117,
+        91,
+        384,
+        121
+      ]
+    },
+    {
+      "text": "CA, USA | +1-961-746-3323 | nancy.sutton@example.com",
+      "score": 0.9761669635772705,
+      "box": [
+        116,
+        150,
+        659,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9968952536582947,
+      "box": [
+        117,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, SunWell Nursing Services, 2020.08—2023.01",
+      "score": 0.9878056645393372,
+      "box": [
+        115,
+        287,
+        718,
+        318
+      ]
+    },
+    {
+      "text": "- Directed clinical quality improvement initiatives",
+      "score": 0.9963194131851196,
+      "box": [
+        125,
+        313,
+        573,
+        343
+      ]
+    },
+    {
+      "text": "- Directed clinical training standards",
+      "score": 0.9883600473403931,
+      "box": [
+        127,
+        340,
+        459,
+        366
+      ]
+    },
+    {
+      "text": "Registered Nurses, Harmony Hands Health Services, 2018.02—2020.08",
+      "score": 0.9819238781929016,
+      "box": [
+        117,
+        382,
+        780,
+        409
+      ]
+    },
+    {
+      "text": "- Monitored respiratory therapy treatments",
+      "score": 0.9959864020347595,
+      "box": [
+        125,
+        406,
+        519,
+        434
+      ]
+    },
+    {
+      "text": "- Managed patient mobility programs",
+      "score": 0.9870637059211731,
+      "box": [
+        127,
+        431,
+        467,
+        460
+      ]
+    },
+    {
+      "text": "Registered Nurses, LifePath Nursing Services, 2014.06—2016.12",
+      "score": 0.9843049049377441,
+      "box": [
+        118,
+        474,
+        716,
+        497
+      ]
+    },
+    {
+      "text": "- Assisted with patient transfers",
+      "score": 0.9760487675666809,
+      "box": [
+        128,
+        498,
+        421,
+        524
+      ]
+    },
+    {
+      "text": "- Provided patient education materials",
+      "score": 0.9776062965393066,
+      "box": [
+        127,
+        520,
+        480,
+        549
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999542236328125,
+      "box": [
+        118,
+        588,
+        266,
+        612
+      ]
+    },
+    {
+      "text": "Associate's degree, Clinical Support, Riverbend University, 2001",
+      "score": 0.9984036684036255,
+      "box": [
+        118,
+        633,
+        710,
+        657
+      ]
+    },
+    {
+      "text": "Studied fundamentals of patient mobility",
+      "score": 0.9846341013908386,
+      "box": [
+        128,
+        655,
+        519,
+        685
+      ]
+    },
+    {
+      "text": "• Completed coursework in rehabilitation nursing",
+      "score": 0.9859873652458191,
+      "box": [
+        133,
+        682,
+        581,
+        708
+      ]
+    }
+  ],
+  "seconds": 2.5493636997416615,
+  "id": "03018",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

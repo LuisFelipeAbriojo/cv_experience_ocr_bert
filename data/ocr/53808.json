@@ -1,0 +1,132 @@
+{
+  "lines": [
+    {
+      "text": "ANSON VO",
+      "score": 0.9993922710418701,
+      "box": [
+        116,
+        89,
+        296,
+        123
+      ]
+    },
+    {
+      "text": "TX, USA | +1-793-423-6016 | anson.vo@example.com",
+      "score": 0.9867717623710632,
+      "box": [
+        117,
+        149,
+        624,
+        177
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9997386932373047,
+      "box": [
+        117,
+        243,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Construction Laborers, AnchorLine Builders, 2020.112023.01",
+      "score": 0.992671549320221,
+      "box": [
+        118,
+        290,
+        693,
+        314
+      ]
+    },
+    {
+      "text": "- Developed site performance metrics",
+      "score": 0.98806232213974,
+      "box": [
+        127,
+        316,
+        476,
+        340
+      ]
+    },
+    {
+      "text": "- Directed project scheduling",
+      "score": 0.9991978406906128,
+      "box": [
+        127,
+        338,
+        395,
+        369
+      ]
+    },
+    {
+      "text": "Construction Laborers, ClearStone Construction, 2016.072018.09",
+      "score": 0.9974128007888794,
+      "box": [
+        118,
+        382,
+        735,
+        406
+      ]
+    },
+    {
+      "text": "- Installed basic formwork",
+      "score": 0.9990138411521912,
+      "box": [
+        127,
+        409,
+        366,
+        430
+      ]
+    },
+    {
+      "text": "- Installed temporary supports",
+      "score": 0.994739294052124,
+      "box": [
+        126,
+        430,
+        406,
+        458
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9998805522918701,
+      "box": [
+        117,
+        494,
+        268,
+        521
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Construction Site Management, Lakewood High School, 2006",
+      "score": 0.9839372634887695,
+      "box": [
+        117,
+        541,
+        946,
+        565
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of construction planning",
+      "score": 0.990091860294342,
+      "box": [
+        132,
+        565,
+        576,
+        592
+      ]
+    }
+  ],
+  "seconds": 2.4473464000038803,
+  "id": "53808",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

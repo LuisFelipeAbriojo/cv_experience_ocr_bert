@@ -1,0 +1,172 @@
+{
+  "lines": [
+    {
+      "text": "MEGAN VALENTINE",
+      "score": 0.9686964750289917,
+      "box": [
+        118,
+        93,
+        440,
+        120
+      ]
+    },
+    {
+      "text": "MI, USA | +1-332-804-2795 | megan.valentine@example.com",
+      "score": 0.9858505725860596,
+      "box": [
+        115,
+        150,
+        688,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9990715980529785,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, LifeBridge Health Group, 2020.07—2023.01",
+      "score": 0.9848905801773071,
+      "box": [
+        115,
+        287,
+        699,
+        318
+      ]
+    },
+    {
+      "text": "- Managed long-term care strategies",
+      "score": 0.998820960521698,
+      "box": [
+        125,
+        314,
+        466,
+        343
+      ]
+    },
+    {
+      "text": "- Managed clinical data analysis",
+      "score": 0.9892956614494324,
+      "box": [
+        126,
+        339,
+        426,
+        369
+      ]
+    },
+    {
+      "text": "Registered Nurses, SafeBridge Nursing Services, 2017.052019.11",
+      "score": 0.9991387128829956,
+      "box": [
+        117,
+        382,
+        742,
+        409
+      ]
+    },
+    {
+      "text": "- Performed patient triage",
+      "score": 0.9977912902832031,
+      "box": [
+        125,
+        407,
+        366,
+        434
+      ]
+    },
+    {
+      "text": "- Coordinated patient discharge planning",
+      "score": 0.9894722700119019,
+      "box": [
+        126,
+        430,
+        505,
+        460
+      ]
+    },
+    {
+      "text": "Registered Nurses, NewLife Care Center, 2013.06—2015.12",
+      "score": 0.9925878643989563,
+      "box": [
+        118,
+        474,
+        672,
+        498
+      ]
+    },
+    {
+      "text": "- Assisted with hygiene care",
+      "score": 0.9896640777587891,
+      "box": [
+        127,
+        497,
+        392,
+        526
+      ]
+    },
+    {
+      "text": "- Assisted with respiratory treatments",
+      "score": 0.9829391837120056,
+      "box": [
+        127,
+        521,
+        473,
+        550
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999055862426758,
+      "box": [
+        117,
+        587,
+        267,
+        614
+      ]
+    },
+    {
+      "text": "Bachelor's, Community Health, Brookway University, 2010",
+      "score": 0.9895685315132141,
+      "box": [
+        116,
+        631,
+        656,
+        659
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of pediatric nursing",
+      "score": 0.9769366979598999,
+      "box": [
+        130,
+        658,
+        533,
+        684
+      ]
+    },
+    {
+      "text": "Completed coursework in patient safety culture",
+      "score": 0.9998071193695068,
+      "box": [
+        132,
+        681,
+        582,
+        709
+      ]
+    }
+  ],
+  "seconds": 2.7922042002901435,
+  "id": "27511",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

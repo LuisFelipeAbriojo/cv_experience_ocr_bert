@@ -1,0 +1,102 @@
+{
+  "lines": [
+    {
+      "text": "FAITH HUDSON",
+      "score": 0.9834720492362976,
+      "box": [
+        117,
+        91,
+        371,
+        122
+      ]
+    },
+    {
+      "text": "MD, USA | +1-662-616-6619 | faith.hudson@example.com",
+      "score": 0.9877239465713501,
+      "box": [
+        115,
+        149,
+        658,
+        177
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9997259974479675,
+      "box": [
+        117,
+        243,
+        317,
+        270
+      ]
+    },
+    {
+      "text": "Construction Laborers, SolidTrack Construction, 2022.02—2023.01",
+      "score": 0.9876400828361511,
+      "box": [
+        118,
+        290,
+        728,
+        314
+      ]
+    },
+    {
+      "text": "- Maintained tool storage areas",
+      "score": 0.9991201758384705,
+      "box": [
+        126,
+        314,
+        418,
+        341
+      ]
+    },
+    {
+      "text": "- Installed temporary supports",
+      "score": 0.9750543832778931,
+      "box": [
+        127,
+        339,
+        406,
+        368
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999077916145325,
+      "box": [
+        116,
+        404,
+        268,
+        431
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Mechanical Technology, Skyview High School, 2023",
+      "score": 0.9878736138343811,
+      "box": [
+        115,
+        446,
+        860,
+        474
+      ]
+    },
+    {
+      "text": "Studied principles of framing methods",
+      "score": 0.9971606135368347,
+      "box": [
+        129,
+        472,
+        498,
+        500
+      ]
+    }
+  ],
+  "seconds": 1.8260151003487408,
+  "id": "23827",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

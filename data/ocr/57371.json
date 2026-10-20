@@ -1,0 +1,142 @@
+{
+  "lines": [
+    {
+      "text": "BREEANNA HOUSE",
+      "score": 0.9998149275779724,
+      "box": [
+        118,
+        91,
+        435,
+        122
+      ]
+    },
+    {
+      "text": "VA, USA| +1-910-277-7602 | breeanna.house@example.com",
+      "score": 0.9821785092353821,
+      "box": [
+        118,
+        152,
+        690,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9983782768249512,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Learning Minds School, 2019.112021.05",
+      "score": 0.9795494079589844,
+      "box": [
+        116,
+        288,
+        852,
+        318
+      ]
+    },
+    {
+      "text": "- Implemented academic policy updates",
+      "score": 0.9978167414665222,
+      "box": [
+        125,
+        314,
+        498,
+        342
+      ]
+    },
+    {
+      "text": "- Designed literacy development programs",
+      "score": 0.9928804636001587,
+      "box": [
+        127,
+        339,
+        521,
+        369
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Bright Oaks School, 2017.022018.09",
+      "score": 0.9979218244552612,
+      "box": [
+        115,
+        379,
+        818,
+        410
+      ]
+    },
+    {
+      "text": "- Distributed instructional handouts",
+      "score": 0.9977375864982605,
+      "box": [
+        126,
+        407,
+        452,
+        433
+      ]
+    },
+    {
+      "text": "- Supported individual student learning activities",
+      "score": 0.9776269793510437,
+      "box": [
+        129,
+        434,
+        571,
+        457
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999327063560486,
+      "box": [
+        117,
+        494,
+        267,
+        521
+      ]
+    },
+    {
+      "text": "Bachelor's, Educational Support, Skyview University, 2016",
+      "score": 0.990419864654541,
+      "box": [
+        115,
+        539,
+        657,
+        567
+      ]
+    },
+    {
+      "text": "•Studied fundamentals of instructional goal setting",
+      "score": 0.9906696081161499,
+      "box": [
+        128,
+        564,
+        603,
+        594
+      ]
+    },
+    {
+      "text": "Studied fundamentals of reading comprehension strategies",
+      "score": 0.9917904734611511,
+      "box": [
+        130,
+        589,
+        693,
+        618
+      ]
+    }
+  ],
+  "seconds": 2.3540064999833703,
+  "id": "57371",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

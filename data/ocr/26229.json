@@ -1,0 +1,122 @@
+{
+  "lines": [
+    {
+      "text": "MICHELLE ATKINS",
+      "score": 0.9996740818023682,
+      "box": [
+        117,
+        89,
+        422,
+        122
+      ]
+    },
+    {
+      "text": "MA, USA | +1-922-374-9449 | michelle.atkins@example.com",
+      "score": 0.985138475894928,
+      "box": [
+        117,
+        152,
+        679,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9997692108154297,
+      "box": [
+        117,
+        243,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Software Developers, Softstack Labs, 2020.032023.01",
+      "score": 0.9997940063476562,
+      "box": [
+        116,
+        289,
+        632,
+        316
+      ]
+    },
+    {
+      "text": "- Reviewed code changes for syntax and logic issues",
+      "score": 0.9892853498458862,
+      "box": [
+        125,
+        314,
+        621,
+        342
+      ]
+    },
+    {
+      "text": "- Maintained code repositories",
+      "score": 0.9639505743980408,
+      "box": [
+        128,
+        340,
+        410,
+        366
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999181032180786,
+      "box": [
+        116,
+        404,
+        268,
+        431
+      ]
+    },
+    {
+      "text": "Master's, Sunfield University, 2018",
+      "score": 0.9958861470222473,
+      "box": [
+        116,
+        449,
+        439,
+        473
+      ]
+    },
+    {
+      "text": "Bachelor's, Sunset Ridge University, 2016",
+      "score": 0.9924589991569519,
+      "box": [
+        116,
+        473,
+        508,
+        500
+      ]
+    },
+    {
+      "text": "•Completed coursework in sorting and searching algorithms",
+      "score": 0.9735087156295776,
+      "box": [
+        130,
+        498,
+        689,
+        525
+      ]
+    },
+    {
+      "text": "Studied principles of caching strategies",
+      "score": 0.9824458956718445,
+      "box": [
+        132,
+        522,
+        510,
+        552
+      ]
+    }
+  ],
+  "seconds": 1.9680000003427267,
+  "id": "26229",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

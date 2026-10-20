@@ -1,0 +1,192 @@
+{
+  "lines": [
+    {
+      "text": "MIGUEL HAHN",
+      "score": 0.9997233748435974,
+      "box": [
+        117,
+        91,
+        353,
+        122
+      ]
+    },
+    {
+      "text": "UT, USA | +1-835-378-3142 | miguel.hahn@example.com",
+      "score": 0.991233229637146,
+      "box": [
+        116,
+        150,
+        653,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.998986005783081,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, IronBuild Contractors, 2019.11—2023.01",
+      "score": 0.9864040017127991,
+      "box": [
+        116,
+        288,
+        704,
+        316
+      ]
+    },
+    {
+      "text": "- Managed workforce allocation",
+      "score": 0.9995589852333069,
+      "box": [
+        125,
+        314,
+        420,
+        342
+      ]
+    },
+    {
+      "text": "- Managed equipment maintenance programs",
+      "score": 0.993233859539032,
+      "box": [
+        127,
+        340,
+        552,
+        368
+      ]
+    },
+    {
+      "text": "Construction Laborers, TrueBuild Co., 2016.092019.11",
+      "score": 0.9898180365562439,
+      "box": [
+        118,
+        383,
+        634,
+        407
+      ]
+    },
+    {
+      "text": "- Directed quality assurance programs",
+      "score": 0.9985929131507874,
+      "box": [
+        126,
+        408,
+        482,
+        434
+      ]
+    },
+    {
+      "text": "- Established project documentation systems",
+      "score": 0.9928945302963257,
+      "box": [
+        126,
+        432,
+        544,
+        459
+      ]
+    },
+    {
+      "text": "Construction Laborers, SolidFrame Construction, 2012.02—2015.04",
+      "score": 0.9811137914657593,
+      "box": [
+        116,
+        471,
+        739,
+        499
+      ]
+    },
+    {
+      "text": "- Prepared construction schedules",
+      "score": 0.9996208548545837,
+      "box": [
+        125,
+        497,
+        448,
+        525
+      ]
+    },
+    {
+      "text": "- Prepared cost estimates",
+      "score": 0.9786900877952576,
+      "box": [
+        127,
+        521,
+        369,
+        551
+      ]
+    },
+    {
+      "text": "Construction Laborers, PrimeLine Construction, 2008.042011.07",
+      "score": 0.989319384098053,
+      "box": [
+        118,
+        566,
+        725,
+        590
+      ]
+    },
+    {
+      "text": "- Operated hand tools for assembly tasks",
+      "score": 0.9883795976638794,
+      "box": [
+        128,
+        592,
+        509,
+        616
+      ]
+    },
+    {
+      "text": "- Followed safety procedures on site",
+      "score": 0.997258186340332,
+      "box": [
+        127,
+        613,
+        465,
+        643
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9998959302902222,
+      "box": [
+        117,
+        681,
+        266,
+        705
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Building Trades, Rockland High School, 2002",
+      "score": 0.98418128490448,
+      "box": [
+        117,
+        726,
+        797,
+        749
+      ]
+    },
+    {
+      "text": "Studied principles of structural support systems",
+      "score": 0.9966815114021301,
+      "box": [
+        129,
+        748,
+        587,
+        776
+      ]
+    }
+  ],
+  "seconds": 2.69191940035671,
+  "id": "55654",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

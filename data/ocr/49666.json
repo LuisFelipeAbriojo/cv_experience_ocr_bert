@@ -1,0 +1,112 @@
+{
+  "lines": [
+    {
+      "text": "BRYAN WALTON",
+      "score": 0.9983249306678772,
+      "box": [
+        118,
+        91,
+        393,
+        122
+      ]
+    },
+    {
+      "text": "TX, USA | +1-546-487-1593 | bryan.walton@example.com",
+      "score": 0.9957878589630127,
+      "box": [
+        117,
+        149,
+        657,
+        177
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9997444152832031,
+      "box": [
+        117,
+        243,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Software Developers, Cloudstack Labs, 2021.09—2023.01",
+      "score": 0.9855458736419678,
+      "box": [
+        115,
+        287,
+        650,
+        315
+      ]
+    },
+    {
+      "text": "- Created test data sets",
+      "score": 0.9966714382171631,
+      "box": [
+        126,
+        314,
+        348,
+        340
+      ]
+    },
+    {
+      "text": "- Handled feature toggles",
+      "score": 0.9559396505355835,
+      "box": [
+        126,
+        338,
+        365,
+        368
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999259114265442,
+      "box": [
+        116,
+        404,
+        268,
+        431
+      ]
+    },
+    {
+      "text": "Some college (no degree), Willow Creek University, 2022",
+      "score": 0.9885579347610474,
+      "box": [
+        116,
+        446,
+        647,
+        475
+      ]
+    },
+    {
+      "text": "•Completed coursework in information retrieval",
+      "score": 0.9748772978782654,
+      "box": [
+        132,
+        474,
+        574,
+        498
+      ]
+    },
+    {
+      "text": "Studied principles of software documentation",
+      "score": 0.9923686385154724,
+      "box": [
+        132,
+        497,
+        566,
+        525
+      ]
+    }
+  ],
+  "seconds": 1.9119167001917958,
+  "id": "49666",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

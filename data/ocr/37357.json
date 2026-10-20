@@ -1,0 +1,182 @@
+{
+  "lines": [
+    {
+      "text": "KC HERMAN",
+      "score": 0.9449045658111572,
+      "box": [
+        118,
+        92,
+        322,
+        120
+      ]
+    },
+    {
+      "text": "NY, USA | +1-295-904-7860 | kc.herman@example.com",
+      "score": 0.9842185974121094,
+      "box": [
+        115,
+        150,
+        637,
+        177
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9992032647132874,
+      "box": [
+        118,
+        245,
+        314,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Accurate Ledger Financial, 2020.06—2023.01",
+      "score": 0.9977289438247681,
+      "box": [
+        115,
+        288,
+        742,
+        316
+      ]
+    },
+    {
+      "text": "- Led accounting process optimization",
+      "score": 0.9945712685585022,
+      "box": [
+        129,
+        317,
+        479,
+        341
+      ]
+    },
+    {
+      "text": "- Managed consolidation processes",
+      "score": 0.9984443187713623,
+      "box": [
+        127,
+        339,
+        458,
+        368
+      ]
+    },
+    {
+      "text": "Accountants Auditors, ClearBalance Advisors, 2017.112020.06",
+      "score": 0.9979498982429504,
+      "box": [
+        118,
+        383,
+        710,
+        407
+      ]
+    },
+    {
+      "text": "- Supervised junior accountants",
+      "score": 0.9993575215339661,
+      "box": [
+        125,
+        408,
+        422,
+        433
+      ]
+    },
+    {
+      "text": "- Managed general ledger maintenance",
+      "score": 0.9793698191642761,
+      "box": [
+        127,
+        432,
+        493,
+        458
+      ]
+    },
+    {
+      "text": "Accountants Auditors, FairBooks Services, 2015.032017.11",
+      "score": 0.9991641640663147,
+      "box": [
+        118,
+        474,
+        678,
+        497
+      ]
+    },
+    {
+      "text": "- Assisted with regulatory filings",
+      "score": 0.9954665899276733,
+      "box": [
+        127,
+        496,
+        423,
+        526
+      ]
+    },
+    {
+      "text": "- Maintained supporting documentation",
+      "score": 0.999225914478302,
+      "box": [
+        128,
+        521,
+        490,
+        551
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999514818191528,
+      "box": [
+        118,
+        588,
+        266,
+        612
+      ]
+    },
+    {
+      "text": "Master's, Business Analytics, Parkview University, 2020",
+      "score": 0.9708250164985657,
+      "box": [
+        117,
+        633,
+        632,
+        657
+      ]
+    },
+    {
+      "text": "Bachelor's, Administrative Studies, Cedarfield University, 2018",
+      "score": 0.9931738972663879,
+      "box": [
+        116,
+        656,
+        695,
+        683
+      ]
+    },
+    {
+      "text": "• Completed coursework in macroeconomics",
+      "score": 0.9956863522529602,
+      "box": [
+        133,
+        684,
+        548,
+        707
+      ]
+    },
+    {
+      "text": "Completed coursework in accounts receivable",
+      "score": 0.9929358959197998,
+      "box": [
+        132,
+        705,
+        575,
+        735
+      ]
+    }
+  ],
+  "seconds": 2.6455439999699593,
+  "id": "37357",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

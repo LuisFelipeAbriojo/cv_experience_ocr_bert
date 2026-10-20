@@ -1,0 +1,112 @@
+{
+  "lines": [
+    {
+      "text": "DIONNE BURTON",
+      "score": 0.995558500289917,
+      "box": [
+        118,
+        91,
+        402,
+        122
+      ]
+    },
+    {
+      "text": "DC, USA | +1-869-773-7589 | dionne.burton@example.com",
+      "score": 0.9691587686538696,
+      "box": [
+        118,
+        152,
+        669,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9997587203979492,
+      "box": [
+        117,
+        243,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Accountants Auditors, FairLedger Advisors, 2021.07-2023.01",
+      "score": 0.9892799258232117,
+      "box": [
+        115,
+        287,
+        686,
+        315
+      ]
+    },
+    {
+      "text": "- Performed data validation checks",
+      "score": 0.9993520379066467,
+      "box": [
+        125,
+        312,
+        452,
+        341
+      ]
+    },
+    {
+      "text": "- Prepared journal entries",
+      "score": 0.9907733201980591,
+      "box": [
+        128,
+        340,
+        367,
+        367
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999426603317261,
+      "box": [
+        116,
+        404,
+        268,
+        431
+      ]
+    },
+    {
+      "text": "Bachelor's, Applied Finance, Prairie Ridge University, 2022",
+      "score": 0.9989376664161682,
+      "box": [
+        116,
+        448,
+        664,
+        475
+      ]
+    },
+    {
+      "text": "Studied fundamentals of professional writing",
+      "score": 0.989699125289917,
+      "box": [
+        128,
+        472,
+        559,
+        501
+      ]
+    },
+    {
+      "text": "•Studied fundamentals of regulatory compliance",
+      "score": 0.9866835474967957,
+      "box": [
+        130,
+        497,
+        583,
+        526
+      ]
+    }
+  ],
+  "seconds": 1.9314633999019861,
+  "id": "11783",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

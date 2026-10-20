@@ -1,0 +1,182 @@
+{
+  "lines": [
+    {
+      "text": "RICARDO WHITE",
+      "score": 0.9995760321617126,
+      "box": [
+        118,
+        91,
+        390,
+        122
+      ]
+    },
+    {
+      "text": "CA, USA | +1-908-709-4210 | ricardo.white@example.com",
+      "score": 0.9875901341438293,
+      "box": [
+        118,
+        152,
+        658,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9988656044006348,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Brightnode Software, 2020.04—2023.01",
+      "score": 0.9898792505264282,
+      "box": [
+        115,
+        288,
+        685,
+        316
+      ]
+    },
+    {
+      "text": "- Designed logging infrastructures",
+      "score": 0.9842295050621033,
+      "box": [
+        127,
+        314,
+        442,
+        342
+      ]
+    },
+    {
+      "text": "- Led system reliability programs",
+      "score": 0.9860442280769348,
+      "box": [
+        128,
+        339,
+        431,
+        369
+      ]
+    },
+    {
+      "text": "Software Developers, Codewave Tech, 2017.062020.04",
+      "score": 0.9947761297225952,
+      "box": [
+        117,
+        382,
+        648,
+        409
+      ]
+    },
+    {
+      "text": "- Developed access control logic",
+      "score": 0.9918050765991211,
+      "box": [
+        125,
+        407,
+        431,
+        435
+      ]
+    },
+    {
+      "text": "- Designed integration tests",
+      "score": 0.9880460500717163,
+      "box": [
+        127,
+        431,
+        384,
+        460
+      ]
+    },
+    {
+      "text": "Software Developers, Skycore Technologies, 2013.032016.01",
+      "score": 0.9883255362510681,
+      "box": [
+        117,
+        472,
+        699,
+        499
+      ]
+    },
+    {
+      "text": "- Implemented basic authentication logic",
+      "score": 0.98126620054245,
+      "box": [
+        128,
+        499,
+        502,
+        523
+      ]
+    },
+    {
+      "text": "- Handled file uploads",
+      "score": 0.9862056374549866,
+      "box": [
+        127,
+        520,
+        332,
+        550
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999352693557739,
+      "box": [
+        118,
+        588,
+        266,
+        612
+      ]
+    },
+    {
+      "text": "Master's, Sunrise University, 2011",
+      "score": 0.982571542263031,
+      "box": [
+        117,
+        633,
+        434,
+        657
+      ]
+    },
+    {
+      "text": "Bachelor's, Larkspur University, 2009",
+      "score": 0.9965115189552307,
+      "box": [
+        115,
+        656,
+        463,
+        684
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of software metrics",
+      "score": 0.9831663966178894,
+      "box": [
+        132,
+        683,
+        531,
+        707
+      ]
+    },
+    {
+      "text": "Completed coursework in pointer arithmetic basics",
+      "score": 0.9704566597938538,
+      "box": [
+        131,
+        704,
+        616,
+        736
+      ]
+    }
+  ],
+  "seconds": 2.397405999712646,
+  "id": "03868",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

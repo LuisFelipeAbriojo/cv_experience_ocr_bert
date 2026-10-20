@@ -1,0 +1,142 @@
+{
+  "lines": [
+    {
+      "text": "IVAN WANG",
+      "score": 0.9987633228302002,
+      "box": [
+        116,
+        91,
+        312,
+        122
+      ]
+    },
+    {
+      "text": "CA, USA | +1-633-742-5553 | ivan.wang@example.com",
+      "score": 0.9896202087402344,
+      "box": [
+        118,
+        152,
+        633,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.999749481678009,
+      "box": [
+        117,
+        243,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Software Developers, Softline Digital, 2021.042023.01",
+      "score": 0.984190046787262,
+      "box": [
+        116,
+        289,
+        628,
+        316
+      ]
+    },
+    {
+      "text": "- Designed data storage strategies",
+      "score": 0.9905853271484375,
+      "box": [
+        125,
+        314,
+        450,
+        343
+      ]
+    },
+    {
+      "text": "- Defined API governance models",
+      "score": 0.9927916526794434,
+      "box": [
+        127,
+        339,
+        443,
+        367
+      ]
+    },
+    {
+      "text": "Software Developers, Softgrid Tech, 2019.072021.04",
+      "score": 0.9980663061141968,
+      "box": [
+        115,
+        380,
+        622,
+        408
+      ]
+    },
+    {
+      "text": "- Implemented REST endpoints",
+      "score": 0.9714130163192749,
+      "box": [
+        126,
+        408,
+        421,
+        432
+      ]
+    },
+    {
+      "text": "- Participated in code reviews",
+      "score": 0.9659755229949951,
+      "box": [
+        128,
+        431,
+        402,
+        457
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999139308929443,
+      "box": [
+        116,
+        494,
+        268,
+        521
+      ]
+    },
+    {
+      "text": "Bachelor's, Driftwood University, 2023",
+      "score": 0.97784423828125,
+      "box": [
+        116,
+        540,
+        470,
+        567
+      ]
+    },
+    {
+      "text": "•Studied principles of caching strategies",
+      "score": 0.9736638069152832,
+      "box": [
+        129,
+        566,
+        510,
+        592
+      ]
+    },
+    {
+      "text": "•Studied principles of garbage collection",
+      "score": 0.9930834174156189,
+      "box": [
+        131,
+        592,
+        510,
+        616
+      ]
+    }
+  ],
+  "seconds": 2.2472164002247155,
+  "id": "08433",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

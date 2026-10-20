@@ -1,0 +1,112 @@
+{
+  "lines": [
+    {
+      "text": "ISABELLE HUFF",
+      "score": 0.9997803568840027,
+      "box": [
+        115,
+        87,
+        383,
+        123
+      ]
+    },
+    {
+      "text": "AZ, USA | +1-552-600-4676 | isabelle.huff@example.com",
+      "score": 0.995622456073761,
+      "box": [
+        117,
+        150,
+        650,
+        177
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.99977046251297,
+      "box": [
+        117,
+        243,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Software Developers, Corefield Software, 2022.05—2023.01",
+      "score": 0.9934929609298706,
+      "box": [
+        116,
+        289,
+        667,
+        316
+      ]
+    },
+    {
+      "text": "- Configured development environments",
+      "score": 0.9930543899536133,
+      "box": [
+        127,
+        316,
+        500,
+        340
+      ]
+    },
+    {
+      "text": "- Assisted with system documentation",
+      "score": 0.9841243028640747,
+      "box": [
+        128,
+        340,
+        478,
+        366
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999258518218994,
+      "box": [
+        116,
+        404,
+        268,
+        431
+      ]
+    },
+    {
+      "text": "Bachelor's, Amber Hills University, 2023",
+      "score": 0.9892884492874146,
+      "box": [
+        116,
+        447,
+        489,
+        474
+      ]
+    },
+    {
+      "text": "Completed coursework in schema design",
+      "score": 0.9883486032485962,
+      "box": [
+        129,
+        472,
+        530,
+        501
+      ]
+    },
+    {
+      "text": "Studied principles of software reliability",
+      "score": 0.996184229850769,
+      "box": [
+        132,
+        497,
+        507,
+        527
+      ]
+    }
+  ],
+  "seconds": 1.8031905996613204,
+  "id": "02050",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

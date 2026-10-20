@@ -1,0 +1,112 @@
+{
+  "lines": [
+    {
+      "text": "IVAN CLARK",
+      "score": 0.9985899925231934,
+      "box": [
+        116,
+        90,
+        324,
+        121
+      ]
+    },
+    {
+      "text": "MS, USA | +1-591-330-1611 | ivan.clark@example.com",
+      "score": 0.9816654324531555,
+      "box": [
+        115,
+        149,
+        632,
+        177
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9997053742408752,
+      "box": [
+        117,
+        243,
+        317,
+        270
+      ]
+    },
+    {
+      "text": "Construction Laborers, SolidBuild Group, 2020.04—2023.01",
+      "score": 0.9863878488540649,
+      "box": [
+        116,
+        287,
+        664,
+        315
+      ]
+    },
+    {
+      "text": "- Assisted with roofing material handling",
+      "score": 0.9880388975143433,
+      "box": [
+        124,
+        312,
+        499,
+        342
+      ]
+    },
+    {
+      "text": "- Supported crew leaders during tasks",
+      "score": 0.9851978421211243,
+      "box": [
+        127,
+        339,
+        482,
+        367
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999277591705322,
+      "box": [
+        116,
+        404,
+        268,
+        431
+      ]
+    },
+    {
+      "text": "Some college (no degree), Construction Equipment Technology, Cedarfield University, 2023",
+      "score": 0.9964103698730469,
+      "box": [
+        117,
+        447,
+        967,
+        474
+      ]
+    },
+    {
+      "text": "• Studied principles of equipment calibration",
+      "score": 0.9884564876556396,
+      "box": [
+        130,
+        475,
+        541,
+        498
+      ]
+    },
+    {
+      "text": "Studied principles of electrical systems basics",
+      "score": 0.9864404797554016,
+      "box": [
+        131,
+        497,
+        572,
+        525
+      ]
+    }
+  ],
+  "seconds": 2.0252625001594424,
+  "id": "29823",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

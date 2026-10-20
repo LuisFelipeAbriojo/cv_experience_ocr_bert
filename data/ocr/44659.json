@@ -1,0 +1,112 @@
+{
+  "lines": [
+    {
+      "text": "YOSELYN SHIELDS",
+      "score": 0.9965471625328064,
+      "box": [
+        118,
+        91,
+        431,
+        122
+      ]
+    },
+    {
+      "text": "PA, USA | +1-440-933-4348 | yoselyn.shields@example.com",
+      "score": 0.9898505210876465,
+      "box": [
+        115,
+        149,
+        681,
+        177
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9997236132621765,
+      "box": [
+        117,
+        243,
+        317,
+        270
+      ]
+    },
+    {
+      "text": "Accountants Auditors, EverBalance Group, 2021.09—2023.01",
+      "score": 0.9932780861854553,
+      "box": [
+        115,
+        287,
+        681,
+        315
+      ]
+    },
+    {
+      "text": "- Assisted with forecasting data",
+      "score": 0.9908677339553833,
+      "box": [
+        125,
+        314,
+        419,
+        340
+      ]
+    },
+    {
+      "text": "- Maintained chart of accounts",
+      "score": 0.9876760840415955,
+      "box": [
+        126,
+        339,
+        410,
+        364
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9998970031738281,
+      "box": [
+        116,
+        404,
+        268,
+        431
+      ]
+    },
+    {
+      "text": "Some college (no degree), Economic Studies, Edgewood University, 2023",
+      "score": 0.9849320650100708,
+      "box": [
+        116,
+        446,
+        802,
+        476
+      ]
+    },
+    {
+      "text": "Studied principles of transfer pricing",
+      "score": 0.9915919303894043,
+      "box": [
+        129,
+        472,
+        481,
+        501
+      ]
+    },
+    {
+      "text": "•Completed coursework in accounts receivable",
+      "score": 0.9851620197296143,
+      "box": [
+        134,
+        499,
+        574,
+        523
+      ]
+    }
+  ],
+  "seconds": 2.04498550016433,
+  "id": "44659",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

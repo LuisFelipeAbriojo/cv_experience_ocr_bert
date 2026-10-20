@@ -1,0 +1,162 @@
+{
+  "lines": [
+    {
+      "text": "JEAN PATEL",
+      "score": 0.9998511075973511,
+      "box": [
+        115,
+        89,
+        326,
+        122
+      ]
+    },
+    {
+      "text": "HI, USA | +1-248-816-2450 | jean.patel@example.com",
+      "score": 0.9742511510848999,
+      "box": [
+        116,
+        151,
+        623,
+        177
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9985945820808411,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, Sunrise Health Services, 2020.06—2023.01",
+      "score": 0.9914674162864685,
+      "box": [
+        116,
+        288,
+        697,
+        316
+      ]
+    },
+    {
+      "text": "- Managed patient safety reporting systems",
+      "score": 0.9791923761367798,
+      "box": [
+        125,
+        313,
+        530,
+        343
+      ]
+    },
+    {
+      "text": "- Led nursing process audits",
+      "score": 0.9925697445869446,
+      "box": [
+        127,
+        339,
+        392,
+        370
+      ]
+    },
+    {
+      "text": "Registered Nurses, Caring Bridge Care, 2017.112020.06",
+      "score": 0.9920509457588196,
+      "box": [
+        118,
+        383,
+        654,
+        407
+      ]
+    },
+    {
+      "text": "- Recorded nursing notes",
+      "score": 0.9960312843322754,
+      "box": [
+        125,
+        405,
+        364,
+        434
+      ]
+    },
+    {
+      "text": "- Prepared discharge instructions",
+      "score": 0.9892564415931702,
+      "box": [
+        126,
+        430,
+        436,
+        461
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999383091926575,
+      "box": [
+        116,
+        494,
+        267,
+        521
+      ]
+    },
+    {
+      "text": "Doctorate, Pediatric Care, Stonecrest University, 2015",
+      "score": 0.9879886507987976,
+      "box": [
+        115,
+        539,
+        621,
+        567
+      ]
+    },
+    {
+      "text": "Bachelor's, Nursing Studies, Westbrook University, 2010",
+      "score": 0.9953446388244629,
+      "box": [
+        117,
+        567,
+        640,
+        591
+      ]
+    },
+    {
+      "text": "• Completed coursework in communication in care teams",
+      "score": 0.9779245853424072,
+      "box": [
+        129,
+        592,
+        660,
+        617
+      ]
+    },
+    {
+      "text": "Studied principles of hydration management",
+      "score": 0.9995215535163879,
+      "box": [
+        129,
+        614,
+        558,
+        644
+      ]
+    },
+    {
+      "text": "• Completed coursework in clinical audits basics",
+      "score": 0.9874786734580994,
+      "box": [
+        134,
+        642,
+        579,
+        666
+      ]
+    }
+  ],
+  "seconds": 2.2889466998167336,
+  "id": "16838",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

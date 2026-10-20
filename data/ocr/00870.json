@@ -1,0 +1,112 @@
+{
+  "lines": [
+    {
+      "text": "KIERAN POOLE",
+      "score": 0.999717652797699,
+      "box": [
+        116,
+        89,
+        373,
+        123
+      ]
+    },
+    {
+      "text": "AL, USA | +1-740-264-8213 | kieran.poole@example.com",
+      "score": 0.9940707087516785,
+      "box": [
+        117,
+        150,
+        651,
+        177
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9997680187225342,
+      "box": [
+        117,
+        243,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Registered Nurses, TrueSpring Nursing, 2020.12—2023.01",
+      "score": 0.9924217462539673,
+      "box": [
+        115,
+        288,
+        655,
+        316
+      ]
+    },
+    {
+      "text": "- Prepared patients for examinations",
+      "score": 0.9983023405075073,
+      "box": [
+        125,
+        312,
+        467,
+        342
+      ]
+    },
+    {
+      "text": "- Recorded shift handoff notes",
+      "score": 0.9886667132377625,
+      "box": [
+        127,
+        339,
+        410,
+        365
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999239444732666,
+      "box": [
+        116,
+        404,
+        268,
+        431
+      ]
+    },
+    {
+      "text": "Bachelor's, Health Promotion, Windridge University, 2021",
+      "score": 0.9911743998527527,
+      "box": [
+        115,
+        446,
+        646,
+        474
+      ]
+    },
+    {
+      "text": "Completed coursework in pressure injury prevention",
+      "score": 0.9868272542953491,
+      "box": [
+        129,
+        472,
+        630,
+        500
+      ]
+    },
+    {
+      "text": "Studied principles of pharmacology",
+      "score": 0.9999291896820068,
+      "box": [
+        132,
+        495,
+        473,
+        528
+      ]
+    }
+  ],
+  "seconds": 1.9019674002192914,
+  "id": "00870",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

@@ -1,0 +1,162 @@
+{
+  "lines": [
+    {
+      "text": "ROBERT GIBBS",
+      "score": 0.999491274356842,
+      "box": [
+        117,
+        91,
+        374,
+        122
+      ]
+    },
+    {
+      "text": "IA, USA | +1-891-868-7488 | robert.gibbs@example.com",
+      "score": 0.9865105152130127,
+      "box": [
+        116,
+        150,
+        641,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9987999796867371,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, Allied Craft Co., 2019.102023.01",
+      "score": 0.993751049041748,
+      "box": [
+        118,
+        290,
+        647,
+        314
+      ]
+    },
+    {
+      "text": "- Reviewed material quality standards",
+      "score": 0.9944586753845215,
+      "box": [
+        126,
+        314,
+        476,
+        341
+      ]
+    },
+    {
+      "text": "- Developed cost estimation models",
+      "score": 0.9747186303138733,
+      "box": [
+        128,
+        340,
+        460,
+        366
+      ]
+    },
+    {
+      "text": "Construction Laborers, Precision Stone Builders, 2015.092019.01",
+      "score": 0.9968205094337463,
+      "box": [
+        117,
+        381,
+        735,
+        408
+      ]
+    },
+    {
+      "text": "- Prepared cost estimates",
+      "score": 0.9786064028739929,
+      "box": [
+        126,
+        410,
+        366,
+        431
+      ]
+    },
+    {
+      "text": "- Installed roofing materials",
+      "score": 0.9993044137954712,
+      "box": [
+        129,
+        434,
+        380,
+        457
+      ]
+    },
+    {
+      "text": "Construction Laborers, StrongForm Builders, 2011.082014.12",
+      "score": 0.997909665107727,
+      "box": [
+        117,
+        472,
+        701,
+        499
+      ]
+    },
+    {
+      "text": "- Assisted with concrete pouring",
+      "score": 0.9906184673309326,
+      "box": [
+        125,
+        495,
+        426,
+        526
+      ]
+    },
+    {
+      "text": "- Dug trenches for utility lines",
+      "score": 0.9793919324874878,
+      "box": [
+        127,
+        520,
+        400,
+        551
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9998762607574463,
+      "box": [
+        117,
+        586,
+        267,
+        613
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Construction Planning, Greenwood High School, 2000",
+      "score": 0.9979239106178284,
+      "box": [
+        117,
+        632,
+        877,
+        659
+      ]
+    },
+    {
+      "text": "• Studied principles of construction workflow analysis",
+      "score": 0.980197548866272,
+      "box": [
+        131,
+        659,
+        622,
+        683
+      ]
+    }
+  ],
+  "seconds": 2.4342020000331104,
+  "id": "21254",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

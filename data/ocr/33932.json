@@ -1,0 +1,212 @@
+{
+  "lines": [
+    {
+      "text": "BRANDIE THOMPSON",
+      "score": 0.9997277855873108,
+      "box": [
+        118,
+        91,
+        472,
+        121
+      ]
+    },
+    {
+      "text": "NJ, USA | +1-612-489-2651 | brandie.thompson@example.com",
+      "score": 0.9896992444992065,
+      "box": [
+        115,
+        149,
+        704,
+        179
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.999011754989624,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Integrity Count Services, 2017.08—2023.01",
+      "score": 0.9851225018501282,
+      "box": [
+        114,
+        287,
+        722,
+        318
+      ]
+    },
+    {
+      "text": "- Directed financial reporting processes",
+      "score": 0.9866134524345398,
+      "box": [
+        125,
+        314,
+        493,
+        344
+      ]
+    },
+    {
+      "text": "- Developed internal control systems",
+      "score": 0.9963371753692627,
+      "box": [
+        127,
+        339,
+        467,
+        370
+      ]
+    },
+    {
+      "text": "Accountants Auditors, OpenBooks Financial Group, 2012.032017.08",
+      "score": 0.9861416816711426,
+      "box": [
+        116,
+        381,
+        763,
+        409
+      ]
+    },
+    {
+      "text": "- Designed financial documentation standards",
+      "score": 0.9943408966064453,
+      "box": [
+        127,
+        409,
+        552,
+        432
+      ]
+    },
+    {
+      "text": "- Developed accounting innovation plans",
+      "score": 0.9949262738227844,
+      "box": [
+        128,
+        432,
+        504,
+        458
+      ]
+    },
+    {
+      "text": "Accountants Auditors, ClearView Accounting, 2006.102012.03",
+      "score": 0.9978794455528259,
+      "box": [
+        118,
+        474,
+        704,
+        498
+      ]
+    },
+    {
+      "text": "- Reviewed tax provisions",
+      "score": 0.9995676279067993,
+      "box": [
+        125,
+        497,
+        369,
+        526
+      ]
+    },
+    {
+      "text": "- Prepared financial projections",
+      "score": 0.9939264059066772,
+      "box": [
+        127,
+        521,
+        418,
+        552
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Integrity Ledger Advisors, 2001.05—2006.10",
+      "score": 0.9774784445762634,
+      "box": [
+        115,
+        562,
+        732,
+        593
+      ]
+    },
+    {
+      "text": "- Assisted with audit fieldwork",
+      "score": 0.9839192628860474,
+      "box": [
+        127,
+        591,
+        406,
+        614
+      ]
+    },
+    {
+      "text": "- Assisted with tax form preparation",
+      "score": 0.9722955226898193,
+      "box": [
+        126,
+        613,
+        457,
+        642
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9998980760574341,
+      "box": [
+        117,
+        681,
+        266,
+        705
+      ]
+    },
+    {
+      "text": "Master's, Accounting Practice, Cedarfield University, 2004",
+      "score": 0.9989814162254333,
+      "box": [
+        115,
+        723,
+        655,
+        750
+      ]
+    },
+    {
+      "text": "Bachelor's, Business Management, Windridge University, 2002",
+      "score": 0.9968042373657227,
+      "box": [
+        116,
+        749,
+        700,
+        776
+      ]
+    },
+    {
+      "text": "•Completed coursework in lease accounting",
+      "score": 0.9820109009742737,
+      "box": [
+        129,
+        773,
+        547,
+        802
+      ]
+    },
+    {
+      "text": "• Completed coursework in audit ethics",
+      "score": 0.9850614666938782,
+      "box": [
+        133,
+        800,
+        494,
+        824
+      ]
+    }
+  ],
+  "seconds": 2.998575699981302,
+  "id": "33932",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

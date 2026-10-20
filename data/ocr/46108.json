@@ -1,0 +1,142 @@
+{
+  "lines": [
+    {
+      "text": "RYAN ASHLEY",
+      "score": 0.9995313882827759,
+      "box": [
+        117,
+        91,
+        358,
+        122
+      ]
+    },
+    {
+      "text": "PA, USA | +1-975-897-6394 | ryan.ashley@example.com",
+      "score": 0.9838598370552063,
+      "box": [
+        115,
+        149,
+        646,
+        177
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9997650980949402,
+      "box": [
+        117,
+        243,
+        315,
+        270
+      ]
+    },
+    {
+      "text": "Construction Laborers, StrongLine Builders, 2020.05—2023.01",
+      "score": 0.9812669157981873,
+      "box": [
+        118,
+        290,
+        688,
+        314
+      ]
+    },
+    {
+      "text": "- Developed construction workflows",
+      "score": 0.9911529421806335,
+      "box": [
+        126,
+        314,
+        457,
+        340
+      ]
+    },
+    {
+      "text": "- Directed construction audits",
+      "score": 0.9856969714164734,
+      "box": [
+        127,
+        339,
+        399,
+        365
+      ]
+    },
+    {
+      "text": "Construction Laborers, PrimeWay Construction, 2017.08—2020.05",
+      "score": 0.9888848066329956,
+      "box": [
+        116,
+        380,
+        728,
+        408
+      ]
+    },
+    {
+      "text": "- Followed safety procedures on site",
+      "score": 0.975116491317749,
+      "box": [
+        125,
+        407,
+        465,
+        432
+      ]
+    },
+    {
+      "text": "- Followed blueprint instructions",
+      "score": 0.9833512902259827,
+      "box": [
+        128,
+        431,
+        423,
+        457
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9997723698616028,
+      "box": [
+        118,
+        495,
+        266,
+        519
+      ]
+    },
+    {
+      "text": "Some college (no degree), Building Technology, Willow Ridge University, 2020",
+      "score": 0.9817261695861816,
+      "box": [
+        117,
+        540,
+        844,
+        567
+      ]
+    },
+    {
+      "text": "•Completed coursework in construction site signage",
+      "score": 0.9756858348846436,
+      "box": [
+        129,
+        564,
+        620,
+        594
+      ]
+    },
+    {
+      "text": "•Studied fundamentals of power tool operation",
+      "score": 0.9936066269874573,
+      "box": [
+        132,
+        590,
+        568,
+        616
+      ]
+    }
+  ],
+  "seconds": 2.640307900030166,
+  "id": "46108",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

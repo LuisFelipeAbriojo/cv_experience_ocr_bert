@@ -1,0 +1,112 @@
+{
+  "lines": [
+    {
+      "text": "ANGELA SANFORD",
+      "score": 0.9997426271438599,
+      "box": [
+        118,
+        91,
+        434,
+        122
+      ]
+    },
+    {
+      "text": "PA, USA | +1-791-891-1115 | angela.sanford@example.com",
+      "score": 0.9853976964950562,
+      "box": [
+        116,
+        149,
+        677,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9993436336517334,
+      "box": [
+        116,
+        243,
+        317,
+        270
+      ]
+    },
+    {
+      "text": "Registered Nurses, SunLife Care Group, 2021.03—2023.01",
+      "score": 0.9781065583229065,
+      "box": [
+        114,
+        286,
+        661,
+        317
+      ]
+    },
+    {
+      "text": "- Updated patient medical records",
+      "score": 0.9918813705444336,
+      "box": [
+        126,
+        315,
+        442,
+        339
+      ]
+    },
+    {
+      "text": "- Maintained infection control protocols",
+      "score": 0.9850724935531616,
+      "box": [
+        126,
+        338,
+        486,
+        366
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999277591705322,
+      "box": [
+        116,
+        404,
+        268,
+        431
+      ]
+    },
+    {
+      "text": "Bachelor's, Patient Services, Brightfield Ridge University, 2020",
+      "score": 0.981351912021637,
+      "box": [
+        116,
+        447,
+        696,
+        474
+      ]
+    },
+    {
+      "text": "•Studied fundamentals of end-of-life care",
+      "score": 0.9755405187606812,
+      "box": [
+        129,
+        473,
+        519,
+        498
+      ]
+    },
+    {
+      "text": "•Studied fundamentals of infusion pump use",
+      "score": 0.9912125468254089,
+      "box": [
+        131,
+        498,
+        549,
+        524
+      ]
+    }
+  ],
+  "seconds": 2.6654103002510965,
+  "id": "46490",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

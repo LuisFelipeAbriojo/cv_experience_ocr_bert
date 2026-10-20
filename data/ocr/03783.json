@@ -1,0 +1,202 @@
+{
+  "lines": [
+    {
+      "text": "GERALYN SULLIVAN",
+      "score": 0.9925446510314941,
+      "box": [
+        118,
+        92,
+        457,
+        122
+      ]
+    },
+    {
+      "text": "CA, USA | +1-675-320-6528 | geralyn.sullivan@example.com",
+      "score": 0.9848685264587402,
+      "box": [
+        116,
+        150,
+        684,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.999034583568573,
+      "box": [
+        116,
+        242,
+        316,
+        271
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, New Beginnings School, 2017.112023.01",
+      "score": 0.9970182776451111,
+      "box": [
+        116,
+        289,
+        857,
+        319
+      ]
+    },
+    {
+      "text": "- Established instructional review cycles",
+      "score": 0.9968452453613281,
+      "box": [
+        126,
+        316,
+        497,
+        341
+      ]
+    },
+    {
+      "text": "- Led academic improvement programs",
+      "score": 0.9843180179595947,
+      "box": [
+        127,
+        340,
+        493,
+        369
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Golden Bridge School, 2012.092017.11",
+      "score": 0.9997556209564209,
+      "box": [
+        117,
+        382,
+        840,
+        409
+      ]
+    },
+    {
+      "text": "- Developed system-wide assessment tools",
+      "score": 0.988284707069397,
+      "box": [
+        127,
+        409,
+        531,
+        433
+      ]
+    },
+    {
+      "text": "- Directed curriculum revision cycles",
+      "score": 0.9971851706504822,
+      "box": [
+        126,
+        432,
+        463,
+        458
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Little Minds School, 2007.072012.09",
+      "score": 0.9864800572395325,
+      "box": [
+        117,
+        471,
+        813,
+        499
+      ]
+    },
+    {
+      "text": "- Prepared instructional guides",
+      "score": 0.9947372674942017,
+      "box": [
+        127,
+        500,
+        413,
+        524
+      ]
+    },
+    {
+      "text": "- Coordinated subject integration",
+      "score": 0.9817737340927124,
+      "box": [
+        126,
+        521,
+        432,
+        550
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Bright Futures School, 2002.04—2007.07",
+      "score": 0.9877596497535706,
+      "box": [
+        116,
+        563,
+        839,
+        592
+      ]
+    },
+    {
+      "text": "- Administered quizzes and short assessments",
+      "score": 0.982330858707428,
+      "box": [
+        128,
+        592,
+        562,
+        616
+      ]
+    },
+    {
+      "text": "- Monitored independent work sessions",
+      "score": 0.9963006973266602,
+      "box": [
+        125,
+        614,
+        494,
+        643
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999399185180664,
+      "box": [
+        117,
+        681,
+        266,
+        705
+      ]
+    },
+    {
+      "text": "Bachelor's, Academic Foundations, Meadowland University, 2002",
+      "score": 0.9840346574783325,
+      "box": [
+        117,
+        726,
+        723,
+        749
+      ]
+    },
+    {
+      "text": "•Completed coursework in educational communication planning",
+      "score": 0.9819159507751465,
+      "box": [
+        130,
+        748,
+        727,
+        777
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of instructional objectives",
+      "score": 0.9763967990875244,
+      "box": [
+        133,
+        773,
+        589,
+        800
+      ]
+    }
+  ],
+  "seconds": 3.1358781000599265,
+  "id": "03783",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

@@ -1,0 +1,202 @@
+{
+  "lines": [
+    {
+      "text": "JOSHUA KHAN",
+      "score": 0.9820840954780579,
+      "box": [
+        116,
+        91,
+        363,
+        122
+      ]
+    },
+    {
+      "text": "CA, USA | +1-299-656-9601 | joshua.khan@example.com",
+      "score": 0.9891087412834167,
+      "box": [
+        118,
+        152,
+        652,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9989565014839172,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Skyfield Software, 2019.042023.01",
+      "score": 0.994841456413269,
+      "box": [
+        116,
+        289,
+        656,
+        316
+      ]
+    },
+    {
+      "text": "- Designed observability platforms",
+      "score": 0.9900622367858887,
+      "box": [
+        127,
+        314,
+        445,
+        343
+      ]
+    },
+    {
+      "text": "- Implemented access control frameworks",
+      "score": 0.9934070110321045,
+      "box": [
+        127,
+        339,
+        516,
+        367
+      ]
+    },
+    {
+      "text": "Software Developers, Corefield Software, 2015.062019.04",
+      "score": 0.9893191456794739,
+      "box": [
+        117,
+        382,
+        669,
+        409
+      ]
+    },
+    {
+      "text": "- Defined technical documentation standards",
+      "score": 0.9992437958717346,
+      "box": [
+        126,
+        408,
+        542,
+        433
+      ]
+    },
+    {
+      "text": "- Led performance tuning initiatives",
+      "score": 0.9958851337432861,
+      "box": [
+        128,
+        432,
+        453,
+        458
+      ]
+    },
+    {
+      "text": "Software Developers, Skyfield Tech, 2011.082015.06",
+      "score": 0.9992430806159973,
+      "box": [
+        118,
+        474,
+        622,
+        498
+      ]
+    },
+    {
+      "text": "- Built notification systems",
+      "score": 0.9955568909645081,
+      "box": [
+        125,
+        497,
+        373,
+        526
+      ]
+    },
+    {
+      "text": "- Improved system reliability",
+      "score": 0.9858881831169128,
+      "box": [
+        127,
+        521,
+        388,
+        551
+      ]
+    },
+    {
+      "text": "Software Developers, Cloudstone Software, 2007.102011.08",
+      "score": 0.9954062104225159,
+      "box": [
+        116,
+        564,
+        691,
+        592
+      ]
+    },
+    {
+      "text": "- Fixed software bugs identified through testing",
+      "score": 0.9719927906990051,
+      "box": [
+        127,
+        590,
+        562,
+        617
+      ]
+    },
+    {
+      "text": "- Wrote scripts for data processing tasks",
+      "score": 0.9997205138206482,
+      "box": [
+        125,
+        614,
+        502,
+        643
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9998937249183655,
+      "box": [
+        117,
+        681,
+        266,
+        705
+      ]
+    },
+    {
+      "text": "Bachelor's, Plainview University, 2006",
+      "score": 0.9972408413887024,
+      "box": [
+        116,
+        724,
+        470,
+        750
+      ]
+    },
+    {
+      "text": "Completed coursework in scripting languages",
+      "score": 0.9898695945739746,
+      "box": [
+        131,
+        748,
+        570,
+        777
+      ]
+    },
+    {
+      "text": "Studied principles of big data systems",
+      "score": 0.999587893486023,
+      "box": [
+        132,
+        772,
+        499,
+        802
+      ]
+    }
+  ],
+  "seconds": 2.7390159997157753,
+  "id": "09168",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

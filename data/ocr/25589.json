@@ -1,0 +1,212 @@
+{
+  "lines": [
+    {
+      "text": "LEAH MANN",
+      "score": 0.9997098445892334,
+      "box": [
+        117,
+        91,
+        319,
+        122
+      ]
+    },
+    {
+      "text": "MA, USA | +1-332-790-9080 | leah.mann@example.com",
+      "score": 0.9812579154968262,
+      "box": [
+        115,
+        150,
+        640,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9991834759712219,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Learning Stone Academy, 2020.07—2023.01",
+      "score": 0.9931129217147827,
+      "box": [
+        115,
+        287,
+        872,
+        319
+      ]
+    },
+    {
+      "text": "- Directed assessment development efforts",
+      "score": 0.9996505379676819,
+      "box": [
+        125,
+        314,
+        527,
+        342
+      ]
+    },
+    {
+      "text": "- Implemented assessment policy frameworks",
+      "score": 0.9905834197998047,
+      "box": [
+        126,
+        339,
+        553,
+        369
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Golden Bridge School, 2017.122020.07",
+      "score": 0.9969032406806946,
+      "box": [
+        116,
+        381,
+        841,
+        411
+      ]
+    },
+    {
+      "text": "- Designed instructional quality standards",
+      "score": 0.9793775677680969,
+      "box": [
+        127,
+        409,
+        511,
+        433
+      ]
+    },
+    {
+      "text": "- Designed instructional governance models",
+      "score": 0.9971223473548889,
+      "box": [
+        127,
+        433,
+        536,
+        457
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Open Grove School, 2012.12—2015.07",
+      "score": 0.9967977404594421,
+      "box": [
+        116,
+        471,
+        821,
+        499
+      ]
+    },
+    {
+      "text": "- Implemented literacy development plans",
+      "score": 0.9797977209091187,
+      "box": [
+        125,
+        497,
+        517,
+        525
+      ]
+    },
+    {
+      "text": "- Developed math enrichment lessons",
+      "score": 0.9701976180076599,
+      "box": [
+        127,
+        521,
+        480,
+        550
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Kind Path School, 2009.102012.05",
+      "score": 0.9958771467208862,
+      "box": [
+        118,
+        566,
+        798,
+        590
+      ]
+    },
+    {
+      "text": "- Recorded student progress data",
+      "score": 0.9906967282295227,
+      "box": [
+        126,
+        591,
+        442,
+        617
+      ]
+    },
+    {
+      "text": "- Monitored independent work sessions",
+      "score": 0.9982958436012268,
+      "box": [
+        125,
+        614,
+        493,
+        643
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999419450759888,
+      "box": [
+        117,
+        681,
+        266,
+        705
+      ]
+    },
+    {
+      "text": "Master's, Learning Skills, Goldenridge University, 2007",
+      "score": 0.9822503328323364,
+      "box": [
+        115,
+        723,
+        624,
+        750
+      ]
+    },
+    {
+      "text": "Bachelor's, Youth Development, Plainview University, 2005",
+      "score": 0.9832673072814941,
+      "box": [
+        116,
+        749,
+        664,
+        776
+      ]
+    },
+    {
+      "text": "•Completed coursework in basic mentoring strategies",
+      "score": 0.9932587742805481,
+      "box": [
+        130,
+        774,
+        632,
+        800
+      ]
+    },
+    {
+      "text": "Completed coursework in literacy development",
+      "score": 0.9989412426948547,
+      "box": [
+        131,
+        798,
+        582,
+        827
+      ]
+    }
+  ],
+  "seconds": 3.183012700174004,
+  "id": "25589",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

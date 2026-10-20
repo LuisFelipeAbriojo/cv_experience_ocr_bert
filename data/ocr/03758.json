@@ -1,0 +1,142 @@
+{
+  "lines": [
+    {
+      "text": "BRANDON LU",
+      "score": 0.9951825141906738,
+      "box": [
+        118,
+        91,
+        342,
+        122
+      ]
+    },
+    {
+      "text": "CA, USA | +1-510-624-2687 |brandon.lu@example.com",
+      "score": 0.9742013812065125,
+      "box": [
+        118,
+        151,
+        638,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9997541308403015,
+      "box": [
+        117,
+        243,
+        315,
+        270
+      ]
+    },
+    {
+      "text": "Software Developers, Brightfield Digital, 2021.012023.01",
+      "score": 0.9984197616577148,
+      "box": [
+        116,
+        289,
+        652,
+        316
+      ]
+    },
+    {
+      "text": "- Defined coding standards",
+      "score": 0.9872950315475464,
+      "box": [
+        126,
+        315,
+        380,
+        342
+      ]
+    },
+    {
+      "text": "- Defined integration standards",
+      "score": 0.9974859356880188,
+      "box": [
+        127,
+        339,
+        416,
+        367
+      ]
+    },
+    {
+      "text": "Software Developers, Netstream Software, 2017.092019.09",
+      "score": 0.9959251284599304,
+      "box": [
+        116,
+        381,
+        681,
+        408
+      ]
+    },
+    {
+      "text": "- Assisted with database queries",
+      "score": 0.9959100484848022,
+      "box": [
+        125,
+        406,
+        430,
+        432
+      ]
+    },
+    {
+      "text": "- Updated database schemas",
+      "score": 0.9823522567749023,
+      "box": [
+        130,
+        433,
+        403,
+        456
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999122619628906,
+      "box": [
+        116,
+        494,
+        268,
+        521
+      ]
+    },
+    {
+      "text": "Bachelor's, Clearway University, 2013",
+      "score": 0.9946205615997314,
+      "box": [
+        116,
+        540,
+        468,
+        566
+      ]
+    },
+    {
+      "text": "Completed coursework in data structures implementation",
+      "score": 0.9865915775299072,
+      "box": [
+        129,
+        564,
+        675,
+        593
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of refactoring techniques",
+      "score": 0.9889968037605286,
+      "box": [
+        132,
+        590,
+        585,
+        617
+      ]
+    }
+  ],
+  "seconds": 2.308006899897009,
+  "id": "03758",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

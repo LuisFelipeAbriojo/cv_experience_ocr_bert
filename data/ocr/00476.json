@@ -1,0 +1,212 @@
+{
+  "lines": [
+    {
+      "text": "RAYMOND MCCULLOUGH",
+      "score": 0.9965869188308716,
+      "box": [
+        118,
+        92,
+        541,
+        122
+      ]
+    },
+    {
+      "text": "AL, USA | +1-366-617-2774 | raymond.mccullough@example.com",
+      "score": 0.9888401627540588,
+      "box": [
+        117,
+        151,
+        730,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9991946816444397,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Discovery Field School, 2019.04—2023.01",
+      "score": 0.9894350171089172,
+      "box": [
+        116,
+        288,
+        850,
+        318
+      ]
+    },
+    {
+      "text": "- Implemented assessment policy frameworks",
+      "score": 0.9909403920173645,
+      "box": [
+        125,
+        314,
+        553,
+        343
+      ]
+    },
+    {
+      "text": "- Designed instructional quality standards",
+      "score": 0.999109148979187,
+      "box": [
+        127,
+        339,
+        511,
+        369
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Safe Harbor Academy, 2015.072019.04",
+      "score": 0.9945236444473267,
+      "box": [
+        116,
+        381,
+        844,
+        411
+      ]
+    },
+    {
+      "text": "- Directed assessment development efforts",
+      "score": 0.9979832172393799,
+      "box": [
+        126,
+        408,
+        526,
+        433
+      ]
+    },
+    {
+      "text": "- Implemented data analysis frameworks",
+      "score": 0.9919245839118958,
+      "box": [
+        128,
+        432,
+        503,
+        458
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, ClearView Academy, 2011.092015.07",
+      "score": 0.9987935423851013,
+      "box": [
+        117,
+        472,
+        825,
+        499
+      ]
+    },
+    {
+      "text": "- Reviewed assessment results",
+      "score": 0.996254563331604,
+      "box": [
+        126,
+        498,
+        419,
+        523
+      ]
+    },
+    {
+      "text": "- Supervised student projects",
+      "score": 0.9793872833251953,
+      "box": [
+        127,
+        521,
+        400,
+        551
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, CarePath Academy, 2007.112011.09",
+      "score": 0.9995273351669312,
+      "box": [
+        117,
+        565,
+        819,
+        592
+      ]
+    },
+    {
+      "text": "- Supported standardized testing sessions",
+      "score": 0.990905225276947,
+      "box": [
+        126,
+        591,
+        517,
+        615
+      ]
+    },
+    {
+      "text": "- Conducted spelling practice",
+      "score": 0.9826601147651672,
+      "box": [
+        126,
+        614,
+        400,
+        644
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999399185180664,
+      "box": [
+        117,
+        681,
+        266,
+        705
+      ]
+    },
+    {
+      "text": "Master's, Child and Family Studies, Woodview University, 2013",
+      "score": 0.9952697157859802,
+      "box": [
+        117,
+        725,
+        700,
+        748
+      ]
+    },
+    {
+      "text": "Bachelor's, Teaching Studies, Pinefield University, 2011",
+      "score": 0.9944953918457031,
+      "box": [
+        116,
+        749,
+        636,
+        776
+      ]
+    },
+    {
+      "text": "• Studied principles of student engagement",
+      "score": 0.9794861078262329,
+      "box": [
+        131,
+        776,
+        533,
+        800
+      ]
+    },
+    {
+      "text": "• Studied principles of student participation",
+      "score": 0.9912201762199402,
+      "box": [
+        132,
+        800,
+        529,
+        827
+      ]
+    }
+  ],
+  "seconds": 2.9943355000577867,
+  "id": "00476",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

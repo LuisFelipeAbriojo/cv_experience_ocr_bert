@@ -1,0 +1,112 @@
+{
+  "lines": [
+    {
+      "text": "MADISON STARK",
+      "score": 0.999843955039978,
+      "box": [
+        115,
+        87,
+        401,
+        123
+      ]
+    },
+    {
+      "text": "MI, USA | +1-556-525-2754 | madison.stark@example.com",
+      "score": 0.9910343885421753,
+      "box": [
+        115,
+        149,
+        665,
+        177
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9993398785591125,
+      "box": [
+        116,
+        243,
+        317,
+        270
+      ]
+    },
+    {
+      "text": "Registered Nurses, WellBridge Medical Group, 2020.02—2023.01",
+      "score": 0.9892593026161194,
+      "box": [
+        115,
+        286,
+        717,
+        317
+      ]
+    },
+    {
+      "text": "- Prepared sterile supplies",
+      "score": 0.966782808303833,
+      "box": [
+        125,
+        312,
+        374,
+        343
+      ]
+    },
+    {
+      "text": "- Assisted with specimen labeling",
+      "score": 0.9957277774810791,
+      "box": [
+        127,
+        337,
+        438,
+        368
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9998607635498047,
+      "box": [
+        116,
+        404,
+        268,
+        431
+      ]
+    },
+    {
+      "text": "Associate's degree, Medical Sciences, Sunfield University, 2021",
+      "score": 0.9935674071311951,
+      "box": [
+        116,
+        447,
+        708,
+        474
+      ]
+    },
+    {
+      "text": "• Studied principles of hematologic nursing basics",
+      "score": 0.9825801849365234,
+      "box": [
+        129,
+        475,
+        593,
+        499
+      ]
+    },
+    {
+      "text": "Studied fundamentals of data privacy",
+      "score": 0.9875006079673767,
+      "box": [
+        130,
+        495,
+        492,
+        527
+      ]
+    }
+  ],
+  "seconds": 2.10950839985162,
+  "id": "26790",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

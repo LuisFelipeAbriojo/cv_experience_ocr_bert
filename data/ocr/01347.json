@@ -1,0 +1,112 @@
+{
+  "lines": [
+    {
+      "text": "KAYLA SHORT",
+      "score": 0.9998756647109985,
+      "box": [
+        116,
+        89,
+        360,
+        123
+      ]
+    },
+    {
+      "text": "AZ, USA | +1-642-429-1956 | kayla.short@example.com",
+      "score": 0.9957171678543091,
+      "box": [
+        116,
+        149,
+        640,
+        177
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9993391633033752,
+      "box": [
+        116,
+        243,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Registered Nurses, BrightBridge Health Services, 2021.042023.01",
+      "score": 0.9930732846260071,
+      "box": [
+        116,
+        289,
+        742,
+        316
+      ]
+    },
+    {
+      "text": "- Assisted with surgical prep",
+      "score": 0.998113214969635,
+      "box": [
+        125,
+        312,
+        392,
+        344
+      ]
+    },
+    {
+      "text": "- Monitored patient pain levels",
+      "score": 0.9990496635437012,
+      "box": [
+        127,
+        340,
+        408,
+        367
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9998787641525269,
+      "box": [
+        116,
+        404,
+        268,
+        431
+      ]
+    },
+    {
+      "text": "Bachelor's, Health Administration, Greenwood University, 2023",
+      "score": 0.9909414052963257,
+      "box": [
+        115,
+        446,
+        699,
+        474
+      ]
+    },
+    {
+      "text": "•Studied fundamentals of musculoskeletal nursing",
+      "score": 0.9651772379875183,
+      "box": [
+        128,
+        471,
+        603,
+        502
+      ]
+    },
+    {
+      "text": "Studied principles of ostomy care",
+      "score": 0.9870942831039429,
+      "box": [
+        131,
+        497,
+        457,
+        526
+      ]
+    }
+  ],
+  "seconds": 3.740557699929923,
+  "id": "01347",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

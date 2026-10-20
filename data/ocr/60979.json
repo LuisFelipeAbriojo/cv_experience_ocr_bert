@@ -1,0 +1,142 @@
+{
+  "lines": [
+    {
+      "text": "GEORGIA HAMILTON",
+      "score": 0.9996894598007202,
+      "box": [
+        117,
+        90,
+        461,
+        122
+      ]
+    },
+    {
+      "text": "WI, USA | +1-587-442-3605 | georgia.hamilton@example.com",
+      "score": 0.9900550842285156,
+      "box": [
+        118,
+        152,
+        691,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9991250038146973,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, BrightHands Nursing Services, 2020.02—2023.01",
+      "score": 0.9773104190826416,
+      "box": [
+        115,
+        287,
+        754,
+        318
+      ]
+    },
+    {
+      "text": "- Directed interdisciplinary workflow alignment",
+      "score": 0.9892030358314514,
+      "box": [
+        125,
+        313,
+        555,
+        343
+      ]
+    },
+    {
+      "text": "- Managed clinical risk assessments",
+      "score": 0.9650063514709473,
+      "box": [
+        127,
+        340,
+        463,
+        366
+      ]
+    },
+    {
+      "text": "Registered Nurses, WellHands Nursing Group, 2017.02—2020.02",
+      "score": 0.9653202891349792,
+      "box": [
+        115,
+        380,
+        719,
+        411
+      ]
+    },
+    {
+      "text": "- Prepared sterile supplies",
+      "score": 0.9981279969215393,
+      "box": [
+        125,
+        407,
+        372,
+        433
+      ]
+    },
+    {
+      "text": "- Checked patient identification",
+      "score": 0.9750117063522339,
+      "box": [
+        126,
+        430,
+        415,
+        458
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999166131019592,
+      "box": [
+        117,
+        494,
+        267,
+        521
+      ]
+    },
+    {
+      "text": "Bachelor's, Health Sciences, Brookway University, 2017",
+      "score": 0.9905434250831604,
+      "box": [
+        115,
+        539,
+        636,
+        568
+      ]
+    },
+    {
+      "text": "• Completed coursework in patient-centered care",
+      "score": 0.9950370192527771,
+      "box": [
+        132,
+        566,
+        587,
+        592
+      ]
+    },
+    {
+      "text": "•Completed coursework in nursing workflow management",
+      "score": 0.9852011203765869,
+      "box": [
+        131,
+        590,
+        673,
+        618
+      ]
+    }
+  ],
+  "seconds": 2.319690099917352,
+  "id": "60979",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

@@ -1,0 +1,182 @@
+{
+  "lines": [
+    {
+      "text": "REBECCA SAMPSON",
+      "score": 0.996997594833374,
+      "box": [
+        118,
+        91,
+        460,
+        121
+      ]
+    },
+    {
+      "text": "MD, USA | +1-918-481-6731 | rebecca.sampson@example.com",
+      "score": 0.9800963401794434,
+      "box": [
+        115,
+        150,
+        709,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9991771578788757,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Open Grove School, 2020.012023.01",
+      "score": 0.9824995994567871,
+      "box": [
+        117,
+        288,
+        820,
+        317
+      ]
+    },
+    {
+      "text": "- Established learning outcome benchmarks",
+      "score": 0.9955393075942993,
+      "box": [
+        127,
+        317,
+        535,
+        341
+      ]
+    },
+    {
+      "text": "- Led curriculum alignment initiatives",
+      "score": 0.9861897826194763,
+      "box": [
+        127,
+        339,
+        468,
+        368
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Caring Hills School, 2016.052019.06",
+      "score": 0.9954208135604858,
+      "box": [
+        116,
+        381,
+        816,
+        411
+      ]
+    },
+    {
+      "text": "- Reviewed assessment results",
+      "score": 0.9968432784080505,
+      "box": [
+        126,
+        408,
+        418,
+        433
+      ]
+    },
+    {
+      "text": "- Organized instructional schedules",
+      "score": 0.9858720898628235,
+      "box": [
+        128,
+        434,
+        455,
+        457
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Growing Minds School, 2012.08—2015.09",
+      "score": 0.9907379150390625,
+      "box": [
+        117,
+        471,
+        847,
+        499
+      ]
+    },
+    {
+      "text": "- Conducted reading practice sessions",
+      "score": 0.9783106446266174,
+      "box": [
+        126,
+        497,
+        485,
+        525
+      ]
+    },
+    {
+      "text": "- Implemented classroom seating plans",
+      "score": 0.9977794289588928,
+      "box": [
+        128,
+        521,
+        493,
+        551
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999204277992249,
+      "box": [
+        117,
+        587,
+        267,
+        614
+      ]
+    },
+    {
+      "text": "Professional degree, Educational Foundations, Meadowfield University, 2007",
+      "score": 0.9927552938461304,
+      "box": [
+        117,
+        632,
+        828,
+        659
+      ]
+    },
+    {
+      "text": "Bachelor's, Teaching Support, Oakridge University, 2003",
+      "score": 0.9795781970024109,
+      "box": [
+        116,
+        658,
+        644,
+        685
+      ]
+    },
+    {
+      "text": "• Studied foundational teaching methods",
+      "score": 0.9952185153961182,
+      "box": [
+        132,
+        684,
+        509,
+        708
+      ]
+    },
+    {
+      "text": "Completed coursework in classroom structure planning",
+      "score": 0.9878982305526733,
+      "box": [
+        131,
+        706,
+        655,
+        736
+      ]
+    }
+  ],
+  "seconds": 3.2335195997729897,
+  "id": "24443",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

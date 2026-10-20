@@ -1,0 +1,102 @@
+{
+  "lines": [
+    {
+      "text": "ANDREW BOOKER",
+      "score": 0.9996067881584167,
+      "box": [
+        115,
+        87,
+        425,
+        123
+      ]
+    },
+    {
+      "text": "MN, USA | +1-825-249-1309 | andrew.booker@example.com",
+      "score": 0.9952625632286072,
+      "box": [
+        116,
+        150,
+        683,
+        177
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9997015595436096,
+      "box": [
+        117,
+        243,
+        317,
+        270
+      ]
+    },
+    {
+      "text": "Construction Laborers, Unified Structures, 2022.09—2023.01",
+      "score": 0.99126797914505,
+      "box": [
+        118,
+        290,
+        672,
+        314
+      ]
+    },
+    {
+      "text": "- Operated hand tools for assembly tasks",
+      "score": 0.9813902974128723,
+      "box": [
+        126,
+        315,
+        509,
+        340
+      ]
+    },
+    {
+      "text": "- Installed temporary site barriers",
+      "score": 0.9826595783233643,
+      "box": [
+        127,
+        339,
+        436,
+        368
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999607801437378,
+      "box": [
+        116,
+        404,
+        268,
+        431
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Construction Supervision, Sagewood High School, 2020",
+      "score": 0.9983949065208435,
+      "box": [
+        116,
+        446,
+        895,
+        475
+      ]
+    },
+    {
+      "text": "Completed coursework in construction site organization",
+      "score": 0.9916076064109802,
+      "box": [
+        131,
+        472,
+        660,
+        500
+      ]
+    }
+  ],
+  "seconds": 1.9903990998864174,
+  "id": "28542",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

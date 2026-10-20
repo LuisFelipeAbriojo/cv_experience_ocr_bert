@@ -1,0 +1,202 @@
+{
+  "lines": [
+    {
+      "text": "SOFIA SHAFFER",
+      "score": 0.9996427893638611,
+      "box": [
+        117,
+        91,
+        386,
+        122
+      ]
+    },
+    {
+      "text": "CO, USA | +1-912-301-8185 | sofia.shaffer@example.com",
+      "score": 0.9906203150749207,
+      "box": [
+        116,
+        150,
+        657,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9989557266235352,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, AccuLedger Advisors, 2019.042023.01",
+      "score": 0.9974042177200317,
+      "box": [
+        116,
+        289,
+        696,
+        316
+      ]
+    },
+    {
+      "text": "- Designed audit methodologies",
+      "score": 0.9887589812278748,
+      "box": [
+        126,
+        314,
+        424,
+        342
+      ]
+    },
+    {
+      "text": "- Developed audit quality standards",
+      "score": 0.9870731830596924,
+      "box": [
+        128,
+        340,
+        456,
+        367
+      ]
+    },
+    {
+      "text": "Accountants Auditors, OpenPath Financial Group, 2015.072019.04",
+      "score": 0.9796434044837952,
+      "box": [
+        117,
+        382,
+        748,
+        409
+      ]
+    },
+    {
+      "text": "- Established accounting policies",
+      "score": 0.974266767501831,
+      "box": [
+        126,
+        409,
+        433,
+        432
+      ]
+    },
+    {
+      "text": "- Directed accounting operations planning",
+      "score": 0.9962992072105408,
+      "box": [
+        125,
+        430,
+        514,
+        460
+      ]
+    },
+    {
+      "text": "Accountants Auditors, FairBooks Services, 2011.10—2015.07",
+      "score": 0.9887869358062744,
+      "box": [
+        117,
+        472,
+        680,
+        497
+      ]
+    },
+    {
+      "text": "- Prepared working capital analysis",
+      "score": 0.999561071395874,
+      "box": [
+        125,
+        497,
+        454,
+        525
+      ]
+    },
+    {
+      "text": "- Conducted compliance reviews",
+      "score": 0.9896515607833862,
+      "box": [
+        127,
+        521,
+        431,
+        551
+      ]
+    },
+    {
+      "text": "Accountants Auditors, FairBooks Advisors, 2007.12—2011.10",
+      "score": 0.9888685345649719,
+      "box": [
+        115,
+        563,
+        681,
+        591
+      ]
+    },
+    {
+      "text": "- Prepared journal entries",
+      "score": 0.9809887409210205,
+      "box": [
+        127,
+        592,
+        365,
+        616
+      ]
+    },
+    {
+      "text": "- Maintained vendor records",
+      "score": 0.9660319685935974,
+      "box": [
+        125,
+        613,
+        390,
+        643
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999205470085144,
+      "box": [
+        117,
+        681,
+        266,
+        705
+      ]
+    },
+    {
+      "text": "Bachelor's, Business Operations, Vista University, 2007",
+      "score": 0.9951117634773254,
+      "box": [
+        116,
+        724,
+        632,
+        750
+      ]
+    },
+    {
+      "text": "• Completed coursework in economics for accounting",
+      "score": 0.9966662526130676,
+      "box": [
+        133,
+        749,
+        626,
+        775
+      ]
+    },
+    {
+      "text": "•Completed coursework in financial accounting",
+      "score": 0.9882917404174805,
+      "box": [
+        132,
+        772,
+        574,
+        801
+      ]
+    }
+  ],
+  "seconds": 2.8297016001306474,
+  "id": "09529",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

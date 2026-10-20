@@ -1,0 +1,162 @@
+{
+  "lines": [
+    {
+      "text": "JUSTIN BENTON",
+      "score": 0.9745571613311768,
+      "box": [
+        116,
+        91,
+        387,
+        121
+      ]
+    },
+    {
+      "text": "IN, USA | +1-389-403-4488 | justin.benton@example.com",
+      "score": 0.9896116256713867,
+      "box": [
+        118,
+        152,
+        650,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9992032647132874,
+      "box": [
+        118,
+        245,
+        314,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, Precision Frame Builders, 2020.09—2023.01",
+      "score": 0.9956398606300354,
+      "box": [
+        118,
+        290,
+        740,
+        314
+      ]
+    },
+    {
+      "text": "- Coordinated large-scale material logistics",
+      "score": 0.9994455575942993,
+      "box": [
+        126,
+        315,
+        524,
+        341
+      ]
+    },
+    {
+      "text": "- Reviewed structural integrity assessments",
+      "score": 0.9889077544212341,
+      "box": [
+        126,
+        339,
+        531,
+        367
+      ]
+    },
+    {
+      "text": "Construction Laborers, FirmLine Builders, 2018.052020.09",
+      "score": 0.9969848394393921,
+      "box": [
+        118,
+        383,
+        670,
+        406
+      ]
+    },
+    {
+      "text": "- Assembled structural frameworks",
+      "score": 0.9925427436828613,
+      "box": [
+        126,
+        409,
+        450,
+        432
+      ]
+    },
+    {
+      "text": "- Monitored project timelines",
+      "score": 0.9742081761360168,
+      "box": [
+        127,
+        432,
+        392,
+        457
+      ]
+    },
+    {
+      "text": "Construction Laborers, BuildStone Co., 2013.01—2015.05",
+      "score": 0.9759964346885681,
+      "box": [
+        117,
+        472,
+        648,
+        497
+      ]
+    },
+    {
+      "text": "- Assisted with equipment maintenance",
+      "score": 0.9994055032730103,
+      "box": [
+        126,
+        498,
+        493,
+        524
+      ]
+    },
+    {
+      "text": "- Assisted with excavation tasks",
+      "score": 0.9787858724594116,
+      "box": [
+        128,
+        522,
+        425,
+        547
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999166131019592,
+      "box": [
+        117,
+        586,
+        267,
+        613
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Surveying Technology, Oakridge High School, 2006",
+      "score": 0.9978739619255066,
+      "box": [
+        117,
+        632,
+        856,
+        659
+      ]
+    },
+    {
+      "text": "Studied principles of load handling",
+      "score": 0.999728262424469,
+      "box": [
+        129,
+        655,
+        466,
+        686
+      ]
+    }
+  ],
+  "seconds": 2.543661500327289,
+  "id": "19650",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

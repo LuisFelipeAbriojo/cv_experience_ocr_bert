@@ -1,0 +1,172 @@
+{
+  "lines": [
+    {
+      "text": "THERESA LEWIS",
+      "score": 0.9904400110244751,
+      "box": [
+        117,
+        91,
+        392,
+        121
+      ]
+    },
+    {
+      "text": "WI, USA | +1-392-982-5688 | theresa.lewis@example.com",
+      "score": 0.9851858019828796,
+      "box": [
+        116,
+        150,
+        658,
+        177
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9991355538368225,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, ClearBridge Health Group, 2020.11-2023.01",
+      "score": 0.9815184473991394,
+      "box": [
+        115,
+        287,
+        715,
+        318
+      ]
+    },
+    {
+      "text": "- Directed care coordination strategies",
+      "score": 0.9765196442604065,
+      "box": [
+        125,
+        313,
+        483,
+        343
+      ]
+    },
+    {
+      "text": "- Managed clinical compliance programs",
+      "score": 0.9879647493362427,
+      "box": [
+        126,
+        339,
+        503,
+        368
+      ]
+    },
+    {
+      "text": "Registered Nurses, SunHands Care Group, 2018.092020.11",
+      "score": 0.9908331632614136,
+      "box": [
+        116,
+        381,
+        688,
+        409
+      ]
+    },
+    {
+      "text": "- Monitored fluid and electrolyte balance",
+      "score": 0.9831569790840149,
+      "box": [
+        125,
+        407,
+        500,
+        434
+      ]
+    },
+    {
+      "text": "- Monitored patient compliance",
+      "score": 0.9551088809967041,
+      "box": [
+        127,
+        432,
+        415,
+        458
+      ]
+    },
+    {
+      "text": "Registered Nurses, NewHope Care Center, 2016.06—2018.09",
+      "score": 0.9880722761154175,
+      "box": [
+        118,
+        474,
+        686,
+        498
+      ]
+    },
+    {
+      "text": "- Recorded patient weight and height",
+      "score": 0.9931920170783997,
+      "box": [
+        125,
+        496,
+        473,
+        525
+      ]
+    },
+    {
+      "text": "- Prepared medication trays",
+      "score": 0.9914017915725708,
+      "box": [
+        127,
+        521,
+        388,
+        551
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999425411224365,
+      "box": [
+        118,
+        588,
+        266,
+        612
+      ]
+    },
+    {
+      "text": "Bachelor's, Health Services, Clearfield University, 2016",
+      "score": 0.9842662215232849,
+      "box": [
+        117,
+        631,
+        627,
+        658
+      ]
+    },
+    {
+      "text": "• Completed coursework in communication in care teams",
+      "score": 0.9663849472999573,
+      "box": [
+        131,
+        658,
+        659,
+        682
+      ]
+    },
+    {
+      "text": "•Studied fundamentals of vital signs monitoring",
+      "score": 0.9838051199913025,
+      "box": [
+        130,
+        679,
+        575,
+        711
+      ]
+    }
+  ],
+  "seconds": 2.542095700278878,
+  "id": "60290",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

@@ -1,0 +1,112 @@
+{
+  "lines": [
+    {
+      "text": "JEREMIAH SPEARS",
+      "score": 0.9997657537460327,
+      "box": [
+        116,
+        91,
+        437,
+        122
+      ]
+    },
+    {
+      "text": "FL, USA | +1-313-834-5684 | jeremiah.spears@example.com",
+      "score": 0.9904580116271973,
+      "box": [
+        116,
+        149,
+        685,
+        177
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9997697472572327,
+      "box": [
+        117,
+        243,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Construction Laborers, SteadyWorks Construction, 2020.11—2023.01",
+      "score": 0.9831832647323608,
+      "box": [
+        116,
+        287,
+        754,
+        316
+      ]
+    },
+    {
+      "text": "- Followed safety procedures on site",
+      "score": 0.9945157170295715,
+      "box": [
+        125,
+        313,
+        466,
+        342
+      ]
+    },
+    {
+      "text": "- Supported crew leaders during tasks",
+      "score": 0.9832862615585327,
+      "box": [
+        128,
+        339,
+        481,
+        367
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9995854496955872,
+      "box": [
+        116,
+        404,
+        268,
+        431
+      ]
+    },
+    {
+      "text": "Some college (no degree), Construction Planning, Vista University, 2023",
+      "score": 0.9995920062065125,
+      "box": [
+        115,
+        445,
+        788,
+        476
+      ]
+    },
+    {
+      "text": "• Completed coursework in structural reinforcement methods",
+      "score": 0.9791029095649719,
+      "box": [
+        133,
+        475,
+        694,
+        498
+      ]
+    },
+    {
+      "text": "Studied principles of site preparation",
+      "score": 0.9984325766563416,
+      "box": [
+        132,
+        497,
+        487,
+        526
+      ]
+    }
+  ],
+  "seconds": 1.9075830997899175,
+  "id": "14285",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

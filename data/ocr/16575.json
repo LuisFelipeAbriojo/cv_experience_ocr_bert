@@ -1,0 +1,202 @@
+{
+  "lines": [
+    {
+      "text": "ALYSSA MOON",
+      "score": 0.9984411597251892,
+      "box": [
+        118,
+        91,
+        367,
+        122
+      ]
+    },
+    {
+      "text": "GA, USA | +1-720-947-5989 | alyssa.moon@example.com",
+      "score": 0.9943892359733582,
+      "box": [
+        116,
+        150,
+        659,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9971685409545898,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, SteadyBooks Group, 2020.04—2023.01",
+      "score": 0.9910596013069153,
+      "box": [
+        115,
+        288,
+        686,
+        317
+      ]
+    },
+    {
+      "text": "- Developed long-term financial strategies",
+      "score": 0.9934125542640686,
+      "box": [
+        128,
+        316,
+        514,
+        342
+      ]
+    },
+    {
+      "text": "- Designed financial policy frameworks",
+      "score": 0.9837598204612732,
+      "box": [
+        128,
+        341,
+        484,
+        367
+      ]
+    },
+    {
+      "text": "Accountants Auditors, EverCount Financial, 2017.072020.04",
+      "score": 0.9985026121139526,
+      "box": [
+        118,
+        383,
+        688,
+        407
+      ]
+    },
+    {
+      "text": "- Developed financial analytics frameworks",
+      "score": 0.9781234264373779,
+      "box": [
+        128,
+        408,
+        524,
+        433
+      ]
+    },
+    {
+      "text": "- Led audit planning governance",
+      "score": 0.9898585677146912,
+      "box": [
+        128,
+        432,
+        428,
+        460
+      ]
+    },
+    {
+      "text": "Accountants Auditors, CoreCount Advisors, 2014.01—2016.10",
+      "score": 0.9894860982894897,
+      "box": [
+        115,
+        471,
+        688,
+        499
+      ]
+    },
+    {
+      "text": "- Analyzed financial variances",
+      "score": 0.987568199634552,
+      "box": [
+        125,
+        497,
+        407,
+        525
+      ]
+    },
+    {
+      "text": "- Prepared statutory filings",
+      "score": 0.9816552996635437,
+      "box": [
+        128,
+        521,
+        374,
+        551
+      ]
+    },
+    {
+      "text": "Accountants Auditors, FairLedger Advisors, 2009.10—2012.07",
+      "score": 0.992075502872467,
+      "box": [
+        117,
+        566,
+        686,
+        590
+      ]
+    },
+    {
+      "text": "- Prepared aging reports",
+      "score": 0.9827050566673279,
+      "box": [
+        125,
+        589,
+        358,
+        619
+      ]
+    },
+    {
+      "text": "- Compiled financial schedules",
+      "score": 0.9722033143043518,
+      "box": [
+        127,
+        614,
+        414,
+        643
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999920129776001,
+      "box": [
+        117,
+        681,
+        266,
+        705
+      ]
+    },
+    {
+      "text": "Bachelor's, Finance, Seabreeze University, 2009",
+      "score": 0.9731596112251282,
+      "box": [
+        115,
+        723,
+        569,
+        750
+      ]
+    },
+    {
+      "text": "•Studied fundamentals of consolidation accounting",
+      "score": 0.9897081255912781,
+      "box": [
+        130,
+        748,
+        607,
+        775
+      ]
+    },
+    {
+      "text": "Studied principles of sampling techniques",
+      "score": 0.989922046661377,
+      "box": [
+        131,
+        772,
+        534,
+        801
+      ]
+    }
+  ],
+  "seconds": 3.03153089992702,
+  "id": "16575",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

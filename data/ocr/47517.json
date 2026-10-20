@@ -1,0 +1,172 @@
+{
+  "lines": [
+    {
+      "text": "MIGUEL YORK",
+      "score": 0.9747642278671265,
+      "box": [
+        117,
+        91,
+        354,
+        121
+      ]
+    },
+    {
+      "text": "SC, USA | +1-795-859-9503 | miguel.york@example.com",
+      "score": 0.9919155836105347,
+      "box": [
+        118,
+        152,
+        646,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9991585612297058,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, StrongLine Builders, 2020.03—2023.01",
+      "score": 0.9841983318328857,
+      "box": [
+        117,
+        289,
+        689,
+        316
+      ]
+    },
+    {
+      "text": "- Supervised high-risk operations",
+      "score": 0.9912479519844055,
+      "box": [
+        128,
+        317,
+        435,
+        341
+      ]
+    },
+    {
+      "text": "- Developed long-term construction strategies",
+      "score": 0.9921945929527283,
+      "box": [
+        128,
+        340,
+        550,
+        368
+      ]
+    },
+    {
+      "text": "Construction Laborers, MasterBuild Services, 2015.062018.04",
+      "score": 0.9869467616081238,
+      "box": [
+        116,
+        380,
+        705,
+        408
+      ]
+    },
+    {
+      "text": "- Installed exterior cladding",
+      "score": 0.9918779730796814,
+      "box": [
+        124,
+        403,
+        380,
+        435
+      ]
+    },
+    {
+      "text": "- Performed site leveling tasks",
+      "score": 0.9975390434265137,
+      "box": [
+        128,
+        431,
+        409,
+        457
+      ]
+    },
+    {
+      "text": "Construction Laborers, ClearFrame Construction, 2011.102014.09",
+      "score": 0.9979661703109741,
+      "box": [
+        118,
+        473,
+        741,
+        497
+      ]
+    },
+    {
+      "text": "- Performed basic carpentry tasks",
+      "score": 0.9870198369026184,
+      "box": [
+        127,
+        497,
+        442,
+        524
+      ]
+    },
+    {
+      "text": "- Applied basic sealants and adhesives",
+      "score": 0.9778571724891663,
+      "box": [
+        129,
+        522,
+        490,
+        548
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999487400054932,
+      "box": [
+        118,
+        588,
+        267,
+        612
+      ]
+    },
+    {
+      "text": "Some college (no degree), Construction Safety, Cedar Valley University, 2004",
+      "score": 0.9804059267044067,
+      "box": [
+        117,
+        632,
+        838,
+        659
+      ]
+    },
+    {
+      "text": "• Completed coursework in construction materials identification",
+      "score": 0.986212432384491,
+      "box": [
+        131,
+        659,
+        715,
+        683
+      ]
+    },
+    {
+      "text": "• Studied principles of site access planning",
+      "score": 0.9848865866661072,
+      "box": [
+        132,
+        681,
+        529,
+        710
+      ]
+    }
+  ],
+  "seconds": 2.724047899711877,
+  "id": "47517",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

@@ -1,0 +1,182 @@
+{
+  "lines": [
+    {
+      "text": "CHRISTINE KELLY",
+      "score": 0.9916207790374756,
+      "box": [
+        118,
+        92,
+        417,
+        122
+      ]
+    },
+    {
+      "text": "WV, USA | +1-950-826-8868 | christine.kelly@example.com",
+      "score": 0.9904636740684509,
+      "box": [
+        115,
+        149,
+        671,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9991553425788879,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Sunny Futures School, 2021.01—2023.01",
+      "score": 0.9817562103271484,
+      "box": [
+        116,
+        288,
+        843,
+        318
+      ]
+    },
+    {
+      "text": "- Directed content standardization",
+      "score": 0.9799758791923523,
+      "box": [
+        125,
+        315,
+        442,
+        340
+      ]
+    },
+    {
+      "text": "- Directed cross-grade curriculum alignment",
+      "score": 0.9921268224716187,
+      "box": [
+        126,
+        339,
+        537,
+        368
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Harmony Grove Academy, 2019.012021.01",
+      "score": 0.9749401807785034,
+      "box": [
+        117,
+        381,
+        877,
+        411
+      ]
+    },
+    {
+      "text": "- Evaluated learning outcomes",
+      "score": 0.9855422377586365,
+      "box": [
+        126,
+        408,
+        412,
+        433
+      ]
+    },
+    {
+      "text": "- Designed lesson plans aligned with curriculum standards",
+      "score": 0.9935277104377747,
+      "box": [
+        125,
+        431,
+        667,
+        458
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Kind Minds Academy, 2017.01—2019.01",
+      "score": 0.9813620448112488,
+      "box": [
+        117,
+        471,
+        833,
+        499
+      ]
+    },
+    {
+      "text": "- Prepared visual teaching aids",
+      "score": 0.9792755842208862,
+      "box": [
+        125,
+        497,
+        418,
+        525
+      ]
+    },
+    {
+      "text": "- Reviewed learning standards",
+      "score": 0.9790719747543335,
+      "box": [
+        127,
+        521,
+        412,
+        551
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999163746833801,
+      "box": [
+        117,
+        587,
+        267,
+        614
+      ]
+    },
+    {
+      "text": "Master's, Learning Foundations, Golden Meadow University, 2016",
+      "score": 0.9951514601707458,
+      "box": [
+        117,
+        632,
+        729,
+        659
+      ]
+    },
+    {
+      "text": "Bachelor's, General Learning Studies, Fairmont University, 2014",
+      "score": 0.9976924657821655,
+      "box": [
+        115,
+        656,
+        713,
+        684
+      ]
+    },
+    {
+      "text": "• Studied principles of behavior management",
+      "score": 0.9958656430244446,
+      "box": [
+        132,
+        684,
+        553,
+        708
+      ]
+    },
+    {
+      "text": "Completed coursework in child development fundamentals",
+      "score": 0.9908327460289001,
+      "box": [
+        131,
+        705,
+        689,
+        736
+      ]
+    }
+  ],
+  "seconds": 3.009530399926007,
+  "id": "59971",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

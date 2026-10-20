@@ -1,0 +1,102 @@
+{
+  "lines": [
+    {
+      "text": "ENRIQUE HIGGINS",
+      "score": 0.9996845722198486,
+      "box": [
+        118,
+        91,
+        421,
+        122
+      ]
+    },
+    {
+      "text": "FL, USA | +1-799-940-8569 | enrique.higgins@example.com",
+      "score": 0.9918115735054016,
+      "box": [
+        116,
+        149,
+        678,
+        177
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9997165203094482,
+      "box": [
+        117,
+        243,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Construction Laborers, Precision Line Contractors, 2019.05—2021.11",
+      "score": 0.9913598299026489,
+      "box": [
+        118,
+        290,
+        752,
+        314
+      ]
+    },
+    {
+      "text": "- Assembled prefabricated components",
+      "score": 0.9995455145835876,
+      "box": [
+        126,
+        315,
+        491,
+        339
+      ]
+    },
+    {
+      "text": "- Measured and cut basic building materials",
+      "score": 0.9769343733787537,
+      "box": [
+        126,
+        338,
+        531,
+        367
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999518990516663,
+      "box": [
+        116,
+        404,
+        268,
+        431
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Construction Quality Control, Brookstone High School, 1998",
+      "score": 0.9925084710121155,
+      "box": [
+        117,
+        448,
+        931,
+        475
+      ]
+    },
+    {
+      "text": "• Completed coursework in basic window installation",
+      "score": 0.9864479303359985,
+      "box": [
+        133,
+        474,
+        619,
+        498
+      ]
+    }
+  ],
+  "seconds": 2.0296661998145282,
+  "id": "12723",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

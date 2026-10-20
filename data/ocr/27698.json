@@ -1,0 +1,112 @@
+{
+  "lines": [
+    {
+      "text": "CHADWICK DICKERSON",
+      "score": 0.9898422956466675,
+      "box": [
+        117,
+        90,
+        513,
+        122
+      ]
+    },
+    {
+      "text": "MI, USA | +1-800-895-4090 | chadwick.dickerson@example.com",
+      "score": 0.9933560490608215,
+      "box": [
+        115,
+        149,
+        716,
+        177
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.999754011631012,
+      "box": [
+        117,
+        243,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Construction Laborers, Precision Build Group, 2020.03—2023.01",
+      "score": 0.9851001501083374,
+      "box": [
+        116,
+        288,
+        709,
+        316
+      ]
+    },
+    {
+      "text": "- Prepared tools and equipment for daily tasks",
+      "score": 0.9958357810974121,
+      "box": [
+        125,
+        313,
+        555,
+        342
+      ]
+    },
+    {
+      "text": "- Assisted with concrete pouring",
+      "score": 0.9935755729675293,
+      "box": [
+        128,
+        339,
+        425,
+        367
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999945342540741,
+      "box": [
+        116,
+        404,
+        268,
+        431
+      ]
+    },
+    {
+      "text": "Some college (no degree), General Construction, Stonehill University, 2021",
+      "score": 0.9976993203163147,
+      "box": [
+        117,
+        448,
+        811,
+        475
+      ]
+    },
+    {
+      "text": "•Completed coursework in construction materials handling",
+      "score": 0.9701247811317444,
+      "box": [
+        130,
+        472,
+        677,
+        501
+      ]
+    },
+    {
+      "text": "Studied fundamentals of equipment operation",
+      "score": 0.9944093227386475,
+      "box": [
+        131,
+        496,
+        569,
+        526
+      ]
+    }
+  ],
+  "seconds": 1.9309867997653782,
+  "id": "27698",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

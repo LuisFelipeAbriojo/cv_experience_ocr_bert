@@ -1,0 +1,112 @@
+{
+  "lines": [
+    {
+      "text": "CRYSTAL SINGH",
+      "score": 0.9998356103897095,
+      "box": [
+        118,
+        91,
+        391,
+        122
+      ]
+    },
+    {
+      "text": "MA, USA | +1-245-397-7412 | crystal.singh@example.com",
+      "score": 0.9841756224632263,
+      "box": [
+        115,
+        149,
+        659,
+        177
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9997231960296631,
+      "box": [
+        117,
+        243,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Caring Tree School, 2022.08—2023.01",
+      "score": 0.9943270087242126,
+      "box": [
+        115,
+        286,
+        817,
+        317
+      ]
+    },
+    {
+      "text": "- Recorded student feedback",
+      "score": 0.9994774460792542,
+      "box": [
+        126,
+        314,
+        399,
+        339
+      ]
+    },
+    {
+      "text": "- Followed standard instructional schedules",
+      "score": 0.9959455132484436,
+      "box": [
+        127,
+        338,
+        529,
+        365
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999614357948303,
+      "box": [
+        116,
+        404,
+        268,
+        431
+      ]
+    },
+    {
+      "text": "Some college (no degree), Student Development, Amber Hills University, 2023",
+      "score": 0.9858909249305725,
+      "box": [
+        116,
+        446,
+        844,
+        476
+      ]
+    },
+    {
+      "text": "• Completed coursework in child development fundamentals",
+      "score": 0.9822981953620911,
+      "box": [
+        132,
+        473,
+        689,
+        498
+      ]
+    },
+    {
+      "text": "• Completed coursework in lesson effectiveness analysis",
+      "score": 0.9967874884605408,
+      "box": [
+        133,
+        498,
+        658,
+        524
+      ]
+    }
+  ],
+  "seconds": 2.3758585001342,
+  "id": "25063",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

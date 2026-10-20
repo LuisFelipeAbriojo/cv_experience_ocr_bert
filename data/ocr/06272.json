@@ -1,0 +1,212 @@
+{
+  "lines": [
+    {
+      "text": "JAIME AHMED",
+      "score": 0.9953866600990295,
+      "box": [
+        116,
+        91,
+        352,
+        122
+      ]
+    },
+    {
+      "text": "CA, USA | +1-284-731-6264 | jaime.ahmed@example.com",
+      "score": 0.9806092381477356,
+      "box": [
+        116,
+        150,
+        660,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9987983107566833,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Integrity Accounts, 2020.04—2023.01",
+      "score": 0.9768495559692383,
+      "box": [
+        116,
+        290,
+        665,
+        317
+      ]
+    },
+    {
+      "text": "- Managed financial compliance programs",
+      "score": 0.9978430271148682,
+      "box": [
+        128,
+        315,
+        517,
+        342
+      ]
+    },
+    {
+      "text": "- Led audit planning governance",
+      "score": 0.9894599318504333,
+      "box": [
+        127,
+        340,
+        429,
+        370
+      ]
+    },
+    {
+      "text": "Accountants Auditors, ClearView Accounting, 2017.072020.04",
+      "score": 0.9827551245689392,
+      "box": [
+        116,
+        381,
+        705,
+        409
+      ]
+    },
+    {
+      "text": "- Managed financial governance",
+      "score": 0.9804947972297668,
+      "box": [
+        126,
+        409,
+        427,
+        433
+      ]
+    },
+    {
+      "text": "- Directed enterprise accounting platforms",
+      "score": 0.9892949461936951,
+      "box": [
+        126,
+        432,
+        517,
+        459
+      ]
+    },
+    {
+      "text": "Accountants Auditors, SteadyCount Financial, 2013.02—2015.11",
+      "score": 0.9944444894790649,
+      "box": [
+        115,
+        471,
+        709,
+        499
+      ]
+    },
+    {
+      "text": "- Managed accounts payable cycles",
+      "score": 0.9701966047286987,
+      "box": [
+        125,
+        497,
+        462,
+        526
+      ]
+    },
+    {
+      "text": "- Managed fixed asset accounting",
+      "score": 0.9926093816757202,
+      "box": [
+        127,
+        521,
+        442,
+        551
+      ]
+    },
+    {
+      "text": "Accountants Auditors, OpenLedger Financial, 2008.122011.10",
+      "score": 0.9987225532531738,
+      "box": [
+        118,
+        566,
+        706,
+        590
+      ]
+    },
+    {
+      "text": "- Assisted with forecasting data",
+      "score": 0.981316089630127,
+      "box": [
+        127,
+        592,
+        418,
+        616
+      ]
+    },
+    {
+      "text": "- Verified financial transactions",
+      "score": 0.9885321855545044,
+      "box": [
+        126,
+        613,
+        414,
+        643
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999264478683472,
+      "box": [
+        117,
+        681,
+        266,
+        705
+      ]
+    },
+    {
+      "text": "Professional degree, Information Systems, Crossfield University, 2006",
+      "score": 0.9992252588272095,
+      "box": [
+        116,
+        724,
+        765,
+        750
+      ]
+    },
+    {
+      "text": "Bachelor's, Operations Management, Willowcrest University, 2002",
+      "score": 0.9873363971710205,
+      "box": [
+        117,
+        750,
+        728,
+        774
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of management reporting",
+      "score": 0.9775518178939819,
+      "box": [
+        130,
+        774,
+        589,
+        801
+      ]
+    },
+    {
+      "text": "•Completed coursework in cash flow analysis",
+      "score": 0.9870703816413879,
+      "box": [
+        132,
+        798,
+        558,
+        827
+      ]
+    }
+  ],
+  "seconds": 2.8830464999191463,
+  "id": "06272",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

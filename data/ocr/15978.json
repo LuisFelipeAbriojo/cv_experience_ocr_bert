@@ -1,0 +1,142 @@
+{
+  "lines": [
+    {
+      "text": "MARKUS COBB",
+      "score": 0.9998264312744141,
+      "box": [
+        117,
+        90,
+        371,
+        121
+      ]
+    },
+    {
+      "text": "GA, USA | +1-246-782-5803 | markus.cobb@example.com",
+      "score": 0.964583158493042,
+      "box": [
+        118,
+        152,
+        661,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9997636675834656,
+      "box": [
+        117,
+        243,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Registered Nurses, KindSpring Care Center, 2020.03—2022.04",
+      "score": 0.9956905245780945,
+      "box": [
+        116,
+        288,
+        699,
+        318
+      ]
+    },
+    {
+      "text": "- Designed clinical documentation standards",
+      "score": 0.9966837763786316,
+      "box": [
+        125,
+        313,
+        539,
+        341
+      ]
+    },
+    {
+      "text": "- Established clinical best practices",
+      "score": 0.9926130175590515,
+      "box": [
+        126,
+        339,
+        453,
+        367
+      ]
+    },
+    {
+      "text": "Registered Nurses, TrueLife Nursing, 2017.012019.02",
+      "score": 0.9964625835418701,
+      "box": [
+        116,
+        380,
+        630,
+        409
+      ]
+    },
+    {
+      "text": "- Performed wound dressing changes",
+      "score": 0.9768756628036499,
+      "box": [
+        125,
+        403,
+        477,
+        436
+      ]
+    },
+    {
+      "text": "- Administered injections under supervision",
+      "score": 0.9956179857254028,
+      "box": [
+        129,
+        434,
+        526,
+        457
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999436140060425,
+      "box": [
+        116,
+        494,
+        267,
+        521
+      ]
+    },
+    {
+      "text": "Bachelor's, Nursing, Amber Hills University, 2014",
+      "score": 0.9906601309776306,
+      "box": [
+        117,
+        542,
+        572,
+        566
+      ]
+    },
+    {
+      "text": "•Studied fundamentals of tracheostomy care",
+      "score": 0.9844205975532532,
+      "box": [
+        130,
+        566,
+        551,
+        592
+      ]
+    },
+    {
+      "text": "• Completed coursework in maternal health nursing",
+      "score": 0.9900499582290649,
+      "box": [
+        131,
+        591,
+        607,
+        617
+      ]
+    }
+  ],
+  "seconds": 2.461883000098169,
+  "id": "15978",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

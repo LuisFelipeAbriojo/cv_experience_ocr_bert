@@ -1,0 +1,182 @@
+{
+  "lines": [
+    {
+      "text": "CELESTE STOUT",
+      "score": 0.9848865866661072,
+      "box": [
+        117,
+        89,
+        394,
+        122
+      ]
+    },
+    {
+      "text": "NY, USA | +1-295-957-8025 | celeste.stout@example.com",
+      "score": 0.9864964485168457,
+      "box": [
+        116,
+        150,
+        657,
+        177
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9991585612297058,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Precise Ledger Group, 2020.09—2023.01",
+      "score": 0.9893028140068054,
+      "box": [
+        115,
+        288,
+        703,
+        318
+      ]
+    },
+    {
+      "text": "- Developed financial analytics frameworks",
+      "score": 0.9931807518005371,
+      "box": [
+        128,
+        315,
+        524,
+        340
+      ]
+    },
+    {
+      "text": "- Led financial forecasting initiatives",
+      "score": 0.9846299290657043,
+      "box": [
+        127,
+        339,
+        459,
+        368
+      ]
+    },
+    {
+      "text": "Accountants Auditors, AccuCount Solutions, 2018.04—2020.09",
+      "score": 0.9907914400100708,
+      "box": [
+        118,
+        383,
+        693,
+        407
+      ]
+    },
+    {
+      "text": "- Developed audit plans",
+      "score": 0.9973441362380981,
+      "box": [
+        126,
+        407,
+        350,
+        434
+      ]
+    },
+    {
+      "text": "- Managed fixed asset accounting",
+      "score": 0.974684476852417,
+      "box": [
+        126,
+        430,
+        442,
+        459
+      ]
+    },
+    {
+      "text": "Accountants Auditors, SteadyLedger Financial, 2015.112018.04",
+      "score": 0.9839386343955994,
+      "box": [
+        117,
+        472,
+        720,
+        499
+      ]
+    },
+    {
+      "text": "- Processed accounts payable invoices",
+      "score": 0.9867757558822632,
+      "box": [
+        126,
+        498,
+        491,
+        523
+      ]
+    },
+    {
+      "text": "- Assisted with financial statement preparation",
+      "score": 0.9956068396568298,
+      "box": [
+        127,
+        520,
+        555,
+        549
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999511241912842,
+      "box": [
+        118,
+        588,
+        266,
+        612
+      ]
+    },
+    {
+      "text": "Master's, Organizational Management, Prairie View University, 2017",
+      "score": 0.9869852066040039,
+      "box": [
+        116,
+        632,
+        748,
+        659
+      ]
+    },
+    {
+      "text": "Bachelor's, Financial Planning, Riverfield University, 2015",
+      "score": 0.9778268337249756,
+      "box": [
+        117,
+        659,
+        651,
+        683
+      ]
+    },
+    {
+      "text": "• Completed coursework in contribution margin analysis",
+      "score": 0.9970225691795349,
+      "box": [
+        133,
+        684,
+        647,
+        708
+      ]
+    },
+    {
+      "text": "• Studied principles of financial risk management",
+      "score": 0.9792240858078003,
+      "box": [
+        132,
+        706,
+        587,
+        735
+      ]
+    }
+  ],
+  "seconds": 2.637885299976915,
+  "id": "35379",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

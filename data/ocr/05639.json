@@ -1,0 +1,142 @@
+{
+  "lines": [
+    {
+      "text": "CARLI PHELPS",
+      "score": 0.999722421169281,
+      "box": [
+        118,
+        91,
+        363,
+        122
+      ]
+    },
+    {
+      "text": "CA, USA | +1-834-216-7945 | carli.phelps@example.com",
+      "score": 0.9834530353546143,
+      "box": [
+        117,
+        150,
+        646,
+        177
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.999126136302948,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, OpenBalance Services, 2021.022023.01",
+      "score": 0.9822603464126587,
+      "box": [
+        116,
+        289,
+        712,
+        316
+      ]
+    },
+    {
+      "text": "- Developed internal control systems",
+      "score": 0.9991123676300049,
+      "box": [
+        126,
+        315,
+        466,
+        341
+      ]
+    },
+    {
+      "text": "- Directed financial reporting processes",
+      "score": 0.9823335409164429,
+      "box": [
+        127,
+        338,
+        492,
+        368
+      ]
+    },
+    {
+      "text": "Accountants Auditors, OpenBooks Advisors, 2019.02—2021.02",
+      "score": 0.9873581528663635,
+      "box": [
+        116,
+        380,
+        697,
+        408
+      ]
+    },
+    {
+      "text": "- Assisted with monthly close procedures",
+      "score": 0.9974123239517212,
+      "box": [
+        125,
+        407,
+        506,
+        433
+      ]
+    },
+    {
+      "text": "- Maintained supporting documentation",
+      "score": 0.9815384149551392,
+      "box": [
+        128,
+        432,
+        489,
+        458
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999237060546875,
+      "box": [
+        117,
+        494,
+        267,
+        521
+      ]
+    },
+    {
+      "text": "Bachelor's, Management Information Systems, Forestfield University, 2018",
+      "score": 0.9950996041297913,
+      "box": [
+        117,
+        542,
+        807,
+        566
+      ]
+    },
+    {
+      "text": "•Studied principles of social responsibility reporting",
+      "score": 0.9818111658096313,
+      "box": [
+        128,
+        564,
+        611,
+        594
+      ]
+    },
+    {
+      "text": "Studied fundamentals of financial reporting",
+      "score": 0.9938374757766724,
+      "box": [
+        129,
+        588,
+        545,
+        619
+      ]
+    }
+  ],
+  "seconds": 2.6234393999911845,
+  "id": "05639",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

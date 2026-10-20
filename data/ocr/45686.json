@@ -1,0 +1,122 @@
+{
+  "lines": [
+    {
+      "text": "ALYSSA MAXWELL",
+      "score": 0.9998182654380798,
+      "box": [
+        117,
+        89,
+        430,
+        122
+      ]
+    },
+    {
+      "text": "PA, USA | +1-631-349-6361 | alyssa.maxwell@example.com",
+      "score": 0.9680358171463013,
+      "box": [
+        117,
+        152,
+        679,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9997456669807434,
+      "box": [
+        117,
+        243,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Kind Start School, 2019.08—2022.06",
+      "score": 0.9827647805213928,
+      "box": [
+        118,
+        290,
+        798,
+        314
+      ]
+    },
+    {
+      "text": "- Delivered structured lectures",
+      "score": 0.9968459606170654,
+      "box": [
+        125,
+        312,
+        409,
+        341
+      ]
+    },
+    {
+      "text": "- Distributed assessment rubrics",
+      "score": 0.9756119251251221,
+      "box": [
+        126,
+        339,
+        428,
+        365
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9998294115066528,
+      "box": [
+        116,
+        404,
+        268,
+        431
+      ]
+    },
+    {
+      "text": "Master's, Learning and Development, Brookhaven University, 2015",
+      "score": 0.9767208695411682,
+      "box": [
+        116,
+        448,
+        737,
+        475
+      ]
+    },
+    {
+      "text": "Bachelor's, Applied Education, High Meadow University, 2013",
+      "score": 0.9948830604553223,
+      "box": [
+        115,
+        472,
+        689,
+        500
+      ]
+    },
+    {
+      "text": "•Studied fundamentals of numeracy development",
+      "score": 0.9856776595115662,
+      "box": [
+        128,
+        497,
+        597,
+        526
+      ]
+    },
+    {
+      "text": "Studied principles of student participation",
+      "score": 0.9996134638786316,
+      "box": [
+        132,
+        522,
+        530,
+        551
+      ]
+    }
+  ],
+  "seconds": 2.186903900001198,
+  "id": "45686",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

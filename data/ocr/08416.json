@@ -1,0 +1,112 @@
+{
+  "lines": [
+    {
+      "text": "SKYELAR NICHOLSON",
+      "score": 0.9987770318984985,
+      "box": [
+        117,
+        91,
+        487,
+        122
+      ]
+    },
+    {
+      "text": "CA, USA | +1-892-374-9609 |skyelar.nicholson@example.com",
+      "score": 0.9862395524978638,
+      "box": [
+        118,
+        151,
+        699,
+        175
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9997692108154297,
+      "box": [
+        117,
+        243,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Software Developers, Skywave Tech, 2021.07-2023.01",
+      "score": 0.9836266040802002,
+      "box": [
+        116,
+        288,
+        630,
+        315
+      ]
+    },
+    {
+      "text": "- Reviewed error reports",
+      "score": 0.9986729025840759,
+      "box": [
+        125,
+        313,
+        356,
+        343
+      ]
+    },
+    {
+      "text": "- Handled input sanitization",
+      "score": 0.9975646734237671,
+      "box": [
+        128,
+        340,
+        382,
+        367
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999181032180786,
+      "box": [
+        116,
+        404,
+        268,
+        431
+      ]
+    },
+    {
+      "text": "Bachelor's, Forestfield University, 2020",
+      "score": 0.9843069314956665,
+      "box": [
+        115,
+        446,
+        479,
+        474
+      ]
+    },
+    {
+      "text": "•Completed coursework in sorting and searching algorithms",
+      "score": 0.9625270366668701,
+      "box": [
+        130,
+        473,
+        691,
+        500
+      ]
+    },
+    {
+      "text": "•Studied principles of event-driven architecture",
+      "score": 0.9767983555793762,
+      "box": [
+        132,
+        497,
+        574,
+        525
+      ]
+    }
+  ],
+  "seconds": 1.9275417998433113,
+  "id": "08416",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

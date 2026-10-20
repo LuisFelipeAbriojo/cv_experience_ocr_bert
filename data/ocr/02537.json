@@ -1,0 +1,112 @@
+{
+  "lines": [
+    {
+      "text": "SAVANNAH DUNLAP",
+      "score": 0.999857485294342,
+      "box": [
+        117,
+        91,
+        455,
+        122
+      ]
+    },
+    {
+      "text": "AR, USA | +1-360-577-4182 | savannah.dunlap@example.com",
+      "score": 0.9850108027458191,
+      "box": [
+        118,
+        152,
+        699,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9997150301933289,
+      "box": [
+        117,
+        243,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Registered Nurses, TrueHands Nursing Services, 2021.052023.01",
+      "score": 0.9985642433166504,
+      "box": [
+        117,
+        289,
+        741,
+        316
+      ]
+    },
+    {
+      "text": "- Assisted with surgical prep",
+      "score": 0.9806315898895264,
+      "box": [
+        124,
+        311,
+        390,
+        344
+      ]
+    },
+    {
+      "text": "- Prepared treatment rooms",
+      "score": 0.9833495020866394,
+      "box": [
+        125,
+        338,
+        387,
+        368
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999526143074036,
+      "box": [
+        116,
+        404,
+        268,
+        431
+      ]
+    },
+    {
+      "text": "Bachelor's, Health Care Studies, Fairmont University, 2023",
+      "score": 0.9854555726051331,
+      "box": [
+        115,
+        446,
+        662,
+        474
+      ]
+    },
+    {
+      "text": "•Completed coursework in nursing standards of practice",
+      "score": 0.988250732421875,
+      "box": [
+        130,
+        474,
+        656,
+        499
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of skin integrity maintenance",
+      "score": 0.9868533611297607,
+      "box": [
+        132,
+        497,
+        621,
+        525
+      ]
+    }
+  ],
+  "seconds": 2.4011697000823915,
+  "id": "02537",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

@@ -1,0 +1,172 @@
+{
+  "lines": [
+    {
+      "text": "NICOLE OLSON",
+      "score": 0.9995259642601013,
+      "box": [
+        117,
+        90,
+        373,
+        121
+      ]
+    },
+    {
+      "text": "AK, USA | +1-405-582-3718 | nicole.olson@example.com",
+      "score": 0.9769071936607361,
+      "box": [
+        118,
+        152,
+        649,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9991161823272705,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, BrightLife Health Services, 2020.12—2023.01",
+      "score": 0.9819546937942505,
+      "box": [
+        115,
+        287,
+        716,
+        318
+      ]
+    },
+    {
+      "text": "- Developed patient safety metrics",
+      "score": 0.9990878105163574,
+      "box": [
+        125,
+        314,
+        447,
+        342
+      ]
+    },
+    {
+      "text": "- Directed interdisciplinary workflow alignment",
+      "score": 0.9823096990585327,
+      "box": [
+        126,
+        339,
+        554,
+        367
+      ]
+    },
+    {
+      "text": "Registered Nurses, SunPath Care Group, 2018.112020.12",
+      "score": 0.9925352931022644,
+      "box": [
+        116,
+        381,
+        673,
+        409
+      ]
+    },
+    {
+      "text": "- Administered complex medication regimens",
+      "score": 0.9990670084953308,
+      "box": [
+        124,
+        406,
+        546,
+        435
+      ]
+    },
+    {
+      "text": "- Assisted with emergency interventions",
+      "score": 0.999500572681427,
+      "box": [
+        127,
+        432,
+        496,
+        458
+      ]
+    },
+    {
+      "text": "Registered Nurses, CareBridge Health Services, 2016.09—2018.11",
+      "score": 0.9941917061805725,
+      "box": [
+        117,
+        472,
+        732,
+        497
+      ]
+    },
+    {
+      "text": "- Administered injections under supervision",
+      "score": 0.9827379584312439,
+      "box": [
+        128,
+        498,
+        528,
+        523
+      ]
+    },
+    {
+      "text": "- Monitored patient intake and output",
+      "score": 0.9947707653045654,
+      "box": [
+        128,
+        522,
+        470,
+        549
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999496936798096,
+      "box": [
+        118,
+        588,
+        266,
+        612
+      ]
+    },
+    {
+      "text": "Bachelor's, Nursing Practice, Northcrest University, 2015",
+      "score": 0.991014838218689,
+      "box": [
+        118,
+        633,
+        642,
+        657
+      ]
+    },
+    {
+      "text": "•Studied fundamentals of patient mobility",
+      "score": 0.9948460459709167,
+      "box": [
+        130,
+        659,
+        518,
+        683
+      ]
+    },
+    {
+      "text": "•Studied fundamentals of conflict resolution basics",
+      "score": 0.9889722466468811,
+      "box": [
+        130,
+        681,
+        605,
+        707
+      ]
+    }
+  ],
+  "seconds": 3.038968900218606,
+  "id": "00889",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

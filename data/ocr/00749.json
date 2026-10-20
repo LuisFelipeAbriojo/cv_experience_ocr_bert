@@ -1,0 +1,142 @@
+{
+  "lines": [
+    {
+      "text": "STACEY JOSEPH",
+      "score": 0.9997298717498779,
+      "box": [
+        116,
+        90,
+        398,
+        122
+      ]
+    },
+    {
+      "text": "AL, USA | +1-474-619-3683 | stacey.joseph@example.com",
+      "score": 0.9851090312004089,
+      "box": [
+        118,
+        152,
+        664,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9997631907463074,
+      "box": [
+        117,
+        243,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Registered Nurses, GentleNest Health, 2019.042021.10",
+      "score": 0.9889123439788818,
+      "box": [
+        118,
+        290,
+        646,
+        314
+      ]
+    },
+    {
+      "text": "- Supervised multidisciplinary care teams",
+      "score": 0.9869008660316467,
+      "box": [
+        126,
+        314,
+        508,
+        342
+      ]
+    },
+    {
+      "text": "- Led nursing workflow optimization",
+      "score": 0.9721357226371765,
+      "box": [
+        127,
+        339,
+        456,
+        368
+      ]
+    },
+    {
+      "text": "Registered Nurses, OpenBridge Care Services, 2015.072018.02",
+      "score": 0.9975869655609131,
+      "box": [
+        118,
+        383,
+        724,
+        407
+      ]
+    },
+    {
+      "text": "- Prepared treatment rooms",
+      "score": 0.9978245496749878,
+      "box": [
+        126,
+        407,
+        387,
+        433
+      ]
+    },
+    {
+      "text": "- Assisted with physical therapy exercises",
+      "score": 0.971886396408081,
+      "box": [
+        127,
+        431,
+        515,
+        458
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999385476112366,
+      "box": [
+        117,
+        494,
+        267,
+        521
+      ]
+    },
+    {
+      "text": "Associate's degree, Health Care Management, Parkview University, 2006",
+      "score": 0.9934597015380859,
+      "box": [
+        117,
+        540,
+        796,
+        567
+      ]
+    },
+    {
+      "text": "•Studied fundamentals of conflict resolution basics",
+      "score": 0.9876896739006042,
+      "box": [
+        129,
+        566,
+        605,
+        591
+      ]
+    },
+    {
+      "text": "• Completed coursework in enteral feeding basics",
+      "score": 0.9833071827888489,
+      "box": [
+        131,
+        591,
+        593,
+        616
+      ]
+    }
+  ],
+  "seconds": 2.457023000344634,
+  "id": "00749",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

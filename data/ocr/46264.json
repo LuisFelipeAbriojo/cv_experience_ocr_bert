@@ -1,0 +1,112 @@
+{
+  "lines": [
+    {
+      "text": "HAROLD TURNER",
+      "score": 0.9998699426651001,
+      "box": [
+        115,
+        87,
+        411,
+        123
+      ]
+    },
+    {
+      "text": "PA, USA | +1-686-728-6844 | harold.turner@example.com",
+      "score": 0.9792506098747253,
+      "box": [
+        115,
+        149,
+        658,
+        177
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9997725486755371,
+      "box": [
+        117,
+        243,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Software Developers, Openwave Solutions, 2020.012023.01",
+      "score": 0.9995983242988586,
+      "box": [
+        116,
+        289,
+        687,
+        316
+      ]
+    },
+    {
+      "text": "- Participated in code reviews",
+      "score": 0.9995071291923523,
+      "box": [
+        126,
+        314,
+        403,
+        340
+      ]
+    },
+    {
+      "text": "- Assisted with CI pipeline tasks",
+      "score": 0.982492983341217,
+      "box": [
+        129,
+        341,
+        422,
+        365
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999212622642517,
+      "box": [
+        116,
+        404,
+        268,
+        431
+      ]
+    },
+    {
+      "text": "Bachelor's, Hawthorne University, 2023",
+      "score": 0.9852569699287415,
+      "box": [
+        115,
+        446,
+        481,
+        474
+      ]
+    },
+    {
+      "text": "•Studied principles of event-driven architecture",
+      "score": 0.9888296127319336,
+      "box": [
+        129,
+        473,
+        572,
+        499
+      ]
+    },
+    {
+      "text": "Studied principles of dependency injection",
+      "score": 0.978290855884552,
+      "box": [
+        131,
+        497,
+        538,
+        525
+      ]
+    }
+  ],
+  "seconds": 1.8154118997044861,
+  "id": "46264",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

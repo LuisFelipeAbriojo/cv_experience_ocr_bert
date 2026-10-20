@@ -1,0 +1,142 @@
+{
+  "lines": [
+    {
+      "text": "ALEXUS WU",
+      "score": 0.9571741819381714,
+      "box": [
+        117,
+        91,
+        319,
+        122
+      ]
+    },
+    {
+      "text": "WA, USA | +1-653-741-1613 | alexus.wu@example.com",
+      "score": 0.976952850818634,
+      "box": [
+        118,
+        152,
+        637,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9997676014900208,
+      "box": [
+        117,
+        243,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Registered Nurses, SunBridge Nursing, 2021.012023.01",
+      "score": 0.9837777018547058,
+      "box": [
+        116,
+        288,
+        649,
+        316
+      ]
+    },
+    {
+      "text": "- Developed care quality benchmarks",
+      "score": 0.9734307527542114,
+      "box": [
+        125,
+        313,
+        474,
+        343
+      ]
+    },
+    {
+      "text": "- Established nursing performance metrics",
+      "score": 0.9996369481086731,
+      "box": [
+        125,
+        338,
+        521,
+        368
+      ]
+    },
+    {
+      "text": "Registered Nurses, ClearHands Nursing Group, 2016.05—2018.06",
+      "score": 0.9757579565048218,
+      "box": [
+        115,
+        379,
+        729,
+        410
+      ]
+    },
+    {
+      "text": "- Provided catheter care",
+      "score": 0.9962069392204285,
+      "box": [
+        125,
+        404,
+        353,
+        433
+      ]
+    },
+    {
+      "text": "- Administered injections under supervision",
+      "score": 0.9911152124404907,
+      "box": [
+        128,
+        433,
+        526,
+        456
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999361038208008,
+      "box": [
+        117,
+        494,
+        267,
+        521
+      ]
+    },
+    {
+      "text": "Associate's degree, Nursing Foundations, Redwood University, 2014",
+      "score": 0.979709267616272,
+      "box": [
+        118,
+        541,
+        752,
+        565
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of health assessment",
+      "score": 0.9713191390037537,
+      "box": [
+        130,
+        567,
+        554,
+        590
+      ]
+    },
+    {
+      "text": "Completed coursework in sterile technique",
+      "score": 0.9910728931427002,
+      "box": [
+        130,
+        589,
+        542,
+        618
+      ]
+    }
+  ],
+  "seconds": 6.21969179995358,
+  "id": "59051",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

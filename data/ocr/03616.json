@@ -1,0 +1,202 @@
+{
+  "lines": [
+    {
+      "text": "JOSIE LIU",
+      "score": 0.99970942735672,
+      "box": [
+        116,
+        91,
+        279,
+        122
+      ]
+    },
+    {
+      "text": "CA, USA | +1-981-271-1700 | josie.liu@example.com",
+      "score": 0.9830095767974854,
+      "box": [
+        116,
+        150,
+        611,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9991140365600586,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, OpenCare Nursing Services, 2020.01—2023.01",
+      "score": 0.9803399443626404,
+      "box": [
+        115,
+        287,
+        736,
+        319
+      ]
+    },
+    {
+      "text": "- Developed patient safety metrics",
+      "score": 0.9978348016738892,
+      "box": [
+        125,
+        314,
+        447,
+        342
+      ]
+    },
+    {
+      "text": "- Directed nursing operations planning",
+      "score": 0.984463632106781,
+      "box": [
+        127,
+        339,
+        482,
+        369
+      ]
+    },
+    {
+      "text": "Registered Nurses, SunSpring Nursing, 2017.012020.01",
+      "score": 0.9943256378173828,
+      "box": [
+        116,
+        381,
+        650,
+        409
+      ]
+    },
+    {
+      "text": "- Developed staffing allocation models",
+      "score": 0.9979386329650879,
+      "box": [
+        125,
+        406,
+        483,
+        434
+      ]
+    },
+    {
+      "text": "- Managed clinical resource planning",
+      "score": 0.9930117726325989,
+      "box": [
+        127,
+        432,
+        468,
+        459
+      ]
+    },
+    {
+      "text": "Registered Nurses, SunWay Care Group, 2012.112015.12",
+      "score": 0.9968899488449097,
+      "box": [
+        118,
+        474,
+        670,
+        498
+      ]
+    },
+    {
+      "text": "- Managed isolation procedures",
+      "score": 0.9956640005111694,
+      "box": [
+        126,
+        498,
+        422,
+        523
+      ]
+    },
+    {
+      "text": "- Provided wound care management",
+      "score": 0.9895890951156616,
+      "box": [
+        126,
+        521,
+        467,
+        550
+      ]
+    },
+    {
+      "text": "Registered Nurses, ClearPath Nursing Group, 2009.03—2012.04",
+      "score": 0.9882670640945435,
+      "box": [
+        118,
+        565,
+        709,
+        589
+      ]
+    },
+    {
+      "text": "- Documented patient observations",
+      "score": 0.9993184208869934,
+      "box": [
+        127,
+        590,
+        453,
+        616
+      ]
+    },
+    {
+      "text": "- Assisted with patient positioning",
+      "score": 0.9798771739006042,
+      "box": [
+        126,
+        614,
+        439,
+        643
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999048709869385,
+      "box": [
+        117,
+        681,
+        266,
+        705
+      ]
+    },
+    {
+      "text": "Bachelor's, Health Education, Stonehaven University, 2004",
+      "score": 0.9897626042366028,
+      "box": [
+        117,
+        726,
+        662,
+        749
+      ]
+    },
+    {
+      "text": "Studied principles of adverse drug reactions",
+      "score": 0.9971473813056946,
+      "box": [
+        129,
+        748,
+        555,
+        776
+      ]
+    },
+    {
+      "text": "• Studied principles of pain assessment tools",
+      "score": 0.9931401610374451,
+      "box": [
+        133,
+        775,
+        549,
+        799
+      ]
+    }
+  ],
+  "seconds": 3.5022742999717593,
+  "id": "03616",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

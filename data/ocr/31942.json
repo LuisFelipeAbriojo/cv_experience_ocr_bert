@@ -1,0 +1,132 @@
+{
+  "lines": [
+    {
+      "text": "JUSTIN KERR",
+      "score": 0.9729678630828857,
+      "box": [
+        116,
+        91,
+        341,
+        122
+      ]
+    },
+    {
+      "text": "NV, USA | +1-749-517-8142 | justin.kerr@example.com",
+      "score": 0.9855585098266602,
+      "box": [
+        115,
+        149,
+        632,
+        177
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9997566342353821,
+      "box": [
+        117,
+        243,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Construction Laborers, SafeRise Construction, 2018.042020.10",
+      "score": 0.9978377223014832,
+      "box": [
+        118,
+        290,
+        716,
+        314
+      ]
+    },
+    {
+      "text": "- Designed construction staging plans",
+      "score": 0.9992552995681763,
+      "box": [
+        126,
+        314,
+        477,
+        342
+      ]
+    },
+    {
+      "text": "- Developed project risk assessments",
+      "score": 0.9879135489463806,
+      "box": [
+        128,
+        340,
+        476,
+        366
+      ]
+    },
+    {
+      "text": "Construction Laborers, StrongWay Construction, 2015.012017.07",
+      "score": 0.9949796199798584,
+      "box": [
+        117,
+        381,
+        735,
+        408
+      ]
+    },
+    {
+      "text": "- Followed safety procedures on site",
+      "score": 0.9989964962005615,
+      "box": [
+        126,
+        407,
+        464,
+        433
+      ]
+    },
+    {
+      "text": "- Installed basic flooring materials",
+      "score": 0.9910409450531006,
+      "box": [
+        127,
+        430,
+        440,
+        458
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999161958694458,
+      "box": [
+        117,
+        494,
+        267,
+        521
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Construction Fundamentals, Clear Ridge High School, 2010",
+      "score": 0.9873836040496826,
+      "box": [
+        116,
+        540,
+        931,
+        567
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of concrete finishing",
+      "score": 0.9714791774749756,
+      "box": [
+        131,
+        563,
+        542,
+        594
+      ]
+    }
+  ],
+  "seconds": 2.6050583999603987,
+  "id": "31942",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

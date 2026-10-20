@@ -1,0 +1,162 @@
+{
+  "lines": [
+    {
+      "text": "ZACHARY CROSBY",
+      "score": 0.9981250166893005,
+      "box": [
+        117,
+        91,
+        433,
+        121
+      ]
+    },
+    {
+      "text": "MO, USA | +1-564-803-5275 | zachary.crosby@example.com",
+      "score": 0.9934316277503967,
+      "box": [
+        115,
+        149,
+        685,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9989565014839172,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, CraftFrame Builders, 2020.012023.01",
+      "score": 0.988116979598999,
+      "box": [
+        118,
+        290,
+        693,
+        314
+      ]
+    },
+    {
+      "text": "- Reviewed site inspection reports",
+      "score": 0.9824820160865784,
+      "box": [
+        125,
+        313,
+        444,
+        344
+      ]
+    },
+    {
+      "text": "- Designed construction staging plans",
+      "score": 0.9981074929237366,
+      "box": [
+        127,
+        339,
+        477,
+        369
+      ]
+    },
+    {
+      "text": "Construction Laborers, PrimeFrame Construction, 2016.072019.07",
+      "score": 0.9994239807128906,
+      "box": [
+        117,
+        382,
+        746,
+        409
+      ]
+    },
+    {
+      "text": "- Coordinated task assignments",
+      "score": 0.9729992747306824,
+      "box": [
+        126,
+        409,
+        422,
+        433
+      ]
+    },
+    {
+      "text": "- Prepared and poured concrete forms",
+      "score": 0.9838447570800781,
+      "box": [
+        128,
+        433,
+        483,
+        459
+      ]
+    },
+    {
+      "text": "Construction Laborers, IronWay Contractors, 2012.122016.01",
+      "score": 0.9917497038841248,
+      "box": [
+        118,
+        472,
+        698,
+        499
+      ]
+    },
+    {
+      "text": "- Helped position heavy materials",
+      "score": 0.9931969046592712,
+      "box": [
+        126,
+        497,
+        439,
+        525
+      ]
+    },
+    {
+      "text": "- Assisted with concrete pouring",
+      "score": 0.9989221096038818,
+      "box": [
+        127,
+        520,
+        426,
+        551
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9998670220375061,
+      "box": [
+        117,
+        587,
+        267,
+        614
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Construction Practices, Ironwood High School, 2010",
+      "score": 0.9921634197235107,
+      "box": [
+        118,
+        633,
+        859,
+        657
+      ]
+    },
+    {
+      "text": "• Completed coursework in basic roofing installation",
+      "score": 0.9697840809822083,
+      "box": [
+        132,
+        657,
+        613,
+        683
+      ]
+    }
+  ],
+  "seconds": 2.5247980998829007,
+  "id": "31223",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

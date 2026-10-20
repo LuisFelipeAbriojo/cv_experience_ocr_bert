@@ -1,0 +1,182 @@
+{
+  "lines": [
+    {
+      "text": "AJ PERRY",
+      "score": 0.9996872544288635,
+      "box": [
+        117,
+        90,
+        285,
+        121
+      ]
+    },
+    {
+      "text": "WA, USA | +1-551-673-4732 | aj.perry@example.com",
+      "score": 0.9893159866333008,
+      "box": [
+        115,
+        149,
+        616,
+        177
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.997925341129303,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, FairCount Advisors, 2020.04—2023.01",
+      "score": 0.9802089929580688,
+      "box": [
+        117,
+        290,
+        676,
+        314
+      ]
+    },
+    {
+      "text": "- Led regulatory compliance initiatives",
+      "score": 0.9771133661270142,
+      "box": [
+        127,
+        314,
+        479,
+        342
+      ]
+    },
+    {
+      "text": "- Designed audit methodologies",
+      "score": 0.9986258149147034,
+      "box": [
+        127,
+        339,
+        424,
+        369
+      ]
+    },
+    {
+      "text": "Accountants Auditors, FairBalance Advisors, 2017.06—2020.04",
+      "score": 0.9844738841056824,
+      "box": [
+        117,
+        383,
+        697,
+        407
+      ]
+    },
+    {
+      "text": "- Prepared regulatory reports",
+      "score": 0.9819897413253784,
+      "box": [
+        126,
+        409,
+        397,
+        433
+      ]
+    },
+    {
+      "text": "- Developed audit plans",
+      "score": 0.9769314527511597,
+      "box": [
+        127,
+        431,
+        350,
+        461
+      ]
+    },
+    {
+      "text": "Accountants Auditors, ClearCount Financial, 2013.02—2015.12",
+      "score": 0.9726747274398804,
+      "box": [
+        117,
+        473,
+        696,
+        496
+      ]
+    },
+    {
+      "text": "- Assisted with forecasting data",
+      "score": 0.9988046288490295,
+      "box": [
+        126,
+        499,
+        420,
+        523
+      ]
+    },
+    {
+      "text": "- Recorded payroll entries",
+      "score": 0.9965497255325317,
+      "box": [
+        126,
+        520,
+        370,
+        550
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999287724494934,
+      "box": [
+        117,
+        588,
+        266,
+        612
+      ]
+    },
+    {
+      "text": "Master's, Taxation, Oakfield University, 2004",
+      "score": 0.9895864725112915,
+      "box": [
+        116,
+        631,
+        531,
+        657
+      ]
+    },
+    {
+      "text": "Bachelor's, Managerial Accounting, Ridgeway University, 2002",
+      "score": 0.9885600805282593,
+      "box": [
+        115,
+        656,
+        698,
+        684
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of journal entries",
+      "score": 0.9782353043556213,
+      "box": [
+        131,
+        683,
+        510,
+        707
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of business valuation",
+      "score": 0.9828948974609375,
+      "box": [
+        132,
+        706,
+        550,
+        732
+      ]
+    }
+  ],
+  "seconds": 2.651196999941021,
+  "id": "58460",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

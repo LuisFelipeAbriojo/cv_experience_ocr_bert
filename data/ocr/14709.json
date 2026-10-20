@@ -1,0 +1,142 @@
+{
+  "lines": [
+    {
+      "text": "JESSICA XIONG",
+      "score": 0.999267041683197,
+      "box": [
+        116,
+        90,
+        377,
+        121
+      ]
+    },
+    {
+      "text": "GA, USA | +1-404-743-9814 | jessica.xiong@example.com",
+      "score": 0.9963694214820862,
+      "box": [
+        116,
+        149,
+        661,
+        177
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9997742772102356,
+      "box": [
+        117,
+        243,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Registered Nurses, GentleBridge Nursing, 2020.02—2023.01",
+      "score": 0.9863874316215515,
+      "box": [
+        115,
+        287,
+        674,
+        318
+      ]
+    },
+    {
+      "text": "- Managed clinical workflow redesign",
+      "score": 0.999535858631134,
+      "box": [
+        125,
+        313,
+        470,
+        343
+      ]
+    },
+    {
+      "text": "- Developed patient safety programs",
+      "score": 0.9887967705726624,
+      "box": [
+        127,
+        338,
+        465,
+        370
+      ]
+    },
+    {
+      "text": "Registered Nurses, ClearLife Health Group, 2017.02—2020.02",
+      "score": 0.9856517910957336,
+      "box": [
+        116,
+        380,
+        690,
+        408
+      ]
+    },
+    {
+      "text": "- Conducted basic patient assessments",
+      "score": 0.9989556074142456,
+      "box": [
+        125,
+        405,
+        494,
+        434
+      ]
+    },
+    {
+      "text": "- Prepared intravenous solutions",
+      "score": 0.9838798642158508,
+      "box": [
+        127,
+        433,
+        429,
+        456
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999482035636902,
+      "box": [
+        118,
+        495,
+        267,
+        519
+      ]
+    },
+    {
+      "text": "Some college (no degree), Clinical Support, Timberline University, 2020",
+      "score": 0.988649845123291,
+      "box": [
+        117,
+        540,
+        780,
+        567
+      ]
+    },
+    {
+      "text": "Completed coursework in clinical reasoning",
+      "score": 0.9838208556175232,
+      "box": [
+        129,
+        564,
+        550,
+        594
+      ]
+    },
+    {
+      "text": "•Studied principles of oxygen therapy",
+      "score": 0.983548641204834,
+      "box": [
+        131,
+        589,
+        485,
+        620
+      ]
+    }
+  ],
+  "seconds": 2.549956999719143,
+  "id": "14709",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

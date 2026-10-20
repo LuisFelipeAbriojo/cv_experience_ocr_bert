@@ -1,0 +1,172 @@
+{
+  "lines": [
+    {
+      "text": "JERMAINE HAYDEN",
+      "score": 0.9987621307373047,
+      "box": [
+        117,
+        93,
+        441,
+        120
+      ]
+    },
+    {
+      "text": "PA, USA | +1-207-760-9317 | jermaine.hayden@example.com",
+      "score": 0.9889029860496521,
+      "box": [
+        116,
+        151,
+        693,
+        177
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9989835619926453,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Coreline Tech, 2020.122023.01",
+      "score": 0.9963439702987671,
+      "box": [
+        117,
+        291,
+        624,
+        315
+      ]
+    },
+    {
+      "text": "- Designed software development workflows",
+      "score": 0.9973691701889038,
+      "box": [
+        125,
+        314,
+        538,
+        342
+      ]
+    },
+    {
+      "text": "- Designed scalable services",
+      "score": 0.9968121647834778,
+      "box": [
+        127,
+        339,
+        397,
+        369
+      ]
+    },
+    {
+      "text": "Software Developers, Stoneframe Software, 2018.112020.12",
+      "score": 0.9873191714286804,
+      "box": [
+        117,
+        382,
+        694,
+        409
+      ]
+    },
+    {
+      "text": "- Integrated messaging systems",
+      "score": 0.9875612258911133,
+      "box": [
+        126,
+        408,
+        426,
+        434
+      ]
+    },
+    {
+      "text": "- Built frontend components",
+      "score": 0.9966335296630859,
+      "box": [
+        126,
+        431,
+        385,
+        460
+      ]
+    },
+    {
+      "text": "Software Developers, Brightstream Labs, 2013.12—2016.01",
+      "score": 0.9881982803344727,
+      "box": [
+        116,
+        471,
+        665,
+        499
+      ]
+    },
+    {
+      "text": "- Assisted with system documentation",
+      "score": 0.9985009431838989,
+      "box": [
+        128,
+        499,
+        477,
+        523
+      ]
+    },
+    {
+      "text": "- Handled feature toggles",
+      "score": 0.9994432330131531,
+      "box": [
+        128,
+        521,
+        365,
+        549
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999088644981384,
+      "box": [
+        117,
+        587,
+        267,
+        614
+      ]
+    },
+    {
+      "text": "Associate's degree, Greenfield University, 2008",
+      "score": 0.9979899525642395,
+      "box": [
+        118,
+        633,
+        556,
+        657
+      ]
+    },
+    {
+      "text": "•Studied fundamentals of refactoring techniques",
+      "score": 0.9962466359138489,
+      "box": [
+        130,
+        659,
+        585,
+        683
+      ]
+    },
+    {
+      "text": "• Completed coursework in cloud services integration",
+      "score": 0.9818301796913147,
+      "box": [
+        134,
+        683,
+        623,
+        707
+      ]
+    }
+  ],
+  "seconds": 2.510315800085664,
+  "id": "46261",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

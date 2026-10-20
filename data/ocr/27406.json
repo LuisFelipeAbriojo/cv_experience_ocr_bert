@@ -1,0 +1,142 @@
+{
+  "lines": [
+    {
+      "text": "MICHELLE KENNEDY",
+      "score": 0.9960576295852661,
+      "box": [
+        119,
+        93,
+        459,
+        120
+      ]
+    },
+    {
+      "text": "MI, USA | +1-698-544-1736 | michelle.kennedy@example.com",
+      "score": 0.9841706156730652,
+      "box": [
+        115,
+        149,
+        696,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9991161823272705,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, Helping Way Nursing, 2018.062021.05",
+      "score": 0.9841285347938538,
+      "box": [
+        115,
+        287,
+        673,
+        319
+      ]
+    },
+    {
+      "text": "- Led infection control programs",
+      "score": 0.9946661591529846,
+      "box": [
+        126,
+        314,
+        424,
+        344
+      ]
+    },
+    {
+      "text": "- Supervised multidisciplinary care teams",
+      "score": 0.9956784844398499,
+      "box": [
+        127,
+        339,
+        509,
+        369
+      ]
+    },
+    {
+      "text": "Registered Nurses, Sunrise Health Services, 2014.122017.12",
+      "score": 0.9909717440605164,
+      "box": [
+        116,
+        380,
+        700,
+        408
+      ]
+    },
+    {
+      "text": "- Performed basic life support procedures",
+      "score": 0.9968377351760864,
+      "box": [
+        125,
+        407,
+        512,
+        434
+      ]
+    },
+    {
+      "text": "- Provided patient education materials",
+      "score": 0.9845172762870789,
+      "box": [
+        127,
+        432,
+        480,
+        456
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999945878982544,
+      "box": [
+        116,
+        494,
+        268,
+        521
+      ]
+    },
+    {
+      "text": "Bachelor's, Mental Health Studies, Meadowridge University, 2013",
+      "score": 0.9879323840141296,
+      "box": [
+        115,
+        539,
+        722,
+        567
+      ]
+    },
+    {
+      "text": "•Studied fundamentals of end-of-life care",
+      "score": 0.9904000163078308,
+      "box": [
+        130,
+        566,
+        519,
+        592
+      ]
+    },
+    {
+      "text": "•Completed coursework in prioritization in nursing",
+      "score": 0.9816513657569885,
+      "box": [
+        131,
+        590,
+        598,
+        619
+      ]
+    }
+  ],
+  "seconds": 2.6802774001844227,
+  "id": "27406",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

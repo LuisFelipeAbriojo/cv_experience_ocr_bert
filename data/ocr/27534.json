@@ -1,0 +1,202 @@
+{
+  "lines": [
+    {
+      "text": "RICHARD STONE",
+      "score": 0.9998438358306885,
+      "box": [
+        118,
+        91,
+        396,
+        121
+      ]
+    },
+    {
+      "text": "MI, USA | +1-364-368-7465 | richard.stone@example.com",
+      "score": 0.9910165071487427,
+      "box": [
+        116,
+        149,
+        655,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9983112215995789,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Netwave Labs, 2019.10—2023.01",
+      "score": 0.9890019297599792,
+      "box": [
+        117,
+        291,
+        627,
+        315
+      ]
+    },
+    {
+      "text": "- Led cross-team technical alignment",
+      "score": 0.9967247843742371,
+      "box": [
+        127,
+        315,
+        470,
+        341
+      ]
+    },
+    {
+      "text": "- Implemented service orchestration",
+      "score": 0.9927935004234314,
+      "box": [
+        128,
+        340,
+        461,
+        366
+      ]
+    },
+    {
+      "text": "Software Developers, Flowstack Tech, 2016.072019.10",
+      "score": 0.9939711093902588,
+      "box": [
+        117,
+        383,
+        642,
+        407
+      ]
+    },
+    {
+      "text": "- Defined API standards",
+      "score": 0.9875322580337524,
+      "box": [
+        127,
+        408,
+        351,
+        432
+      ]
+    },
+    {
+      "text": "- Led system reliability programs",
+      "score": 0.9827213883399963,
+      "box": [
+        128,
+        432,
+        429,
+        458
+      ]
+    },
+    {
+      "text": "Software Developers, Softstack Digital, 2013.042016.07",
+      "score": 0.9929479956626892,
+      "box": [
+        117,
+        472,
+        646,
+        499
+      ]
+    },
+    {
+      "text": "- Optimized database queries",
+      "score": 0.999104917049408,
+      "box": [
+        129,
+        498,
+        404,
+        525
+      ]
+    },
+    {
+      "text": "- Improved code coverage",
+      "score": 0.9878756403923035,
+      "box": [
+        128,
+        521,
+        372,
+        551
+      ]
+    },
+    {
+      "text": "Software Developers, Codefield Software, 2010.012013.04",
+      "score": 0.9891390204429626,
+      "box": [
+        115,
+        563,
+        673,
+        591
+      ]
+    },
+    {
+      "text": "- Performed code formatting",
+      "score": 0.999111533164978,
+      "box": [
+        126,
+        590,
+        389,
+        616
+      ]
+    },
+    {
+      "text": "- Updated routing logic",
+      "score": 0.9989371299743652,
+      "box": [
+        127,
+        613,
+        341,
+        644
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999110698699951,
+      "box": [
+        117,
+        681,
+        266,
+        705
+      ]
+    },
+    {
+      "text": "Bachelor's, Riverfield University, 2008",
+      "score": 0.9853054881095886,
+      "box": [
+        115,
+        723,
+        469,
+        750
+      ]
+    },
+    {
+      "text": "Studied principles of data modeling",
+      "score": 0.998447835445404,
+      "box": [
+        129,
+        747,
+        474,
+        777
+      ]
+    },
+    {
+      "text": "•Studied principles of operating systems",
+      "score": 0.9773820638656616,
+      "box": [
+        131,
+        773,
+        511,
+        801
+      ]
+    }
+  ],
+  "seconds": 2.578749999869615,
+  "id": "27534",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

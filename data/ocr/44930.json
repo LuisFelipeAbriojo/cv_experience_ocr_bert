@@ -1,0 +1,212 @@
+{
+  "lines": [
+    {
+      "text": "DANIELLE MULLEN",
+      "score": 0.9996893405914307,
+      "box": [
+        118,
+        92,
+        433,
+        122
+      ]
+    },
+    {
+      "text": "PA, USA | +1-440-271-8281 | danielle.mullen@example.com",
+      "score": 0.9919165372848511,
+      "box": [
+        115,
+        150,
+        679,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9986518025398254,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, CoreBooks Financial, 2018.12—2023.01",
+      "score": 0.9859527945518494,
+      "box": [
+        115,
+        288,
+        692,
+        316
+      ]
+    },
+    {
+      "text": "- Led audit programs",
+      "score": 0.9868720769882202,
+      "box": [
+        126,
+        316,
+        322,
+        342
+      ]
+    },
+    {
+      "text": "- Designed financial modeling standards",
+      "score": 0.983904242515564,
+      "box": [
+        129,
+        342,
+        500,
+        366
+      ]
+    },
+    {
+      "text": "Accountants Auditors, SteadyCount Financial, 2014.102018.12",
+      "score": 0.9961323738098145,
+      "box": [
+        116,
+        381,
+        713,
+        411
+      ]
+    },
+    {
+      "text": "- Managed financial governance",
+      "score": 0.9991653561592102,
+      "box": [
+        125,
+        408,
+        427,
+        434
+      ]
+    },
+    {
+      "text": "- Established financial data governance",
+      "score": 0.9941359162330627,
+      "box": [
+        127,
+        431,
+        493,
+        460
+      ]
+    },
+    {
+      "text": "Accountants Auditors, ClearBooks Group, 2010.08—2014.10",
+      "score": 0.9960796236991882,
+      "box": [
+        116,
+        472,
+        672,
+        497
+      ]
+    },
+    {
+      "text": "- Conducted account reconciliations",
+      "score": 0.9930543303489685,
+      "box": [
+        126,
+        498,
+        461,
+        523
+      ]
+    },
+    {
+      "text": "- Conducted risk assessments",
+      "score": 0.9907785058021545,
+      "box": [
+        128,
+        521,
+        409,
+        548
+      ]
+    },
+    {
+      "text": "Accountants Auditors, EverTrust Accounting, 2006.06—2010.08",
+      "score": 0.9875457286834717,
+      "box": [
+        117,
+        565,
+        700,
+        592
+      ]
+    },
+    {
+      "text": "- Prepared trial balances",
+      "score": 0.9993541240692139,
+      "box": [
+        125,
+        589,
+        359,
+        618
+      ]
+    },
+    {
+      "text": "- Maintained chart of accounts",
+      "score": 0.9898597598075867,
+      "box": [
+        125,
+        613,
+        410,
+        643
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9998700022697449,
+      "box": [
+        117,
+        681,
+        266,
+        705
+      ]
+    },
+    {
+      "text": "Master's, Forensic Accounting, Brightwood University, 2004",
+      "score": 0.9869682788848877,
+      "box": [
+        115,
+        723,
+        669,
+        750
+      ]
+    },
+    {
+      "text": "Bachelor's, Public Accounting, Summit Ridge University, 2002",
+      "score": 0.9929141402244568,
+      "box": [
+        116,
+        749,
+        690,
+        776
+      ]
+    },
+    {
+      "text": "•Completed coursework in segment reporting",
+      "score": 0.9795191884040833,
+      "box": [
+        129,
+        773,
+        558,
+        803
+      ]
+    },
+    {
+      "text": "Completed coursework in strategic cost management",
+      "score": 0.9857310652732849,
+      "box": [
+        131,
+        797,
+        641,
+        828
+      ]
+    }
+  ],
+  "seconds": 2.8316685003228486,
+  "id": "44930",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

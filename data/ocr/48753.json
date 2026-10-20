@@ -1,0 +1,202 @@
+{
+  "lines": [
+    {
+      "text": "JONATHAN NORRIS",
+      "score": 0.9999246597290039,
+      "box": [
+        116,
+        92,
+        442,
+        122
+      ]
+    },
+    {
+      "text": "TN, USA | +1-358-606-4747 | jonathan.norris@example.com",
+      "score": 0.9715585112571716,
+      "box": [
+        119,
+        152,
+        676,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9991820454597473,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, WellBridge Health Group, 2019.042023.01",
+      "score": 0.972991406917572,
+      "box": [
+        115,
+        287,
+        705,
+        319
+      ]
+    },
+    {
+      "text": "- Developed interdisciplinary care strategies",
+      "score": 0.9841994643211365,
+      "box": [
+        126,
+        313,
+        535,
+        344
+      ]
+    },
+    {
+      "text": "- Managed clinical workflow redesign",
+      "score": 0.9835255146026611,
+      "box": [
+        126,
+        339,
+        470,
+        369
+      ]
+    },
+    {
+      "text": "Registered Nurses, LifeHands Nursing Services, 2015.072019.04",
+      "score": 0.9933863282203674,
+      "box": [
+        117,
+        382,
+        735,
+        409
+      ]
+    },
+    {
+      "text": "- Directed patient care coordination",
+      "score": 0.9926531314849854,
+      "box": [
+        125,
+        406,
+        455,
+        435
+      ]
+    },
+    {
+      "text": "- Implemented evidence-based practice models",
+      "score": 0.9983274936676025,
+      "box": [
+        129,
+        434,
+        568,
+        457
+      ]
+    },
+    {
+      "text": "Registered Nurses, EverHands Health Services, 2011.102015.07",
+      "score": 0.9995174407958984,
+      "box": [
+        116,
+        471,
+        731,
+        499
+      ]
+    },
+    {
+      "text": "- Monitored patient response to treatments",
+      "score": 0.9979662895202637,
+      "box": [
+        125,
+        497,
+        524,
+        525
+      ]
+    },
+    {
+      "text": "- Implemented infection prevention protocols",
+      "score": 0.999375581741333,
+      "box": [
+        128,
+        521,
+        540,
+        550
+      ]
+    },
+    {
+      "text": "Registered Nurses, Compassion Spring Medical, 2008.012011.10",
+      "score": 0.996781587600708,
+      "box": [
+        118,
+        565,
+        735,
+        589
+      ]
+    },
+    {
+      "text": "- Checked laboratory results",
+      "score": 0.9862613677978516,
+      "box": [
+        129,
+        591,
+        392,
+        615
+      ]
+    },
+    {
+      "text": "- Recorded patient weight and height",
+      "score": 0.9850210547447205,
+      "box": [
+        126,
+        614,
+        471,
+        642
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999349117279053,
+      "box": [
+        117,
+        681,
+        266,
+        705
+      ]
+    },
+    {
+      "text": "Associate's degree, Health Management, Silverfield University, 2010",
+      "score": 0.9862526059150696,
+      "box": [
+        116,
+        723,
+        751,
+        750
+      ]
+    },
+    {
+      "text": "Studied principles of pharmacology",
+      "score": 0.9960665106773376,
+      "box": [
+        129,
+        748,
+        474,
+        777
+      ]
+    },
+    {
+      "text": "•Studied principles of disease prevention",
+      "score": 0.9717147350311279,
+      "box": [
+        132,
+        774,
+        517,
+        801
+      ]
+    }
+  ],
+  "seconds": 3.2684558001346886,
+  "id": "48753",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

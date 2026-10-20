@@ -1,0 +1,112 @@
+{
+  "lines": [
+    {
+      "text": "ANDREW REID",
+      "score": 0.9616532921791077,
+      "box": [
+        117,
+        91,
+        357,
+        122
+      ]
+    },
+    {
+      "text": "PA, USA | +1-220-753-3075 | andrew.reid@example.com",
+      "score": 0.9704654216766357,
+      "box": [
+        115,
+        149,
+        649,
+        177
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.999749481678009,
+      "box": [
+        117,
+        243,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Software Developers, Corewave Software, 2022.12—2023.01",
+      "score": 0.9903953075408936,
+      "box": [
+        116,
+        289,
+        678,
+        316
+      ]
+    },
+    {
+      "text": "- Implemented error handling logic",
+      "score": 0.9786441922187805,
+      "box": [
+        126,
+        313,
+        446,
+        342
+      ]
+    },
+    {
+      "text": "- Updated monitoring dashboards",
+      "score": 0.9963392615318298,
+      "box": [
+        130,
+        341,
+        439,
+        365
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999006986618042,
+      "box": [
+        116,
+        404,
+        268,
+        431
+      ]
+    },
+    {
+      "text": "Bachelor's, Fieldview University, 2020",
+      "score": 0.98971027135849,
+      "box": [
+        115,
+        446,
+        469,
+        474
+      ]
+    },
+    {
+      "text": "Completed coursework in project documentation",
+      "score": 0.9996839761734009,
+      "box": [
+        132,
+        473,
+        596,
+        500
+      ]
+    },
+    {
+      "text": "Completed coursework in release management",
+      "score": 0.9994673728942871,
+      "box": [
+        132,
+        497,
+        587,
+        525
+      ]
+    }
+  ],
+  "seconds": 2.142080800142139,
+  "id": "46823",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

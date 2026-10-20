@@ -1,0 +1,152 @@
+{
+  "lines": [
+    {
+      "text": "JENNIFER REYNOLDS",
+      "score": 0.9998056888580322,
+      "box": [
+        115,
+        89,
+        477,
+        122
+      ]
+    },
+    {
+      "text": "UT, USA | +1-744-365-6264 | jennifer.reynolds@example.com",
+      "score": 0.9945739507675171,
+      "box": [
+        116,
+        150,
+        692,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9990885853767395,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Early Horizons Academy, 2021.07—2023.01",
+      "score": 0.9906079173088074,
+      "box": [
+        115,
+        287,
+        865,
+        318
+      ]
+    },
+    {
+      "text": "- Led strategic curriculum planning",
+      "score": 0.9962264895439148,
+      "box": [
+        127,
+        316,
+        449,
+        342
+      ]
+    },
+    {
+      "text": "- Designed instructional accountability systems",
+      "score": 0.9983170628547668,
+      "box": [
+        127,
+        339,
+        562,
+        369
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Discovery Path Academy, 2019.12—2021.07",
+      "score": 0.9924669861793518,
+      "box": [
+        117,
+        382,
+        870,
+        409
+      ]
+    },
+    {
+      "text": "- Organized classroom learning resources",
+      "score": 0.9959334135055542,
+      "box": [
+        126,
+        408,
+        517,
+        434
+      ]
+    },
+    {
+      "text": "- Scheduled instructional activities",
+      "score": 0.9993788599967957,
+      "box": [
+        127,
+        431,
+        445,
+        456
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999234676361084,
+      "box": [
+        116,
+        494,
+        267,
+        521
+      ]
+    },
+    {
+      "text": "Master's, Teaching Support, Elm Ridge University, 2017",
+      "score": 0.9847577214241028,
+      "box": [
+        117,
+        541,
+        634,
+        565
+      ]
+    },
+    {
+      "text": "Bachelor's, Learning and Development, Stonehill University, 2015",
+      "score": 0.9883400201797485,
+      "box": [
+        116,
+        566,
+        724,
+        593
+      ]
+    },
+    {
+      "text": "• Studied principles of instructional materials development",
+      "score": 0.9812605381011963,
+      "box": [
+        130,
+        593,
+        670,
+        617
+      ]
+    },
+    {
+      "text": "•Completed coursework in classroom discipline strategies",
+      "score": 0.9783937335014343,
+      "box": [
+        131,
+        615,
+        672,
+        645
+      ]
+    }
+  ],
+  "seconds": 3.5210040998645127,
+  "id": "55745",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

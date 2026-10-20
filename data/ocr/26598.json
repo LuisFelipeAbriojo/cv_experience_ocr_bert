@@ -1,0 +1,212 @@
+{
+  "lines": [
+    {
+      "text": "ANDREA NEWTON",
+      "score": 0.9995251297950745,
+      "box": [
+        117,
+        91,
+        419,
+        122
+      ]
+    },
+    {
+      "text": "MA, USA | +1-450-965-5167 | andrea.newton@example.com",
+      "score": 0.9855276942253113,
+      "box": [
+        115,
+        150,
+        681,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.999116837978363,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Bright Futures Academy, 2019.112023.01",
+      "score": 0.9979826211929321,
+      "box": [
+        118,
+        290,
+        861,
+        317
+      ]
+    },
+    {
+      "text": "- Established learning outcome benchmarks",
+      "score": 0.9948989152908325,
+      "box": [
+        127,
+        317,
+        534,
+        341
+      ]
+    },
+    {
+      "text": "- Directed academic intervention strategies",
+      "score": 0.9858368039131165,
+      "box": [
+        127,
+        340,
+        525,
+        367
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Bright Learning School, 2016.092019.11",
+      "score": 0.991412878036499,
+      "box": [
+        116,
+        381,
+        849,
+        411
+      ]
+    },
+    {
+      "text": "- Developed district-aligned lesson frameworks",
+      "score": 0.9955242276191711,
+      "box": [
+        127,
+        409,
+        562,
+        433
+      ]
+    },
+    {
+      "text": "- Developed student performance metrics",
+      "score": 0.9980519413948059,
+      "box": [
+        127,
+        432,
+        512,
+        458
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Open Valley School, 2013.072016.09",
+      "score": 0.9982500076293945,
+      "box": [
+        116,
+        471,
+        821,
+        499
+      ]
+    },
+    {
+      "text": "- Organized academic interventions",
+      "score": 0.992705762386322,
+      "box": [
+        126,
+        497,
+        458,
+        525
+      ]
+    },
+    {
+      "text": "- Coordinated group learning activities",
+      "score": 0.9916184544563293,
+      "box": [
+        127,
+        521,
+        481,
+        551
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Kind Futures School, 2010.04—2013.07",
+      "score": 0.9859800934791565,
+      "box": [
+        116,
+        563,
+        826,
+        591
+      ]
+    },
+    {
+      "text": "- Reviewed homework assignments",
+      "score": 0.9988250732421875,
+      "box": [
+        126,
+        590,
+        459,
+        616
+      ]
+    },
+    {
+      "text": "- Updated student performance logs",
+      "score": 0.9983201622962952,
+      "box": [
+        127,
+        614,
+        462,
+        644
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999152421951294,
+      "box": [
+        117,
+        681,
+        266,
+        705
+      ]
+    },
+    {
+      "text": "Master's, Education Studies, Parkview University, 2009",
+      "score": 0.9928886294364929,
+      "box": [
+        116,
+        724,
+        628,
+        750
+      ]
+    },
+    {
+      "text": "Bachelor's, Human Development, Brookfield University, 2007",
+      "score": 0.9897827506065369,
+      "box": [
+        115,
+        747,
+        681,
+        775
+      ]
+    },
+    {
+      "text": "• Studied principles of knowledge retention",
+      "score": 0.9834488034248352,
+      "box": [
+        130,
+        775,
+        528,
+        800
+      ]
+    },
+    {
+      "text": "Completed coursework in classroom management techniques",
+      "score": 0.987008810043335,
+      "box": [
+        131,
+        797,
+        720,
+        829
+      ]
+    }
+  ],
+  "seconds": 3.1499278997071087,
+  "id": "26598",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

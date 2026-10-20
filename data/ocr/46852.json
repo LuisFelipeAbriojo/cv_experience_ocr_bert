@@ -1,0 +1,142 @@
+{
+  "lines": [
+    {
+      "text": "KENNETH HOGAN",
+      "score": 0.9998093843460083,
+      "box": [
+        117,
+        91,
+        414,
+        121
+      ]
+    },
+    {
+      "text": "PA, USA | +1-640-967-3798 | kenneth.hogan@example.com",
+      "score": 0.9838565587997437,
+      "box": [
+        117,
+        152,
+        676,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9997313022613525,
+      "box": [
+        117,
+        243,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Software Developers, Corecrest Software, 2020.12—2023.01",
+      "score": 0.9904705882072449,
+      "box": [
+        116,
+        289,
+        674,
+        316
+      ]
+    },
+    {
+      "text": "- Defined scalability roadmaps",
+      "score": 0.9807037115097046,
+      "box": [
+        126,
+        312,
+        411,
+        343
+      ]
+    },
+    {
+      "text": "- Implemented core frameworks",
+      "score": 0.9993909001350403,
+      "box": [
+        128,
+        338,
+        424,
+        368
+      ]
+    },
+    {
+      "text": "Software Developers, Corecrest Labs, 2017.082019.09",
+      "score": 0.9952591061592102,
+      "box": [
+        115,
+        380,
+        639,
+        408
+      ]
+    },
+    {
+      "text": "- Created test data sets",
+      "score": 0.9960427284240723,
+      "box": [
+        126,
+        408,
+        347,
+        432
+      ]
+    },
+    {
+      "text": "- Debugged runtime errors",
+      "score": 0.9859378337860107,
+      "box": [
+        126,
+        430,
+        375,
+        460
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999933123588562,
+      "box": [
+        116,
+        494,
+        267,
+        521
+      ]
+    },
+    {
+      "text": "Bachelor's, Elmwood Ridge University, 2009",
+      "score": 0.9886663556098938,
+      "box": [
+        115,
+        539,
+        527,
+        567
+      ]
+    },
+    {
+      "text": "Studied principles of linear algebra",
+      "score": 0.9812726974487305,
+      "box": [
+        129,
+        565,
+        470,
+        593
+      ]
+    },
+    {
+      "text": "Completed coursework in quality assurance",
+      "score": 0.9837154150009155,
+      "box": [
+        130,
+        590,
+        553,
+        618
+      ]
+    }
+  ],
+  "seconds": 2.1536910999566317,
+  "id": "46852",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

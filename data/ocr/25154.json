@@ -1,0 +1,212 @@
+{
+  "lines": [
+    {
+      "text": "SHAWN ELLIOTT",
+      "score": 0.9821334481239319,
+      "box": [
+        116,
+        90,
+        392,
+        122
+      ]
+    },
+    {
+      "text": "MA, USA | +1-496-822-1929 | shawn.elliott@example.com",
+      "score": 0.9851023554801941,
+      "box": [
+        115,
+        150,
+        658,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9990584850311279,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Caring Meadow School, 2020.02—2023.01",
+      "score": 0.9966617226600647,
+      "box": [
+        115,
+        287,
+        853,
+        319
+      ]
+    },
+    {
+      "text": "- Developed teacher training modules",
+      "score": 0.9793660044670105,
+      "box": [
+        126,
+        314,
+        477,
+        343
+      ]
+    },
+    {
+      "text": "- Implemented performance evaluation systems",
+      "score": 0.9986345767974854,
+      "box": [
+        127,
+        340,
+        569,
+        369
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Discovery Start School, 2017.032020.02",
+      "score": 0.9967910647392273,
+      "box": [
+        116,
+        381,
+        850,
+        410
+      ]
+    },
+    {
+      "text": "- Designed performance monitoring systems",
+      "score": 0.9854039549827576,
+      "box": [
+        126,
+        408,
+        538,
+        434
+      ]
+    },
+    {
+      "text": "- Designed literacy development programs",
+      "score": 0.9885314702987671,
+      "box": [
+        126,
+        432,
+        521,
+        460
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Growing Meadow Academy, 2014.04—2017.03",
+      "score": 0.9869569540023804,
+      "box": [
+        118,
+        473,
+        893,
+        500
+      ]
+    },
+    {
+      "text": "- Prepared remediation materials",
+      "score": 0.9936286807060242,
+      "box": [
+        125,
+        497,
+        435,
+        525
+      ]
+    },
+    {
+      "text": "- Tracked long-term student progress",
+      "score": 0.9900019764900208,
+      "box": [
+        127,
+        521,
+        473,
+        551
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Future Field Academy, 2011.04—2014.04",
+      "score": 0.9834153652191162,
+      "box": [
+        117,
+        565,
+        842,
+        592
+      ]
+    },
+    {
+      "text": "- Provided math drill exercises",
+      "score": 0.9954665899276733,
+      "box": [
+        126,
+        590,
+        410,
+        616
+      ]
+    },
+    {
+      "text": "- Collected student assignments",
+      "score": 0.9935597777366638,
+      "box": [
+        126,
+        614,
+        427,
+        642
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999310970306396,
+      "box": [
+        117,
+        681,
+        266,
+        705
+      ]
+    },
+    {
+      "text": "Master's, Human Development, Greenwood University, 2013",
+      "score": 0.9965117573738098,
+      "box": [
+        117,
+        726,
+        678,
+        749
+      ]
+    },
+    {
+      "text": "Bachelor's, Teaching Studies, Stonefield University, 2011",
+      "score": 0.9914652705192566,
+      "box": [
+        116,
+        749,
+        646,
+        776
+      ]
+    },
+    {
+      "text": "•Studied fundamentals of educational goal setting",
+      "score": 0.9941309094429016,
+      "box": [
+        130,
+        776,
+        597,
+        800
+      ]
+    },
+    {
+      "text": "• Studied principles of formative assessment",
+      "score": 0.9993268847465515,
+      "box": [
+        133,
+        801,
+        546,
+        825
+      ]
+    }
+  ],
+  "seconds": 3.351799499709159,
+  "id": "25154",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

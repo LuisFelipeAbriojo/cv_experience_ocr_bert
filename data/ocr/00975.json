@@ -1,0 +1,112 @@
+{
+  "lines": [
+    {
+      "text": "ALLYSON BOWEN",
+      "score": 0.9991953372955322,
+      "box": [
+        118,
+        91,
+        415,
+        122
+      ]
+    },
+    {
+      "text": "AK, USA | +1-933-274-9447 | allyson.bowen@example.com",
+      "score": 0.9799211025238037,
+      "box": [
+        118,
+        152,
+        671,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9997732043266296,
+      "box": [
+        117,
+        243,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Bright Start School, 2021.04—2022.05",
+      "score": 0.9881333112716675,
+      "box": [
+        115,
+        286,
+        813,
+        317
+      ]
+    },
+    {
+      "text": "- Recorded student feedback",
+      "score": 0.9992263317108154,
+      "box": [
+        126,
+        314,
+        399,
+        339
+      ]
+    },
+    {
+      "text": "- Prepared visual teaching aids",
+      "score": 0.98991459608078,
+      "box": [
+        126,
+        338,
+        416,
+        368
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999167323112488,
+      "box": [
+        116,
+        404,
+        268,
+        431
+      ]
+    },
+    {
+      "text": "Bachelor's, Academic Foundations, Harvest University, 2015",
+      "score": 0.9926257133483887,
+      "box": [
+        115,
+        446,
+        677,
+        474
+      ]
+    },
+    {
+      "text": "•Studied fundamentals of classroom engagement",
+      "score": 0.9752963781356812,
+      "box": [
+        129,
+        472,
+        598,
+        500
+      ]
+    },
+    {
+      "text": "•Studied principles of content delivery",
+      "score": 0.9758131504058838,
+      "box": [
+        131,
+        497,
+        489,
+        527
+      ]
+    }
+  ],
+  "seconds": 2.0249508996494114,
+  "id": "00975",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

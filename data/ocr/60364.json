@@ -1,0 +1,112 @@
+{
+  "lines": [
+    {
+      "text": "COTTER WILSON",
+      "score": 0.9762951731681824,
+      "box": [
+        117,
+        89,
+        398,
+        123
+      ]
+    },
+    {
+      "text": "WI, USA | +1-372-883-2570 | cotter.wilson@example.com",
+      "score": 0.9976786375045776,
+      "box": [
+        116,
+        149,
+        654,
+        177
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9997500777244568,
+      "box": [
+        117,
+        243,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Software Developers, Stonefield Tech, 2021.072023.01",
+      "score": 0.9944286346435547,
+      "box": [
+        117,
+        290,
+        640,
+        314
+      ]
+    },
+    {
+      "text": "- Performed basic APl integrations",
+      "score": 0.9863321781158447,
+      "box": [
+        125,
+        314,
+        447,
+        340
+      ]
+    },
+    {
+      "text": "- Wrote integration tests",
+      "score": 0.9861794114112854,
+      "box": [
+        126,
+        338,
+        352,
+        369
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999169111251831,
+      "box": [
+        116,
+        404,
+        268,
+        431
+      ]
+    },
+    {
+      "text": "Bachelor's, Elmwood Ridge University, 2023",
+      "score": 0.989730179309845,
+      "box": [
+        115,
+        446,
+        528,
+        474
+      ]
+    },
+    {
+      "text": "•Completed coursework in data structures and algorithms",
+      "score": 0.9840664267539978,
+      "box": [
+        131,
+        474,
+        669,
+        498
+      ]
+    },
+    {
+      "text": "•Studied fundamentals of game development",
+      "score": 0.9881221652030945,
+      "box": [
+        132,
+        497,
+        558,
+        524
+      ]
+    }
+  ],
+  "seconds": 1.841285899747163,
+  "id": "60364",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

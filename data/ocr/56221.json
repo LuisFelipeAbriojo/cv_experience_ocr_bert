@@ -1,0 +1,102 @@
+{
+  "lines": [
+    {
+      "text": "GUSTAVO BOWMAN",
+      "score": 0.9921426773071289,
+      "box": [
+        116,
+        87,
+        452,
+        123
+      ]
+    },
+    {
+      "text": "VA, USA | +1-353-840-6670 | gustavo.bowman@example.com",
+      "score": 0.9731481075286865,
+      "box": [
+        118,
+        152,
+        696,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.999704122543335,
+      "box": [
+        117,
+        243,
+        317,
+        270
+      ]
+    },
+    {
+      "text": "Construction Laborers, TrueStone Contractors, 2022.08—2023.01",
+      "score": 0.9861076474189758,
+      "box": [
+        116,
+        287,
+        718,
+        315
+      ]
+    },
+    {
+      "text": "- Set up workstations for crews",
+      "score": 0.9950128793716431,
+      "box": [
+        125,
+        314,
+        416,
+        340
+      ]
+    },
+    {
+      "text": "- Operated hand tools for assembly tasks",
+      "score": 0.9862105250358582,
+      "box": [
+        128,
+        340,
+        510,
+        367
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999291896820068,
+      "box": [
+        116,
+        404,
+        268,
+        431
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Construction Equipment Technology, Willow Ridge High School, 2023",
+      "score": 0.9892232418060303,
+      "box": [
+        115,
+        446,
+        1023,
+        476
+      ]
+    },
+    {
+      "text": "Studied fundamentals of scaffolding assembly",
+      "score": 0.999660849571228,
+      "box": [
+        128,
+        470,
+        573,
+        501
+      ]
+    }
+  ],
+  "seconds": 2.0057586999610066,
+  "id": "56221",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

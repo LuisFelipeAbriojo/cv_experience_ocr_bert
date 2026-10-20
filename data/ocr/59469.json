@@ -1,0 +1,162 @@
+{
+  "lines": [
+    {
+      "text": "ERIC LIN",
+      "score": 0.9995929002761841,
+      "box": [
+        117,
+        90,
+        263,
+        121
+      ]
+    },
+    {
+      "text": "WA, USA | +1-469-589-3503 | eric.lin@example.com",
+      "score": 0.9872964024543762,
+      "box": [
+        116,
+        151,
+        605,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9891178607940674,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Brightpoint Systems, 2020.09—2023.01",
+      "score": 0.9937800168991089,
+      "box": [
+        115,
+        288,
+        681,
+        316
+      ]
+    },
+    {
+      "text": "- Designed logging infrastructures",
+      "score": 0.9954823851585388,
+      "box": [
+        125,
+        314,
+        443,
+        342
+      ]
+    },
+    {
+      "text": "- Defined scalability roadmaps",
+      "score": 0.9921667575836182,
+      "box": [
+        127,
+        339,
+        410,
+        369
+      ]
+    },
+    {
+      "text": "Software Developers, Netfield Software, 2018.05—2020.09",
+      "score": 0.9943030476570129,
+      "box": [
+        116,
+        382,
+        655,
+        409
+      ]
+    },
+    {
+      "text": "- Wrote automated tests",
+      "score": 0.9987539052963257,
+      "box": [
+        125,
+        407,
+        353,
+        432
+      ]
+    },
+    {
+      "text": "- Implemented search features",
+      "score": 0.988101065158844,
+      "box": [
+        128,
+        431,
+        413,
+        457
+      ]
+    },
+    {
+      "text": "Software Developers, Datastream Solutions, 2015.122018.05",
+      "score": 0.9998687505722046,
+      "box": [
+        116,
+        472,
+        697,
+        499
+      ]
+    },
+    {
+      "text": "- Updated routing logic",
+      "score": 0.9807931780815125,
+      "box": [
+        128,
+        496,
+        342,
+        525
+      ]
+    },
+    {
+      "text": "- Updated application dependencies",
+      "score": 0.9890627861022949,
+      "box": [
+        129,
+        523,
+        462,
+        550
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999474287033081,
+      "box": [
+        118,
+        588,
+        266,
+        612
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Meadowridge High School, 2016",
+      "score": 0.99611496925354,
+      "box": [
+        118,
+        633,
+        679,
+        657
+      ]
+    },
+    {
+      "text": "• Completed coursework in data structures implementation",
+      "score": 0.9963916540145874,
+      "box": [
+        132,
+        659,
+        674,
+        683
+      ]
+    }
+  ],
+  "seconds": 2.363573099952191,
+  "id": "59469",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

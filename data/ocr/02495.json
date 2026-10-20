@@ -1,0 +1,112 @@
+{
+  "lines": [
+    {
+      "text": "BRYAN TANNER",
+      "score": 0.989022433757782,
+      "box": [
+        118,
+        90,
+        385,
+        121
+      ]
+    },
+    {
+      "text": "AR, USA | +1-267-872-7520 | bryan.tanner@example.com",
+      "score": 0.9799731969833374,
+      "box": [
+        116,
+        149,
+        658,
+        177
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.999298095703125,
+      "box": [
+        116,
+        243,
+        317,
+        270
+      ]
+    },
+    {
+      "text": "Construction Laborers, FirmWay Construction, 2020.08—2023.01",
+      "score": 0.992141842842102,
+      "box": [
+        116,
+        287,
+        713,
+        315
+      ]
+    },
+    {
+      "text": "- Followed blueprint instructions",
+      "score": 0.9939855933189392,
+      "box": [
+        126,
+        314,
+        424,
+        340
+      ]
+    },
+    {
+      "text": "- Assisted with concrete pouring",
+      "score": 0.9875138998031616,
+      "box": [
+        126,
+        337,
+        426,
+        368
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999219179153442,
+      "box": [
+        116,
+        404,
+        268,
+        431
+      ]
+    },
+    {
+      "text": "Associate's degree, Construction Technology, Clearview University, 2021",
+      "score": 0.9989876747131348,
+      "box": [
+        116,
+        447,
+        793,
+        474
+      ]
+    },
+    {
+      "text": "•Studied fundamentals of roofing methods",
+      "score": 0.9879735708236694,
+      "box": [
+        130,
+        474,
+        529,
+        498
+      ]
+    },
+    {
+      "text": "Studied principles of site drainage",
+      "score": 0.9912197589874268,
+      "box": [
+        131,
+        497,
+        462,
+        526
+      ]
+    }
+  ],
+  "seconds": 2.0733477999456227,
+  "id": "02495",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

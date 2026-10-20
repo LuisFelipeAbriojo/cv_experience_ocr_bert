@@ -1,0 +1,172 @@
+{
+  "lines": [
+    {
+      "text": "CEDRIC HUDSON",
+      "score": 0.999657392501831,
+      "box": [
+        118,
+        91,
+        401,
+        122
+      ]
+    },
+    {
+      "text": "RI, USA | +1-702-893-1129 | cedric.hudson@example.com",
+      "score": 0.989798903465271,
+      "box": [
+        118,
+        152,
+        662,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.998914897441864,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, TrueStone Builders, 2020.11—2023.01",
+      "score": 0.9815106391906738,
+      "box": [
+        117,
+        289,
+        685,
+        314
+      ]
+    },
+    {
+      "text": "- Implemented safety compliance strategies",
+      "score": 0.9952427744865417,
+      "box": [
+        126,
+        314,
+        531,
+        343
+      ]
+    },
+    {
+      "text": "- Directed construction audits",
+      "score": 0.9949944615364075,
+      "box": [
+        127,
+        339,
+        399,
+        366
+      ]
+    },
+    {
+      "text": "Construction Laborers, WorkLine Contractors, 2018.09—2020.11",
+      "score": 0.984426736831665,
+      "box": [
+        118,
+        383,
+        708,
+        407
+      ]
+    },
+    {
+      "text": "- Operated heavy equipment",
+      "score": 0.990330696105957,
+      "box": [
+        127,
+        409,
+        395,
+        433
+      ]
+    },
+    {
+      "text": "- Installed framing components",
+      "score": 0.984576940536499,
+      "box": [
+        126,
+        431,
+        416,
+        459
+      ]
+    },
+    {
+      "text": "Construction Laborers, WorkForce Builders, 2016.072018.09",
+      "score": 0.997309148311615,
+      "box": [
+        118,
+        473,
+        691,
+        497
+      ]
+    },
+    {
+      "text": "- Handled power tools under supervision",
+      "score": 0.9890083074569702,
+      "box": [
+        125,
+        497,
+        504,
+        525
+      ]
+    },
+    {
+      "text": "- Supported crew leaders during tasks",
+      "score": 0.9944209456443787,
+      "box": [
+        128,
+        520,
+        481,
+        551
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999502897262573,
+      "box": [
+        118,
+        588,
+        266,
+        612
+      ]
+    },
+    {
+      "text": "Bachelor's, Construction Logistics, Golden Meadow University, 2019",
+      "score": 0.9986830949783325,
+      "box": [
+        118,
+        633,
+        749,
+        657
+      ]
+    },
+    {
+      "text": "•Studied principles of construction documentation",
+      "score": 0.9870579838752747,
+      "box": [
+        130,
+        658,
+        597,
+        682
+      ]
+    },
+    {
+      "text": "• Completed coursework in basic plastering",
+      "score": 0.9724393486976624,
+      "box": [
+        132,
+        682,
+        534,
+        709
+      ]
+    }
+  ],
+  "seconds": 2.56662579998374,
+  "id": "47115",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

@@ -1,0 +1,172 @@
+{
+  "lines": [
+    {
+      "text": "DAVID BARRY",
+      "score": 0.9996242523193359,
+      "box": [
+        117,
+        91,
+        350,
+        121
+      ]
+    },
+    {
+      "text": "MO, USA | +1-763-900-6028 | david.barry@example.com",
+      "score": 0.9909679293632507,
+      "box": [
+        115,
+        149,
+        648,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9987226128578186,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Codepath Digital, 2020.012023.01",
+      "score": 0.9900100231170654,
+      "box": [
+        117,
+        290,
+        648,
+        314
+      ]
+    },
+    {
+      "text": "- Defined technical documentation standards",
+      "score": 0.9872910380363464,
+      "box": [
+        126,
+        315,
+        541,
+        340
+      ]
+    },
+    {
+      "text": "- Designed data storage strategies",
+      "score": 0.9886171817779541,
+      "box": [
+        128,
+        339,
+        450,
+        369
+      ]
+    },
+    {
+      "text": "Software Developers, Openridge Technologies, 2016.12—2020.01",
+      "score": 0.9855853319168091,
+      "box": [
+        114,
+        379,
+        724,
+        410
+      ]
+    },
+    {
+      "text": "- Developed RESTful APIs",
+      "score": 0.9923264384269714,
+      "box": [
+        127,
+        408,
+        377,
+        432
+      ]
+    },
+    {
+      "text": "- Designed integration tests",
+      "score": 0.9891448616981506,
+      "box": [
+        128,
+        433,
+        384,
+        459
+      ]
+    },
+    {
+      "text": "Software Developers, Flowpath Digital, 2013.112016.12",
+      "score": 0.9737118482589722,
+      "box": [
+        117,
+        472,
+        646,
+        499
+      ]
+    },
+    {
+      "text": "- Debugged runtime errors",
+      "score": 0.9815588593482971,
+      "box": [
+        127,
+        499,
+        376,
+        523
+      ]
+    },
+    {
+      "text": "- Assisted with database queries",
+      "score": 0.9835085272789001,
+      "box": [
+        128,
+        521,
+        429,
+        549
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999029636383057,
+      "box": [
+        117,
+        586,
+        267,
+        613
+      ]
+    },
+    {
+      "text": "Some college (no degree), Clearfield Ridge University, 2015",
+      "score": 0.9981073141098022,
+      "box": [
+        117,
+        632,
+        673,
+        659
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of user interface development",
+      "score": 0.9860683679580688,
+      "box": [
+        129,
+        657,
+        632,
+        683
+      ]
+    },
+    {
+      "text": "Completed coursework in system programming",
+      "score": 0.9934834837913513,
+      "box": [
+        132,
+        680,
+        585,
+        710
+      ]
+    }
+  ],
+  "seconds": 2.417927199974656,
+  "id": "31263",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

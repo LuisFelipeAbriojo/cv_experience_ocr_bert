@@ -1,0 +1,212 @@
+{
+  "lines": [
+    {
+      "text": "JESSICA HO",
+      "score": 0.9993383288383484,
+      "box": [
+        116,
+        91,
+        320,
+        122
+      ]
+    },
+    {
+      "text": "CA, USA | +1-473-739-3054 | jessica.ho@example.com",
+      "score": 0.989654004573822,
+      "box": [
+        118,
+        152,
+        632,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9991585612297058,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, OpenBooks Advisors, 2020.05—2023.01",
+      "score": 0.9959823489189148,
+      "box": [
+        115,
+        288,
+        694,
+        316
+      ]
+    },
+    {
+      "text": "- Led cross-functional financial integration",
+      "score": 0.9982448220252991,
+      "box": [
+        126,
+        315,
+        514,
+        341
+      ]
+    },
+    {
+      "text": "- Led financial data standardization",
+      "score": 0.9850320816040039,
+      "box": [
+        128,
+        339,
+        453,
+        365
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Balanced Path Financial, 2017.09—2020.05",
+      "score": 0.991321325302124,
+      "box": [
+        118,
+        383,
+        725,
+        407
+      ]
+    },
+    {
+      "text": "- Developed audit quality standards",
+      "score": 0.9906517863273621,
+      "box": [
+        125,
+        406,
+        457,
+        434
+      ]
+    },
+    {
+      "text": "- Led financial data standardization",
+      "score": 0.9856119155883789,
+      "box": [
+        127,
+        431,
+        453,
+        456
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Precise Balance Services, 2013.072016.04",
+      "score": 0.9985062479972839,
+      "box": [
+        117,
+        473,
+        736,
+        497
+      ]
+    },
+    {
+      "text": "- Reviewed balance sheet accounts",
+      "score": 0.9995899796485901,
+      "box": [
+        126,
+        498,
+        458,
+        523
+      ]
+    },
+    {
+      "text": "- Managed general ledger maintenance",
+      "score": 0.9988667964935303,
+      "box": [
+        127,
+        521,
+        494,
+        550
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Integrity Books Co., 2009.09—2012.06",
+      "score": 0.9929667115211487,
+      "box": [
+        117,
+        566,
+        676,
+        590
+      ]
+    },
+    {
+      "text": "- Prepared journal entries",
+      "score": 0.9871812462806702,
+      "box": [
+        127,
+        592,
+        365,
+        616
+      ]
+    },
+    {
+      "text": "- Maintained chart of accounts",
+      "score": 0.9935787320137024,
+      "box": [
+        126,
+        613,
+        410,
+        643
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999316334724426,
+      "box": [
+        117,
+        681,
+        266,
+        705
+      ]
+    },
+    {
+      "text": "Master's, Public Accounting, Willowview University, 2008",
+      "score": 0.9807396531105042,
+      "box": [
+        115,
+        723,
+        642,
+        750
+      ]
+    },
+    {
+      "text": "Bachelor's, Finance, Sunrise University, 2006",
+      "score": 0.9909719824790955,
+      "box": [
+        117,
+        750,
+        539,
+        774
+      ]
+    },
+    {
+      "text": "• Completed coursework in expense cycle management",
+      "score": 0.9863975644111633,
+      "box": [
+        131,
+        776,
+        649,
+        800
+      ]
+    },
+    {
+      "text": "•Studied principles of financial ratio analysis",
+      "score": 0.9782852530479431,
+      "box": [
+        131,
+        798,
+        546,
+        826
+      ]
+    }
+  ],
+  "seconds": 3.1926370998844504,
+  "id": "06396",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

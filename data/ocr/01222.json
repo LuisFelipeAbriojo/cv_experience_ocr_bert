@@ -1,0 +1,172 @@
+{
+  "lines": [
+    {
+      "text": "MELLISSA GRIFFITH",
+      "score": 0.9995627403259277,
+      "box": [
+        118,
+        92,
+        450,
+        122
+      ]
+    },
+    {
+      "text": "AZ, USA | +1-212-624-8377 | mellissa.griffith@example.com",
+      "score": 0.9906153678894043,
+      "box": [
+        116,
+        150,
+        676,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9991835951805115,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, OpenWay Nursing Services, 2019.112023.01",
+      "score": 0.9912826418876648,
+      "box": [
+        115,
+        287,
+        732,
+        319
+      ]
+    },
+    {
+      "text": "- Managed clinical compliance programs",
+      "score": 0.990011990070343,
+      "box": [
+        126,
+        313,
+        504,
+        345
+      ]
+    },
+    {
+      "text": "- Implemented evidence-based practice models",
+      "score": 0.993507444858551,
+      "box": [
+        127,
+        339,
+        569,
+        367
+      ]
+    },
+    {
+      "text": "Registered Nurses, TrueHands Care Center, 2015.122019.02",
+      "score": 0.9959717988967896,
+      "box": [
+        118,
+        383,
+        699,
+        407
+      ]
+    },
+    {
+      "text": "- Provided rehabilitation nursing care",
+      "score": 0.9962729215621948,
+      "box": [
+        126,
+        407,
+        470,
+        434
+      ]
+    },
+    {
+      "text": "- Coordinated patient discharge planning",
+      "score": 0.9916914701461792,
+      "box": [
+        128,
+        432,
+        504,
+        459
+      ]
+    },
+    {
+      "text": "Registered Nurses, ClearBridge Nursing Services, 2011.072014.10",
+      "score": 0.9868243932723999,
+      "box": [
+        116,
+        471,
+        750,
+        499
+      ]
+    },
+    {
+      "text": "- Monitored patient skin condition",
+      "score": 0.9819313287734985,
+      "box": [
+        125,
+        497,
+        438,
+        525
+      ]
+    },
+    {
+      "text": "- Collected patient health histories",
+      "score": 0.9988585710525513,
+      "box": [
+        127,
+        521,
+        444,
+        550
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999242424964905,
+      "box": [
+        117,
+        587,
+        267,
+        614
+      ]
+    },
+    {
+      "text": "Associate's degree, Life Sciences, Willowview University, 2009",
+      "score": 0.9855400919914246,
+      "box": [
+        117,
+        632,
+        698,
+        659
+      ]
+    },
+    {
+      "text": "• Studied principles of patient identification",
+      "score": 0.9760687351226807,
+      "box": [
+        131,
+        660,
+        527,
+        684
+      ]
+    },
+    {
+      "text": "Completed coursework in perioperative care",
+      "score": 0.996727705001831,
+      "box": [
+        131,
+        681,
+        557,
+        710
+      ]
+    }
+  ],
+  "seconds": 2.714551900047809,
+  "id": "01222",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

@@ -1,0 +1,192 @@
+{
+  "lines": [
+    {
+      "text": "TARYN ANDRADE",
+      "score": 0.999812126159668,
+      "box": [
+        117,
+        91,
+        410,
+        121
+      ]
+    },
+    {
+      "text": "WA, USA | +1-226-584-9169 | taryn.andrade@example.com",
+      "score": 0.9894565343856812,
+      "box": [
+        116,
+        151,
+        673,
+        177
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9990050792694092,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Integrity Books Group, 2019.072023.01",
+      "score": 0.9867762327194214,
+      "box": [
+        114,
+        287,
+        702,
+        318
+      ]
+    },
+    {
+      "text": "- Established financial reporting standards",
+      "score": 0.9758342504501343,
+      "box": [
+        127,
+        315,
+        518,
+        341
+      ]
+    },
+    {
+      "text": "- Designed financial policy frameworks",
+      "score": 0.9589434266090393,
+      "box": [
+        127,
+        339,
+        485,
+        368
+      ]
+    },
+    {
+      "text": "Accountants Auditors, TrueLedger Advisors, 2016.012019.07",
+      "score": 0.9955242276191711,
+      "box": [
+        118,
+        383,
+        693,
+        407
+      ]
+    },
+    {
+      "text": "- Directed accounting system implementations",
+      "score": 0.9965368509292603,
+      "box": [
+        124,
+        406,
+        557,
+        435
+      ]
+    },
+    {
+      "text": "- Directed budget planning cycles",
+      "score": 0.9997697472572327,
+      "box": [
+        126,
+        432,
+        438,
+        458
+      ]
+    },
+    {
+      "text": "Accountants Auditors, SolidCount Advisors, 2011.112015.06",
+      "score": 0.9933332204818726,
+      "box": [
+        118,
+        473,
+        688,
+        497
+      ]
+    },
+    {
+      "text": "- Prepared cash flow statements",
+      "score": 0.9969823360443115,
+      "box": [
+        125,
+        497,
+        430,
+        525
+      ]
+    },
+    {
+      "text": "- Conducted variance investigations",
+      "score": 0.9871845841407776,
+      "box": [
+        126,
+        521,
+        461,
+        550
+      ]
+    },
+    {
+      "text": "Accountants Auditors, FairBooks Financial, 2007.102011.05",
+      "score": 0.99868243932724,
+      "box": [
+        117,
+        566,
+        684,
+        590
+      ]
+    },
+    {
+      "text": "- Updated fixed asset registers",
+      "score": 0.9913827180862427,
+      "box": [
+        129,
+        592,
+        414,
+        616
+      ]
+    },
+    {
+      "text": "- Verified financial transactions",
+      "score": 0.9849528670310974,
+      "box": [
+        127,
+        613,
+        415,
+        643
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9998919367790222,
+      "box": [
+        117,
+        681,
+        266,
+        705
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Administrative Studies, Pinefield High School, 2005",
+      "score": 0.9885639548301697,
+      "box": [
+        117,
+        724,
+        851,
+        750
+      ]
+    },
+    {
+      "text": "• Completed coursework in business law basics",
+      "score": 0.9712948203086853,
+      "box": [
+        133,
+        750,
+        574,
+        774
+      ]
+    }
+  ],
+  "seconds": 3.0253033000044525,
+  "id": "58425",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

@@ -1,0 +1,112 @@
+{
+  "lines": [
+    {
+      "text": "JAYDEN DEAN",
+      "score": 0.9511001706123352,
+      "box": [
+        115,
+        89,
+        359,
+        123
+      ]
+    },
+    {
+      "text": "GA, USA | +1-285-612-5371 | jayden.dean@example.com",
+      "score": 0.9889635443687439,
+      "box": [
+        117,
+        150,
+        656,
+        177
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9994051456451416,
+      "box": [
+        116,
+        243,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Registered Nurses, OpenCare Nursing Services, 2021.032023.01",
+      "score": 0.9953676462173462,
+      "box": [
+        117,
+        289,
+        735,
+        316
+      ]
+    },
+    {
+      "text": "- Collected patient health histories",
+      "score": 0.9865415096282959,
+      "box": [
+        125,
+        312,
+        445,
+        341
+      ]
+    },
+    {
+      "text": "- Prepared sterile supplies",
+      "score": 0.9864960312843323,
+      "box": [
+        126,
+        338,
+        373,
+        367
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999251961708069,
+      "box": [
+        116,
+        404,
+        268,
+        431
+      ]
+    },
+    {
+      "text": "Bachelor's, Practical Nursing, Crestview University, 2023",
+      "score": 0.9961433410644531,
+      "box": [
+        115,
+        446,
+        642,
+        475
+      ]
+    },
+    {
+      "text": "• Completed coursework in enteral feeding basics",
+      "score": 0.9903163313865662,
+      "box": [
+        131,
+        475,
+        592,
+        499
+      ]
+    },
+    {
+      "text": "Studied principles of patient safety",
+      "score": 0.9998326897621155,
+      "box": [
+        132,
+        497,
+        466,
+        527
+      ]
+    }
+  ],
+  "seconds": 1.823482200037688,
+  "id": "15467",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

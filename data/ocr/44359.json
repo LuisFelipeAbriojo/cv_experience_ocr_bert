@@ -1,0 +1,152 @@
+{
+  "lines": [
+    {
+      "text": "BRADIE WALTER",
+      "score": 0.9993167519569397,
+      "box": [
+        118,
+        91,
+        398,
+        122
+      ]
+    },
+    {
+      "text": "OR, USA | +1-283-594-7068 | bradie.walter@example.com",
+      "score": 0.9898797273635864,
+      "box": [
+        118,
+        152,
+        662,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9990995526313782,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Balanced Books Group, 2021.07-2023.01",
+      "score": 0.9913811683654785,
+      "box": [
+        115,
+        288,
+        714,
+        316
+      ]
+    },
+    {
+      "text": "- Directed financial system architecture",
+      "score": 0.984221339225769,
+      "box": [
+        126,
+        315,
+        489,
+        341
+      ]
+    },
+    {
+      "text": "- Directed accounting system implementations",
+      "score": 0.9882012009620667,
+      "box": [
+        127,
+        339,
+        557,
+        368
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Reliable Ledger Group, 2018.032019.09",
+      "score": 0.9988046884536743,
+      "box": [
+        118,
+        383,
+        709,
+        407
+      ]
+    },
+    {
+      "text": "- Assisted with regulatory filings",
+      "score": 0.976263165473938,
+      "box": [
+        125,
+        407,
+        422,
+        434
+      ]
+    },
+    {
+      "text": "- Assisted with internal control testing",
+      "score": 0.9865821599960327,
+      "box": [
+        128,
+        431,
+        472,
+        459
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.99977046251297,
+      "box": [
+        116,
+        494,
+        267,
+        521
+      ]
+    },
+    {
+      "text": "Master's, Strategic Management, Clear Ridge University, 2016",
+      "score": 0.9993172287940979,
+      "box": [
+        116,
+        541,
+        696,
+        568
+      ]
+    },
+    {
+      "text": "Bachelor's, Applied Accounting, Cedarview University, 2014",
+      "score": 0.9919494390487671,
+      "box": [
+        117,
+        567,
+        671,
+        591
+      ]
+    },
+    {
+      "text": "•Completed coursework in supply chain accounting",
+      "score": 0.9695211052894592,
+      "box": [
+        129,
+        590,
+        613,
+        619
+      ]
+    },
+    {
+      "text": "Completed coursework in compliance testing",
+      "score": 0.9962701201438904,
+      "box": [
+        131,
+        614,
+        563,
+        645
+      ]
+    }
+  ],
+  "seconds": 2.5424107001163065,
+  "id": "44359",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

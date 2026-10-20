@@ -1,0 +1,182 @@
+{
+  "lines": [
+    {
+      "text": "CHELSEA WEBB",
+      "score": 0.9993109703063965,
+      "box": [
+        118,
+        91,
+        388,
+        122
+      ]
+    },
+    {
+      "text": "PA, USA | +1-550-837-6127 | chelsea.webb@example.com",
+      "score": 0.9773316979408264,
+      "box": [
+        115,
+        150,
+        667,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9991820454597473,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Bright Hills Academy, 2020.12—2023.01",
+      "score": 0.9852184653282166,
+      "box": [
+        117,
+        290,
+        829,
+        317
+      ]
+    },
+    {
+      "text": "- Designed systemic intervention models",
+      "score": 0.9843421578407288,
+      "box": [
+        127,
+        317,
+        504,
+        341
+      ]
+    },
+    {
+      "text": "- Led instructional leadership initiatives",
+      "score": 0.9790179133415222,
+      "box": [
+        126,
+        338,
+        488,
+        369
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Future Horizons Academy, 2018.10—2020.12",
+      "score": 0.9901825785636902,
+      "box": [
+        115,
+        379,
+        880,
+        411
+      ]
+    },
+    {
+      "text": "- Prepared test review sessions",
+      "score": 0.9934243559837341,
+      "box": [
+        127,
+        409,
+        421,
+        433
+      ]
+    },
+    {
+      "text": "- Prepared remediation materials",
+      "score": 0.9972922801971436,
+      "box": [
+        128,
+        434,
+        433,
+        457
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Caring Field School, 2016.08—2018.10",
+      "score": 0.9850489497184753,
+      "box": [
+        118,
+        472,
+        820,
+        499
+      ]
+    },
+    {
+      "text": "- Reviewed curriculum content",
+      "score": 0.9973316788673401,
+      "box": [
+        125,
+        496,
+        413,
+        526
+      ]
+    },
+    {
+      "text": "- Organized classroom learning resources",
+      "score": 0.9851415753364563,
+      "box": [
+        128,
+        521,
+        518,
+        552
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999164938926697,
+      "box": [
+        117,
+        587,
+        267,
+        614
+      ]
+    },
+    {
+      "text": "Master's, Child and Youth Studies, Highland University, 2015",
+      "score": 0.9926822185516357,
+      "box": [
+        117,
+        633,
+        680,
+        657
+      ]
+    },
+    {
+      "text": "Bachelor's, General Learning Studies, Sagewood University, 2013",
+      "score": 0.9893700480461121,
+      "box": [
+        114,
+        655,
+        730,
+        686
+      ]
+    },
+    {
+      "text": "• Completed introductory coursework in educational psychology",
+      "score": 0.9904493093490601,
+      "box": [
+        131,
+        682,
+        721,
+        711
+      ]
+    },
+    {
+      "text": "• Studied principles of lesson planning",
+      "score": 0.9911994934082031,
+      "box": [
+        132,
+        706,
+        487,
+        736
+      ]
+    }
+  ],
+  "seconds": 2.993298300076276,
+  "id": "45468",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

@@ -1,0 +1,172 @@
+{
+  "lines": [
+    {
+      "text": "LUIS MCCANN",
+      "score": 0.9635928869247437,
+      "box": [
+        117,
+        91,
+        353,
+        121
+      ]
+    },
+    {
+      "text": "MN, USA | +1-851-258-8338 | luis.mccann@example.com",
+      "score": 0.972559928894043,
+      "box": [
+        116,
+        151,
+        654,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9991335868835449,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, WorkFrame Builders, 2021.01—2023.01",
+      "score": 0.9889609813690186,
+      "box": [
+        118,
+        290,
+        696,
+        314
+      ]
+    },
+    {
+      "text": "- Reviewed material quality standards",
+      "score": 0.9947293996810913,
+      "box": [
+        126,
+        314,
+        476,
+        340
+      ]
+    },
+    {
+      "text": "- Supervised multiple work crews",
+      "score": 0.9818623065948486,
+      "box": [
+        128,
+        340,
+        435,
+        366
+      ]
+    },
+    {
+      "text": "Construction Laborers, SteadyFrame Builders, 2018.122021.01",
+      "score": 0.9920324683189392,
+      "box": [
+        118,
+        383,
+        712,
+        407
+      ]
+    },
+    {
+      "text": "- Prepared structural joints",
+      "score": 0.9833664894104004,
+      "box": [
+        126,
+        409,
+        374,
+        432
+      ]
+    },
+    {
+      "text": "- Supervised demolition tasks",
+      "score": 0.9905104041099548,
+      "box": [
+        129,
+        434,
+        402,
+        456
+      ]
+    },
+    {
+      "text": "Construction Laborers, Unified Builders, 2015.112017.12",
+      "score": 0.9929413795471191,
+      "box": [
+        119,
+        473,
+        656,
+        497
+      ]
+    },
+    {
+      "text": "- Followed safety procedures on site",
+      "score": 0.9853441715240479,
+      "box": [
+        126,
+        496,
+        465,
+        525
+      ]
+    },
+    {
+      "text": "- Prepared scaffolding platforms",
+      "score": 0.9919286966323853,
+      "box": [
+        128,
+        521,
+        426,
+        551
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999505281448364,
+      "box": [
+        118,
+        588,
+        266,
+        612
+      ]
+    },
+    {
+      "text": "Some college (no degree), Heavy Equipment Operation, Silverlake University, 2011",
+      "score": 0.9961335062980652,
+      "box": [
+        117,
+        632,
+        888,
+        659
+      ]
+    },
+    {
+      "text": "•Studied fundamentals of site preparation planning",
+      "score": 0.9817183017730713,
+      "box": [
+        128,
+        656,
+        609,
+        686
+      ]
+    },
+    {
+      "text": "•Studied principles of load handling",
+      "score": 0.9893612265586853,
+      "box": [
+        130,
+        681,
+        466,
+        710
+      ]
+    }
+  ],
+  "seconds": 2.6421742998063564,
+  "id": "29329",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

@@ -1,0 +1,102 @@
+{
+  "lines": [
+    {
+      "text": "AUDREY YU",
+      "score": 0.983561635017395,
+      "box": [
+        116,
+        89,
+        317,
+        123
+      ]
+    },
+    {
+      "text": "MA, USA | +1-254-840-3762 | audrey.yu@example.com",
+      "score": 0.9928921461105347,
+      "box": [
+        115,
+        149,
+        635,
+        177
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9994166493415833,
+      "box": [
+        116,
+        243,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Software Developers, Datacrest Software, 2021.06—2023.01",
+      "score": 0.980873167514801,
+      "box": [
+        115,
+        287,
+        673,
+        315
+      ]
+    },
+    {
+      "text": "- Monitored application logs",
+      "score": 0.9529513716697693,
+      "box": [
+        124,
+        311,
+        386,
+        343
+      ]
+    },
+    {
+      "text": "- Created test data sets",
+      "score": 0.9932487607002258,
+      "box": [
+        127,
+        339,
+        347,
+        365
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999291300773621,
+      "box": [
+        116,
+        404,
+        268,
+        431
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Westbrook High School, 2019",
+      "score": 0.9997587203979492,
+      "box": [
+        117,
+        448,
+        654,
+        475
+      ]
+    },
+    {
+      "text": "Completed coursework in layered architecture",
+      "score": 0.997294008731842,
+      "box": [
+        131,
+        472,
+        574,
+        500
+      ]
+    }
+  ],
+  "seconds": 1.8093217997811735,
+  "id": "26279",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

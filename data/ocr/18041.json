@@ -1,0 +1,182 @@
+{
+  "lines": [
+    {
+      "text": "CURTIS MANNING",
+      "score": 0.9996989369392395,
+      "box": [
+        118,
+        92,
+        410,
+        122
+      ]
+    },
+    {
+      "text": "IL, USA | +1-675-217-7492 | curtis.manning@example.com",
+      "score": 0.9965129494667053,
+      "box": [
+        116,
+        150,
+        665,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.998914897441864,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, TrustLedger Advisors, 2020.11—2023.01",
+      "score": 0.9901812076568604,
+      "box": [
+        115,
+        288,
+        697,
+        316
+      ]
+    },
+    {
+      "text": "- Established accounting policies",
+      "score": 0.9985100626945496,
+      "box": [
+        125,
+        314,
+        433,
+        342
+      ]
+    },
+    {
+      "text": "- Led financial forecasting initiatives",
+      "score": 0.9890135526657104,
+      "box": [
+        127,
+        339,
+        459,
+        368
+      ]
+    },
+    {
+      "text": "Accountants Auditors, FairBooks Advisors, 2018.092020.11",
+      "score": 0.998672366142273,
+      "box": [
+        118,
+        383,
+        678,
+        407
+      ]
+    },
+    {
+      "text": "- Reviewed financial systems data",
+      "score": 0.9971452355384827,
+      "box": [
+        125,
+        407,
+        445,
+        433
+      ]
+    },
+    {
+      "text": "- Supervised junior accountants",
+      "score": 0.9924865961074829,
+      "box": [
+        127,
+        431,
+        422,
+        459
+      ]
+    },
+    {
+      "text": "Accountants Auditors, BlueLine Accounting, 2016.07—2018.09",
+      "score": 0.9869379997253418,
+      "box": [
+        116,
+        471,
+        691,
+        499
+      ]
+    },
+    {
+      "text": "- Assisted with inventory counts",
+      "score": 0.9994837641716003,
+      "box": [
+        125,
+        497,
+        423,
+        525
+      ]
+    },
+    {
+      "text": "- Matched invoices to purchase orders",
+      "score": 0.9814027547836304,
+      "box": [
+        128,
+        522,
+        482,
+        549
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999076128005981,
+      "box": [
+        117,
+        587,
+        267,
+        614
+      ]
+    },
+    {
+      "text": "Master's, Accounting Information Systems, Blue Ridge University, 2016",
+      "score": 0.9848490357398987,
+      "box": [
+        117,
+        632,
+        777,
+        659
+      ]
+    },
+    {
+      "text": "Bachelor's, Applied Accounting, Brookway University, 2014",
+      "score": 0.9992406964302063,
+      "box": [
+        116,
+        658,
+        665,
+        685
+      ]
+    },
+    {
+      "text": "•Studied principles of nonprofit accounting",
+      "score": 0.9695687294006348,
+      "box": [
+        130,
+        682,
+        530,
+        710
+      ]
+    },
+    {
+      "text": "•Completed coursework in business mathematics",
+      "score": 0.9732722043991089,
+      "box": [
+        131,
+        706,
+        597,
+        734
+      ]
+    }
+  ],
+  "seconds": 2.524732300080359,
+  "id": "18041",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

@@ -1,0 +1,142 @@
+{
+  "lines": [
+    {
+      "text": "CELINE STOUT",
+      "score": 0.9997068047523499,
+      "box": [
+        118,
+        91,
+        362,
+        122
+      ]
+    },
+    {
+      "text": "AZ, USA | +1-516-803-1494 | celine.stout@example.com",
+      "score": 0.9970858693122864,
+      "box": [
+        116,
+        150,
+        644,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9991562962532043,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, SunLife Care Group, 2020.05—2023.01",
+      "score": 0.9845966100692749,
+      "box": [
+        115,
+        287,
+        661,
+        318
+      ]
+    },
+    {
+      "text": "- Developed interdisciplinary care strategies",
+      "score": 0.9916277527809143,
+      "box": [
+        125,
+        313,
+        535,
+        343
+      ]
+    },
+    {
+      "text": "- Managed patient outcome evaluation systems",
+      "score": 0.9833698868751526,
+      "box": [
+        126,
+        339,
+        566,
+        369
+      ]
+    },
+    {
+      "text": "Registered Nurses, KindWay Care Center, 2017.082020.05",
+      "score": 0.9889403581619263,
+      "box": [
+        118,
+        383,
+        679,
+        407
+      ]
+    },
+    {
+      "text": "- Prepared sterile supplies",
+      "score": 0.9985923171043396,
+      "box": [
+        125,
+        407,
+        372,
+        433
+      ]
+    },
+    {
+      "text": "- Collected laboratory specimens",
+      "score": 0.9622133374214172,
+      "box": [
+        127,
+        431,
+        433,
+        459
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999397993087769,
+      "box": [
+        117,
+        494,
+        268,
+        521
+      ]
+    },
+    {
+      "text": "Bachelor's, Health Services Administration, Summit University, 2020",
+      "score": 0.991189181804657,
+      "box": [
+        116,
+        540,
+        747,
+        566
+      ]
+    },
+    {
+      "text": "Completed coursework in patient discharge planning",
+      "score": 0.9927114248275757,
+      "box": [
+        131,
+        564,
+        633,
+        594
+      ]
+    },
+    {
+      "text": "• Completed coursework in palliative care basics",
+      "score": 0.9830803871154785,
+      "box": [
+        132,
+        591,
+        582,
+        617
+      ]
+    }
+  ],
+  "seconds": 2.74252020008862,
+  "id": "01014",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

@@ -1,0 +1,202 @@
+{
+  "lines": [
+    {
+      "text": "DANNA TERRELL",
+      "score": 0.9997003078460693,
+      "box": [
+        116,
+        89,
+        402,
+        122
+      ]
+    },
+    {
+      "text": "PA, USA | +1-768-686-8103 | danna.terrell@example.com",
+      "score": 0.9895924925804138,
+      "box": [
+        115,
+        150,
+        656,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9991355538368225,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Growing Minds Academy, 2020.01—2023.01",
+      "score": 0.9873492121696472,
+      "box": [
+        116,
+        288,
+        868,
+        318
+      ]
+    },
+    {
+      "text": "- Designed performance monitoring systems",
+      "score": 0.9889177680015564,
+      "box": [
+        125,
+        315,
+        540,
+        343
+      ]
+    },
+    {
+      "text": "- Designed instructional quality standards",
+      "score": 0.9776573181152344,
+      "box": [
+        128,
+        341,
+        511,
+        368
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, SunnySteps School, 2017.012020.01",
+      "score": 0.9991980195045471,
+      "box": [
+        117,
+        382,
+        819,
+        409
+      ]
+    },
+    {
+      "text": "- Established learning outcome benchmarks",
+      "score": 0.9958733320236206,
+      "box": [
+        127,
+        409,
+        535,
+        433
+      ]
+    },
+    {
+      "text": "- Led curriculum integration projects",
+      "score": 0.9992147088050842,
+      "box": [
+        126,
+        432,
+        460,
+        458
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Future Minds Academy, 2014.012017.01",
+      "score": 0.9970301389694214,
+      "box": [
+        118,
+        472,
+        850,
+        499
+      ]
+    },
+    {
+      "text": "- Reviewed instructional content",
+      "score": 0.985497236251831,
+      "box": [
+        126,
+        498,
+        428,
+        523
+      ]
+    },
+    {
+      "text": "- Designed reading intervention plans",
+      "score": 0.9914648532867432,
+      "box": [
+        127,
+        521,
+        475,
+        550
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Kind Path School, 2008.05—2011.05",
+      "score": 0.9922829866409302,
+      "box": [
+        116,
+        563,
+        800,
+        591
+      ]
+    },
+    {
+      "text": "- Set up classroom technology tools",
+      "score": 0.9849634170532227,
+      "box": [
+        127,
+        592,
+        460,
+        616
+      ]
+    },
+    {
+      "text": "- Maintained lesson documentation",
+      "score": 0.9810036420822144,
+      "box": [
+        125,
+        613,
+        455,
+        644
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999110698699951,
+      "box": [
+        117,
+        681,
+        266,
+        705
+      ]
+    },
+    {
+      "text": "Bachelor's, Applied Child Studies, Oakway University, 2004",
+      "score": 0.9984272718429565,
+      "box": [
+        116,
+        725,
+        666,
+        751
+      ]
+    },
+    {
+      "text": "•Studied fundamentals of instructional objectives",
+      "score": 0.9855126142501831,
+      "box": [
+        130,
+        749,
+        589,
+        775
+      ]
+    },
+    {
+      "text": "•Studied foundational learning strategies",
+      "score": 0.9883394837379456,
+      "box": [
+        132,
+        773,
+        515,
+        800
+      ]
+    }
+  ],
+  "seconds": 2.8374034999869764,
+  "id": "46193",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

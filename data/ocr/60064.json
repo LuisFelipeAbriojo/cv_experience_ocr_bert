@@ -1,0 +1,112 @@
+{
+  "lines": [
+    {
+      "text": "NICHOLAS RANDALL",
+      "score": 0.9995927810668945,
+      "box": [
+        117,
+        91,
+        461,
+        122
+      ]
+    },
+    {
+      "text": "WV, USA | +1-700-299-2463 | nicholas.randall@example.com",
+      "score": 0.9925903081893921,
+      "box": [
+        117,
+        150,
+        691,
+        177
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9997448325157166,
+      "box": [
+        117,
+        243,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Construction Laborers, PrimeRise Builders, 2019.06—2021.02",
+      "score": 0.9699352383613586,
+      "box": [
+        118,
+        290,
+        686,
+        314
+      ]
+    },
+    {
+      "text": "- Dug trenches for utility lines",
+      "score": 0.9998250007629395,
+      "box": [
+        126,
+        315,
+        399,
+        339
+      ]
+    },
+    {
+      "text": "- Marked measurements on materials",
+      "score": 0.9956888556480408,
+      "box": [
+        127,
+        339,
+        474,
+        364
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999521970748901,
+      "box": [
+        116,
+        404,
+        268,
+        431
+      ]
+    },
+    {
+      "text": "Some college (no degree), Construction Quality Control, Cedar Valley University, 2018",
+      "score": 0.9984560012817383,
+      "box": [
+        115,
+        445,
+        918,
+        476
+      ]
+    },
+    {
+      "text": "Completed coursework in construction site cleanup",
+      "score": 0.9865891337394714,
+      "box": [
+        130,
+        472,
+        620,
+        501
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of structural alignment",
+      "score": 0.9898908138275146,
+      "box": [
+        132,
+        497,
+        562,
+        524
+      ]
+    }
+  ],
+  "seconds": 2.2044094996526837,
+  "id": "60064",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

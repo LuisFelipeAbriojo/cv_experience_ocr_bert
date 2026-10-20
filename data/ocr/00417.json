@@ -1,0 +1,172 @@
+{
+  "lines": [
+    {
+      "text": "AMBER COCHRAN",
+      "score": 0.9997991919517517,
+      "box": [
+        118,
+        91,
+        421,
+        121
+      ]
+    },
+    {
+      "text": "AL, USA | +1-632-593-5418 | amber.cochran@example.com",
+      "score": 0.9820816516876221,
+      "box": [
+        118,
+        152,
+        676,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9991222023963928,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, BrightNest Health Services, 2019.112023.01",
+      "score": 0.9863782525062561,
+      "box": [
+        116,
+        288,
+        726,
+        318
+      ]
+    },
+    {
+      "text": "- Supervised multidisciplinary care teams",
+      "score": 0.9888967871665955,
+      "box": [
+        125,
+        314,
+        510,
+        343
+      ]
+    },
+    {
+      "text": "- Developed patient safety programs",
+      "score": 0.9882017970085144,
+      "box": [
+        127,
+        339,
+        466,
+        369
+      ]
+    },
+    {
+      "text": "Registered Nurses, EverBridge Health Services, 2016.012019.04",
+      "score": 0.9997559785842896,
+      "box": [
+        117,
+        382,
+        732,
+        409
+      ]
+    },
+    {
+      "text": "- Managed patient mobility programs",
+      "score": 0.995648205280304,
+      "box": [
+        124,
+        406,
+        468,
+        435
+      ]
+    },
+    {
+      "text": "- Educated patients on treatment plans",
+      "score": 0.9790946841239929,
+      "box": [
+        126,
+        431,
+        488,
+        459
+      ]
+    },
+    {
+      "text": "Registered Nurses, Caring Hands Care, 2012.02—2015.05",
+      "score": 0.9832066297531128,
+      "box": [
+        116,
+        471,
+        655,
+        499
+      ]
+    },
+    {
+      "text": "- Updated patient medical records",
+      "score": 0.9833933711051941,
+      "box": [
+        127,
+        497,
+        444,
+        525
+      ]
+    },
+    {
+      "text": "- Documented patient observations",
+      "score": 0.9988574385643005,
+      "box": [
+        127,
+        521,
+        454,
+        550
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9998791217803955,
+      "box": [
+        117,
+        587,
+        267,
+        614
+      ]
+    },
+    {
+      "text": "Associate's degree, Health Care Technology, Riverstone University, 2002",
+      "score": 0.9871559739112854,
+      "box": [
+        117,
+        632,
+        797,
+        659
+      ]
+    },
+    {
+      "text": "•Studied principles of pharmacology",
+      "score": 0.9915070533752441,
+      "box": [
+        128,
+        658,
+        474,
+        686
+      ]
+    },
+    {
+      "text": "• Studied principles of health informatics",
+      "score": 0.9816746711730957,
+      "box": [
+        132,
+        683,
+        504,
+        707
+      ]
+    }
+  ],
+  "seconds": 2.7501668999902904,
+  "id": "00417",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

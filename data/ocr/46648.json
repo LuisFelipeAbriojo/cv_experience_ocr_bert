@@ -1,0 +1,142 @@
+{
+  "lines": [
+    {
+      "text": "ADRIENA BROWN",
+      "score": 0.9998355507850647,
+      "box": [
+        117,
+        89,
+        410,
+        122
+      ]
+    },
+    {
+      "text": "PA, USA | +1-605-761-4985 | adriena.brown@example.com",
+      "score": 0.9747800827026367,
+      "box": [
+        115,
+        149,
+        672,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9991254806518555,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, GentleLife Health, 2021.012023.01",
+      "score": 0.9998422861099243,
+      "box": [
+        116,
+        288,
+        636,
+        316
+      ]
+    },
+    {
+      "text": "- Supervised multidisciplinary care teams",
+      "score": 0.9992437362670898,
+      "box": [
+        125,
+        313,
+        510,
+        344
+      ]
+    },
+    {
+      "text": "- Implemented clinical decision support systems",
+      "score": 0.9955297708511353,
+      "box": [
+        126,
+        337,
+        573,
+        370
+      ]
+    },
+    {
+      "text": "Registered Nurses, WellBridge Health Group, 2016.102018.10",
+      "score": 0.9932410717010498,
+      "box": [
+        117,
+        382,
+        708,
+        409
+      ]
+    },
+    {
+      "text": "- Maintained infection control protocols",
+      "score": 0.9849136471748352,
+      "box": [
+        125,
+        406,
+        486,
+        434
+      ]
+    },
+    {
+      "text": "- Checked medication dosages",
+      "score": 0.9829701781272888,
+      "box": [
+        126,
+        429,
+        418,
+        460
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999920129776001,
+      "box": [
+        117,
+        494,
+        268,
+        521
+      ]
+    },
+    {
+      "text": "Bachelor's, Life Sciences, Greenway University, 2013",
+      "score": 0.9975618124008179,
+      "box": [
+        115,
+        539,
+        614,
+        568
+      ]
+    },
+    {
+      "text": "•Completed coursework in case management basics",
+      "score": 0.995209813117981,
+      "box": [
+        130,
+        567,
+        626,
+        593
+      ]
+    },
+    {
+      "text": "•Studied fundamentals of mobility assistance",
+      "score": 0.9831670522689819,
+      "box": [
+        132,
+        590,
+        554,
+        617
+      ]
+    }
+  ],
+  "seconds": 2.385002499911934,
+  "id": "46648",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

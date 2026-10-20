@@ -1,0 +1,112 @@
+{
+  "lines": [
+    {
+      "text": "ASHLEY FLOYD",
+      "score": 0.9976935386657715,
+      "box": [
+        116,
+        89,
+        375,
+        123
+      ]
+    },
+    {
+      "text": "MI, USA | +1-826-933-6811 | ashley.floyd@example.com",
+      "score": 0.9807217121124268,
+      "box": [
+        115,
+        149,
+        645,
+        177
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.999747097492218,
+      "box": [
+        117,
+        243,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Bright Lake School, 2020.11—2023.01",
+      "score": 0.9901296496391296,
+      "box": [
+        116,
+        287,
+        812,
+        315
+      ]
+    },
+    {
+      "text": "- Conducted group reading activities",
+      "score": 0.9821189045906067,
+      "box": [
+        127,
+        316,
+        462,
+        340
+      ]
+    },
+    {
+      "text": "- Collected permission forms",
+      "score": 0.9853347539901733,
+      "box": [
+        129,
+        341,
+        395,
+        365
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999517798423767,
+      "box": [
+        116,
+        404,
+        268,
+        431
+      ]
+    },
+    {
+      "text": "Some college (no degree), Education Basics, Rivercrest University, 2019",
+      "score": 0.9885954260826111,
+      "box": [
+        117,
+        447,
+        791,
+        474
+      ]
+    },
+    {
+      "text": "Completed coursework in instructional adaptation",
+      "score": 0.9813392758369446,
+      "box": [
+        130,
+        472,
+        605,
+        500
+      ]
+    },
+    {
+      "text": "• Studied principles of instructional materials development",
+      "score": 0.9767137765884399,
+      "box": [
+        134,
+        499,
+        669,
+        523
+      ]
+    }
+  ],
+  "seconds": 2.093211999628693,
+  "id": "27579",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

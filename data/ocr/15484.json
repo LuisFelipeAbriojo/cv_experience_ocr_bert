@@ -1,0 +1,182 @@
+{
+  "lines": [
+    {
+      "text": "AMANDA POOLE",
+      "score": 0.999660074710846,
+      "box": [
+        117,
+        90,
+        393,
+        122
+      ]
+    },
+    {
+      "text": "GA, USA | +1-472-559-9442 | amanda.poole@example.com",
+      "score": 0.9935187697410583,
+      "box": [
+        116,
+        150,
+        674,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9989565014839172,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, TrueLedger Advisors, 2019.10—2023.01",
+      "score": 0.9835162162780762,
+      "box": [
+        114,
+        287,
+        694,
+        318
+      ]
+    },
+    {
+      "text": "- Directed strategic accounting initiatives",
+      "score": 0.998358428478241,
+      "box": [
+        125,
+        314,
+        503,
+        343
+      ]
+    },
+    {
+      "text": "- Established financial reporting standards",
+      "score": 0.979923665523529,
+      "box": [
+        126,
+        339,
+        518,
+        367
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Reliable Accounts Financial, 2016.072019.10",
+      "score": 0.9987542033195496,
+      "box": [
+        118,
+        383,
+        756,
+        407
+      ]
+    },
+    {
+      "text": "- Conducted risk assessments",
+      "score": 0.9895123839378357,
+      "box": [
+        127,
+        409,
+        410,
+        432
+      ]
+    },
+    {
+      "text": "- Prepared tax compliance filings",
+      "score": 0.9693105220794678,
+      "box": [
+        126,
+        430,
+        433,
+        461
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Integrity Balance Financial, 2013.032016.07",
+      "score": 0.9940914511680603,
+      "box": [
+        117,
+        472,
+        745,
+        499
+      ]
+    },
+    {
+      "text": "- Prepared supporting schedules",
+      "score": 0.9946558475494385,
+      "box": [
+        125,
+        497,
+        432,
+        525
+      ]
+    },
+    {
+      "text": "- Tracked budget expenditures",
+      "score": 0.9904735088348389,
+      "box": [
+        127,
+        521,
+        413,
+        551
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9998670220375061,
+      "box": [
+        117,
+        587,
+        267,
+        614
+      ]
+    },
+    {
+      "text": "Master's, Accounting and Finance, Driftwood University, 2013",
+      "score": 0.9935283660888672,
+      "box": [
+        116,
+        632,
+        687,
+        659
+      ]
+    },
+    {
+      "text": "Bachelor's, Information Systems, Fairmont University, 2011",
+      "score": 0.9892328977584839,
+      "box": [
+        115,
+        656,
+        666,
+        684
+      ]
+    },
+    {
+      "text": "•Studied principles of managerial accounting",
+      "score": 0.9900619983673096,
+      "box": [
+        129,
+        682,
+        553,
+        710
+      ]
+    },
+    {
+      "text": "•Studied principles of cost management",
+      "score": 0.9751930236816406,
+      "box": [
+        131,
+        707,
+        510,
+        735
+      ]
+    }
+  ],
+  "seconds": 2.6881017996929586,
+  "id": "15484",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

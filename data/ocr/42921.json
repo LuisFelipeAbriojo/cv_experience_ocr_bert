@@ -1,0 +1,122 @@
+{
+  "lines": [
+    {
+      "text": "JESSICA HART",
+      "score": 0.9998708367347717,
+      "box": [
+        114,
+        87,
+        364,
+        123
+      ]
+    },
+    {
+      "text": "OH, USA | +1-211-316-6699 | jessica.hart@example.com",
+      "score": 0.9934001564979553,
+      "box": [
+        116,
+        149,
+        649,
+        177
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.999746561050415,
+      "box": [
+        117,
+        243,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Accountants Auditors, SteadyCount Advisors, 2019.10—2021.11",
+      "score": 0.9919570088386536,
+      "box": [
+        115,
+        287,
+        706,
+        315
+      ]
+    },
+    {
+      "text": "- Reviewed billing statements",
+      "score": 0.9935165643692017,
+      "box": [
+        126,
+        314,
+        402,
+        340
+      ]
+    },
+    {
+      "text": "- Tracked budget expenditures",
+      "score": 0.9977153539657593,
+      "box": [
+        127,
+        339,
+        414,
+        368
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9990408420562744,
+      "box": [
+        116,
+        404,
+        268,
+        431
+      ]
+    },
+    {
+      "text": "Master's, Risk Management, Redfield University, 2012",
+      "score": 0.9867429137229919,
+      "box": [
+        116,
+        449,
+        620,
+        473
+      ]
+    },
+    {
+      "text": "Bachelor's, Administrative Studies, Willow Creek University, 2010",
+      "score": 0.9857818484306335,
+      "box": [
+        116,
+        472,
+        721,
+        499
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of valuation methods",
+      "score": 0.9685307741165161,
+      "box": [
+        130,
+        500,
+        548,
+        523
+      ]
+    },
+    {
+      "text": "Studied principles of operational auditing",
+      "score": 0.9985705614089966,
+      "box": [
+        132,
+        522,
+        525,
+        551
+      ]
+    }
+  ],
+  "seconds": 2.1587903001345694,
+  "id": "42921",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

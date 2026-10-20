@@ -1,0 +1,152 @@
+{
+  "lines": [
+    {
+      "text": "RAUL NIXON",
+      "score": 0.9952120780944824,
+      "box": [
+        117,
+        91,
+        326,
+        122
+      ]
+    },
+    {
+      "text": "MA, USA | +1-465-761-8565 | raul.nixon@example.com",
+      "score": 0.9906593561172485,
+      "box": [
+        115,
+        149,
+        633,
+        177
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9991476535797119,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Sunny Meadow Academy, 2019.10—2022.04",
+      "score": 0.985606849193573,
+      "box": [
+        117,
+        289,
+        875,
+        316
+      ]
+    },
+    {
+      "text": "- Directed content standardization",
+      "score": 0.9974898099899292,
+      "box": [
+        126,
+        315,
+        442,
+        340
+      ]
+    },
+    {
+      "text": "- Led curriculum integration projects",
+      "score": 0.9968626499176025,
+      "box": [
+        127,
+        339,
+        461,
+        368
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Evergreen Academy, 2016.03—2018.09",
+      "score": 0.9907585978507996,
+      "box": [
+        116,
+        381,
+        828,
+        411
+      ]
+    },
+    {
+      "text": "- Conducted reading practice sessions",
+      "score": 0.9958770275115967,
+      "box": [
+        125,
+        406,
+        485,
+        434
+      ]
+    },
+    {
+      "text": "- Distributed instructional handouts",
+      "score": 0.9996023178100586,
+      "box": [
+        127,
+        431,
+        450,
+        456
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999297261238098,
+      "box": [
+        116,
+        494,
+        268,
+        521
+      ]
+    },
+    {
+      "text": "Master's, General Education, Lakeside University, 2008",
+      "score": 0.9884629249572754,
+      "box": [
+        114,
+        539,
+        631,
+        567
+      ]
+    },
+    {
+      "text": "Bachelor's, Applied Education, Fairview Ridge University, 2006",
+      "score": 0.9958890080451965,
+      "box": [
+        117,
+        567,
+        699,
+        591
+      ]
+    },
+    {
+      "text": "•Completed coursework in introductory child psychology",
+      "score": 0.981529712677002,
+      "box": [
+        128,
+        589,
+        657,
+        620
+      ]
+    },
+    {
+      "text": "Studied fundamentals of learning environments",
+      "score": 0.9913123846054077,
+      "box": [
+        130,
+        614,
+        586,
+        643
+      ]
+    }
+  ],
+  "seconds": 2.546129200141877,
+  "id": "26587",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

@@ -1,0 +1,212 @@
+{
+  "lines": [
+    {
+      "text": "CAMMY MORROW",
+      "score": 0.9673349261283875,
+      "box": [
+        118,
+        91,
+        413,
+        122
+      ]
+    },
+    {
+      "text": "AR, USA | +1-479-642-6317 |cammy.morrow@example.com",
+      "score": 0.9827449917793274,
+      "box": [
+        117,
+        151,
+        682,
+        177
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9996671676635742,
+      "box": [
+        116,
+        242,
+        316,
+        271
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Little Horizons School, 2017.09—2023.01",
+      "score": 0.989584743976593,
+      "box": [
+        117,
+        290,
+        839,
+        317
+      ]
+    },
+    {
+      "text": "- Led instructional leadership initiatives",
+      "score": 0.9971635937690735,
+      "box": [
+        126,
+        316,
+        487,
+        342
+      ]
+    },
+    {
+      "text": "- Established academic quality controls",
+      "score": 0.9872527718544006,
+      "box": [
+        126,
+        339,
+        490,
+        368
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Kind Horizons School, 2012.05—2017.09",
+      "score": 0.9908512830734253,
+      "box": [
+        116,
+        381,
+        837,
+        409
+      ]
+    },
+    {
+      "text": "- Implemented data analysis frameworks",
+      "score": 0.9812734723091125,
+      "box": [
+        127,
+        409,
+        503,
+        433
+      ]
+    },
+    {
+      "text": "- Directed academic intervention strategies",
+      "score": 0.9834023118019104,
+      "box": [
+        125,
+        432,
+        525,
+        459
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Open Grove School, 2007.01—2012.05",
+      "score": 0.9925045967102051,
+      "box": [
+        116,
+        471,
+        822,
+        499
+      ]
+    },
+    {
+      "text": "- Implemented classroom improvement plans",
+      "score": 0.9996228218078613,
+      "box": [
+        125,
+        497,
+        547,
+        525
+      ]
+    },
+    {
+      "text": "- Administered standardized assessments",
+      "score": 0.9994706511497498,
+      "box": [
+        127,
+        522,
+        516,
+        548
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Future Grove Academy, 2001.08—2007.01",
+      "score": 0.9821016788482666,
+      "box": [
+        117,
+        565,
+        852,
+        592
+      ]
+    },
+    {
+      "text": "- Reviewed lesson objectives",
+      "score": 0.9869586229324341,
+      "box": [
+        127,
+        592,
+        400,
+        616
+      ]
+    },
+    {
+      "text": "- Reviewed curriculum content",
+      "score": 0.999221682548523,
+      "box": [
+        125,
+        614,
+        412,
+        642
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999409914016724,
+      "box": [
+        117,
+        681,
+        266,
+        705
+      ]
+    },
+    {
+      "text": "Professional degree, General Education, Lakewood University, 2007",
+      "score": 0.9931480884552002,
+      "box": [
+        115,
+        723,
+        750,
+        750
+      ]
+    },
+    {
+      "text": "Bachelor's, Family and Child Studies, Golden Meadow University, 2003",
+      "score": 0.9834206700325012,
+      "box": [
+        116,
+        749,
+        776,
+        776
+      ]
+    },
+    {
+      "text": "• Completed coursework in academic monitoring strategies",
+      "score": 0.9894452691078186,
+      "box": [
+        131,
+        776,
+        678,
+        800
+      ]
+    },
+    {
+      "text": "•Studied principles of student assessment",
+      "score": 0.9748541712760925,
+      "box": [
+        131,
+        798,
+        529,
+        827
+      ]
+    }
+  ],
+  "seconds": 2.970961600076407,
+  "id": "02553",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

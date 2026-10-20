@@ -1,0 +1,122 @@
+{
+  "lines": [
+    {
+      "text": "AMARA PRINCE",
+      "score": 0.9960126280784607,
+      "box": [
+        117,
+        91,
+        377,
+        122
+      ]
+    },
+    {
+      "text": "NC, USA | +1-675-334-1787 | amara.prince@example.com",
+      "score": 0.9842008352279663,
+      "box": [
+        115,
+        149,
+        664,
+        177
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9997209906578064,
+      "box": [
+        117,
+        243,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Accountants Auditors, SolidBooks Services, 2021.042023.01",
+      "score": 0.9986494779586792,
+      "box": [
+        117,
+        290,
+        688,
+        314
+      ]
+    },
+    {
+      "text": "- Compiled financial schedules",
+      "score": 0.9996882081031799,
+      "box": [
+        127,
+        315,
+        413,
+        340
+      ]
+    },
+    {
+      "text": "- Assisted with regulatory filings",
+      "score": 0.9734747409820557,
+      "box": [
+        128,
+        339,
+        422,
+        368
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999494552612305,
+      "box": [
+        116,
+        404,
+        268,
+        431
+      ]
+    },
+    {
+      "text": "Master's, Supply Chain Management, Greenwood Ridge University, 2023",
+      "score": 0.9996121525764465,
+      "box": [
+        116,
+        448,
+        794,
+        475
+      ]
+    },
+    {
+      "text": "Bachelor's, Information Systems, Amber Hills University, 2021",
+      "score": 0.9866751432418823,
+      "box": [
+        117,
+        474,
+        688,
+        498
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of working capital management",
+      "score": 0.97605299949646,
+      "box": [
+        129,
+        498,
+        645,
+        524
+      ]
+    },
+    {
+      "text": "Studied fundamentals of employee benefit accounting",
+      "score": 0.9986904859542847,
+      "box": [
+        132,
+        520,
+        644,
+        551
+      ]
+    }
+  ],
+  "seconds": 2.2043020999990404,
+  "id": "40621",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

@@ -1,0 +1,112 @@
+{
+  "lines": [
+    {
+      "text": "MELISSA BOYER",
+      "score": 0.9998436570167542,
+      "box": [
+        115,
+        87,
+        395,
+        123
+      ]
+    },
+    {
+      "text": "MA, USA | +1-206-685-4686 | melissa.boyer@example.com",
+      "score": 0.9958146214485168,
+      "box": [
+        115,
+        149,
+        672,
+        177
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9993233680725098,
+      "box": [
+        116,
+        243,
+        317,
+        270
+      ]
+    },
+    {
+      "text": "Registered Nurses, WellPath Medical Group, 2020.05—2023.01",
+      "score": 0.983978807926178,
+      "box": [
+        114,
+        286,
+        701,
+        317
+      ]
+    },
+    {
+      "text": "- Monitored patient alarms",
+      "score": 0.9977390766143799,
+      "box": [
+        125,
+        314,
+        373,
+        340
+      ]
+    },
+    {
+      "text": "- Collected patient health histories",
+      "score": 0.9900723695755005,
+      "box": [
+        127,
+        338,
+        445,
+        366
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999385476112366,
+      "box": [
+        116,
+        404,
+        268,
+        431
+      ]
+    },
+    {
+      "text": "Bachelor's, Health Support Services, Clearview University, 2019",
+      "score": 0.9885574579238892,
+      "box": [
+        115,
+        446,
+        710,
+        475
+      ]
+    },
+    {
+      "text": "Completed coursework in basic life support concepts",
+      "score": 0.9742088317871094,
+      "box": [
+        129,
+        472,
+        635,
+        501
+      ]
+    },
+    {
+      "text": "•Studied fundamentals of diet therapy basics",
+      "score": 0.9917259216308594,
+      "box": [
+        132,
+        497,
+        553,
+        524
+      ]
+    }
+  ],
+  "seconds": 2.179845899809152,
+  "id": "25539",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

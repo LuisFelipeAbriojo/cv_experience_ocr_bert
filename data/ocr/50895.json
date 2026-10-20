@@ -1,0 +1,162 @@
+{
+  "lines": [
+    {
+      "text": "JORDAN BLANKENSHIP",
+      "score": 0.9996269941329956,
+      "box": [
+        115,
+        90,
+        508,
+        121
+      ]
+    },
+    {
+      "text": "TX, USA | +1-528-812-6691 | jordan.blankenship@example.com",
+      "score": 0.9974868297576904,
+      "box": [
+        116,
+        149,
+        713,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9991400837898254,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, Crafted Structures, 2020.05—2023.01",
+      "score": 0.991741955280304,
+      "box": [
+        118,
+        290,
+        675,
+        314
+      ]
+    },
+    {
+      "text": "- Reviewed compliance documentation",
+      "score": 0.9954360127449036,
+      "box": [
+        126,
+        315,
+        487,
+        340
+      ]
+    },
+    {
+      "text": "- Directed site construction operations",
+      "score": 0.9919288754463196,
+      "box": [
+        127,
+        340,
+        480,
+        367
+      ]
+    },
+    {
+      "text": "Construction Laborers, ClearTrack Construction, 2017.082020.05",
+      "score": 0.9928795099258423,
+      "box": [
+        118,
+        383,
+        733,
+        407
+      ]
+    },
+    {
+      "text": "- Prepared structural joints",
+      "score": 0.9761262536048889,
+      "box": [
+        124,
+        406,
+        376,
+        435
+      ]
+    },
+    {
+      "text": "- Documented daily work progress",
+      "score": 0.9757876396179199,
+      "box": [
+        127,
+        432,
+        446,
+        458
+      ]
+    },
+    {
+      "text": "Construction Laborers, StrongWay Builders, 2013.072016.04",
+      "score": 0.9925475716590881,
+      "box": [
+        117,
+        472,
+        693,
+        499
+      ]
+    },
+    {
+      "text": "- Prepared surfaces for construction work",
+      "score": 0.9843363165855408,
+      "box": [
+        128,
+        499,
+        512,
+        523
+      ]
+    },
+    {
+      "text": "- Installed safety signage",
+      "score": 0.9916037321090698,
+      "box": [
+        128,
+        520,
+        362,
+        552
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9998854398727417,
+      "box": [
+        117,
+        587,
+        267,
+        614
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Building Systems, Clearfield High School, 2001",
+      "score": 0.9989289045333862,
+      "box": [
+        118,
+        633,
+        810,
+        657
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of site fencing",
+      "score": 0.9855573773384094,
+      "box": [
+        130,
+        657,
+        484,
+        683
+      ]
+    }
+  ],
+  "seconds": 2.916513199917972,
+  "id": "50895",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

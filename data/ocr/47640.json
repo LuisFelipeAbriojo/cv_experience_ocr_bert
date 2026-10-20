@@ -1,0 +1,112 @@
+{
+  "lines": [
+    {
+      "text": "MICHAEL COOK",
+      "score": 0.9984846115112305,
+      "box": [
+        117,
+        89,
+        380,
+        123
+      ]
+    },
+    {
+      "text": "SC, USA | +1-744-554-7069 | michael.cook@example.com",
+      "score": 0.9785813093185425,
+      "box": [
+        116,
+        149,
+        663,
+        177
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9994010925292969,
+      "box": [
+        116,
+        243,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Software Developers, Greenline Tech, 2021.01-2023.01",
+      "score": 0.9806639552116394,
+      "box": [
+        115,
+        287,
+        639,
+        315
+      ]
+    },
+    {
+      "text": "- Wrote integration tests",
+      "score": 0.9963104128837585,
+      "box": [
+        125,
+        314,
+        352,
+        340
+      ]
+    },
+    {
+      "text": "- Updated routing logic",
+      "score": 0.9972681999206543,
+      "box": [
+        127,
+        338,
+        340,
+        368
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999332427978516,
+      "box": [
+        116,
+        403,
+        269,
+        431
+      ]
+    },
+    {
+      "text": "Some college (no degree), High Meadow University, 2023",
+      "score": 0.9937436580657959,
+      "box": [
+        116,
+        446,
+        652,
+        474
+      ]
+    },
+    {
+      "text": "•Completed coursework in information retrieval",
+      "score": 0.9898388981819153,
+      "box": [
+        131,
+        474,
+        574,
+        498
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of computer networks",
+      "score": 0.9846526980400085,
+      "box": [
+        132,
+        497,
+        555,
+        524
+      ]
+    }
+  ],
+  "seconds": 1.9570566001348197,
+  "id": "47640",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

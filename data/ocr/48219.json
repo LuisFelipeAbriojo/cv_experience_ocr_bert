@@ -1,0 +1,172 @@
+{
+  "lines": [
+    {
+      "text": "SAMANTHA CRAIG",
+      "score": 0.9997542500495911,
+      "box": [
+        118,
+        91,
+        425,
+        122
+      ]
+    },
+    {
+      "text": "SD, USA | +1-454-257-1922 | samantha.craig@example.com",
+      "score": 0.9909855723381042,
+      "box": [
+        116,
+        150,
+        683,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9680922627449036,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Little Bridge School, 2020.12—2023.01",
+      "score": 0.9890854954719543,
+      "box": [
+        115,
+        287,
+        817,
+        318
+      ]
+    },
+    {
+      "text": "- Led professional development planning",
+      "score": 0.9990683197975159,
+      "box": [
+        125,
+        313,
+        506,
+        344
+      ]
+    },
+    {
+      "text": "- Designed literacy development programs",
+      "score": 0.9666095972061157,
+      "box": [
+        127,
+        340,
+        521,
+        368
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Harmony Hills Academy, 2018.112020.12",
+      "score": 0.9899371266365051,
+      "box": [
+        116,
+        381,
+        862,
+        411
+      ]
+    },
+    {
+      "text": "- Implemented classroom routines",
+      "score": 0.9798226952552795,
+      "box": [
+        126,
+        408,
+        445,
+        433
+      ]
+    },
+    {
+      "text": "- Implemented literacy development plans",
+      "score": 0.9983352422714233,
+      "box": [
+        128,
+        432,
+        514,
+        458
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Future Horizons Academy, 2015.082017.09",
+      "score": 0.9960643649101257,
+      "box": [
+        117,
+        472,
+        879,
+        499
+      ]
+    },
+    {
+      "text": "- Supervised transitions between lessons",
+      "score": 0.989139199256897,
+      "box": [
+        125,
+        497,
+        510,
+        525
+      ]
+    },
+    {
+      "text": "- Reviewed lesson objectives",
+      "score": 0.9904188513755798,
+      "box": [
+        127,
+        520,
+        400,
+        551
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999294281005859,
+      "box": [
+        117,
+        587,
+        267,
+        614
+      ]
+    },
+    {
+      "text": "Bachelor's, Instructional Studies, Bayside University, 2008",
+      "score": 0.9873698353767395,
+      "box": [
+        118,
+        633,
+        654,
+        657
+      ]
+    },
+    {
+      "text": "•Studied fundamentals of academic support strategies",
+      "score": 0.9717171788215637,
+      "box": [
+        129,
+        656,
+        640,
+        685
+      ]
+    },
+    {
+      "text": "•Completed coursework in student-centered learning",
+      "score": 0.9886747598648071,
+      "box": [
+        132,
+        680,
+        626,
+        709
+      ]
+    }
+  ],
+  "seconds": 2.6207143999636173,
+  "id": "48219",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

@@ -1,0 +1,142 @@
+{
+  "lines": [
+    {
+      "text": "LAUREN SHAW",
+      "score": 0.9993736743927002,
+      "box": [
+        116,
+        89,
+        369,
+        122
+      ]
+    },
+    {
+      "text": "GA, USA | +1-993-385-4804 | lauren.shaw@example.com",
+      "score": 0.9756507277488708,
+      "box": [
+        118,
+        152,
+        654,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9613265991210938,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Golden Start Academy, 2020.07—2023.01",
+      "score": 0.98817378282547,
+      "box": [
+        116,
+        288,
+        847,
+        318
+      ]
+    },
+    {
+      "text": "- Led curriculum integration projects",
+      "score": 0.9998264908790588,
+      "box": [
+        126,
+        315,
+        460,
+        342
+      ]
+    },
+    {
+      "text": "- Established instructional best practices",
+      "score": 0.9892945885658264,
+      "box": [
+        125,
+        338,
+        502,
+        368
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Bright Path School, 2018.01—2020.07",
+      "score": 0.9917775988578796,
+      "box": [
+        117,
+        382,
+        811,
+        409
+      ]
+    },
+    {
+      "text": "- Prepared instructional materials and worksheets",
+      "score": 0.9885416030883789,
+      "box": [
+        126,
+        407,
+        588,
+        432
+      ]
+    },
+    {
+      "text": "- Implemented lesson pacing guidelines",
+      "score": 0.9888957142829895,
+      "box": [
+        127,
+        430,
+        497,
+        459
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999150037765503,
+      "box": [
+        117,
+        494,
+        267,
+        521
+      ]
+    },
+    {
+      "text": "Bachelor's, Elementary Education Preparation, Clearwood University, 2016",
+      "score": 0.9847105741500854,
+      "box": [
+        117,
+        542,
+        810,
+        566
+      ]
+    },
+    {
+      "text": "• Completed coursework in classroom observation methods",
+      "score": 0.9858059287071228,
+      "box": [
+        132,
+        566,
+        683,
+        591
+      ]
+    },
+    {
+      "text": "• Completed coursework in child development fundamentals",
+      "score": 0.9952831864356995,
+      "box": [
+        132,
+        591,
+        688,
+        616
+      ]
+    }
+  ],
+  "seconds": 2.4712809999473393,
+  "id": "15942",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

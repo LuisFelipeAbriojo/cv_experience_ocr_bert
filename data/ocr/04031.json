@@ -1,0 +1,172 @@
+{
+  "lines": [
+    {
+      "text": "JACLYNNE STEELE",
+      "score": 0.9997308254241943,
+      "box": [
+        115,
+        89,
+        438,
+        122
+      ]
+    },
+    {
+      "text": "CA, USA | +1-375-309-4920 | jaclynne.steele@example.com",
+      "score": 0.9855440258979797,
+      "box": [
+        118,
+        152,
+        678,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9991125464439392,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, EverPath Nursing Services, 2020.04—2023.01",
+      "score": 0.9748933911323547,
+      "box": [
+        115,
+        287,
+        725,
+        318
+      ]
+    },
+    {
+      "text": "- Established care delivery standards",
+      "score": 0.9917791485786438,
+      "box": [
+        127,
+        316,
+        471,
+        340
+      ]
+    },
+    {
+      "text": "- Directed interdisciplinary workflow alignment",
+      "score": 0.9967674612998962,
+      "box": [
+        127,
+        339,
+        554,
+        368
+      ]
+    },
+    {
+      "text": "Registered Nurses, OpenHands Nursing Services, 2017.072020.04",
+      "score": 0.9914681315422058,
+      "box": [
+        117,
+        382,
+        752,
+        409
+      ]
+    },
+    {
+      "text": "- Monitored infusion pump settings",
+      "score": 0.9877220392227173,
+      "box": [
+        126,
+        407,
+        449,
+        435
+      ]
+    },
+    {
+      "text": "- Educated patients on treatment plans",
+      "score": 0.9802613258361816,
+      "box": [
+        126,
+        431,
+        488,
+        459
+      ]
+    },
+    {
+      "text": "Registered Nurses, EverBridge Health Services, 2014.102017.07",
+      "score": 0.9995566010475159,
+      "box": [
+        116,
+        471,
+        731,
+        499
+      ]
+    },
+    {
+      "text": "- Prepared intravenous solutions",
+      "score": 0.9936234951019287,
+      "box": [
+        126,
+        496,
+        432,
+        527
+      ]
+    },
+    {
+      "text": "- Monitored patient intake and output",
+      "score": 0.9904276132583618,
+      "box": [
+        127,
+        520,
+        470,
+        552
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9998867511749268,
+      "box": [
+        117,
+        587,
+        267,
+        614
+      ]
+    },
+    {
+      "text": "Bachelor's, Pediatric Care, Oakridge Valley University, 2012",
+      "score": 0.9902390241622925,
+      "box": [
+        117,
+        632,
+        673,
+        659
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of health assessment",
+      "score": 0.9860387444496155,
+      "box": [
+        131,
+        659,
+        555,
+        682
+      ]
+    },
+    {
+      "text": "•Studied principles of patient identification",
+      "score": 0.9730011224746704,
+      "box": [
+        131,
+        682,
+        525,
+        706
+      ]
+    }
+  ],
+  "seconds": 2.783956099767238,
+  "id": "04031",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

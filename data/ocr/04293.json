@@ -1,0 +1,172 @@
+{
+  "lines": [
+    {
+      "text": "KIMBERLY FROST",
+      "score": 0.998291015625,
+      "box": [
+        117,
+        91,
+        416,
+        121
+      ]
+    },
+    {
+      "text": "CA, USA | +1-248-837-7198 | kimberly.frost@example.com",
+      "score": 0.9909557700157166,
+      "box": [
+        116,
+        150,
+        665,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9991476535797119,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Harmony Academy, 2020.06—2023.01",
+      "score": 0.9952541589736938,
+      "box": [
+        115,
+        287,
+        815,
+        319
+      ]
+    },
+    {
+      "text": "- Designed instructional quality standards",
+      "score": 0.9980385899543762,
+      "box": [
+        127,
+        314,
+        511,
+        342
+      ]
+    },
+    {
+      "text": "- Led professional development planning",
+      "score": 0.9991257786750793,
+      "box": [
+        127,
+        339,
+        505,
+        370
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Bright Oaks School, 2016.042018.11",
+      "score": 0.9923864006996155,
+      "box": [
+        116,
+        381,
+        817,
+        411
+      ]
+    },
+    {
+      "text": "- Developed classroom assessment tools",
+      "score": 0.9987924695014954,
+      "box": [
+        125,
+        406,
+        510,
+        435
+      ]
+    },
+    {
+      "text": "- Prepared unit assessments",
+      "score": 0.987570583820343,
+      "box": [
+        126,
+        430,
+        396,
+        461
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Learning Start School, 2012.062015.02",
+      "score": 0.9966135025024414,
+      "box": [
+        117,
+        472,
+        840,
+        499
+      ]
+    },
+    {
+      "text": "- Supervised classroom activities",
+      "score": 0.9826198816299438,
+      "box": [
+        127,
+        499,
+        434,
+        523
+      ]
+    },
+    {
+      "text": "- Implemented classroom seating plans",
+      "score": 0.9988040328025818,
+      "box": [
+        128,
+        521,
+        493,
+        550
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9998924732208252,
+      "box": [
+        117,
+        587,
+        267,
+        614
+      ]
+    },
+    {
+      "text": "Bachelor's, Introductory Education, Goldenview University, 2002",
+      "score": 0.9824569225311279,
+      "box": [
+        117,
+        632,
+        711,
+        657
+      ]
+    },
+    {
+      "text": "• Completed coursework in classroom observation methods",
+      "score": 0.9895885586738586,
+      "box": [
+        132,
+        659,
+        684,
+        683
+      ]
+    },
+    {
+      "text": "• Completed coursework in classroom management techniques",
+      "score": 0.9858644008636475,
+      "box": [
+        133,
+        682,
+        717,
+        708
+      ]
+    }
+  ],
+  "seconds": 3.017182500101626,
+  "id": "04293",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

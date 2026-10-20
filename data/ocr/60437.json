@@ -1,0 +1,172 @@
+{
+  "lines": [
+    {
+      "text": "JESSICA RUSSELL",
+      "score": 0.9710037112236023,
+      "box": [
+        115,
+        89,
+        425,
+        122
+      ]
+    },
+    {
+      "text": "WI, USA | +1-779-429-7290 | jessica.russell@example.com",
+      "score": 0.9843522906303406,
+      "box": [
+        118,
+        152,
+        667,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9990734457969666,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, LifePath Nursing Services, 2020.08—2023.01",
+      "score": 0.9851935505867004,
+      "box": [
+        115,
+        287,
+        716,
+        319
+      ]
+    },
+    {
+      "text": "- Directed interdisciplinary workflow alignment",
+      "score": 0.979141891002655,
+      "box": [
+        125,
+        313,
+        554,
+        343
+      ]
+    },
+    {
+      "text": "- Led infection control programs",
+      "score": 0.9880390167236328,
+      "box": [
+        128,
+        340,
+        423,
+        369
+      ]
+    },
+    {
+      "text": "Registered Nurses, EverHands Health Group, 2017.022019.07",
+      "score": 0.9996173977851868,
+      "box": [
+        117,
+        382,
+        708,
+        409
+      ]
+    },
+    {
+      "text": "- Reviewed care plan outcomes",
+      "score": 0.9851226210594177,
+      "box": [
+        125,
+        407,
+        422,
+        434
+      ]
+    },
+    {
+      "text": "- Managed patient advocacy tasks",
+      "score": 0.9882938861846924,
+      "box": [
+        127,
+        434,
+        444,
+        457
+      ]
+    },
+    {
+      "text": "Registered Nurses, Compassion Care Group, 2013.122016.06",
+      "score": 0.9948409199714661,
+      "box": [
+        118,
+        474,
+        706,
+        498
+      ]
+    },
+    {
+      "text": "- Checked patient identification",
+      "score": 0.9959966540336609,
+      "box": [
+        125,
+        496,
+        417,
+        524
+      ]
+    },
+    {
+      "text": "- Recorded medication administration times",
+      "score": 0.9923664927482605,
+      "box": [
+        127,
+        520,
+        532,
+        549
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9998707175254822,
+      "box": [
+        117,
+        587,
+        267,
+        614
+      ]
+    },
+    {
+      "text": "Associate's degree, Public Health, Greenwood Ridge University, 2008",
+      "score": 0.9945539832115173,
+      "box": [
+        117,
+        632,
+        763,
+        659
+      ]
+    },
+    {
+      "text": "• Completed coursework in medication administration",
+      "score": 0.986492931842804,
+      "box": [
+        131,
+        659,
+        626,
+        683
+      ]
+    },
+    {
+      "text": "•Studied fundamentals of nursing communication",
+      "score": 0.9816701412200928,
+      "box": [
+        130,
+        680,
+        594,
+        709
+      ]
+    }
+  ],
+  "seconds": 2.5335323000326753,
+  "id": "60437",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

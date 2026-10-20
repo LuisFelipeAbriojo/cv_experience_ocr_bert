@@ -1,0 +1,112 @@
+{
+  "lines": [
+    {
+      "text": "AMY DOUGLAS",
+      "score": 0.9727165699005127,
+      "box": [
+        116,
+        89,
+        369,
+        123
+      ]
+    },
+    {
+      "text": "FL, USA | +1-698-831-7011 | amy.douglas@example.com",
+      "score": 0.979777455329895,
+      "box": [
+        116,
+        149,
+        655,
+        177
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9994494318962097,
+      "box": [
+        116,
+        243,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Registered Nurses, Helping Way Care, 2019.03—2020.09",
+      "score": 0.9862419366836548,
+      "box": [
+        115,
+        286,
+        646,
+        317
+      ]
+    },
+    {
+      "text": "- Assisted with feeding patients",
+      "score": 0.9978148341178894,
+      "box": [
+        126,
+        314,
+        418,
+        340
+      ]
+    },
+    {
+      "text": "- Checked laboratory results",
+      "score": 0.9933857917785645,
+      "box": [
+        126,
+        338,
+        391,
+        368
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999480843544006,
+      "box": [
+        116,
+        404,
+        268,
+        431
+      ]
+    },
+    {
+      "text": "Bachelor's, Mental Health Studies, Briarwood University, 2015",
+      "score": 0.9844048023223877,
+      "box": [
+        115,
+        446,
+        692,
+        474
+      ]
+    },
+    {
+      "text": "Completed coursework in oncology nursing basics",
+      "score": 0.9944952130317688,
+      "box": [
+        132,
+        473,
+        612,
+        500
+      ]
+    },
+    {
+      "text": "Completed coursework in patient safety culture",
+      "score": 0.9998278617858887,
+      "box": [
+        132,
+        497,
+        583,
+        525
+      ]
+    }
+  ],
+  "seconds": 2.035928700119257,
+  "id": "13759",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

@@ -1,0 +1,142 @@
+{
+  "lines": [
+    {
+      "text": "MARISA UNDERWOOD",
+      "score": 0.9793248176574707,
+      "box": [
+        118,
+        91,
+        484,
+        121
+      ]
+    },
+    {
+      "text": "AZ, USA | +1-558-391-4113 | marisa.underwood@example.com",
+      "score": 0.9902390837669373,
+      "box": [
+        116,
+        150,
+        710,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9991734027862549,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Little Bridge School, 2020.04—2023.01",
+      "score": 0.988201379776001,
+      "box": [
+        116,
+        287,
+        816,
+        317
+      ]
+    },
+    {
+      "text": "- Developed instructional evaluation metrics",
+      "score": 0.999406099319458,
+      "box": [
+        125,
+        314,
+        534,
+        342
+      ]
+    },
+    {
+      "text": "- Designed performance monitoring systems",
+      "score": 0.9987958669662476,
+      "box": [
+        127,
+        339,
+        539,
+        369
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Sunny Minds School, 2017.06—2020.04",
+      "score": 0.9953103065490723,
+      "box": [
+        115,
+        379,
+        829,
+        411
+      ]
+    },
+    {
+      "text": "- Conducted spelling practice",
+      "score": 0.9966622591018677,
+      "box": [
+        125,
+        406,
+        399,
+        435
+      ]
+    },
+    {
+      "text": "- Reviewed lesson objectives",
+      "score": 0.987197995185852,
+      "box": [
+        126,
+        430,
+        399,
+        459
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999361038208008,
+      "box": [
+        117,
+        494,
+        267,
+        521
+      ]
+    },
+    {
+      "text": "Bachelor's, Social Science Studies, Stonegate University, 2018",
+      "score": 0.9918491840362549,
+      "box": [
+        115,
+        539,
+        700,
+        567
+      ]
+    },
+    {
+      "text": "• Completed coursework in creative teaching strategies",
+      "score": 0.9834641218185425,
+      "box": [
+        131,
+        566,
+        643,
+        592
+      ]
+    },
+    {
+      "text": "•Studied fundamentals of formative feedback",
+      "score": 0.978259801864624,
+      "box": [
+        132,
+        590,
+        557,
+        615
+      ]
+    }
+  ],
+  "seconds": 3.009800300002098,
+  "id": "01834",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

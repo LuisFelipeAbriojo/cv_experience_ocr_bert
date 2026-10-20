@@ -1,0 +1,192 @@
+{
+  "lines": [
+    {
+      "text": "JONATHAN BERG",
+      "score": 0.9899203181266785,
+      "box": [
+        116,
+        91,
+        409,
+        122
+      ]
+    },
+    {
+      "text": "MN, USA | +1-913-726-8149 | jonathan.berg@example.com",
+      "score": 0.9882770776748657,
+      "box": [
+        115,
+        150,
+        672,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9931879043579102,
+      "box": [
+        117,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, Precision Works, 2020.032023.01",
+      "score": 0.9916979670524597,
+      "box": [
+        118,
+        290,
+        657,
+        314
+      ]
+    },
+    {
+      "text": "- Directed equipment operations",
+      "score": 0.9885982871055603,
+      "box": [
+        126,
+        315,
+        427,
+        341
+      ]
+    },
+    {
+      "text": "- Directed construction audits",
+      "score": 0.9915731549263,
+      "box": [
+        127,
+        340,
+        400,
+        365
+      ]
+    },
+    {
+      "text": "Construction Laborers, TrueCraft Builders, 2017.042020.03",
+      "score": 0.9845268130302429,
+      "box": [
+        118,
+        383,
+        677,
+        407
+      ]
+    },
+    {
+      "text": "- Managed subcontractor coordination",
+      "score": 0.9889411926269531,
+      "box": [
+        125,
+        409,
+        480,
+        432
+      ]
+    },
+    {
+      "text": "- Directed project scheduling",
+      "score": 0.9727964997291565,
+      "box": [
+        126,
+        431,
+        394,
+        460
+      ]
+    },
+    {
+      "text": "Construction Laborers, Precision Line Contractors, 2013.06—2016.05",
+      "score": 0.9930849075317383,
+      "box": [
+        117,
+        472,
+        753,
+        497
+      ]
+    },
+    {
+      "text": "- Installed insulation systems",
+      "score": 0.9794794321060181,
+      "box": [
+        126,
+        496,
+        397,
+        525
+      ]
+    },
+    {
+      "text": "- Monitored project timelines",
+      "score": 0.9954217672348022,
+      "box": [
+        127,
+        521,
+        393,
+        551
+      ]
+    },
+    {
+      "text": "Construction Laborers, Allied Craft Co., 2009.092012.08",
+      "score": 0.997649610042572,
+      "box": [
+        118,
+        566,
+        649,
+        590
+      ]
+    },
+    {
+      "text": "- Maintained tool storage areas",
+      "score": 0.9973351359367371,
+      "box": [
+        126,
+        590,
+        419,
+        616
+      ]
+    },
+    {
+      "text": "- Stacked and organized construction supplies",
+      "score": 0.991121768951416,
+      "box": [
+        125,
+        614,
+        557,
+        642
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999136328697205,
+      "box": [
+        117,
+        681,
+        266,
+        705
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Construction Services, Pinefield High School, 2004",
+      "score": 0.9915105700492859,
+      "box": [
+        116,
+        724,
+        847,
+        750
+      ]
+    },
+    {
+      "text": "•Studied fundamentals of construction planning",
+      "score": 0.9873824119567871,
+      "box": [
+        130,
+        748,
+        577,
+        775
+      ]
+    }
+  ],
+  "seconds": 2.8923773001879454,
+  "id": "29360",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

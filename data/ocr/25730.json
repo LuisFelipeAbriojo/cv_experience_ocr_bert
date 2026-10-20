@@ -1,0 +1,192 @@
+{
+  "lines": [
+    {
+      "text": "ROBERT STEIN",
+      "score": 0.9734916687011719,
+      "box": [
+        117,
+        91,
+        366,
+        121
+      ]
+    },
+    {
+      "text": "MA, USA | +1-970-628-8361 | robert.stein@example.com",
+      "score": 0.9868184328079224,
+      "box": [
+        116,
+        151,
+        647,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.998986005783081,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Brightpoint Software, 2020.05—2023.01",
+      "score": 0.9929826259613037,
+      "box": [
+        117,
+        291,
+        682,
+        315
+      ]
+    },
+    {
+      "text": "- Implemented long-term maintenance plans",
+      "score": 0.9966691136360168,
+      "box": [
+        129,
+        317,
+        537,
+        341
+      ]
+    },
+    {
+      "text": "- Defined data governance policies",
+      "score": 0.9995601773262024,
+      "box": [
+        128,
+        340,
+        451,
+        368
+      ]
+    },
+    {
+      "text": "Software Developers, Nextline Software, 2017.092020.05",
+      "score": 0.9898757934570312,
+      "box": [
+        117,
+        383,
+        660,
+        407
+      ]
+    },
+    {
+      "text": "- Built containerized services",
+      "score": 0.9826861023902893,
+      "box": [
+        125,
+        407,
+        396,
+        433
+      ]
+    },
+    {
+      "text": "- Implemented caching strategies",
+      "score": 0.9917840957641602,
+      "box": [
+        127,
+        431,
+        438,
+        459
+      ]
+    },
+    {
+      "text": "Software Developers, Netfield Technologies, 2013.122016.09",
+      "score": 0.9995941519737244,
+      "box": [
+        118,
+        474,
+        696,
+        498
+      ]
+    },
+    {
+      "text": "- Fixed software bugs identified through testing",
+      "score": 0.9976376891136169,
+      "box": [
+        125,
+        496,
+        563,
+        526
+      ]
+    },
+    {
+      "text": "- Optimized simple queries",
+      "score": 0.9960418939590454,
+      "box": [
+        129,
+        523,
+        376,
+        547
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999938428401947,
+      "box": [
+        118,
+        588,
+        266,
+        612
+      ]
+    },
+    {
+      "text": "Doctorate, Forestview University, 2009",
+      "score": 0.9913586974143982,
+      "box": [
+        118,
+        633,
+        476,
+        657
+      ]
+    },
+    {
+      "text": "Bachelor's, Briar Ridge University, 2004",
+      "score": 0.9899228811264038,
+      "box": [
+        116,
+        657,
+        486,
+        684
+      ]
+    },
+    {
+      "text": "•Completed coursework in software project management",
+      "score": 0.9847790002822876,
+      "box": [
+        129,
+        681,
+        665,
+        709
+      ]
+    },
+    {
+      "text": "Studied principles of backend frameworks",
+      "score": 0.986270546913147,
+      "box": [
+        131,
+        706,
+        535,
+        734
+      ]
+    },
+    {
+      "text": "•Studied principles of dependency injection",
+      "score": 0.9786098599433899,
+      "box": [
+        132,
+        731,
+        536,
+        758
+      ]
+    }
+  ],
+  "seconds": 2.5712994001805782,
+  "id": "25730",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

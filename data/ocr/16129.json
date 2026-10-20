@@ -1,0 +1,212 @@
+{
+  "lines": [
+    {
+      "text": "STARRLA MORRISON",
+      "score": 0.9989995360374451,
+      "box": [
+        117,
+        91,
+        469,
+        122
+      ]
+    },
+    {
+      "text": "GA, USA | +1-600-251-3462 | starrla.morrison@example.com",
+      "score": 0.985664963722229,
+      "box": [
+        117,
+        151,
+        688,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9995450973510742,
+      "box": [
+        117,
+        244,
+        316,
+        271
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Caring Start School, 2019.10—2023.01",
+      "score": 0.9901745319366455,
+      "box": [
+        116,
+        288,
+        817,
+        318
+      ]
+    },
+    {
+      "text": "- Directed instructional planning processes",
+      "score": 0.984868586063385,
+      "box": [
+        126,
+        314,
+        522,
+        344
+      ]
+    },
+    {
+      "text": "- Designed literacy development programs",
+      "score": 0.9988166689872742,
+      "box": [
+        127,
+        340,
+        522,
+        370
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Sunny Field School, 2016.072019.10",
+      "score": 0.9890820980072021,
+      "box": [
+        116,
+        381,
+        819,
+        410
+      ]
+    },
+    {
+      "text": "- Designed learning analytics frameworks",
+      "score": 0.9897295236587524,
+      "box": [
+        126,
+        408,
+        510,
+        433
+      ]
+    },
+    {
+      "text": "- Led instructional leadership initiatives",
+      "score": 0.9853523969650269,
+      "box": [
+        127,
+        432,
+        487,
+        457
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Harmony Path Academy, 2013.04—2016.07",
+      "score": 0.9899296164512634,
+      "box": [
+        118,
+        472,
+        864,
+        499
+      ]
+    },
+    {
+      "text": "- Implemented classroom improvement plans",
+      "score": 0.995915412902832,
+      "box": [
+        126,
+        497,
+        547,
+        525
+      ]
+    },
+    {
+      "text": "- Implemented literacy development plans",
+      "score": 0.9993723034858704,
+      "box": [
+        128,
+        521,
+        516,
+        551
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Harmony Hills Academy, 2009.12—2013.04",
+      "score": 0.9776139855384827,
+      "box": [
+        117,
+        565,
+        861,
+        592
+      ]
+    },
+    {
+      "text": "- Maintained instructional logs",
+      "score": 0.9879839420318604,
+      "box": [
+        125,
+        589,
+        408,
+        618
+      ]
+    },
+    {
+      "text": "- Prepared daily lesson plans aligned with curriculum guidelines",
+      "score": 0.9875131249427795,
+      "box": [
+        126,
+        613,
+        717,
+        644
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999245405197144,
+      "box": [
+        117,
+        681,
+        266,
+        705
+      ]
+    },
+    {
+      "text": "Master's, Youth Development, Lakeview University, 2010",
+      "score": 0.9939907193183899,
+      "box": [
+        115,
+        723,
+        645,
+        750
+      ]
+    },
+    {
+      "text": "Bachelor's, Basic Child Development, Ironwood University, 2008",
+      "score": 0.9869254231452942,
+      "box": [
+        116,
+        749,
+        712,
+        776
+      ]
+    },
+    {
+      "text": "•Completed coursework in reading instruction",
+      "score": 0.9823806285858154,
+      "box": [
+        129,
+        773,
+        561,
+        801
+      ]
+    },
+    {
+      "text": "•Completed coursework in student-centered learning",
+      "score": 0.9910446405410767,
+      "box": [
+        132,
+        798,
+        625,
+        827
+      ]
+    }
+  ],
+  "seconds": 3.2096074000000954,
+  "id": "16129",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

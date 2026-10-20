@@ -1,0 +1,152 @@
+{
+  "lines": [
+    {
+      "text": "MEGAN ROSS",
+      "score": 0.9603363871574402,
+      "box": [
+        117,
+        91,
+        346,
+        122
+      ]
+    },
+    {
+      "text": "WA, USA | +1-633-216-2256 | megan.ross@example.com",
+      "score": 0.973642110824585,
+      "box": [
+        116,
+        150,
+        654,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9990206360816956,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Growing Meadow Academy, 2020.02—2023.0",
+      "score": 0.9948723912239075,
+      "box": [
+        115,
+        287,
+        882,
+        318
+      ]
+    },
+    {
+      "text": "- Developed long-term instructional strategies",
+      "score": 0.9862996935844421,
+      "box": [
+        126,
+        314,
+        550,
+        343
+      ]
+    },
+    {
+      "text": "- Implemented learning system upgrades",
+      "score": 0.9865872263908386,
+      "box": [
+        127,
+        339,
+        508,
+        369
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Discovery Meadow School, 2017.03—2020.02",
+      "score": 0.9794785380363464,
+      "box": [
+        117,
+        382,
+        885,
+        409
+      ]
+    },
+    {
+      "text": "- Delivered structured lessons in reading and mathematics",
+      "score": 0.986621081829071,
+      "box": [
+        126,
+        407,
+        667,
+        432
+      ]
+    },
+    {
+      "text": "- Assisted with small group instruction activities",
+      "score": 0.9885676503181458,
+      "box": [
+        128,
+        431,
+        564,
+        457
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999539256095886,
+      "box": [
+        116,
+        494,
+        267,
+        521
+      ]
+    },
+    {
+      "text": "Master's, Child Studies, Silverwood University, 2015",
+      "score": 0.9817721843719482,
+      "box": [
+        114,
+        539,
+        602,
+        567
+      ]
+    },
+    {
+      "text": "Bachelor's, Foundations of Learning, Hillcrest University, 2013",
+      "score": 0.9951407313346863,
+      "box": [
+        116,
+        566,
+        693,
+        593
+      ]
+    },
+    {
+      "text": "•Studied principles of learning outcomes assessment",
+      "score": 0.9774330258369446,
+      "box": [
+        130,
+        593,
+        631,
+        617
+      ]
+    },
+    {
+      "text": "Completed coursework in classroom collaboration",
+      "score": 0.9899474382400513,
+      "box": [
+        131,
+        615,
+        610,
+        643
+      ]
+    }
+  ],
+  "seconds": 2.6514443000778556,
+  "id": "58192",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

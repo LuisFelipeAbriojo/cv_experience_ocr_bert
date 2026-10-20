@@ -1,0 +1,122 @@
+{
+  "lines": [
+    {
+      "text": "CHRISTOPHER TANG",
+      "score": 0.9985601902008057,
+      "box": [
+        118,
+        91,
+        463,
+        122
+      ]
+    },
+    {
+      "text": "MA, USA | +1-866-806-2884 | christopher.tang@example.com",
+      "score": 0.9886826872825623,
+      "box": [
+        117,
+        152,
+        692,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9997712969779968,
+      "box": [
+        117,
+        243,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Software Developers, Openline Digital, 2022.042022.06",
+      "score": 0.9984403848648071,
+      "box": [
+        116,
+        289,
+        644,
+        316
+      ]
+    },
+    {
+      "text": "- Handled feature toggles",
+      "score": 0.9960773587226868,
+      "box": [
+        125,
+        313,
+        365,
+        343
+      ]
+    },
+    {
+      "text": "- Reviewed error reports",
+      "score": 0.9935402870178223,
+      "box": [
+        126,
+        338,
+        355,
+        368
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.99992436170578,
+      "box": [
+        116,
+        404,
+        268,
+        431
+      ]
+    },
+    {
+      "text": "Master's, Brightfield Ridge University, 2004",
+      "score": 0.9856671690940857,
+      "box": [
+        116,
+        448,
+        517,
+        475
+      ]
+    },
+    {
+      "text": "Bachelor's, Lakeside University, 2002",
+      "score": 0.9873619079589844,
+      "box": [
+        117,
+        474,
+        463,
+        498
+      ]
+    },
+    {
+      "text": "• Studied principles of ACID properties",
+      "score": 0.9781309962272644,
+      "box": [
+        131,
+        500,
+        490,
+        524
+      ]
+    },
+    {
+      "text": "•Completed coursework in distributed databases",
+      "score": 0.991692841053009,
+      "box": [
+        133,
+        523,
+        589,
+        550
+      ]
+    }
+  ],
+  "seconds": 2.0133258998394012,
+  "id": "26184",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

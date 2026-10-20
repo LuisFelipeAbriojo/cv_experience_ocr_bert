@@ -1,0 +1,162 @@
+{
+  "lines": [
+    {
+      "text": "PEYTON KNIGHT",
+      "score": 0.9997680187225342,
+      "box": [
+        117,
+        91,
+        392,
+        121
+      ]
+    },
+    {
+      "text": "WI, USA | +1-646-229-9668 | peyton.knight@example.com",
+      "score": 0.9874266386032104,
+      "box": [
+        118,
+        152,
+        660,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9992184638977051,
+      "box": [
+        118,
+        245,
+        314,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, Clearline Builders, 2020.08—2023.01",
+      "score": 0.9870643019676208,
+      "box": [
+        117,
+        289,
+        670,
+        314
+      ]
+    },
+    {
+      "text": "- Reviewed and approved project plans",
+      "score": 0.9982229471206665,
+      "box": [
+        126,
+        315,
+        491,
+        341
+      ]
+    },
+    {
+      "text": "- Managed construction schedules",
+      "score": 0.9758758544921875,
+      "box": [
+        128,
+        340,
+        448,
+        366
+      ]
+    },
+    {
+      "text": "Construction Laborers, Workforce Construction, 2018.02—2020.08",
+      "score": 0.9849808812141418,
+      "box": [
+        118,
+        383,
+        726,
+        407
+      ]
+    },
+    {
+      "text": "- Installed electrical wiring supports",
+      "score": 0.989669919013977,
+      "box": [
+        125,
+        407,
+        453,
+        433
+      ]
+    },
+    {
+      "text": "- Operated power tools independently",
+      "score": 0.9977514743804932,
+      "box": [
+        128,
+        431,
+        477,
+        459
+      ]
+    },
+    {
+      "text": "Construction Laborers, FirmLine Builders, 2012.12—2015.06",
+      "score": 0.9878762364387512,
+      "box": [
+        117,
+        472,
+        670,
+        497
+      ]
+    },
+    {
+      "text": "- Assisted with drywall installation",
+      "score": 0.9968684315681458,
+      "box": [
+        129,
+        499,
+        441,
+        523
+      ]
+    },
+    {
+      "text": "- Assisted with roofing material handling",
+      "score": 0.9793838858604431,
+      "box": [
+        128,
+        519,
+        498,
+        551
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999523162841797,
+      "box": [
+        118,
+        588,
+        266,
+        612
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Construction Engineering Technology, Westfield High School, 2007",
+      "score": 0.9957330226898193,
+      "box": [
+        118,
+        633,
+        997,
+        657
+      ]
+    },
+    {
+      "text": "• Completed coursework in basic structural demolition",
+      "score": 0.9766263365745544,
+      "box": [
+        132,
+        657,
+        631,
+        682
+      ]
+    }
+  ],
+  "seconds": 2.6574783003889024,
+  "id": "60574",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

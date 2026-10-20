@@ -1,0 +1,172 @@
+{
+  "lines": [
+    {
+      "text": "IVY RICHMOND",
+      "score": 0.9921440482139587,
+      "box": [
+        116,
+        91,
+        365,
+        121
+      ]
+    },
+    {
+      "text": "SC, USA | +1-334-516-7763 | ivy.richmond@example.com",
+      "score": 0.9736000895500183,
+      "box": [
+        116,
+        150,
+        658,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9971685409545898,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, SunSpring Nursing, 2020.03—2023.01",
+      "score": 0.9875882863998413,
+      "box": [
+        115,
+        287,
+        650,
+        320
+      ]
+    },
+    {
+      "text": "- Managed clinical compliance programs",
+      "score": 0.9846073985099792,
+      "box": [
+        125,
+        313,
+        504,
+        344
+      ]
+    },
+    {
+      "text": "- Developed interdisciplinary care strategies",
+      "score": 0.9826372861862183,
+      "box": [
+        127,
+        339,
+        534,
+        369
+      ]
+    },
+    {
+      "text": "Registered Nurses, Harmony Bridge Health, 2017.042020.03",
+      "score": 0.9882525205612183,
+      "box": [
+        117,
+        382,
+        693,
+        409
+      ]
+    },
+    {
+      "text": "- Managed isolation procedures",
+      "score": 0.9974201917648315,
+      "box": [
+        125,
+        407,
+        422,
+        433
+      ]
+    },
+    {
+      "text": "- Managed intravenous therapy",
+      "score": 0.9963480830192566,
+      "box": [
+        126,
+        430,
+        419,
+        461
+      ]
+    },
+    {
+      "text": "Registered Nurses, SunWay Nursing, 2011.062014.05",
+      "score": 0.9925166368484497,
+      "box": [
+        116,
+        471,
+        633,
+        499
+      ]
+    },
+    {
+      "text": "- Monitored patient pain levels",
+      "score": 0.9983958601951599,
+      "box": [
+        126,
+        496,
+        410,
+        527
+      ]
+    },
+    {
+      "text": "- Prepared treatment rooms",
+      "score": 0.9869292974472046,
+      "box": [
+        128,
+        520,
+        387,
+        551
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999480843544006,
+      "box": [
+        118,
+        588,
+        266,
+        612
+      ]
+    },
+    {
+      "text": "Associate's degree, Clinical Health, Clearview University, 2007",
+      "score": 0.9927568435668945,
+      "box": [
+        117,
+        632,
+        696,
+        659
+      ]
+    },
+    {
+      "text": "Completed coursework in nursing informatics basics",
+      "score": 0.9886891841888428,
+      "box": [
+        130,
+        657,
+        628,
+        684
+      ]
+    },
+    {
+      "text": "•Completed coursework in integumentary system care",
+      "score": 0.9833508133888245,
+      "box": [
+        132,
+        680,
+        640,
+        711
+      ]
+    }
+  ],
+  "seconds": 2.273117700126022,
+  "id": "47316",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

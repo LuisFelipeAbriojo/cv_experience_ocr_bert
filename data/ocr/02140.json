@@ -1,0 +1,142 @@
+{
+  "lines": [
+    {
+      "text": "DANZEL BLAKE",
+      "score": 0.9787111878395081,
+      "box": [
+        118,
+        91,
+        378,
+        122
+      ]
+    },
+    {
+      "text": "AR, USA | +1-292-616-1383 | danzel.blake@example.com",
+      "score": 0.9857722520828247,
+      "box": [
+        118,
+        152,
+        657,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.999749481678009,
+      "box": [
+        117,
+        243,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Software Developers, Flowframe Digital, 2020.02—2023.01",
+      "score": 0.9934908747673035,
+      "box": [
+        116,
+        289,
+        657,
+        316
+      ]
+    },
+    {
+      "text": "- Defined quality assurance frameworks",
+      "score": 0.983282208442688,
+      "box": [
+        127,
+        314,
+        496,
+        342
+      ]
+    },
+    {
+      "text": "- Led performance tuning initiatives",
+      "score": 0.993488073348999,
+      "box": [
+        129,
+        341,
+        454,
+        367
+      ]
+    },
+    {
+      "text": "Software Developers, Openwave Solutions, 2017.032020.02",
+      "score": 0.9789376854896545,
+      "box": [
+        115,
+        379,
+        690,
+        410
+      ]
+    },
+    {
+      "text": "- Maintained code repositories",
+      "score": 0.9983111023902893,
+      "box": [
+        126,
+        407,
+        410,
+        432
+      ]
+    },
+    {
+      "text": "- Assisted with version control operations",
+      "score": 0.9858675599098206,
+      "box": [
+        128,
+        431,
+        508,
+        457
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999310374259949,
+      "box": [
+        116,
+        494,
+        267,
+        521
+      ]
+    },
+    {
+      "text": "Bachelor's, Westfield University, 2019",
+      "score": 0.9973066449165344,
+      "box": [
+        115,
+        539,
+        469,
+        567
+      ]
+    },
+    {
+      "text": "•Studied fundamentals of data analysis",
+      "score": 0.9799615740776062,
+      "box": [
+        130,
+        567,
+        501,
+        591
+      ]
+    },
+    {
+      "text": "• Studied principles of event-driven architecture",
+      "score": 0.9665362238883972,
+      "box": [
+        132,
+        592,
+        572,
+        616
+      ]
+    }
+  ],
+  "seconds": 2.429209899622947,
+  "id": "02140",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

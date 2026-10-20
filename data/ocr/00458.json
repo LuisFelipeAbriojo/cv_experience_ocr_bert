@@ -1,0 +1,102 @@
+{
+  "lines": [
+    {
+      "text": "KADEN HUDSON",
+      "score": 0.9768688082695007,
+      "box": [
+        117,
+        91,
+        390,
+        122
+      ]
+    },
+    {
+      "text": "AL, USA | +1-652-726-2444 | kaden.hudson@example.com",
+      "score": 0.9963580369949341,
+      "box": [
+        117,
+        150,
+        669,
+        177
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9997305870056152,
+      "box": [
+        117,
+        243,
+        317,
+        270
+      ]
+    },
+    {
+      "text": "Construction Laborers, NextGen Builders, 2022.06—2023.01",
+      "score": 0.9816773533821106,
+      "box": [
+        116,
+        287,
+        671,
+        315
+      ]
+    },
+    {
+      "text": "- Maintained tool storage areas",
+      "score": 0.9989532232284546,
+      "box": [
+        126,
+        314,
+        418,
+        341
+      ]
+    },
+    {
+      "text": "- Performed basic plumbing assistance",
+      "score": 0.9835814237594604,
+      "box": [
+        127,
+        338,
+        489,
+        367
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999943196773529,
+      "box": [
+        116,
+        404,
+        268,
+        431
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Construction Technology, Riverside High School, 2023",
+      "score": 0.998059093952179,
+      "box": [
+        116,
+        447,
+        882,
+        474
+      ]
+    },
+    {
+      "text": "•Studied fundamentals of concrete mixing",
+      "score": 0.9776193499565125,
+      "box": [
+        129,
+        472,
+        525,
+        500
+      ]
+    }
+  ],
+  "seconds": 1.8847468001767993,
+  "id": "00458",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

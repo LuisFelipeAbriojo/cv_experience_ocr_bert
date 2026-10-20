@@ -1,0 +1,172 @@
+{
+  "lines": [
+    {
+      "text": "RAQUELLE CHASE",
+      "score": 0.9992870092391968,
+      "box": [
+        118,
+        91,
+        427,
+        121
+      ]
+    },
+    {
+      "text": "NY, USA | +1-465-781-8973 | raquelle.chase@example.com",
+      "score": 0.9713406562805176,
+      "box": [
+        117,
+        152,
+        675,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9985945820808411,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, SolidBooks Services, 2021.01—2023.01",
+      "score": 0.9923356175422668,
+      "box": [
+        117,
+        290,
+        688,
+        314
+      ]
+    },
+    {
+      "text": "- Designed budgeting methodologies",
+      "score": 0.996694803237915,
+      "box": [
+        125,
+        314,
+        469,
+        343
+      ]
+    },
+    {
+      "text": "- Developed financial risk models",
+      "score": 0.9970690608024597,
+      "box": [
+        127,
+        339,
+        437,
+        367
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Accurate Balance Group, 2018.12—2021.01",
+      "score": 0.984074592590332,
+      "box": [
+        117,
+        382,
+        726,
+        409
+      ]
+    },
+    {
+      "text": "- Reviewed payroll reconciliations",
+      "score": 0.9848948121070862,
+      "box": [
+        125,
+        409,
+        438,
+        433
+      ]
+    },
+    {
+      "text": "- Conducted compliance reviews",
+      "score": 0.9997376203536987,
+      "box": [
+        129,
+        434,
+        431,
+        457
+      ]
+    },
+    {
+      "text": "Accountants Auditors, ClearBooks Group, 2016.112018.12",
+      "score": 0.9997971057891846,
+      "box": [
+        117,
+        472,
+        673,
+        499
+      ]
+    },
+    {
+      "text": "- Prepared supporting schedules",
+      "score": 0.9908866286277771,
+      "box": [
+        126,
+        498,
+        433,
+        525
+      ]
+    },
+    {
+      "text": "- Recorded cash receipts",
+      "score": 0.9800631403923035,
+      "box": [
+        127,
+        520,
+        363,
+        551
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999053478240967,
+      "box": [
+        117,
+        587,
+        267,
+        614
+      ]
+    },
+    {
+      "text": "Bachelor's, Financial Services, Woodview University, 2014",
+      "score": 0.9973927736282349,
+      "box": [
+        118,
+        633,
+        658,
+        657
+      ]
+    },
+    {
+      "text": "•Studied principles of business strategy",
+      "score": 0.9832245707511902,
+      "box": [
+        129,
+        657,
+        505,
+        685
+      ]
+    },
+    {
+      "text": "•Completed coursework in general ledger accounting",
+      "score": 0.9897741675376892,
+      "box": [
+        131,
+        681,
+        629,
+        710
+      ]
+    }
+  ],
+  "seconds": 2.4996797000057995,
+  "id": "38260",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

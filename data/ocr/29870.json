@@ -1,0 +1,102 @@
+{
+  "lines": [
+    {
+      "text": "RANDY LAM",
+      "score": 0.9829787015914917,
+      "box": [
+        116,
+        89,
+        320,
+        123
+      ]
+    },
+    {
+      "text": "MS, USA | +1-472-924-8039 | randy.lam@example.com",
+      "score": 0.9881189465522766,
+      "box": [
+        115,
+        149,
+        635,
+        177
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9993225932121277,
+      "box": [
+        116,
+        243,
+        317,
+        270
+      ]
+    },
+    {
+      "text": "Construction Laborers, IronBuild Contractors, 2021.11—2023.01",
+      "score": 0.9906427264213562,
+      "box": [
+        118,
+        289,
+        703,
+        313
+      ]
+    },
+    {
+      "text": "- Marked measurements on materials",
+      "score": 0.9965075254440308,
+      "box": [
+        126,
+        314,
+        475,
+        339
+      ]
+    },
+    {
+      "text": "- Followed blueprint instructions",
+      "score": 0.9973572492599487,
+      "box": [
+        128,
+        337,
+        425,
+        367
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999597072601318,
+      "box": [
+        116,
+        404,
+        268,
+        431
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Construction Engineering Technology, Woodcrest High School, 2022",
+      "score": 0.9993923902511597,
+      "box": [
+        116,
+        447,
+        1011,
+        474
+      ]
+    },
+    {
+      "text": "• Studied fundamentals of construction inspection",
+      "score": 0.9771801829338074,
+      "box": [
+        129,
+        473,
+        592,
+        499
+      ]
+    }
+  ],
+  "seconds": 2.185327500104904,
+  "id": "29870",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

@@ -1,0 +1,182 @@
+{
+  "lines": [
+    {
+      "text": "JAZMIN OSBORNE",
+      "score": 0.9995807409286499,
+      "box": [
+        115,
+        89,
+        420,
+        122
+      ]
+    },
+    {
+      "text": "MI, USA | +1-407-538-1559 | jazmin.osborne@example.com",
+      "score": 0.9930242896080017,
+      "box": [
+        115,
+        150,
+        676,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9991436004638672,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Kind Path School, 2020.01—2023.01",
+      "score": 0.9777570366859436,
+      "box": [
+        116,
+        288,
+        798,
+        317
+      ]
+    },
+    {
+      "text": "- Designed instructional quality standards",
+      "score": 0.988050639629364,
+      "box": [
+        125,
+        314,
+        511,
+        342
+      ]
+    },
+    {
+      "text": "- Developed instructional evaluation metrics",
+      "score": 0.9900363683700562,
+      "box": [
+        127,
+        339,
+        534,
+        367
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Future Horizons Academy, 2017.012020.01",
+      "score": 0.9919463396072388,
+      "box": [
+        116,
+        381,
+        879,
+        411
+      ]
+    },
+    {
+      "text": "- Organized academic interventions",
+      "score": 0.993273913860321,
+      "box": [
+        127,
+        409,
+        457,
+        433
+      ]
+    },
+    {
+      "text": "- Supervised student projects",
+      "score": 0.9679343104362488,
+      "box": [
+        127,
+        432,
+        400,
+        458
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Growing Path School, 2013.12—2017.01",
+      "score": 0.9842727184295654,
+      "box": [
+        116,
+        471,
+        833,
+        499
+      ]
+    },
+    {
+      "text": "- Scheduled instructional activities",
+      "score": 0.9909948706626892,
+      "box": [
+        126,
+        497,
+        445,
+        524
+      ]
+    },
+    {
+      "text": "- Prepared daily lesson plans aligned with curriculum guidelines",
+      "score": 0.979101836681366,
+      "box": [
+        127,
+        520,
+        717,
+        551
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9998878836631775,
+      "box": [
+        117,
+        587,
+        267,
+        614
+      ]
+    },
+    {
+      "text": "Master's, Academic Foundations, Edgewood University, 2016",
+      "score": 0.989288330078125,
+      "box": [
+        117,
+        632,
+        687,
+        659
+      ]
+    },
+    {
+      "text": "Bachelor's, Learning Support Studies, Woodland University, 2014",
+      "score": 0.9925582408905029,
+      "box": [
+        115,
+        655,
+        723,
+        686
+      ]
+    },
+    {
+      "text": "•Studied foundational learning strategies",
+      "score": 0.9947881698608398,
+      "box": [
+        131,
+        682,
+        517,
+        710
+      ]
+    },
+    {
+      "text": "Completed coursework in academic monitoring strategies",
+      "score": 0.996050238609314,
+      "box": [
+        131,
+        705,
+        678,
+        738
+      ]
+    }
+  ],
+  "seconds": 2.875117499846965,
+  "id": "27275",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

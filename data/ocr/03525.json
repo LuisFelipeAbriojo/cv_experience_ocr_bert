@@ -1,0 +1,142 @@
+{
+  "lines": [
+    {
+      "text": "KATIE WATERS",
+      "score": 0.999614417552948,
+      "box": [
+        117,
+        91,
+        372,
+        121
+      ]
+    },
+    {
+      "text": "CA, USA | +1-231-757-3500 | katie.waters@example.com",
+      "score": 0.9832223653793335,
+      "box": [
+        118,
+        152,
+        651,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.999754011631012,
+      "box": [
+        117,
+        243,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Accountants Auditors, OpenLedger Financial, 2021.07—2023.01",
+      "score": 0.9791605472564697,
+      "box": [
+        115,
+        288,
+        706,
+        318
+      ]
+    },
+    {
+      "text": "- Designed accounting frameworks",
+      "score": 0.9832353591918945,
+      "box": [
+        125,
+        314,
+        451,
+        342
+      ]
+    },
+    {
+      "text": "- Directed strategic accounting initiatives",
+      "score": 0.98148113489151,
+      "box": [
+        127,
+        339,
+        503,
+        368
+      ]
+    },
+    {
+      "text": "Accountants Auditors, CoreCount Advisors, 2019.12—2021.07",
+      "score": 0.980847954750061,
+      "box": [
+        118,
+        382,
+        687,
+        406
+      ]
+    },
+    {
+      "text": "- Filed financial documents",
+      "score": 0.9945663213729858,
+      "box": [
+        125,
+        406,
+        379,
+        432
+      ]
+    },
+    {
+      "text": "- Reviewed timesheets for payroll",
+      "score": 0.9963219165802002,
+      "box": [
+        125,
+        430,
+        439,
+        457
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9998982548713684,
+      "box": [
+        117,
+        494,
+        267,
+        521
+      ]
+    },
+    {
+      "text": "Bachelor's, Quantitative Finance, Shady Grove University, 2023",
+      "score": 0.9862446188926697,
+      "box": [
+        115,
+        539,
+        705,
+        567
+      ]
+    },
+    {
+      "text": "•Studied principles of financial ratio analysis",
+      "score": 0.9854131937026978,
+      "box": [
+        129,
+        566,
+        547,
+        591
+      ]
+    },
+    {
+      "text": "•Studied fundamentals of operations management",
+      "score": 0.9681782126426697,
+      "box": [
+        130,
+        590,
+        606,
+        618
+      ]
+    }
+  ],
+  "seconds": 2.4642998999916017,
+  "id": "03525",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

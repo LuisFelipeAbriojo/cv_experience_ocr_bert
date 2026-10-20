@@ -1,0 +1,212 @@
+{
+  "lines": [
+    {
+      "text": "JEANNETTE REYNOLDS",
+      "score": 0.9926073551177979,
+      "box": [
+        116,
+        92,
+        509,
+        122
+      ]
+    },
+    {
+      "text": "CA, USA | +1-668-457-8750 | jeannette.reynolds@example.com",
+      "score": 0.992962658405304,
+      "box": [
+        116,
+        150,
+        711,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9990910887718201,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, AccuCount Financial Group, 2019.12—2023.01",
+      "score": 0.9960321187973022,
+      "box": [
+        115,
+        287,
+        754,
+        318
+      ]
+    },
+    {
+      "text": "- Directed financial system architecture",
+      "score": 0.9816139936447144,
+      "box": [
+        126,
+        314,
+        490,
+        342
+      ]
+    },
+    {
+      "text": "- Designed financial modeling standards",
+      "score": 0.9976609945297241,
+      "box": [
+        126,
+        338,
+        502,
+        369
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Balanced Books Financial, 2016.112019.12",
+      "score": 0.9989235997200012,
+      "box": [
+        118,
+        383,
+        741,
+        407
+      ]
+    },
+    {
+      "text": "- Designed financial documentation standards",
+      "score": 0.979569673538208,
+      "box": [
+        127,
+        409,
+        552,
+        433
+      ]
+    },
+    {
+      "text": "- Established cost management systems",
+      "score": 0.9818885326385498,
+      "box": [
+        126,
+        430,
+        505,
+        460
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Integrity Accounts, 2012.072015.08",
+      "score": 0.997665286064148,
+      "box": [
+        116,
+        471,
+        666,
+        499
+      ]
+    },
+    {
+      "text": "- Reviewed internal controls",
+      "score": 0.977264940738678,
+      "box": [
+        127,
+        499,
+        388,
+        523
+      ]
+    },
+    {
+      "text": "- Prepared financial projections",
+      "score": 0.9993263483047485,
+      "box": [
+        128,
+        521,
+        418,
+        551
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Integrity Books Co., 2007.122011.02",
+      "score": 0.9949662685394287,
+      "box": [
+        117,
+        567,
+        677,
+        591
+      ]
+    },
+    {
+      "text": "- Assisted with monthly close procedures",
+      "score": 0.998637855052948,
+      "box": [
+        125,
+        590,
+        509,
+        618
+      ]
+    },
+    {
+      "text": "- Recorded cash receipts",
+      "score": 0.9992051124572754,
+      "box": [
+        125,
+        614,
+        363,
+        643
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999907910823822,
+      "box": [
+        117,
+        681,
+        266,
+        705
+      ]
+    },
+    {
+      "text": "Master's, Financial Planning, Crestline University, 2006",
+      "score": 0.994956374168396,
+      "box": [
+        115,
+        723,
+        628,
+        750
+      ]
+    },
+    {
+      "text": "Bachelor's, Cost Accounting, Silverfield University, 2004",
+      "score": 0.9982467889785767,
+      "box": [
+        115,
+        746,
+        637,
+        777
+      ]
+    },
+    {
+      "text": "•Completed coursework in expense cycle management",
+      "score": 0.982720673084259,
+      "box": [
+        129,
+        773,
+        650,
+        802
+      ]
+    },
+    {
+      "text": "•Studied fundamentals of revenue cycle management",
+      "score": 0.9822971820831299,
+      "box": [
+        130,
+        798,
+        637,
+        826
+      ]
+    }
+  ],
+  "seconds": 2.9452408999204636,
+  "id": "02618",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

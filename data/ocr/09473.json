@@ -1,0 +1,112 @@
+{
+  "lines": [
+    {
+      "text": "TYLER DECKER",
+      "score": 0.9997682571411133,
+      "box": [
+        115,
+        87,
+        379,
+        123
+      ]
+    },
+    {
+      "text": "CO, USA | +1-378-813-8707 | tyler.decker@example.com",
+      "score": 0.9914137721061707,
+      "box": [
+        117,
+        150,
+        651,
+        177
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9997374415397644,
+      "box": [
+        117,
+        243,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Construction Laborers, SolidWay Construction, 2022.02—2023.01",
+      "score": 0.9921686053276062,
+      "box": [
+        116,
+        287,
+        719,
+        315
+      ]
+    },
+    {
+      "text": "- Applied basic sealants and adhesives",
+      "score": 0.9966793060302734,
+      "box": [
+        126,
+        316,
+        490,
+        340
+      ]
+    },
+    {
+      "text": "- Secured site fencing",
+      "score": 0.964896023273468,
+      "box": [
+        126,
+        337,
+        333,
+        368
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999349117279053,
+      "box": [
+        116,
+        404,
+        268,
+        431
+      ]
+    },
+    {
+      "text": "Some college (no degree), Plumbing Technology, Brightwater University, 2023",
+      "score": 0.9899014234542847,
+      "box": [
+        115,
+        445,
+        843,
+        476
+      ]
+    },
+    {
+      "text": "Completed coursework in construction safety documentation",
+      "score": 0.989973247051239,
+      "box": [
+        131,
+        472,
+        706,
+        500
+      ]
+    },
+    {
+      "text": "Studied fundamentals of site preparation planning",
+      "score": 0.9956203103065491,
+      "box": [
+        131,
+        495,
+        609,
+        527
+      ]
+    }
+  ],
+  "seconds": 1.9852463998831809,
+  "id": "09473",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

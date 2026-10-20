@@ -1,0 +1,112 @@
+{
+  "lines": [
+    {
+      "text": "JOCELYN PARK",
+      "score": 0.9999232292175293,
+      "box": [
+        115,
+        89,
+        379,
+        123
+      ]
+    },
+    {
+      "text": "NY, USA | +1-753-632-7099 | jocelyn.park@example.com",
+      "score": 0.9937927722930908,
+      "box": [
+        115,
+        149,
+        652,
+        177
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9997344017028809,
+      "box": [
+        117,
+        243,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Accountants Auditors, FairCount Advisors, 2021.06—2023.01",
+      "score": 0.9900665879249573,
+      "box": [
+        115,
+        287,
+        676,
+        315
+      ]
+    },
+    {
+      "text": "- Compiled financial schedules",
+      "score": 0.9970075488090515,
+      "box": [
+        126,
+        315,
+        413,
+        340
+      ]
+    },
+    {
+      "text": "- Verified transaction accuracy",
+      "score": 0.9893344640731812,
+      "box": [
+        126,
+        337,
+        411,
+        368
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999277591705322,
+      "box": [
+        116,
+        404,
+        268,
+        431
+      ]
+    },
+    {
+      "text": "Bachelor's, International Business, Willow Ridge University, 2021",
+      "score": 0.9944432377815247,
+      "box": [
+        115,
+        446,
+        716,
+        474
+      ]
+    },
+    {
+      "text": "Completed coursework in regulatory reporting",
+      "score": 0.9980558753013611,
+      "box": [
+        131,
+        472,
+        572,
+        501
+      ]
+    },
+    {
+      "text": "Completed coursework in audit planning techniques",
+      "score": 0.9984069466590881,
+      "box": [
+        132,
+        497,
+        627,
+        526
+      ]
+    }
+  ],
+  "seconds": 1.9295748998411,
+  "id": "36206",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

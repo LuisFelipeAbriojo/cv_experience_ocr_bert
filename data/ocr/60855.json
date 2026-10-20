@@ -1,0 +1,142 @@
+{
+  "lines": [
+    {
+      "text": "DEYSI BALLARD",
+      "score": 0.987528920173645,
+      "box": [
+        118,
+        91,
+        388,
+        121
+      ]
+    },
+    {
+      "text": "WI, USA | +1-573-281-1869 | deysi.ballard@example.com",
+      "score": 0.9902673959732056,
+      "box": [
+        116,
+        149,
+        655,
+        177
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9997720718383789,
+      "box": [
+        117,
+        243,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Registered Nurses, WellBridge Health Group, 2019.08—2022.07",
+      "score": 0.9909559488296509,
+      "box": [
+        116,
+        288,
+        707,
+        316
+      ]
+    },
+    {
+      "text": "- Directed nursing process improvements",
+      "score": 0.9980257749557495,
+      "box": [
+        125,
+        313,
+        510,
+        343
+      ]
+    },
+    {
+      "text": "- Developed patient safety programs",
+      "score": 0.9884266257286072,
+      "box": [
+        126,
+        339,
+        466,
+        368
+      ]
+    },
+    {
+      "text": "Registered Nurses, SafeWay Health Group, 2015.102018.10",
+      "score": 0.9868910908699036,
+      "box": [
+        116,
+        380,
+        691,
+        408
+      ]
+    },
+    {
+      "text": "- Administered injections under supervision",
+      "score": 0.991819441318512,
+      "box": [
+        125,
+        407,
+        527,
+        433
+      ]
+    },
+    {
+      "text": "- Assisted with patient transfers",
+      "score": 0.9882100224494934,
+      "box": [
+        128,
+        431,
+        420,
+        457
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999310374259949,
+      "box": [
+        117,
+        494,
+        267,
+        521
+      ]
+    },
+    {
+      "text": "Bachelor's, Health Management, Riverdale University, 2013",
+      "score": 0.9959673285484314,
+      "box": [
+        116,
+        540,
+        669,
+        567
+      ]
+    },
+    {
+      "text": "Studied fundamentals of pediatric nursing",
+      "score": 0.9951435327529907,
+      "box": [
+        129,
+        564,
+        533,
+        594
+      ]
+    },
+    {
+      "text": "• Completed coursework in cardiovascular nursing basics",
+      "score": 0.9866992831230164,
+      "box": [
+        133,
+        592,
+        662,
+        616
+      ]
+    }
+  ],
+  "seconds": 2.4959153002128005,
+  "id": "60855",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

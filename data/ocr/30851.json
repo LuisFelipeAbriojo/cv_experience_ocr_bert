@@ -1,0 +1,102 @@
+{
+  "lines": [
+    {
+      "text": "GRAYSON VARGAS",
+      "score": 0.9973238706588745,
+      "box": [
+        117,
+        89,
+        440,
+        123
+      ]
+    },
+    {
+      "text": "MO, USA | +1-451-964-2930 | grayson.vargas@example.com",
+      "score": 0.9813840389251709,
+      "box": [
+        116,
+        149,
+        687,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9993225932121277,
+      "box": [
+        116,
+        243,
+        317,
+        270
+      ]
+    },
+    {
+      "text": "Construction Laborers, SolidRise Construction, 2020.04—2023.01",
+      "score": 0.9896249175071716,
+      "box": [
+        116,
+        287,
+        719,
+        315
+      ]
+    },
+    {
+      "text": "- Set up workstations for crews",
+      "score": 0.9954286813735962,
+      "box": [
+        125,
+        314,
+        416,
+        340
+      ]
+    },
+    {
+      "text": "- Secured materials with fasteners",
+      "score": 0.9994301795959473,
+      "box": [
+        126,
+        339,
+        446,
+        364
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999597072601318,
+      "box": [
+        116,
+        404,
+        268,
+        431
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Construction Materials, Brookhaven High School, 2019",
+      "score": 0.9973557591438293,
+      "box": [
+        116,
+        446,
+        884,
+        475
+      ]
+    },
+    {
+      "text": "• Completed coursework in basic roofing installation",
+      "score": 0.9792620539665222,
+      "box": [
+        133,
+        474,
+        613,
+        498
+      ]
+    }
+  ],
+  "seconds": 2.093229899648577,
+  "id": "30851",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

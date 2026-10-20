@@ -1,0 +1,202 @@
+{
+  "lines": [
+    {
+      "text": "ERIN KRUEGER",
+      "score": 0.9952014088630676,
+      "box": [
+        118,
+        92,
+        374,
+        122
+      ]
+    },
+    {
+      "text": "MI, USA | +1-675-475-7974 | erin.krueger@example.com",
+      "score": 0.98954176902771,
+      "box": [
+        115,
+        150,
+        646,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9993880391120911,
+      "box": [
+        116,
+        242,
+        316,
+        271
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Bright Start Academy, 2018.072023.01",
+      "score": 0.9957393407821655,
+      "box": [
+        116,
+        289,
+        835,
+        319
+      ]
+    },
+    {
+      "text": "- Directed program effectiveness studies",
+      "score": 0.9965038299560547,
+      "box": [
+        125,
+        314,
+        503,
+        343
+      ]
+    },
+    {
+      "text": "- Implemented data analysis frameworks",
+      "score": 0.9916337728500366,
+      "box": [
+        126,
+        339,
+        504,
+        367
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Bright Horizons School, 2014.012018.07",
+      "score": 0.9914184808731079,
+      "box": [
+        116,
+        381,
+        852,
+        411
+      ]
+    },
+    {
+      "text": "- Directed instructional planning processes",
+      "score": 0.9810354709625244,
+      "box": [
+        126,
+        408,
+        522,
+        434
+      ]
+    },
+    {
+      "text": "- Designed instructional accountability systems",
+      "score": 0.9976792931556702,
+      "box": [
+        126,
+        432,
+        563,
+        459
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Future Steps Academy, 2008.08—2013.02",
+      "score": 0.996403157711029,
+      "box": [
+        116,
+        471,
+        851,
+        500
+      ]
+    },
+    {
+      "text": "- Administered standardized assessments",
+      "score": 0.9976565837860107,
+      "box": [
+        126,
+        498,
+        517,
+        523
+      ]
+    },
+    {
+      "text": "- Analyzed student performance data",
+      "score": 0.9799659848213196,
+      "box": [
+        127,
+        521,
+        472,
+        550
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Future Star Academy, 2002.12—2007.06",
+      "score": 0.9835752248764038,
+      "box": [
+        117,
+        565,
+        835,
+        592
+      ]
+    },
+    {
+      "text": "- Prepared instructional materials and worksheets",
+      "score": 0.9828104376792908,
+      "box": [
+        127,
+        592,
+        588,
+        615
+      ]
+    },
+    {
+      "text": "- Monitored independent work sessions",
+      "score": 0.9933960437774658,
+      "box": [
+        127,
+        614,
+        494,
+        643
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999229907989502,
+      "box": [
+        117,
+        681,
+        266,
+        705
+      ]
+    },
+    {
+      "text": "Bachelor's, Educational Foundations, Goldenfield University, 2002",
+      "score": 0.9965968132019043,
+      "box": [
+        116,
+        724,
+        728,
+        750
+      ]
+    },
+    {
+      "text": "• Completed coursework in lesson delivery techniques",
+      "score": 0.9864701628684998,
+      "box": [
+        134,
+        751,
+        635,
+        775
+      ]
+    },
+    {
+      "text": "• Completed coursework in classroom assessment techniques",
+      "score": 0.9866272807121277,
+      "box": [
+        132,
+        772,
+        708,
+        802
+      ]
+    }
+  ],
+  "seconds": 2.928075599949807,
+  "id": "27597",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

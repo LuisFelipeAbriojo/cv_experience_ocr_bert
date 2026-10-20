@@ -1,0 +1,132 @@
+{
+  "lines": [
+    {
+      "text": "ROBERT CURTIS",
+      "score": 0.9628109335899353,
+      "box": [
+        117,
+        91,
+        392,
+        122
+      ]
+    },
+    {
+      "text": "PA, USA | +1-234-290-5262 | robert.curtis@example.com",
+      "score": 0.9791475534439087,
+      "box": [
+        117,
+        152,
+        648,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9997482895851135,
+      "box": [
+        117,
+        243,
+        316,
+        270
+      ]
+    },
+    {
+      "text": "Construction Laborers, SolidRise Contractors, 2020.12—2023.01",
+      "score": 0.9823867678642273,
+      "box": [
+        118,
+        290,
+        708,
+        314
+      ]
+    },
+    {
+      "text": "- Supervised foundation installations",
+      "score": 0.9994487166404724,
+      "box": [
+        125,
+        314,
+        466,
+        342
+      ]
+    },
+    {
+      "text": "- Led operational planning",
+      "score": 0.9788761734962463,
+      "box": [
+        127,
+        339,
+        371,
+        369
+      ]
+    },
+    {
+      "text": "Construction Laborers, SolidCore Contractors, 2016.112018.12",
+      "score": 0.9910236597061157,
+      "box": [
+        116,
+        380,
+        716,
+        408
+      ]
+    },
+    {
+      "text": "- Followed safety procedures on site",
+      "score": 0.9821627736091614,
+      "box": [
+        125,
+        407,
+        465,
+        432
+      ]
+    },
+    {
+      "text": "- Stacked and organized construction supplies",
+      "score": 0.9815154075622559,
+      "box": [
+        128,
+        432,
+        557,
+        458
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.99991774559021,
+      "box": [
+        117,
+        494,
+        267,
+        521
+      ]
+    },
+    {
+      "text": "High school graduate/GED, Building Maintenance, Sunnyside High School, 1999",
+      "score": 0.9992362260818481,
+      "box": [
+        117,
+        540,
+        861,
+        567
+      ]
+    },
+    {
+      "text": "• Completed coursework in blueprint reading",
+      "score": 0.9840618371963501,
+      "box": [
+        132,
+        565,
+        546,
+        594
+      ]
+    }
+  ],
+  "seconds": 2.3234117003157735,
+  "id": "45490",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

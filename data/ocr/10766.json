@@ -1,0 +1,202 @@
+{
+  "lines": [
+    {
+      "text": "ABRAHAM WEBER",
+      "score": 0.9981021285057068,
+      "box": [
+        117,
+        89,
+        425,
+        122
+      ]
+    },
+    {
+      "text": "CO, USA | +1-309-532-3868 | abraham.weber@example.com",
+      "score": 0.9853518009185791,
+      "box": [
+        116,
+        150,
+        688,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9981632828712463,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Software Developers, Skybridge Software, 2019.112023.01",
+      "score": 0.9911990165710449,
+      "box": [
+        117,
+        290,
+        676,
+        317
+      ]
+    },
+    {
+      "text": "- Defined data governance policies",
+      "score": 0.9944801330566406,
+      "box": [
+        127,
+        314,
+        452,
+        343
+      ]
+    },
+    {
+      "text": "- Implemented long-term maintenance plans",
+      "score": 0.986445426940918,
+      "box": [
+        128,
+        340,
+        538,
+        368
+      ]
+    },
+    {
+      "text": "Software Developers, Softpeak Technologies, 2016.09—2019.11",
+      "score": 0.9895829558372498,
+      "box": [
+        116,
+        382,
+        709,
+        409
+      ]
+    },
+    {
+      "text": "- Implemented disaster recovery plans",
+      "score": 0.9997995495796204,
+      "box": [
+        125,
+        407,
+        484,
+        435
+      ]
+    },
+    {
+      "text": "- Designed software development workflows",
+      "score": 0.9960013628005981,
+      "box": [
+        128,
+        432,
+        536,
+        458
+      ]
+    },
+    {
+      "text": "Software Developers, Brightgrid Software, 2013.072016.09",
+      "score": 0.9927952885627747,
+      "box": [
+        117,
+        472,
+        675,
+        499
+      ]
+    },
+    {
+      "text": "- Handled load testing",
+      "score": 0.9763575196266174,
+      "box": [
+        125,
+        495,
+        334,
+        526
+      ]
+    },
+    {
+      "text": "- Refactored legacy code",
+      "score": 0.9951369166374207,
+      "box": [
+        126,
+        521,
+        362,
+        551
+      ]
+    },
+    {
+      "text": "Software Developers, Clearline Systems, 2010.042013.07",
+      "score": 0.9956780672073364,
+      "box": [
+        117,
+        566,
+        664,
+        590
+      ]
+    },
+    {
+      "text": "- Maintained code repositories",
+      "score": 0.9887239933013916,
+      "box": [
+        129,
+        592,
+        409,
+        616
+      ]
+    },
+    {
+      "text": "- Resolved merge conflicts",
+      "score": 0.9935654401779175,
+      "box": [
+        127,
+        614,
+        376,
+        643
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999099373817444,
+      "box": [
+        117,
+        681,
+        266,
+        705
+      ]
+    },
+    {
+      "text": "Some college (no degree), Willowcrest University, 2008",
+      "score": 0.9795259833335876,
+      "box": [
+        118,
+        726,
+        629,
+        749
+      ]
+    },
+    {
+      "text": "• Completed coursework in logging and monitoring",
+      "score": 0.9875913262367249,
+      "box": [
+        132,
+        748,
+        602,
+        777
+      ]
+    },
+    {
+      "text": "Completed coursework in programming in Python",
+      "score": 0.9810739159584045,
+      "box": [
+        131,
+        771,
+        607,
+        802
+      ]
+    }
+  ],
+  "seconds": 2.947361099999398,
+  "id": "10766",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

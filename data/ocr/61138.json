@@ -1,0 +1,212 @@
+{
+  "lines": [
+    {
+      "text": "JESSICA ERICKSON",
+      "score": 0.9747973084449768,
+      "box": [
+        115,
+        89,
+        447,
+        122
+      ]
+    },
+    {
+      "text": "WI, USA | +1-881-444-2860 | jessica.erickson@example.com",
+      "score": 0.9874692559242249,
+      "box": [
+        116,
+        150,
+        685,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9991771578788757,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, CoreBalance Financial Group, 2018.07-2023.01",
+      "score": 0.9847440123558044,
+      "box": [
+        115,
+        288,
+        773,
+        317
+      ]
+    },
+    {
+      "text": "- Directed financial system architecture",
+      "score": 0.9817523956298828,
+      "box": [
+        126,
+        315,
+        489,
+        341
+      ]
+    },
+    {
+      "text": "- Directed accounting operations planning",
+      "score": 0.9871666431427002,
+      "box": [
+        127,
+        340,
+        514,
+        369
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Reliable Accounts Group, 2014.012018.07",
+      "score": 0.9981298446655273,
+      "box": [
+        117,
+        382,
+        731,
+        408
+      ]
+    },
+    {
+      "text": "- Directed strategic accounting initiatives",
+      "score": 0.9947827458381653,
+      "box": [
+        126,
+        408,
+        502,
+        433
+      ]
+    },
+    {
+      "text": "- Developed regulatory reporting strategies",
+      "score": 0.9768512845039368,
+      "box": [
+        127,
+        431,
+        525,
+        460
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Balanced Books Advisors, 2009.072014.01",
+      "score": 0.9925240874290466,
+      "box": [
+        117,
+        474,
+        735,
+        497
+      ]
+    },
+    {
+      "text": "- Managed accounting system updates",
+      "score": 0.9762966632843018,
+      "box": [
+        125,
+        497,
+        489,
+        526
+      ]
+    },
+    {
+      "text": "- Performed revenue recognition analysis",
+      "score": 0.9753554463386536,
+      "box": [
+        127,
+        521,
+        509,
+        550
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Reliable Path Services, 2005.01—2009.07",
+      "score": 0.9835889935493469,
+      "box": [
+        117,
+        566,
+        710,
+        590
+      ]
+    },
+    {
+      "text": "- Verified financial transactions",
+      "score": 0.9841578006744385,
+      "box": [
+        126,
+        590,
+        414,
+        615
+      ]
+    },
+    {
+      "text": "- Prepared aging reports",
+      "score": 0.9886074066162109,
+      "box": [
+        126,
+        612,
+        358,
+        645
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999938428401947,
+      "box": [
+        117,
+        681,
+        266,
+        705
+      ]
+    },
+    {
+      "text": "Master's, Financial Services, Evergreen University, 2007",
+      "score": 0.9980387687683105,
+      "box": [
+        115,
+        723,
+        640,
+        750
+      ]
+    },
+    {
+      "text": "Bachelor's, Economics, Clearhaven University, 2005",
+      "score": 0.9814163446426392,
+      "box": [
+        117,
+        750,
+        603,
+        774
+      ]
+    },
+    {
+      "text": "• Completed coursework in financial accounting",
+      "score": 0.9868663549423218,
+      "box": [
+        131,
+        776,
+        573,
+        800
+      ]
+    },
+    {
+      "text": "Studied principles of financial statement preparation",
+      "score": 0.9858537316322327,
+      "box": [
+        131,
+        799,
+        626,
+        826
+      ]
+    }
+  ],
+  "seconds": 3.017494000028819,
+  "id": "61138",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

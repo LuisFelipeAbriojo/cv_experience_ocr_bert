@@ -1,0 +1,202 @@
+{
+  "lines": [
+    {
+      "text": "MICHELLE SCHMITT",
+      "score": 0.9833563566207886,
+      "box": [
+        118,
+        92,
+        446,
+        122
+      ]
+    },
+    {
+      "text": "FL, USA | +1-273-369-4903 | michelle.schmitt@example.com",
+      "score": 0.986152708530426,
+      "box": [
+        116,
+        150,
+        685,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9996123909950256,
+      "box": [
+        116,
+        242,
+        316,
+        271
+      ]
+    },
+    {
+      "text": "Accountants Auditors, TrustCount Advisors, 2018.10—2023.01",
+      "score": 0.9835732579231262,
+      "box": [
+        117,
+        290,
+        687,
+        314
+      ]
+    },
+    {
+      "text": "- Designed audit methodologies",
+      "score": 0.9732672572135925,
+      "box": [
+        127,
+        316,
+        423,
+        342
+      ]
+    },
+    {
+      "text": "- Directed enterprise accounting platforms",
+      "score": 0.9672898054122925,
+      "box": [
+        127,
+        340,
+        517,
+        369
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Accurate Ledger Financial, 2014.072018.10",
+      "score": 0.9938324093818665,
+      "box": [
+        118,
+        384,
+        743,
+        408
+      ]
+    },
+    {
+      "text": "- Directed accounting training programs",
+      "score": 0.9876307249069214,
+      "box": [
+        126,
+        408,
+        494,
+        434
+      ]
+    },
+    {
+      "text": "- Established financial reporting standards",
+      "score": 0.9900137186050415,
+      "box": [
+        126,
+        432,
+        517,
+        459
+      ]
+    },
+    {
+      "text": "Accountants Auditors, EverBalance Accounting, 2010.042014.07",
+      "score": 0.9924432039260864,
+      "box": [
+        118,
+        474,
+        727,
+        498
+      ]
+    },
+    {
+      "text": "- Conducted inventory valuation",
+      "score": 0.9926785826683044,
+      "box": [
+        128,
+        500,
+        424,
+        524
+      ]
+    },
+    {
+      "text": "- Managed monthly close processes",
+      "score": 0.9987195134162903,
+      "box": [
+        127,
+        522,
+        463,
+        551
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Fairview Financial Services, 2006.012010.04",
+      "score": 0.9993830919265747,
+      "box": [
+        118,
+        566,
+        752,
+        590
+      ]
+    },
+    {
+      "text": "- Prepared aging reports",
+      "score": 0.9516494870185852,
+      "box": [
+        126,
+        590,
+        357,
+        619
+      ]
+    },
+    {
+      "text": "- Entered financial data into accounting systems",
+      "score": 0.9671071171760559,
+      "box": [
+        126,
+        613,
+        573,
+        644
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9545742869377136,
+      "box": [
+        116,
+        680,
+        267,
+        707
+      ]
+    },
+    {
+      "text": "Bachelor's, Strategic Management, Oakway University, 2005",
+      "score": 0.994185745716095,
+      "box": [
+        117,
+        726,
+        677,
+        749
+      ]
+    },
+    {
+      "text": "•Studied fundamentals of business performance analysis",
+      "score": 0.9864581823348999,
+      "box": [
+        131,
+        748,
+        666,
+        776
+      ]
+    },
+    {
+      "text": "•Completed coursework in lease accounting",
+      "score": 0.9720682501792908,
+      "box": [
+        132,
+        772,
+        547,
+        803
+      ]
+    }
+  ],
+  "seconds": 2.8073693001642823,
+  "id": "12486",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

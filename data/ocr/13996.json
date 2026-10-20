@@ -1,0 +1,202 @@
+{
+  "lines": [
+    {
+      "text": "NICOLE KERR",
+      "score": 0.9994987845420837,
+      "box": [
+        117,
+        91,
+        348,
+        122
+      ]
+    },
+    {
+      "text": "FL, USA | +1-904-612-3835 | nicole.kerr@example.com",
+      "score": 0.9835386872291565,
+      "box": [
+        117,
+        150,
+        631,
+        177
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9935743808746338,
+      "box": [
+        117,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Registered Nurses, GentleLife Health, 2020.06—2023.01",
+      "score": 0.9937589168548584,
+      "box": [
+        116,
+        288,
+        636,
+        316
+      ]
+    },
+    {
+      "text": "- Established care delivery standards",
+      "score": 0.9803655743598938,
+      "box": [
+        126,
+        314,
+        470,
+        342
+      ]
+    },
+    {
+      "text": "- Led nursing audit programs",
+      "score": 0.9654751420021057,
+      "box": [
+        127,
+        340,
+        397,
+        369
+      ]
+    },
+    {
+      "text": "Registered Nurses, NewHope Care Center, 2017.112020.06",
+      "score": 0.9996827244758606,
+      "box": [
+        116,
+        381,
+        688,
+        409
+      ]
+    },
+    {
+      "text": "- Developed medication management policies",
+      "score": 0.9924176335334778,
+      "box": [
+        126,
+        407,
+        552,
+        434
+      ]
+    },
+    {
+      "text": "- Led clinical governance efforts",
+      "score": 0.9920247197151184,
+      "box": [
+        126,
+        431,
+        426,
+        459
+      ]
+    },
+    {
+      "text": "Registered Nurses, SunPath Care Group, 2014.022016.09",
+      "score": 0.9954252243041992,
+      "box": [
+        118,
+        474,
+        670,
+        498
+      ]
+    },
+    {
+      "text": "- Managed care for chronic conditions",
+      "score": 0.9996118545532227,
+      "box": [
+        126,
+        498,
+        478,
+        524
+      ]
+    },
+    {
+      "text": "- Monitored patient compliance",
+      "score": 0.982094407081604,
+      "box": [
+        127,
+        521,
+        416,
+        551
+      ]
+    },
+    {
+      "text": "Registered Nurses, Harmony Health Group, 2010.042012.12",
+      "score": 0.9997239112854004,
+      "box": [
+        117,
+        565,
+        692,
+        592
+      ]
+    },
+    {
+      "text": "- Checked medication dosages",
+      "score": 0.9949741959571838,
+      "box": [
+        126,
+        590,
+        417,
+        617
+      ]
+    },
+    {
+      "text": "- Monitored intravenous lines",
+      "score": 0.987095296382904,
+      "box": [
+        126,
+        613,
+        398,
+        643
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9998728632926941,
+      "box": [
+        117,
+        681,
+        266,
+        705
+      ]
+    },
+    {
+      "text": "Bachelor's, Health Technology, Goldenbrook University, 2009",
+      "score": 0.9860045313835144,
+      "box": [
+        115,
+        723,
+        686,
+        750
+      ]
+    },
+    {
+      "text": "• Completed coursework in communication in care teams",
+      "score": 0.9927375316619873,
+      "box": [
+        134,
+        750,
+        660,
+        774
+      ]
+    },
+    {
+      "text": "Completed coursework in pathophysiology",
+      "score": 0.9991039633750916,
+      "box": [
+        132,
+        772,
+        541,
+        802
+      ]
+    }
+  ],
+  "seconds": 2.9891137001104653,
+  "id": "13996",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

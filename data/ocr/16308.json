@@ -1,0 +1,132 @@
+{
+  "lines": [
+    {
+      "text": "AMANDA ARNOLD",
+      "score": 0.9996815323829651,
+      "box": [
+        117,
+        90,
+        418,
+        122
+      ]
+    },
+    {
+      "text": "GA, USA | +1-391-748-3644 |amanda.arnold@example.com",
+      "score": 0.9832909107208252,
+      "box": [
+        118,
+        152,
+        680,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9991374611854553,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Elementary Middle School Teachers, Growing Futures Academy, 2020.12—2022.06",
+      "score": 0.9898805022239685,
+      "box": [
+        116,
+        288,
+        885,
+        316
+      ]
+    },
+    {
+      "text": "- Prepared daily lesson plans aligned with curriculum guidelines",
+      "score": 0.9943288564682007,
+      "box": [
+        125,
+        314,
+        717,
+        342
+      ]
+    },
+    {
+      "text": "- Supervised classroom activities",
+      "score": 0.9949173331260681,
+      "box": [
+        128,
+        340,
+        434,
+        366
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999399185180664,
+      "box": [
+        116,
+        404,
+        268,
+        431
+      ]
+    },
+    {
+      "text": "Doctorate, Learning Skills, Meadowridge University, 2009",
+      "score": 0.9987621903419495,
+      "box": [
+        116,
+        447,
+        648,
+        475
+      ]
+    },
+    {
+      "text": "Bachelor's, General Education, Lakeside University, 2004",
+      "score": 0.9915030598640442,
+      "box": [
+        115,
+        472,
+        650,
+        500
+      ]
+    },
+    {
+      "text": "Studied principles of cooperative learning",
+      "score": 0.9998217225074768,
+      "box": [
+        128,
+        497,
+        531,
+        527
+      ]
+    },
+    {
+      "text": "Studied fundamentals of science education",
+      "score": 0.98148512840271,
+      "box": [
+        131,
+        522,
+        547,
+        550
+      ]
+    },
+    {
+      "text": "• Studied principles of student comprehension",
+      "score": 0.9876573085784912,
+      "box": [
+        132,
+        548,
+        559,
+        576
+      ]
+    }
+  ],
+  "seconds": 2.3787179002538323,
+  "id": "16308",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

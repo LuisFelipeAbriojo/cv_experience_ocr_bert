@@ -1,0 +1,182 @@
+{
+  "lines": [
+    {
+      "text": "FABIAN NOBLE",
+      "score": 0.9998552799224854,
+      "box": [
+        117,
+        91,
+        370,
+        121
+      ]
+    },
+    {
+      "text": "IL, USA | +1-571-841-1288 | fabian.noble@example.com",
+      "score": 0.9924350380897522,
+      "box": [
+        118,
+        152,
+        642,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9991946220397949,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, AccuLedger Financial, 2020.05—2023.01",
+      "score": 0.9869731068611145,
+      "box": [
+        115,
+        288,
+        700,
+        316
+      ]
+    },
+    {
+      "text": "- Led cross-functional financial integration",
+      "score": 0.997188925743103,
+      "box": [
+        126,
+        315,
+        513,
+        341
+      ]
+    },
+    {
+      "text": "- Directed financial system architecture",
+      "score": 0.9962692260742188,
+      "box": [
+        127,
+        339,
+        489,
+        368
+      ]
+    },
+    {
+      "text": "Accountants Auditors, CoreCount Services, 2017.082020.05",
+      "score": 0.9910711646080017,
+      "box": [
+        118,
+        383,
+        687,
+        407
+      ]
+    },
+    {
+      "text": "- Developed audit plans",
+      "score": 0.9851886630058289,
+      "box": [
+        127,
+        409,
+        350,
+        433
+      ]
+    },
+    {
+      "text": "- Prepared management reports",
+      "score": 0.9807135462760925,
+      "box": [
+        127,
+        431,
+        427,
+        459
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Integrity Count Services, 2014.112017.08",
+      "score": 0.998252272605896,
+      "box": [
+        117,
+        472,
+        722,
+        499
+      ]
+    },
+    {
+      "text": "- Assisted with financial statement preparation",
+      "score": 0.9819611310958862,
+      "box": [
+        125,
+        497,
+        556,
+        525
+      ]
+    },
+    {
+      "text": "- Maintained supporting documentation",
+      "score": 0.9992215037345886,
+      "box": [
+        128,
+        521,
+        491,
+        550
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999529719352722,
+      "box": [
+        118,
+        588,
+        266,
+        612
+      ]
+    },
+    {
+      "text": "Master's, Business Administration, Brightfield Ridge University, 2013",
+      "score": 0.9891020059585571,
+      "box": [
+        116,
+        632,
+        751,
+        659
+      ]
+    },
+    {
+      "text": "Bachelor's, Applied Finance, Granite Hill University, 2011",
+      "score": 0.971530556678772,
+      "box": [
+        117,
+        658,
+        644,
+        682
+      ]
+    },
+    {
+      "text": "• Completed coursework in tax accounting",
+      "score": 0.9784275889396667,
+      "box": [
+        131,
+        682,
+        525,
+        710
+      ]
+    },
+    {
+      "text": "• Studied principles of business strategy",
+      "score": 0.9873400330543518,
+      "box": [
+        132,
+        706,
+        505,
+        736
+      ]
+    }
+  ],
+  "seconds": 2.7612235001288354,
+  "id": "19079",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

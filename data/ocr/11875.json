@@ -1,0 +1,152 @@
+{
+  "lines": [
+    {
+      "text": "KATELIN BARRY",
+      "score": 0.9714446663856506,
+      "box": [
+        117,
+        91,
+        391,
+        122
+      ]
+    },
+    {
+      "text": "FL, USA | +1-538-584-7901 | katelin.barry@example.com",
+      "score": 0.9750553369522095,
+      "box": [
+        116,
+        149,
+        649,
+        178
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9991827607154846,
+      "box": [
+        118,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Accountants Auditors, Integrity Accounts, 2020.04—2023.01",
+      "score": 0.9828568696975708,
+      "box": [
+        115,
+        288,
+        666,
+        318
+      ]
+    },
+    {
+      "text": "- Designed financial policy frameworks",
+      "score": 0.9861756563186646,
+      "box": [
+        126,
+        314,
+        486,
+        342
+      ]
+    },
+    {
+      "text": "- Developed risk management frameworks",
+      "score": 0.9856106638908386,
+      "box": [
+        127,
+        339,
+        521,
+        367
+      ]
+    },
+    {
+      "text": "Accountants Auditors, CoreLedger Group, 2017.072020.04",
+      "score": 0.9906826615333557,
+      "box": [
+        116,
+        380,
+        674,
+        408
+      ]
+    },
+    {
+      "text": "- Assisted with budget tracking",
+      "score": 0.9950509667396545,
+      "box": [
+        124,
+        402,
+        414,
+        436
+      ]
+    },
+    {
+      "text": "- Processed journal corrections",
+      "score": 0.9831174612045288,
+      "box": [
+        127,
+        431,
+        417,
+        457
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.9999489188194275,
+      "box": [
+        116,
+        494,
+        267,
+        521
+      ]
+    },
+    {
+      "text": "Master's, Public Accounting, Bayside University, 2022",
+      "score": 0.9845827221870422,
+      "box": [
+        115,
+        539,
+        615,
+        568
+      ]
+    },
+    {
+      "text": "Bachelor's, Applied Accounting, Clearwater University, 2020",
+      "score": 0.999126672744751,
+      "box": [
+        116,
+        566,
+        672,
+        593
+      ]
+    },
+    {
+      "text": "•Completed coursework in economics for accounting",
+      "score": 0.9891136884689331,
+      "box": [
+        128,
+        590,
+        627,
+        619
+      ]
+    },
+    {
+      "text": "Studied fundamentals of break-even analysis",
+      "score": 0.988897442817688,
+      "box": [
+        130,
+        614,
+        565,
+        643
+      ]
+    }
+  ],
+  "seconds": 2.492421899922192,
+  "id": "11875",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}

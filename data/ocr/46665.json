@@ -1,0 +1,172 @@
+{
+  "lines": [
+    {
+      "text": "ALEXANDER KEITH",
+      "score": 0.9998168349266052,
+      "box": [
+        117,
+        89,
+        435,
+        122
+      ]
+    },
+    {
+      "text": "PA, USA | +1-688-642-9591 | alexander.keith@example.com",
+      "score": 0.9704341292381287,
+      "box": [
+        117,
+        152,
+        680,
+        176
+      ]
+    },
+    {
+      "text": "WORK HISTORY",
+      "score": 0.9954414963722229,
+      "box": [
+        117,
+        245,
+        315,
+        269
+      ]
+    },
+    {
+      "text": "Construction Laborers, AnchorFrame Construction, 2019.10—2023.01",
+      "score": 0.9923430681228638,
+      "box": [
+        118,
+        290,
+        756,
+        314
+      ]
+    },
+    {
+      "text": "- Supervised high-risk operations",
+      "score": 0.9862966537475586,
+      "box": [
+        127,
+        317,
+        435,
+        341
+      ]
+    },
+    {
+      "text": "- Led structural installation projects",
+      "score": 0.994559109210968,
+      "box": [
+        128,
+        340,
+        452,
+        366
+      ]
+    },
+    {
+      "text": "Construction Laborers, TrueWay Contractors, 2014.082017.11",
+      "score": 0.9928046464920044,
+      "box": [
+        118,
+        383,
+        705,
+        407
+      ]
+    },
+    {
+      "text": "- Reviewed construction drawings",
+      "score": 0.9940909147262573,
+      "box": [
+        125,
+        406,
+        443,
+        435
+      ]
+    },
+    {
+      "text": "- Installed retaining structures",
+      "score": 0.9953315258026123,
+      "box": [
+        128,
+        432,
+        403,
+        458
+      ]
+    },
+    {
+      "text": "Construction Laborers, BuildPoint Co., 2010.042013.07",
+      "score": 0.9959273338317871,
+      "box": [
+        118,
+        473,
+        640,
+        497
+      ]
+    },
+    {
+      "text": "- Maintained cleanliness of work areas",
+      "score": 0.998479962348938,
+      "box": [
+        127,
+        497,
+        485,
+        523
+      ]
+    },
+    {
+      "text": "- Installed basic flooring materials",
+      "score": 0.9945140480995178,
+      "box": [
+        128,
+        520,
+        440,
+        549
+      ]
+    },
+    {
+      "text": "EDUCATION",
+      "score": 0.999938428401947,
+      "box": [
+        118,
+        588,
+        266,
+        612
+      ]
+    },
+    {
+      "text": "Some college (no degree), Building Technology, Brightfield University, 2009",
+      "score": 0.9925056099891663,
+      "box": [
+        117,
+        632,
+        816,
+        659
+      ]
+    },
+    {
+      "text": "• Completed coursework in construction materials identification",
+      "score": 0.9969685673713684,
+      "box": [
+        132,
+        659,
+        715,
+        683
+      ]
+    },
+    {
+      "text": "Completed coursework in construction time management",
+      "score": 0.9865090250968933,
+      "box": [
+        132,
+        680,
+        677,
+        709
+      ]
+    }
+  ],
+  "seconds": 2.5708467001095414,
+  "id": "46665",
+  "width": 1241,
+  "height": 1754,
+  "ok": true,
+  "error": null,
+  "det_model": "PP-OCRv5_mobile_det",
+  "rec_model": "en_PP-OCRv5_mobile_rec"
+}
