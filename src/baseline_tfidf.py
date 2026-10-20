@@ -27,10 +27,17 @@ from src.utils import CAP, METRICS, MODELS, clip_years, load_split, save_json
 ALPHAS = [0.1, 0.3, 1, 3, 10, 30]
 
 
+def _lower(s: str) -> str:
+    return s.lower()
+
+
+def _lower_no_digits(s: str) -> str:
+    return re.sub(r"\d", "0", s.lower())
+
+
 def _prep(keep_digits: bool):
-    if keep_digits:
-        return str.lower
-    return lambda s: re.sub(r"\d", "0", s.lower())
+    # module-level functions (not lambdas) so the fitted pipeline can be pickled
+    return _lower if keep_digits else _lower_no_digits
 
 
 def make_pipeline(alpha: float, keep_digits: bool = True) -> Pipeline:
@@ -86,4 +93,8 @@ def main():
 
 
 if __name__ == "__main__":
-    main()
+    # run through the package import so the pickled pipeline references
+    # src.baseline_tfidf._lower (not __main__._lower) and loads anywhere
+    from src.baseline_tfidf import main as _main
+
+    _main()
