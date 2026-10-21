@@ -211,7 +211,8 @@ with tab2:
         with b:
             row = df[df.id == ex_id].iloc[0]
             st.markdown(f"**True years:** {row.y:.2f}  ·  occupation: {row.occupation}")
-            st.text_area("Cleaned OCR text (model input)", row.text, height=420)
+            st.text_area("Cleaned OCR text (model input)", row.text, height=420,
+                         key=f"ex_txt_{ex_id}")  # key per CV so the box refreshes
     st.caption("Shown side by side so the reader can check reading order: each job title must stay "
                "on the same line as its dates.")
 
@@ -301,7 +302,8 @@ with tab4:
         c1, c2 = st.columns([1, 1])
         c1.image(img, use_container_width=True)
         c2.caption(f"OCR: {len(out['lines'])} lines in {out['seconds']:.1f}s · masked phrases: {sum(hits.values())}")
-        c2.text_area("Extracted and cleaned text", text, height=380)
+        c2.text_area("Extracted and cleaned text", text, height=380,
+                     key=f"up_txt_{up.name}_{up.size}")
         with st.spinner("Predicting ..."):
             preds = {name: float(f([text])[0]) for name, f in get_models().items()}
         st.subheader("Predicted years of experience")
@@ -335,7 +337,7 @@ with tab4:
             img_p = ROOT / "data" / "raw" / "images" / f"{pick}.png"
             if img_p.exists():
                 a.image(str(img_p), use_container_width=True)
-            b.text_area("Cleaned OCR text", r.text, height=420, key="browse_txt")
+            b.text_area("Cleaned OCR text", r.text, height=420, key=f"browse_txt_{pick}")
 
         st.header("Good and bad predictions")
         st.markdown(answer("Examples"))
