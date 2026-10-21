@@ -27,6 +27,6 @@ Thumbs.db
 !data/raw/metadata.csv
 
 # Claude Code local settings
-.claude/settings.local.json
+.claude/
 pipeline.log
 data/*.log

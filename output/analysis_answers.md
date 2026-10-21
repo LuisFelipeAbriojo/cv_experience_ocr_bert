@@ -88,17 +88,25 @@ lines removed) for every model, plus two extra checks (digits in TF-IDF, MSE vs 
 | TF-IDF + Ridge | 0.821 | 0.874 | 1.121 |
 | Embeddings + Ridge | 1.263 | 1.223 | 1.439 |
 | Date rules | **3.138** | **0.025** | 0.593 |
-| Fine-tuned BERT | BERT_RAW | 0.203 | — |
+| Fine-tuned BERT | 0.209 | 0.203 | not trained |
 
 * Cleaning is what makes the rule model work: without the dash repair 51% of ranges are unreadable and
   MAE jumps from 0.025 to 3.1 years.
+* **BERT barely notices**: retrained on raw OCR it reaches 0.209 vs 0.203 (val 0.219 vs 0.197). It
+  learns to read `2017.102020.06` as two dates by itself, so for BERT the cleaning step is cosmetic,
+  while for the rule model it is essential — the clearest sign that the learned model is the more
+  robust choice once inputs get messier.
 * TF-IDF is slightly better on raw OCR (0.82): the glued token `2017.102020.06` is a single feature
   that carries both dates, so a linear model can use it directly.
 * Removing "low-confidence" lines always hurts. Confidence is very high everywhere (no line < 0.95),
   so a 0.98 threshold removes 11.5% of lines, including 6.6% of the job-date lines — the evidence.
   Conclusion: keep every line and repair dates instead of filtering.
 * **Digits in TF-IDF:** removing digits raises MAE from 0.87 to **1.69** — TF-IDF depends on year tokens.
-* **BERT loss:** MSE 0.203 vs Huber BERT_HUBER (see `sensitivity_bert_q3.csv`).
+* **BERT loss:** Huber (δ = 0.1 on the /20 target) beats MSE — test MAE **0.167 vs 0.203**, best
+  validation MAE 0.172 vs 0.197 — at the cost of more epochs (15, no early stop, 103 min vs 88 min).
+  Huber down-weights the few large residuals, so training focuses on the bulk of small errors, which is
+  exactly what MAE rewards. MSE stays the reported main model because it was fixed before seeing the
+  test set; the comparison is in `sensitivity_bert_q3.csv`.
 * **Long-text strategy:** not a real choice here — the longest cleaned CV has ~190 word-pieces, so with
   `max_len=256` head, head+tail and chunking feed identical inputs and every date survives.
 
