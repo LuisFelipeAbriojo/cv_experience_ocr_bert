@@ -27,13 +27,21 @@ Lo que dices va en texto normal; lo que muestras va en *[cursiva entre corchetes
 > Usamos los modelos móviles PP-OCRv5 porque todo corre en la CPU de una laptop: 2,7 segundos por CV,
 > cero imágenes fallidas.
 
-*[Subir a las métricas de OCR]*
+*[Subir a "OCR quality" y señalar las métricas de izquierda a derecha]*
 
-> La calidad es muy alta: 1,2 % de error por carácter y el 99,996 % de los años se leen con los dígitos
-> correctos. Pero encontramos un fallo importante: en la mitad de los rangos, PaddleOCR **se come el
-> guion** entre fechas — "2017.10–2020.06" sale como "2017.102020.06". Nuestra limpieza lo repara, y
-> además elimina nombre, teléfono, correo y estado, y enmascara cualquier frase que diga la respuesta
-> directamente. Revisamos 50 textos a mano: ningún CV decía su experiencia ni su edad.
+> ¿Qué tan bien lee? El error por carácter es de 1,2 % y la confianza media es 0,99.
+> Lo que más nos importa son las fechas: el 99,996 % de los años se lee con los cuatro dígitos
+> correctos. Pero miren esta cifra: solo el 48,6 % de los rangos de fechas sale intacto. ¿Por qué?
+> Porque en la mitad de los rangos PaddleOCR **se come el guion** entre las dos fechas:
+> "2017.10–2020.06" sale como "2017.102020.06". Los dígitos están bien; falta el separador.
+> Como el mes siempre tiene dos dígitos, nuestra limpieza vuelve a insertar el guion, y los rangos
+> correctos suben al 99,6 %.
+
+*[Bajar al CV con cajas y su texto limpio]*
+
+> La limpieza además elimina nombre, teléfono, correo y estado, y busca frases que delaten la
+> respuesta, como "10 años de experiencia" o la edad. Revisamos 50 textos a mano y lo corrimos sobre
+> los 4.000: ningún CV las tenía, así que se enmascararon cero.
 
 ## 3. Por qué es difícil — un ejemplo real [1:20 – 1:55]
 
@@ -72,8 +80,8 @@ Lo que dices va en texto normal; lo que muestras va en *[cursiva entre corchetes
 
 *[Pestaña 4 · ejemplos buenos y malos]*
 
-> Un acierto: en el CV que vimos, BERT dice 9,9 exacto; TF-IDF dice 11,7 porque cuenta el lapso
-> completo. Un error: en el CV 25879, una enfermera con 3 años y un hueco de seis meses, BERT dice 4,2.
+> Un acierto: en el CV que vimos, la respuesta es 9,87 y BERT dice exactamente 9,87; TF-IDF dice 11,6
+> porque se acerca al lapso completo. Un error: en el CV 25879, una enfermera con 3 años y un hueco de seis meses, BERT dice 4,2.
 > Seis de sus diez peores errores son justamente huecos de carrera.
 
 ## 6. ¿Vale la pena BERT? ¿Es justo? [3:40 – 4:45]

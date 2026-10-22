@@ -106,7 +106,8 @@ complexity try to learn it from text.
 * **Never used as features:** age, sex, race, names, state/region. The reference `text` column is
   used **only** to measure OCR error (and for the OCR-noise experiment), never to train.
 * **Masking rule:** phrases stating total experience, age or date of birth are replaced by
-  `[MASKED]`. CVs affected: **{pre.get('n_cvs_masked', '?')}** (job and graduation dates are kept -
+  `[MASKED]`. CVs affected: **{pre.get('n_cvs_masked', '?')}** - 50 random OCR texts were also read by
+  hand and none stated total experience, age or date of birth (job and graduation dates are kept -
   they are the evidence).
 """)
         st.header("OCR setup and reading order")
@@ -163,7 +164,7 @@ with tab2:
     st.header("Years of experience")
     fig("target_distribution")
     st.caption("Histogram + boxplot chosen to show both the overall skew and the differences between "
-               "occupations. Most candidates are junior (median ~5 years) and very few reach the cap, "
+               "occupations. Most candidates are junior (median 5.6 years) and very few reach the cap, "
                "so errors on seniors weigh little in the average but matter a lot to recruiters.")
     if df is not None:
         c = st.columns(4)
@@ -174,12 +175,24 @@ with tab2:
 
     st.header("OCR quality")
     if ocr_q:
-        c = st.columns(5)
+        c = st.columns(3)
         c[0].metric("Mean CER", f"{100 * ocr_q['cer_mean']:.2f}%")
         c[1].metric("Mean WER", f"{100 * ocr_q['wer_mean']:.2f}%")
-        c[2].metric("Years read correctly", f"{100 * ocr_q['year_recall']:.2f}%")
-        c[3].metric("Date ranges read correctly", f"{100 * ocr_q['range_recall']:.2f}%")
-        c[4].metric("Mean confidence", f"{ocr_stats.get('mean_confidence', float('nan')):.3f}")
+        c[2].metric("Mean confidence", f"{ocr_stats.get('mean_confidence', float('nan')):.3f}")
+        c = st.columns(3)
+        c[0].metric("Year digits read correctly", f"{100 * ocr_q['year_recall']:.3f}%",
+                    help="Share of the years in the reference text whose 4 digits appear in the OCR text")
+        c[1].metric("Date ranges intact as read", f"{100 * ocr_q['range_recall']:.1f}%",
+                    delta=f"dash dropped in {100 * ocr_q['dash_dropped_share']:.1f}%", delta_color="inverse")
+        c[2].metric("Date ranges after dash repair", f"{100 * ocr_q['range_recall_after_dash_fix']:.1f}%")
+        st.markdown(
+            f"The digits are almost always right ({100 * ocr_q['year_recall']:.3f}% of all years), but PaddleOCR "
+            f"**drops the en dash** in {100 * ocr_q['dash_dropped_share']:.0f}% of the job ranges: "
+            "`2017.10–2020.06` comes out as `2017.102020.06`, so only "
+            f"{100 * ocr_q['range_recall']:.1f}% of ranges are intact as read. The cleaning step re-inserts "
+            f"the dash (months always have two digits), which brings ranges to "
+            f"{100 * ocr_q['range_recall_after_dash_fix']:.1f}%. The remaining misses are long teacher lines "
+            "where the last digit of the end date is cut (`2023.0`).")
     fig("ocr_quality")
     st.caption("CER/WER histograms show whether errors are spread evenly or concentrated in a few bad "
                "pages; the bar chart isolates what matters most for this task - whether the years were "
